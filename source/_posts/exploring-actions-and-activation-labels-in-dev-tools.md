@@ -1,7 +1,7 @@
 ---
 title: Exploring Actions & Activation Labels in Dev Tools
-date: 2024-06-23 20:30:17
-updated: 2024-06-25 10:38:54
+date: 2024-06-25T16:38:18.810Z
+updated: 2024-06-26T16:38:18.810Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  Windows 10 and 11 both allow aliases to be declared for some apps by default. The available apps vary but are often those commonly associated with command line tools. Giving an app an alias allows it to be executed using a shorter title rather than the full name or path.
 
- App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
+ App aliases can be used in several [Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
 
 ## How to Enable App Execution Aliases in Settings
 
@@ -50,7 +50,7 @@ In Windows 10:
 
 ## Create App Execution Aliases in Registry Editor
 
- Before editing or creating registry keys, it is advisable to[create a full backup of the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Of course, you should also ensure you understand how to restore the Registry from that backup.
+ Before editing or creating registry keys, it is advisable to [create a full backup of the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Of course, you should also ensure you understand how to restore the Registry from that backup.
 
  The process below for creating app execution aliases in the Registry Editor should be the same in both Windows 10 and 11.
 
@@ -84,3 +84,24 @@ In Windows 10:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audacity-error-code-9999-in-windows-1110/"><u>How to Fix the Audacity Error Code 9999 in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/routes-to-success-system32-on-windows-11/"><u>Routes to Success: System32 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-microsoft-visual-cplusplus-redistributable-used-for/"><u>What Is the Microsoft Visual C++ Redistributable Used For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-concepts-a-guide-to-obsidian-visualization/"><u>Captivating Concepts: A Guide to Obsidian Visualization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-activity-lock/"><u>How to Adjust Windows Activity Lock</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-skills-for-youtube-gamers-for-2024/"><u>[Updated] Essential Skills for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/learning-unique-ways-to-slow-down-time-lapse-on-iphone-for-2024/"><u>Learning Unique Ways to Slow Down Time Lapse on iPhone for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-direct-interaction-enhancing-live-broadcasts-with-desktop-share-for-2024/"><u>[New] Direct Interaction  Enhancing Live Broadcasts with Desktop Share for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-15-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 15 Plus Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-f54-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy F54 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clear-sound-conference-experience-via-skype/"><u>[New] In 2024, Clear Sound Conference Experience via Skype</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-augment-your-audibility-the-leading-android-tools-for-voice-recording-change-for-2024/"><u>[Updated] Augment Your Audibility  The Leading Android Tools for Voice Recording Change for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>Pearl-Like Pixels  Tips for Perfect Underwater Footage with GoPro</u></a></li>
+</ul></div>

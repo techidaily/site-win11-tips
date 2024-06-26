@@ -1,7 +1,7 @@
 ---
 title: Mastering .NET Restoration on Your Machine (Max 156)
-date: 2024-06-23 22:23:23
-updated: 2024-06-25 12:43:21
+date: 2024-06-25T16:37:29.911Z
+updated: 2024-06-26T16:37:29.911Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,13 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  If the repair tool doesn’t work, you can use other workarounds to try and fix the framework errors. So, here are a few ways you can repair .NET Framework on your Windows computer.
 
-## 1\. Run the .NET Framework Repair Tool
-
-![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
+## 1\. Run the .NET Framework Repair Tool ![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
 
  An easy way to repair your .NET Framework is to use the official .NET Framework Repair Tool provided by Microsoft on its official website. It is a handy utility that can check for common issues affecting the .NET Framework setup or updates and recommend fixes accordingly.
 
 To run the .NET Framework Repair Tool
 
-1. Go to the[Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
+1. Go to the [Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
 2. Scroll down to the**Download information** section.
 3. Next, click on the**Microsoft .NET Framework Repair Tool** link to download the executable file.
 4. Once downloaded, double-click on the Netfxrepairtool.exe to run the repair tool. Click**Yes** if prompted by**User Account Control.**
@@ -40,7 +38,7 @@ To run the .NET Framework Repair Tool
 
  If the .NET Framework Repair Tool doesn’t work, you can disable and re-enable the feature from Optional Features to repair the framework. This process will disable and re-enable the feature fixing any issue due to temporary glitches and file corruption.
 
- Follow these steps to[add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
+ Follow these steps to [add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
 
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open Control Panel.
@@ -65,7 +63,7 @@ After the restart:
 
 ## 3\. How to Repair .NET Framework Using PowerShell
 
- If the issue persists, try reinstalling .NET Framework on your Windows PC using[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
+ If the issue persists, try reinstalling .NET Framework on your Windows PC using [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
 
 1. Press the**Win** key and type**PowerShell** .
 2. Right-click on**PowerShell** and select**Run as administrator.**
@@ -86,16 +84,14 @@ After the restart:
 
 To manually install older versions of the .NET Framework:
 
-1. Go to the[.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
+1. Go to the [.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
 2. Under the**Supported versions** section, click on the**.NET Framework** version you want to download.
 3. On the next page, click on**Download .NET Framework XX Runtime.**
 4. Once the download is complete, open the download location and run the**dotnetfx.exe** file to launch the setup. Click**Yes** , if prompted by UAC.
 5. Next, follow the on-screen instructions to complete the setup.
 6. Restart your PC and then try to install the app to see if it works.
 
-## 5\. Run the System File Checker Tool
-
-![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
+## 5\. Run the System File Checker Tool ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -130,3 +126,23 @@ To run the System File Checker tool:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/assisting-users-with-erratic-gesture-inputs-in-windows/"><u>Assisting Users with Erratic Gesture Inputs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-and-artificial-intelligence-generating-vibrant-ai-graphics-paint-cocreator/"><u>Windows 11 & Artificial Intelligence: Generating Vibrant AI Graphics (Paint Cocreator)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quash-windows-data-on-launches-tracking/"><u>Quash Windows Data on Launches Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-task-manager-welcome-panel-in-windows-11/"><u>Redefine Task Manager Welcome Panel in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-elevating-your-wsl-2-and-docker-coexistence/"><u>A Guide to Elevating Your WSL 2 & Docker Coexistence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-telnet-activation-on-latest-windows-systems/"><u>Secure Telnet Activation on Latest Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-gopro-selection-a-comparative-review/"><u>[New] Mastering Gopro Selection  A Comparative Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a78-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo A78 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/"><u>DIY Split-Screen Video Tutorials for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-se-2020-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone SE (2020) Factory Reset? | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quicktime-stall-capture-help-for-2024/"><u>QuickTime Stall Capture Help for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/supercharge-discord-fun-the-ultimate-list-of-top-plugins-for-2024/"><u>Supercharge Discord Fun  The Ultimate List of Top Plugins for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-text-magic-for-striking-video-scenes/"><u>In 2024, Perfect Text Magic for Striking Video Scenes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cloud-stop-motion-studio-choosing-the-right-software-for-your-project/"><u>Updated 2024 Approved Cloud Stop Motion Studio Choosing the Right Software for Your Project</u></a></li>
+</ul></div>

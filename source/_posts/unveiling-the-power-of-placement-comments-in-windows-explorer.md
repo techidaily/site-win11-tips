@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Power of Placement Comments in Windows Explorer
-date: 2024-06-24 21:38:29
-updated: 2024-06-25 11:45:16
+date: 2024-06-25T16:32:36.462Z
+updated: 2024-06-26T16:32:36.462Z
 tags:
   - windows10
   - windows11
@@ -82,3 +82,33 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-preparedness-generate-boot-media-in-three-steps/"><u>Windows 11 Preparedness: Generate Boot Media in Three Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-camera-omission-from-windows-dm-display/"><u>Correct Camera Omission From Windows' DM Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-mic-malfunctions-in-windows-os/"><u>Overcoming Xbox Mic Malfunctions in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-of-windows-photo-viewer-in-win11/"><u>Restoring Functionality of Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-modifying-login-credentials-on-win-11/"><u>Quick Guide to Modifying Login Credentials on Win 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-expertly-crafted-money-estimator-apps-for-tiktok-users/"><u>In 2024, Expertly Crafted Money Estimator Apps for TikTok Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot/"><u>[New] The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>Bridge Gaps in Generations of Viewers  6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-14-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi 14 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone XS Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-best-free-premiere-pro-templates-2023/"><u>[Updated] Best Free Premiere Pro Templates 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>[Updated] Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovation-in-iphone-filmmaking-virtual-worlds-for-2024/"><u>Innovation in iPhone Filmmaking  Virtual Worlds for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-camera-selection-the-1-to-18-for-stunning-videos/"><u>Elite Camera Selection - The #1 to #18 for Stunning Videos</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

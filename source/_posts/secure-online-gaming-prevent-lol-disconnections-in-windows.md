@@ -1,7 +1,7 @@
 ---
 title: "Secure Online Gaming: Prevent LoL Disconnections in Windows"
-date: 2024-06-23 23:38:18
-updated: 2024-06-26 12:13:35
+date: 2024-06-25T17:05:39.459Z
+updated: 2024-06-26T17:05:39.459Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
 
-1. Go to the[Riot Games Server Status website](https://status.riotgames.com/) .
+1. Go to the [Riot Games Server Status website](https://status.riotgames.com/) .
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
 ## 2\. Rule Out Internet Issues
 
- If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
+ If Riot servers are fully active, your internet might be the problem. Test your internet speed using [free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
 
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
@@ -69,9 +69,7 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
 Proceed to the next step if the above checks and fixes do not help.
 
-## 3\. Connect to a Different Network
-
-![WiFi symbol seen on a smartphone next to a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secure-smartphone-hotspot.jpg)
+## 3\. Connect to a Different Network ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
@@ -83,7 +81,7 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Due to League of Legends' online nature, tens of requests are communicated between your device and Riot servers every second. Wide-scale communications can cause Windows Defender's firewall or your antivirus to consider this activity harmful and block the connection after a certain number of requests.
 
- To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on[whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
+ To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on [whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
 
  You will need to whitelist the EXE file, so here is the path to the executable:
 
@@ -104,9 +102,9 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ## 6\. Report the Problem to Riot Games
 
- Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
+ Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the [League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
- If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
+ If the support team asks about logs, run the [Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 ## Fix the League of Legends Disconnecting Issue
 
@@ -127,3 +125,23 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-end-task-control-for-window-management/"><u>Utilizing End Task Control for Window Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-login-lock-ups-with-rust-and-windows/"><u>Navigating Through Steam Login Lock-Ups with Rust & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-muted-slack-notifications-on-windows-11/"><u>Addressing Muted Slack Notifications on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-windows-camera-problems-with-expert-tips/"><u>Tackle Windows Camera Problems with Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-successfully-unplug-epic-games-from-your-w11-system/"><u>How to Successfully Unplug Epic Games From Your W11 System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-gamers-guide-to-twisting-videos-on-youtube-2e-for-2024/"><u>[Updated] A Gamer's Guide to Twisting Videos on YouTube (2E) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-topping-video-content-on-youtube-for-2024/"><u>Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/feast-your-eyes-on-9-whole-film-winter-wonders-no-charge-in-2024/"><u>Feast Your Eyes on 9 Whole-Film Winter Wonders  No Charge, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features-for-2024/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-blending-tracks-using-audacity-crossfade-tools/"><u>[New] Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-chromebook-video-editing-made-easy-top-online-tools/"><u>Updated 2024 Approved Chromebook Video Editing Made Easy Top Online Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/securing-stunning-media-backdrops-at-cost-effective-rates/"><u>Securing Stunning Media Backdrops at Cost-Effective Rates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-defy-2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Defy 2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+</ul></div>

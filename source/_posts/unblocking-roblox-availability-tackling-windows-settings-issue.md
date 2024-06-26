@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Roblox Availability: Tackling Windows Settings Issue"
-date: 2024-06-23 20:11:59
-updated: 2024-06-24 12:27:31
+date: 2024-06-25T16:59:31.301Z
+updated: 2024-06-26T16:59:31.301Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
  The error under discussion is primarily caused when your account's two settings are misconfigured: privacy and parental controls. Therefore, you should review both settings to determine whether any restrictions have been imposed by default or by someone else. Follow these steps to view these settings and make the necessary changes:
 
 1. First, close the Roblox Player app or Roblox launcher if you have it open.
-2. Open your preferred web browser, go to the[Roblox website](https://www.roblox.com/) , and sign in to your Roblox account.
+2. Open your preferred web browser, go to the [Roblox website](https://www.roblox.com/) , and sign in to your Roblox account.
 3. Once signed in, click on the**gear icon** in the top-right corner and select**Settings** .  
 ![Go to Settings on the Roblox Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-settings-on-the-roblox-website.jpg)
 4. Select the**Privacy** tab on the left.
@@ -83,7 +83,7 @@ If none of the above fixes help, proceed with the remaining steps.
 
  To confirm this, sign out of the Roblox Player app and the Roblox website and create a new temporary account using either of these clients. Once you have created your new account, log into it and change your account settings as described above. After that, run the same experiences again where you encountered the error earlier.
 
- If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the[Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
+ If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the [Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
 
 ## Run Roblox Experiences Without a Hitch
 
@@ -104,3 +104,26 @@ If none of the above fixes help, proceed with the remaining steps.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-win11-personalized-volume-shortcuts/"><u>The Essentials of Win11 Personalized Volume Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-0x0000011b-failures-in-windows-os/"><u>How to Stop 0X0000011B Failures in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-persistence-of-user-defined-volume-mixer/"><u>Ensuring Persistence of User-Defined Volume Mixer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-deactivated-office-alerts-in-windows/"><u>Resolving Deactivated Office Alerts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-security-top-5-fixes-for-access-denied-errors/"><u>Mastering Windows 11 Security: Top 5 Fixes for Access Denied Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-digital-desktop-with-engaging-time-themed-screensavers-using-these-5-tools/"><u>Enhance Your Digital Desktop with Engaging Time-Themed Screensavers Using These 5 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-profile-correction-for-w11-oses/"><u>Mastering User Profile Correction for W11 OSes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perpetual-display-documentation-firms-for-2024/"><u>[Updated] Perpetual Display Documentation Firms for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-select-top-6-slide-show-making-tools-on-latest-iphones/"><u>[New] Select Top 6 Slide Show Making Tools on Latest iPhones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-x7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find X7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-tips-and-tricks-reversing-video-clips-like-a-pro/"><u>New 2024 Approved Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tech-insight-pulling-and-keeping-twitters-vids-in-phone/"><u>[New] Tech Insight  Pulling and Keeping Twitters Vids in Phone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prevent-youtube-spam-channel-blocking-guide-for-all-platforms/"><u>Prevent Youtube Spam  Channel Blocking Guide for All Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-a79-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo A79 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Use the Windows Package Manager on Windows 11
-date: 2024-06-23 11:26:25
-updated: 2024-06-24 12:24:34
+date: 2024-06-25T16:20:24.003Z
+updated: 2024-06-26T16:20:24.003Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
-![remove reinstall microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-reinstall-microsoft-store-windows-11.jpg)
+![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
 
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
@@ -58,7 +58,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager does not come pre-installed on Windows, so you’ll have to download it manually. Fortunately, the installation process is straightforward and shouldn’t pose any hurdles.
 
- Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to[log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
+ Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to [log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
 
  There are two main ways of installing the Windows Package Manager on Windows 11.
 
@@ -102,7 +102,7 @@ For example, to search for zipping programs, you can type:
 
 `winget search zip`
 
- Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
+ Alternatively, you can use a [third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
 ### 3\. How to View Installed Applications
 
@@ -110,9 +110,7 @@ For example, to search for zipping programs, you can type:
 
 `winget list`
 
-### 4\. How to View Application Details
-
-![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
+### 4\. How to View Application Details ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
  To look into the installation details and software version of a specific app, you can use the following command:
 
@@ -137,3 +135,27 @@ For example, to search for zipping programs, you can type:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/beginners-path-to-w11-audio-recording/"><u>Beginner's Path to W11 Audio Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-11-integrity-through-activation-verification/"><u>Assessing Windows 11 Integrity Through Activation Verification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-clean-boot-a-beginners-approach/"><u>Windows 11 Clean Boot: A Beginner's Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-connection-failsafes-in-windows/"><u>Overcoming Printer Connection Failsafes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructingdarkmodeonwindowsnotepad/"><u>InstructingDarkModeOnWindowsNotepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-game-capture-denial-due-to-low-specs/"><u>Fixing Windows Game Capture Denial Due to Low Specs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purple-pandemonium-restore-your-pcs-color-calibration/"><u>Purple Pandemonium? Restore Your PC's Color Calibration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-mp4-videos-with-the-power-of-srt-2024-guidebook/"><u>[New] Perfecting Your MP4 Videos with the Power of SRT (2024 Guidebook)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide  Culinary Video Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-master-your-minds-library-utilize-mematic-for-2024/"><u>[New] Master Your Mind's Library - Utilize Mematic for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-to-record-and-screen-capture-ios-2023-for-2024/"><u>[Updated] Easy Steps to Record and Screen Capture [iOS, 2023] for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-obs-studio-is-a-free-and-open-source-app-for-screen-casting-and-live-streaming-for-2024/"><u>New OBS Studio Is a Free and Open-Source App for Screen-Casting and Live Streaming for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-re-imagine-your-igtv-content-the-complete-guide-to-edits/"><u>[Updated] 2024 Approved  Re-Imagine Your IGTV Content  The Complete Guide to Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-universal-techniques-for-streaming-to-disk-from-youtube/"><u>[New] In 2024, Universal Techniques for Streaming to Disk From YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/8-mistakes-to-avoid-as-a-new-youtuber/"><u>8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-captivating-audiences-in-tiktok-unpack-videos/"><u>In 2024, Master the Art of Captivating Audiences in TikTok Unpack Videos</u></a></li>
+</ul></div>

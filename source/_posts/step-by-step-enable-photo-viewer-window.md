@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Enable Photo Viewer Window"
-date: 2024-06-24 17:40:16
-updated: 2024-06-26 11:45:22
+date: 2024-06-25T16:14:18.615Z
+updated: 2024-06-26T16:14:18.615Z
 tags:
   - windows10
   - windows11
@@ -34,17 +34,17 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
- The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 ### 2\. Download ViVeTool
 
- You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+ You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
 2. Now, navigate to the main directory in C drive. Type**cd C:\\ command** and press the enter key.
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
@@ -108,3 +108,22 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-amd-gpu-software-on-pcs/"><u>Restoring Functionality to AMD GPU Software on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284663391-version-compatibility/"><u>Version Compatibility:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-java-vm-not-found-issue-on-windows-devices/"><u>Fixing Java VM Not Found Issue on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-ease-to-windows-11s-security-management/"><u>Navigate with Ease to Windows 11’S Security Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-of-error-80080300-a-guide-to-enhanced-teamwork-on-windows/"><u>Breaking Barriers of Error 80080300: A Guide to Enhanced Teamwork on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-window-11-style-hacks-and-themes/"><u>Exclusive Window 11 Style Hacks & Themes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlock-your-instagrams-potential-best-safe-gratis-friender-tools-iosandroid/"><u>In 2024, Unlock Your Instagram's Potential  Best Safe, Gratis Friender Tools (iOS/Android)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/free-facebook-management-smart-post-scheduling-tips/"><u>Free Facebook Management  Smart Post Scheduling Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-combined-video-narrative-on-iphone/"><u>[Updated] Crafting a Combined Video Narrative on iPhone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/echoes-of-tomorrow-7-pioneering-sound-alterations-redefining-music-production/"><u>Echoes of Tomorrow 7 Pioneering Sound Alterations Redefining Music Production</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-engagement-top-hashtags-for-gameplay-vids-for-2024/"><u>[Updated] Elevate Engagement  Top Hashtags for Gameplay Vids for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Edge 40 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/guard-against-gimmicky-validations-instagrams-hidden-hazard-for-2024/"><u>Guard Against Gimmicky Validations  Instagram's Hidden Hazard for 2024</u></a></li>
+</ul></div>

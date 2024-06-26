@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Issue: Error Code 0X80073712"
-date: 2024-06-21 13:55:50
-updated: 2024-06-24 12:46:58
+date: 2024-06-25T16:57:25.558Z
+updated: 2024-06-26T16:57:25.558Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ Here’s how to perform a complete system shutdown:
 
 Repeat the following steps to start the necessary services:
 
-1. Press**Win + R** to[launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
+1. Press**Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
 2. Services utility will launch on your system. Now locate the**Background Intelligent Transfer** service in the list.
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
@@ -79,15 +79,12 @@ Repeat the following steps:
 
 1. Open the Start menu and search CMD. Press Ctrl + Shift + Enter to open the command prompt with admin privileges.
 2. Type the following commands to stop all the Windows update-related services:  
- net stop wuauserv net stop cryptSvc net stop bits net stop msiserver  
-![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
+ net stop wuauserv net stop cryptSvc net stop bits net stop msiserver ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
- ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
-![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
+ ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
-net start wuauserv net start cryptSvc net start bits net start msiserver  
-![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
+net start wuauserv net start cryptSvc net start bits net start msiserver ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 7. Open the Windows update in Settings and try to download and install updates.
 
@@ -111,7 +108,7 @@ Retrace the following steps to delete the pending.xml file:
 
 ## 8\. Reset Windows
 
- Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+ Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning [how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as [SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
 
 ## Update Windows Without Hiccups
 
@@ -132,3 +129,26 @@ Retrace the following steps to delete the pending.xml file:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boost-security-enlarge-pins-best-practices-in-windows-1111/"><u>Boost Security, Enlarge Pins: Best Practices in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-stuck-scrollbar-and-freezing-pages-in-microsoft-excel-on-windows/"><u>Stop Stuck Scrollbar & Freezing Pages in Microsoft Excel on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unclog-the-windows-vds-startup-process/"><u>How to Unclog the Windows VDS Startup Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-user-experience-customizing-windows-11-defaults/"><u>Enhancing Your User Experience: Customizing Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strikes-winning-warfare-without-lag-in-star-wars-bf2/"><u>Swift Strikes: Winning Warfare Without Lag in Star Wars BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-ais-individuality-and-innovation/"><u>A Closer Look at AI's Individuality and Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-performance-skyrocketing-vram-in-win1011-systems/"><u>Enhance Performance: Skyrocketing VRAM in Win10/11 Systems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-freeze-frame-sequence-effect-for-2024/"><u>Updated How to Create a Freeze Frame Sequence Effect for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-techniques-to-captivate-viewers-with-facebook-covers/"><u>[New] 2024 Approved  Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-expert-approved-stop-motion-animation-software-for-mac-and-pc/"><u>Updated 2024 Approved Expert-Approved Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-hot-30i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Hot 30i</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-accessing-the-latest-events-streaming-facebook-live-through-roku/"><u>[New] In 2024, Accessing the Latest Events  Streaming Facebook Live Through Roku</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-charting-a-profitable-course-ytp2024-for-channels-and-cash-flows/"><u>[Updated] Charting a Profitable Course - YTP2024 for Channels & Cash Flows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mastering-the-art-of-aiff-to-mp3-conversion/"><u>Updated In 2024, Mastering the Art of AIFF-to-MP3 Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-must-have-mac-tts-apps-for-seamless-communication/"><u>In 2024, Must-Have Mac TTS Apps for Seamless Communication</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/"><u>Add Music In Premiere Pro for 2024</u></a></li>
+</ul></div>

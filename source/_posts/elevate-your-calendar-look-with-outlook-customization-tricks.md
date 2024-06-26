@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Calendar Look with Outlook Customization Tricks
-date: 2024-06-23 19:55:56
-updated: 2024-06-26 10:22:22
+date: 2024-06-25T16:11:14.613Z
+updated: 2024-06-26T16:11:14.613Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 
  Once you’ve set up Microsoft 365 on your Windows PC, you can enable Outlook for Windows preview by sliding the **Try the new Outlook** toggle button in the top-right corner of your Microsoft Outlook client.
 
- Fortunately, you can[access the Outlook for Windows Preview app for free](https://www.makeuseof.com/outlook-preview-app-windows/) on Windows 10 and 11, even if you do not have a valid Microsoft 365 license. Here's how you can quickly get the Outlook for Windows preview app:
+ Fortunately, you can [access the Outlook for Windows Preview app for free](https://www.makeuseof.com/outlook-preview-app-windows/) on Windows 10 and 11, even if you do not have a valid Microsoft 365 license. Here's how you can quickly get the Outlook for Windows preview app:
 
 1. From the **Start** menu, launch the **Microsoft Store**.
 2. Search for **Mail** and install the app if you don't already have it.
@@ -63,9 +63,7 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
 * Who is the meeting organizer is
 * Whether the event has been canceled or is a draft
 * What category the meeting belongs to
-* Whether the event is repetitive or set as private
-
-![meetings filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/meetings-filter.jpg)
+* Whether the event is repetitive or set as private ![meetings filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/meetings-filter.jpg)
 
  To access the filter options for your Outlook Calendar, select the **Calendar** icon from the left sidebar and then click on the **View** tab from the Ribbon. Select the **Filter** button and choose the required filter criteria from the dropdown menu.
 
@@ -119,3 +117,29 @@ thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab7
  Thanks to the incredible customization options available in the Outlook preview, you can get more organized and productive. Microsoft has added plenty of exciting features in the new Outlook preview app and has given its users something exciting to look forward to.
 
  Read on as we discuss how to customize the Outlook calendar to suit your needs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/quick-jump-to-notes-starting-windows-with-immediate-access/"><u>Quick Jump to Notes: Starting Windows with Immediate Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-quick-fix-for-active-directory-domain-services-printer-errors/"><u>Comprehensible Guide: Quick Fix for Active Directory Domain Services Printer Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-unintentional-erasure-of-panel-settings-by-cp/"><u>Techniques to Prevent Unintentional Erasure of Panel Settings by CP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-and-streamlining-the-microsoft-store-in-win11/"><u>Unblocking and Streamlining the Microsoft Store in Win11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-beginner-to-pro-6-adobe-premiere-tips-to-transform-your-video-editing-for-2024/"><u>From Beginner to Pro 6 Adobe Premiere Tips to Transform Your Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/electing-gear-for-youtube-a-filmmakers-essentials/"><u>[New] Selecting Gear for YouTube  A Filmmaker's Essentials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-selecting-the-perfect-ogg-converter-for-2024/"><u>New The Ultimate Guide to Selecting the Perfect OGG Converter for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/orm-picker-optimal-content-on-youtube-or-tiktok/"><u>Platform Picker  Optimal Content on Youtube or TikTok?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-slideshow-templates-teach-you-about-aesthetic/"><u>What Slideshow Templates Teach You About Aesthetic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-insider-secrets-to-captivating-facecam-videos-for-2024/"><u>[Updated] Insider Secrets to Captivating Facecam Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>[New] Swiftly Enhanced Facebook Videos  Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-harmony-hub-tech-evolution-for-2024/"><u>[Updated] Harmony Hub  Tech Evolution for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Implementing Windows 11'S Revamped Widget Interface
-date: 2024-06-22 11:51:14
-updated: 2024-06-25 12:17:16
+date: 2024-06-25T16:57:17.218Z
+updated: 2024-06-26T16:57:17.218Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,7 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
-## How to Enable the Redesigned Widgets Picker Using ViveTool
-
-![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
+## How to Enable the Redesigned Widgets Picker Using ViveTool ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -65,3 +63,34 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-user-experience-customizing-windows-11-defaults/"><u>Enhancing Your User Experience: Customizing Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-future-of-windows-interface-winbubbles-8-innovations/"><u>The Future of Windows Interface: WinBubble's 8 Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforced-graphics-elevating-edges-protected-mode/"><u>Reinforced Graphics: Elevating Edge's Protected Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-save-settings-restoration-in-windows-1011s-pubg/"><u>Mastering Save Settings Restoration in Windows 10/11'S PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-books-8-effective-studying-tips-on-windows/"><u>Mastering the Books: 8 Effective Studying Tips on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-self-initiating-open-of-search-bar-win11-help/"><u>Cease Self-Initiating Open of Search Bar, Win11 Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-sound-glitch-error-0xc00d36b4-on-win11/"><u>Bypassing Sound Glitch: Error 0XC00D36B4 on Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-filmmaking-implementing-callout-lines-in-edits/"><u>Digital Filmmaking  Implementing Callout Lines in Edits</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-unlock-professional-looking-videos-top-10-free-green-screen-apps/"><u>In 2024, Unlock Professional-Looking Videos Top 10 Free Green Screen Apps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-apps-for-children-a-mix-of-free-and-paid-favorites/"><u>Updated Best Video Editing Apps for Children A Mix of Free and Paid Favorites</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-do-color-correction-in-gopro-studio/"><u>How to Do Color Correction in GoPro Studio</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-f25-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo F25 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-audio-and-visual-quality-in-youtube-videos/"><u>In 2024, Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial/"><u>Step-by-Step to Smiles and Laughter  Your Snapchat Gif Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>[Updated] Mastering Gaming Nostalgia  Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

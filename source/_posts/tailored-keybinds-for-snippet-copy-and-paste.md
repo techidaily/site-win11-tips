@@ -1,7 +1,7 @@
 ---
 title: Tailored Keybinds for Snippet Copy & Paste
-date: 2024-06-23 14:47:30
-updated: 2024-06-25 10:10:32
+date: 2024-06-25T16:48:41.719Z
+updated: 2024-06-26T16:48:41.719Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,12 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
- QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
+ QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
 
-1. Open[this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
+1. Open [this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
-4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
 
-1. Open this[HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
+1. Open this [HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
 2. Select**Download** on the HotkeyP page.
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
@@ -105,3 +105,26 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/obsolete-windows-aesthetics-gone-for-good/"><u>Obsolete Windows Aesthetics, Gone for Good</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11-search-quick-fixes-to-follow/"><u>Mastery of Windows 11 Search: Quick Fixes to Follow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-update-anomaly-error-0xca00a009/"><u>Eliminating Windows Update Anomaly: Error 0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-versatile-applications-top-10-ways-to-use-powertoys/"><u>Explore Versatile Applications: Top 10 Ways to Use PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-better-words-best-windows-software-for-scribes/"><u>Unlock Better Words: Best Windows Software for Scribes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-open-mouse-settings-efficiently-in-win11/"><u>Essential Tips: Open Mouse Settings Efficiently in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-camera-error-0xa00f425d/"><u>Fixing Windows 10/11 Camera Error: 0XA00F425D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-win11-ui-with-enlarged-icons/"><u>Transform Your Win11 UI with Enlarged Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-effortless-transitions-into-game-fullscreen/"><u>Secrets to Effortless Transitions Into Game FullScreen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimming-made-easy-preserve-video-quality-with-these-tips/"><u>Updated Mac VLC Trimming Made Easy Preserve Video Quality with These Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-12plus-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme 12+ 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-caller-id-changers-the-magic-app-series/"><u>Premium Caller ID Changers  The Magic App Series</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos/"><u>[New] 2024 Approved  Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-minecraft-branding-tools-download/"><u>[Updated] In 2024, Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-fidelity-webcams-for-professional-podcasting/"><u>[New] High-Fidelity Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-extra-memory-solution-for-sony-a7c-for-2024/"><u>Superior Extra Memory Solution for Sony A7C for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y100i-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>[New] Navigating Video Sharing  From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi 14 Pro | Dr.fone</u></a></li>
+</ul></div>

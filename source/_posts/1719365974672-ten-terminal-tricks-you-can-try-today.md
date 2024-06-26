@@ -1,7 +1,7 @@
 ---
 title: Ten Terminal Tricks You Can Try Today!
-date: 2024-06-25 10:34:50
-updated: 2024-06-26 12:54:14
+date: 2024-06-25T16:37:10.069Z
+updated: 2024-06-26T16:37:10.069Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
  Command Prompt holds almost endless possibilities, and it's doubtful many know the full extent of what a few lines of code can accomplish. Whether you're a Command Prompt expert or you just like to pull it up to show off, here are 5 fun or interesting things you can see in Command Prompt, right now.
 
-## 1\. Customize Your Look
-
-![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+## 1\. Customize Your Look ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -32,9 +30,7 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
-## 2\. Watch Star Wars on Command Prompt
-
-![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+## 2\. Watch Star Wars on Command Prompt ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -51,9 +47,7 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-## 3\. More Telnet Fun: Command Prompt Aquarium
-
-![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
+## 3\. More Telnet Fun: Command Prompt Aquarium ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
@@ -63,9 +57,7 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
-## 4\. Change the Window Title
-
-![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
+## 4\. Change the Window Title ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -85,9 +77,7 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
-## 6\. Shut Down Your Computer Without the Mouse or Power Button
-
-![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
+## 6\. Shut Down Your Computer Without the Mouse or Power Button ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
@@ -100,3 +90,31 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-your-machine-windows-11s-bloatware-hack/"><u>Rejuvenate Your Machine: Windows 11'S Bloatware Hack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-flashing-display-issues-on-windows-11/"><u>Quick Fix for Flashing Display Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-internal-rdp-problems-on-windows-os/"><u>Eliminating Internal RDP Problems on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-resolving-windows-error-code-0xc0000001/"><u>Expert Advice on Resolving Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-wsl-factor-in-the-linux-desktop-landscape/"><u>The WSL Factor in the Linux Desktop Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-try-now-bluetooth-hurdle-on-pcs-and-tablets/"><u>Bypass 'Try Now' Bluetooth Hurdle on PCs & Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-instagram-repost-strategies/"><u>2024 Approved  Essential Instagram Repost Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>[New] Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-g310-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G310 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-speak-in-style-play-to-win-transforming-your-virtual-identity-with-morphvox-for-streaming-games/"><u>New In 2024, Speak in Style, Play to Win Transforming Your Virtual Identity with Morphvox for Streaming Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/create-cartoons-like-a-pro-top-10-tools-for-pc-and-web/"><u>Create Cartoons Like a Pro Top 10 Tools for PC and Web</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-solving-iphone-xs-trust-issues-fixing-facial-detection-glitches/"><u>[Updated] Solving iPhone X's Trust Issues  Fixing Facial Detection Glitches</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-comprehensive-dissection-of-tiktoks-pfp-code/"><u>[New] A Comprehensive Dissection of TikTok's PFP Code</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[New] Earn Big on YouTube Shorts  Tips for Profitable Content Creation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-maximize-your-productivity-top-mac-speech-recognition-apps-that-are-free-and-dont-need-to-be-downloaded/"><u>Updated In 2024, Maximize Your Productivity Top Mac Speech Recognition Apps That Are Free and Dont Need to Be Downloaded</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "Steps to Solve Windows Error: Exception Breakpoint Encountered"
-date: 2024-06-23 20:41:42
-updated: 2024-06-24 12:44:21
+date: 2024-06-25T16:27:57.335Z
+updated: 2024-06-26T16:27:57.335Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ To disable startup apps on Windows:
 
 Follow these steps to run the DISM and System File Checker tools:
 
-1. Open Command Prompt as an administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you need help).
+1. Open Command Prompt as an administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you need help).
 2. In the Command Prompt window, type the following command to check your system health:  
 `Dism /Online /Cleanup-Image /CheckHealth`
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
@@ -79,7 +79,7 @@ To run the CHKDSK tool:
 
  While an overclocked GPU offers performance benefits, it can cause your system to crash and trigger multiple errors if not done correctly. Whether you have used a third-party GPU overclocking tool or a proprietary app from your GPU manufacturer, undo all the recent instances of GPU overclocking to see if that helps fix this error.
 
- If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
+ If you need help with overclocking, check out [the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
 ## 5\. Check for Memory Leaks
 
@@ -98,7 +98,7 @@ To run the CHKDSK tool:
 
 ## 6\. Create a New Windows Local Account
 
- A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can[create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
+ A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can [create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
 ## 7\. Update or Uninstall the Problematic App
 
@@ -138,3 +138,26 @@ To uninstall an application on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/stop-file-explorer-freezes-in-win11-with-these-fixes/"><u>Stop File Explorer Freezes in Win11 With These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-track-of-windows-shots-folders/"><u>Keeping Track of Windows Shots' Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-edge-always-active-on-windows-11-guide/"><u>Is Edge Always Active on Windows 11? Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfettered-functions-embrace-tiny11s-power/"><u>Unfettered Functions: Embrace Tiny11's Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-in-action-how-to-fix-error-code-0x800700e9-on-your-xbox-game-pass-windows-11-device/"><u>Expertise in Action: How to Fix Error Code 0X800700E9 on Your Xbox Game Pass, Windows 11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-aspect-ratio-mastery-a-step-by-step-tiktok-guide/"><u>New In 2024, Aspect Ratio Mastery A Step-by-Step TikTok Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-x-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone X?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>In 2024, The Interface Interlink  Bridging IG & TikTok Worlds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>In 2024, From Script to Screen  YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-supercharge-videos-download-premium-effs-for-2024/"><u>[Updated] Supercharge Videos - Download Premium Effs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/next-gen-screen-capture-unleashed-apeaksofts-2023-review-for-2024/"><u>Next-Gen Screen Capture Unleashed  Apeaksoft’s 2023 Review for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-edit-avi-videos-on-the-go-best-mobile-and-online-video-cutters/"><u>Updated In 2024, Edit AVI Videos on the Go Best Mobile and Online Video Cutters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-curated-list-of-premium-podcast-enhancement-tools-for-2024/"><u>A Curated List of Premium Podcast Enhancement Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality-for-2024/"><u>Navigate and Watch  Harnessing Netflix's Picture-in-Picture Functionality for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+</ul></div>

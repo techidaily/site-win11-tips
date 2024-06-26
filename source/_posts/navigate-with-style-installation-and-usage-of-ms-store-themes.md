@@ -1,7 +1,7 @@
 ---
 title: "Navigate With Style: Installation and Usage of MS Store Themes"
-date: 2024-06-24 16:33:27
-updated: 2024-06-26 10:26:32
+date: 2024-06-25T16:34:51.322Z
+updated: 2024-06-26T16:34:51.322Z
 tags:
   - windows10
   - windows11
@@ -47,9 +47,7 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
  Installing a new theme isn't where the customization ends, though. For example, after installing a new theme, head to the top of the**Themes** section on your**Personalization** settings menu. From there, you can tweak the background, color, sounds, and even the mouse cursor of your PC. So, there's a lot of room for fiddling around with your new themes.
 
-### How to Adjust the Cursor Settings
-
-![mouse properties](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mouse-properties-1.JPG)
+### How to Adjust the Cursor Settings ![mouse properties](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mouse-properties-1.JPG)
 
  If you click on**Mouse cursor** , the**Mouse Properties** dialog box launch. You will see a host of tabs like**Buttons** ,**Pointers** , and more, that will help you tweak your mouse settings on Windows. For example, click on the**Pointers** tab to see the various ways you can tweak the appearance of your mouse.
 
@@ -63,7 +61,7 @@ Here's how you can pick a new theme color on your Windows:
 
 ![color settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/color-settings-1.JPG)
 
- If you're a fan of dark themes, why not try one of[the best Windows dark themes](https://www.makeuseof.com/windows-11-dark-themes/) ?
+ If you're a fan of dark themes, why not try one of [the best Windows dark themes](https://www.makeuseof.com/windows-11-dark-themes/) ?
 
 ### How to Change Your Theme's Font
 
@@ -73,7 +71,7 @@ Here's how you can pick a new theme color on your Windows:
 2. Select a specific font to preview how it looks on your document.
 3. Pick the**Font** .
 
- That's it; you'll have a new theme font from here on. Before you exit, though, just make sure you click on the**Save theme** button to solidify the changes. And if you want, you can even[change the default font on Windows](https://www.makeuseof.com/tag/the-only-way-to-change-the-default-font-in-windows-10/) .
+ That's it; you'll have a new theme font from here on. Before you exit, though, just make sure you click on the**Save theme** button to solidify the changes. And if you want, you can even [change the default font on Windows](https://www.makeuseof.com/tag/the-only-way-to-change-the-default-font-in-windows-10/) .
 
 ## Installing and Using a Theme on Your Windows PC
 
@@ -95,3 +93,22 @@ Here's how you can pick a new theme color on your Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolving-file-corrupted-error-x70-on-windows-1011/"><u>Swiftly Resolving 'File Corrupted' Error X70 on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-window-updates-blocked-by-error-2e/"><u>Fix Window Updates Blocked by Error 2E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-winrars-summation-missteps-with-6-fixes/"><u>Combatting WinRAR's Summation Missteps with 6 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedite-your-browser-eliminating-youtube-stalls-in-chrome/"><u>Expedite Your Browser: Eliminating YouTube Stalls in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-modify-mouses-double-click-speed/"><u>Ultimate Guide to Modify Mouse's Double-Click Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-suppression-of-windows-11-notifications/"><u>Immediate Suppression of Windows 11 Notifications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-subtitle-switch-up-success-strategies-highlighted/"><u>[Updated] SRT Subtitle Switch-Up  Success Strategies Highlighted</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unleash-creativity-in-tiktok-top-50plus-inspiring-quotes/"><u>[Updated] In 2024, Unleash Creativity in TikTok  Top 50+ Inspiring Quotes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-ai-assistants-into-slides-with-s2t/"><u>In 2024, Integrating AI Assistants Into Slides with S2T</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-7-ways-to-make-gif-from-videos-on-mac/"><u>In 2024, 7 Ways to Make GIF From Videos on Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-a05s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-15-must-see-latest-trends-in-the-world-of-tiktok/"><u>[Updated] 15 Must-See Latest Trends in the World of TikTok</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-of-free-top-mpeg-video-splitter-programs/"><u>New 2024 Approved The Best of Free Top MPEG Video Splitter Programs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-how-to-for-controlling-youtube-playback-speed/"><u>[Updated] The Ultimate How-To for Controlling YouTube Playback Speed</u></a></li>
+</ul></div>

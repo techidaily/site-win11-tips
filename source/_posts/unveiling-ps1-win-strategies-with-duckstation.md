@@ -1,7 +1,7 @@
 ---
 title: Unveiling PS1 Win Strategies with Duckstation
-date: 2024-06-24 17:23:48
-updated: 2024-06-25 11:40:58
+date: 2024-06-25T16:38:01.063Z
+updated: 2024-06-26T16:38:01.063Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,7 @@ Duckstation's installation differs depending on the platform:
 
  We'll be using its "primary" variant, the Windows version, for this article. Everything we'll see, except for the installation method, should be (more or less) applicable to the other versions.
 
-1. Go to[Duckstation's official Github page](https://github.com/stenzek/duckstation) and download the app. Duckstation does not include an installer, so simply extract its archive to a folder of your choice.
+1. Go to [Duckstation's official Github page](https://github.com/stenzek/duckstation) and download the app. Duckstation does not include an installer, so simply extract its archive to a folder of your choice.
 2. Locate Duckstation's executable file within that folder. It should be similar to**duckstation-qt-x64-ReleaseLTCG.exe** .
 3. Right-click the file and, while holding down the right mouse button, drag and drop it to your desktop to create a shortcut. This eliminates the need to seek its executable whenever you want to play your favorite PlayStation game.
 
@@ -43,7 +43,7 @@ Duckstation's installation differs depending on the platform:
 
  Duckstation, like many other PlayStation emulators, requires the console's original BIOS for full compatibility with its titles. We won't go over how to get it in this guide, but the official and legal way is to "dump" your own PlayStation console's BIOS.
 
- However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on[how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
+ However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on [how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
 
 1. Select**BIOS** from the Duckstation**Settings** menu.  
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
@@ -129,7 +129,7 @@ Duckstation's installation differs depending on the platform:
 
  Visit one of the two**Controller Ports** beneath to configure its button mappings. Choose your joypad, and if the emulator "doesn't respond" to any button presses, "remap" its buttons to the virtual PlayStation joypad.
 
- If you haven't got a joypad, don't fret: we've already covered[how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
+ If you haven't got a joypad, don't fret: we've already covered [how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
 
 ## Getting Retro in the Modern Age With Duckstation for Windows
 
@@ -154,3 +154,26 @@ Duckstation's installation differs depending on the platform:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-rectify-cant-add-your-folder-now-in-onedrive/"><u>Essential Steps to Rectify 'Can't Add Your Folder Now' In OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modern-standby-uncovering-its-defects-and-criticisms/"><u>Modern Standby: Uncovering Its Defects and Criticisms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-snapping-in-depth-guide-to-powertoy-window-layouts/"><u>Master the Art of Snapping: In-Depth Guide to PowerToy Window Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-nvidia-geforce-connection-hurdle-in-win-11/"><u>Bypassing the Nvidia GeForce Connection Hurdle in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073d26/"><u>Troubleshooting Microsoft Store Error 0X80073D26</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-13-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-expert-review-of-avs-video-editor-the-good-the-bad-and-the-ugly/"><u>New In 2024, Expert Review of AVS Video Editor The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ace-google-call-best-screen-saver-bgs-list-for-2024/"><u>Ace Google Call  Best Screen Saver BGs List for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-xcover-7-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy XCover 7 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 12 5G Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-beginners-pathway-to-leveraging-facebook-statistics/"><u>[Updated] 2024 Approved  The Beginner's Pathway to Leveraging Facebook Statistics</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-made-easy-for-kids-top-free-and-paid-apps/"><u>Updated In 2024, Video Editing Made Easy for Kids Top Free and Paid Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-top-10-free-online-video-invitation-creators/"><u>In 2024, Top 10 Free Online Video Invitation Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-beats-in-pictures-the-insta-storytelling-wave-for-2024/"><u>[New] Beats in Pictures  The Insta Storytelling Wave for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>[Updated] Visual Storytelling at Its Finest  YouTube Trailers Through Filmora's Lens</u></a></li>
+</ul></div>

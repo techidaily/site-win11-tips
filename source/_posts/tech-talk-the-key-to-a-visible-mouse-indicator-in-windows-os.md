@@ -1,7 +1,7 @@
 ---
 title: "Tech Talk: The Key to a Visible Mouse Indicator in Windows OS"
-date: 2024-06-22 18:24:38
-updated: 2024-06-25 10:43:59
+date: 2024-06-25T16:55:50.790Z
+updated: 2024-06-26T16:55:50.790Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
 
-1. Use**Win + I** to open up Settings (see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
+1. Use**Win + I** to open up Settings (see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
 2. Select**Bluetooth & devices** in Windows 11’s Settings app. You’ll need to select the**Devices** category in Windows 10.
 3. Click**Mouse** to view settings for that device type.
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  If you would prefer to add a permanent color highlight to the cursor, check out the Mouse Pointer Highlight app. That freely available adds a transparent color circle to the cursor. This is how you can highlight the cursor with Mouse Pointer Highlight:
 
-1. Open the[Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
+1. Open the [Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
 2. Then click**Get in Store** app to bring up a dialog for opening Microsoft Store.
 3. Press that dialog’s**Open Microsoft Store** option.
 4. Then click Mouse Pointer Highlight’s**Install** button.
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ## How to Highlight the Cursor With PowerToys
 
- PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
+ PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our [best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
 
  PowerToys includes a**Mouse utilities** tab from which you can enable a color highlight circle for your cursor. You can set mouse cursor highlighting with PowerToys like this:
 
-1. Open the[Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
+1. Open the [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
 2. Click**Get in Store** and the Open Microsoft Store options.
 3. Select**Install** to add PowerToys to your app library.
 4. Now open PowerToys, which you’ll find on your Start menu’s app list.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
 
-1. Open the[Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
+1. Open the [Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
@@ -123,3 +123,27 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-lock-screen-timing-windows/"><u>Overcoming Frozen Lock Screen Timing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tip-how-to-turn-off-nvidia-ui/"><u>Tech Tip: How to Turn Off NVIDIA UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-reset-windows-paperwork-service/"><u>Quick Reset Windows' Paperwork Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-the-perfect-christmas-look-in-windows-11/"><u>Craft the Perfect Christmas Look in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-win1011-blue-screen-crash-issue/"><u>Addressing Win10/11 Blue Screen Crash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-unlocking-stuck-battlenet-login/"><u>Expert Guide to Unlocking Stuck Battle.net Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-and-attend-to-hidden-storage/"><u>How to Uncover and Attend to Hidden Storage?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-to-optimal-windows-audios-through-driver-revision/"><u>Upgrading to Optimal Windows Audios Through Driver Revision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-xbox-stranded-message-quick-solution-for-windows-users/"><u>Overcome Xbox Stranded Message: Quick Solution for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-30plus-best-no-spend-templates-for-after-effects-wizards/"><u>In 2024, 30+ Best No-Spend Templates for After Effects Wizards</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-up-with-tiktoks-most-popular-creative-filters/"><u>[Updated] Step Up with TikTok's Most Popular Creative Filters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand-for-2024/"><u>[New] Unleash Your Creativity  The Best 10 IGTV Techniques to Skyrocket Your Brand for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-change-voice-on-tiktok-in-2024/"><u>[Updated] How to Change Voice on TikTok, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overlooked-wonders-latest-free-macspeech-software/"><u>2024 Approved  Overlooked Wonders  Latest Free macSpeech Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-ultimate-path-to-boundless-space-with-20-no-cost-services-for-2024/"><u>[New] Discover The Ultimate Path to Boundless Space with 20 No-Cost Services for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-zoom-techniques-for-captivating-audio-in-podcast-production/"><u>In 2024, Essential Zoom Techniques for Captivating Audio in Podcast Production</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ins-and-outs-of-earning-from-youtube/"><u>2024 Approved  The Ins and Outs of Earning From YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-free-options-10-leading-mac-artists-preferences/"><u>2024 Approved  Explore Free Options  10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/launching-educator-channels-10-key-tips-for-youtube-success/"><u>Launching Educator Channels  10 Key Tips for YouTube Success</u></a></li>
+</ul></div>

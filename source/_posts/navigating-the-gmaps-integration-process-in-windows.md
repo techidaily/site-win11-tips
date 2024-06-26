@@ -1,7 +1,7 @@
 ---
 title: Navigating the GMaps Integration Process in Windows
-date: 2024-06-23 12:40:43
-updated: 2024-06-25 12:43:28
+date: 2024-06-25T17:10:00.555Z
+updated: 2024-06-26T17:10:00.555Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,7 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
-### How to Uninstall Google Maps Added via Edge
-
-![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
+### How to Uninstall Google Maps Added via Edge ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
@@ -61,9 +59,7 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
-### How to Uninstall a Google Maps Shortcut Added via Chrome
-
-![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
+### How to Uninstall a Google Maps Shortcut Added via Chrome ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -81,3 +77,31 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
  Alternatively, give the built-in Microsoft Maps a try. It lets you download maps for offline navigation and offers other nifty features, including favorite places, maps collection, annotation tools to create markings on the map, and more.
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-11-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-warmup-latency-top-tips-for-a-quicker-boot-up/"><u>Trim Down Warmup Latency – Top Tips for a Quicker Boot-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-changes-to-user-profiles-in-w11-os/"><u>Directing Changes to User Profiles in W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-tyranny-of-inconsistent-colors-in-windows/"><u>Taming the Tyranny of Inconsistent Colors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-manipulating-the-windows-11-registry-to-unlock-themes/"><u>The Art of Manipulating the Windows 11 Registry to Unlock Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-experience-implementing-appxappxbundle-files-from-store/"><u>Seamless Experience: Implementing Appx/Appxbundle Files From Store</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-rundown-how-google-podcast-works/"><u>2024 Approved  Complete Rundown  How Google Podcast Works</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] 2024 Approved  Cutting Edge Techniques  YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>From TikTok to Instagram  Strategies to Amplify Your Reel's Virality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/gameplay-chronicles-top-four-ways-to-record-on-xbox-one/"><u>Gameplay Chronicles  Top Four Ways to Record on Xbox One</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/essential-tips-for-crop-and-export-videos-for-instagram/"><u>Essential Tips for Crop & Export Videos for Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-10t-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Realme 10T 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-make-every-chat-memorable-how-to-send-engaging-gifs-on-snapchat/"><u>[Updated] Make Every Chat Memorable  How to Send Engaging Gifs on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716068743268-updated-in-2024-screenmasters-unite/"><u>[Updated] In 2024, ScreenMasters Unite!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-simplify-storytelling-transform-vimeo-into-captivating-gifs/"><u>2024 Approved  Simplify Storytelling  Transform Vimeo Into Captivating GIFs</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

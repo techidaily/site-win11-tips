@@ -1,7 +1,7 @@
 ---
 title: "Solve Windows Issue: File Explorer Failsafe Mode"
-date: 2024-06-24 12:51:47
-updated: 2024-06-25 11:22:10
+date: 2024-06-25T16:07:16.654Z
+updated: 2024-06-26T16:07:16.654Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
 
- We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
+ We have a guide on [how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
 
 ## 3\. Clear File Explorer History
 
@@ -68,11 +68,11 @@ To run the System Maintenance troubleshooter on Windows:
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
 
- If you need help running these tools, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
+ If you need help running these tools, check our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
 
 ## 6\. Scan for Malware
 
- Aside from corrupted system files, malware and viruses on your PC can also disrupt Windows processes and cause File Explorer to open at random. To overrule this possibility, you can run a full system scan on your computer using Microsoft Defender or a third-party antivirus program you trust. You could even[make use of Microsoft Defender's offline scan feature](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for a deep scrub.
+ Aside from corrupted system files, malware and viruses on your PC can also disrupt Windows processes and cause File Explorer to open at random. To overrule this possibility, you can run a full system scan on your computer using Microsoft Defender or a third-party antivirus program you trust. You could even [make use of Microsoft Defender's offline scan feature](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for a deep scrub.
 
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
@@ -84,17 +84,17 @@ To run the System Maintenance troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
- If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
+ If a newer update is not available, you may have to uninstall the recent update or perform a system restore to [fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
- Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on[how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
+ Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on [how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
 ## 9\. Create a New User Account
 
- Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
+ Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on [how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
 ## Prevent File Explorer From Opening Automatically on Windows
 
@@ -115,3 +115,22 @@ To run the System Maintenance troubleshooter on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/easily-overcome-response-incorrect-message/"><u>Easily Overcome Response Incorrect Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-lost-control-panel-features-on-windows-11/"><u>Reclaim Lost Control Panel Features on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-reminders-before-overhauling-your-windows/"><u>Essential Reminders Before Overhauling Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-home-page-from-the-settings-app-in-windows-11/"><u>How to Remove the Home Page From the Settings App in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-dynamic-and-user-friendly-windows-interface/"><u>Create a Dynamic and User-Friendly Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-settings-unveiled/"><u>Windows 11 Settings Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-curated-listings-top-20plus-immersive-vr-games-on-cardboard/"><u>[Updated] 2024 Approved  Curated Listings  Top 20+ Immersive VR Games on Cardboard</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-updated-guide-to-voiceovers-in-filmmaking-from-recording-to-editing-for-2024/"><u>The Updated Guide to Voiceovers in Filmmaking - From Recording to Editing for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>[New] Expert Insights  Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-chronicles-of-charms-a-compreentic-toolkit-for-twitters-visual-treasures/"><u>In 2024, Chronicles of Charms  A Compreentic Toolkit for Twitter's Visual Treasures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-optimized-video-scale-to-mac-aspect-proportion/"><u>[Updated] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>2024 Approved  Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-asus-rog-phone-7-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Asus ROG Phone 7 Face Lock?</u></a></li>
+</ul></div>

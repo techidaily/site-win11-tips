@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows Event Viewer Breakdowns
-date: 2024-06-22 12:33:35
-updated: 2024-06-25 11:43:16
+date: 2024-06-25T17:05:04.921Z
+updated: 2024-06-26T17:05:04.921Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-## 1\. Restart the Windows Event Log Service
-
-![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
+## 1\. Restart the Windows Event Log Service ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
 
  You can restart the Windows Event Viewer log service to fix temporary issues with the app. Use the Services snap-in to stop and restart the service and check for any improvements.
 
@@ -34,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 4. Select **Restart** and wait for the service to restart.
 5. Close the Services snap-in and try to relaunch Event Viewer to see if the issue is resolved.
 
-## 2\. Install the Latest Windows Updates
-
-![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
+## 2\. Install the Latest Windows Updates ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
 
@@ -88,3 +84,33 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  If you still have no luck, consider using an Event Viewer alternative. Third-party event log analyzers offer better visualization and advanced features.
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/previewing-windows-wonders-with-vivetool-capabilities/"><u>Previewing Windows Wonders with ViVeTool Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-chrome-induced-system-time-missteps-windows/"><u>Rectifying Chrome-Induced System Time Missteps (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-activating-controlled-folder-access-in-windows-11/"><u>Mastering Privacy: Activating Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unable-to-open-geforce-experience-error/"><u>Troubleshooting Unable to Open GeForce Experience Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x80070570-file-corruption-in-windows-11/"><u>Troubleshooting Code 0X80070570 File Corruption in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-windows-exploration-without-the-use-of-ls/"><u>Streamlined Windows Exploration Without the Use of LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-roblox-needs-quitting-on-windows-without-hesitation/"><u>How to Stop Roblox Needs Quitting on Windows Without Hesitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screenshot-secrets-for-windows-pros/"><u>[New] 2024 Approved  Screenshot Secrets for Windows Pros</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-cartoon-animation-software-for-mobile-devices-for-2024/"><u>Updated Top Cartoon Animation Software for Mobile Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-downloading-ios-tiktok-content-without-watermarks/"><u>In 2024, Downloading iOS TikTok Content Without Watermarks</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-magic-5-lite-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Magic 5 Lite in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-12-best-no-watermark-screen-capture-tools/"><u>[New] 2024 Approved  12 Best No-Watermark Screen Capture Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-introducing-top-tier-facebook-update-insights/"><u>[New] In 2024, Introducing Top-Tier Facebook Update Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-video-editing-101-best-software-for-learners/"><u>2024 Approved Video Editing 101 Best Software for Learners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-next-big-thing-top-27-alternatives-to-youtube-revealed/"><u>The Next Big Thing  Top 27 Alternatives to YouTube Revealed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-use-path-blur-in-photoshop-to-create-motion-effect-for-2024/"><u>New Use Path Blur In Photoshop To Create Motion Effect for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

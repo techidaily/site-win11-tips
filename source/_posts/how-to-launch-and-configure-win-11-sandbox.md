@@ -1,7 +1,7 @@
 ---
 title: How to Launch and Configure Win 11 Sandbox
-date: 2024-06-24 20:29:14
-updated: 2024-06-25 10:49:27
+date: 2024-06-25T16:45:27.349Z
+updated: 2024-06-26T16:45:27.349Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
 ## How to Set Up Windows Sandbox in Windows 11
 
- Windows Sandbox is an optional feature, which means you'll have to install it from the Optional features section. You can[add and remove optional features from the Windows Features dialog](http://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) . Alternatively, you can use PowerShell or Command Prompt for a swift installation of Windows Sandbox.
+ Windows Sandbox is an optional feature, which means you'll have to install it from the Optional features section. You can [add and remove optional features from the Windows Features dialog](http://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) . Alternatively, you can use PowerShell or Command Prompt for a swift installation of Windows Sandbox.
 
  While the setup process is easier, your computer must meet some system requirements. Windows 11 Pro, Education, or Enterprise running computers with virtualization support are Windows Sandbox compatible. In most cases,[if your system can run Windows Hyper-V](https://www.makeuseof.com/windows-11-enable-hyper-v/) , it should also run Windows Sandbox.
 
@@ -43,9 +43,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 7. After the restart, press**Win + S** to open**Windows search.**
 8. Type**sandbox** and click on**Windows Sandbox** from the search result to launch the virtualization tool.
 
-## 3\. Install Windows Sandbox Using PowerShell
-
-![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
+## 3\. Install Windows Sandbox Using PowerShell ![enable windows sandbox powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-powershell.jpg)
 
  You can use the Enable WindowsOptionalFeature command in PowerShell to install Windows Sandbox in Windows. This method is useful if you find the sandbox option greyed out or unable to install it from the Windows Feature dialog.
 
@@ -59,9 +57,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 5. Once done, press**Y** and hit**Enter** to restart your PC.
 6. After the restart, you can launch Windows Sandbox from Windows Search.
 
-## 3\. Install Windows SandBox Using Command Prompt
-
-![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
+## 3\. Install Windows SandBox Using Command Prompt ![enable windows sandbox command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-windows-sandbox-command-prompt.jpg)
 
  Deployment Image Servicing and Management (DISM) is a command-line utility that facilitates the installation of optional features using the Command Prompt. To install Windows Sandbox, you will need to use the Enable-Feature command in Command Prompt. Here's how to do it.
 
@@ -71,9 +67,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
 `dism /online /Enable-Feature /FeatureName: "Containers-DisposableClientVM" -All`
 4. Wait for the process to complete. Once done, press**Y** and**Enter** to restart your PC.
 
-## How to Use Windows Sandbox
-
-![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
+## How to Use Windows Sandbox ![Windows Sandbox Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Windows-Sandbox-Open.jpg)
 
  Now that you have Windows Sandbox installed, you can start using it to test untrusted apps in isolation. To launch the app, press**Win + S** to open**Windows Search** and type**Windows Sandbox.** Click on the app from the search result to open it.
 
@@ -102,3 +96,22 @@ Enable-WindowsOptionalFeature -Online -FeatureName "Containers-DisposableClientV
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/from-obsolete-to-optimal-atlasos-makeover/"><u>From Obsolete to Optimal: AtlasOS Makeover</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-fn-key-operations-in-modern-windows-pcs/"><u>Decode FN Key Operations in Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-update-processes-context-menu-update-option-for-win11-users/"><u>Streamlining Update Processes: Context Menu Update Option for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-restore-your-microsoft-store-registrations-win-11/"><u>Fix and Restore Your Microsoft Store Registrations (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-frozen-windows-safety-mode/"><u>Enhancing Efficiency of Frozen Windows Safety Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-alteration-of-nat-types-in-windows-operating-systems/"><u>Effective Alteration of NAT Types in Windows Operating Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-your-video-footage-to-resemble-kodak-films-you-can-get-the-old-kodak-film-look-by-searching-for-kodak-2383-lut-free-download-on-the-internet/"><u>New Do You Want Your Video Footage to Resemble Kodak Films? You Can Get the Old Kodak Film Look by Searching for Kodak 2383 LUT Free Download on the Internet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-freeze-rewind-repeat-mastering-the-art-of-frozen-frames-in-video-editing-for-2024/"><u>Updated Freeze, Rewind, Repeat Mastering the Art of Frozen Frames in Video Editing for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-honor-x7b-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor X7b to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-g22-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-look-up-tables-in-film-grading-for-2024/"><u>Harnessing the Power of Look-Up Tables in Film Grading for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-compile-of-high-quality-sound-spectrum-templates-to-elevate-video-production-2023-update-for-2024/"><u>New Compile of High-Quality Sound Spectrum Templates to Elevate Video Production - 2023 Update for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-text-animation-for-videos/"><u>2024 Approved How to Create Text Animation for Videos</u></a></li>
+</ul></div>

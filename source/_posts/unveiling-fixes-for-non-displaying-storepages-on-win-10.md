@@ -1,7 +1,7 @@
 ---
 title: Unveiling Fixes for Non-Displaying Storepages on Win 10
-date: 2024-06-24 19:54:23
-updated: 2024-06-26 12:36:49
+date: 2024-06-25T16:57:47.230Z
+updated: 2024-06-26T16:57:47.230Z
 tags:
   - windows10
   - windows11
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 3. Click the drop-down icon next to**Country and region** and choose your country name from the list.  
 ![Choose Region in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choose-region.jpg)
 
- That's it. You might need to restart your computer (see[how to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
+ That's it. You might need to restart your computer (see [how to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
 
 ## 3\. Use the Built-In Windows Troubleshooter
 
- Microsoft is aware of issues users face regularly; that's why they offer[various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that can come in handy in fixing them. To eliminate any kind of Microsoft Store issue, you can use the Windows Store Apps troubleshooter.
+ Microsoft is aware of issues users face regularly; that's why they offer [various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that can come in handy in fixing them. To eliminate any kind of Microsoft Store issue, you can use the Windows Store Apps troubleshooter.
 
  Here's how to access and use the Windows Store Apps troubleshooter:
 
@@ -101,7 +101,7 @@ Net Start cryptsvc`
 
 ## 6\. Turn Off Any Active Proxy Server Settings
 
- Using a[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) can come in handy when you want to access websites and apps blocked in your region. But on the negative side, it can cause issues in apps like the Microsoft Store, Xbox, and YouTube.
+ Using a [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) can come in handy when you want to access websites and apps blocked in your region. But on the negative side, it can cause issues in apps like the Microsoft Store, Xbox, and YouTube.
 
  So, disable any proxy server and check if it resolves the problem. Follow these steps to do that:
 
@@ -117,7 +117,7 @@ Net Start cryptsvc`
 
 To use these troubleshooting options, follow the below instructions:
 
-1. Open**Apps & Features** in the Settings app. Our guide on[launching Apps and Features in Windows 11](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) tells you how to access this option.
+1. Open**Apps & Features** in the Settings app. Our guide on [launching Apps and Features in Windows 11](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) tells you how to access this option.
 2. Search for and click on the**three dots** next to the Microsoft Store.
 3. Choose**Advanced options.**
 4. Click the**Repair.**  
@@ -148,3 +148,24 @@ To use these troubleshooting options, follow the below instructions:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/brilliant-obsidian-structure-for-clear-notes/"><u>Brilliant Obsidian Structure for Clear Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-and-optimize-windows-audios-with-up-to-date-drivers-guide/"><u>Revive and Optimize Windows Audios with Up-to-Date Drivers Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-affected-device-access-post-error-code-22/"><u>How to Reset Affected Device Access Post-Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-conquering-system-calls-failure-in-windows-11/"><u>Expert Tips for Conquering System Calls Failure in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-remove-black-display-on-pc-webcam/"><u>Tips to Remove Black Display on PC Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719311785872-fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-innovative-methods-to-improve-your-windows-update-process/"><u>7 Innovative Methods to Improve Your Windows Update Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unforgettable-journeys-our-favorites-in-adventure-gameplay/"><u>[New] 2024 Approved  Unforgettable Journeys  Our Favorites in Adventure Gameplay</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-hand-drawn-whiteboard-animation-tools-to-try-this-year/"><u>Updated 2024 Approved Top Hand-Drawn Whiteboard Animation Tools to Try This Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-revolutionize-your-livestreams-with-these-top-15-non-obs-choices/"><u>[New] Revolutionize Your Livestreams with These Top 15 Non-OBS Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubers-with-a-glamour-touch-top-names/"><u>[Updated] YouTubers with a Glamour Touch  Top Names</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-close-angles-in-movie-filming/"><u>Perfecting Close Angles in Movie Filming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-6-techniques-for-clear-unblemished-photo-edits/"><u>[New] Masterclass 6 Techniques for Clear, Unblemished Photo Edits</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-note-12t-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi Note 12T Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-morphvox-mastery-a-complete-voice-modification-companion/"><u>[Updated] MorphVOX Mastery  A Complete Voice Modification Companion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-amazing-appraisal-and-backup-options/"><u>In 2024, Amazing Appraisal & Backup Options</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tackling 'Error 1152: Temporary File Extract Failure'"
-date: 2024-06-23 23:56:15
-updated: 2024-06-24 12:55:47
+date: 2024-06-25T16:38:47.256Z
+updated: 2024-06-26T16:38:47.256Z
 tags:
   - windows10
   - windows11
@@ -68,3 +68,34 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-non-responsive-services-on-windows-pcs/"><u>Steps to Rectify Non-Responsive Services on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-full-screen-freezes-in-sonic-on-w11/"><u>Eliminating Full-Screen Freezes in Sonic on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-utorrent-not-installing-on-windows/"><u>How to Fix uTorrent Not Installing on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-user-adjustments-to-windows-screensaver/"><u>Avoiding User Adjustments to Windows Screensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-enable-nvidia-cp-setting-retention-in-win11/"><u>Strategies to Enable Nvidia CP Setting Retention in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-obstacles-for-secure-memory-settings-in-new-windows-11/"><u>Clearing Obstacles for Secure Memory Settings in New Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-pens-tools-for-the-modern-windowed-tech-user/"><u>Top Pens' Tools For the Modern Windowed Tech User</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bypass-tiktok-watermarks-on-iphone-a-step-by-step-guide/"><u>Bypass TikTok Watermarks on iPhone – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-experts-choice-top-10-high-definition-screen-recorders/"><u>2024 Approved  Expert's Choice  Top 10 High-Definition Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-in-class-ubuno-screen-recording-options/"><u>Best-in-Class UbuNo Screen Recording Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-best-flvto-alternatives-youtube-converter/"><u>In 2024, Top 10 Best Flvto Alternatives YouTube Converter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-audio-files-with-ease-6-leading-software-options-for-2024/"><u>Convert Audio Files with Ease 6 Leading Software Options for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-m14-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy M14 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/transform-your-videos-with-a-robust-64-bit-editor-for-windows-for-2024/"><u>Transform Your Videos with a Robust 64-Bit Editor for Windows for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog/"><u>In 2024, Launchpad for Newcomers  Creating a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-look-at-the-future-of-windows-10s-evolution/"><u>[Updated] A Look at the Future of Windows  10'S Evolution</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-reverse-a-video-on-snapchat-complete-guide-for-2024/"><u>[Updated] How to Reverse a Video on Snapchat? [Complete Guide] for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

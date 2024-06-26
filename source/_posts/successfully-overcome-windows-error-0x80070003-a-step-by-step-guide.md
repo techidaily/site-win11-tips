@@ -1,7 +1,7 @@
 ---
 title: Successfully Overcome Windows Error 0X80070003 - A Step-by-Step Guide
-date: 2024-06-22 22:59:50
-updated: 2024-06-25 11:55:13
+date: 2024-06-25T16:45:01.859Z
+updated: 2024-06-26T16:45:01.859Z
 tags:
   - windows10
   - windows11
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 Here is all that you need to do:
 
-1. Open Command Prompt as an administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Open Command Prompt as an administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. Click**Yes** in the User Account Control prompt.
 3. In the Command Prompt window, type the command mentioned below and hit**Enter** .  
 `sfc /scannow`  
@@ -72,17 +72,17 @@ Here is all that you need to do:
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
- While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
+ While you are at it, you can also [run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
 ## 3\. Repair the Update Components
 
  As we mentioned earlier, the update components can also deal with some kind of corruption, leading to the problem under discussion.
 
- The good news is that repairing these components is quite simple, and we will also use the Command Prompt in this method. We recommend[creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed. This will help you revert to the current system state in case something goes wrong during the execution of the method.
+ The good news is that repairing these components is quite simple, and we will also use the Command Prompt in this method. We recommend [creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed. This will help you revert to the current system state in case something goes wrong during the execution of the method.
 
 Once the restore point is created, follow these steps:
 
-1. Open a Run dialog box (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) to learn how).
+1. Open a Run dialog box (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) to learn how).
 2. Type cmd in the text field of Run and press Ctrl + Shift + Enter to open Command Prompt as an administrator.
 3. Click**Yes** in the User Account Control prompt.
 4. Once you are inside the Command Prompt, execute the commands below one by one:  
@@ -123,3 +123,24 @@ net start appidsvc`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/exploring-vivetool-windows-gateway-to-new-and-emerging-tools/"><u>Exploring ViVeTool: Windows' Gateway to New & Emerging Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/install-update-and-remove-with-precision-using-windows-package-manager/"><u>Install, Update & Remove with Precision Using Windows Package Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-zero-x-eight-oh-three-one-f-failures-in-mail-apps/"><u>Winning Against Zero X Eight Oh Three One F Failures in Mail Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unauthorized-save-errors-in-microsoft-os/"><u>Troubleshooting Unauthorized Save Errors in Microsoft OS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-easy-ways-to-make-procreate-gifs/"><u>2024 Approved Easy Ways to Make Procreate GIFs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Camon 20 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-gifify-your-twit-making-vids-free-and-flashy/"><u>2024 Approved  Gifify Your Twit  Making Vids Free & Flashy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-explore-tools-that-beat-sharex-performance/"><u>2024 Approved  Explore Tools That Beat ShareX Performance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/examining-the-income-mechanics-of-tseries-on-youtube-for-2024/"><u>Examining the Income Mechanics of TSeries on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-language-and-usage-of-pfp-in-tiktok-space-for-2024/"><u>[New] The Language and Usage of PFP in TikTok Space for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-video-to-live-photo-best-apps-and-step-by-step-guides/"><u>New In 2024, Video to Live Photo Best Apps and Step-by-Step Guides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-snap-complete-web-panel/"><u>In 2024, Snap Complete Web Panel</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/timeless-tunes-from-the-tiktok-stage-top-10-hits-of-2024-folk-and-pop-fusion/"><u>Timeless Tunes From the TikTok Stage  Top 10 Hits of 2024 (Folk & Pop Fusion)</u></a></li>
+</ul></div>

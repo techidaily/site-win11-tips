@@ -1,7 +1,7 @@
 ---
 title: Method to Start Windows 11'S Admin PowerShell Instance
-date: 2024-06-22 18:51:55
-updated: 2024-06-25 10:54:20
+date: 2024-06-25T16:33:53.358Z
+updated: 2024-06-26T16:33:53.358Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  A command prompt lets you run almost any program or application on your Windows device. To run Windows PowerShell using this tool, follow these steps:
 
-1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
+1. Run Command Prompt as an Administrator (see [how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
 `powershell Start-Process powershell -Verb runAs`
@@ -90,7 +90,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Here's how to start Windows PowerShell as an administrator with this tool.
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
+1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
 2. Select**Run new task** from the top of the page.
 3. In the pop-up menu, type "PowerShell" and check the "Create this task with administrative privileges" box.  
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
@@ -100,7 +100,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Windows Control Panel is a software program that contains many tools for managing settings on Windows. With this tool, you can launch almost any application installed on your computer. Follow these steps to open Windows PowerShell as an administrator:
 
-1. Use one of the many[ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
+1. Use one of the many [ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
 2. Click on**System and Security** .
 3. Scroll down to the bottom and select**Windows Tools** .
 4. Right-click on**Windows PowerShell** and select**Run as administrator** .  
@@ -126,7 +126,7 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 
  This method involves creating a batch file to open Windows PowerShell as an administrator. Here's how to do it:
 
-1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see[how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
+1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see [how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
 2. In Notepad, copy and paste the following command line:  
 Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 3. Now click on**File** and select**Save as** from the menu list.
@@ -155,3 +155,24 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/eradicating-microsoft-store-fault-code-0x80072efd/"><u>Eradicating Microsoft Store Fault Code 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-defenders-antivirus-blockage/"><u>Navigating Through Windows Defender's Antivirus Blockage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-how-to-resolve-windows-11s-nvidia-cp-issue/"><u>Quick Guide: How to Resolve Windows 11'S Nvidia CP Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-temporary-file-hassles-resolved-instantly/"><u>Windows' Temporary File Hassles Resolved Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-windows-11s-system32-folder-way/"><u>Uncover the Windows 11'S System32 Folder Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reduce-windows-surrounders-feature/"><u>How To Reduce Windows Surrounders Feature</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nubia-red-magic-8s-proplus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nubia Red Magic 8S Pro+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fast-video-editing-on-mac-tips-and-tricks-for-speedy-video-cutting/"><u>New In 2024, Fast Video Editing on Mac Tips and Tricks for Speedy Video Cutting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-vimeo-id-picture-guide-width-depth-moment/"><u>2024 Approved  Vimeo ID Picture Guide  Width, Depth, Moment</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y27s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y27s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-ace-2-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Ace 2 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>[New] Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[Updated] Know Your Rights  Sharing Videos with Friends on FB for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording-for-2024/"><u>[New] Precision Techniques  The Most Essential 8 Tools for Microphone & Speaker Recording for 2024</u></a></li>
+</ul></div>

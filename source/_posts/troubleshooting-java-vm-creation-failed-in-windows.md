@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Java VM Creation Failed in Windows
-date: 2024-06-23 18:28:23
-updated: 2024-06-26 10:40:33
+date: 2024-06-25T17:04:59.379Z
+updated: 2024-06-26T17:04:59.379Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
  Here we show you a few troubleshooting steps to fix the could not create the java virtual machine error on Windows.
 
-## 1\. Verify Your Java Installation
-
-![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
+## 1\. Verify Your Java Installation ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
 
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
@@ -35,11 +33,9 @@ To check the Java version installed on Windows:
 3. In the Command Prompt window, type the following command and press**Enter** :  
 `java -version`
 4. The output will list the JDK version installed on your computer and the installation date.
-5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
+5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the [Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
-## 2\. End the Java Process in Task Manager
-
-![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
+## 2\. End the Java Process in Task Manager ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
@@ -51,7 +47,7 @@ To check the Java version installed on Windows:
 
  Insufficient permission can prevent some Java apps from running on your computer. To fix the problem, run Java with administrative privilege. To run Java as an administrator on Windows, right-click on**Java.exe** and select**Run as administrator** .
 
- Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
+ Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out [how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
 
 ## 4\. Increase the System Memory for Java
 
@@ -91,20 +87,18 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
 
-## 5\. Uninstall and Reinstall Java
-
-![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
+## 5\. Uninstall and Reinstall Java ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
 To clean install Java:
 
-1. Go to the[Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
+1. Go to the [Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
 2. Run the executable and click**Agree** .
 3. Select all the versions of Java detected by the tool and click**Next** .
 4. Click**Yes** and wait as the uninstaller removes Java from your computer. Click**Close** .
 5. Restart your computer to apply the changes.
-6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
+6. Next, go to the [Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
 ## 6\. Install Java in a WindowsClean Boot State
@@ -132,3 +126,26 @@ To clean install Java:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/screenscape-symphony-composing-personalized-displays-in-windows-1011/"><u>Screenscape Symphony: Composing Personalized Displays in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructingdarkmodeonwindowsnotepad/"><u>InstructingDarkModeOnWindowsNotepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-print-discrepancies-in-microsoft-powerpoint-on-windows-systems/"><u>Fixing Print Discrepancies in Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-windows-11s-enhanced-bar/"><u>Make the Most of Windows 11'S Enhanced Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-lost-connectivity-winos-strategies/"><u>Rebooting Lost Connectivity: WinOS Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-cleaning-up-the-icon-cache/"><u>Best Practices for Cleaning Up the Icon Cache</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961822853-updated-browse-the-list-of-the-best-8-scanners-or-converters-for-converting-the-slides-to-digital-images-also-know-the-other-important-information-of-slides/"><u>Updated Browse the List of the Best 8 Scanners or Converters for Converting the Slides to Digital Images. Also, Know the Other Important Information of Slides to Digital Conversion for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-ordinary-to-extraordinary-crafting-stunning-pfp-for-discord-for-2024/"><u>From Ordinary to Extraordinary  Crafting Stunning Pfp for Discord for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-how-to-change-ratio-of-video-in-a-quick-and-easy-way/"><u>Updated How to Change Ratio of Video in a Quick & Easy Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-online-sound-experience-with-these-5-steps-for-2024/"><u>Elevate Your Online Sound Experience with These 5 Steps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experttech-reviews-data-drive-de-stressing/"><u>[Updated] 2024 Approved  ExpertTech Reviews  Data Drive De-Stressing</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-easy-steps-to-create-talking-memoji-on-iphone-free/"><u>Updated 2024 Approved Easy Steps To Create Talking Memoji on iPhone Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-mysteries-of-quantum-hdr/"><u>[New] Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-minimize-mbs-avoid-fb-video-ads/"><u>2024 Approved  Minimize MBs  Avoid FB Video Ads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-on-the-house-top-10-free-plugins-for-video-editors/"><u>Updated FCPX on the House Top 10 Free Plugins for Video Editors</u></a></li>
+</ul></div>

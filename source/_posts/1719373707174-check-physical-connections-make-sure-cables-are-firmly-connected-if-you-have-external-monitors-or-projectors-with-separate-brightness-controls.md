@@ -1,7 +1,7 @@
 ---
 title: "Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls."
-date: 2024-06-24 11:34:47
-updated: 2024-06-26 12:36:13
+date: 2024-06-25T16:32:39.674Z
+updated: 2024-06-26T16:32:39.674Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  First, you should use a different method to adjust your display's brightness from what you usually use. That way, you can check if the issue is specific to that adjustment setting or if it affects your entire system. For instance, if you can't change the brightness using your keyboard fn key but can change it with Windows settings, the key could just be disabled or broken.
 
- If you're unfamiliar, you can check out the[other ways to adjust your Windows PC's screen brightness](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) . If these other methods work, your usual method for changing the brightness might be an issue. If so, you should check out how to fix them. We have guides for[repairing the Windows brightness fn key](https://www.makeuseof.com/fix-brightness-function-key-not-working-windows/) and[restoring the brightness slider in Windows 11](https://www.makeuseof.com/windows-11-missing-brightness-options-fix/) to help you.
+ If you're unfamiliar, you can check out the [other ways to adjust your Windows PC's screen brightness](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) . If these other methods work, your usual method for changing the brightness might be an issue. If so, you should check out how to fix them. We have guides for [repairing the Windows brightness fn key](https://www.makeuseof.com/fix-brightness-function-key-not-working-windows/) and [restoring the brightness slider in Windows 11](https://www.makeuseof.com/windows-11-missing-brightness-options-fix/) to help you.
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
@@ -81,13 +81,13 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 
  If you don't update Windows, you can run into unforeseen issues. If you have done that in a while, you could eventually encounter problems, like the inability to adjust your screen's brightness.
 
- You should check for and[install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
+ You should check for and [install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
 
 ## 8\. Perform a System Restore
 
  If your PC is fully updated and you still can't adjust its brightness, your next step is performing a system restore. While this fix is what some would call the "nuclear option" as it reverts customizations you've made since the last restore point, it will undo any changes to the system that have caused the brightness issue you're experiencing.
 
- That's why you should[create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
+ That's why you should [create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
 
 ## Take the Strain Off Your Eyes
 
@@ -110,3 +110,24 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reach-top-ssd-efficiency-in-windows-utilize-ssdfresh/"><u>Reach Top SSD Efficiency in Windows, Utilize SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-microsoft-visual-cplusplus-redistributable-used-for/"><u>What Is the Microsoft Visual C++ Redistributable Used For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-11-sign-in-errors/"><u>Strategies for Bypassing Windows 11 Sign-In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-productivity-essential-windows-based-tools-listed/"><u>Revolutionize Productivity: Essential Windows-Based Tools Listed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-task-managers-dynamic-speed-in-windows-11/"><u>Boost Task Manager's Dynamic Speed in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-removing-virtualization-support-on-win11/"><u>Tips for Removing Virtualization Support on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-path-to-sonic-purity-techniques-for-eliminating-audio-distortion-in-film-and-video/"><u>In 2024, The Path to Sonic Purity Techniques for Eliminating Audio Distortion in Film and Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-succeed-youtubes-powerful-business-channel-list-for-2024/"><u>How to Succeed  YouTube's Powerful Business Channel List for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficiently-shortening-youtube-content-for-2024/"><u>[New] Efficiently Shortening YouTube Content for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-8-cost-free-videography-suites-for-digital-filmmakers/"><u>[New] In 2024, Discover the Top 8 Cost-Free Videography Suites for Digital Filmmakers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-game-recording-on-modern-win10-systems/"><u>[Updated] In 2024, Innovative Game Recording on Modern Win10 Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-premium-font-fabrication-tools-for-discord-users/"><u>In 2024, Premium Font Fabrication Tools for Discord Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-spark-10-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Spark 10 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>[Updated] Inside the World of Toolwiz  An In-Depth Software Review</u></a></li>
+</ul></div>

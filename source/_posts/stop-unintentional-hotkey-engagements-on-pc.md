@@ -1,7 +1,7 @@
 ---
 title: Stop Unintentional Hotkey Engagements on PC
-date: 2024-06-24 21:27:12
-updated: 2024-06-25 10:24:47
+date: 2024-06-25T16:11:46.465Z
+updated: 2024-06-26T16:11:46.465Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  While we are unsure of what causes the issue, and there’s much less information on what the **Win + Alt** key combo does, it is an easy fix to resolve this problem.
 
-## 2\. Turn Off Sticky and Filter Keys
-
-![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
+## 2\. Turn Off Sticky and Filter Keys ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
@@ -54,9 +52,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 4. Next, click the **Run** button for the **Keyboard** option.
 5. As the troubleshooter dialog opens, follow the on-screen instructions and apply any recommended fixes.
 
-## 4\. Reinstall the Keyboard Drivers
-
-![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
+## 4\. Reinstall the Keyboard Drivers ![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
 
  A corrupt driver may cause the keyboard to malfunction. To fix the issue, you can uninstall the driver from Device Manager. Upon restart, Windows will automatically detect the connected keyboard and install the necessary drivers.
 
@@ -135,3 +131,33 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  If typing on your keyboard activates shortcuts rather than typing letters, it can be because you have pressed the Win + Alt combo that activates shortcuts for supported apps in Windows. Other reasons for the issue include a faulty or stuck Win key, Stickey and Filter key issues, and a malfunctioning keyboard driver.
 
  Fortunately, fixing this problem is easy. Here we show you what to do when your keyboard opens random applications and shortcuts when pressing any key.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wows-fatal-issue-in-windows-1111/"><u>Troubleshooting WoW's Fatal Issue in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-secure-quick-launch-button-for-hardware-removal/"><u>Creating a Secure, Quick-Launch Button for Hardware Removal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/money-making-tactics-from-the-w11-windowware/"><u>Money-Making Tactics From the W11 Windowware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-erase-personal-info-from-sign-in-window/"><u>Guide to Erase Personal Info From Sign-In Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-error-loadlib-err-87/"><u>Mitigating Windows Error LoadLib Err 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-future-of-windows-interface-winbubbles-8-innovations/"><u>The Future of Windows Interface: WinBubble's 8 Innovations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-motorola-edge-40-neo-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Motorola Edge 40 Neo to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-zero-to-hero-on-instagram-top-5-tips-with-examples-from-elites-for-2024/"><u>From Zero to Hero on Instagram  Top 5 Tips with Examples From Elites for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>In 2024, [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-high-end-psd-lighting-tweaks/"><u>[Updated] In 2024, High-End PSD Lighting Tweaks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-spark-10-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Spark 10 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-youtube-top-rated-pc-and-mobile-video-extractors/"><u>[New] Unlocking YouTube  Top-Rated PC & Mobile Video Extractors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/realign-corrected-identity-visualization-in-facebook-sessions-for-2024/"><u>Realign Corrected Identity Visualization in Facebook Sessions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pure-capture-suite-ads-free-version/"><u>2024 Approved  Pure Capture Suite  Ads-Free Version</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more/"><u>FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

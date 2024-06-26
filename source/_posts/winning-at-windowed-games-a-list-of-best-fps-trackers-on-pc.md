@@ -1,7 +1,7 @@
 ---
 title: "Winning at Windowed Games: A List of Best FPS Trackers on PC"
-date: 2024-06-24 18:46:28
-updated: 2024-06-26 10:50:19
+date: 2024-06-25T17:03:13.225Z
+updated: 2024-06-26T17:03:13.225Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
  Here are the best FPS counters to track framerates in games on your Windows 11 computer.
 
-## 1\. FRAPS
-
-![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
+## 1\. FRAPS ![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
 
  FRAPS is all you need if you want to benchmark your computer for framerates. It is a classic FPS counter application that works on almost all the editions of the Windows OS and is free to use.
 
@@ -36,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 **Download** :[FRAPS](https://fraps.com/) (Free)
 
-## 2\. NZXT Cam
-
-![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
+## 2\. NZXT Cam ![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
 
  NZXT Cam is a system performance management utility with some useful features. For example, it features a nice little overlay feature that you can activate with the Ctrl + O hotkey. When enabled, it shows FPS count, CPU, GPU, and RAM utilization. Furthermore, you can configure network and system time information as well.
 
@@ -50,9 +46,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 **Download** :[NZXT Cam](https://nzxt.com/software/cam) (Free)
 
-## 3\. Nvidia GeForce Experience Performance Overlay
-
-![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
+## 3\. Nvidia GeForce Experience Performance Overlay ![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
 
  If you have Nvidia graphics, you don’t need to use a third-party FPS counter app. Nvidia’s GeForce Experience features a**Performance Overlay** to system performance as an overlay.
 
@@ -69,15 +63,13 @@ To enable Performance overlay:
 
 **Download** :[Nvidia GeForce Experience](https://www.nvidia.com/en-in/geforce/geforce-experience/download/) (Free)
 
-## 4\. FPS Monitor
-
-![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
+## 4\. FPS Monitor ![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
 
  If you need to benchmark a little more than just framerates, FPS Monitor will fit the bill perfectly. It tracks your computer’s hardware state and displays the information in-game as an overlay.
 
  The overlay consists of framerate information with average and maximum frame rates achieved in the session. But there is more. It also shows other parameters such as GPU, CPU, memory, and storage drive utilization.
 
- It is also highly customizable and lets you create your own overlay to match your gameplay style. The app can be configured to[check your RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/) and save the statistics to a file. Hardware Alerts keeps a tab on your system hardware and warns when it reaches a critical level.
+ It is also highly customizable and lets you create your own overlay to match your gameplay style. The app can be configured to [check your RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/) and save the statistics to a file. Hardware Alerts keeps a tab on your system hardware and warns when it reaches a critical level.
 
  Like most FPS counter utilities, it features a built-in screenshot tool to capture in-game stills. Additionally, you can use it to limit in-game FPS for any game.
 
@@ -85,9 +77,7 @@ To enable Performance overlay:
 
 **Download** :[FPS Monitor](https://fpsmon.com/en/) (Premium)
 
-## 5\. Steam’s FPS Counter
-
-![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
+## 5\. Steam’s FPS Counter ![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
 
  Steam has a built-in FPS counter that is disabled by default. You can enable the framerate counter to measure performance for the games launched on Steam.
 
@@ -101,11 +91,9 @@ To enable the FPS counter on Steam:
 5. Click**OK** to save the changes.
 6. Next time you launch a game on Steam, you’ll notice a green-color FPS title appearing at your preferred location on your screen.
 
-## 6\. Razer Cortex
+## 6\. Razer Cortex ![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
 
-![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
-
- Razer Cortex is a[game FPS booster tool for Windows](https://www.makeuseof.com/best-fps-boosters-windows-10/) to optimize games for better performance. It also features a nifty In-Game overlay. You can use it to show FPS count, system time, and playtime as an overlay.
+ Razer Cortex is a [game FPS booster tool for Windows](https://www.makeuseof.com/best-fps-boosters-windows-10/) to optimize games for better performance. It also features a nifty In-Game overlay. You can use it to show FPS count, system time, and playtime as an overlay.
 
  Razer Cortex overlay only works when you launch games on the app. Fortunately, it lets you connect to third-party platforms, including Steam, Gog.com, Ubisoft Connect, Origin, and Humble Bundle and sync game libraries.
 
@@ -123,7 +111,7 @@ To enable Razer Cortex overlay:
 
 **Download** :[Razer Cortex](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022369&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fcortex) (Free)
 
- Apart from these, you can also use[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and[AMD Radeon Software](https://www.amd.com/en/technologies/software) to view FPS count. Both tools allow you to enable and configure in-game overlay. However, the availability of these features can vary depending on your system hardware make.
+ Apart from these, you can also use [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [AMD Radeon Software](https://www.amd.com/en/technologies/software) to view FPS count. Both tools allow you to enable and configure in-game overlay. However, the availability of these features can vary depending on your system hardware make.
 
 ## The Best FPS Counters to Keep Track of Your System Performance
 
@@ -145,3 +133,23 @@ To enable Razer Cortex overlay:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tailored-keybinds-for-snippet-copy-and-paste/"><u>Tailored Keybinds for Snippet Copy & Paste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-cost-free-windows-audio-cleaners/"><u>Top 5 Cost-Free Windows Audio Cleaners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/"><u>How to Endure and Correct Win11's Fatal Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excellent-windows-apps-transforming-videos/"><u>Excellent Windows Apps Transforming Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-slacks-missing-notifications-issue-in-win-11/"><u>Solving Slack's Missing Notifications Issue in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11s-revamped-widget-interface/"><u>Implementing Windows 11'S Revamped Widget Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-window-11-style-hacks-and-themes/"><u>Exclusive Window 11 Style Hacks & Themes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-exacting-speech-recognition-via-googles-precision-tools/"><u>[Updated] 2024 Approved  Exacting Speech Recognition via Google's Precision Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-with-precision-updating-status-and-avatars-in-discord/"><u>[Updated] In 2024, Navigating with Precision  Updating Status & Avatars in Discord</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-complexities-of-mac-and-mixer-streaming/"><u>2024 Approved  Navigating the Complexities of MAC and Mixer Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-facetune-examination-enhancing-photos-like-a-pro/"><u>[Updated] The Ultimate Facetune Examination  Enhancing Photos Like a Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-process-of-instagram-video-content/"><u>[Updated] Seamless Process of Instagram Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-audience-expansion-without-breaking-the-bank/"><u>[Updated] Rapid Audience Expansion Without Breaking the Bank</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-blend-soundscapes-into-igtv-broadcasts/"><u>2024 Approved Blend Soundscapes Into IGTV Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncovering-the-mysteries-of-photo-editing-in-canva/"><u>[New] Uncovering the Mysteries of Photo Editing in Canva</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-insiders-look-at-facebook-video-proportions-and-settings/"><u>The Insider's Look at Facebook Video Proportions and Settings</u></a></li>
+</ul></div>

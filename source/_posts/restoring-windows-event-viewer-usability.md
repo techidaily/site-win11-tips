@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Event Viewer Usability
-date: 2024-06-23 23:10:18
-updated: 2024-06-24 12:54:48
+date: 2024-06-25T16:17:54.289Z
+updated: 2024-06-26T16:17:54.289Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-## 1\. Restart the Windows Event Log Service
-
-![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
+## 1\. Restart the Windows Event Log Service ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
 
  You can restart the Windows Event Viewer log service to fix temporary issues with the app. Use the Services snap-in to stop and restart the service and check for any improvements.
 
@@ -34,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 4. Select **Restart** and wait for the service to restart.
 5. Close the Services snap-in and try to relaunch Event Viewer to see if the issue is resolved.
 
-## 2\. Install the Latest Windows Updates
-
-![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
+## 2\. Install the Latest Windows Updates ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
 
@@ -88,3 +84,30 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
  If you still have no luck, consider using an Event Viewer alternative. Third-party event log analyzers offer better visualization and advanced features.
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/zeroing-out-0x800f0831-windows-troubleshoot-guide/"><u>Zeroing Out 0X800F0831: Windows Troubleshoot Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-your-input-cannot-be-opened-error-in-windows-vlc/"><u>Rectify 'Your Input Cannot Be Opened' Error in Windows, VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-unresponsive-wired-gaming-accessories/"><u>Cure for Unresponsive Wired Gaming Accessories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mechanics-behind-failed-usb-attachment-in-virtualbox/"><u>Decoding the Mechanics Behind Failed USB Attachment in VirtualBox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-missing-dxgidll-streamline-your-win11/"><u>Reinstate Missing Dxgi.dll, Streamline Your Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-airpods-and-windows-compatibility/"><u>Simplified Guide: AirPods & Windows Compatibility</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>[New] OBS and Wirecast Clash  Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-goodbye-to-tiktok-watermarks-best-online-remover-tools/"><u>Updated Say Goodbye to TikTok Watermarks Best Online Remover Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-top-8-windows-screen-recording-applications/"><u>In 2024, The Top 8 Windows Screen Recording Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-remove-background-in-figma/"><u>2024 Approved  How to Remove Background In Figma</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>2024 Approved  [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-trendy-tiktok-dances-ranked-by-popularity/"><u>[Updated] Trendy TikTok Dances Ranked by Popularity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-xs-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone XS Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>[New] The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

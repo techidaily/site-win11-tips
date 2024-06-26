@@ -1,7 +1,7 @@
 ---
 title: Strategies to Eradicate 0X800713F Error on Windows 11
-date: 2024-06-24 13:48:16
-updated: 2024-06-25 12:27:25
+date: 2024-06-25T17:02:11.132Z
+updated: 2024-06-26T17:02:11.132Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 
 ## 3\. Reset and Repair the Mail App
 
- Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to[resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
+ Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to [resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
 
-1. Open Windows Defender Firewall in your Control Panel. If you’re not sure how to access that applet, have a look at our guide for[opening the Windows firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) .
+1. Open Windows Defender Firewall in your Control Panel. If you’re not sure how to access that applet, have a look at our guide for [opening the Windows firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) .
 2. Click the**Turn Windows Defender Firewall on or off** option situated along the left side of the WDF applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 4. Next, press the**OK** button below the firewall settings.
 5. Then bring up Mail and try adding an email account to it.
 
- If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
+ If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 
  If nothing else resolves error 0x800713f, maybe you need to reinstall Mail and Calendar. Doing that will give you a fresh and up-to-date Mail app. You can uninstall and reinstall that app like this:
 
-1. Use one of the many[ways to open the Apps & Features window](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) .
+1. Use one of the many [ways to open the Apps & Features window](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) .
 2. Click**Mail and Calendar’s menu button** (with the three dots) in Apps & Features.
 3. Select Mail and Calendar’s**Uninstall** option from there.  
 ![The Uninstall option for Mail and Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-uninstall-option2.jpg)
@@ -128,3 +128,24 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/classic-lookup-resurrecting-w11-file-explorer/"><u>Classic Lookup: Resurrecting W11 File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-startup-paths-essential-steps/"><u>Unlocking Windows' Startup Paths: Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-taskbar-absence-during-full-screen-mode/"><u>Tackling Taskbar Absence During Full-Screen Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-fury-not-frustration-fixing-lag-in-sw-battlefront-2/"><u>Unleash Fury, Not Frustration: Fixing Lag in SW Battlefront 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-copilot-unveiled-revolutionizing-the-development-process/"><u>Microsoft Copilot Unveiled: Revolutionizing the Development Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-update-processes-windows-os-explored/"><u>Dissecting Update Processes: Windows OS Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-text-selection-in-windows-compatible-pdfs/"><u>Mastering Text Selection in Windows-Compatible PDFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-legal-tips-and-tricks-for-custom-watermarking-in-instagram-for-2024/"><u>[New] Legal Tips and Tricks for Custom Watermarking in Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-watchlist-restoring-suggested-videos/"><u>[Updated] 2024 Approved  Enhancing Watchlist  Restoring Suggested Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-ready-for-lightning-fast-video-editing-with-64-bit-technology/"><u>New 2024 Approved Get Ready for Lightning-Fast Video Editing with 64-Bit Technology</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-professional-audio-editing-made-easy-top-software-picks/"><u>Updated 2024 Approved Professional Audio Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s/"><u>Master Audio Fusion  A Stepwise Approach to Incorporating SRT Into MP4s</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-slowly-quieting-tracks-with-fl-studio/"><u>[Updated] Slowly Quieting Tracks with FL Studio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-look-into-magix-graphic-designer/"><u>2024 Approved  A Look Into MAGIX Graphic Designer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-voice-choir-discovering-video-driven-music/"><u>Visual Voice Choir  Discovering Video-Driven Music</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transitioning-instagram-video-to-mp3-format/"><u>2024 Approved  Transitioning Instagram Video to Mp3 Format</u></a></li>
+</ul></div>

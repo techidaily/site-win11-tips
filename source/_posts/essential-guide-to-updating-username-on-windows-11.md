@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Updating Username on Windows 11
-date: 2024-06-22 13:41:11
-updated: 2024-06-25 11:18:19
+date: 2024-06-25T16:07:51.581Z
+updated: 2024-06-26T16:07:51.581Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 To change your username using the Control Panel, follow these steps:
 
-1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app. (Check out[other ways to access the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) )
+1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app. (Check out [other ways to access the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) )
 2. Select**Large icons** from the**View by** dropdown menu if it isn't already selected.
 3. Go to**User Accounts** .  
 ![Go to User Accounts in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-user-accounts-in-windows-control-panel.jpg)
@@ -101,7 +101,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
  If you use a Microsoft account on your computer, change your username on the Microsoft website. To update your profile username on the Microsoft website, follow these steps:
 
-1. Go to your account page on the[Microsoft website](https://account.microsoft.com/account/Account) .
+1. Go to your account page on the [Microsoft website](https://account.microsoft.com/account/Account) .
 2. Log in to your account if you haven't already.
 3. Navigate to the**Your info** menu after logging in.
 4. Click the**Edit name** button.  
@@ -110,7 +110,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
 
- Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
+ Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend [restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
 ## Change Your Username With Ease
 
@@ -133,3 +133,26 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/rebooting-to-standard-power-plans-guide-for-win-11/"><u>Rebooting to Standard Power Plans: Guide for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-virtualboxs-0x80004005-failure-on-win/"><u>Dealing with VirtualBox's 0X80004005 Failure on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-in-windows-os/"><u>Fixing Steam Interface Error in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-resolution-glitches/"><u>Overcoming Common Windows Resolution Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328086208-calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-approach-to-allocated-ram/"><u>Understanding Windows' Approach to Allocated RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-digital-life-learn-these-5-essential-window-folder-tricks/"><u>Simplify Your Digital Life: Learn These 5 Essential Window Folder Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-task-execution-creating-effective-win-cmds/"><u>Personalize Task Execution: Creating Effective Win Cmds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-best-practices-to-minimize-resonance-in-sound-captures/"><u>In 2024, Best Practices to Minimize Resonance in Sound Captures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-eagleeye-hd-recordingtool/"><u>[Updated] In 2024, EagleEye HD RecordingTool</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-quintessential-compilation-3-aplus-online-services-for-elevated-sound-in-media/"><u>2024 Approved The Quintessential Compilation 3 A+ Online Services for Elevated Sound in Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphones-quintet-of-best-podcast-aides/"><u>2024 Approved  IPhone's Quintet of Best Podcast Aides</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-say-goodbye-to-shaky-videos-top-free-stabilizers/"><u>New 2024 Approved Say Goodbye to Shaky Videos Top Free Stabilizers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>[Updated] In 2024, Hidden Harmony Harvesters  IOS & Android Secret Audio Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/initiate-xp-project-masterpiece-creation-package-for-2024/"><u>Initiate XP Project Masterpiece Creation Package for 2024</u></a></li>
+</ul></div>

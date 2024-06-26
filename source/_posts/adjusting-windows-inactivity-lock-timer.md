@@ -1,7 +1,7 @@
 ---
 title: Adjusting Windows Inactivity Lock Timer
-date: 2024-06-24 14:39:56
-updated: 2024-06-25 10:33:53
+date: 2024-06-25T16:19:10.212Z
+updated: 2024-06-26T16:19:10.212Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
  Now let's go ahead and explore how to lock your PC automatically via the Registry Editor.
 
-1. Type**Registry Editor** in**Windows Search** and select**Registry Editor** under**Best match** . Or use one of the many[ways to open the Registry Editor in Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Type**Registry Editor** in**Windows Search** and select**Registry Editor** under**Best match** . Or use one of the many [ways to open the Registry Editor in Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 2. Click on**Yes** on the UAC prompt.
 3. In the left pane, use the following path to reach the**System** registry key: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System**  
 ![Navigate to System Key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/navigate-to-system-key-in-registry-editor.jpg)
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 7. Now double-click on**InactivityTimeoutSecs** DWORD, and enter the time after which you want your PC to get locked.
 8. Finally, close the Registry Editor and restart your PC to apply the changes.
 
- Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also[explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
+ Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also [explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
 
  To stop your PC from getting locked automatically, modify the**InactivityTimeoutSecs** DWORD value in the Registry Editor by changing the time to**0** seconds.
 
@@ -95,3 +95,27 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/windows-11-swift-notification-off-switch/"><u>Windows 11: Swift Notification OFF Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxvk-transforming-windows-gaming-experience-for-the-better/"><u>DXVK: Transforming Windows Gaming Experience for the Better</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-soon-expiring-license-messages-from-your-pc/"><u>Eliminating “Soon Expiring License” Messages From Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-a-neat-system-restart-in-windows-11/"><u>The Essential Guide to a Neat System Restart in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-overheat-in-laptops-with-intensive-play/"><u>Preventing Overheat in Laptops with Intensive Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-ease-to-windows-11s-security-management/"><u>Navigate with Ease to Windows 11’S Security Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-the-perfect-christmas-look-in-windows-11/"><u>Craft the Perfect Christmas Look in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-rectify-zero-error-in-windows-11-installation-steps/"><u>Swiftly Rectify Zero-Error in Windows 11 Installation Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>[New] Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-8-best-free-online-video-stabilizers-for-2024/"><u>Updated 8 Best Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/snag-soundwaves-from-fb-topics-for-2024/"><u>Snag Soundwaves From Fb Topics for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mellow-playtime-10-top-rated-stress-erasers/"><u>[New] 2024 Approved  Mellow Playtime  10 Top-Rated Stress Erasers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-essential-5-chrome-extensions-seamlessly-access-facebook-videos/"><u>[New] In 2024, Essential 5 Chrome Extensions  Seamlessly Access Facebook Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-your-route-to-revisiting-fbs-recently-viewed-gems/"><u>[New] 2024 Approved  Your Route to Revisiting Fb’s Recently Viewed Gems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>2024 Approved  Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-what-are-you-missing-out-on-5-non-tiktok-apps-to-try/"><u>In 2024, What Are You Missing Out On? 5 Non-TikTok Apps to Try</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investigating-best-fps-for-outstanding-slow-motion-cinematography-for-2024/"><u>Investigating Best FPS for Outstanding Slow-Motion Cinematography for 2024</u></a></li>
+</ul></div>

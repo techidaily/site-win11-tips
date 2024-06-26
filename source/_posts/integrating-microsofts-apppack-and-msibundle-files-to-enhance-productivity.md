@@ -1,7 +1,7 @@
 ---
 title: Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity
-date: 2024-06-22 22:31:20
-updated: 2024-06-25 10:13:42
+date: 2024-06-25T16:12:16.266Z
+updated: 2024-06-26T16:12:16.266Z
 tags:
   - windows10
   - windows11
@@ -24,18 +24,16 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
  You can download the appx or msix package from the app developer’s website, GitHub, or directly from the Microsoft Store server using third-party utilities. Here we show how to download appx/appxbundle and msixbundle package files from Microsoft Store and install them on your Windows computer.
 
-## 1\. How to Download Appx/AppxBundle Files Using Adguard
-
-![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
+## 1\. How to Download Appx/AppxBundle Files Using Adguard ![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
 
  Adguard is a third-party web service and an online link generator for Microsoft Store. It makes it easy to download appx and appxbundle files from the Microsoft Store for sideloading them on your Windows computer.
 
 To download appx, appxbundle or msixbundle using Adguard:
 
-1. Go to[Microsoft Store](https://apps.microsoft.com/store/apps) on your browser, search, and open the app you want to download.
+1. Go to [Microsoft Store](https://apps.microsoft.com/store/apps) on your browser, search, and open the app you want to download.
 2. Copy the app URL, including the product ID, from the address bar. For example, the app URL for the Xbox app on Microsoft Store will look like this:  
 `https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z`
-3. Next, go to the[Adguard page](https://store.rg-adguard.net/) and paste the app URL.
+3. Next, go to the [Adguard page](https://store.rg-adguard.net/) and paste the app URL.
 4. On the right side, click the**RP** drop-down and select**Retail** .
 5. Click the**Check mark** button to generate a direct download link. It will populate the page with msixbundle, appx or appxbundle, and other associated files.
 6. You only need to download the full app package. The rest are app dependencies that you don’t need to download in most cases. For example, in this instance, we only need to download**msixbundle** , which is also the largest file in the list.
@@ -48,7 +46,7 @@ To download appx, appxbundle or msixbundle using Adguard:
 
 To generate a Microsoft Store app downloading link using Fiddler:
 
-1. Download and install the[Fidler Classic app](https://www.telerik.com/download/fiddler) . You’ll need to enter your email and territory to download the app.
+1. Download and install the [Fidler Classic app](https://www.telerik.com/download/fiddler) . You’ll need to enter your email and territory to download the app.
 2. Open**Fiddler** , and click the**WinConfig** button in the top left corner. Click**Yes** if prompted by User Account Control.  
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
@@ -72,24 +70,20 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  In an ideal situation, you can double-click on the app file package to install it on your Windows computer. However, if that does not work, you can sideload the apps using PowerShell and the official App Installer. Here are the three ways to install the appxbundle and msixbundle file packages on Windows 10 and 11.
 
-### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File
-
-![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
+### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
 1. Locate the saved app package in the**Downloads** folder.
 2. Next, double-click on the file to open the installation wizard and click on the**Install** button to install the software.
 
- Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
+ Unfortunately, this installation method does not work always. You are likely to run into errors like [this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
-### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
-
-![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
+### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
- Make sure to[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before installing App Installer. Once installed, you may not be able to uninstall the app. And it can also fiddle with Windows PowerShell’s ability to sideload apps.
+ Make sure to [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before installing App Installer. Once installed, you may not be able to uninstall the app. And it can also fiddle with Windows PowerShell’s ability to sideload apps.
 
 To install App Installer:
 
@@ -99,9 +93,7 @@ To install App Installer:
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
 
-### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
-
-![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
+### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
 
  You can use Windows PowerShell to sideload Microsoft Store app on Windows. This is an efficient way to sideload apps on multiple computers or when you get an error while running the msixbundle or other package files.
 
@@ -118,9 +110,7 @@ To install appx, msixbudnle, and appxbundle apps using PowerShell:
 
  In addition, if you want to install a non-Microsoft Store app file package, you may also need to enable Developer Mode to install UWP apps from third-party sources.
 
-To enable Developer Mode on Windows 11
-
-![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
+To enable Developer Mode on Windows 11 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
@@ -144,3 +134,24 @@ To enable Developer Mode on Windows 11
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-credible-power-consumption-forecasts-in-win-11-setup/"><u>Reestablishing Credible Power Consumption Forecasts in Win 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-with-these-top-6-android-apps/"><u>Elevate Your Windows 11 with These Top 6 Android Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-music-librarys-mp3-files-to-windows-audible-cds-with-imgburn/"><u>Streamlining Your Music Library's MP3 Files to Windows' Audible CDs with ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-changes-essential-windows-programs-for-editing-file-dates/"><u>Timely Changes: Essential Windows Programs for Editing File Dates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-guide-for-converting-cr2-images-to-windows-jpeg-files/"><u>Stepwise Guide for Converting CR2 Images to Windows JPEG Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-protection-turning-on-controlled-folder-access/"><u>Ensuring Data Protection: Turning on Controlled Folder Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-ease-to-windows-11s-security-management/"><u>Navigate with Ease to Windows 11’S Security Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-define-your-own-idle-time/"><u>Windows: Define Your Own Idle Time</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-funny-content-ideas-for-youtube-videos/"><u>New In 2024, Funny Content Ideas for YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-ppt-content-with-soundtracks/"><u>Enrich PPT Content with Soundtracks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-pantheon-of-popularity-instagrams-top-25-icons/"><u>2024 Approved  The Pantheon of Popularity  Instagram's Top 25 Icons</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-steps-to-cure-intermittent-obs-frames/"><u>In 2024, Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-upload-videos-effortlessly-with-premiere-on-youtube/"><u>2024 Approved  Upload Videos Effortlessly with Premiere on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-poco-m6-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Poco M6 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-caller-id-changers-and-their-enchanting-alternatives-for-2024/"><u>Best Caller ID Changers & Their Enchanting Alternatives for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-decoding-omegle-a-deep-dive-into-online-gaming-platforms-with-safety-focus/"><u>New In 2024, Decoding Omegle A Deep Dive Into Online Gaming Platforms with Safety Focus</u></a></li>
+</ul></div>

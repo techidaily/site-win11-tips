@@ -1,7 +1,7 @@
 ---
 title: Overcoming Operation Failure in Windows 11 (Error 0X0000011B)
-date: 2024-06-22 19:48:59
-updated: 2024-06-24 10:16:10
+date: 2024-06-25T17:00:04.201Z
+updated: 2024-06-26T17:00:04.201Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
 ## 1\. Restart the Print Spooler Service
 
- A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the[print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
+ A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the [print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
 
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
@@ -39,9 +39,7 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
-## 2\. Install All the Pending Windows Updates
-
-![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
+## 2\. Install All the Pending Windows Updates ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -55,7 +53,7 @@ To check and install Windows updates:
 
 ## 3\. Install the Printer Manually via the Local Port
 
- A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
+ A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to [add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
 
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
@@ -87,7 +85,7 @@ To check and install Windows updates:
 
  To fix the error without uninstalling the security update, you’ll need to create a new registry entry to disable the feature. Here’s how to do it.
 
- Note that modifying your Windows Registry involves risk. We recommend you[back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and[create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
+ Note that modifying your Windows Registry involves risk. We recommend you [back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
 
 Next, follow these steps to disable CVE-2021-1678 mitigation:
 
@@ -141,3 +139,26 @@ To uninstall Windows updates:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-file-sync-solutions-for-windows-users/"><u>Best File Sync Solutions for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reboot-dns-cache-in-windows-11/"><u>How to Reboot DNS Cache in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-windows-apps-into-linux-world/"><u>Integrating Windows Apps Into Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-silent-windows-headset-mic/"><u>Resuscitating Silent Windows Headset Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-resolve-windows-11-search-tool-errors/"><u>Guides to Resolve Windows 11 Search Tool Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-tackling-windows-1011-interrupt-crashes/"><u>Strategies for Tackling Windows 10/11 INTERRUPT Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solution-to-error-code-0x80070570-rescuing-damaged-files-on-windows-11/"><u>Unlocking Solution to Error Code 0X80070570: Rescuing Damaged Files on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-ace-3-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Ace 3 and Browser | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[Updated] 2024 Approved  In-Depth Tutorial for Immaculate 3D Shapes  Perfect Circles, Spheres</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-smart-7-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Smart 7 online without jailbreak</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/iconic-inning-cameo-examination/"><u>Iconic Inning - Cameo Examination</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-essential-guide-to-adding-soundtracks-to-windows-gifs/"><u>The Essential Guide to Adding Soundtracks to Windows GIFs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-watch-over-instagrams-friendship-shifts/"><u>[New] 2024 Approved  Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-your-mi-11-screens-step-by-step/"><u>[Updated] Capturing Your Mi 11 Screens - Step by Step</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>2024 Approved  From Script to Screen  YouTube Studio Editing Workshop Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+</ul></div>

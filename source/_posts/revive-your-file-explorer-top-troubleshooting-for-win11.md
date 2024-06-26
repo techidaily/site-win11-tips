@@ -1,7 +1,7 @@
 ---
 title: "Revive Your File Explorer: Top Troubleshooting for Win11"
-date: 2024-06-22 20:11:22
-updated: 2024-06-25 11:43:42
+date: 2024-06-25T16:37:44.716Z
+updated: 2024-06-26T16:37:44.716Z
 tags:
   - windows10
   - windows11
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
- We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+ We have a detailed guide on [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
 
 * **Run an SFC Scan:** [Performing an SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow Windows to examine your PC for corrupt or damaged system files and repair them.
-* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
-* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can [use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
+* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -109,3 +109,22 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-epic-launcher-sign-in-on-pc/"><u>Mastering the Art of Epic Launcher Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-the-challenge-the-ultimate-fix-for-xbox-game-passs-error-code-0x800700e9/"><u>Conquering the Challenge: The Ultimate Fix for Xbox Game Pass’s Error Code 0X800700E9</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-login-lock-ups-with-rust-and-windows/"><u>Navigating Through Steam Login Lock-Ups with Rust & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-discord-setup-failures-on-windows-1011/"><u>Mastery Over Discord Setup Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-batch-renaming-like-a-pro-with-powertoys/"><u>Master Batch Renaming Like a Pro with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-11-integrity-through-activation-verification/"><u>Assessing Windows 11 Integrity Through Activation Verification</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-discerning-professional-film-making-talents/"><u>Strategies for Discerning Professional Film Making Talents</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y02t-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y02T Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-android-time-lapse-creation-for-2024/"><u>The Complete Guide to Android Time-Lapse Creation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screen-spectacular-sj6-vs-yi-4k-edition/"><u>[Updated] Screen Spectacular  SJ6 Vs. Yi 4K Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expert-techniques-to-upload-strikingly-good-content-on-tiktok-via-mac-and-windows/"><u>[Updated] In 2024, Expert Techniques to Upload Strikingly Good Content on TikTok via Mac and Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stepwise-guide-to-transform-youtube-clips-into-animated-gifs/"><u>[Updated] Stepwise Guide to Transform Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-s18-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo S18 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chronological-clarity-in-your-photographic-work-for-2024/"><u>Chronological Clarity in Your Photographic Work for 2024</u></a></li>
+</ul></div>

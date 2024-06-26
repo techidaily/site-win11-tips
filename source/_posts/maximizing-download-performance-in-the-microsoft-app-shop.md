@@ -1,7 +1,7 @@
 ---
 title: Maximizing Download Performance in the Microsoft App Shop
-date: 2024-06-23 19:20:54
-updated: 2024-06-24 12:48:14
+date: 2024-06-25T16:40:12.879Z
+updated: 2024-06-26T16:40:12.879Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 ## 1\. Check Your Internet Connection
 
- Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
+ If you are getting a slower download speed across all your internet-based apps, check out our guide on [how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 ## 2\. Close Network-Consuming Applications
 
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 1. Open the**Task Manager** by pressing the**Ctrl + Shift + Esc** hotkeys.
 2. In the**Processes** tab, look in the**Network** column, and close all non-essential applications that are consuming a lot of data.
 
- Additionally, make sure the Microsoft Store is not running in[Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
+ Additionally, make sure the Microsoft Store is not running in [Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
 
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 ## 6\. Switch to the Google Public DNS
 
- By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
+ By default, the [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
 
 1. Launch the Start Menu, type**Control Panel** and press Enter.
 2. In the Control Panel, change the**View by** to**Category.**
@@ -139,3 +139,27 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-access-fixes-for-read-only-reversion-on-pcs/"><u>Mastering File Access: Fixes for Read-Only Reversion on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/foster-robust-windows-application-connections-with-simple-fixes/"><u>Foster Robust Windows Application Connections with Simple Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-utilizing-toolbar-features-in-microsofts-pcm-win11/"><u>Navigating and Utilizing Toolbar Features in Microsoft's PCM Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-and-streamlining-the-microsoft-store-in-win11/"><u>Unblocking and Streamlining the Microsoft Store in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/review-of-yuneecs-aerodrone-typhoon-h-insights-and-results-for-2024/"><u>Review of Yuneec’s AeroDrone Typhoon H  Insights and Results for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-rhythm-revelations-audio-and-actors-dance/"><u>[New] Rapid Rhythm Revelations  Audio and Actors' Dance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>[Updated] How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-top-10-free-chroma-key-apps-for-android-and-ios-for-2024/"><u>Updated S Top 10 Free Chroma Key Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-link-driven-success-a-backlink-blueprint-for-channels/"><u>[Updated] Crafting Link-Driven Success  A Backlink Blueprint for Channels</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/changing-up-siri-steps-to-modify-your-assistants-voice-for-2024/"><u>Changing Up Siri Steps to Modify Your Assistants Voice for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-8t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 8T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uick-vid-overview-top-tips-and-facts-now/"><u>[New] Quick Vid Overview  Top Tips & Facts Now!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-screen-grabs-for-film-enthusiasts/"><u>[Updated] 2024 Approved  Prime Screen Grabs for Film Enthusiasts</u></a></li>
+</ul></div>

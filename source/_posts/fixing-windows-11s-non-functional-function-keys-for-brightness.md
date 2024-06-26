@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11'S Non-Functional Function Keys for Brightness
-date: 2024-06-22 11:32:43
-updated: 2024-06-24 10:40:49
+date: 2024-06-25T16:23:55.440Z
+updated: 2024-06-26T16:23:55.440Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
  Keyboard issues can sometimes be fixed with a simple restart. Restarting your computer will reset the keyboard settings and may make the brightness key work again.
 
- If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
+ If you need, then open this guide and learn [different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
 
- If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
+ If you don't know exactly how to clean the keyboard, you can see our guide on [how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read [a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
 ## 3\. Make Sure the Function Key Is Enabled
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
  The Hardware and Devices Troubleshooter is the next step to try if the above solutions weren't enough. This tool can detect and fix any hardware and device issues on your computer, including the problem with the keyboard. To run the troubleshooter, do the following:
 
-1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
+1. Open the Command Prompt window with admin access. If you need help, see our guide on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
 `msdt.exe -id DeviceDiagnostic`
@@ -102,9 +102,9 @@ Now check if your keyboard is working properly.
 
  If you downloaded any suspicious file or program, then the chances are that your keyboard is experiencing interference due to malware, spyware, or other malicious programs.
 
- To make sure it isn't the case, you can[check if a file is infected with a virus or not](https://www.makeuseof.com/check-suspicious-file-malware/) . In case you find one, you need to[scan your computer for viruses and then remove them](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) .
+ To make sure it isn't the case, you can [check if a file is infected with a virus or not](https://www.makeuseof.com/check-suspicious-file-malware/) . In case you find one, you need to [scan your computer for viruses and then remove them](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) .
 
- If you are more comfortable with command line tools, then[use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
+ If you are more comfortable with command line tools, then [use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
 
  This should help you fix the issue of your keyboard not functioning properly.
 
@@ -133,3 +133,26 @@ Now check if your keyboard is working properly.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-missing-d3dx939dll-in-win11/"><u>Steps to Fix Missing D3DX9_39.dll in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11s-cloud-storage-functionality/"><u>Streamlining Windows 11'S Cloud Storage Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhinge-your-onedrive-link-from-microsoft-profile-in-windows/"><u>Unhinge Your OneDrive Link From Microsoft Profile in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-skip-out-of-s-mode-with-ease-for-your-pc/"><u>Swiftly Skip Out of S Mode with Ease for Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-alert-stay-up-the-top-5-ways-to-monitor-win11-uptime/"><u>Stay Alert, Stay Up: The Top 5 Ways to Monitor Win11 Uptime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-auditory-anomaly-code-0xd36b4-on-windows/"><u>Navigating Through Auditory Anomaly: Code 0Xd36b4 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-detectable-windows-commands/"><u>Strategies for Fixing Non-Detectable Windows Commands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>[New] Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-4k-video-editing-the-ultimate-guide-to-free-software/"><u>Updated No-Cost 4K Video Editing The Ultimate Guide to Free Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-lava-blaze-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Lava Blaze Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-premier-pdf-enhancements/"><u>[New] In 2024, Premier PDF Enhancements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-visual-storytelling-excellence-10-tactics-for-captivating-instagram-ads/"><u>[Updated] In 2024, Visual Storytelling Excellence  10 Tactics for Captivating Instagram Ads</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-compreenasian-guide-to-obs-installation-on-apple-systems/"><u>[Updated] In 2024, A Compreenasian Guide to OBS Installation on Apple Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovating-your-sims-4-experience-through-recording/"><u>[New] In 2024, Innovating Your Sims 4 Experience Through Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quintessential-10-virtual-brawls/"><u>2024 Approved  Quintessential 10 Virtual Brawls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-hidden-power-of-windows-11/"><u>2024 Approved  Unveiling the Hidden Power of Windows 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Teams Upgrade: Fast, Memory-Conscious Solution"
-date: 2024-06-25 11:43:15
-updated: 2024-06-26 10:44:49
+date: 2024-06-25T17:02:14.826Z
+updated: 2024-06-26T17:02:14.826Z
 tags:
   - windows10
   - windows11
@@ -32,23 +32,21 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
- Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
+ Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the [best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
 
  Multi-Tenant Multi-Account (MTMA) allows you to use multiple work and school accounts simultaneously. You can see activities and real-time notifications for all your account in one place and respond to them. This makes it possible to switch between multiple accounts without quitting a meeting or dropping a call.
 
- Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like[scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
+ Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like [scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
-## How to Try the Teams Public Preview
-
-![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+## How to Try the Teams Public Preview ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
 To set the Update policy and enable public preview:
 
-1. Go to[Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
+1. Go to [Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
 2. Next, select**Teams** and click on**Teams Update policies** .
 3. Click**Add** to create a new policy and type a name.
 4. Next, toggle the switch for**Show preview features** and click**Apply** .
@@ -81,3 +79,23 @@ To set the Update policy and enable public preview:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80072efd-in-windows-devicesstore-apps/"><u>Overcoming Error 0X80072EFD in Windows Devices/Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-resource-allocation-within-wsl-android-environment/"><u>Tailoring Resource Allocation Within WSL-Android Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-default-file-savings-in-windows-pcs/"><u>How to Solve Default File Savings in Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-video-cutting-solutions-on-your-windows-11-system/"><u>Masterful Video Cutting Solutions on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminals-in-win11-undo-changes-and-start-new/"><u>Terminals in Win11: Undo Changes & Start New</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-vintage-gaming-journey-integrating-trophies-via-retroarch/"><u>Transform Your Vintage Gaming Journey: Integrating Trophies via Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-failed-signal-for-windows-steam-link/"><u>Reviving Failed Signal for Windows Steam Link</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-video-sizes-on-instagram-the-ultimate-2023-guide/"><u>In 2024, Navigating Video Sizes on Instagram - The Ultimate 2023 Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-single-shots-into-a-spectacular-tile-symphony/"><u>2024 Approved  Transforming Single Shots Into a Spectacular Tile Symphony</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/legal-footprints-in-tiktok-pre-upload-compliance-steps/"><u>Legal Footprints in TikTok  Pre-Upload Compliance Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[Updated] In 2024, Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-m34-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy M34 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-next-travel-companion-best-youtubers-list/"><u>In 2024, Your Next Travel Companion  Best Youtubers' List</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ultimate-top-pop-tunes-playlist-for-video-production-for-2024/"><u>Ultimate Top Pop Tunes Playlist for Video Production for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>[Updated] Peeling Away at ShareX  Comparative Views & Substitutes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Unlock Maximum Speed for Your Digital Purchases at Microsoft
-date: 2024-06-23 14:47:51
-updated: 2024-06-24 11:25:45
+date: 2024-06-25T16:59:32.227Z
+updated: 2024-06-26T16:59:32.227Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ## 1\. Check Your Internet Connection
 
- Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
+ If you are getting a slower download speed across all your internet-based apps, check out our guide on [how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 ## 2\. Close Network-Consuming Applications
 
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 1. Open the**Task Manager** by pressing the**Ctrl + Shift + Esc** hotkeys.
 2. In the**Processes** tab, look in the**Network** column, and close all non-essential applications that are consuming a lot of data.
 
- Additionally, make sure the Microsoft Store is not running in[Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
+ Additionally, make sure the Microsoft Store is not running in [Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
 
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ## 6\. Switch to the Google Public DNS
 
- By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
+ By default, the [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
 
 1. Launch the Start Menu, type**Control Panel** and press Enter.
 2. In the Control Panel, change the**View by** to**Category.**
@@ -139,3 +139,27 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/win-11s-bluetooth-issue-here-are-9-quick-cures-to-restore-your-link/"><u>Win 11'S Bluetooth Issue? Here Are 9 Quick Cures to Restore Your Link</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-11-and-11/"><u>How to Highlight the Mouse Cursor in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-with-these-top-6-android-apps/"><u>Elevate Your Windows 11 with These Top 6 Android Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-fixing-excel-notation-on-notepad/"><u>Guide: Fixing Excel Notation on Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-epic-launcher-sign-in-on-pc/"><u>Mastering the Art of Epic Launcher Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-valorants-audio-sync-on-microsoft-devices/"><u>Correcting Valorant's Audio Sync on Microsoft Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-checklist-longer-pins-in-windows-11-and-11/"><u>The Ultimate Checklist: Longer PINs in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-onedrives-invalid-blob-tag-error-on-pc/"><u>Steps to Correct OneDrive's Invalid Blob Tag Error on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-income-tactics/"><u>Gamer Income Tactics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-prime-gratis-programs-for-streaming-video-capture/"><u>[Updated] Prime, Gratis Programs for Streaming Video Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-get-high-end-editing-power-for-free/"><u>[New] How to Get High-End Editing Power for Free?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leveraging-snapchat-for-income/"><u>[New] 2024 Approved  Leveraging Snapchat for Income</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-dubbing-6-best-apps/"><u>The Ultimate Guide to Video Dubbing 6 Best Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-treasure-of-free-macos-transcription-tools/"><u>2024 Approved  Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-and-fantastic-10-whiteboard-animation-tools-for-pc-and-mac-users/"><u>2024 Approved Free and Fantastic 10 Whiteboard Animation Tools for PC and Mac Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/repeat-your-favorite-videos-with-these-free-tools/"><u>Repeat Your Favorite Videos with These Free Tools</u></a></li>
+</ul></div>

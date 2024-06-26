@@ -1,7 +1,7 @@
 ---
 title: Streamline System Performance by Adding Disk Space Analyzer Tool
-date: 2024-06-24 18:22:41
-updated: 2024-06-25 11:57:32
+date: 2024-06-25T16:39:39.122Z
+updated: 2024-06-26T16:39:39.122Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
 
-1. First, open this[RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
+1. First, open this [RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
 2. Click**Download Now** to view location options for downloading the software.
 3. Select**Secure Download (US)** or**External mirror 1** depending on preference.
 4. Press**Win + E** to open File Explorer ([see how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for more methods) and double-click**RidNacs-2.03-Setup.exe** to open the app’s installer.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
 
-1. Open the[Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
+1. Open the [Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
@@ -100,3 +100,23 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/easy-ways-to-tackle-windows-rpc-errors-effectively/"><u>Easy Ways to Tackle Windows RPC Errors Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-lost-screen-symbols-in-win-11/"><u>Regain Your Lost Screen Symbols in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-issues-a-comprehensible-guide-for-windows-11-users/"><u>Navigating Network Issues: A Comprehensible Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-discords-performance-on-your-windows-pc/"><u>Improving Discord's Performance on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-faded-bios-boot-options/"><u>Remedy for Faded BIOS Boot Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-optimal-online-communication-picking-between-discord-and-skype/"><u>[New] 2024 Approved  Optimal Online Communication  Picking Between Discord and Skype</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-your-winning-game-recording-strategy-on-w11/"><u>[Updated] Perfecting Your Winning Game Recording Strategy on W11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-alternatives-reviewed-by-experienced-broadcinas-for-2024/"><u>OBS Alternatives Reviewed by Experienced Broadcinas for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-initial-step-in-youtube-fame-account-registration/"><u>[Updated] The Initial Step in YouTube Fame  Account Registration</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discovering-the-best-youtube-mp3-transformers/"><u>[Updated] Discovering the Best YouTube MP3 Transformers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tactics-to-triple-your-youtube-subscription-numbers/"><u>In 2024, Tactics to Triple Your YouTube Subscription Numbers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-comparing-profits-from-high-ranking-youtube-videos/"><u>[New] Comparing Profits From High-Ranking YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/foodie-fads-the-tiktok-treat-that-took-over-for-2024/"><u>Foodie Fads  The #Tiktok Treat that Took Over for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-80-pro-straight-screen-edition-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor 80 Pro Straight Screen Edition Device SIM</u></a></li>
+</ul></div>

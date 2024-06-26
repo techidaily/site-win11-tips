@@ -1,7 +1,7 @@
 ---
 title: Ensuring Top-Visibility of Your Notebooks on Win
-date: 2024-06-22 19:57:52
-updated: 2024-06-25 12:52:53
+date: 2024-06-25T16:56:13.454Z
+updated: 2024-06-26T16:56:13.454Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
  Here’s how you can use the Always On Top feature in Microsoft PowerToys to pin the Sticky Notes app on Windows.
 
-1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
+1. Open the [Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
- Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+ Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 
 To pin Sticky Notes using DeskPins:
 
-1. Go to the[DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
+1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
@@ -85,3 +85,26 @@ To pin Sticky Notes using DeskPins:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/eliminating-empty-directory-error-code-0x80070091-in-win11/"><u>Eliminating Empty Directory Error Code 0X80070091 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-to-text-in-real-time-with-whisper-desktop/"><u>How to Turn Your Voice to Text in Real Time With Whisper Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-halted-warcraft-update-sequence/"><u>Navigating a Halted Warcraft Update Sequence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-your-phones-dialer-with-ease-windows-11/"><u>Engage Your Phone's Dialer with Ease, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-bluescreen-mastery-through-11-fixes/"><u>Unraveling Windows 11 Bluescreen: Mastery Through 11 Fixes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-pexelscom-uncovered-an-exploration-of-high-quality-copyright-friendly-images/"><u>New In 2024, Pexels.com Uncovered An Exploration of High-Quality, Copyright-Friendly Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>In 2024, Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tiny-thesis-for-film-storyline/"><u>[New] Tiny Thesis for Film Storyline</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-top-10-best-photo-to-animation-converters-that-give-you-an-advantage/"><u>In 2024, Top 10 Best Photo to Animation Converters That Give You an Advantage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-animators-companion-expertly-reviewed-3d-modeling-software-for-2024/"><u>The Animator's Companion  Expertly Reviewed 3D Modeling Software for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-movavi-video-plus-review-and-performance-in-the-new-year-2024/"><u>[New] Movavi Video Plus  Review & Performance in the New Year 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-camon-30-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Camon 30 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-premier-choices-for-no-cost-screen-recording-tools/"><u>10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Minimalist Workstations with Windows OS
-date: 2024-06-24 22:17:18
-updated: 2024-06-25 11:34:20
+date: 2024-06-25T16:57:21.849Z
+updated: 2024-06-26T16:57:21.849Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 ## Windows System Requirements
 
- Most SBCs have processors that are ARM-based which affords them[certain benefits over x86 processors](https://www.makeuseof.com/x86-vs-arm-which-architecture-should-pc-use/) , such as being inexpensive and energy-efficient. With Windows on ARM, you can run Windows and emulate standard x86 applications. It isn’t perfect yet, but it is getting there very slowly. x86-based single-board computers are generally better suited to running Windows.
+ Most SBCs have processors that are ARM-based which affords them [certain benefits over x86 processors](https://www.makeuseof.com/x86-vs-arm-which-architecture-should-pc-use/) , such as being inexpensive and energy-efficient. With Windows on ARM, you can run Windows and emulate standard x86 applications. It isn’t perfect yet, but it is getting there very slowly. x86-based single-board computers are generally better suited to running Windows.
 
  To determine single-board computers that will be able to run Windows, we need to establish the criteria they need to meet. So, let’s take a look at the basic requirements to run Windows 10 and Windows 11.
 
@@ -64,9 +64,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
 | **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
 
-## 2. Khadas Edge2
-
-![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
+## 2. Khadas Edge2 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
 
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
@@ -85,13 +83,11 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Other Features** | 3 x MIPI CSI connectors, 2 x MIPI DSI connectors, 2 x 30-pin GPIO expansion header                             |
 | **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
 
-## 3. Hackboard 2 SBC
+## 3. Hackboard 2 SBC ![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
 
-![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
+ The [Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
 
- The[Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
-
- The base edition with 4GB RAM, 64GB eMMC storage, and Windows 10 Pro bundled is available for around $200 on the[Hackboard](https://hackboard.com/product/hackboard2/) website.
+ The base edition with 4GB RAM, 64GB eMMC storage, and Windows 10 Pro bundled is available for around $200 on the [Hackboard](https://hackboard.com/product/hackboard2/) website.
 
 **Hackboard 2 key specs:**
 
@@ -122,11 +118,9 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
-## Honorable Mention: Raspberry Pi 4
+## Honorable Mention: Raspberry Pi 4 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
 
-![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
-
- While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the[Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to[install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
+ While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the [Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to [install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
 
 **Raspberry Pi 4 Model B key specs:**
 
@@ -158,3 +152,24 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/hacking-the-login-loop-in-windows-1011/"><u>Hacking the Login Loop in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wows-fatal-issue-in-windows-1111/"><u>Troubleshooting WoW's Fatal Issue in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-discrepancies-in-computers-processor-utilization/"><u>Resolving Discrepancies in Computers' Processor Utilization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-with-these-fixes-for-windows-update/"><u>Smooth Sailing with These Fixes for Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-efficient-qr-codes-on-windows-systems/"><u>Unlocking Secrets: Efficient QR Codes on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-windows-storage-the-top-free-volume-boosters-list/"><u>Enhance Your Windows Storage: The Top Free Volume Boosters List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>[Updated] 2024 Approved  From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-leading-5-innovative-social-media-logos-in-motion/"><u>2024 Approved  Leading 5 Innovative Social Media Logos in Motion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/introductory-insights-crafting-listener-love-for-2024/"><u>Introductory Insights  Crafting Listener-Love for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-hidden-social-content-where-are-your-vids-in-2024/"><u>[Updated] Unlocking Hidden Social Content  Where Are Your Vids, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-methods-for-conducting-outstanding-interviews/"><u>In 2024, Proven Methods for Conducting Outstanding Interviews</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-insight-into-why-certain-youtube-comments-are-showcased/"><u>In 2024, Insight Into Why Certain YouTube Comments Are Showcased</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-ultimate-guide-to-nullifying-auditory-elements-in-windows-clips/"><u>New 2024 Approved Ultimate Guide to Nullifying Auditory Elements in Windows Clips</u></a></li>
+</ul></div>

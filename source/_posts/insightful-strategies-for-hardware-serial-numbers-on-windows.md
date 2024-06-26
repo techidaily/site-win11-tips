@@ -1,7 +1,7 @@
 ---
 title: Insightful Strategies for Hardware Serial Numbers on Windows
-date: 2024-06-22 18:15:34
-updated: 2024-06-24 12:40:48
+date: 2024-06-25T17:04:35.916Z
+updated: 2024-06-26T17:04:35.916Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
  Now, let’s check out how you can use the Device Manager to search for the hardware IDs:
 
-1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out[the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out [the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**devmgmt.msc** and press**Enter** to open the Device Manager.
 3. Expand the category for the device you want to look up. For example, expand the**Keyboards** category if you want the hardware ID for your keyboard.
 4. Right-click on the relevant device and select**Properties** .
@@ -41,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-## 2\. Use the Command Prompt
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+## 2\. Use the Command Prompt ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -83,7 +81,7 @@ Let’s check out the steps you need to follow:
 
 ## 3\. Use PowerShell
 
- Alternatively, you can also check the hardware IDs using[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
+ Alternatively, you can also check the hardware IDs using [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
 
  Let’s explore how you can check the hardware IDs using this tool:
 
@@ -132,7 +130,7 @@ Let’s check out the steps you need to follow:
 
  Let’s check out how you can install this tool and use it to check the hardware IDs:
 
-1. Download and install the[Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
+1. Download and install the [Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
 2. Once you’ve installed the tool, open**File Explorer** and navigate to **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 10 > Tools** . If you’re using Windows 11, the path should be **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 11 > Tools** .
 3. Access the**x64** (64-bit) folder if you're using a 64-bit device or the**x86** (32-bit) folder if you use a 32-bit PC. If you’re unsure what to pick,[check your Windows PC specs](https://www.makeuseof.com/ways-to-check-your-windows-10-essential-pc-specs/) first.
 
@@ -159,7 +157,7 @@ Once you’re in the correct folder, follow these steps:
 
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
- If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+ If you want to explore the Device Console in detail, check out [the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -182,3 +180,24 @@ Once you’re in the correct folder, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-the-clipboard-in-windows-11-with-user-centric-features/"><u>Reimagining the Clipboard in Windows 11 with User-Centric Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-vs-new-why-users-favor-windows-10-over-11/"><u>Old vs New: Why Users Favor Windows 10 Over 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-rectify-cant-add-your-folder-now-in-onedrive/"><u>Essential Steps to Rectify 'Can't Add Your Folder Now' In OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-books-8-effective-studying-tips-on-windows/"><u>Mastering the Books: 8 Effective Studying Tips on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-modifying-the-reset-counter-post-failed-logon-attempts-win-11/"><u>Enhancing Security: Modifying the Reset Counter Post Failed Logon Attempts, Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-windows-11-22h2-issues-and-their-fixes/"><u>Common Windows 11 22H2 Issues and Their Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-into-macos-style-ui-these-5-tips-to-try/"><u>Transforming Windows Into MacOS Style UI: These 5 Tips to Try</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-film-capturing-essential-camera-movements-for-novices/"><u>[New] The Art of Film Capturing  Essential Camera Movements for Novices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi 12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-fast-track-to-zooming-proficiency-for-2024/"><u>The Fast Track to Zooming Proficiency for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-comprehensive-approach-to-live-video-on-websites/"><u>A Comprehensive Approach to Live Video on Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fundamentals-of-narrative-crafting/"><u>Fundamentals of Narrative Crafting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40 Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+</ul></div>

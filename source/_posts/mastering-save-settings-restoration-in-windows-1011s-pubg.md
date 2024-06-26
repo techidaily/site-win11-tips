@@ -1,7 +1,7 @@
 ---
 title: Mastering Save Settings Restoration in Windows 10/11'S PUBG
-date: 2024-06-25 12:28:24
-updated: 2024-06-26 12:33:41
+date: 2024-06-25T16:39:18.280Z
+updated: 2024-06-26T16:39:18.280Z
 tags:
   - windows10
   - windows11
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
  One of the most widely confirmed solutions for PUBG not saving game settings is to delete its GameUserSettings.ini file. Deleting that configuration file will reset it, which often fixes PUBG not saving settings. Applying this potential resolution has worked for lots of players, and it could be the same for you. This is how you can delete that GameUserSettings.ini file:
 
 1. Bring up the Run command app, which you can quickly access with the Windows logo key + R hotkey.
-2. Type**%appdata%** inside Run and press**Enter** to[open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) in the AppData folder.
+2. Type**%appdata%** inside Run and press**Enter** to [open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) in the AppData folder.
 3. Click AppData in Explorer’s address bar to view that directory.  
 ![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
 4. Open the**Local** subfolder within the**AppData** directory.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 ![The Verify Files option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/verify-files-option.jpg)
 
- Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
+ Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our [guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
 
 ## 3\. Disable Controlled Folder Access
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
- Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
+ Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for [uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
 
 ## Tweak PUBG’s Game Settings Again
 
@@ -100,3 +100,22 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-connectivity-issues-with-geforce-experience-software/"><u>Tackling Connectivity Issues with GeForce Experience Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-path-upgrading-your-vm-software-from-virtualbox-v6-to-v7-in-win11/"><u>Step-by-Step Path: Upgrading Your VM Software From VirtualBox v6 to v7 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-11-troubleshooters-for-optimal-performance/"><u>Realigning Windows 11 Troubleshooters for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-access-to-microsoft-store-apps-crafting-windows-shortcuts/"><u>Swift Access to Microsoft Store Apps: Crafting Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-smart-8-hd-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 8 HD? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g310-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia G310 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-6-alternatives-to-windows-movie-maker-for-video-editing/"><u>Updated In 2024, Top 6 Alternatives to Windows Movie Maker for Video Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-2023-full-analysis-provideo-masters-edit-suite/"><u>2024 Approved  2023 Full Analysis  ProVideo Master's Edit Suite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-screen-record-on-mac-with-shortcuts/"><u>How to Screen Record on Mac with Shortcuts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-what-is-the-best-free-stop-motion-animation-software-check-this-article-if-you-are-curious-about-the-answer-we-will-recommend-8-editors-for-wi/"><u>2024 Approved What Is the Best Free Stop Motion Animation Software? Check This Article if You Are Curious About the Answer. We Will Recommend 8 Editors for Windows and Mac</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+</ul></div>

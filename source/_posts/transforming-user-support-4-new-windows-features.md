@@ -1,7 +1,7 @@
 ---
 title: "Transforming User Support: 4 New Windows Features"
-date: 2024-06-21 21:26:27
-updated: 2024-06-24 10:21:13
+date: 2024-06-25T16:12:39.749Z
+updated: 2024-06-26T16:12:39.749Z
 tags:
   - windows10
   - windows11
@@ -42,17 +42,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  So, if you’re still using Windows 10, you’ll have to upgrade to Windows 11 to access the feature.
 
-## 2\. Microsoft Bing With AI-Powered Search
-
-![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
+## 2\. Microsoft Bing With AI-Powered Search ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 
  One of Cortana’s best features is that you can easily search the web. Now, Microsoft takes it to the next level by adding AI to its browser. The new AI-powered Bing can answer complex questions by accessing reliable sources across the web.
 
  While you may not be a fan of Microsoft’s search engine, Bing AI has plenty of tools to replace Cortana. While accessing your Cortana chats might be difficult, you can easily [save and export your Bing AI chat history](https://www.makeuseof.com/export-bing-ai-chat-history/).
 
-## 3\. Windows Copilot
-
-![introducing copilot for Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ezgif-com-webp-to-jpg.jpg)
+## 3\. Windows Copilot ![introducing copilot for Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ezgif-com-webp-to-jpg.jpg)
 
 Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 
@@ -60,9 +56,7 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  You can have an AI-powered conversation and ask Copilot to change your keyboard layout, turn off Bluetooth, increase the screen brightness, and so on. This way, you can focus on your work instead of going through the Settings menu for every minor system tweak.
 
-## 4\. Microsoft 365 Copilot
-
-![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
+## 4\. Microsoft 365 Copilot ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
 
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
 
@@ -79,3 +73,31 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
 ## Replace Cortana With AI on Windows
 
  While you might be sad to see Cortana go, Microsoft isn’t leaving you empty-handed and has developed plenty of tools to replace the virtual assistant. But this is only one example of how Microsoft is using AI to revolutionize Windows software.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-cloud-connection-problems/"><u>Correcting Steam Cloud Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-the-uninitialized-drive-message-on-pc/"><u>Dealing with the 'Uninitialized Drive' Message on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11-determine-software-harmony/"><u>How Does Windows 11 Determine Software Harmony?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reintroducing-versatility-beyond-win-1110s-s-mode/"><u>Reintroducing Versatility Beyond Win 11/10'S S Mode</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-live-online-learning-captures/"><u>[Updated] Live Online Learning Captures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-y02t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo Y02T</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sending-past-moments-via-snapchat-camera-roll-guide/"><u>[Updated] Sending Past Moments via Snapchat  Camera Roll Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-youtube-film-series-collections/"><u>Top YouTube Film Series Collections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-tips-for-nvidia-screen-capturing-for-2024/"><u>[Updated] Quick Tips for NVIDIA Screen Capturing for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-most-innovative-list-scouting-the-top-10-free-youtube-studios-for-animation/"><u>The Most Innovative List  Scouting the Top 10 Free YouTube Studios for Animation</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

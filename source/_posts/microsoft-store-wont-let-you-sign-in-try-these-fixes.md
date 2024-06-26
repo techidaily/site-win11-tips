@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Won’t Let You Sign In? Try These Fixes
-date: 2024-06-21 10:48:23
-updated: 2024-06-24 10:32:26
+date: 2024-06-25T16:54:41.507Z
+updated: 2024-06-26T16:54:41.507Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ If the internet appears to be working, continue with the fixes below.
 
 ## 2\. Run the Windows Store Apps Troubleshooter
 
- Windows Store Apps troubleshooter is useful for fixing[common issues related to the Microsoft Store and its apps](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) . It can scan the Microsoft Store for any common problems and attempt to repair them.
+ Windows Store Apps troubleshooter is useful for fixing [common issues related to the Microsoft Store and its apps](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) . It can scan the Microsoft Store for any common problems and attempt to repair them.
 
 To run the Windows Store apps troubleshooter, use these steps:
 
@@ -43,7 +43,7 @@ To run the Windows Store apps troubleshooter, use these steps:
 
  Like most apps, Microsoft Store collects cache data on your computer to speed up loading times and enhance app performance. However, if this data becomes corrupted, it could lead to many issues, including this one.
 
- You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn[different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
+ You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn [different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
 
 ## 4\. Repair or Reset the Microsoft Store App
 
@@ -59,7 +59,7 @@ To repair the Microsoft Store app on Windows:
 
  A checkmark should appear next to the Repair button once the process is complete.
 
- If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
+ If you cannot sign in even after attempting a repair, you can try [resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
 ## 5\. Correct Date and Time on Your PC
 
@@ -95,11 +95,11 @@ To configure the Microsoft Store Install Service on Windows:
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
- Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
+ Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on [how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
 ## 9\. Reinstall Microsoft Store
 
- If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
+ If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on [how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
 
 ## 10\. Install Windows Updates
 
@@ -128,3 +128,27 @@ To configure the Microsoft Store Install Service on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-shopping-microsoft-store-error-0x80072f30-cure/"><u>Simplify Your Shopping: Microsoft Store Error 0X80072F30 Cure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-silent-audio-devices-pc-edition/"><u>Revive Silent Audio Devices – PC Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-speed-minimizing-applications-via-keyboard-shortcuts/"><u>Unleash Speed: Minimizing Applications via Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-with-ease-a-guide-for-surface-computer-owners/"><u>Update with Ease: A Guide for Surface Computer Owners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-amongst-windows-n-versions-key-considerations/"><u>Choosing Amongst Windows N Versions: Key Considerations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-usb-drive-errors-windows-tips/"><u>Eliminating USB Drive Errors: Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-windows-updater-issue-0xca00a009/"><u>Diagnosing and Fixing Windows Updater Issue: 0XCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-device-is-unreachable-error-in-windows/"><u>Mastering the Art of Rectifying Device Is Unreachable Error in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-affordable-high-resolution-monitors-for-pc-and-laptop-games/"><u>[Updated] 2024 Approved  Affordable, High-Resolution Monitors for PC & Laptop Games</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-resize-and-refine-the-art-of-cropping-videos-in-avidemux/"><u>Updated Resize and Refine The Art of Cropping Videos in Avidemux</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-record-steam-gameplay/"><u>2024 Approved  How to Record Steam Gameplay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-deciphering-youtube-monetization-success-codes/"><u>[New] In 2024, Deciphering YouTube Monetization Success Codes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-srt-file-uploads-on-social-platforms-step-by-step-guide/"><u>Mastering SRT File Uploads on Social Platforms  Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-online-capture-screen-to-youtube-posting-with-pcmac/"><u>[Updated] Online Capture  Screen-to-YouTube Posting with PC/Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-video-journey-choosing-the-seven-best/"><u>[New] 2024 Approved  The Ultimate Video Journey  Choosing the Seven Best</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-methods-to-flip-video-content-in-android-for-2024/"><u>[New] Methods to Flip Video Content in Android for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-transform-your-text-into-engaging-audio-files/"><u>Updated 2024 Approved Transform Your Text Into Engaging Audio Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
+</ul></div>

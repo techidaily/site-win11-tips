@@ -1,7 +1,7 @@
 ---
 title: How to Reinstate Windows Photo Viewer on Win11 PCs
-date: 2024-06-23 21:33:50
-updated: 2024-06-26 11:56:53
+date: 2024-06-25T16:30:16.741Z
+updated: 2024-06-26T16:30:16.741Z
 tags:
   - windows10
   - windows11
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
 1. Press **Win + R** to open the **Run** dialog. Input **notepad** and click **OK**.
 2. Copy and paste the following script into the notepad file:  
-`Windows Registry Editor Version 5.00[-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
+`Windows Registry Editor Version 5.00 [-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
 ![Notepad App Showing a Registry Script to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-registry-script-to-disable-windows-photo-viewer-in-windows-11.png)
 3. Press **Ctrl + Shift + S** to open the **Save** dialog.
 4. Type **DeactivateWindowsPhotoViewer.reg** as the file name. Click the **Save as type** drop-down, choose **All files (\*.\*)**, then click **Save**.  
@@ -68,9 +68,7 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
  Once done, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/), and the Photo Viewer app will be disabled.
 
-## Use One Photo Viewer
-
-![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
+## Use One Photo Viewer ![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
 
  One Photo Viewer is an excellent Windows Photo Viewer and [Windows Photos alternative](https://www.makeuseof.com/best-windows-10-photos-app-alternatives/). It's fast, free, and offers a clean interface by placing all the controls in the context menu, decluttering the toolbar area. Right-click the app interface to view the menu and access all the tools and settings.
 
@@ -81,3 +79,33 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 **Download:** [One Photo Viewer](https://apps.microsoft.com/detail/9PM6W4F0XW3H) (Free, premium version available)
 
  That said, if you prefer to stick with a native option, give the built-in Windows Photos app another shot. It's not as bad as you may think upon first use.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/upgrading-to-optimal-windows-audios-through-driver-revision/"><u>Upgrading to Optimal Windows Audios Through Driver Revision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-directx-downloads-issue-in-os/"><u>Mending DirectX Downloads Issue in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-enabledisable-bing-ai-on-windows-11-search-bar/"><u>Turbo Enable/Disable: Bing AI on Windows 11 Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-check-for-open-tcpip-ports-on-windows/"><u>3 Ways to Check for Open TCP/IP Ports on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-reactivate-googles-nearby-share-app/"><u>Essential Tips to Reactivate Google's Nearby Share App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-solutions-to-unacceptable-connections-in-windows-os/"><u>Finding Solutions to Unacceptable Connections in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-file-denial-in-steam-for-windows-11-users/"><u>Tackling File Denial in Steam for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-transformation-unleash-potential-with-tubebuddy-for-2024/"><u>Channel Transformation  Unleash Potential with TubeBuddy for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/5-elite-webcams-offering-clear-visuals-and-inbuilt-mics/"><u>5 Elite Webcams Offering Clear Visuals & Inbuilt Mics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-practical-approach-to-using-screencastify-for-video-capture-for-2024/"><u>A Practical Approach to Using Screencastify for Video Capture for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-amazing-videos-on-your-mac-top-rated-video-editing-tools/"><u>New In 2024, Make Amazing Videos on Your Mac Top-Rated Video Editing Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/retracing-the-footsteps-in-facebooks-historical-content-stream-for-2024/"><u>Retracing the Footsteps in Facebook’s Historical Content Stream for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-guide-to-desktop-screen-capture-software/"><u>Ultimate Guide to Desktop Screen Capture Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-exclusive-access-to-premium-playlists-on-mobile-devices/"><u>[New] In 2024, Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum/"><u>[Updated] Glimpsing Beyond Virtual Reality  The Pros & Cons Spectrum</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

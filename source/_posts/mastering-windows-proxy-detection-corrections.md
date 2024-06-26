@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Proxy Detection Corrections
-date: 2024-06-24 11:40:14
-updated: 2024-06-25 10:24:53
+date: 2024-06-25T16:10:34.211Z
+updated: 2024-06-26T16:10:34.211Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
 
- Because this error is usually related to misconfigured settings on one computer, restarting your router likely won't have an effect. But it's still an[important network troubleshooting step](http://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for problems of any kind.
+ Because this error is usually related to misconfigured settings on one computer, restarting your router likely won't have an effect. But it's still an [important network troubleshooting step](http://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for problems of any kind.
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 ​​​​​​
 
- We don't want to bore you with the details while you try to fix this proxy setting issue. However, it's useful to understand[the basics of what a proxy actually is](http://www.makeuseof.com/tag/what-is-a-proxy-server/) and why Windows can run into problems with it.
+ We don't want to bore you with the details while you try to fix this proxy setting issue. However, it's useful to understand [the basics of what a proxy actually is](http://www.makeuseof.com/tag/what-is-a-proxy-server/) and why Windows can run into problems with it.
 
  Essentially, a proxy server acts as a middleman between your computer and the internet. Instead of you connecting directly to the internet, you connect to the proxy server, which grabs information from the internet for you.
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 ## 4\. Auto-Obtain IP Address and DNS Info
 
- As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to[fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
+ As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to [fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
 
  While not technically related to your proxy settings, misconfigured IP address or DNS settings can cause this error too. To check these on Windows 10, browse to**Settings > Network & Internet > Status** . Click the**Change adapter options** button in the list to see all your network connections, then double-click on the one you're using.
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
- Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+ Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to [manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -100,9 +100,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 `ipconfig /flushdns`
 
-## 7\. Review Firewall, VPN, and Antivirus Software
-
-![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
+## 7\. Review Firewall, VPN, and Antivirus Software ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
@@ -112,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
- You should thus run a scan with a trusted anti-malware app, like[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
+ You should thus run a scan with a trusted anti-malware app, like [Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
 
 ## 9\. Utilize a Restore Point
 
@@ -126,9 +124,7 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
-## 10\. Reset Your Network Settings
-
-![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
+## 10\. Reset Your Network Settings ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
@@ -157,3 +153,26 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/keeping-track-of-windows-shots-folders/"><u>Keeping Track of Windows Shots' Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-diskusage-for-in-depth-drive-space-examination/"><u>Harnessing the Potential of DiskUsage for In-Depth Drive Space Examination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-geforce-now-error-xc0f1103f/"><u>Tackling Windows 11'S GeForce Now Error Xc0f1103f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-efficiency-into-daily-use-with-win11-icon-additions/"><u>Integrating Efficiency Into Daily Use with Win11 Icon Additions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-display-at-operating-system-kickoff/"><u>Resolving Non-Display at Operating System Kickoff</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-cease-discord-startup-and-update-checks-in-windows/"><u>Workaround: Cease Discord Startup and Update Checks in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-absence-of-tab-functionality-in-os-x/"><u>Navigating the Absence of Tab Functionality in OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/budget-beware-top-7-hazards-with-sub-standard-windows-licenses/"><u>Budget Beware: Top 7 Hazards with Sub-Standard Windows Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-character-map-hurdles-a-step-by-step-solution/"><u>Breaking Down Windows Character Map Hurdles: A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-characters-animation-basics-in-wmm/"><u>2024 Approved  Crafting Characters  Animation Basics in WMM</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-12-ad-free-screen-recording-software/"><u>[New] 2024 Approved  Top 12 Ad-Free Screen Recording Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-set-your-tiktok-track-as-ringtone/"><u>[New] A Step-by-Step Guide to Set Your TikTok Track as Ringtone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-melody-migration-made-easy-a-guide-to-the-best-free-youtube-downloading-apps/"><u>[New] Melody Migration Made Easy  A Guide to the Best Free YouTube Downloading Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-avi-video-trimming-made-easy-top-16-tools-for-every-device/"><u>2024 Approved AVI Video Trimming Made Easy Top 16 Tools for Every Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-capture-twitter-gifs-on-your-computer-quickly/"><u>[Updated] 2024 Approved  Capture Twitter Gifs on Your Computer Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-next-gen-hd-video-recording-the-pinnacle-choices/"><u>[Updated] 2024 Approved  Next-Gen HD Video Recording  The Pinnacle Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-android-recorder-commercial-free/"><u>2024 Approved  Top Android Recorder - Commercial-Free</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-auto-transcription-experts-choice-top-6-software-picks-for-2024/"><u>The Auto-Transcription Experts Choice – Top 6 Software Picks for 2024</u></a></li>
+</ul></div>

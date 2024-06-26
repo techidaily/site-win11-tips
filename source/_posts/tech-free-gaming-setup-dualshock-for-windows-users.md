@@ -1,7 +1,7 @@
 ---
 title: "Tech-Free Gaming Setup: DualShock for Windows Users"
-date: 2024-06-21 10:55:51
-updated: 2024-06-24 10:53:34
+date: 2024-06-25T16:38:48.192Z
+updated: 2024-06-26T16:38:48.192Z
 tags:
   - windows10
   - windows11
@@ -30,19 +30,19 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
  By combining two pieces of software, DsHidMini, and BthPS3, you can have your PC detect your DualShock controller effortlessly both when connected with a USB cable and wirelessly through Bluetooth.
 
- Note, though, that for this guide, we take the existence of correctly working Bluetooth functionality for granted. If your PC lacks Bluetooth support, check our buyer's guide on[the best Bluetooth adapters you can grab today](https://www.makeuseof.com/best-bluetooth-adapters/) . Then, check our guide on[how to add Bluetooth to any computer](https://www.makeuseof.com/add-bluetooth-pc/) .
+ Note, though, that for this guide, we take the existence of correctly working Bluetooth functionality for granted. If your PC lacks Bluetooth support, check our buyer's guide on [the best Bluetooth adapters you can grab today](https://www.makeuseof.com/best-bluetooth-adapters/) . Then, check our guide on [how to add Bluetooth to any computer](https://www.makeuseof.com/add-bluetooth-pc/) .
 
 ### Download and Install DsHidMini and BthPS3
 
  DsHidMini suggests installing BthPS3 to have your DualShock controllers correctly detected and connected to your PC. This guide will follow that suggestion, especially since we want them to work wirelessly.
 
-1. Start by downloading the first piece of software from[DsHidMini's GitHub page](https://github.com/ViGEm/DsHidMini) .  
+1. Start by downloading the first piece of software from [DsHidMini's GitHub page](https://github.com/ViGEm/DsHidMini) .  
 ![DsHidMini GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dshidmini-github-page.jpg)
-2. Do the same with a visit at[BthPS3's GitHub page](https://github.com/ViGEm/BthPS3) .  
+2. Do the same with a visit at [BthPS3's GitHub page](https://github.com/ViGEm/BthPS3) .  
 ![BthPS3 GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-page.jpg)
 3. In both cases, you'll find the downloadable files by clicking on the link under**Installation** , then checking out the links under**Assets** . Most people should go for the x64 versions. If you're still using an older 32-bit version of Windows, get the x86 files.  
 ![BthPS3 GitHub Assets Links](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-github-assets-links.jpg)
-4. Click on**BthPS3's MSI file** that you've downloaded to install the Bluetooth driver. "MSI" stands for Microsoft Software Installer. Unlike executable installers, MSI relies on the "official" installation libraries bundled with Windows. If you meet any problems during that step, check our guide on[how to fix issues with the Windows Installer package](https://www.makeuseof.com/windows-installer-package-fix-issues/) .  
+4. Click on**BthPS3's MSI file** that you've downloaded to install the Bluetooth driver. "MSI" stands for Microsoft Software Installer. Unlike executable installers, MSI relies on the "official" installation libraries bundled with Windows. If you meet any problems during that step, check our guide on [how to fix issues with the Windows Installer package](https://www.makeuseof.com/windows-installer-package-fix-issues/) .  
 ![BthPS3 Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-installation.jpg)
 5. After BthPS3's successful installation, you'll see it as a new device under the**Bluetooth** category in**Device Manager** . The easiest way to access the Device Manager is by using the**Windows Key** +**X** shortcut and selecting it from the menu that shows up.  
 ![BthPS3 Installed Bluetooth Driver in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bthps3-installed-bluetooth-driver-in-device-manager.jpg)
@@ -91,7 +91,7 @@ sc delete Ds3Service`
 
  For ScpToolkit, look under**libusbK USB Devices** instead, and right-click and**Uninstall** any entry you see. Also, check for and, if found, uninstall the drivers for any "Bluetooth Dongle", "DualShock controller", or "PlayStation controller" under**Universal Serial Bus devices** .
 
- Then, download[DriverStore Explorer from its GitHub page](https://github.com/lostindark/DriverStoreExplorer/releases/tag/v0.11.79) . Extract its archive and run the app. Enable**Force Deletion** on the right. Seek any**libusbK USB Devices** , a standalone**scpvbus.inf** , or**bluetoothhost.inf** and**ds3controller.inf** if using ScpToolkit.
+ Then, download [DriverStore Explorer from its GitHub page](https://github.com/lostindark/DriverStoreExplorer/releases/tag/v0.11.79) . Extract its archive and run the app. Enable**Force Deletion** on the right. Seek any**libusbK USB Devices** , a standalone**scpvbus.inf** , or**bluetoothhost.inf** and**ds3controller.inf** if using ScpToolkit.
 
  Look for**sixaxis.inf** instead if using the official Sony driver. In both cases, place a checkmark next to any of those entries you'll find, and then click on**Delete Drivers** on the right.
 
@@ -103,7 +103,7 @@ sc delete Ds3Service`
 
  When that's not the case, run DSHMC.exe as an administrator and change the HID mode used by your joypad to the one supported by the game or app where you want to use it.
 
- An easy way to find the HID mode to choose for a particular title is to check if there's information about it at[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Main%5FPage) .
+ An easy way to find the HID mode to choose for a particular title is to check if there's information about it at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Main%5FPage) .
 
 ## Using Classic PS3 Joypads on Your Modern-Day Games for Windows
 
@@ -126,3 +126,26 @@ sc delete Ds3Service`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-discord-install-failure/"><u>Overcoming Windows 11 Discord Install Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-popular-rainmeter-problems-in-windows-systems/"><u>Troubleshooting Popular Rainmeter Problems in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-fixed-windows-itunes-applications/"><u>Swift Solutions to Fixed Windows iTunes Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-your-preferred-soft-install-tool-on-win-devices/"><u>Finding Your Preferred Soft Install Tool on Win Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-resolving-windows-error-code-0xc0000001/"><u>Expert Advice on Resolving Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-poise-and-precision-from-any-corner-of-the-globe/"><u>Navigating with Poise and Precision From Any Corner of the Globe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-essential-fixes-conquer-the-windows-update-hurdles/"><u>7 Essential Fixes: Conquer the Windows Update Hurdles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-posting-videos-on-twitter-step-by-step-for-2024/"><u>[Updated] Posting Videos on Twitter Step-by-Step for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/journey-through-the-best-7-nft-creation-applications/"><u>Journey Through the Best 7 NFT Creation Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-ensure-your-virtual-meetings-are-documented/"><u>[Updated] In 2024, How to Ensure Your Virtual Meetings Are Documented</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-explore-the-globe-in-one-frame-iphone-360-video-guide/"><u>[Updated] 2024 Approved  Explore the Globe in One Frame  IPhone 360 Video Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-achieving-crystal-cleared-voices-tools-for-subtracting-unwanted-acoustics-in-digital-recordings/"><u>2024 Approved Achieving Crystal-Cleared Voices Tools for Subtracting Unwanted Acoustics in Digital Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-filter-fiesta-the-ultimate-guide-to-transformative-snaps/"><u>In 2024, Filter Fiesta  The Ultimate Guide to Transformative Snaps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discovering-the-secrets-to-a-perfect-pfp-on-discord/"><u>In 2024, Discovering The Secrets to a Perfect Pfp on Discord</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-saving-game-moments-with-fbx-recorder/"><u>[New] 2024 Approved  Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-maximize-your-video-impact-ios-and-youtube-upload-guide/"><u>[New] Maximize Your Video Impact  IOS and YouTube Upload Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectacularly-in-3d-apt-selection-of-top-decks/"><u>[Updated] Spectacularly in 3D  Apt Selection of Top Decks</u></a></li>
+</ul></div>

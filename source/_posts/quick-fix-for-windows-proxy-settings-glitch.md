@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Windows Proxy Settings Glitch
-date: 2024-06-23 22:35:52
-updated: 2024-06-24 11:43:58
+date: 2024-06-25T16:07:08.331Z
+updated: 2024-06-26T16:07:08.331Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
 
- Because this error is usually related to misconfigured settings on one computer, restarting your router likely won't have an effect. But it's still an[important network troubleshooting step](http://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for problems of any kind.
+ Because this error is usually related to misconfigured settings on one computer, restarting your router likely won't have an effect. But it's still an [important network troubleshooting step](http://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for problems of any kind.
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ​​​​​​
 
- We don't want to bore you with the details while you try to fix this proxy setting issue. However, it's useful to understand[the basics of what a proxy actually is](http://www.makeuseof.com/tag/what-is-a-proxy-server/) and why Windows can run into problems with it.
+ We don't want to bore you with the details while you try to fix this proxy setting issue. However, it's useful to understand [the basics of what a proxy actually is](http://www.makeuseof.com/tag/what-is-a-proxy-server/) and why Windows can run into problems with it.
 
  Essentially, a proxy server acts as a middleman between your computer and the internet. Instead of you connecting directly to the internet, you connect to the proxy server, which grabs information from the internet for you.
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ## 4\. Auto-Obtain IP Address and DNS Info
 
- As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to[fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
+ As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to [fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
 
  While not technically related to your proxy settings, misconfigured IP address or DNS settings can cause this error too. To check these on Windows 10, browse to**Settings > Network & Internet > Status** . Click the**Change adapter options** button in the list to see all your network connections, then double-click on the one you're using.
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
- Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+ Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to [manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -100,9 +100,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 `ipconfig /flushdns`
 
-## 7\. Review Firewall, VPN, and Antivirus Software
-
-![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
+## 7\. Review Firewall, VPN, and Antivirus Software ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
@@ -112,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
- You should thus run a scan with a trusted anti-malware app, like[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
+ You should thus run a scan with a trusted anti-malware app, like [Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
 
 ## 9\. Utilize a Restore Point
 
@@ -126,9 +124,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
-## 10\. Reset Your Network Settings
-
-![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
+## 10\. Reset Your Network Settings ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
@@ -157,3 +153,27 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-directory-management-without-renaming-features-in-windows-11/"><u>Mastering Directory Management without Renaming Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-mcuicntexe-non-existent-window-complaint/"><u>Dealing with McUICnt.exe Non-Existent Window Complaint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-laptop-or-desktop-windows-era/"><u>Unveiling Laptop or Desktop Windows Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-file-explorer-freezes-in-win11-with-these-fixes/"><u>Stop File Explorer Freezes in Win11 With These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx939-dll-in-win11/"><u>Addressing Missing D3DX9_39 DLL in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-windows-storage-the-top-free-volume-boosters-list/"><u>Enhance Your Windows Storage: The Top Free Volume Boosters List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-tone-playback-on-windows-post-hardware-failure/"><u>Enable Tone Playback on Windows Post Hardware Failure</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-free-fb-video-creators-20-top-tools-for-engaging-ads/"><u>In 2024, Free FB Video Creators  20 Top Tools for Engaging Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-comparative-game-capture-review-obs-vs-shadowplay/"><u>2024 Approved  Comparative Game Capture Review  OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>2024 Approved  A Bundle of Nine Premium Holiday Treasures  Watch for Free on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-standout-youtube-thumbnails-with-ease/"><u>[New] Crafting Standout YouTube Thumbnails with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-link-up-movies-to-your-youtube-compendium/"><u>[Updated] Link Up Movies to Your YouTube Compendium</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/visual-narratives-that-speak-volumes-with-instagramcaptions-for-2024/"><u>Visual Narratives That Speak Volumes with #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-15-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 15 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-innovate-your-podcast-previews-and-trailers-for-2024/"><u>How to Innovate Your Podcast Previews and Trailers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-mental-armor-against-online-critics/"><u>Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/10-viral-tiktok-food-recipes/"><u>10 Viral Tiktok Food Recipes</u></a></li>
+</ul></div>

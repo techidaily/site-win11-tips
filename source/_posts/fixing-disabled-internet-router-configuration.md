@@ -1,7 +1,7 @@
 ---
 title: Fixing Disabled Internet Router Configuration
-date: 2024-06-22 13:18:40
-updated: 2024-06-24 10:22:35
+date: 2024-06-25T17:09:49.506Z
+updated: 2024-06-26T17:09:49.506Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,7 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
-## 2\. Verify if the IP Address Is Correct
-
-![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
+## 2\. Verify if the IP Address Is Correct ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
 
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
@@ -57,7 +55,7 @@ To find your Default Gateway IP address for the router:
 
  At times the problem can be due to your web browser. Bad cache or other glitches can prevent the browser from redirecting to your router’s login page.
 
- To determine the cause, use a different browser to access your router’s login page. If accessible on a different browser, try to[clear your Edge browser cache](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) to see if that helps. If you are using Chrome, follow these steps.
+ To determine the cause, use a different browser to access your router’s login page. If accessible on a different browser, try to [clear your Edge browser cache](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) to see if that helps. If you are using Chrome, follow these steps.
 
 1. In Google Chrome, click the three-dots menu and select**Settings** .
 2. Open the**Privacy and Security** tab in the left pane.  
@@ -89,9 +87,7 @@ To find your Default Gateway IP address for the router:
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-## 5\. Disable Invisibility on Any LAN VPNs
-
-![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
+## 5\. Disable Invisibility on Any LAN VPNs ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
 
@@ -106,9 +102,9 @@ To disable Invisibility on LAN on NordVPN:
 
  If you can’t reach the login page, check if your router is acting up. Temporary issues with the router can be fixed with a quick restart. If that doesn’t work, you can perform a factory reset to restore your router to its default settings.
 
- You can[reset your router using the dedicated reset button](https://www.makeuseof.com/how-to-reset-router/) or the web interface. In this instance, you’ll need to use the dedicated reset button, as the web interface is not accessible. Before the reset, take a backup of your router configuration.
+ You can [reset your router using the dedicated reset button](https://www.makeuseof.com/how-to-reset-router/) or the web interface. In this instance, you’ll need to use the dedicated reset button, as the web interface is not accessible. Before the reset, take a backup of your router configuration.
 
- If the issue persists, consider[updating your router firmware](https://www.makeuseof.com/easy-guide-updating-router-firmware/) to add new features, performance improvements, and also any bug fixes causing the router to act up.
+ If the issue persists, consider [updating your router firmware](https://www.makeuseof.com/easy-guide-updating-router-firmware/) to add new features, performance improvements, and also any bug fixes causing the router to act up.
 
 ## Troubleshoot a Non-Accessible Router Login Page on Windows
 
@@ -129,3 +125,23 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stops-repeated-edge-icons-on-workspace/"><u>Stops Repeated Edge Icons on Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-silent-audio-devices-pc-edition/"><u>Revive Silent Audio Devices – PC Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-experience-mastering-windows-11s-search-tool/"><u>Jumpstart Your PC Experience: Mastering Windows 11’S Search Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fostering-efficiency-not-just-fun-in-windows-11/"><u>Fostering Efficiency, Not Just Fun in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-privilege-needed-blue-screen-windows-fix-guide/"><u>Bypassing 'Privilege Needed' Blue Screen: Windows Fix Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-three-methods-to-capture-youtube-images-for-macwindows-users/"><u>[New] Three Methods to Capture YouTube Images for Mac/Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-video-splitters-top-5-picks/"><u>The Ultimate Guide to Free Video Splitters Top 5 Picks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-exploring-the-latest-mood-aligned-symphonies-for-2024/"><u>Updated Exploring the Latest Mood-Aligned Symphonies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>The Audiovisual Experience Elevated  Mastering Audio Blending in Audacity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luts-on-the-house-your-dji-devices-get-a-perk-up/"><u>In 2024, LUTs on the House - Your DJI Devices Get a Perk Up</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-3-ultimate-multi-user-video-platforms/"><u>[Updated] In 2024, Top 3 Ultimate Multi-User Video Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-accelerating-your-creative-process-with-mac-dvd-authoring/"><u>[New] Accelerating Your Creative Process with Mac DVD Authoring</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-dvd-creation-a-guide-for-mac-users-for-2024/"><u>Mastering DVD Creation  A Guide for Mac Users for 2024</u></a></li>
+</ul></div>

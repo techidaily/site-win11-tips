@@ -1,7 +1,7 @@
 ---
 title: How to Change Lockout Duration After Failed Logon Attempts in Windows 11 and 11
-date: 2024-06-24 17:16:46
-updated: 2024-06-25 11:36:19
+date: 2024-06-25T16:32:03.632Z
+updated: 2024-06-26T16:32:03.632Z
 tags:
   - windows10
   - windows11
@@ -56,3 +56,33 @@ thumbnail: https://thmb.techidaily.com/8979e8080587e2a8dc2c43407031e5a8747618e7a
  Setting account lockout duration too high will cause inconvenience, but if you set it to zero, an administrator will have to be contacted each time a user locks themselves out. Find a balance between security and convenience when it comes to changing how long a user is locked out after a set number of failed login attempts.
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-command-prompt-integrating-folders-into-context-menu/"><u>Elevate Your Command Prompt: Integrating Folders Into Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-terminal-for-quake-environment/"><u>Accessing Windows Terminal for Quake Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-auto-lock-and-screensaver-interval/"><u>Personalize Auto-Lock & Screensaver Interval</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reenergizing-your-dead-wireless-hotspot-in-windows-11/"><u>Reenergizing Your Dead Wireless Hotspot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-faulty-resource-monitors-on-windows-11/"><u>Resetting Techniques for Faulty Resource Monitors on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-non-active-vss-service-states/"><u>Restoring Non-Active VSS Service States</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-buzz-mastering-voice-recorder-shortcuts-in-windows-11/"><u>Beating the Buzz: Mastering Voice Recorder Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/"><u>Running State-of-the-Art AI: Windows Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-find-n3-flip-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Oppo Find N3 Flip Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/boosting-stability-and-speed-more-ram-for-minecraft/"><u>Boosting Stability & Speed  More RAM for Minecraft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-evaluationcast-breakdown/"><u>[New] EvaluationCast Breakdown</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-an-android-users-journey-to-flawless-audio-visual-integration-for-2024/"><u>New An Android Users Journey to Flawless Audio-Visual Integration for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-standard-views-a-detailed-look-at-the-z32x-model/"><u>[New] Beyond Standard Views  A Detailed Look at the Z32X Model</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-sonic-treasure-trove-the-8-best-websites-to-explore-a-world-of-high-quality-gratis-audio-enhancements/"><u>Updated In 2024, Sonic Treasure Trove The 8 Best Websites to Explore a World of High-Quality, Gratis Audio Enhancements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-make-timelapse-video-with-imovie-for-2024/"><u>New Guide to Make Timelapse Video with iMovie for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/advanced-voice-communication-technology-for-gamers-interaction-for-2024/"><u>Advanced Voice Communication Technology for Gamers Interaction for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-revitalizing-urban-areas-with-environmental-vision-and-purpose/"><u>[Updated] 2024 Approved  Revitalizing Urban Areas with Environmental Vision and Purpose</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

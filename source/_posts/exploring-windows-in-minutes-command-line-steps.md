@@ -1,7 +1,7 @@
 ---
 title: "Exploring Windows in Minutes: Command Line Steps"
-date: 2024-06-23 14:48:28
-updated: 2024-06-25 11:29:57
+date: 2024-06-25T16:45:21.780Z
+updated: 2024-06-26T16:45:21.780Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
 
- Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to[run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
+ Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to [run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
 
  Now, here’s how to open the System Information tool using the Run command dialog box:
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 ## 5\. Use the System Settings
 
- You can always use the system settings to customize or repair the apps on your PC (see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
+ You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
 
  Here are the steps for opening the System Information app using the system settings:
 
@@ -122,9 +122,7 @@ Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
-## 9\. Use the Command Prompt or PowerShell
-
-![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+## 9\. Use the Command Prompt or PowerShell ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
@@ -136,9 +134,7 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
-## 10\. Use a System Information Desktop Shortcut
-
-![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+## 10\. Use a System Information Desktop Shortcut ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
@@ -172,3 +168,26 @@ Want to make the System Information tool easily accessible?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigate-black-windows-display-with-ease/"><u>Navigate Black Windows Display with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-file-tracking-the-ultimate-guide-to-copying-windows-11-filesystem-trails-6-methods/"><u>Winning at File Tracking: The Ultimate Guide to Copying Windows 11 Filesystem Trails (6 Methods)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-workings-of-windows-odbc-tools/"><u>Insight Into the Workings of Windows ODBC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-hello-for-secure-user-access/"><u>Enabling Windows Hello for Secure User Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-network-issues-demystifying-windows-error-0x800704b3/"><u>Tackling Network Issues - Demystifying Windows' Error: 0X800704B3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pc-speed-for-swift-steam-content-delivery/"><u>Enhance PC Speed for Swift Steam Content Delivery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-instructions-for-installing-chrome-on-windows-11/"><u>Stepwise Instructions for Installing Chrome on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-disabled-lock-screen-timer/"><u>Corrective Measures for Disabled Lock Screen Timer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-an-impactful-waterway-teaser-for-2024/"><u>[Updated] Crafting an Impactful Waterway Teaser for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-idea-to-screen-easy-film-production-for-beginners/"><u>New In 2024, From Idea to Screen Easy Film Production for Beginners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>2024 Approved  Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ceasing-noise-during-obs-recordings/"><u>[New] Ceasing Noise During OBS Recordings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-lava-agni-2-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Lava Agni 2 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-content-control-youtube-vs-creative-commons-license/"><u>[New] 2024 Approved  Deciphering Content Control  YouTube Vs. Creative Commons License</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-color-in-photography-top-11-tutorials-for-2024/"><u>The Essence of Color in Photography (Top 11 Tutorials) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[Updated] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>The Art of Digital Library  Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+</ul></div>

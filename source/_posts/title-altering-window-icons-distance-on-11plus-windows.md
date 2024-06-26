@@ -1,7 +1,7 @@
 ---
 title: "Title: Altering Window Icons' Distance on 11+ Windows"
-date: 2024-06-22 13:27:15
-updated: 2024-06-25 11:33:45
+date: 2024-06-25T16:24:22.892Z
+updated: 2024-06-26T16:24:22.892Z
 tags:
   - windows10
   - windows11
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  You can tweak these hidden options and create the desktop icon spacing you want as follows:
 
 1. Click the**Start** button on the taskbar with the right mouse button to select the**Run** shortcut.
-2. To[open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) , enter**regedit** in the Run and select**OK** .
+2. To [open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) , enter**regedit** in the Run and select**OK** .
 3. Go to the **Computer\\HKEY\_CURRENT\_USER\\Control Panel\\Desktop\\WindowMetrics** registry key. You can copy and paste that registry location in the address bar or click the keys for it on the left sidebar.
 4. Select the**WindowMetrics** key.  
 ![The WindowMetrics key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windowsmetrics-key.jpg)
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 5. Clear the current value, and then input another number with a minus sign in front of it. If you want the vertical spacing to be the same as the horizontal, enter a number there that matches the IconSpacing value.
 6. Click the Edit String window’s**OK** button.
 7. Exit the Registry Editor.
-8. You’ll need to restart Windows to apply this[registry tweak](https://www.makeuseof.com/tag/5-windows-10-registry-tweaks-improve-unlock-features/) .
+8. You’ll need to restart Windows to apply this [registry tweak](https://www.makeuseof.com/tag/5-windows-10-registry-tweaks-improve-unlock-features/) .
 
  After the restart, the icon spacing on your desktop will have changed according to the new**IconString** and**IconVerticalSpacing** values you entered. You’ll notice the difference if you entered notably higher or lower values. Don’t get too carried away by entering values that are far too low or high. The shortcuts’ labels will overlap with too little spacing and some icons might disappear from the desktop if you expand the space between them too much.
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  Some third-party customization software packages for Windows 11/10 include options for changing desktop icon spacing. Among them is the freeware Winaero Tweaker, which has two slider bars with which you can increase or decrease horizontal and vertical icon spacing. As that software also specifies space values in pixels, some users might prefer to change icon spacing with it. This is how to change the spacing for desktop icons with Winaero Tweaker.
 
-1. Open a browser and visit the[Winaero Tweaker](https://winaero.com/winaero-tweaker/#download) download page.
+1. Open a browser and visit the [Winaero Tweaker](https://winaero.com/winaero-tweaker/#download) download page.
 2. Scroll down the page to select a**Download Winaero Tweaker** option.
 3. Next, launch File Explorer to open the folder that includes Winaero’s ZIP archive.
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
@@ -93,11 +93,11 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  DesktopOK is another third-party app with which you can adjust the vertical and horizontal spacing between desktop icons. That software also enables you to save desktop icon layouts and packs in other useful tools and features. You can change desktop icon spacing with DesktopOK like this:
 
-1. Open[this DesktopOK](https://www.softwareok.com/?Download=DesktopOK&goto=../Download/DesktopOK%5Fx64.zip) download page.
+1. Open [this DesktopOK](https://www.softwareok.com/?Download=DesktopOK&goto=../Download/DesktopOK%5Fx64.zip) download page.
 2. Click the**DesktopOK\_x64.zip** (for the portable app version) to save the archive.
 3. Simultaneously press the**Windows** logo +**E** keys on your keyboard to activate File Explorer.
 4. Go to the folder containing the DesktopOK ZIP archive.
-5. Follow the instructions in this[how-to unzip archives in Windows guide](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP file.
+5. Follow the instructions in this [how-to unzip archives in Windows guide](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP file.
 
 1. Then double-click the**DesktopOK\_x64.exe** file.
 2. Click**Tools** on the DesktopOK window.  
@@ -128,3 +128,22 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-microsoft-store-crash-code-error-0x80072efd/"><u>Swift Fixes for Microsoft Store Crash Code Error 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/low-priced-windows-keys-what-youre-really-paying-for/"><u>Low-Priced Windows Keys: What You're Really Paying For</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-repair-exploration-sifting-through-disms-role-with-chkdsksfc/"><u>System Repair Exploration: Sifting Through DISM's Role with CHKDSK/SFC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-system-tray-and-secret-icons-in-win11/"><u>Decoding System Tray & Secret Icons in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retro-game-revival-elevating-experiences-by-adding-achievements-using-retroarch/"><u>Retro Game Revival: Elevating Experiences by Adding Achievements Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/blue-badge-on-facebook-your-pathway-unveiled/"><u>Blue Badge on Facebook  Your Pathway Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unmask-background-ambiance-free-or-paid-solutions-explored/"><u>Unmask Background Ambiance - Free or Paid Solutions Explored</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-auto-transcription-experts-choice-top-6-software-picks/"><u>New In 2024, The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-size-independent-strategies-for-securing-sponsors/"><u>In 2024, Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-step-into-the-future-the-best-10-free-video-call-applications/"><u>In 2024, Step Into the Future  The Best 10 FREE Video Call Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-captivating-audiences-on-tiktok-by-blending-sound-and-sight/"><u>In 2024, Captivating Audiences on TikTok by Blending Sound and Sight</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-crafting-soundscapes-with-windows-10-an-ultimate-guide-to-expert-audio-capture/"><u>Updated Crafting Soundscapes with Windows 10 An Ultimate Guide to Expert Audio Capture</u></a></li>
+</ul></div>

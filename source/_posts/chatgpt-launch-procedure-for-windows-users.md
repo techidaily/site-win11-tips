@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Launch Procedure for Windows Users
-date: 2024-06-23 17:18:28
-updated: 2024-06-25 10:42:21
+date: 2024-06-25T16:56:09.778Z
+updated: 2024-06-26T16:56:09.778Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,7 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-### Uninstall the ChatGPT Web App on Edge
-
-![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
+### Uninstall the ChatGPT Web App on Edge ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
@@ -79,9 +77,7 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
-## Run ChatGPT Natively Using an Unofficial Project
-
-![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+## Run ChatGPT Natively Using an Unofficial Project ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -120,3 +116,29 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
  But what if you want to run ChatGPT as a Windows app? While no official Windows version is available yet, Microsoft Edge and Chrome let you use ChatGPT as a native Windows app. Here’s how you can run ChatGPT as a Windows app using Microsoft Edge, create a Chrome shortcut for the AI bot, and pin the ChatGPT app to the taskbar.
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-use-of-android-phones-as-webcams-on-windows-11-pcs/"><u>Innovative Use of Android Phones as Webcams on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choose-freedom-for-windows-chatai-freedomgpt/"><u>Choose Freedom for Windows ChatAI: FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-safety-invest-heavily-in-research-to-develop-advanced-safety-features-that-reduce-potential-risks-associated-with-drone-operations-such-as-collis31/"><u>Prioritize Safety: Invest Heavily in Research to Develop Advanced Safety Features that Reduce Potential Risks Associated with Drone Operations, Such as Collision Avoidance Technology, Redundant System Architectures, and Thorough Pre-Flight Checks.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-list-top-7-methods-to-grow-storage-without-paying/"><u>The Essential List: Top 7 Methods to Grow Storage Without Paying</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-cleansing-windows-arp-cache/"><u>Understanding and Cleansing Windows ARP Cache</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-your-digital-presence-fb-video-creation-basics/"><u>[Updated] In 2024, Enhancing Your Digital Presence  FB Video Creation Basics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-discover-the-best-tools-to-monitor-and-boost-tiktok-engagement-for-2024/"><u>[Updated] Discover the Best Tools to Monitor and Boost TikTok Engagement for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhancing-visuals-using-chroma-key-effectively/"><u>[New] Enhancing Visuals  Using Chroma Key Effectively</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-8-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 8 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-honor-x8b-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Honor X8b PIN</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ranked-instagrams-top-8-popular-ae-composition-tools/"><u>2024 Approved  Ranked  Instagram's Top 8 Popular AE Composition Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-proven-methods-for-assessing-youtube-channel-profitability/"><u>[Updated] Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Y200e 5G</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

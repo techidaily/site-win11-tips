@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Unlocking Stuck Battle.net Login
-date: 2024-06-24 17:48:34
-updated: 2024-06-25 11:41:24
+date: 2024-06-25T16:52:44.191Z
+updated: 2024-06-26T16:52:44.191Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
 This is how you can erase those folders in Windows 11/10:
 
-1. First, make sure there aren’t any Battle.net background processes running by[opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
+1. First, make sure there aren’t any Battle.net background processes running by [opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
 2. Hold the**Windows** keyboard key and press**E** to view the Explorer file and folder manager.
-3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
-![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
+3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
@@ -78,7 +77,7 @@ This is how you can erase those folders in Windows 11/10:
 4. Select**OK** to save the new WDF options.
 5. Try opening Battle.net again with the firewall disabled.
 
- If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about[allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
+ If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about [allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
 
 ## 5\. Disable Third-Party Antivirus and Firewall Software
 
@@ -100,11 +99,11 @@ This is how you can erase those folders in Windows 11/10:
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
- Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
+ Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our [Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
 
 ## 7\. Set Windows 11/10 to Clean Boot
 
- Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our[guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
+ Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our [guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
 
@@ -116,7 +115,7 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
 
- You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
+ You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our [guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the [Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
 ## Enjoy Blizzard Battle.net Games Again
 
@@ -138,3 +137,26 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-o365-sync-failures-in-win11/"><u>Overcoming the Challenges of O365 Sync Failures in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-overheat-during-intense-play/"><u>Minimizing Overheat During Intense Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-audible-acuity-ending-echo-of-empty-spaces/"><u>Regain Audible Acuity: Ending Echo of Empty Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-latency-windows-discord-tweaks-for-speed/"><u>Clearing Up Latency: Windows Discord Tweaks for Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-peace-halt-unseen-operations/"><u>Win11 Peace: Halt Unseen Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-blocking-self-starting-windows-store/"><u>Strategies for Blocking Self-Starting Windows Store</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/magical-apps-for-vocal-alteration-top-list-unveiled-for-2024/"><u>Magical Apps for Vocal Alteration  Top List Unveiled for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-best-15-anime-fonts-find-your-favorite-one/"><u>Updated In 2024, Best 15 Anime Fonts-Find Your Favorite One</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-find-x6-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Find X6 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tips-for-incorporating-songs-in-instagram-stories-withwithout-for-2024/"><u>Tips for Incorporating Songs in Instagram Stories (With/Without) for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-the-power-of-high-definition-best-video-enhancement-software-for-2024/"><u>Unleash the Power of High-Definition Best Video Enhancement Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-masterful-moments-the-top-10-apps-to-boost-your-account/"><u>[New] Masterful Moments  The Top 10 Apps to Boost Your Account</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-uncover-audible-patter-of-hands-in-collaboration/"><u>2024 Approved Uncover Audible Patter of Hands in Collaboration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-cloaked-observer-of-facebook-snapshots/"><u>[New] Cloaked Observer of Facebook Snapshots</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/embark-on-a-complimentary-audacity-adventure-capturing-every-note-for-2024/"><u>Embark on a Complimentary Audacity Adventure Capturing Every Note for 2024</u></a></li>
+</ul></div>

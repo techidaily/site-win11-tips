@@ -1,7 +1,7 @@
 ---
 title: "Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows"
-date: 2024-06-22 16:31:39
-updated: 2024-06-24 10:59:33
+date: 2024-06-25T16:56:26.372Z
+updated: 2024-06-26T16:56:26.372Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ To enable Virtualization, do as follows:
  To install Hyper-V on the VMware Windows virtual machine, repeat the following steps.
 
 1. Launch the VMware app on your system. Double-click on the Windows virtual machine to boot it up.
-2. Once you boot to the desktop, press the**Win + R** key to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Once you boot to the desktop, press the**Win + R** key to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 3. Type**appwiz.cpl** and press the enter key.
 4. The programs and features window will launch. Click on the**Turn Windows Features on or off** option.
 5. Scroll down and click on the**Hyper-V** checkbox in the Windows Features list.  
@@ -62,7 +62,7 @@ To enable Virtualization, do as follows:
 
 ### 3\. Create a Linux Virtual Machine Using Hyper-V
 
- The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the[Ubuntu website](https://ubuntu.com/download/desktop) before starting with the steps.
+ The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the [Ubuntu website](https://ubuntu.com/download/desktop) before starting with the steps.
 
 To create an Ubuntu virtual machine, do as follows:
 
@@ -99,7 +99,7 @@ To create an Ubuntu virtual machine, do as follows:
 
  So, you need to use a system that can devote ample hardware resources to the Windows virtual machine. Only, then you would be able to use Hyper-V and create a Linux virtual machine and allocate run it without any issues. After you try our Ubuntu using Hyper-V, you can power off the virtual machine. Or you can take the extra step and delete the virtual machine from Hyper-V Manager. It will free up a lot of space inside the Windows virtual machine.
 
- Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
+ Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on [how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
 
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
@@ -120,3 +120,22 @@ To create an Ubuntu virtual machine, do as follows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-guide-for-outdated-pcs-on-their-way-to-windows-11/"><u>The Guide for Outdated PCs on Their Way to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-writable-memory-protection/"><u>Correcting Windows 11' Writable Memory Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-programs-with-preset-window-sizes-in-windows-11/"><u>How to Open Programs With Preset Window Sizes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-wows-fatal-issue-132-in-win-1011/"><u>Strategies to Eradicate WoW's Fatal Issue #132 in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-customized-policies-to-a-singular-account-in-win-1011/"><u>Executing Customized Policies to a Singular Account in Win 10/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero4-session-vs-hero5-session/"><u>In 2024, GoPro Hero4 Session Vs Hero5 Session</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-video-editor-for-recorded-webcam-videos-for-2024/"><u>[Updated] Best Video Editor for Recorded Webcam Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/monetization-strategies-for-gamers-for-2024/"><u>Monetization Strategies for Gamers for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-tiktok-earnings-gurus-choice-top-6-tools/"><u>2024 Approved  TikTok Earnings Gurus' Choice  Top 6 Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-methods-for-detaching-musical-elements-from-a-video-clip/"><u>New 2024 Approved Methods for Detaching Musical Elements From a Video Clip</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-gen-gpus-for-crystal-clear-4k/"><u>[New] Next-Gen GPUs for Crystal Clear 4K</u></a></li>
+</ul></div>

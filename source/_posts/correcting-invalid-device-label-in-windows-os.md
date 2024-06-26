@@ -1,7 +1,7 @@
 ---
 title: Correcting 'Invalid Device' Label in Windows OS
-date: 2024-06-22 23:15:28
-updated: 2024-06-25 12:52:58
+date: 2024-06-25T17:05:10.453Z
+updated: 2024-06-26T17:05:10.453Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  You’d see a list of pending updates, and you can click on any one of them to install. Once your PC is updated, cycle back to**System** Settings and try renaming your PC to see if it works.
 
-### 2\. Character Limits and the Use of Special Characters
-
-![Screenshot Showing the Rename Your PC Field on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-rename-your-pc-field-on-windows-11.jpg)
+### 2\. Character Limits and the Use of Special Characters ![Screenshot Showing the Rename Your PC Field on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-rename-your-pc-field-on-windows-11.jpg)
 
  Generally, your PC name should be within a 15-character limit, and you are permitted to use only letters, hyphens, or numbers. Thus, using special characters–characters other than alphabets or numerals will invalidate your choice of name. Examples are punctuation marks and symbols.
 
@@ -50,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 ### 3\. Check if You’re Currently Signed In as an Administrator
 
- Certain modifications and changes can be implemented only at the administrator level, which requires logging into an[administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) on your PC. Renaming your PC is one such case, and using an account without admin rights might be why you are experiencing the problem.
+ Certain modifications and changes can be implemented only at the administrator level, which requires logging into an [administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) on your PC. Renaming your PC is one such case, and using an account without admin rights might be why you are experiencing the problem.
 
  So, one of the things you might want to double-check when you encounter this problem is your account status. To do this, open the start menu and click on the user icon in the bottom left corner of the screen.
 
@@ -68,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  The first course of action when running into minor computer problems is usually to enable a restart. No doubt,[restarting your PC is a great way to refresh your computer](https://www.makeuseof.com/tag/rebooting-computer-fix-many-issues/) and swing things back into action.
 
- As such, If you are facing a problem while trying to[rename your PC](https://www.makeuseof.com/windows-11-pc-rename/) , consider using the restart button to restore normalcy on your computer. Also, this will help install any pending updates (if you haven’t done that already).
+ As such, If you are facing a problem while trying to [rename your PC](https://www.makeuseof.com/windows-11-pc-rename/) , consider using the restart button to restore normalcy on your computer. Also, this will help install any pending updates (if you haven’t done that already).
 
  To restart your PC, click the**Start** icon and then the power icon at the bottom right of the menu. Hit**restart** , and wait for your PC to come back on.
 
@@ -98,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
 ## 3\. Disable Preference Sync Across Your Devices
 
- The[preference settings sync](https://www.makeuseof.com/tag/use-sync-settings-smoother-experience-windows/) is one important feature Windows offers. When using multiple devices with your Microsoft account, your preferences and settings are harmonized across your devices without having to reconfigure each one individually.
+ The [preference settings sync](https://www.makeuseof.com/tag/use-sync-settings-smoother-experience-windows/) is one important feature Windows offers. When using multiple devices with your Microsoft account, your preferences and settings are harmonized across your devices without having to reconfigure each one individually.
 
  Though helpful, it could also present a potential problem when renaming your PC, so you might consider turning this off while you do so.
 
@@ -141,3 +139,27 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-initial-load-hurdles-in-lol/"><u>Overcoming Initial Load Hurdles in LOL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-halted-warcraft-update-sequence/"><u>Navigating a Halted Warcraft Update Sequence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719233145490-win-plus-print-problem-heres-your-quick-windows-fix-guide/"><u>Win + Print Problem? Here's Your Quick Windows Fix Guide.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719216451577-achieving-total-screen-capture-mastery-using-snip-and-sketch/"><u>Achieving Total Screen Capture Mastery Using Snip & Sketch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-power-settings-fully-charged-notifications-for-win11/"><u>Navigating Power Settings: Fully Charged Notifications for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-and-configuring-your-win11-screensavers/"><u>Crafting and Configuring Your Win11 Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-frozen-windows-update-pause/"><u>Eliminate Frozen Windows Update Pause</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routines-to-reactivate-window-explorer/"><u>Easy Routines to Reactivate Window Explorer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-windows-movie-maker-replacements-explore-your-options-for-2024/"><u>New Windows Movie Maker Replacements Explore Your Options for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-8k-visualization-leading-tvs-compared-side-by-side/"><u>[New] 8K Visualization  Leading TVs Compared Side by Side</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-20-keywords-for-stellar-marketing-strategies-for-2024/"><u>Top 20 Keywords for Stellar Marketing Strategies for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-and-fabulous-top-20-adobe-premiere-title-and-intro-templates/"><u>Updated 2024 Approved Free and Fabulous Top 20 Adobe Premiere Title and Intro Templates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-your-feed-with-new-instagram-filters/"><u>[New] Enhancing Your Feed with New Instagram Filters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/procure-no-cost-visual-aids-from-prominent-4-youtube-feeds/"><u>Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-tools-for-high-quality-zoom-recordings/"><u>[New] Optimal Tools for High-Quality Zoom Recordings</u></a></li>
+</ul></div>

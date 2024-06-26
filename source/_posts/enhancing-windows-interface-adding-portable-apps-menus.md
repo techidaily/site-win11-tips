@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Windows Interface: Adding Portable Apps Menus"
-date: 2024-06-24 13:15:26
-updated: 2024-06-26 11:56:46
+date: 2024-06-25T16:44:29.898Z
+updated: 2024-06-26T16:44:29.898Z
 tags:
   - windows10
   - windows11
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
  SyMenu is a portable app menu to which you can add software, document file, website URL, folder, and command shortcuts. It adds a menu for portable software you can access on the desktop or by clicking its system tray icon in Windows. You can add a portable software menu to Windows 11 and 10 with SyMenu like this:
 
 1. First, insert a USB flash drive into your PC.
-2. Open the[SyMenu](https://www.ugmfree.it/SyMenuDownload.aspx) download page.
+2. Open the [SyMenu](https://www.ugmfree.it/SyMenuDownload.aspx) download page.
 3. Click the**exe package** option.  
 ![The exe package option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-exe-package-option.jpg)
 4. Once downloaded, double-click**SyMenuPackage.exe** file to open an archive extraction window.
@@ -68,14 +68,14 @@ Now it's time to get SyMenu up and running:
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
- If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
+ If you're looking for apps to add to your repertoire, why not check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
 
 1. Plug a flash drive into a USB slot on your PC.
-2. Bring up the[LiberKeys website](https://www.liberkey.com/) in browser software.
+2. Bring up the [LiberKeys website](https://www.liberkey.com/) in browser software.
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
@@ -118,7 +118,7 @@ Now it's time to get SyMenu up and running:
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
- If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
+ If you're a student on the go, be sure to check out the [best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -138,3 +138,24 @@ Now it's time to get SyMenu up and running:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-depths-of-diablos-first-adventure/"><u>Navigating the Depths of Diablo's First Adventure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-w11-utilizing-error-lookup-tool-features/"><u>Troubleshooting W11: Utilizing Error Lookup Tool Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-ping-in-routine-windows-tasks/"><u>Seamless Integration of Ping in Routine Windows Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unclog-the-windows-vds-startup-process/"><u>How to Unclog the Windows VDS Startup Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-samsung-dex-connect-galaxy-and-pc-seamlessly/"><u>Mastering Samsung DeX: Connect Galaxy & PC Seamlessly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overview-of-various-cameras-used-in-film-and-tv/"><u>Overview of Various Cameras Used in Film & TV</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus 12R PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-understanding-whatsapp-calls/"><u>In 2024, The Essentials  Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-masterclass-in-crafting-engaging-fb-video-ads/"><u>[Updated] Masterclass in Crafting Engaging FB Video Ads</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlined-design-integrating-gamers-banner-templates/"><u>Streamlined Design  Integrating Gamers' Banner Templates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-5-best-terraria-map-for-viewers-to-find-treasure-for-2024/"><u>Top 5 Best Terraria Map for Viewers to Find Treasure for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>[Updated] 2024 Approved  Instant IG Glory  High-Quality Covers on Apple and Android Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/travel-through-time-on-instagram-the-reverse-video-guide/"><u>Travel Through Time on Instagram  The Reverse Video Guide</u></a></li>
+</ul></div>

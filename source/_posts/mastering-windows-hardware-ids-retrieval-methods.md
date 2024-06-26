@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Hardware IDs Retrieval Methods
-date: 2024-06-22 22:21:30
-updated: 2024-06-24 10:45:17
+date: 2024-06-25T16:43:48.596Z
+updated: 2024-06-26T16:43:48.596Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
  Now, let’s check out how you can use the Device Manager to search for the hardware IDs:
 
-1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out[the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out [the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**devmgmt.msc** and press**Enter** to open the Device Manager.
 3. Expand the category for the device you want to look up. For example, expand the**Keyboards** category if you want the hardware ID for your keyboard.
 4. Right-click on the relevant device and select**Properties** .
@@ -41,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-## 2\. Use the Command Prompt
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+## 2\. Use the Command Prompt ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -83,7 +81,7 @@ Let’s check out the steps you need to follow:
 
 ## 3\. Use PowerShell
 
- Alternatively, you can also check the hardware IDs using[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
+ Alternatively, you can also check the hardware IDs using [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
 
  Let’s explore how you can check the hardware IDs using this tool:
 
@@ -132,7 +130,7 @@ Let’s check out the steps you need to follow:
 
  Let’s check out how you can install this tool and use it to check the hardware IDs:
 
-1. Download and install the[Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
+1. Download and install the [Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
 2. Once you’ve installed the tool, open**File Explorer** and navigate to **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 10 > Tools** . If you’re using Windows 11, the path should be **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 11 > Tools** .
 3. Access the**x64** (64-bit) folder if you're using a 64-bit device or the**x86** (32-bit) folder if you use a 32-bit PC. If you’re unsure what to pick,[check your Windows PC specs](https://www.makeuseof.com/ways-to-check-your-windows-10-essential-pc-specs/) first.
 
@@ -159,7 +157,7 @@ Once you’re in the correct folder, follow these steps:
 
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
- If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+ If you want to explore the Device Console in detail, check out [the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -182,3 +180,24 @@ Once you’re in the correct folder, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-flickering-win1011-screens/"><u>Efficient Fixes for Flickering WIN10/11 Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-0x0000011b-failures-in-windows-os/"><u>How to Stop 0X0000011B Failures in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-remedies-for-server-miss-on-pc-apex-(156-chars/"><u>Essential Remedies for Server Miss on PC Apex (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxvk-transforming-windows-gaming-experience-for-the-better/"><u>DXVK: Transforming Windows Gaming Experience for the Better</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-newbies-guide-to-easier-access/"><u>Windows Newbies' Guide to Easier Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-windows-autoshrink-mechanism/"><u>Taming Window's Autoshrink Mechanism</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-igtv-videos-iphone-and-android-download-guide/"><u>[New] Mastering IGTV Videos  IPhone & Android Download Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[Updated] How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigate-to-constant-watch-enable-auto-play-feature-for-youtube-videos-on-fb/"><u>[Updated] In 2024, Navigate to Constant Watch  Enable Auto-Play Feature for YouTube Videos on FB</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-smart-money-calculators-your-tiktok-profit-analysis/"><u>2024 Approved  Smart Money Calculators  Your TikTok Profit Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>In 2024, Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>Cinema's Best Shoot Techniques  The Ultimate Guide for '24</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c65-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C65 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-note-30-vip-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-editors-space-polished-pc-video-plus-melodies/"><u>2024 Approved  Ultimate Editor's Space  Polished PC Video + Melodies</u></a></li>
+</ul></div>

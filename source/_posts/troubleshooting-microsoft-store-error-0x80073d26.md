@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Microsoft Store Error 0X80073D26
-date: 2024-06-23 19:30:13
-updated: 2024-06-26 12:53:47
+date: 2024-06-25T17:01:19.846Z
+updated: 2024-06-26T17:01:19.846Z
 tags:
   - windows10
   - windows11
@@ -77,23 +77,17 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
 
-### Repair System Files
-
-![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
+### Repair System Files ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
-### Set Windows to Clean Boot
-
-![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
+### Set Windows to Clean Boot ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
-### Reinstall the Microsoft Store
-
-![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
+### Reinstall the Microsoft Store ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -116,3 +110,31 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  It’s very likely the potential resolutions covered in this guide will fix error 0x80073D26, as some of them are widely confirmed to work. Hopefully, you can get this error fixed and get back into gaming.
 
  Players can’t enjoy their Xbox Game Pass titles because of error 0x80073D26, which makes this an annoying issue for Xbox Game Pass users. This is how you can fix the Microsoft Store error 0x80073D26 in Windows
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-uninstall-quickly-in-windows-11/"><u>Navigating to Uninstall Quickly in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unusual-wsl-error-4294967295-on-pcs/"><u>Tackling Unusual WSL Error 4294967295 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tips-to-safeguard-sticky-notes-on-pc/"><u>Winning Tips to Safeguard Sticky Notes on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-power-indicators-full-charges-notify-you-in-win11/"><u>Automating Power Indicators: Full Charges Notify You in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotting-large-files-and-drives-in-windows-storage-soup/"><u>Spotting Large Files & Drives in Windows Storage Soup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-trick-sticky-notes-open-up-with-system-boot/"><u>Tailored Windows Trick: Sticky Notes Open-Up With System Boot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-linux-performance-via-windows-apps/"><u>Elevating Linux Performance via Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-blaze-2-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Blaze 2 Pro Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-flavor-quest-the-best-international-meals-and-recipes-for-2024/"><u>[New] Flavor Quest  The Best International Meals and Recipes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools-for-2024/"><u>Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-mastery-made-simple-the-top-20-must-know-strategies-for-2024/"><u>YouTube Mastery Made Simple  The Top 20 Must-Know Strategies for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-create-stunning-intros-top-10-websites-with-free-and-paid-options-for-2024/"><u>New Create Stunning Intros Top 10 Websites with Free and Paid Options for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-10-proplus-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 10 Pro+ 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-your-tiktok-content-collection-game/"><u>[New] Revolutionizing Your TikTok Content Collection Game</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-downloading-soundcloud-songs-as-mp3-files/"><u>New 2024 Approved The Ultimate Guide to Downloading Soundcloud Songs as MP3 Files</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>In 2024, Transform Your YouTube Routine  Control Over Video Delivery Speeds</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

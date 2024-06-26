@@ -1,7 +1,7 @@
 ---
 title: Implementing Custom Window Bg in WinTerm
-date: 2024-06-23 14:56:35
-updated: 2024-06-25 10:41:56
+date: 2024-06-25T17:08:02.513Z
+updated: 2024-06-26T17:08:02.513Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Manually editing settings.json is another great way to customize your Windows Terminal background image. For this, you need to open the settings.json file in any text editor, such as Notepad. Here's how to do it:
 
-1. Open Windows File Explorer (see our guide on[how to open File Explorer on a Windows PC](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see our guide on [how to open File Explorer on a Windows PC](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. Once you're in File Explorer, navigate to your**C:** drive and select the**Users** folder.
 3. Locate your**username** in this folder, then open the**AppData** folder and the**Local** folder.
 4. In the Local folder, find and open the**Packages** folder.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
- You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
+ You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to [customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 ## Set a New Background Image for Windows Terminal
 
@@ -110,3 +110,26 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-platform-color-consistency/"><u>Mastering Cross-Platform Color Consistency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-your-computing-conduct-setting-active-hours-to-mitigate-updates-in-windows-11/"><u>Customize Your Computing Conduct: Setting Active Hours to Mitigate Updates in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-win11s-configuration-interface/"><u>Reinventing Win11's Configuration Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-picks-for-trusted-free-software-downloads-on-windows/"><u>Top Picks for Trusted, Free Software Downloads on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-difficulty-of-error-0x000-in-xbox-game-pass-windows-edition/"><u>Overcoming the Difficulty of Error 0X000_ in Xbox Game Pass Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-conflicts-for-print-job-success/"><u>Eradicating Conflicts for Print Job Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-seamless-workflow-with-alt-tab-in-win1110/"><u>Create a Seamless Workflow with Alt-Tab in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-picks-optimal-pomodoro-timers-tailored-for-windows-users/"><u>Top Picks: Optimal Pomodoro Timers Tailored For Windows Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-exclusive-deals-on-free-professional-discord-icons/"><u>In 2024, Exclusive Deals on Free, Professional Discord Icons</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-new-horizons-a-tech-upgrade-blueprint/"><u>[Updated] Navigating New Horizons  A Tech Upgrade Blueprint</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-12-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 12 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-tech-webcams-the-ultimate-guide-to-the-top-5-with-sound/"><u>In 2024, Advanced Tech Webcams - The Ultimate Guide to the Top 5 With Sound</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-the-power-of-green-screen-top-10-free-apps-for-android-and-ios-for-2024/"><u>New Unlock the Power of Green Screen Top 10 Free Apps for Android & iOS for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-minecraft-logo-designs-for-youtube-channels/"><u>[New] Minecraft Logo Designs for YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-to-the-best-10-video-saving-devices/"><u>[New] Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>[Updated] Behind the Curtain  Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/design-an-animated-scene-powered-by-sound-without-spending-money-for-2024/"><u>Design an Animated Scene Powered by Sound Without Spending Money for 2024</u></a></li>
+</ul></div>

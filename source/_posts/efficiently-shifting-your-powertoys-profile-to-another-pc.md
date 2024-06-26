@@ -1,7 +1,7 @@
 ---
 title: Efficiently Shifting Your PowerToys Profile to Another PC
-date: 2024-06-23 22:22:44
-updated: 2024-06-25 12:43:13
+date: 2024-06-25T16:36:23.970Z
+updated: 2024-06-26T16:36:23.970Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  The backup of your PowerToys settings has now been saved to your chosen folder. If you change a setting and click backup again, a new backup file will be created alongside the first.
 
- PowerToys is updated regularly, with new features like[File Locksmith](https://www.makeuseof.com/powertoys-file-locksmith-guide/) added from time to time. Your backups are dated, so you can create a new one each time a tool is added and still be able to recognize the backup.
+ PowerToys is updated regularly, with new features like [File Locksmith](https://www.makeuseof.com/powertoys-file-locksmith-guide/) added from time to time. Your backups are dated, so you can create a new one each time a tool is added and still be able to recognize the backup.
 
 ## How to Transfer and Restore the PTB Backup File
 
  You can now transfer the backup file to your second PC and restore the settings to the clean installation of PowerToys.
 
-1. Open the folder where your backup was saved and copy the PTB file to a removable drive. You could also use any of the methods covered in our guide on[how to transfer files from one PC to another](https://www.makeuseof.com/tag/5-ways-to-transfer-files-from-one-computer-to-another/) .
+1. Open the folder where your backup was saved and copy the PTB file to a removable drive. You could also use any of the methods covered in our guide on [how to transfer files from one PC to another](https://www.makeuseof.com/tag/5-ways-to-transfer-files-from-one-computer-to-another/) .
 2. Copy the file from the transfer media to the backup folder for PowerToys on your new PC. The default folder location is**C:\\Users\\YourUserName\\Documents\\PowerToys** .  
 ![restoring PowerToys settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powertoys-restore.jpg)
 3. Open PowerToys and select the**General** tab. At the bottom of the**General options** , click the**Restore** button.
@@ -65,3 +65,22 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-program-functionality-with-ease/"><u>Restoring Windows Program Functionality with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsofts-apppack-and-msibundle-files-to-enhance-productivity/"><u>Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reduce-windows-surrounders-feature/"><u>How To Reduce Windows Surrounders Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-mass-rename-with-powertoys/"><u>Automate Mass Rename with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-productivity-easy-drive-mapping-for-windows-11-users/"><u>Enhancing Productivity: Easy Drive Mapping for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixelstreamer-os-native-screen-recording/"><u>[New] PixelStreamer  OS-Native Screen Recording</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stop-video-buffering-during-streaming/"><u>[New] Stop Video Buffering During Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-screen-record-on-mac/"><u>How to Screen Record on Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-iron-out-glitches-restore-missing-facebook-watch-icons/"><u>[New] In 2024, Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[New] In 2024, Twitter's Crown Jewels  The Most Liked & Binge-Watched Content</u></a></li>
+</ul></div>

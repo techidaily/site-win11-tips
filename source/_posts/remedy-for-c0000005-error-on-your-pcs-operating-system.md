@@ -1,7 +1,7 @@
 ---
 title: Remedy for C0000005 Error on Your PC's Operating System
-date: 2024-06-23 13:38:12
-updated: 2024-06-24 10:21:37
+date: 2024-06-25T17:09:12.987Z
+updated: 2024-06-26T17:09:12.987Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
- In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
+ In this case, you will first have to [disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
@@ -97,3 +97,24 @@ Let's go over all of them one by one.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/open-sound-settings-efficiently-using-these-9-strategies-in-windows-11/"><u>Open Sound Settings Efficiently Using These 9 Strategies in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-hidden-remove-button-for-windows-11-security/"><u>Reactivating Hidden 'Remove' Button for Windows 11 Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfolding-windows-11s-enigma-insights-into-the-registry/"><u>Unfolding Windows 11'S Enigma: Insights Into the Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-clipchamps-windows-11-install-troubles/"><u>Navigate Through ClipChamp's Windows 11 Install Troubles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-win-hardware-testing-with-these-premier-graphics-tools/"><u>Ace Win Hardware Testing with These Premier Graphics Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-vintage-password-problem-on-w10w11/"><u>Navigating Through the Vintage Password Problem on W10/W11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-behind-the-scenes-unpacking-instagram-stories/"><u>[New] Behind the Scenes  Unpacking Instagram Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-elevating-video-clarity-methods-for-eradicating-inaudible-roughness-in-soundtracks/"><u>Updated 2024 Approved Elevating Video Clarity Methods for Eradicating Inaudible Roughness in Soundtracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-hot-30i-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Hot 30i to PC? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-boost-your-tiktok-fandom-in-a-flash-critical-insights-shared/"><u>[Updated] Boost Your TikTok Fandom in a Flash - Critical Insights Shared</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rhythmic-reflections-in-photo-cinema/"><u>[Updated] Rhythmic Reflections in Photo Cinema</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tripping-up-avoid-common-tripod-mistakes-in-vlogging/"><u>[New] Tripping Up? Avoid Common Tripod Mistakes in Vlogging</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-pioneering-digital-recording-solutions-ranking-the-7-best-audio-editors-beyond-audacity-on-android/"><u>Updated In 2024, Pioneering Digital Recording Solutions Ranking the 7 Best Audio Editors Beyond Audacity on Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-easily-remove-tiktok-watermarks-best-online-solutions/"><u>Updated In 2024, Easily Remove TikTok Watermarks Best Online Solutions</u></a></li>
+</ul></div>

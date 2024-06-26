@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Defender's Error 0X80004004
-date: 2024-06-21 10:56:25
-updated: 2024-06-24 12:47:17
+date: 2024-06-25T16:55:54.493Z
+updated: 2024-06-26T16:55:54.493Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,7 @@ Here is how you can do that:
 
  As we mentioned above, the issue can also occur if you have another third-party security program installed on the system. It might be interfering with the process of Microsoft Defender, leading to the issue.
 
- If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on[removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
+ If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on [removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
 
  If you do not want to uninstall the program just yet, you can also disable it temporarily and try performing the action that was initially leading to the Defender error. To disable such programs, you can right-click on their icon in the taskbar and choose**Disable until the computer is restarted** .
 
@@ -72,13 +72,11 @@ Here is how you can do that:
 
 ### Run the Windows Update Troubleshooter
 
- If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+ If you are encountering the error code while trying to update Microsoft Defender, then you can [run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
-### Install the Update Manually
+### Install the Update Manually ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
-![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
-
- If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
+ If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on [the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
@@ -86,7 +84,7 @@ Here is how you can do that:
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
- Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+ Our guide on [the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -106,3 +104,24 @@ Here is how you can do that:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/desktop-configuration-mastery-embedding-this-pc-symbols/"><u>Desktop Configuration Mastery: Embedding 'This PC' Symbols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-windows-apps-into-linux-world/"><u>Integrating Windows Apps Into Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-wsl-factor-in-the-linux-desktop-landscape/"><u>The WSL Factor in the Linux Desktop Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-forth-invisible-5ghz-connections-with-these-fixes/"><u>Bring Forth Invisible 5GHz Connections with These Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-techniques-in-itunes-video-saving-for-2024/"><u>[New] Advanced Techniques in iTunes Video Saving for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-mastering-image-cropping-in-final-cut-pro-x-2023-edition/"><u>2024 Approved Mastering Image Cropping in Final Cut Pro X 2023 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fast-forward-finesse-in-presentation-media/"><u>Fast-Forward Finesse in Presentation Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>[Updated] YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/simple-screen-capture-techniques-to-grab-youtube-soundtracks/"><u>Simple Screen-Capture Techniques to Grab YouTube Soundtracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-art-of-changing-your-voice-a-guide-to-vocal-adaptability/"><u>New In 2024, The Art of Changing Your Voice A Guide to Vocal Adaptability</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-video-conversion-suites-for-2024/"><u>[New] Advanced Video Conversion Suites for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y78+? | Dr.fone</u></a></li>
+</ul></div>

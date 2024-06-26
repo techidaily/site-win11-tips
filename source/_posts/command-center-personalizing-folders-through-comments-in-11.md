@@ -1,7 +1,7 @@
 ---
 title: "Command Center: Personalizing Folders Through Comments in 11"
-date: 2024-06-23 14:58:23
-updated: 2024-06-24 12:18:55
+date: 2024-06-25T16:13:51.416Z
+updated: 2024-06-26T16:13:51.416Z
 tags:
   - windows10
   - windows11
@@ -82,3 +82,34 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mechanism-disabling-dim-display-option/"><u>Unveiling the Mechanism: Disabling 'Dim Display' Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-implementing-bluescreenview-strategies/"><u>Detailed Guide to Implementing BlueScreenView Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-photo-import-discrepancies-between-ios-and-windows-11/"><u>Remedying Photo Import Discrepancies Between iOS and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-tone-playback-on-windows-post-hardware-failure/"><u>Enable Tone Playback on Windows Post Hardware Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-the-dead-zone-fix-for-stranded-xbox-on-windows-11/"><u>Dodging the Dead Zone: Fix for Stranded Xbox on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-ways-for-swift-epic-game-loading/"><u>Unveiling Windows Ways for Swift Epic Game Loading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-needs-user-id-login-failures/"><u>Troubleshooting Windows Needs User ID Login Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-utorrent-performance-in-win-os/"><u>Optimizing uTorrent Performance in Win OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>In 2024, Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-imovie-videos-on-your-youtube-channel/"><u>Step-by-Step  IMovie Videos on Your YouTube Channel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elite-web-based-recording-tools/"><u>Elite Web-Based Recording Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-xs-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone XS Is Unlocked</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-fodt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .fodt file free</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-film-download-highlights-no-8/"><u>[New] In 2024, Facebook Film Download Highlights - No. 8</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-integration-into-google-meet-participants/"><u>2024 Approved  Integration Into Google Meet Participants</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android-for-2024/"><u>Updated Streamlining Your Audio Setup Efficiently Manage M4A Files on Android for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-hubs-for-finding-googles-ad-sponsors-on-video/"><u>[Updated] 2024 Approved  Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supreme-display-quality-top-10-ranking-of-4k-screens-for-2024/"><u>Supreme Display Quality  #Top 10 Ranking of 4K Screens for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

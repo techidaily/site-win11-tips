@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Productivity: The Essentials of Using Flow Launcher"
-date: 2024-06-24 15:21:18
-updated: 2024-06-25 10:15:47
+date: 2024-06-25T16:31:46.868Z
+updated: 2024-06-26T16:31:46.868Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## How to Install Flow Launcher
 
- You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
+ You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
@@ -41,7 +41,7 @@ Here's how to get the most from this popular productivity tool.
 
  Lastly, you can change the location where the Flow Launcher window opens by clicking on the frame and dragging it into position. As long as the**Remember last launch location** setting is checked, it will always be in this position.
 
- If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
+ If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
 ## How to Launch Apps With Flow Launcher
 
@@ -66,7 +66,7 @@ Here's how to get the most from this popular productivity tool.
  There are several ways to refine searches in Flow Launcher. For example, to search for something on a specific website, you can include the site name in the search query, e.g. YouTube David Bowie.
 
 * To search your browser bookmarks, start the search query with**b** . For example:**b how to create a workbook in excel** .
-* If you want to run a[Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
+* If you want to run a [Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
@@ -86,7 +86,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## Uninstalling Flow Launcher
 
- If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
+ If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
@@ -109,3 +109,27 @@ Here's how to get the most from this popular productivity tool.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/slick-techniques-for-masking-windows-11-task-view/"><u>Slick Techniques for Masking Windows 11 Task View</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-status-a-windows-bios-solution-manual/"><u>Unlocking Secure Boot Status: A Windows BIOS Solution Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-bypassing-ssi-and-installing-unverified-drivers/"><u>Mastering Windows: Bypassing SSI & Installing Unverified Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-post-display-adjustment-in-windows-power-configuration/"><u>Hide Post-Display Adjustment in Windows Power Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-aid-unlocking-essential-assistive-tech/"><u>Windows Aid: Unlocking Essential Assistive Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-what-sets-ai-hardware-on-a-distinct-path/"><u>Analyzing What Sets AI Hardware on a Distinct Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-11-home-settings/"><u>Navigating to Windows 11 Home Settings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-professional-tips-to-create-impressive-head-size-in-tiktoks-3-methods/"><u>[Updated] Professional Tips to Create Impressive Head Size in TikToks (3 Methods)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-minecrafts-oriental-elegance-6-top-ideas-for-2024/"><u>[Updated] Minecraft's Oriental Elegance  6 Top Ideas for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-90-lite-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor 90 Lite to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-olympic-speed-skating-sprint-games-best-performances/"><u>[New] Olympic Speed Skating Sprint  Games' Best Performances</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-tier-apps-to-elevate-your-tiktok-videos-on-windows/"><u>[Updated] In 2024, Top-Tier Apps to Elevate Your TikTok Videos on Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-plus-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Plus activation lock using official methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-7-hd-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 7 HD to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>2024 Approved  Crafting Audible Magic  Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-podcast-upload-on-itunes/"><u>In 2024, Mastering Podcast Upload on iTunes</u></a></li>
+</ul></div>

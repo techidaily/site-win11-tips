@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Battery Life Awareness: Charge Notification Tips for Windows 11"
-date: 2024-06-25 19:18:29
-updated: 2024-06-26 11:17:20
+date: 2024-06-25T16:22:11.162Z
+updated: 2024-06-26T16:22:11.162Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Battery Notification is a Microsoft Store app you can utilize in Windows 11/10\. That app enables you to set both high and low-battery alert notifications. The basic app is freely available, but you can upgrade it to one with battery analytics for $4.99\. You can set up a fully charged notifier with Battery Notification as follows:
 
-1. Bring up the[Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
+1. Bring up the [Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
 2. Click Battery Notification’s**Get in Store App** option.
 3. Select**Open in Microsoft Store** to access a download option for the app outside the browser.
 4. Click**Get** to install Battery Notification.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
 
-1. Bring up the[Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
+1. Bring up the [Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
 2. Click**Download** to view a couple of location options.
 3. Select the**Secure Download (US)** location option.
 4. Click**File Explorer** (a taskbar button) to open up the folder containing the downloaded**BatteryNotifier.exe** file.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
 
- The**Launch at Startup** option there is a self-explanatory setting. That setting[adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
+ The**Launch at Startup** option there is a self-explanatory setting. That setting [adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
 
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
 
-1. Open the[Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
+1. Open the [Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
 2. Select Full Battery & Theft Alarm’s**Get in Store app** option.
 3. Click**Open Microsoft Store** \>**Install** to download the app.
 4. Select the**Open** option for Full Battery & Theft Alarm in MS Store.
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
 
-1. Open Run by pressing**Win + R** (see[all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
+1. Open Run by pressing**Win + R** (see [all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
 2. Type**ms-settings:notifications** inside Run, and click that accessory’s**OK** option.
 3. Turn on the**Notifications** or**Get notifications** setting.  
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
@@ -121,3 +121,23 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boost-bandwidth-methods-for-assessing-your-networks-velocity/"><u>Boost Bandwidth: Methods for Assessing Your Network's Velocity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unnoticed-slowdown-agents-innocent-looking-apps-for-windows-11/"><u>Unnoticed Slowdown Agents: Innocent-Looking Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-setup-virtualboxs-security-features-secure-boot-and-tpm/"><u>How to Setup VirtualBox's Security Features: Secure Boot & TPM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-activating-controlled-folder-access-in-windows-11/"><u>Mastering Privacy: Activating Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-microsofts-phone-link-features/"><u>The Essential Guide to Microsoft's 'Phone Link' Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-stranded-xbox-on-win11-quick-troubleshooting-guide/"><u>Solving Stranded Xbox on Win11: Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-the-way-in-qr-decoding-with-your-windows-machine/"><u>Leading the Way in QR Decoding with Your Windows Machine</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-authenticity-focused-tiktok-followers-buying-guide-for-2024/"><u>[Updated] Authenticity-Focused TikTok Followers Buying Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-smart-8-hd-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Smart 8 HD to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-ranked-free-os-recording-solutions-examined-for-2024/"><u>[New] Top-Ranked Free OS Recording Solutions Examined for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-are-scalping-subscribers-a-viable-strategy/"><u>[Updated] Are Scalping Subscribers a Viable Strategy?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unexplored-instagram-tricks-for-enhanced-engagement/"><u>[New] 2024 Approved  Unexplored Instagram Tricks for Enhanced Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] 2024 Approved  Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/guiding-principles-for-speech-conversion-in-google-translate/"><u>Guiding Principles for Speech Conversion in Google Translate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-13t-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi 13T Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-p40plus-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel P40+</u></a></li>
+</ul></div>

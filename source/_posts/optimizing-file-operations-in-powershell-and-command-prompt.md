@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Operations in PowerShell & Command Prompt
-date: 2024-06-24 12:27:14
-updated: 2024-06-25 11:44:57
+date: 2024-06-25T17:07:22.635Z
+updated: 2024-06-26T17:07:22.635Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Here's how to zip files using Command Prompt:
 
 ## How to Zip Files Using Windows PowerShell
 
- There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
+ There are several viable ways to [create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
 
 Here's how to zip files using Windows PowerShell:
 
@@ -60,7 +60,7 @@ Here's how to zip files using Windows PowerShell:
 
 ## How to Unzip Files Using Command Prompt
 
- There may be situations where you want to[unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
+ There may be situations where you want to [unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
 
 1. Launch Command Prompt with admin privileges.
 2. Use the**cd** command to head toward the zip file's location.
@@ -100,3 +100,26 @@ You've successfully unzipped the file.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-digital-space-with-win-11-sketching-techniques/"><u>Redefine Your Digital Space with Win 11 Sketching Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-bypass-oculus-setup-failures-in-windows-1110/"><u>Quick Guide to Bypass Oculus Setup Failures in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-credible-power-consumption-forecasts-in-win-11-setup/"><u>Reestablishing Credible Power Consumption Forecasts in Win 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-the-uninitialized-drive-message-on-pc/"><u>Dealing with the 'Uninitialized Drive' Message on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assisting-users-with-erratic-gesture-inputs-in-windows/"><u>Assisting Users with Erratic Gesture Inputs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-the-no-image-preview-error-in-your-windows-11-environment/"><u>Fix the No Image Preview Error in Your Windows 11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-11-boot-tracks-step-by-step-guide/"><u>Clearing Windows 11 Boot Tracks: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>2024 Approved  Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unlimited-editing-discover-these-9-free-cloud-tools/"><u>In 2024, Unlimited Editing  Discover These 9 Free Cloud Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-truth-behind-instas-video-selfie-authenticity-check/"><u>[New] The Truth Behind Insta's Video Selfie Authenticity Check</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-style-sleuths-influential-beauty-creators/"><u>2024 Approved  Style Sleuths  Influential Beauty Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-plot-craft-guild-bestowed-batch/"><u>2024 Approved  Plot Craft Guild - Bestowed Batch</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s17t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S17t Location Settings | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/savor-the-spectacle-best-practices-for-cooking-channel-titling-for-2024/"><u>Savor the Spectacle  Best Practices for Cooking Channel Titling for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/maximize-views-the-ultimate-youtube-thumbnail-template-and-tips/"><u>Maximize Views The Ultimate YouTube Thumbnail Template and Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/amplification-of-combined-enthusiasm-trend/"><u>Amplification of Combined Enthusiasm Trend</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-m14-4g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy M14 4G FRP Android 10/11/12/13</u></a></li>
+</ul></div>

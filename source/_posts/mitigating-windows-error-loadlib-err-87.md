@@ -1,7 +1,7 @@
 ---
 title: Mitigating Windows Error LoadLib Err 87
-date: 2024-06-25 16:59:57
-updated: 2024-06-26 10:58:36
+date: 2024-06-25T16:33:54.282Z
+updated: 2024-06-26T16:33:54.282Z
 tags:
   - windows10
   - windows11
@@ -34,17 +34,15 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
  If you have a fresh Windows install or using a new system, your computer may be missing the necessary driver for the display adapter. This may cause your display adapter to malfunction and stop working.
 
- To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
+ To fix the issue, check and [update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
 ## 3\. Perform a Driver Roll Back
 
  This error is often due to the issue with your display adapter and mainly with the AMD machines. If the error is triggered after a recent driver or OS update, check if your graphics device has received a newer update. If so, you can perform a driver rollback to reinstall the older driver.
 
- You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
+ You can [perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
-## 4\. Uninstall and Reinstall the Graphics Drivers
-
-![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
+## 4\. Uninstall and Reinstall the Graphics Drivers ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
 
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
 
@@ -57,11 +55,9 @@ To uninstall a display adapter driver:
 5. Select**Attempt to remove the driver for this device** option and click**Uninstall** .
 6. Once done, restart your PC.
 
- You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+ You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can [use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
-## 5\. Rename the atig6pxx.dll File
-
-![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
+## 5\. Rename the atig6pxx.dll File ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
  If you use an old AMD ATI graphics card, you can fix the error by renaming the atig6pxx.dll file in the System32 folder. It is a graphic drivers module, and issues with it can prevent 3D apps and games on your system from working.
 
@@ -78,7 +74,7 @@ To rename the atig6pxx.dll file:
 
 To take ownership of the atig6pxx.dll file using Command Prompt
 
-1. Boot into Safe Mode (see[how to boot into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) ).
+1. Boot into Safe Mode (see [how to boot into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) ).
 2. Once in the safe mode, press the**Win** key and type**cmd** .
 3. Right-click on**Command Prompt** and select**Run as administrator.**
 4. In the Command Prompt window, type the following command to change to the System32 directory: cd \\Windows\\System32
@@ -89,9 +85,7 @@ To take ownership of the atig6pxx.dll file using Command Prompt
 attrib -r -s atig6pxx.dll`
 7. If all the commands are successfully executed, you can rename the atig6pxx.dll file without the permission error.
 
-## 6\. Repair Windows Image with DISM
-
-![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+## 6\. Repair Windows Image with DISM ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
@@ -105,9 +99,7 @@ To run the DISM command-line tool to repair the system image:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 5. This process may take several minutes. Restart your PC after the process is complete, and check for any improvements.
 
-## 7\. Reinstall the App
-
-![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-apps-windows-11-1-1.jpg)
+## 7\. Reinstall the App ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-apps-windows-11-1-1.jpg)
 
  If the error occurs when you launch a specific app, it may be an app-specific conflict triggering the error. To determine the cause, uninstall and install the latest version available.
 
@@ -137,3 +129,27 @@ To uninstall the app:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/exploring-3-innovative-ways-for-windows-hardware-id-access/"><u>Exploring 3 Innovative Ways for Windows Hardware ID Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-robust-defense-how-to-upgrade-your-pin-in-windows-11/"><u>Achieving Robust Defense: How to Upgrade Your Pin in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-with-w11-taskbar-adjustments/"><u>Elevate Your PC with W11 Taskbar Adjustments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-uninstall-failure-windows-1011-access-issue/"><u>Resolving Uninstall Failure: Windows 10/11 Access Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-terminal-restart-on-win11/"><u>Guiding Users Through Terminal Restart on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-pc-manager-on-windows-11-a-quick-guide/"><u>Setting Up PC Manager on Windows 11 – A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-current-frames-crafting-future-windows/"><u>Beyond Current Frames: Crafting Future Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-of-altering-window-11-admin-identity/"><u>Unveiling the Process of Altering Window 11 Admin Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-core-data-an-analysis-of-the-registry/"><u>Unlocking Windows 11'S Core Data: An Analysis of the Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-no-more-files-errors-in-win-11/"><u>Eliminating 'No More Files' Errors in Win 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/green-screen-video-magic-must-know-methods-for-2024/"><u>Green Screen Video Magic  Must-Know Methods for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>[Updated] Instant iPhone Success  Proven Tips for Making Professional Photo Collagues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-action-hunting-cameras-of-the-year/"><u>[New] Top Action Hunting Cameras of the Year</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-for-timely-termination-of-social-media-screenshots/"><u>[Updated] Tips for Timely Termination of Social Media Screenshots</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y27-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27 5G Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 100 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-nubia-z50s-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Nubia Z50S Pro has been deleted</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech-for-2024/"><u>Navigating Your Way Through VR Headset Selection  Is the Mobile Experience More Attractive Than Tethered Tech for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-uncover-your-photos-true-colors-with-picart/"><u>[New] Uncover Your Photo's True Colors with PicArt</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y27-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y27 5G Phone Network-Ready</u></a></li>
+</ul></div>

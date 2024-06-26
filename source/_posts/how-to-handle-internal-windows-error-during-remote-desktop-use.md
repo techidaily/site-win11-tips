@@ -1,7 +1,7 @@
 ---
 title: How to Handle Internal Windows Error During Remote Desktop Use
-date: 2024-06-23 21:32:51
-updated: 2024-06-26 12:50:57
+date: 2024-06-25T16:34:46.719Z
+updated: 2024-06-26T16:34:46.719Z
 tags:
   - windows10
   - windows11
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  Some Remote Desktop Connection users have confirmed that selecting a**Reconnect if the connection is dropped** setting in that app can resolve this error. That simple potential resolution is certainly worth a try. You can select that**Reconnect** setting like this:
 
-1. Start the RDC app with a method in our[how-to open Remote Desktop Connection guide](http://www.makeuseof.com/windows-11-open-remote-desktop-connection/) .
+1. Start the RDC app with a method in our [how-to open Remote Desktop Connection guide](http://www.makeuseof.com/windows-11-open-remote-desktop-connection/) .
 2. Click**Show Options** to view RDC’s settings.  
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  If you’ve set a specific DNS server on your PC, change to an automatic DNS server instead. There could be an issue with the DNS server you’ve set. You can set an automatic DNS server like this:
 
-1. Open Run (press the**Win + R** hotkey or see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ) and enter**ncpa.cpl** in that command box.
+1. Open Run (press the**Win + R** hotkey or see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ) and enter**ncpa.cpl** in that command box.
 2. Click**OK** to view the Network Connections applet.
 3. Right-click the internet connection to select its**Properties** context menu option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
  Group Policy includes a**Require use of specific security layer policy** setting. Enabling an RDP security layer with that policy might fix the “internal error has occurred” error for some users. To do so, set the**Require use of specific security layer** policy setting as follows:
 
-1. Open Local Group Policy Editor with a method in our guide on[how to launch gpedit.msc](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) guide. If you're using Windows Home, be sure to check out[how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) first.
+1. Open Local Group Policy Editor with a method in our guide on [how to launch gpedit.msc](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) guide. If you're using Windows Home, be sure to check out [how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) first.
 2. Next, you’ll need to double-click**Computer Configuration** \>**Administrative Templates** in the Group Policy’s sidebar.
 3. Double-click**Windows Components** \>**Remote Desktop Services** \>**Remote Desktop Session Host** in the console tree.
 4. Click**Security** to view its policy settings.
@@ -149,3 +149,26 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-screen-saver-wait-time/"><u>Optimize Windows Screen Saver Wait Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-program-space-allocation/"><u>Optimizing Your PC's Program Space Allocation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-active-directory-related-printer-crashes-on-w11/"><u>Strategies for Resolving Active Directory-Related Printer Crashes on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-google-maps-in-your-windows-system/"><u>Harnessing the Power of Google Maps in Your Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-note-placement-guide/"><u>Tailored Windows Note Placement Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-windows-management-with-a-disk-space-analysis-tool/"><u>Augment Windows Management with a Disk Space Analysis Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-common-nvidia-geforce-error-x0001-on-w10w11/"><u>Addressing Common Nvidia GeForce Error X0001 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-websites-windows-programs-a-tutorial/"><u>Making Websites Windows Programs: A Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-free-cam-screen-recorder-review-and-best-alternatives/"><u>2024 Approved  Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tips-and-hacks-for-using-instagram-filters-effectively/"><u>[New] Tips & Hacks for Using Instagram Filters Effectively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-streamline-your-experience-fix-instagrams-video-pains/"><u>[New] 2024 Approved  Streamline Your Experience - Fix Instagram's Video Pains</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-your-technique-mastery-of-remote-recording/"><u>[Updated] Perfect Your Technique  Mastery of Remote Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>Pro Capture, Not Just Point-and-Shoot  Mastering the Hero5 Black</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-motorola-edge-2023-easily-by-drfone-android/"><u>How To Unlock a Motorola Edge 2023 Easily?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-guide-to-elevating-your-chat-pin-messages-in-discord/"><u>[New] In 2024, Guide to Elevating Your Chat  Pin Messages in Discord</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-professional-productions-using-vimeos-tools/"><u>[New] Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-the-process-of-verifying-age-on-tiktok-for-2024/"><u>Mastering the Process of Verifying Age on TikTok for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Harness the Virtual World with Hyper-V in Windows 11
-date: 2024-06-22 11:16:44
-updated: 2024-06-25 10:25:44
+date: 2024-06-25T16:14:52.860Z
+updated: 2024-06-26T16:14:52.860Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,7 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-## Prerequisites to Enable Hyper-V on Windows 11
-
-![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
+## Prerequisites to Enable Hyper-V on Windows 11 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
 
@@ -64,9 +62,7 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
-
-![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+## 1\. Turn On Hyper-V in Windows 11 Via Control Panel ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -80,9 +76,7 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
-## 2\. Add Hyper-V to Windows 11 Using Command Prompt
-
-![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
+## 2\. Add Hyper-V to Windows 11 Using Command Prompt ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
@@ -96,9 +90,7 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
 
-## 3\. Enable Hyper-V Using PowerShell
-
-![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
+## 3\. Enable Hyper-V Using PowerShell ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
@@ -124,9 +116,7 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
-## How to Configure Hyper-V Settings
-
-![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
+## How to Configure Hyper-V Settings ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
 
@@ -147,3 +137,34 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  That said, dedicated virtual machines such as the VMWare WorkStation Pro is available on multiple platforms, can be used on older systems, and is more suitable for enterprise solutions. Check out our comparison comparing the three popular hypervisors to find the one that works for you.
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-device-functionality-in-win11-sleep-mode/"><u>How to Revive Device Functionality in Win11 Sleep Mode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-the-windows-indexer-a-quick-guide/"><u>Restarting the Windows Indexer: A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gui-diskspace-windows-menu-integration-guide/"><u>Mastering GUI Diskspace: Windows Menu Integration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-forth-invisible-5ghz-connections-with-these-fixes/"><u>Bring Forth Invisible 5GHz Connections with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-cyber-voyage-checking-stable-connections-on-pc/"><u>Securing Your Cyber Voyage: Checking Stable Connections on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opera-installer-lockdown-try-these-window-tips/"><u>Opera Installer Lockdown? Try These Window Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-simplification-recapturing-default-rights/"><u>Windows 11 Simplification: Recapturing Default Rights</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-smooth-operator-3-techniques-to-stabilize-footage-in-ae/"><u>2024 Approved Smooth Operator 3 Techniques to Stabilize Footage in AE</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revealed-the-best-10-in-4k-no-hassle/"><u>In 2024, Revealed  The Best 10 in 4K, No Hassle</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-facecam-masterclass-secrets-for-stunning-videos/"><u>[New] 2024 Approved  Facecam Masterclass  Secrets for Stunning Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-color-with-pro-techniques-in-photography/"><u>Conquer Color with Pro Techniques in Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bigger-captures-intact-detail-quality/"><u>[Updated] Bigger Captures, Intact Detail Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/novice-guide-to-earning-on-periscope-live-streaming/"><u>Novice Guide to Earning on Periscope Live Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ideal-imagery-best-google-meet-screen-savers/"><u>Ideal Imagery  Best Google Meet Screen Savers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-perfect-blend-of-sound-and-video-tips-to-capture-high-quality-zoom-recordings/"><u>[New] The Perfect Blend of Sound and Video  Tips to Capture High-Quality Zoom Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-making-waves-in-the-social-media-world-via-fb/"><u>2024 Approved  Making Waves in the Social Media World via FB</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

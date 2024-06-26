@@ -1,7 +1,7 @@
 ---
 title: Install, Update & Remove with Precision Using Windows Package Manager
-date: 2024-06-24 19:38:41
-updated: 2024-06-26 10:31:34
+date: 2024-06-25T16:16:50.486Z
+updated: 2024-06-26T16:16:50.486Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
-![remove reinstall microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-reinstall-microsoft-store-windows-11.jpg)
+![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
 
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
@@ -58,7 +58,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager does not come pre-installed on Windows, so you’ll have to download it manually. Fortunately, the installation process is straightforward and shouldn’t pose any hurdles.
 
- Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to[log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
+ Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to [log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
 
  There are two main ways of installing the Windows Package Manager on Windows 11.
 
@@ -102,7 +102,7 @@ For example, to search for zipping programs, you can type:
 
 `winget search zip`
 
- Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
+ Alternatively, you can use a [third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
 ### 3\. How to View Installed Applications
 
@@ -110,9 +110,7 @@ For example, to search for zipping programs, you can type:
 
 `winget list`
 
-### 4\. How to View Application Details
-
-![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
+### 4\. How to View Application Details ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
  To look into the installation details and software version of a specific app, you can use the following command:
 
@@ -137,3 +135,27 @@ For example, to search for zipping programs, you can type:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-selecting-the-best-win-notebook/"><u>Fundamentals of Selecting the Best Win Notebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peering-into-ftdibussys-an-analysis-of-windows-memory-controls/"><u>Peering Into ftdibus.sys: An Analysis of Windows' Memory Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-recordings-best-no-fee-windows-editors/"><u>Master Your Recordings: Best No-Fee Windows Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-high-dpi-screen-resolution-problems-on-pcs/"><u>Tackling High DPI Screen Resolution Problems on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortana-ends-new-windows-aid-emerges/"><u>Cortana Ends, New Windows Aid Emerges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-storage-hiding-files-via-image-camouflage-windows-11-style/"><u>Unseen Storage: Hiding Files via Image Camouflage, Windows 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-keep-lol-playtime-uninterrupted-in-windows/"><u>Strategies to Keep LoL Playtime Uninterrupted in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-empty-directory-alert-on-windows-11/"><u>Overcoming Empty Directory Alert on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infiltrating-hidden-user-communications-on-yt-platforms/"><u>In 2024, Infiltrating Hidden User Communications on YT Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-apex-fb-platforms-topping-the-10-list/"><u>[Updated] 2024 Approved  Apex FB Platforms  Topping the 10 List</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-have-you-ever-tried-davinci-resolve-for-creating-a-motion-blur-effect-read-this-article-to-discover-how-to-use-davinci-resolve-motion-blur-wit/"><u>2024 Approved Have You Ever Tried DaVinci Resolve for Creating a Motion Blur Effect? Read This Article to Discover How to Use DaVinci Resolve Motion Blur with the Help of Detailed Instructions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[New] In 2024, Elevate Your Biz Game  YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pic-deformations-a-toolbox-guide/"><u>In 2024, Pic Deformations  A Toolbox Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-profit-on-tiktok-the-8-essential-steps-you-need/"><u>How to Profit on TikTok  The 8 Essential Steps You Need</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-m14-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-change-video-thumbnail-on-google-drive/"><u>Updated In 2024, How to Change Video Thumbnail on Google Drive</u></a></li>
+</ul></div>

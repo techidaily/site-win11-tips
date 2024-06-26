@@ -1,7 +1,7 @@
 ---
 title: Eliminating Sound Failure in Audacity, Windows 11 & 11
-date: 2024-06-21 20:20:48
-updated: 2024-06-24 11:53:11
+date: 2024-06-25T16:59:46.964Z
+updated: 2024-06-26T16:59:46.964Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 
  Many Audacity users have confirmed enabling and running disabled Windows Audio and Endpoint Builder services can fix the Internal PortAudio error. So, this troubleshooting method will likely work if one of those services is disabled on your PC. This is how you can check and enable those services in Windows 11/10:
 
-1. First, bring up the Windows search box and search for Services. You can also use one of the other[ways to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) .
+1. First, bring up the Windows search box and search for Services. You can also use one of the other [ways to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. Next, double-click**Windows Audio** to bring up further options for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
@@ -104,20 +104,20 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 2. Select Realtek High Definition Audio Driver or Realtek HD Manager.
 3. Click**Uninstall** to remove the driver.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
-4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
+4. Then bring up the [Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
 
 ## 7\. Reinstall Audacity
 
- A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our[ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
+ A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
 
- To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
+ To reinstall the software, open the [Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
- Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
+ Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This [uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
@@ -137,3 +137,27 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-11-sign-in-errors/"><u>Strategies for Bypassing Windows 11 Sign-In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-csgo-launch-failures-on-w11/"><u>Troubleshooting CS:GO Launch Failures on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-file-access-failures-in-microsoft-office-outlook/"><u>Correcting File Access Failures in Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-administered-window-on-os-x/"><u>Guidelines for Administered Window on OS X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-red-x-its-role-in-file-system-navigation/"><u>Explaining the Red “X”: Its Role in File System Navigation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-default-settings-keep-your-usb-running-on-windows-11/"><u>Disable Default Settings - Keep Your USB Running on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-system-requirements-not-met-watermark-in-windows-11/"><u>How to Remove the System Requirements Not Met Watermark in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertly-selected-8-filters-for-virtual-showcases/"><u>Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-audio-fading-in-lumafusion-software/"><u>[New] Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-clearing-the-air-methodical-guidance-for-taking-action-against-harassment-on-discord/"><u>[Updated] 2024 Approved  Clearing the Air  Methodical Guidance for Taking Action Against Harassment on Discord</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>In 2024, Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blur-it-out-simplified-identity-obscuration-techniques/"><u>Blur It Out  Simplified Identity Obscuration Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-edit-like-a-pro-top-6-windows-movie-editing-software/"><u>2024 Approved Edit Like a Pro Top 6 Windows Movie Editing Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-propel-your-tiktok-storytelling-through-voiceovers/"><u>[Updated] In 2024, Propel Your TikTok Storytelling Through Voiceovers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-non-networked-game-haven-top-screen-free-android-titles/"><u>In 2024, Non-Networked Game Haven  Top Screen-Free Android Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-polaroid-which-video-editor-prevails/"><u>[New] GoPro Vs. Polaroid  Which Video Editor Prevails?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bites-of-wisdom-youtube-tvs-unique-selling-points/"><u>2024 Approved  Bites of Wisdom  YouTube TV's Unique Selling Points</u></a></li>
+</ul></div>

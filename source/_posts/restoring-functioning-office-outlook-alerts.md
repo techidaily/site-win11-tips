@@ -1,7 +1,7 @@
 ---
 title: Restoring Functioning Office Outlook Alerts
-date: 2024-06-22 18:12:11
-updated: 2024-06-25 12:58:25
+date: 2024-06-25T16:39:30.804Z
+updated: 2024-06-26T16:39:30.804Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ## 1\. Disable Offline Mode in Outlook
 
- First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if[Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
+ First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if [Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
 
 You can fix this by disabling offline mode in Outlook:
 
@@ -46,7 +46,7 @@ Follow these steps to check Outlook’s notification settings:
 
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
- Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
+ Windows allows you to [manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
 
 1. Press**Win + I** to open the**Settings** app.
 2. In the**System** tab, select**Notifications** . Make sure notifications are enabled on your PC.
@@ -154,3 +154,24 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/visualize-storage-quickly-integrate-diskanalyzer-into-windows-menu/"><u>Visualize Storage Quickly: Integrate DiskAnalyzer Into Windows Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rectifying-error-0x80300024-in-winxp/"><u>Steps for Rectifying Error 0X80300024 in WinXP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-windows-11-in-software-installation-harmony/"><u>The Role of Windows 11 in Software Installation Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-outlooks-non-synchronization-in-windows-os/"><u>How to Rectify Outlook's Non-Synchronization in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-a-dysfunctional-downloads-hub-in-windows/"><u>Guidelines for Restoring a Dysfunctional Downloads Hub in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-pin-removal-switch-in-windows-11/"><u>Unlocking Hidden Pin Removal Switch in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-mspm-errors-windows-based-fixes-required/"><u>Halt MSPM Errors, Windows-Based Fixes Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-file-denial-in-steam-for-windows-11-users/"><u>Tackling File Denial in Steam for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-achieve-youtube-stardom-top-strategies-for-recognition-and-growth/"><u>[New] In 2024, Achieve YouTube Stardom  Top Strategies for Recognition and Growth</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-world-of-kinemaster-and-ranking-10-online-competitors/"><u>In 2024, Explore the World of KineMaster & Ranking 10 Online Competitors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-sound-design-crafting-and-integrating-whatsapp-ringtone-on-devices/"><u>In 2024, Step Into Sound Design  Crafting and Integrating WhatsApp Ringtone on Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hone-your-livestream-skills-on-youtubes-premier-platform/"><u>[New] In 2024, Hone Your Livestream Skills on YouTube's Premier Platform</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-11-fantastic-free-music-recording-solutions-for-home-studios/"><u>New In 2024, 11 Fantastic Free Music Recording Solutions for Home Studios</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-decoding-av1-technology/"><u>[New] Beginner's Guide  Decoding AV1 Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-level-action-gopro-hero5-black-meets-hero4-silver/"><u>[New] Next-Level Action  GoPro Hero5 Black Meets Hero4 Silver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-reviews-top-5-high-performance-video-devices-for-2024/"><u>[New] Expert Reviews  Top 5 High-Performance Video Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-upset-timeline-trail-on-tiktok-undo-recent-loadout/"><u>[Updated] In 2024, Upset Timeline Trail on TikTok – Undo Recent Loadout</u></a></li>
+</ul></div>

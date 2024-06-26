@@ -1,7 +1,7 @@
 ---
 title: Windows Command Center for App and Browser Authority
-date: 2024-06-23 18:32:13
-updated: 2024-06-26 10:37:40
+date: 2024-06-25T16:53:22.466Z
+updated: 2024-06-26T16:53:22.466Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
  It uses what Microsoft knows about the various websites and apps it learns based on the internet information and then decides whether it would be safe to access that service.
 
- We have covered a variety of[ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
+ We have covered a variety of [ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
 
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
@@ -90,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ## 3\. Exploit Protection
 
- Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As[Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
+ Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As [Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
 
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
 
- Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
+ Microsoft has covered the exploit protection feature in much more granular detail on [Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
 
 ## Get App and Browser Control on a Windows PC
 
@@ -117,3 +117,26 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-display-embrace-tiled-workspace/"><u>Streamline Your Display: Embrace Tiled Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-screen-radiance-on-windows-11-practical-fixes/"><u>Elevate Screen Radiance on Windows 11: Practical Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-10-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-self-extracting-fx-in-win11/"><u>Step-by-Step: Creating Self-Extracting FX in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-virtual-disk-service-not-started-in-windows/"><u>Remedy for Virtual Disk Service Not Started in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-11-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unchangeable-power-configurations-in-windows-11/"><u>Overcoming Unchangeable Power Configurations in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-tecno-camon-30-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Camon 30 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-120plus-snapchat-private-story-name-ideas/"><u>[New] In 2024, 120+ Snapchat Private Story Name Ideas</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-12-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme 12 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-achieve-professionalism-in-sims-4-videography/"><u>[New] 2024 Approved  Achieve Professionalism in Sims 4 Videography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-tiktok-text-adding-a-comprehensive-manual/"><u>[New] 2024 Approved  TikTok Text-Adding  A Comprehensive Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shutterbugs-essential-guide-for-insta-posting/"><u>[New] Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-success-stories-earning-while-you-edit/"><u>[Updated] In 2024, Channel Success Stories  Earning While You Edit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-locating-your-next-social-video-fb-2023/"><u>[Updated] Step-by-Step  Locating Your Next Social Video (FB 2023)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-imageimprint-tips-for-insta-size-customization-for-2024/"><u>[Updated] ImageImprint  Tips for Insta Size Customization for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-perfecting-your-youtube-contents-first-visual-hook/"><u>[New] Perfecting Your YouTube Content's First Visual Hook</u></a></li>
+</ul></div>

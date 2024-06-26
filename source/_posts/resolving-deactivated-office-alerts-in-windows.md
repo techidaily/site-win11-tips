@@ -1,7 +1,7 @@
 ---
 title: Resolving Deactivated Office Alerts in Windows
-date: 2024-06-21 10:32:28
-updated: 2024-06-24 12:48:57
+date: 2024-06-25T17:09:13.909Z
+updated: 2024-06-26T17:09:13.909Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ## 1\. Disable Offline Mode in Outlook
 
- First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if[Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
+ First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if [Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
 
 You can fix this by disabling offline mode in Outlook:
 
@@ -46,7 +46,7 @@ Follow these steps to check Outlook’s notification settings:
 
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
- Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
+ Windows allows you to [manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
 
 1. Press**Win + I** to open the**Settings** app.
 2. In the**System** tab, select**Notifications** . Make sure notifications are enabled on your PC.
@@ -154,3 +154,26 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/streamline-tasks-with-these-windows-11-hacks/"><u>Streamline Tasks with These Windows 11 Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-dual-camera-access-in-windows-apps/"><u>Preventing Dual Camera Access in Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-a-frozen-system-interface/"><u>Resuscitating a Frozen System Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-code-0xa00f4289-in-wincams/"><u>Navigating Through Code 0xA00F4289 in WinCams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x887a0006-for-graphics/"><u>Correcting Error Code 0X887A0006 for Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-file-failsafe-six-steps-for-correcting-winrar-sums/"><u>Fixing File Failsafe: Six Steps for Correcting WinRAR Sums</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-zooms-for-peak-snapchat-performance/"><u>In 2024, Precision Zooms for Peak Snapchat Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-expert-picks-top-mobile-video-editors-for-iphone-and-android-users/"><u>New 2024 Approved Expert Picks Top Mobile Video Editors for iPhone and Android Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vdsn-vidscreen-record-review-thorough-analysis/"><u>[New] In 2024, VDSN VidScreen Record Review  Thorough Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 10 5G FRP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>[New] Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fix-obs-white-outage-during-live-streams/"><u>[Updated] In 2024, Fix OBS White Outage During Live Streams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-recording-made-easy-free-x-recorder-for-pc/"><u>[Updated] Audio Recording Made Easy  Free X-Recorder for PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco? Try These Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+</ul></div>

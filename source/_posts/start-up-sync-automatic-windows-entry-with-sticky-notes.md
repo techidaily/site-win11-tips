@@ -1,7 +1,7 @@
 ---
 title: "Start-Up Sync: Automatic Windows Entry with Sticky Notes"
-date: 2024-06-22 18:23:17
-updated: 2024-06-24 10:24:51
+date: 2024-06-25T16:50:26.977Z
+updated: 2024-06-26T16:50:26.977Z
 tags:
   - windows10
   - windows11
@@ -57,8 +57,7 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 6. In the **Program/script** field, type the path below:  
 C:\Windows\System32\cmd.exe
 7. In the Add arguments (optional) field, copy and paste the following command:  
-/c start shell:appsfolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App  
-![Start a Program in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-task-scheduler.jpg)
+/c start shell:appsfolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App ![Start a Program in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-task-scheduler.jpg)
 8. Click **Next** and review all the settings.
 9. Now click **Finish** to save your work.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/finish-task-wizard.jpg)
@@ -87,3 +86,29 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
  This article outlines several ways to open Sticky Notes at startup in Windows. If you want an easier solution, leave Sticky Notes open when you shut down your computer; it will launch automatically when Windows starts. If not, add Sticky Notes to the startup folder. If you want more control over when Sticky Notes launches, use Task Scheduler or tweak the Registry Editor.
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/steps-for-switching-back-the-windows-11-search-icons/"><u>Steps for Switching Back the Windows 11 Search Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unearth-windows-crash-reports-after-bsod/"><u>How to Unearth Windows' Crash Reports After BSOD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-locating-policy-management-tools/"><u>Steps to Successfully Locating Policy Management Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-stacked-icons-on-operating-system-ui/"><u>Disentangling Stacked Icons on Operating System UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-not-enough-memory-available-problem-windows-vmware/"><u>Remedies for 'Not Enough Memory Available' Problem (Windows VmWare)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-improve-windows-taskmanager-through-cli-integration/"><u>How to Improve Windows TaskManager Through CLI Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shutdown-playbook-avoiding-windows-11-activities/"><u>The Shutdown Playbook: Avoiding Windows 11 Activities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zooctorial-template-goldmine/"><u>Zooctorial Template Goldmine</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-free-windows-software-perfect-tv-recording-techniques/"><u>2024 Approved  Free Windows Software  Perfect TV Recording Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>2024 Approved  Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-28-youtube-music-splitters-for-easy-audio-extraction/"><u>Top 28 YouTube Music Splitters for Easy Audio Extraction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigate-nature-androids-animated-adventure-series/"><u>[New] In 2024, Navigate Nature  Android’s Animated Adventure Series</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unlock-faster-fame-on-tiktok-with-these-key-strategies/"><u>Unlock Faster Fame on TikTok with These Key Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

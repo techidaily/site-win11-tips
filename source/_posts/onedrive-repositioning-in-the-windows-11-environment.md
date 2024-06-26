@@ -1,7 +1,7 @@
 ---
 title: OneDrive Repositioning in the Windows 11 Environment
-date: 2024-06-22 22:36:23
-updated: 2024-06-25 12:57:14
+date: 2024-06-25T16:19:42.539Z
+updated: 2024-06-26T16:19:42.539Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
 
- If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
+ If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 ### 1\. Unlinking OneDrive
 
- The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
+ The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
 
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
@@ -52,7 +52,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
 
-1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll[re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
+1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll [re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
@@ -64,7 +64,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
- Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+ Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -85,3 +85,22 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-non-signed-file-barrier-for-system-upgrades/"><u>Overcoming Non-Signed File Barrier for System Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-stuck-sheets-and-frozen-viewport-in-excel/"><u>Solve Stuck Sheets and Frozen Viewport in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-cant-stop-your-generic-volume-device-error/"><u>How to Fix the “Windows Can’t Stop Your Generic Volume Device” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-personalized-secure-locks-for-windows-11/"><u>Designing Personalized Secure Locks for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrease-overhead-memory-use-by-antivirus-programs/"><u>Decrease Overhead Memory Use by Antivirus Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ms-teams-error-80080300-on-windows-11-a-guide/"><u>Resolving MS Teams Error 80080300 on Windows 11: A Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-chordcatcher-software-insight/"><u>[New] 2024 Approved  ChordCatcher Software Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/no-cost-recording-solutions-windows-tech-hacks-for-2024/"><u>No-Cost Recording Solutions  Windows Tech Hacks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-diving-deep-into-your-twitter-archive/"><u>[New] 2024 Approved  Diving Deep Into Your Twitter Archive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-edge-approaches-in-spotifys-advertising-realm-for-2024/"><u>Leading Edge Approaches in Spotify's Advertising Realm for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ace-screen-recorders-list-for-the-winning-setup/"><u>2024 Approved  The Ace Screen Recorders List - For the Winning Setup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>[Updated] Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/get-perfect-film-endings-for-your-projects-on-the-house/"><u>Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+</ul></div>

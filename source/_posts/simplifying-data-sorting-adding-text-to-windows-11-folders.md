@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Data Sorting: Adding Text to Windows 11 Folders"
-date: 2024-06-23 19:10:29
-updated: 2024-06-25 11:58:35
+date: 2024-06-25T16:23:27.028Z
+updated: 2024-06-26T16:23:27.028Z
 tags:
   - windows10
   - windows11
@@ -82,3 +82,34 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-integration-of-apple-maps-on-pcs/"><u>Deciphering the Integration of Apple Maps on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-full-potential-of-the-windows-key/"><u>Unlocking Full Potential of the Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-netstat-on-windows-11-a-guide-to-tracking-data-flow/"><u>Explore Netstat on Windows 11: A Guide to Tracking Data Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steer-clear-of-stuck-arrows-in-windows/"><u>Steer Clear of Stuck Arrows in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-modern-standby-gets-a-bad-rap-in-windows/"><u>Why Modern Standby Gets a Bad Rap in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-search-with-image-cleanse/"><u>Simplifying Windows Search with Image Cleanse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-barriers-the-role-of-copilot-key-in-windows-11/"><u>Breaking Down Barriers: The Role of Copilot Key in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-code-0x80070091-empty-directories-unveiled/"><u>Tackling Windows Error Code 0X80070091 - Empty Directories Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-low-end-specs-in-windows-game-capture/"><u>Overcoming Low-End Specs in Windows Game Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x8b-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X8b Phone? | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-christmas-is-coming-how-to-find-and-make-animated-christmas-gifs-for-2024/"><u>Updated Christmas Is Coming! How to Find & Make Animated Christmas GIFs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-orb-shaper-essentials/"><u>[New] Orb Shaper Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-revenue-through-youtube-brand-partnerships/"><u>In 2024, Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-enhance-viewing-experience-by-adjusting-snapchats-frame-rate/"><u>[Updated] In 2024, Enhance Viewing Experience by Adjusting Snapchat's Frame Rate</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-crucial-elements-when-choosing-an-audio-editor-for-apple-computers/"><u>2024 Approved Crucial Elements When Choosing an Audio Editor for Apple Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-guide-5-preferred-tiktok-gif-creation-tools-for-2024/"><u>[New] The Ultimate Guide  5 Preferred TikTok GIF Creation Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-step-by-step-methodology-for-precisentic-google-meeting-arrangements/"><u>[Updated] In 2024, A Step-by-Step Methodology for Precisentic Google Meeting Arrangements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-live-photo-complete-guide-how-to-use-it-on-iphone/"><u>[Updated] Live Photo Complete Guide  How to Use It on iPhone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

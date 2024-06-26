@@ -1,7 +1,7 @@
 ---
 title: How to Mute Your Keyboard on a Windows Computer
-date: 2024-06-24 12:41:25
-updated: 2024-06-25 11:40:11
+date: 2024-06-25T16:56:22.677Z
+updated: 2024-06-26T16:56:22.677Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  That said, this is a temporary solution. As soon as you restart your system, Windows will look for the connected but unrecognized devices and install the necessary drivers to make them functional.
 
-## How to Disable Your Laptop Keyboard Permanently
-
-![disable ps 2 port 18042prt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-ps-2-port-18042prt-command-prompt.jpg)
+## How to Disable Your Laptop Keyboard Permanently ![disable ps 2 port 18042prt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-ps-2-port-18042prt-command-prompt.jpg)
 
  If you want to disable your laptop keyboard permanently, you can disable your laptop’s built-in keyboard driver PS/2 i8042prt service using the Command Prompt. We'll use the sc command-line utility to configure the service and set its start parameter to disabled.
 
@@ -108,3 +106,29 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  Sometimes you don't want your laptop's keyboard to take inputs. This is usually because you're plugging in an external keyboard, either because the built-in one is broken or you just want a larger typing space with a full-sized keyboard.
 
  However, since the keyboard is an integral part of your portable computer, disabling its primary input method is a little tricky. Here, we show you how to temporarily and permanently disable the laptop keyboard on Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-subsystem-for-linux-impact/"><u>Assessing Windows Subsystem for Linux Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responding-spotify-app-in-w10-and-w11/"><u>Fixing Non-Responding Spotify App in W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-windows-11s-enhanced-bar/"><u>Make the Most of Windows 11'S Enhanced Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-innovators-guide-leveraging-windows-11-widgets/"><u>Tech Innovators Guide: Leveraging Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-peek-at-the-finest-laptops-from-ifa-2023/"><u>A Peek at the Finest Laptops From IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-zip-file-errors-a-win-11-remedy-plan/"><u>Overcoming Zip File Errors: A Win 11 Remedy Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-fn-key-operations-in-modern-windows-pcs/"><u>Decode FN Key Operations in Modern Windows PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transform-your-igtv-videos-with-top-10-video-editors/"><u>[New] In 2024, Transform Your IGTV Videos with Top 10 Video Editors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-discover-the-top-10-historically-rich-youtube-tutorials/"><u>In 2024, Discover the Top 10 Historically Rich YouTube Tutorials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-studio-explained-capturing-ps4-playthroughs-for-2024/"><u>OBS Studio Explained  Capturing PS4 Playthroughs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/instagram-stories-mastering-the-art-of-time-manipulation-for-2024/"><u>Instagram Stories – Mastering the Art of Time Manipulation for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find N3 Flip</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlock-window-history-with-spring-screenrecorder/"><u>[Updated] Unlock Window History with Spring ScreenRecorder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/crafting-flawless-game-captures-roblox-and-macos-techniques/"><u>Crafting Flawless Game Captures  Roblox & macOS Techniques</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: How to Enable Hyper-V in Windows 11
-date: 2024-06-23 19:34:55
-updated: 2024-06-25 12:51:38
+date: 2024-06-25T16:50:58.807Z
+updated: 2024-06-26T16:50:58.807Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,7 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-## Prerequisites to Enable Hyper-V on Windows 11
-
-![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
+## Prerequisites to Enable Hyper-V on Windows 11 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
 
@@ -64,9 +62,7 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
-
-![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+## 1\. Turn On Hyper-V in Windows 11 Via Control Panel ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -80,9 +76,7 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
-## 2\. Add Hyper-V to Windows 11 Using Command Prompt
-
-![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
+## 2\. Add Hyper-V to Windows 11 Using Command Prompt ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
@@ -96,9 +90,7 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
 
-## 3\. Enable Hyper-V Using PowerShell
-
-![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
+## 3\. Enable Hyper-V Using PowerShell ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
@@ -124,9 +116,7 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
-## How to Configure Hyper-V Settings
-
-![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
+## How to Configure Hyper-V Settings ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
 
@@ -147,3 +137,34 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
  That said, dedicated virtual machines such as the VMWare WorkStation Pro is available on multiple platforms, can be used on older systems, and is more suitable for enterprise solutions. Check out our comparison comparing the three popular hypervisors to find the one that works for you.
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-non-responsive-function-keys-for-brighness-on-windows-11/"><u>Methods to Tackle Non-Responsive Function Keys for Brighness on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-vids-with-these-8-windows-titles/"><u>Streamline Your Vids with These 8 Windows Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnection-issues-with-ea-services-in-win/"><u>Overcoming Disconnection Issues with EA Services in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-text-selection-in-windows-compatible-pdfs/"><u>Mastering Text Selection in Windows-Compatible PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-vintage-gaming-journey-integrating-trophies-via-retroarch/"><u>Transform Your Vintage Gaming Journey: Integrating Trophies via Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-security-by-learning-the-quickest-ways-to-access-credentials-in-win11/"><u>Skyrocket Security by Learning the Quickest Ways to Access Credentials in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-on-keeping-windows-11s-notifications-alive/"><u>Essential Insights on Keeping Windows 11'S Notifications Alive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-starter-kit-10-crucial-tips-to-know/"><u>2024 Approved  Photoshop Starter Kit  10 Crucial Tips to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pioneering-the-future-top-tips-for-remotely-capturing-talent-for-2024/"><u>Pioneering the Future  Top Tips for Remotely Capturing Talent for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-most-memorable-2022-ice-sculpture-moves-for-2024/"><u>[Updated] The Most Memorable 2022 Ice Sculpture Moves for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube-for-2024/"><u>[New] Essential FreeFire Hashtags to Skyrocket Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-your-teamwork-zooming-through-screenshares/"><u>[New] 2024 Approved  Streamline Your Teamwork  Zooming Through Screenshares</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[New] Transforming Trips Into Tales  The Roadmap to Becoming a Travel Blogger</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-choices-twitter-video-conversion-software/"><u>Best Choices  Twitter Video Conversion Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-overcoming-common-windows-10-photos-display-problems/"><u>[New] Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-strategies-converting-pinner-visuals-to-audio-for-2024/"><u>Top 3 Strategies  Converting Pinner Visuals to Audio for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

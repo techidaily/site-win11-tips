@@ -1,7 +1,7 @@
 ---
 title: "Hotkey Hacks: Masterful Window Management Made Simple"
-date: 2024-06-21 22:36:42
-updated: 2024-06-24 11:52:29
+date: 2024-06-25T16:25:46.812Z
+updated: 2024-06-26T16:25:46.812Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  Redo is to do an action that you have undone on your PC; it's the opposite of undo. For example, if you decide that you really don't need the image file you had first deleted and then brought back using undo, you can redo the action and delete the image file again.
 
- If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn[how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
+ If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn [how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+ If you like using your keyboard to perform actions, be sure to check out [how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
@@ -81,3 +81,22 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-playnite-with-emulated-game-support/"><u>Upgrade Playnite with Emulated Game Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-reach-word-definitions-on-your-system/"><u>Rapidly Reach Word Definitions on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-configuring-pc-manager/"><u>Unveiling the Secrets to Configuring PC Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-11-bluetooth-try-connecting-error/"><u>Steps to Resolve Windows 11 Bluetooth 'Try Connecting' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-digital-management-with-windows-automatic-file-disposal/"><u>Simplify Digital Management with Windows' Automatic File Disposal</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-ig-management-made-simple-the-best-tools-reviewed/"><u>[Updated] In 2024, IG Management Made Simple  The Best Tools Reviewed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-thread-to-thrill-sewing-secrets-on-tiktok-for-2024/"><u>[New] From Thread to Thrill  Sewing Secrets on TikTok for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[New] In 2024, Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>2024 Approved  Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>2024 Approved  Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-v29-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo V29 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/securing-photo-libraries-without-copyright-notices-for-2024/"><u>Securing Photo Libraries Without Copyright Notices for 2024</u></a></li>
+</ul></div>

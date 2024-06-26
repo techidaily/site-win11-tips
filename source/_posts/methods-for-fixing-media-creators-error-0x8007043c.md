@@ -1,7 +1,7 @@
 ---
 title: Methods for Fixing Media Creator's Error 0X8007043C
-date: 2024-06-25 19:23:54
-updated: 2024-06-26 12:55:43
+date: 2024-06-25T16:49:13.882Z
+updated: 2024-06-26T16:49:13.882Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b750413312d41df96b3e21641f92f421092aa1540
 
 ## 1\. Run the Media Creation Tool as an Administrator
 
- You can fix permission issues by executing the Media Creation Tool with administrator privileges. By default, the tool does not require administrator rights to run. But you can[manually run Windows apps as an administrator](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) to see if that resolves the error.
+ You can fix permission issues by executing the Media Creation Tool with administrator privileges. By default, the tool does not require administrator rights to run. But you can [manually run Windows apps as an administrator](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) to see if that resolves the error.
 
 To run Media Creation Tool as administrator:
 
@@ -79,7 +79,7 @@ To run the Windows Update Troubleshooter:
 
  Third-party antivirus can be overzealous and block genuine system modifications as malicious. You can disable the security app temporarily to determine if your third-party antivirus is triggering the error.
 
- Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+ Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the [best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 ## 6\. Run the DISM and System File Checker Tool
 
@@ -102,15 +102,15 @@ sfc /scannow
 
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
- While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to[create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can[download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
+ While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to [create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can [download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
 
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
- Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
+ Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and [reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
- If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
+ If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn [how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
 
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
@@ -131,3 +131,24 @@ sfc /scannow
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/instructions-disable-virtual-machine-feature-in-windows-11/"><u>Instructions: Disable Virtual Machine Feature in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-iomap64-syscall-failures-on-windows-pcs/"><u>Essential Fixes for IOMap64 Syscall Failures on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-spotlight-picture-whenever-you-want/"><u>How to Change the Windows Spotlight Picture Whenever You Want</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-files-write-access-no-more-restrictions/"><u>Adjusting Windows Files: Write Access No More Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unseen-an-inevitable-ai-revolution/"><u>Windows Unseen: An Inevitable AI Revolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-gaming-e84-fix-for-steam-windows/"><u>Streamline Your Gaming: E84 Fix for Steam Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-testing-the-capabilities-of-magix-image-viewer/"><u>[New] Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-adventure-in-the-world-of-emojis-top-8-sites-offering-freebies-for-2024/"><u>[Updated] Adventure in the World of Emojis  Top 8 Sites Offering Freebies for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-screen-recording-on-imac-with-ease/"><u>[Updated] Mastering Screen Recording on iMac with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>[New] In 2024, Live Sound Excellence Unveiled  Our Top Picks for Streaming Quality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accessible-no-cost-tools-to-craft-professional-slideshows/"><u>Accessible, No-Cost Tools to Craft Professional Slideshows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-magic-techniques-to-share-your-computer-screen-online/"><u>[Updated] Social Media Magic  Techniques to Share Your Computer Screen Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes-for-2024/"><u>[New] Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes for 2024</u></a></li>
+</ul></div>

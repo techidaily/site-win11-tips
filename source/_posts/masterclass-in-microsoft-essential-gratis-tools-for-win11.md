@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Microsoft: Essential Gratis Tools for Win11"
-date: 2024-06-23 23:57:16
-updated: 2024-06-24 10:44:16
+date: 2024-06-25T16:30:22.332Z
+updated: 2024-06-26T16:30:22.332Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
  Here we have collected a list of free tools for Windows 11 that average and advanced users will benefit from in their day-to-day tasks.
 
-## 1\. QuickLook
-
-![quick look windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-look-windows-11.jpg)
+## 1\. QuickLook ![quick look windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-look-windows-11.jpg)
 
  Windows 11 lets you view the large thumbnail of images in File Explorer. However, it still lacks a preview feature if you want a glance at your files without opening them in the Photos app.
 
@@ -34,9 +32,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[QuickLook](http://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S) (Free)
 
-## 2\. 7-Zip
-
-![7zip windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/7zip-windows-11.jpg)
+## 2\. 7-Zip ![7zip windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/7zip-windows-11.jpg)
 
  Windows 11 comes with a rudimentary archive file extraction feature. However, if you need wide support for various file formats, 7-Zip is an excellent alternative. It is an open-source file compression utility and is easy to use.
 
@@ -44,17 +40,15 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[7-ZIP](http://www.7-zip.org/) (Free)
 
-## 3\. Microsoft PowerToys
-
-![notepad plus plus windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notepad-plus-plus-windows-11.jpg)
+## 3\. Microsoft PowerToys ![notepad plus plus windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notepad-plus-plus-windows-11.jpg)
 
  Microsoft PowerToys consists of a bunch of advanced utilities for Windows users. It is an essential utility that you must install on your new PC to do more with Windows 10 and 11.
 
- You can access all the features in the Tab mode. For example, the**Always on Top** feature lets you pin active windows on top in floating mode. Then there is an[Awake option to keep your PC awake indefinitely](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) , irrespective of your selected power plan. We covered this in more detail in our guide on[how to temporarily disable sleep mode on Windows](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) .
+ You can access all the features in the Tab mode. For example, the**Always on Top** feature lets you pin active windows on top in floating mode. Then there is an [Awake option to keep your PC awake indefinitely](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) , irrespective of your selected power plan. We covered this in more detail in our guide on [how to temporarily disable sleep mode on Windows](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) .
 
  You can also use it to perform keyboard mapping, some mouse customization, view shortcut guide for Windows apps and settings, a built-in Color Picker, and more.
 
- We have covered this utility in detail in our guide on[how to use Microsoft PowerToys for Windows 10 and 11](https://www.makeuseof.com/tag/windows-10-powertoys/) .
+ We have covered this utility in detail in our guide on [how to use Microsoft PowerToys for Windows 10 and 11](https://www.makeuseof.com/tag/windows-10-powertoys/) .
 
 **Download** :[Microsoft PowerToys](http://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) (Free)
 
@@ -68,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[NotePad++](http://notepad-plus-plus.org/) (Free)
 
-## 5\. ShareX
-
-![sharex image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sharex-image.png)
+## 5\. ShareX ![sharex image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sharex-image.png)
 
  ShareX is an advanced screenshot capture tool for Windows. It is a lightweight open-source project that lets you capture screenshots in multiple shapes with a delay condition.
 
  However, what makes ShareX the best screenshot tool is its image editing interface. You can access all the captured screenshots from its Task List. Then you can edit the screenshots and images to add blur effect, annotate, add text, visual counter, erase objects, and more.
 
- ShareX is free to use and free from any ads. It also supports GIF and screen recording. However, you cannot edit the screen recording in ShareX. For that, you can use any of the[best screen recording programs for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) that offer recording and editing features.
+ ShareX is free to use and free from any ads. It also supports GIF and screen recording. However, you cannot edit the screen recording in ShareX. For that, you can use any of the [best screen recording programs for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) that offer recording and editing features.
 
 **Download** :[ShareX](http://getsharex.com/) (Free)
 
-## 6\. Lively Wallpaper
-
-![lively wallpaper windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lively-wallpaper-windows-11.jpg)
+## 6\. Lively Wallpaper ![lively wallpaper windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lively-wallpaper-windows-11.jpg)
 
  The Personalization feature in Windows 11 features a few built-in themes, and lets you pick colors, change backgrounds, and more. However, the overall wallpaper management is not very intuitive, and many users prefer to leave it at default.
 
@@ -92,9 +82,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Lively Wallpaper](http://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
 
-## 7\. Fluent Search
-
-![fluent search windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fluent-search-windows-11.jpg)
+## 7\. Fluent Search ![fluent search windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fluent-search-windows-11.jpg)
 
  Fluent Search is a search application for Windows to find files and folders. Unlike the built-in search app, Fluent Search can locate files, folders, browser tabs, apps, processes, and more.
 
@@ -104,9 +92,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Fluent Search](http://fluentsearch.net/) (Free)
 
-## 8\. WhatsApp Desktop
-
-![whatapp desktop windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whatapp-desktop-windows-11.jpg)
+## 8\. WhatsApp Desktop ![whatapp desktop windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whatapp-desktop-windows-11.jpg)
 
  If WhatsApp is your primary instant messaging app, WhatsApp desktop delivers notifications to your computer even when your phone is away or switched off. The desktop app offers a similar set of functionalities as WhatsApp Web, but builds on top of it even more.
 
@@ -114,9 +100,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[WhatsApp Desktop](http://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH) (Free)
 
-## 9\. Google Drive Desktop
-
-![google drive desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-drive-desktop.jpg)
+## 9\. Google Drive Desktop ![google drive desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-drive-desktop.jpg)
 
  Windows 11 comes pre-installed with the OneDrive cloud storage app. However, if you are a Google Drive user, the app's desktop version is useful for syncing your documents and files directly from your PC.
 
@@ -124,9 +108,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Google Drive Dekstop](http://www.google.com/drive/download/) (Free)
 
-## 10\. DaVinci Resolve
-
-![black magic design davinci resolve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/black-magic-design-davinci-resolve.jpg)
+## 10\. DaVinci Resolve ![black magic design davinci resolve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/black-magic-design-davinci-resolve.jpg)
 
  Suppose you need a professional video editor and don't want to spend a fortune on an Adobe app. In that case, DaVinci Resolve offers professional editing tools for color grading, effects, and audio processing, all for no cost.
 
@@ -134,9 +116,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[DaVinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) (Free)
 
-## 11\. Adobe Express
-
-![adobe express windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adobe-express-windows-11.jpg)
+## 11\. Adobe Express ![adobe express windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adobe-express-windows-11.jpg)
 
  Adobe Express is a freemium utility for creative professionals. It comes with thousands of templates for different categories to get you started with social media posts, logos and broachers, invites, and more.
 
@@ -144,9 +124,7 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Adobe Express](http://www.blackmagicdesign.com/products/davinciresolve/) (Free)
 
-## 12\. VLC Media Player
-
-![vlc media player windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/vlc-media-player-windows-11.jpg)
+## 12\. VLC Media Player ![vlc media player windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/vlc-media-player-windows-11.jpg)
 
  VLC Media Player is an open-source media player for Windows and other platforms with support for a wide range of multimedia formats. You can play local multimedia files or stream from platforms like YouTube.
 
@@ -154,11 +132,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[VLC Media Player](http://www.videolan.org/vlc/download-windows.html) (Free)
 
-## 13\. Bitwarden
+## 13\. Bitwarden ![bitwarden windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bitwarden-windows-11.jpg)
 
-![bitwarden windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bitwarden-windows-11.jpg)
-
- If you struggle to remember multiple passwords for different accounts, a password manager can take care of it. Bitwarden is an excellent password manager available on the web, browser, and desktop. If you use a different password Manager, such as LastPass, explore our[Bitwarden vs. LastPass comparison](https://www.makeuseof.com/bitwarden-vs-lastpass/) to see what makes Bitwarden a better alternative.
+ If you struggle to remember multiple passwords for different accounts, a password manager can take care of it. Bitwarden is an excellent password manager available on the web, browser, and desktop. If you use a different password Manager, such as LastPass, explore our [Bitwarden vs. LastPass comparison](https://www.makeuseof.com/bitwarden-vs-lastpass/) to see what makes Bitwarden a better alternative.
 
  It is an open-source password manager that lets you easily secure and sync all your passwords across devices. It also lets you generate a new and secure password for each account to avoid repeating one password for all the services.
 
@@ -183,3 +159,24 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-browser-copy-paste-woes-in-windows/"><u>Essential Fixes for Browser Copy-Paste Woes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-w11w10s-refusal-to-open-folders-after-double-clicks/"><u>Resolving W11/W10's Refusal to Open Folders After Double-Clicks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-stuck-recycle-bin-on-microsofts-latest-os/"><u>Reviving a Stuck Recycle Bin on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-window-pans-in-windows-11/"><u>Reconnecting Lost Window Pans in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-method-for-deleting-steam-dns-from-windows-os/"><u>Efficient Method for Deleting Steam DNS From Windows OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-screen-recorders-for-google-meet-you-should-try-free-and-paid-for-2024/"><u>Best Screen Recorders for Google Meet You Should Try [Free and Paid] for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-graphicizing-tech-for-podcasters-unveiled/"><u>Premier Graphicizing Tech for Podcasters Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-picture-ratio-calculator-resource-tips-and-tricks/"><u>The Ultimate Picture Ratio Calculator Resource Tips and Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-premier-list-visionary-audiovideo-makers-web/"><u>The Premier List  Visionary Audio/Video Makers Web</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-dimensions-for-captivating-videos-for-2024/"><u>Tailored Dimensions for Captivating Videos for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-k70-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi K70 Location without Installing Software? | Dr.fone</u></a></li>
+</ul></div>

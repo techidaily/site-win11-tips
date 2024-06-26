@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your User Experience: Customizing Windows 11 Defaults"
-date: 2024-06-22 15:36:19
-updated: 2024-06-24 10:31:53
+date: 2024-06-25T17:00:47.666Z
+updated: 2024-06-26T17:00:47.666Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ Follow these steps to proceed:
 5. If you want to choose a program as the default for all its registered file types and links, you'd need to click each type and choose the desired application in the following dialog.  
 ![Pick a default file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pick-a-default-file-type.jpg)
 
- This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
+ This should set the app as the default option for the selected file and link types. However, if you [reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
 ### 3\. Use File Properties
 
@@ -106,8 +106,7 @@ Follow these steps to proceed:
 4. In the Powershell window, type the command mentioned below and click Enter. Replace packagename with the name package name of the app that you want to set as default.  
 Get-AppxPackage packagename -AllUsers | Reset-AppxPackage
 5. For instance, if you want to change the Photos app, execute the following command:  
-Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage  
-![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
+Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
 ### 3\. Reinstall the App
@@ -146,3 +145,27 @@ Here is how you can proceed:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stalling-fixing-microsoft-teams-in-ws11ws10/"><u>Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-windows-apps-into-linux-world/"><u>Integrating Windows Apps Into Linux World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-silent-audio-devices-pc-edition/"><u>Revive Silent Audio Devices – PC Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-simplification-how-to-defrag-a-drive-with-win11/"><u>System Simplification: How to Defrag a Drive with Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-file-extraction-failures-in-windows-1110/"><u>Navigating Through File Extraction Failures in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-streamline-note-taking-with-win-11-display-rules/"><u>How to Streamline Note-Taking with Win 11 Display Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-default-windows-backup-reset/"><u>Guiding Through Default Windows Backup Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-default-windows-configuration/"><u>Tips for Restoring Default Windows Configuration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-engaging-stories-through-customized-instagram-quests/"><u>[New] Engaging Stories Through Customized Instagram Quests</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>In 2024, Multiplying Joy  Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-techniques-for-your-instagram-story-success/"><u>[New] Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space/"><u>[Updated] In 2024, The Viewer Count Chronicles  Mastering the Math of Monetizing Moments in YouTube Space</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-guide-to-optimizing-video-quality-in-mobile-broadcasts/"><u>[Updated] In 2024, Ultimate Guide to Optimizing Video Quality in Mobile Broadcasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-eye-catching-effects-top-10-editing-wonders-on-tiktok/"><u>[New] 2024 Approved  Eye-Catching Effects  Top 10 Editing Wonders on TikTok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] In 2024, Gamer's Quest  1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 7 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10c-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways | Dr.fone</u></a></li>
+</ul></div>

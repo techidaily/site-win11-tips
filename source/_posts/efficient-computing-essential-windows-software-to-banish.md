@@ -1,7 +1,7 @@
 ---
 title: "Efficient Computing: Essential Windows Software to Banish"
-date: 2024-06-23 14:32:54
-updated: 2024-06-25 12:15:25
+date: 2024-06-25T16:09:22.757Z
+updated: 2024-06-26T16:09:22.757Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
 
- Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our[guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
+ Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
 
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
 
@@ -40,31 +40,27 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 
  Shortly after Apple announced the deprecation of QuickTime for Windows,[Trend Micro](https://blog.trendmicro.com/urgent-call-action-uninstall-quicktime-windows-today/) announced that the software had a few critical vulnerabilities. Since Apple will never patch these, it's not safe to have QuickTime installed anymore.
 
- Removing QuickTime shouldn't cause any disruptions, as iTunes doesn't rely on it. If you need a replacement for QuickTime, use[VLC](https://www.videolan.org/vlc/index.html) , which will play pretty much anything.
+ Removing QuickTime shouldn't cause any disruptions, as iTunes doesn't rely on it. If you need a replacement for QuickTime, use [VLC](https://www.videolan.org/vlc/index.html) , which will play pretty much anything.
 
-## 2\. CCleaner
-
-![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
+## 2\. CCleaner ![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
 
  CCleaner was once a trusted Windows app for cleaning junk, but its reputation went downhill after it was acquired by Avast. Past issues include forced updates without permission, data collection that enabled itself even if you disabled the function, and the software distributing malware unknowingly.
 
- When[we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow[our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
+ When [we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow [our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
 ## 3\. Crappy PC Cleaners
 
- Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as[registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
+ Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as [registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
 
- Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some[ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
+ Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some [ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
 
-## 4\. uTorrent
-
-![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
+## 4\. uTorrent ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
 
  uTorrent was once considered the gold standard of torrenting software. However, it's had a host of issues over the years that make it untrustworthy now.
 
  Aside from having ads crammed into the interface, uTorrent also includes offers for other software tools, which is annoying. Its worst offense came in 2015, when the app was found to bundle in cryptocurrency mining software without letting users know. This wasted your system resources in the background to make money for the company, which allegedly gave some to charity.
 
- There's no reason to bother with uTorrent. We think[qBittorrent](https://www.qbittorrent.org/) is[the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
+ There's no reason to bother with uTorrent. We think [qBittorrent](https://www.qbittorrent.org/) is [the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
 
 ## 5\. Adobe Flash Player and Shockwave Player
 
@@ -72,21 +68,19 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 
  A similar runtime plugin, Adobe Shockwave Player, was discontinued in 2019\. The company no longer offers it for download, and you're extremely unlikely to find a website that needs it.
 
- You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to[enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
+ You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to [enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
 ## 6\. Java
 
  Java is another media runtime, and it includes two components: Java on the desktop, and the Java plugin for browsers (which is notorious for having security problems). Though it was once fairly common, very few websites use it nowadays. At the time of writing,[W3Techs](https://w3techs.com/technologies/details/cp-javaruntime/all/all) shows that a fraction of one percent of websites use Java.
 
- Modern versions of Chrome and Firefox don't support it, which means that[Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
+ Modern versions of Chrome and Firefox don't support it, which means that [Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
-## 7\. Microsoft Silverlight
+## 7\. Microsoft Silverlight ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
 
-![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
+ Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at [W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
- Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at[W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
-
- Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in[Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
+ Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in [Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
 ## 8\. All Toolbars and Junk Browser Extensions
 
@@ -106,17 +100,15 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 
  Consider these unnecessary programs you should get rid of, as none of them are required for Windows to function. Some of the preinstalled branded programs, like photo apps, gaming tools, or anything that duplicates Windows utilities, are completely unnecessary. Others, such as driver/BIOS update utilities (like Lenovo System Update), are worth keeping around.
 
- Of course, we can't comment specifically on every piece of manufacturer software. To find out about what you should delete from your system, it's a good idea to check out[Should I Remove It?](https://www.shouldiremoveit.com/) , which gives an overview of what each program does and how others have rated it.
+ Of course, we can't comment specifically on every piece of manufacturer software. To find out about what you should delete from your system, it's a good idea to check out [Should I Remove It?](https://www.shouldiremoveit.com/) , which gives an overview of what each program does and how others have rated it.
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
-## 11\. Windows 10 and Windows 11 Bloatware
-
-![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
+## 11\. Windows 10 and Windows 11 Bloatware ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
- Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
+ Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our [Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our [overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
 ## 12\. WinRAR
 
@@ -145,3 +137,24 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/finding-files-in-flux-top-6-methods-to-extract-and-duplicate-windows-11-folder-trails/"><u>Finding Files in Flux: Top 6 Methods to Extract and Duplicate Windows 11 Folder Trails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-old-titles-directing-them-to-my-pictures/"><u>Winning Over Old Titles: Directing Them to My Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-pc-select-prime-clock-saver-programs/"><u>Transform Windows PC – Select Prime Clock Saver Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-security-enlarge-pins-best-practices-in-windows-1111/"><u>Boost Security, Enlarge Pins: Best Practices in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-into-windowsstore-accessibility-guide/"><u>Essential Insights Into WindowsStore Accessibility Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-zero-error-mystery-in-windows-11-updates/"><u>Unraveling Zero-Error Mystery in Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-free-clip-art-legally/"><u>2024 Approved  Harnessing Free Clip Art Legally</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>[Updated] Mellow Playtime  10 Top-Rated Stress Erasers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-views-and-engagement-through-google-analytics-expertise/"><u>[New] 2024 Approved  Amplify Views & Engagement Through Google Analytics Expertise</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-guide-for-pc-based-tiktok-livestreams-for-2024/"><u>[Updated] The Ultimate Guide for PC-Based TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-elite-discord-capture-apps-on-the-go-recording-made-easy-for-2024/"><u>[New] Elite Discord Capture Apps  On-the-Go Recording Made Easy for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-gaming-experience-with-top-tools-for-2024/"><u>Streamline Your Gaming Experience with Top Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-cost-efficient-guide-to-skype-calls-in-mp3/"><u>[New] 2024 Approved  The Cost-Efficient Guide to Skype Calls in MP3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-platforms-the-instagram-and-tiktok-guide/"><u>Bridging Platforms  The Instagram & TikTok Guide</u></a></li>
+</ul></div>

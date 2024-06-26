@@ -1,7 +1,7 @@
 ---
 title: Dive Into PowerToys for Faster Copy-Pasting
-date: 2024-06-22 13:34:22
-updated: 2024-06-25 10:55:43
+date: 2024-06-25T16:15:38.272Z
+updated: 2024-06-26T16:15:38.272Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ## What Is the "Paste as Plain Text" Feature in PowerToys?
 
- Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any[free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
+ Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any [free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
 
  You can use**Ctrl + Shift + V** as a workaround to paste as plain text, but that doesn’t work with applications like Microsoft Word. So, it is not a permanent solution to remove source formatting from the text.
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ## How to Enable and Use the "Paste as Plain Text" Feature in PowerToys
 
- This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or[download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
+ This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or [download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
 
 1. Launch PowerToys on your system. Go to the left-hand side menu and click on the**Paste as Plain Text** option.
 2. Click on the**toggle** next to the**Enable Paste As Plain Text** option to enable the feature.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  Mouse Jump aims to fix a fatal flaw while using a widescreen multiple display setup. The screen is so wide that it becomes impossible for the user to drag the mouse across the screen without lifting it once or twice. Laptop users have to suffer even more due to the small size of the trackpad.
 
- You can fix these annoyances with a[dual-monitor management app for Windows](https://www.makeuseof.com/software-manage-dual-monitors/) , but Mike Clayton already had a tool called[FancyMouse on GitHub](https://github.com/mikeclayton/FancyMouse) . But now he merged the tool with PowerToys which is great news for all power users.
+ You can fix these annoyances with a [dual-monitor management app for Windows](https://www.makeuseof.com/software-manage-dual-monitors/) , but Mike Clayton already had a tool called [FancyMouse on GitHub](https://github.com/mikeclayton/FancyMouse) . But now he merged the tool with PowerToys which is great news for all power users.
 
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
 
@@ -80,3 +80,24 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-intel-unison-for-convenient-windows-11-calls/"><u>Making the Most of Intel Unison for Convenient Windows 11 Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-device-names-candd-a-clear-breakdown/"><u>Dissecting Device Names (C&D): A Clear Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-startup-paths-essential-steps/"><u>Unlocking Windows' Startup Paths: Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-curtail-pc-sound-enhancement-effects/"><u>How To Curtail PC Sound Enhancement Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screenscape-symphony-composing-personalized-displays-in-windows-1011/"><u>Screenscape Symphony: Composing Personalized Displays in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-your-connection-top-9-fixes-for-missing-bluetooth-in-windows-11/"><u>Bring Back Your Connection: Top 9 Fixes for Missing Bluetooth in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-adjustments-for-enhanced-windows-bar/"><u>Step-by-Step Adjustments for Enhanced Windows Bar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smilescape-turn-daily-life-into-hilarious-stories/"><u>[Updated] SmileScape  Turn Daily Life Into Hilarious Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[New] 2024 Approved  Streamlined Screen Recording on Mac  Best Apps of Choice</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unique-concepts-for-enhancing-fb-video-marketing-impact-for-2024/"><u>[New] Unique Concepts for Enhancing Fb Video Marketing Impact for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sounding-superior-a-guide-to-altering-voice-on-reels-and-stories/"><u>[New] Sounding Superior  A Guide to Altering Voice on Reels & Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-kid-friendly-driving-delights/"><u>2024 Approved  Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-savvy-key-hashtags-to-utilize-today-for-2024/"><u>Social Media Savvy  Key Hashtags to Utilize Today for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-pioneering-editing-techniques-for-immediate-background-transformations-in-tiktok/"><u>[Updated] In 2024, Pioneering Editing Techniques for Immediate Background Transformations in TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-5-for-high-speed-video-capture-tech-for-2024/"><u>[Updated] Best 5 for High-Speed Video Capture Tech for 2024</u></a></li>
+</ul></div>

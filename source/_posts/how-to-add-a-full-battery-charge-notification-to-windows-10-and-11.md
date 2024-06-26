@@ -1,7 +1,7 @@
 ---
 title: How to Add a Full Battery Charge Notification to Windows 10 & 11
-date: 2024-06-23 16:45:44
-updated: 2024-06-25 10:19:57
+date: 2024-06-25T16:32:02.699Z
+updated: 2024-06-26T16:32:02.699Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Battery Notification is a Microsoft Store app you can utilize in Windows 11/10\. That app enables you to set both high and low-battery alert notifications. The basic app is freely available, but you can upgrade it to one with battery analytics for $4.99\. You can set up a fully charged notifier with Battery Notification as follows:
 
-1. Bring up the[Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
+1. Bring up the [Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
 2. Click Battery Notification’s**Get in Store App** option.
 3. Select**Open in Microsoft Store** to access a download option for the app outside the browser.
 4. Click**Get** to install Battery Notification.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
 
-1. Bring up the[Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
+1. Bring up the [Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
 2. Click**Download** to view a couple of location options.
 3. Select the**Secure Download (US)** location option.
 4. Click**File Explorer** (a taskbar button) to open up the folder containing the downloaded**BatteryNotifier.exe** file.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
 
- The**Launch at Startup** option there is a self-explanatory setting. That setting[adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
+ The**Launch at Startup** option there is a self-explanatory setting. That setting [adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
 
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
 
-1. Open the[Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
+1. Open the [Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
 2. Select Full Battery & Theft Alarm’s**Get in Store app** option.
 3. Click**Open Microsoft Store** \>**Install** to download the app.
 4. Select the**Open** option for Full Battery & Theft Alarm in MS Store.
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
 
-1. Open Run by pressing**Win + R** (see[all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
+1. Open Run by pressing**Win + R** (see [all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
 2. Type**ms-settings:notifications** inside Run, and click that accessory’s**OK** option.
 3. Turn on the**Notifications** or**Get notifications** setting.  
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
@@ -121,3 +121,24 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/transitioning-to-win-11-with-confident-system-setup/"><u>Transitioning to Win 11 with Confident System Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-save-photoerror-in-windows-11-os/"><u>How to Correct 'No Save' PhotoError in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-win11s-alarming-zero-error-alerts/"><u>How to Bypass Win11’s Alarming Zero Error Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-netstat-on-windows-11-a-guide-to-tracking-data-flow/"><u>Explore Netstat on Windows 11: A Guide to Tracking Data Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivation-guide-for-your-frozen-windows-11-search-box/"><u>Reactivation Guide for Your Frozen Windows 11 Search Box</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-ailing-xbox-controllers/"><u>Restoring Functionality to Ailing Xbox Controllers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-guide-to-opening-quick-capture-utility/"><u>Windows 11 Guide to Opening Quick Capture Utility</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-editing-tutorial-mastering-video-cuts/"><u>[Updated] YouTube Editing Tutorial  Mastering Video Cuts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/media-recorder-disassembler-for-2024/"><u>Media Recorder Disassembler for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-zte-nubia-flip-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock ZTE Nubia Flip 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-sync-up-soundtracks-connecting-spotify-to-discord-effortlessly/"><u>[New] Sync Up Soundtracks  Connecting Spotify to Discord Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-iobit-screen-recorder-review/"><u>[Updated] In 2024, IObit Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transferring-tracks-a-guide-to-offline-youtube-for-ios-users/"><u>2024 Approved  Transferring Tracks  A Guide to Offline YouTube for iOS Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-list-top-10-video-trimmers-for-pc/"><u>2024 Approved The Ultimate List Top 10 Video Trimmers for PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-pastimes-away-from-sports-stadiums-ranked/"><u>[New] Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-windows-video-chat-apps-7-1-for-2024/"><u>[New] Premier Windows Video Chat Apps #7-#1 for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Launching Windows 11'S Snip & Sketch Shortcut
-date: 2024-06-23 22:55:26
-updated: 2024-06-25 11:35:21
+date: 2024-06-25T16:35:44.766Z
+updated: 2024-06-26T16:35:44.766Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  Once you've made your selection, click the Save icon in the upper right corner of the Snipping tool. You can also save snippets using the**Ctrl + S** shortcut key. Now choose a location where you want to save your snippet, and then click**Save** again.
 
- If you like using keyboard shortcuts, be sure to check out our[Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+ If you like using keyboard shortcuts, be sure to check out our [Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
- To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ To get more out of this handy tool, be sure to read our [beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## 6\. How to Open the Snipping Tool via File Explorer
 
@@ -139,3 +139,22 @@ The Snipping tool should now be open and ready to use!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-affected-device-access-post-error-code-22/"><u>How to Reset Affected Device Access Post-Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-lowering-windows-acoustic-amplifiers/"><u>Guide to Lowering Windows Acoustic Amplifiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excellent-windows-apps-transforming-videos/"><u>Excellent Windows Apps Transforming Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-functionality-with-these-8-bubbleui-upgrades/"><u>Maximize Functionality with These 8 BubbleUI Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-cameras-unsuccessful-save-attempts/"><u>Decoding Windows Camera's Unsuccessful Save Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsofts-apppack-and-msibundle-files-to-enhance-productivity/"><u>Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp4-conversion-mastering-youtube-shorts-editing/"><u>2024 Approved  MP4 Conversion  Mastering YouTube Shorts Editing</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-top-5-tiktok-fonts-for-higher-engagement-in-23-for-2024/"><u>[Updated] Top 5 TikTok Fonts for Higher Engagement in '23 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/100-free-windows-screen-capture-guides-and-methods-for-2024/"><u>100%% Free Windows Screen Capture Guides & Methods for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-video-tagging-software-for-mp4-files/"><u>Updated In 2024, Best Video Tagging Software for MP4 Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/stop-stalled-profile-visits-on-facebook/"><u>Stop Stalled Profile Visits on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-scoop-up-10-memes-that-balance-humor-with-heartfelt-emotions/"><u>2024 Approved  Scoop Up 10 Memes That Balance Humor with Heartfelt Emotions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-art-of-anime-adaptation-jujutsu-kaisens-tiktok-success/"><u>[Updated] In 2024, The Art of Anime Adaptation  Jujutsu Kaisen's TikTok Success</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-aspect-ratio-converters-for-a-seamless-viewing-experience-for-2024/"><u>Top Aspect Ratio Converters for a Seamless Viewing Experience for 2024</u></a></li>
+</ul></div>

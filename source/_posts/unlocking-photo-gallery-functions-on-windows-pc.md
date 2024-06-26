@@ -1,7 +1,7 @@
 ---
 title: Unlocking Photo Gallery Functions on Windows PC
-date: 2024-06-23 15:49:36
-updated: 2024-06-25 10:26:59
+date: 2024-06-25T17:11:16.644Z
+updated: 2024-06-26T17:11:16.644Z
 tags:
   - windows10
   - windows11
@@ -34,17 +34,17 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
- The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 ### 2\. Download ViVeTool
 
- You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+ You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
 2. Now, navigate to the main directory in C drive. Type**cd C:\\ command** and press the enter key.
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
@@ -108,3 +108,24 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-end-of-windows-xp-7-and-81-era-from-microsoft/"><u>The End of Windows XP, 7 & 8.1 Era From Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-course-through-cortana-history-windows/"><u>Charting Your Course Through Cortana History (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-no-wi-fi-in-windows-network/"><u>Breaking Down No Wi-Fi in Windows Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-visual-display-top-5-ideal-windows-pc-clock-themed-screensavers/"><u>Enhance Visual Display: Top 5 Ideal Windows PC Clock-Themed Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-functionality-of-fn-keys-on-modern-pcs-windows-11/"><u>Configuring the Functionality of FN Keys on Modern PCs (Windows 11)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-reels-sonic-boom-integrating-music-voiceovers/"><u>2024 Approved  Instagram Reels Sonic Boom  Integrating Music, Voiceovers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-10-best-video-speed-changing-apps-for-free-ios-and-android-2022/"><u>New 2024 Approved Top 10 Best Video Speed Changing Apps for FREE iOS and Android, 2022</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unseen-features-in-depth-look-at-instagrams-ask-emoji/"><u>[New] In 2024, Unseen Features  In-Depth Look at Instagram’s Ask Emoji</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/harmonizing-silence-a-comprehensive-guide-to-muting-superfluous-sounds-and-background-distractions-in-visionpro-studio-for-2024/"><u>Harmonizing Silence A Comprehensive Guide to Muting Superfluous Sounds and Background Distractions in VisionPro Studio for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-melodic-waters-a-legal-guide-on-instagram-for-2024/"><u>[Updated] Navigating Melodic Waters  A Legal Guide on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-real-vs-fake-quick-ways-to-audit-your-insta-circle/"><u>2024 Approved  Real Vs. Fake  Quick Ways to Audit Your Insta Circle</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-aiff-converter-checklist-essential-features-to-look-for/"><u>Updated The AIFF Converter Checklist Essential Features to Look For</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-speech-to-text-conversion-software-for-2024/"><u>Free Speech-to-Text Conversion Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-guide-to-recovering-stopped-fb-livestreams/"><u>[New] 2024 Approved  Guide to Recovering Stopped FB Livestreams</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Personalizing a Lasting Deletion Toolbar on Windows Systems
-date: 2024-06-21 23:24:37
-updated: 2024-06-24 10:53:59
+date: 2024-06-25T16:17:50.603Z
+updated: 2024-06-26T16:17:50.603Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,19 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
- Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
+ Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the [best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
  However, file shredder apps combat data recovery software by thoroughly eradicating files. Those tools permanently erase files by overwriting their data on hard drives. They do that with various data erasure overwrite standards, such as Gutmann’s and Schneier’s algorithms.
 
- So, you’ll need[third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
+ So, you’ll need [third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
 
- Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
+ Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on [if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
 
-1. Open the[Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
+1. Open the [Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
 2. Click the**Download Now** and the**External Mirror 1** options.
 3. Activate File Explorer by pressing its folder library taskbar button.
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
 
-1. First, open the[8GadgetPack download page](https://8gadgetpack.net/) .
+1. First, open the [8GadgetPack download page](https://8gadgetpack.net/) .
 2. Click**Download** on that 8GadgetPack page.
 3. Follow the instructions on the linked download page to install the 8GadgetPack software.
-4. Next, open this[Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
+4. Next, open this [Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
 5. Click Multi Trash’s**Download Now** \>**Secure Download (US)** options.
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
@@ -111,3 +111,23 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-unsolicited-opens-in-ms-store-on-windows-10/"><u>Halt Unsolicited Opens in MS Store on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-win11-personalized-volume-shortcuts/"><u>The Essentials of Win11 Personalized Volume Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-printer-connectivity-in-windows-os/"><u>Restoring Printer Connectivity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-event-viewer-usability/"><u>Restoring Windows Event Viewer Usability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-disabled-windows-application/"><u>How to Enable Disabled Windows Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-reasons-to-never-turn-off-your-windows-11-push-notifications/"><u>Discover Reasons to Never Turn Off Your Windows 11 Push Notifications</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/transform-your-virtual-engagements-with-these-top-10-cost-free-tools-for-2024/"><u>Transform Your Virtual Engagements with These Top 10 Cost-Free Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-digital-dominance-youtubes-best-female-gamers/"><u>In 2024, Digital Dominance  YouTube's Best Female Gamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nalyzing-t-series-youtube-financial-gains-for-2024/"><u>[New] Analyzing T-Series Youtube Financial Gains for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-revolutionize-online-transmission-essential-browsers-screen-capture-vendors/"><u>[New] In 2024, Revolutionize Online Transmission  Essential Browsers' Screen Capture Vendors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-camera-roll-to-youtube-the-ultimate-uploading-guide/"><u>[New] From Camera Roll to YouTube  The Ultimate Uploading Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-and-easy-conducting-instagram-stories-polls-today/"><u>In 2024, Quick & Easy  Conducting Instagram Stories Polls Today</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-list-of-free-aspect-ratio-calculator-tools/"><u>Updated In 2024, The Ultimate List of Free Aspect Ratio Calculator Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-5-best-photo-slideshow-software-for-beginners/"><u>In 2024, The Ultimate List 5 Best Photo Slideshow Software for Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-instagram-video-sharing-tips/"><u>[New] In 2024, Instagram Video Sharing Tips</u></a></li>
+</ul></div>

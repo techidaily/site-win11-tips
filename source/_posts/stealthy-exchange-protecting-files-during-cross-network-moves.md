@@ -1,7 +1,7 @@
 ---
 title: "Stealthy Exchange: Protecting Files During Cross-Network Moves"
-date: 2024-06-23 10:15:49
-updated: 2024-06-25 10:29:47
+date: 2024-06-25T16:22:29.293Z
+updated: 2024-06-26T16:22:29.293Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
 
-1. Press**Win + R** or use one of the[many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** or use one of the [many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**diskmgmt.msc** in the text field and press**Enter** .
 3. In the Disk Management window that opens, right-click on the drive you wish to hide and select**Change Drive Letter and Paths** .
 4. Now, click the**Remove** button from the pop-up window.
@@ -54,13 +54,13 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
- If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
+ If you like using Command Prompt, why not check our guide on [how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
 
 ## 3\. Hide a Drive Using the Group Policy Editor
 
  The Local Group Policy Editor is a tool that allows you to configure a wide range of settings on your computer. You can use it to hide a drive from your Windows computer.
 
- The Local Group Policy Editor is only available in Professional, Enterprise, and Education editions of Windows. If you're using the Windows Home edition, check our guide on[how to access the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
+ The Local Group Policy Editor is only available in Professional, Enterprise, and Education editions of Windows. If you're using the Windows Home edition, check our guide on [how to access the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
 
 Here's what you need to do:
 
@@ -78,9 +78,9 @@ Here's what you need to do:
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
- Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful[not to accidentally mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) in the process.
+ Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful [not to accidentally mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) in the process.
 
- To be safe, you should back up all the registry files before proceeding. If you need help with that, check our guide on[how to back up the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
+ To be safe, you should back up all the registry files before proceeding. If you need help with that, check our guide on [how to back up the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
 
  Once you're done with that, use the following steps to hide a drive using Windows Registry:
 
@@ -123,3 +123,22 @@ Here's what you need to do:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstating-missing-pin-after-win-11-updates/"><u>Guide to Reinstating Missing PIN After Win 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-connection-failsafes-in-windows/"><u>Overcoming Printer Connection Failsafes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-not-responding-problem-for-spotify-software/"><u>Resolving the Not Responding Problem for Spotify Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-10-and-11/"><u>How to Get the Outlook Preview App on Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unbreakable-passwords-top-four-managers-for-the-new-windows-edition/"><u>Unbreakable Passwords: Top Four Managers for the New Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-powershell-errors-with-script-enablement-fixes/"><u>Troubleshooting PowerShell Errors with Script Enablement Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-winexe-creation-from-batch-scripts/"><u>Unveiling WinEXE Creation From Batch Scripts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-the-leaders-in-online-engagement/"><u>In 2024, Unveiling the Leaders in Online Engagement</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-xr-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone XR</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-movie-makers-for-windows-10-free-and-paid/"><u>Updated 2024 Approved Best Movie Makers for Windows 10 Free and Paid</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-6-best-mp4-mergers-to-join-videos-easily/"><u>In 2024, 6 Best MP4 Mergers to Join Videos Easily</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/introduction-of-virbo-online-wondershare-virbo-for-2024/"><u>Introduction of Virbo Online | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebooks-pivot-to-short-form-content-unpacking-2023-changes/"><u>In 2024, Facebook's Pivot to Short-Form Content  Unpacking 2023 Changes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unlocking-home-design-potential-in-minecraft/"><u>[New] 2024 Approved  Unlocking Home Design Potential in Minecraft</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-figuring-out-proper-ways-to-play-a-video-in-slow-motion-on-iphone/"><u>In 2024, Figuring Out Proper Ways to Play a Video in Slow Motion on iPhone</u></a></li>
+</ul></div>

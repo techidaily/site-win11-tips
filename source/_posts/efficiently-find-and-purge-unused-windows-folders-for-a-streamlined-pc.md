@@ -1,7 +1,7 @@
 ---
 title: Efficiently Find & Purge Unused Windows Folders for a Streamlined PC
-date: 2024-06-22 14:14:30
-updated: 2024-06-24 10:41:14
+date: 2024-06-25T16:21:05.950Z
+updated: 2024-06-26T16:21:05.950Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
  By default, not all users can delete every empty folder on a device; some can only be accessed, edited, and deleted by administrators.
 
- Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our[g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains[the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
+ Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our [g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains [the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
 
  Secondly, the methods we'll cover can help delete empty folders quickly, but only those are visible to us, not hidden. Therefore, if you want to delete all empty folders without leaving any hidden ones behind, you should first unhide all hidden folders. Follow these steps to do so:
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 1. Copy the path to the folder or drive you intend to scan for empty subfolders.
 2. Type**"Windows PowerShell"** into Windows Search, right-click on the**Windows PowerShell** app, then click**Run as administrator** .  
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
- Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+ Find out [how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
  You can use any software that lets you find and delete empty folders, but we recommend 4dots' Empty Folder Cleaner for its ease of use. Let's take a look at how it aids in finding and deleting empty folders on Windows:
 
-1. Visit[4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
+1. Visit [4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
 2. Install the software on your device.
 3. Let Windows install any .NET Framework it prompts you to install.
 4. Once the application has been installed, run it.
@@ -109,3 +109,27 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-nonfunctional-nvidia-cp-on-windows-11/"><u>How to Reactivate a Nonfunctional Nvidia CP on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shades-of-twilight-harnessing-ms-paints-dark-theme/"><u>Shades of Twilight: Harnessing MS Paint's Dark Theme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-smooth-asana-operations-on-pcs/"><u>Restoring Smooth Asana Operations on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-utorrent-peer-relationships-on-win/"><u>Reestablishing uTorrent Peer Relationships on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-windows-safe-mode-limitation-on-office-suite/"><u>Resolving the Windows-Safe Mode Limitation on Office Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-power-indicators-full-charges-notify-you-in-win11/"><u>Automating Power Indicators: Full Charges Notify You in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-enable-photo-viewer-window/"><u>Step-by-Step: Enable Photo Viewer Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-outlooks-error-0x80040610-in-windows-systems/"><u>Overcoming Outlook's Error 0X80040610 in Windows Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-reviving-old-youtube-videos-steps-for-online-reclamation/"><u>[Updated] Reviving Old YouTube Videos  Steps for Online Reclamation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-finest-4-sites-for-tones/"><u>[Updated] In 2024, Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-12-best-picks-of-video-enhancer-software/"><u>Updated 12 Best Picks of Video Enhancer Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/androids-budget-friendly-video-call-leaders/"><u>Android's Budget-Friendly Video Call Leaders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-monitoring-lost-instagram-connections/"><u>[Updated] In 2024, Monitoring Lost Instagram Connections</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-easy-steps-for-designing-podcast-rss-structure/"><u>In 2024, Easy Steps for Designing Podcast RSS Structure</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-hunt-for-emotional-throat-clearing-audio/"><u>In 2024, Hunt for Emotional Throat-Clearing Audio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calculating-best-podcast-debut-days-for-2024/"><u>Calculating Best Podcast Debut Days for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>[Updated] In 2024, Pathway to YouTube Partnerships  Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-optimize-your-browsing-with-ffxp/"><u>[Updated] How to Optimize Your Browsing with FFXP</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition"
-date: 2024-06-23 18:46:22
-updated: 2024-06-25 11:55:36
+date: 2024-06-25T17:01:15.202Z
+updated: 2024-06-26T17:01:15.202Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,7 @@ Duckstation's installation differs depending on the platform:
 
  We'll be using its "primary" variant, the Windows version, for this article. Everything we'll see, except for the installation method, should be (more or less) applicable to the other versions.
 
-1. Go to[Duckstation's official Github page](https://github.com/stenzek/duckstation) and download the app. Duckstation does not include an installer, so simply extract its archive to a folder of your choice.
+1. Go to [Duckstation's official Github page](https://github.com/stenzek/duckstation) and download the app. Duckstation does not include an installer, so simply extract its archive to a folder of your choice.
 2. Locate Duckstation's executable file within that folder. It should be similar to**duckstation-qt-x64-ReleaseLTCG.exe** .
 3. Right-click the file and, while holding down the right mouse button, drag and drop it to your desktop to create a shortcut. This eliminates the need to seek its executable whenever you want to play your favorite PlayStation game.
 
@@ -43,7 +43,7 @@ Duckstation's installation differs depending on the platform:
 
  Duckstation, like many other PlayStation emulators, requires the console's original BIOS for full compatibility with its titles. We won't go over how to get it in this guide, but the official and legal way is to "dump" your own PlayStation console's BIOS.
 
- However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on[how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
+ However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on [how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
 
 1. Select**BIOS** from the Duckstation**Settings** menu.  
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
@@ -129,7 +129,7 @@ Duckstation's installation differs depending on the platform:
 
  Visit one of the two**Controller Ports** beneath to configure its button mappings. Choose your joypad, and if the emulator "doesn't respond" to any button presses, "remap" its buttons to the virtual PlayStation joypad.
 
- If you haven't got a joypad, don't fret: we've already covered[how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
+ If you haven't got a joypad, don't fret: we've already covered [how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
 
 ## Getting Retro in the Modern Age With Duckstation for Windows
 
@@ -154,3 +154,27 @@ Duckstation's installation differs depending on the platform:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/workaround-to-allow-third-party-antiviruses-with-windows-defender/"><u>Workaround to Allow Third-Party Antiviruses with Windows Defender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-methods-to-address-windows-activation-failure-code-0x803f700f/"><u>Precise Methods to Address Windows Activation Failure Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-emulated-titles-in-playnite/"><u>Seamless Integration of Emulated Titles in Playnite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-chrome-induced-system-time-missteps-windows/"><u>Rectifying Chrome-Induced System Time Missteps (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shaded-world-of-microsofts-simple-scribbler/"><u>The Shaded World of Microsoft's Simple Scribbler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-smooth-file-transfers-tips-and-tricks-for-windows-users/"><u>Securing Smooth File Transfers: Tips & Tricks for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-sorry-there-is-a-problem-with-the-onedrive-servers-error-on-windows/"><u>6 Ways to Fix the “Sorry, There Is a Problem With the OneDrive Servers” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-no-cost-win-for-podcast-enthusiasts/"><u>The Ultimate No-Cost Win for Podcast Enthusiasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-comedic-continuum-top-tiktok-stars-and-their-funnies/"><u>[Updated] 2024 Approved  Comedic Continuum  Top TikTok Stars and Their Funnies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-watermark-video-cutting-top-8-free-tools/"><u>No-Watermark Video Cutting Top 8 Free Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a78-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A78 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-boosting-video-reach-on-youtube-an-in-depth-guide-to-seo-techniques-for-2024/"><u>[Updated] Boosting Video Reach on YouTube  An In-Depth Guide to SEO Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hidden-gems-to-hit-videos-strategies-for-success-for-2024/"><u>[Updated] From Hidden Gems to Hit Videos  Strategies for Success for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-maximizing-discord-fun-select-top-10-plugins/"><u>[Updated] In 2024, Maximizing Discord Fun  Select Top 10 Plugins</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-all-encompassing-evaluation-gecatas-live-recording/"><u>2024 Approved  All-Encompassing Evaluation  Gecata's Live Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-slow-motion-journey-for-aspiring-ig-video-makers/"><u>[New] In 2024, The Slow-Motion Journey for Aspiring IG Video Makers</u></a></li>
+</ul></div>

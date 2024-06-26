@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Your PC with Hyper-V on Windows 11
-date: 2024-06-21 20:46:50
-updated: 2024-06-24 11:48:27
+date: 2024-06-25T16:44:43.797Z
+updated: 2024-06-26T16:44:43.797Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,7 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-## Prerequisites to Enable Hyper-V on Windows 11
-
-![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
+## Prerequisites to Enable Hyper-V on Windows 11 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
 
@@ -64,9 +62,7 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
-
-![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+## 1\. Turn On Hyper-V in Windows 11 Via Control Panel ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -80,9 +76,7 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
-## 2\. Add Hyper-V to Windows 11 Using Command Prompt
-
-![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
+## 2\. Add Hyper-V to Windows 11 Using Command Prompt ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
@@ -96,9 +90,7 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
 
-## 3\. Enable Hyper-V Using PowerShell
-
-![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
+## 3\. Enable Hyper-V Using PowerShell ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
@@ -124,9 +116,7 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
-## How to Configure Hyper-V Settings
-
-![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
+## How to Configure Hyper-V Settings ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
 
@@ -147,3 +137,31 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
  That said, dedicated virtual machines such as the VMWare WorkStation Pro is available on multiple platforms, can be used on older systems, and is more suitable for enterprise solutions. Check out our comparison comparing the three popular hypervisors to find the one that works for you.
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/prioritize-protection-activating-tpm-and-secure-boot-before-w11-update/"><u>Prioritize Protection: Activating TPM and Secure Boot Before W11 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-initiate-sfc-process-in-windows-1087/"><u>Steps to Initiate SFC Process in Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-a-personalized-look-with-these-easy-to-follow-theme-steps-for-win11/"><u>Achieve a Personalized Look with These Easy-to-Follow Theme Steps for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-and-opening-system32-windows-11/"><u>Locating and Opening System32 (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-solutions-to-resolve-windows-update-error-0x800f080a/"><u>Essential Solutions to Resolve Windows Update Error 0X800F080A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-background-apps-in-windows-11/"><u>How to Disable Background Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-experience-our-criteria-for-best-free-drivers/"><u>Boost Your Windows Experience: Our Criteria for Best Free Drivers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-assessing-whether-magix-samplitude-truly-dominates-music-production-tools/"><u>2024 Approved Assessing Whether MAGIX Samplitude Truly Dominates Music Production Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-premium-selection-top-free-youtube-transcript-apps/"><u>In 2024, Premium Selection  Top Free YouTube Transcript Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exclusive-guide-turning-fb-videos-into-mp4-and-hd/"><u>[New] Exclusive Guide  Turning FB Videos Into MP4 & HD</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-stabilize-shaky-videos-in-after-effects-3-ways/"><u>Updated In 2024, How to Stabilize Shaky Videos in After Effects 3 Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>In 2024, Swift and FREE  Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-blueprint-to-buzzing-video-success-on-insta-for-2024/"><u>The Blueprint to Buzzing Video Success on Insta for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-stay-active-with-these-top-rated-motion-tracking-apps-for-2024/"><u>New Stay Active with These Top-Rated Motion Tracking Apps for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

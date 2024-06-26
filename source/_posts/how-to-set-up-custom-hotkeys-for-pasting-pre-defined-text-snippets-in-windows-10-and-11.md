@@ -1,7 +1,7 @@
 ---
 title: How to Set Up Custom Hotkeys for Pasting Pre-Defined Text Snippets in Windows 10 & 11
-date: 2024-06-22 18:16:24
-updated: 2024-06-24 12:41:20
+date: 2024-06-25T17:08:59.645Z
+updated: 2024-06-26T17:08:59.645Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,12 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
- QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
+ QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
 
-1. Open[this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
+1. Open [this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
-4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
 
-1. Open this[HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
+1. Open this [HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
 2. Select**Download** on the HotkeyP page.
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
@@ -105,3 +105,27 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/erase-past-windows-decor-three-methods/"><u>Erase Past Windows Decor: Three Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-remedy-for-windows-network-error-0x800704b3/"><u>Mastering Remedy for Windows' Network Error 0X800704B3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-automatic-system-updates-notice-to-windows-11-ui/"><u>Introducing Automatic System Updates Notice to Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-superiority-of-pcs-to-macs-in-9-areas/"><u>Dissecting the Superiority of PCs to Macs in 9 Areas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-access-the-fastest-way-to-snipping-tool-win-11/"><u>Instant Access: The Fastest Way to Snipping Tool Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosted-methods-for-graphic-detail-recognition-windows-11/"><u>Boosted Methods for Graphic Detail Recognition, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unyielding-windows-security-choosing-the-strongest-passwords-shields/"><u>Unyielding Windows Security: Choosing the Strongest Passwords Shields</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unlocking-screen-pin-free-windows-projection/"><u>Stop Unlocking Screen: PIN-Free Windows Projection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-virtual-memory-in-windows-11-for-maximum-performance/"><u>Fine-Tuning Virtual Memory in Windows 11 for Maximum Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-explore-free-fb-visual-creation-tools-best/"><u>[Updated] 2024 Approved  Explore Free FB Visual Creation Tools - Best</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963234597-new-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-photoshop-effi/"><u>New Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-method-to-split-the-video-into-parts-online/"><u>Updated In 2024, Best Method to Split the Video Into Parts Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-tips-for-meme-magic-with-kinemaster/"><u>Top Tips for Meme Magic with KineMaster</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximize-page-reach-on-facebook/"><u>Maximize Page Reach on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-online-audio-solutions-2023-guide/"><u>[New] 2024 Approved  Best Online Audio Solutions  2023 Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-acid-pro-alternatives-the-ultimate-review-series/"><u>In 2024, ACID Pro Alternatives  The Ultimate Review Series</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/147-quotes-to-make-your-tiktok-content-stand-out-and-go-viral/"><u>147 Quotes to Make Your TikTok Content Stand Out and Go Viral</u></a></li>
+</ul></div>

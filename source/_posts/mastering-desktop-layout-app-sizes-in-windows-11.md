@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Layout: App Sizes in Windows 11"
-date: 2024-06-24 16:11:27
-updated: 2024-06-25 11:49:29
+date: 2024-06-25T17:09:58.711Z
+updated: 2024-06-26T17:09:58.711Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  AutoSizer is a lightweight freeware app you can utilize on most Windows platforms. That software enables you to set program windows to open at specified width and height values with its**Resize** action option. Or you can select alternative**Maximize** ,**Minimize** , or**Restore** action options in that app. This is how you can set preset sizes for software windows with AutoSizer:
 
-1. Open the[AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
+1. Open the [AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
 2. Click the**Download AutoSizer** link on that page and download the file.
 3. Double-click**assetup.exe** to open it.
 4. Go through the AutoSizer setup wizard to install the software.
@@ -49,17 +49,17 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
- And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ And if you're a big fan of hotkeys, be sure to check out [how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
 
- Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
+ Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
 
  WinSize2 enables you to save preset window sizes and positions by pressing a hotkey. Admittedly, WinSize2 isn’t especially user-friendly, but it’s a handy app when you get to grips with it. You can set preset sizes for windows with WinSize2 like this:
 
-1. Bring up the[WinSize2](https://winsize2.sourceforge.net/en/) website.
+1. Bring up the [WinSize2](https://winsize2.sourceforge.net/en/) website.
 2. Click the**Download WinSize 2** link.
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
@@ -111,3 +111,26 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-hello-5-ways-to-tackle-fingerprint-problems/"><u>Unlock Windows Hello: 5 Ways to Tackle Fingerprint Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktop-configuration-mastery-embedding-this-pc-symbols/"><u>Desktop Configuration Mastery: Embedding 'This PC' Symbols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-product-activation-failed-error-on-microsoft-office-apps-for-windows/"><u>How to Fix the Product Activation Failed Error on Microsoft Office Apps for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/impact-analysis-removal-of-windows-11-taskbars-chatting-function/"><u>Impact Analysis: Removal of Windows 11 Taskbar's Chatting Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-keyboard-command-center-mastery-of-shortcuts-for-fixed-paste-tasks/"><u>Win11's Keyboard Command Center: Mastery of Shortcuts for Fixed Paste Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-upgrading-old-pcs-to-22h2/"><u>Navigating New Horizons: Upgrading Old PCs to 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-store-mishaps-cure-0x80072f30-glitches/"><u>Tackling Windows Store Mishaps: Cure 0X80072F30 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-model-names-unraveling-your-device-in-six-easy-ways/"><u>Mastering Model Names: Unraveling Your Device in Six Easy Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-farmers-hangout-top-10-friendly-agricultural-games-to-bond-with-friends/"><u>2024 Approved  Farmers' Hangout  Top 10 Friendly Agricultural Games to Bond With Friends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mend-facebook-story-playback-pauses/"><u>[New] 2024 Approved  Mend Facebook Story Playback Pauses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-picture-to-paragraph-text-on-windows-and-mac-photos/"><u>[New] From Picture to Paragraph  Text on Windows & Mac Photos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-health-advocacy-through-strategic-social-media-plays/"><u>[Updated] 2024 Approved  Health Advocacy Through Strategic Social Media Plays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-face-fluidity-techniques-implementing-motion-blur-effects/"><u>2024 Approved  Face Fluidity Techniques  Implementing Motion Blur Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-audio-input-assessment-report/"><u>2024 Approved  Audio Input Assessment Report</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comedy-central-the-best-laughter-inducing-channels-online/"><u>Comedy Central  The Best Laughter-Inducing Channels Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked-for-2024/"><u>Curating the Perfect Soundtrack  YouTube's Best Audio Sites Ranked for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-oneclickfreeze-easy-screen-recording-quit/"><u>[New] 2024 Approved  OneClickFreeze  Easy Screen Recording Quit</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-comprehensive-overview-dji-inspire-2/"><u>[Updated] In 2024, Comprehensive Overview - DJI Inspire 2</u></a></li>
+</ul></div>

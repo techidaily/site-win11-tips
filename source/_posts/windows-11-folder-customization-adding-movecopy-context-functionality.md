@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Folder Customization - Adding Move/Copy Context Functionality
-date: 2024-06-24 11:53:14
-updated: 2024-06-25 12:20:39
+date: 2024-06-25T17:06:48.064Z
+updated: 2024-06-26T17:06:48.064Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
 ## How to Add a Move to Folder Context Menu Option
 
- To add new context menu options in Windows 11/10, you must tweak the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
+ To add new context menu options in Windows 11/10, you must tweak the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
 
-1. Bring up the Registry Editor with a method included in our[how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
+1. Bring up the Registry Editor with a method included in our [how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
 2. Click inside the address bar at the top of Registry Editor, and erase the current key location there.
 3. Then enter this**ContextMenuHandlers** key location and press**Return** :  
 `HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers`
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
 
-1. Head over to[the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
+1. Head over to [the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
 2. Press WinBubble’s**Download Now** button.
 3. Click the**Softpedia Mirror (US)** option for the download location.
 4. Next, bring up a**Downloads** tab or page in whatever web browser you’re utilizing. You can do that in Chrome, Edge, Firefox, or Opera with the**Ctrl** +**J** hotkey.
@@ -118,3 +118,26 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-addressing-windows-update-errors/"><u>Step-by-Step: Addressing Windows Update Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-strategies-to-tackle-delay-in-typing-windows-11s-keyboard/"><u>8 Strategies to Tackle Delay in Typing Windows 11'S Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-your-pcs-health-report-efficiently/"><u>Navigate to Your PC’s Health Report Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-running-sfc-on-windows/"><u>Understanding and Running SFC on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-efficiency-in-windows-photos-via-shortcuts/"><u>Maximize Efficiency in Windows Photos via Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-accessibility-of-displays-in-nvidia-software/"><u>Tips for Restoring Accessibility of Displays in Nvidia Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Find X7 Ultra?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-top-trio-of-virtual-mp3-intensity-maximizers/"><u>New In 2024, The Top Trio of Virtual MP3 Intensity Maximizers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-troubleshoot-tweets-on-chrome-not-loading/"><u>2024 Approved  Troubleshoot  Tweets on Chrome Not Loading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-9gag-a-guide-for-memetic-creation-for-2024/"><u>Mastering 9GAG  A Guide for Memetic Creation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-your-makeup-mastery/"><u>2024 Approved  Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-choosing-between-obs-and-fraps-for-capture/"><u>[Updated] In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-low-cost-hardware-obs-optimization-tips/"><u>[New] Low-Cost Hardware  OBS Optimization Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y78-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y78 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-use-audio-ducking-in-adobe-premiere-pro-on-win/"><u>Updated 2024 Approved How to Use Audio Ducking in Adobe Premiere Pro on Win</u></a></li>
+</ul></div>

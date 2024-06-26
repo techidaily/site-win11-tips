@@ -1,7 +1,7 @@
 ---
 title: "Streamlining File Sharing: Using Dropbox/Google Drive From Windows Paths"
-date: 2024-06-24 20:21:48
-updated: 2024-06-25 11:54:23
+date: 2024-06-25T16:31:30.555Z
+updated: 2024-06-26T16:31:30.555Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,33 @@ subst Z: "C:\Cloud Drives\Dropbox"
  Cloud storage services are easier than ever to access, they offer free storage, and as a bonus, they can make your life miserable if you want to access anything stored there using a quirky app instead of your web browser.
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/winning-editorial-techniques-select-from-the-top-8-video-trimming-titles/"><u>Winning Editorial Techniques: Select From The Top 8 Video Trimming Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-output-with-windows-streamlined-launcher/"><u>Maximize Output with Windows' Streamlined Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-restricted-it-administrator-message-in-os/"><u>Eliminating 'Restricted IT Administrator' Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-charging-windows-printer-performance/"><u>Turbo-Charging WIndows Printer Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-cd-production-from-mp3-files-an-efficient-guide-to-using-imgburn-in-windows/"><u>Mastering Audio CD Production From MP3 Files: An Efficient Guide to Using ImgBurn in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-in-game-audio-output-solving-windows-issues-in-valorant/"><u>Realigning In-Game Audio Output: Solving Windows Issues in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-to-run-this-application-you-must-install-net-core-error/"><u>How to Fix the Windows “To Run This Application, You Must Install .NET Core” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-visual-display-top-5-ideal-windows-pc-clock-themed-screensavers/"><u>Enhance Visual Display: Top 5 Ideal Windows PC Clock-Themed Screensavers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-decoding-effective-tiktok-advertising-methods/"><u>2024 Approved  Decoding Effective TikTok Advertising Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-the-secrets-to-overwatch-video-capture/"><u>[New] In 2024, Unlocking the Secrets to Overwatch Video Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-framework-for-employing-videos-in-educational-settings/"><u>A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-s23plus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel S23+ FRP Locks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-z50s-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Z50S Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860288330-2024-approved-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>2024 Approved  Screen Savvy  Secure Your Captures - Chromebook's Top 4 Techniques!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-navigating-the-soundscape-of-premiere-pro-simple-strategies-for-audio-layer-management/"><u>2024 Approved Navigating the Soundscape of Premiere Pro Simple Strategies for Audio Layer Management</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-complete-testimonials-of-gecatas-recorder/"><u>[New] 2024 Approved  Complete Testimonials of Gecata's Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>[Updated] The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

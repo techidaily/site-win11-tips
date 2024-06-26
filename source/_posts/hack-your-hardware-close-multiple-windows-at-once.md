@@ -1,7 +1,7 @@
 ---
 title: "Hack Your Hardware: Close Multiple Windows at Once"
-date: 2024-06-22 14:40:28
-updated: 2024-06-25 11:12:55
+date: 2024-06-25T16:36:35.529Z
+updated: 2024-06-26T16:36:35.529Z
 tags:
   - windows10
   - windows11
@@ -56,9 +56,7 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 2. Check the boxes of all the apps you want to re-open.
 3. Right-click on one of the results and select **Resume Process**.
 
-## 3\. Use the Command Prompt
-
-![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+## 3\. Use the Command Prompt ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
  The Command Prompt can help you troubleshoot PC issues, configure some system settings, and run your Windows apps.
 
@@ -77,9 +75,7 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
-## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
-
-![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
@@ -99,9 +95,7 @@ taskkill /f /im SnippingTool.exe /T > nul
 
  Next, type the following command to close the Paint.net app:
 
-taskkill /f /im paintdotnet.exe /T > nul
-
-![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
+taskkill /f /im paintdotnet.exe /T > nul ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
  From there, follow these steps:
 
@@ -122,9 +116,7 @@ taskkill /f /im paintdotnet.exe /T > nul
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
 
-## 5\. Use the Close All Windows Tool
-
-![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
+## 5\. Use the Close All Windows Tool ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
 
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
@@ -159,3 +151,27 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reversing-administrative-controls-on-windows-defense-measures/"><u>Reversing Administrative Controls on Windows Defense Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-11s-rounded-edges/"><u>Eliminate Windows 11'S Rounded Edges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-language-skills-quick-translate-via-windows-key-combinations/"><u>Elevate Language Skills: Quick Translate via Windows Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrinth-a-guide-to-windows-11s-services/"><u>Navigating the Labyrinth: A Guide to Windows 11'S Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-non-successful-updates-in-windows-discord/"><u>Dealing with Non-Successful Updates in Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-windows-defender-shield-unresponsiveness/"><u>Essential Fixes for Windows Defender Shield Unresponsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-efficiency-into-daily-use-with-win11-icon-additions/"><u>Integrating Efficiency Into Daily Use with Win11 Icon Additions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-fbs-buzz-essential-strategies-revealed/"><u>[Updated] 2024 Approved  Mastering FB's Buzz  Essential Strategies Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-media-mobility-in-apples-ecosystem/"><u>[Updated] 2024 Approved  Mastering Media Mobility in Apple's Ecosystem</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-your-reel-integrating-music-on-instagram/"><u>Perfecting Your Reel  Integrating Music on Instagram</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>Updated In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>[New] Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-harness-googles-skill-for-accurate-speech-to-text-conversion/"><u>[Updated] Harness Google's Skill for Accurate Speech to Text Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-gaming-experience-mastering-steam-recordings/"><u>Elevate Your Gaming Experience - Mastering Steam Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-most-advanced-video-grabbers-for-windows-enthusiasts-for-2024/"><u>[New] The Most Advanced Video Grabbers for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-bokeh-effect/"><u>Updated How to Make a Bokeh Effect</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-adobe-audition-expertise-eliminating-unwanted-sounds-and-noise/"><u>New Adobe Audition Expertise Eliminating Unwanted Sounds and Noise</u></a></li>
+</ul></div>

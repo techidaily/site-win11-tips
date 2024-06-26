@@ -1,7 +1,7 @@
 ---
 title: 9 Key Steps to Restore Mail Alert Functionality in Windows
-date: 2024-06-23 12:47:32
-updated: 2024-06-24 11:43:12
+date: 2024-06-25T16:50:41.698Z
+updated: 2024-06-26T16:50:41.698Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ To access notification settings in the Mail app:
 
 ## 2\. Enable Mail App Notifications From Windows Settings
 
- Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned[how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
+ Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
 
  To enable Mail app notifications from Windows Settings, do the following:
 
@@ -100,7 +100,7 @@ Once removed, restart the Mail app and add your account again.
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
- If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
+ If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
 ## 7\. Disable Battery Saver Mode
 
@@ -116,7 +116,7 @@ Once removed, restart the Mail app and add your account again.
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
 
-1. Right-click on the**Start icon** or press**Win + X** to open the[Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+1. Right-click on the**Start icon** or press**Win + X** to open the [Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
 2. Select**Installed apps** from the menu.
 3. Scroll down to locate the Mail app on the list.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
@@ -152,3 +152,26 @@ Once removed, restart the Mail app and add your account again.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-windows-11-widget-techniques/"><u>Revamp Your Workspace: Windows 11 Widget Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-customize-windows-11s-search-via-settings/"><u>5 Ways to Customize Windows 11'S Search via Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-yuzu-game-performance-in-windows/"><u>Boosting Yuzu Game Performance in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-8-strategies-for-neutralizing-pink-displays/"><u>Windows Woes: 8 Strategies for Neutralizing Pink Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/verifying-microphone-function-on-windows/"><u>Verifying Microphone Function on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-for-generating-flawless-ai-images-on-windows-11-through-paint-tool-sai/"><u>The Ultimate Guide for Generating Flawless AI Images on Windows 11 Through Paint Tool SAI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-resolution-of-windows-error-1132-in-zoom/"><u>Master the Resolution of Window's Error 1132 in Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normal-display-on-microsoft-store/"><u>Restoring Normal Display on Microsoft Store</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/record-and-save-every-sound-on-pc-exclusive-x-recorder-for-2024/"><u>Record & Save Every Sound on PC - Exclusive X-Recorder for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-xs-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone XS? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-105-classic-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia 105 Classic for Free? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-v29-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on V29 Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-avs-video-editor-features-pros-and-cons/"><u>Updated 2024 Approved AVS Video Editor Features, Pros, and Cons</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-recall-facebooks-older-episodes-with-your-computer-and-phone-for-2024/"><u>[New] How to Recall Facebook's Older Episodes with Your Computer & Phone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-web-based-tools-for-clearing-up-fuzzy-images-for-2024/"><u>10 Best Web-Based Tools for Clearing Up Fuzzy Images for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-x50-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor X50 and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-online-photo-and-video-collage-makers/"><u>Updated Best Online Photo and Video Collage Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-raw-to-refined-expert-techniques-for-youtube-content-creators-for-2024/"><u>[New] From Raw to Refined  Expert Techniques for YouTube Content Creators for 2024</u></a></li>
+</ul></div>

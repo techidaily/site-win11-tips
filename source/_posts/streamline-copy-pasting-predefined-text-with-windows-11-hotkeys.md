@@ -1,7 +1,7 @@
 ---
 title: Streamline Copy-Pasting Predefined Text with Windows 11 Hotkeys
-date: 2024-06-24 18:40:31
-updated: 2024-06-25 10:54:19
+date: 2024-06-25T16:19:50.918Z
+updated: 2024-06-26T16:19:50.918Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,12 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
- QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
+ QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
 
-1. Open[this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
+1. Open [this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
-4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
 
-1. Open this[HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
+1. Open this [HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
 2. Select**Download** on the HotkeyP page.
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
@@ -105,3 +105,24 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/workarounds-to-manipulate-windows-11-sleepwake/"><u>Workarounds to Manipulate Windows 11 Sleep/Wake</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-recordings-best-no-fee-windows-editors/"><u>Master Your Recordings: Best No-Fee Windows Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latency-free-leap-essential-tips-for-clean-video-windows-streams/"><u>Latency-Free Leap: Essential Tips for Clean Video Windows Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-mfc71udll-in-windows-os/"><u>Addressing Missing Mfc71u.dll in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-bloatware-removal-in-windows-11/"><u>Streamline Your PC: Bloatware Removal in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-complex-archives-efficiently-handling-multiple-zips-in-one-go/"><u>Decoding Complex Archives: Efficiently Handling Multiple ZIPS in One Go</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trailblazing-to-windows-birthplace-points/"><u>Trailblazing to Windows' Birthplace Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-taskbar-inactivity-in-windows-os/"><u>Addressing Taskbar Inactivity in Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-15-best-video-to-gif-app-on-iphone-and-android/"><u>New 15 Best Video to GIF App on iPhone and Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-audience-excitement-with-top-ideas-for-2024/"><u>[Updated] Elevating Audience Excitement with Top Ideas for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-borders-for-2024/"><u>New Vignette Perfection The Best Mobile Apps for Adding Frames and Borders for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>[Updated] Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-add-cinematic-shake-to-images-using-ps/"><u>In 2024, Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-virtual-reality-players-arsenal/"><u>In 2024, Premier Virtual Reality Player's Arsenal</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-igtv-content-with-multilingual-support/"><u>In 2024, Crafting IGTV Content with Multilingual Support</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Lava Agni 2 5G | Dr.fone</u></a></li>
+</ul></div>

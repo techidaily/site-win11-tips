@@ -1,7 +1,7 @@
 ---
 title: Taking Web Pages to Desktop Level with Windows Guide
-date: 2024-06-21 20:40:39
-updated: 2024-06-24 10:42:59
+date: 2024-06-25T16:07:22.725Z
+updated: 2024-06-26T16:07:22.725Z
 tags:
   - windows10
   - windows11
@@ -47,15 +47,13 @@ To install a website and app using Microsoft Edge:
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
 
-### Uninstall An App in Microsoft Edge
+### Uninstall An App in Microsoft Edge ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
-![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
-
- Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
+ Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also [remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
 ## 2\. Install Websites as App Using Google Chrome
 
- Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also[run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
+ Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also [run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
 
 To add a shortcut to a website as an app in Chrome:
 
@@ -93,7 +91,7 @@ C:\Windows\System32\imageres.dll
 
 To install a website as an app using WebCatalog:
 
-1. Go to the[WebCatalog page](https://webcatalog.io/en/) and download the installer.
+1. Go to the [WebCatalog page](https://webcatalog.io/en/) and download the installer.
 2. Once installed, launch the app.  
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
@@ -113,15 +111,13 @@ To install a website as an app using WebCatalog:
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
 
-## 4\. Convert Websites to Windows Apps Using Web2Desk
-
-![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
+## 4\. Convert Websites to Windows Apps Using Web2Desk ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
 
 To create a desktop app using Web2Desk:
 
-1. Go to the[Web2Desk page](https://appmaker.xyz/web2desk) .
+1. Go to the [Web2Desk page](https://appmaker.xyz/web2desk) .
 2. Enter your website URL and app name in the respective fields.
 3. It will automatically fetch the website logo for the app icon. Click**Change** to add a custom icon from your local drive.
 4. Next, type your email address.
@@ -154,3 +150,23 @@ To create a desktop app using Web2Desk:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-rendering-cutting-down-lag-time/"><u>Enhancing Real-Time Rendering: Cutting Down Lag Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011-zoom-glitch-1132/"><u>Overcoming Windows 10/11 Zoom Glitch 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-dark-theme-in-notepad/"><u>Understanding and Using Dark Theme in Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-past-windows-decor-three-methods/"><u>Erase Past Windows Decor: Three Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-html-from-windows-11s-mail-for-improved-clarity/"><u>Purging HTML From Windows 11’S Mail for Improved Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streaming-showdown-obs-or-twitch-studio/"><u>[Updated] Streaming Showdown  OBS or Twitch Studio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-potential-snapchat-insights-for-companies-for-2024/"><u>[Updated] Unlocking Potential  Snapchat Insights for Companies for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/instagram-engagement-obs-streamed-content-for-2024/"><u>Instagram Engagement  OBS Streamed Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[Updated] In 2024, Amplifying Your Content  Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-add-fun-and-personalized-ar-emoji-stickers-to-your-videos-discover-tips-and-tricks-for-using-these-stickers-like-a-pro-and-making-your-vide/"><u>New Learn How to Add Fun and Personalized AR Emoji Stickers to Your Videos. Discover Tips and Tricks for Using These Stickers Like a Pro and Making Your Videos Stand Out</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-beginners-guide-to-instagram-story-feature/"><u>[Updated] In 2024, A Beginner's Guide to Instagram Story Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrated-sound-and-vision-workspace/"><u>[New] Integrated Sound & Vision Workspace</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-expert-approved-1080p-video-editing-solutions/"><u>Elevate Your Storytelling Expert-Approved 1080P Video Editing Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snap-perfection-on-the-go-best-devices-for-clear-stable-videos/"><u>[Updated] Snap Perfection on the Go  Best Devices for Clear, Stable Videos</u></a></li>
+</ul></div>

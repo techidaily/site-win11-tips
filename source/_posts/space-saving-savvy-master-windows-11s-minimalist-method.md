@@ -1,7 +1,7 @@
 ---
 title: "Space-Saving Savvy: Master Windows 11'S Minimalist Method"
-date: 2024-06-21 11:50:15
-updated: 2024-06-24 10:14:44
+date: 2024-06-25T16:36:55.796Z
+updated: 2024-06-26T16:36:55.796Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
  With that, you should have less space between your files in File Explorer.
 
-## 3\. Enable Compact View in File Explorer Using the Registry Editor
-
-![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+## 3\. Enable Compact View in File Explorer Using the Registry Editor ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -87,3 +85,26 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-depths-of-wacatacbml-signature-and-defense-for-windows-users/"><u>Exploring the Depths of Wacatac.B!ml: Signature & Defense for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-msvcr110dll-gap/"><u>Uncovering & Fixing the Msvcr110.dll Gap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-cannot-access-source-file-in-win1110/"><u>Dealing with Cannot Access Source File in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/routine-to-reach-wordpad-functionality-in-windows/"><u>Routine to Reach WordPad Functionality in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-microsofts-phone-link-features/"><u>The Essential Guide to Microsoft's 'Phone Link' Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-cant-you-see-a-drive-letter-on-your-windows-machine/"><u>Why Can't You See a Drive Letter on Your Windows Machine?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-onedrive-crashes-effortlessly/"><u>Navigate Through Windows OneDrive Crashes Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tag-your-way-to-the-top-youtubes-viral-power-players-for-2024/"><u>Tag Your Way to the Top  YouTube's Viral Power Players for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[New] Fast-Forward Freedom in Snapchat  A Noob’s Handbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easy-steps-to-capture-iphone-screens-seamlessly/"><u>In 2024, Easy Steps to Capture iPhone Screens Seamlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>Unlock Your Creative Flow  Sharing Hundreds of Photos and Vids on IG</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar-for-2024/"><u>[Updated] Filmora  Simplified Guide to an Engaging YouTube Anime Subscriber Bar for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-reaping-the-digital-rewards-top-10-plugin-essentials-for-streamlined-editing-workflows/"><u>New In 2024, Reaping the Digital Rewards Top 10 Plugin Essentials for Streamlined Editing Workflows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlock-the-secrets-top-tools-to-track-and-boost-tiktok-traffic/"><u>[Updated] 2024 Approved  Unlock the Secrets  Top Tools to Track & Boost TikTok Traffic</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/resize-videos-with-ease-10-top-tools/"><u>Resize Videos with Ease 10 Top Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oneplus-nord-ce-3-lite-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any OnePlus Nord CE 3 Lite 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterful-color-transformations-with-free-and-paid-luts-for-cameras-for-2024/"><u>[Updated] Masterful Color Transformations with Free & Paid LUTs for Cameras for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Overcoming 'Call Failed' Error on Win10/11
-date: 2024-06-22 15:19:51
-updated: 2024-06-25 11:58:10
+date: 2024-06-25T16:42:47.959Z
+updated: 2024-06-26T16:42:47.959Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,13 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
 
-## 1\. Restart Windows File Explorer
-
-![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
+## 1\. Restart Windows File Explorer ![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
 
  Restarting the explorer.exe process can fix the “System call failed” error. It's a really easy and quick fix, so it's a good starting point for troubleshooting the “system call failed” error.
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 
-## 2\. Run the SFC and DISM Tools in Command Prompt
-
-![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
+## 2\. Run the SFC and DISM Tools in Command Prompt ![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
 
  Corrupted system files could be causing File Explorer to crash. As such, it's worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.
 
@@ -93,3 +89,30 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
  So, it’s very likely one will solve that issue, so you can fully utilize File Explorer again. If none of those resolutions are enough, consider contacting the Microsoft Windows support service for further guidance.
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/guide-fixing-excel-notation-on-notepad/"><u>Guide: Fixing Excel Notation on Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-the-haste-of-edges-tabs-in-w11/"><u>Halt the Haste of Edge's Tabs in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x80070522-resolving-client-permissions-issue-on-windows-systems/"><u>Overcoming 0X80070522: Resolving Client Permissions Issue on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/productive-power-up-with-top-6-windows-apps-for-organizers/"><u>Productive Power-Up with Top 6 Windows Apps for Organizers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-graphic-memory-in-windows-11-systems/"><u>Upgrading Graphic Memory in Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>New 2024 Approved Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro-for-2024/"><u>The Gradual Glide Out Technique for Audio in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-lenovo-screen-capture-tips/"><u>2024 Approved  Quick Lenovo Screen Capture Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-motion-detection-made-easy-best-apps-for-mobile-devices/"><u>New In 2024, Motion Detection Made Easy Best Apps for Mobile Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>How to Bypass FRP from OnePlus Nord CE 3 Lite 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-10c-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark 10C Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-writers-guide-embedding-images-in-articles-without-spending/"><u>[New] Writers' Guide  Embedding Images in Articles Without Spending</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-strategies-for-flawless-custom-shorts-coverage/"><u>[New] In 2024, Cutting-Edge Strategies for Flawless Custom Shorts Coverage</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

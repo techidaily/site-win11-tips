@@ -1,7 +1,7 @@
 ---
 title: Get to Know Your Characters on Windows 11
-date: 2024-06-24 22:28:57
-updated: 2024-06-25 12:23:52
+date: 2024-06-25T16:40:03.636Z
+updated: 2024-06-26T16:40:03.636Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
 
-1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
+1. Open Windows Run Dialog Box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
 
-1. Right-click on the Taskbar and select**Task Manager** from the option list. For more information, see our detailed tutorial on[opening the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Right-click on the Taskbar and select**Task Manager** from the option list. For more information, see our detailed tutorial on [opening the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. In the Task Manager window, click on the "Run new task" option at the top of the page.  
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  Getting things on a Windows PC is easy with the address bar in File Explorer. All you need to do is open Windows Explorer, search for the program you are looking for, and it will do the rest. Check out the following steps for opening the Character Map:
 
-1. Press**Win + E** to open File Explorer. For other methods, see our guide to[opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to open File Explorer. For other methods, see our guide to [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  If you prefer a command-line interface, you can open the Character Map tool with PowerShell or Command Prompt. To do this, follow these steps:
 
-1. Run Command Prompt as an administrator (see[how to open the Command Prompt](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Run Command Prompt as an administrator (see [how to open the Command Prompt](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. Type "charmap" in the Command Prompt or PowerShell window.  
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
@@ -137,3 +137,23 @@ This way you can now easily access the tool from the taskbar.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-taming-vanguards-cpu-power-draw-in-windows/"><u>Unlock Peak Performance: Taming Vanguard’s CPU Power Draw in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-sharing-capabilities-in-geforce/"><u>Enhancing File-Sharing Capabilities in GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-ping-windows-application-essentials/"><u>Unveiling the Power of Ping: Windows Application Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iosandroid-sync-with-windows-server-files/"><u>IOS/Android: Sync with Windows Server Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/"><u>Running State-of-the-Art AI: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-dual-camera-access-in-windows-apps/"><u>Preventing Dual Camera Access in Windows Apps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-beyond-audience-counting-the-intricacies-of-youtubes-metrics/"><u>2024 Approved  Beyond Audience Counting  The Intricacies of YouTube’s Metrics</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-ranking-the-top-10-online-gaming-intro-designers/"><u>2024 Approved Ranking the Top 10 Online Gaming Intro Designers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieve-peak-performance-with-these-8-scheduler-apps-for-2024/"><u>[Updated] Achieve Peak Performance with These 8 Scheduler Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-mastery-windows-11-media-import-simplified-for-2024/"><u>Step-by-Step Mastery  Windows 11 Media Import Simplified for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>2024 Approved  Financial Insights for Vids  How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-addressing-issue-non-appearing-facebook-video-previews/"><u>[Updated] Addressing Issue  Non-Appearing Facebook Video Previews</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/explore-the-best-15-youtube-sources-for-sci-education-for-2024/"><u>Explore the Best 15 YouTube Sources for Sci-Education for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-7-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 7</u></a></li>
+</ul></div>

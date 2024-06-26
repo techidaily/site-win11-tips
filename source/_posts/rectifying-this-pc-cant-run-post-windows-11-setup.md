@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'This PC Can't Run' Post-Windows 11 Setup
-date: 2024-06-24 12:21:12
-updated: 2024-06-25 12:18:32
+date: 2024-06-25T16:18:51.920Z
+updated: 2024-06-26T16:18:51.920Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ Additionally, you may also see the following error:
 
 ## What Are the System Requirements to Install Windows 11?
 
- Interestingly, the official[Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
+ Interestingly, the official [Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
 
  The following are the system requirements to install and run Windows 11:
 
@@ -45,7 +45,7 @@ Additionally, you may also see the following error:
 * System firmware that supports UEFI, Secure Boot capable
 * Trusted Platform Module (TPM) 1.2/2.0.
 
- Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the[PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
+ Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the [PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
@@ -55,7 +55,7 @@ Additionally, you may also see the following error:
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
- In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+ In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can [learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -71,14 +71,12 @@ Additionally, you may also see the following error:
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
-## 1\. Enable Secure Boot in Windows 10
-
-![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
+## 1\. Enable Secure Boot in Windows 10 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 1. Close all the open Windows and save your work. Then shut down your PC.
-2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on[how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
+2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on [how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
 3. In the BIOS setup utility, use the arrow keys to open the**Boot** tab. Highlight**Boot Mode** and check if it is set to**Legacy** .
 4. To change the Boot Mode, press Enter while the**Boot Mode** is highlighted.
 5. Choose**UEFI** from the options. Use the Up and Down arrow keys to select UEFI, and hit Enter to select the option.
@@ -107,7 +105,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Note that your system must support at least TPM 1.2 for this workaround to work.
 
- Note that editing your Windows Registry involves risk. Make sure to[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
+ Note that editing your Windows Registry involves risk. Make sure to [create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor.**
@@ -121,7 +119,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 7. In the Value data field, type**1** and click**OK** to save the changes.
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
- If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
+ If the issue persists, read our guide to [bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
 
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
 
@@ -152,3 +150,24 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlock-advanced-capabilities-with-windows-powershell-policy-settings/"><u>Unlock Advanced Capabilities with Windows PowerShell Policy Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-d3dx939-dll-in-win11/"><u>Addressing Missing D3DX9_39 DLL in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-the-forgotten-windows-start-menu/"><u>How to Reactivate the Forgotten Windows Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/folders-and-files-in-the-spotlight-6-access-techniques/"><u>Folders and Files in the Spotlight: 6 Access Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightening-up-your-browser-load-top-7-windows-apps-less-ram-intensive/"><u>Lightening Up Your Browser Load: Top 7 Windows Apps Less RAM-Intensive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-valorant-on-pc-overcoming-frames-drops/"><u>Winning Valorant on PC: Overcoming Frames Drops</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-reaction-video/"><u>[Updated] 2024 Approved  How to Make a YouTube Reaction Video?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-examining-the-best-of-screen-capturing-tools-in-action/"><u>[New] Examining the Best of Screen Capturing Tools in Action</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlisting-youtube-videos-a-guide-to-non-indexable-content-for-2024/"><u>Unlisting YouTube Videos  A Guide to Non-Indexable Content for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-ps2-emulators-for-ios-devices/"><u>[New] 2024 Approved  Essential PS2 Emulators for IOS Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>New 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-the-pack-10-crucial-apps-for-insta-video-marketers/"><u>[New] 2024 Approved  Leading the Pack  10 Crucial Apps for Insta Video Marketers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-quieting-background-sounds-with-imovie-on-a-mac-for-2024/"><u>New The Ultimate Guide to Quieting Background Sounds with iMovie on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-your-views-optimal-hashtags-for-video-success/"><u>[New] 2024 Approved  Boost Your Views  Optimal Hashtags for Video Success</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc/"><u>New In 2024, AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC</u></a></li>
+</ul></div>

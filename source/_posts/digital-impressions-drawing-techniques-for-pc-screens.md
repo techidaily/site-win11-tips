@@ -1,7 +1,7 @@
 ---
 title: "Digital Impressions: Drawing Techniques for PC Screens"
-date: 2024-06-23 22:56:54
-updated: 2024-06-24 11:30:12
+date: 2024-06-25T17:06:57.263Z
+updated: 2024-06-26T17:06:57.263Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
 
-1. Open the[Epic Pen](https://epicpen.com/) website.
+1. Open the [Epic Pen](https://epicpen.com/) website.
 2. Click the**Download For Free** button to scroll down the homepage.
 3. Select the**Download Epic Pen** option for the free version.
 4. Find and double-click the**Epic Pen Setup v3.11.44.exe** file in whatever folder your browser usually downloads to.
@@ -51,7 +51,7 @@ Now you can get scribbling on the Windows desktop.
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
- Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
+ Epic Pen’s camera option enables you to save your drawings and annotations by [taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
 
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
@@ -65,9 +65,9 @@ Now you can get scribbling on the Windows desktop.
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
 
-1. Open the[gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
+1. Open the [gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
-3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
+3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
@@ -109,3 +109,23 @@ Now you can get scribbling on the Windows desktop.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reimagine-archived-footage-boost-video-quality-using-madvr-on-windows/"><u>Reimagine Archived Footage: Boost Video Quality Using MadVR on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shift-whats-updated-in-windows-11/"><u>Navigating the Shift: What's Updated in Windows 11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-terminal-for-quake-environment/"><u>Accessing Windows Terminal for Quake Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-dissolving-ms-teams-error-80080300-on-win11-platform/"><u>Deciphering and Dissolving MS Teams Error 80080300 on Win11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-racing-game-anthology-the-top-five/"><u>Ultimate Racing Game Anthology  The Top Five</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-overcoming-youtubes-content-id-blockades-with-tactics/"><u>[Updated] Overcoming YouTube's Content ID Blockades with Tactics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-connectivity-with-metaverse-strategies/"><u>Crafting Connectivity with Metaverse Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-make-a-mark-with-your-first-cool-mac-video-post-on-youtube/"><u>[Updated] 2024 Approved  Make a Mark with Your First Cool Mac Video Post on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-priorities-when-choosing-a-video-to-audio-conversion-software-for-2024/"><u>Updated Top Priorities When Choosing a Video to Audio Conversion Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-lava-blaze-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Lava Blaze Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-the-experience-top-9-streams/"><u>Unleash the Experience  Top 9 Streams</u></a></li>
+</ul></div>

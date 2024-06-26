@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Command Prompt: Integrating Folders Into Context Menu"
-date: 2024-06-24 18:42:29
-updated: 2024-06-25 12:25:30
+date: 2024-06-25T16:16:32.945Z
+updated: 2024-06-26T16:16:32.945Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
 
-1. First, open the[MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
+1. First, open the [MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
 2. Click the**Download Completely Free** button.
 3. Next, click File Explorer’s shortcut on Windows 11’s taskbar; and navigate to the directory where the**MyFolders\_Installer.exe** setup file was downloaded.
 4. Double-click**MyFolders\_Installer.exe** to view the MyFolders setup window.
@@ -58,14 +58,14 @@ Once your PC has restarted:
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
- Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
+ Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the [best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
 
  You can extract Right Click Context Menu Adder’s archive with 7-Zip like this:
 
-1. Open the[7-Zip File Manager](https://www.7-zip.org/) download page.
+1. Open the [7-Zip File Manager](https://www.7-zip.org/) download page.
 2. Select the**Download** option for 7-Zip’s 64-bit Windows version, and then double-click the**7z2201-x64.exe** setup file within the folder that includes it.
 3. Click**Install** within the 7-Zip setup window.
-4. Open the[Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
+4. Open the [Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
 5. Click**Download** to view the two location options.
 6. Select the**External Mirror** or**Softpedia Secure Download (US)** option. The US option is better for users in North America.
 7. Then launch the 7-Zip software.
@@ -78,7 +78,7 @@ Once your PC has restarted:
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
 
-1. Use one of the many[ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Use one of the many [ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Open the extracted Right Click Context Menu Adder folder.
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
@@ -124,3 +124,24 @@ Once your PC has restarted:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/choosing-amongst-windows-n-versions-key-considerations/"><u>Choosing Amongst Windows N Versions: Key Considerations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-erroneous-onedrive-tags-in-windows-file-system/"><u>Correcting Erroneous OneDrive Tags in Windows File System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-battlenet-game-transfers-on-win-pc/"><u>Speeding Up Battle.net Game Transfers on Win-PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-device-coexistence-utilize-dex-for-galaxy-on-pc/"><u>Mastery in Device Coexistence: Utilize DeX for Galaxy on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719220019899-unravel-windows-mysteries-get-the-support-you-need/"><u>Unravel Windows Mysteries: Get the Support You Need</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-tips-for-a-win11-masterpiece/"><u>Transform Your Desktop: Tips for a Win11 Masterpiece</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-realme-11-proplus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme 11 Pro+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cataloging-tiktok-scenes-as-backgrounds/"><u>Cataloging TikTok Scenes as Backgrounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hack-your-channels-identity-with-these-11-budget-tools/"><u>[Updated] Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-youtube-downloads-for-ios-devices-for-2024/"><u>Step-by-Step Guide  YouTube Downloads for iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-download-youtube-gallery-files-instantly-for-2024/"><u>[Updated] Download YouTube Gallery Files Instantly for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-programs-17-superior-aids-to-remove-outlines/"><u>In 2024, Leading Programs  17 Superior Aids to Remove Outlines</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-scrutinizing-vsdc-screen-recording-capabilities/"><u>[Updated] Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy M34 FRP</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-free-online-video-editor-jaycut-tutorial-and-review/"><u>Updated Discover the Best Free Online Video Editor Jaycut Tutorial and Review</u></a></li>
+</ul></div>

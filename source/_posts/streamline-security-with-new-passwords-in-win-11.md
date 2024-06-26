@@ -1,7 +1,7 @@
 ---
 title: Streamline Security with New Passwords in Win 11
-date: 2024-06-25 20:22:59
-updated: 2024-06-26 11:48:17
+date: 2024-06-25T16:52:16.882Z
+updated: 2024-06-26T16:52:16.882Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ## What If You Have Forgotten Your Windows Administrator Password?
 
- Most Windows computers have more than one sign-in option. So, if your[Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
+ Most Windows computers have more than one sign-in option. So, if your [Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
 
- To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to[reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
+ To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to [reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
 
 ## 1\. Change the Account Password Using Ctrl + Alt + Delete
 
@@ -63,7 +63,7 @@ To change the account password:
 
  If you don’t know your current password but can log in using an alternate option, you can reset the password using the User Accounts utility. It allows you to add or remove a user account and reset the password without needing the current password.
 
- Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can[enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
+ Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
 
 To reset the user account password:
 
@@ -78,9 +78,7 @@ To reset the user account password:
 7. Click**OK** to save the changes.
 8. Close the**User Account** dialog, and you can now log in with your new password.
 
-## 4\. Reset Account Password Using Command Prompt
-
-![reset user account password command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-user-account-password-command-prompt.jpg)
+## 4\. Reset Account Password Using Command Prompt ![reset user account password command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-user-account-password-command-prompt.jpg)
 
  An easy way to change your account password is via Command Prompt. Again, useful if you want to change your password without knowing the old password.
 
@@ -122,7 +120,7 @@ To change the Windows account password using Control Panel:
 
 ## 6\. Change Account Password Using Local Users and Groups
 
- Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to[set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
+ Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to [set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
 
  Additionally, it also allows you to reset your user account password. Follow these steps to change the user account password using lusrmgr.
 
@@ -140,7 +138,7 @@ To change the Windows account password using Control Panel:
 
  If you sign in with a Microsoft account, you can reset the password for the Microsoft account online. Here’s how to do it.
 
-1. Go to the[Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
+1. Go to the [Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-online-password-security.jpg)
 2. Next, click on the**Password** security block.  
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
@@ -170,3 +168,24 @@ To change the Windows account password using Control Panel:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-writing-game-wins-finest-tools/"><u>Elevate Your Writing Game – Win's Finest Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ahead-mastering-upcoming-tools-through-vivetool/"><u>Windows Ahead: Mastering Upcoming Tools Through ViVeTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-windows-11-22h2-issues-and-their-fixes/"><u>Common Windows 11 22H2 Issues and Their Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-net-runtime-requirement-hurdle/"><u>Avoiding Windows' .NET Runtime Requirement Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-archived-footage-boost-video-quality-using-madvr-on-windows/"><u>Reimagine Archived Footage: Boost Video Quality Using MadVR on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-movecopy-tasks-to-windows-explorers-context-menu/"><u>Adding Move/Copy Tasks to Windows Explorer's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-spectrum-mastering-windows-network-adapter-assessment-methods/"><u>Speed Spectrum: Mastering Windows' Network Adapter Assessment Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-archive-storing-your-iphone-images-and-videos/"><u>Instagram Archive  Storing Your iPhone Images and Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-90withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 90with/without a PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-free-speech-to-text-apps-on-mac-you-might-missed/"><u>[Updated] The Best Free Speech to Text Apps on Mac You Might Missed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>[New] Android’s Favorite  Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>2024 Approved  From Base to Pro  GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-growing-presence-in-video-platforms-via-short-films-for-2024/"><u>[Updated] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-androids-ultimate-questland-unveiling-the-best-15-simulations/"><u>[Updated] Android's Ultimate Questland  Unveiling the Best 15 Simulations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-gif-animators-for-endless-loops-for-2024/"><u>Top Free GIF Animators for Endless Loops for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-proven-methods-for-sensational-instagram-puzzle-creation-for-2024/"><u>[Updated] Proven Methods for Sensational Instagram Puzzle Creation for 2024</u></a></li>
+</ul></div>

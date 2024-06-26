@@ -1,7 +1,7 @@
 ---
 title: How to Handle iPhone Photo Import Errors on Computers
-date: 2024-06-23 20:29:26
-updated: 2024-06-25 12:26:16
+date: 2024-06-25T16:10:29.615Z
+updated: 2024-06-26T16:10:29.615Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
 
-1. Open Services on Windows. See[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
+1. Open Services on Windows. See [how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 3. Press**Photos** to access settings for transferring images.
 4. Select the**Keep Originals** option.
 
- If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
+ If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our [how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
 ## 6\. Repair and/or Reset the Photos App
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
- You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
+ You can access both those Photos troubleshooting options as outlined in our [guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
 ## 7\. Close the OneDrive App
 
@@ -127,3 +127,24 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/swift-strikes-winning-warfare-without-lag-in-star-wars-bf2/"><u>Swift Strikes: Winning Warfare Without Lag in Star Wars BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-silent-auditory-alerts/"><u>Fixing Windows' Silent Auditory Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-endure-and-correct-win11s-fatal-bug/"><u>How to Endure and Correct Win11's Fatal Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-access-regulation-for-everyday-windows-pcs/"><u>Mastering User Access Regulation for Everyday Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-critical-alerts-when-to-reset-windows/"><u>Nine Critical Alerts: When to Reset Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-trio-top-apps-making-pc-switch-easier/"><u>Transition Trio: Top Apps Making PC Switch Easier</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>[New] 2024 Approved  Thrive on InstaVid  A Guide to Creating a Solid Video Marketing Framework</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-inventory-of-videography-items-for-exploration/"><u>[Updated] 2024 Approved  Inventory of Videography Items for Exploration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved  Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-persuasive-prompt-producer-kit/"><u>[New] Persuasive Prompt Producer Kit</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-the-top-10-best-video-editor-apps-for-your-android-devices-and-enjoy-editing-home-movies/"><u>In 2024, Get the Top 10 Best Video Editor Apps for Your Android Devices and Enjoy Editing Home Movies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-premium-youtube-news-networks/"><u>In 2024, The Ultimate List of Premium YouTube News Networks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>[New] In 2024, Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guides-to-unearthing-elite-cinematography/"><u>[Updated] Guides to Unearthing Elite Cinematography</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tight-knit-teams-top-chat-platforms-which-rules-the-game-slack-or-discord/"><u>[Updated] 2024 Approved  Tight-Knit Teams, Top Chat Platforms  Which Rules the Game - Slack or Discord?</u></a></li>
+</ul></div>

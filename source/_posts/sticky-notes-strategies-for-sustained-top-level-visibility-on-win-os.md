@@ -1,7 +1,7 @@
 ---
 title: Sticky Notes Strategies for Sustained Top-Level Visibility on Win OS
-date: 2024-06-23 12:38:12
-updated: 2024-06-25 11:38:20
+date: 2024-06-25T16:49:28.988Z
+updated: 2024-06-26T16:49:28.988Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Here’s how you can use the Always On Top feature in Microsoft PowerToys to pin the Sticky Notes app on Windows.
 
-1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
+1. Open the [Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
- Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+ Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 To pin Sticky Notes using DeskPins:
 
-1. Go to the[DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
+1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
@@ -85,3 +85,24 @@ To pin Sticky Notes using DeskPins:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-alter-file-extensions-on-windows/"><u>Step by Step: How to Alter File Extensions on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-amd-gpu-software-on-pcs/"><u>Restoring Functionality to AMD GPU Software on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-paths-of-window-menus-on-pc/"><u>Navigating the Hidden Paths of Window Menus on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-stronger-side-why-you-should-opt-for-win11/"><u>Unveiling the Stronger Side: Why You Should Opt for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-works-into-windows-os-step-by-step-guide/"><u>Integrating Works Into Windows OS: Step by Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-drone-enthusiasts-compendium-of-must-haves/"><u>[New] The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-gotomeeting-precision-capture-across-all-platforms/"><u>[New] In 2024, GoToMeeting  Precision Capture Across All Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/simplified-guide-uploading-urls-to-instagram-media/"><u>Simplified Guide  Uploading URLs to Instagram Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-mass-extraction-of-tiktok-content/"><u>2024 Approved  Guide to Mass Extraction of TikTok Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-making-your-igtv-more-inclusive-with-subtitles/"><u>[New] Making Your IGTV More Inclusive with Subtitles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-your-content-creation-iphoneipad-screen-recordings-on-youtube-for-2024/"><u>Streamline Your Content Creation  IPhone/iPad Screen Recordings on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-have-a-loved-ones-birthday-fast-approaching-and-youre-wondering-what-to-do-a-birthday-photo-slideshow-is-one-good-way-to-celebrate-the-person-and/"><u>New Do You Have a Loved Ones Birthday Fast Approaching, and Youre Wondering What to Do? A Birthday Photo Slideshow Is One Good Way to Celebrate the Person and Make Them Feel that They Are Loved</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-moment-in-vr-infinity-for-2024/"><u>Ultimate Moment in VR Infinity for 2024</u></a></li>
+</ul></div>

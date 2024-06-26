@@ -1,7 +1,7 @@
 ---
 title: How to Change Desktop Icon Spacing in Windows 11 and 10
-date: 2024-06-22 17:58:47
-updated: 2024-06-25 11:27:46
+date: 2024-06-25T16:27:29.812Z
+updated: 2024-06-26T16:27:29.812Z
 tags:
   - windows10
   - windows11
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
  You can tweak these hidden options and create the desktop icon spacing you want as follows:
 
 1. Click the**Start** button on the taskbar with the right mouse button to select the**Run** shortcut.
-2. To[open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) , enter**regedit** in the Run and select**OK** .
+2. To [open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) , enter**regedit** in the Run and select**OK** .
 3. Go to the **Computer\\HKEY\_CURRENT\_USER\\Control Panel\\Desktop\\WindowMetrics** registry key. You can copy and paste that registry location in the address bar or click the keys for it on the left sidebar.
 4. Select the**WindowMetrics** key.  
 ![The WindowMetrics key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windowsmetrics-key.jpg)
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 5. Clear the current value, and then input another number with a minus sign in front of it. If you want the vertical spacing to be the same as the horizontal, enter a number there that matches the IconSpacing value.
 6. Click the Edit String window’s**OK** button.
 7. Exit the Registry Editor.
-8. You’ll need to restart Windows to apply this[registry tweak](https://www.makeuseof.com/tag/5-windows-10-registry-tweaks-improve-unlock-features/) .
+8. You’ll need to restart Windows to apply this [registry tweak](https://www.makeuseof.com/tag/5-windows-10-registry-tweaks-improve-unlock-features/) .
 
  After the restart, the icon spacing on your desktop will have changed according to the new**IconString** and**IconVerticalSpacing** values you entered. You’ll notice the difference if you entered notably higher or lower values. Don’t get too carried away by entering values that are far too low or high. The shortcuts’ labels will overlap with too little spacing and some icons might disappear from the desktop if you expand the space between them too much.
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
  Some third-party customization software packages for Windows 11/10 include options for changing desktop icon spacing. Among them is the freeware Winaero Tweaker, which has two slider bars with which you can increase or decrease horizontal and vertical icon spacing. As that software also specifies space values in pixels, some users might prefer to change icon spacing with it. This is how to change the spacing for desktop icons with Winaero Tweaker.
 
-1. Open a browser and visit the[Winaero Tweaker](https://winaero.com/winaero-tweaker/#download) download page.
+1. Open a browser and visit the [Winaero Tweaker](https://winaero.com/winaero-tweaker/#download) download page.
 2. Scroll down the page to select a**Download Winaero Tweaker** option.
 3. Next, launch File Explorer to open the folder that includes Winaero’s ZIP archive.
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
@@ -93,11 +93,11 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
  DesktopOK is another third-party app with which you can adjust the vertical and horizontal spacing between desktop icons. That software also enables you to save desktop icon layouts and packs in other useful tools and features. You can change desktop icon spacing with DesktopOK like this:
 
-1. Open[this DesktopOK](https://www.softwareok.com/?Download=DesktopOK&goto=../Download/DesktopOK%5Fx64.zip) download page.
+1. Open [this DesktopOK](https://www.softwareok.com/?Download=DesktopOK&goto=../Download/DesktopOK%5Fx64.zip) download page.
 2. Click the**DesktopOK\_x64.zip** (for the portable app version) to save the archive.
 3. Simultaneously press the**Windows** logo +**E** keys on your keyboard to activate File Explorer.
 4. Go to the folder containing the DesktopOK ZIP archive.
-5. Follow the instructions in this[how-to unzip archives in Windows guide](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP file.
+5. Follow the instructions in this [how-to unzip archives in Windows guide](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP file.
 
 1. Then double-click the**DesktopOK\_x64.exe** file.
 2. Click**Tools** on the DesktopOK window.  
@@ -128,3 +128,26 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-for-clearing-false-device-error-on-pcs/"><u>Expert Guide for Clearing False Device Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-up-sync-automatic-windows-entry-with-sticky-notes/"><u>Start-Up Sync: Automatic Windows Entry with Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-aligning-sticky-notes-in-w11/"><u>Mastering the Art of Aligning Sticky Notes in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-usb-drive-problems-for-efficient-data-handling/"><u>Solving USB Drive Problems for Efficient Data Handling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-browsing-efficiency-on-windows/"><u>Streamlining Browsing Efficiency on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-profile-correction-for-w11-oses/"><u>Mastering User Profile Correction for W11 OSes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>[Updated] Boost Creativity  Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astering-the-art-of-joining-youtube-clips-for-2024/"><u>[New] Mastering the Art of Joining YouTube Clips for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-royalty-free-images-for-your-business/"><u>Updated In 2024, Unlock Royalty-Free Images for Your Business</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-android-tips-flipping-video-images/"><u>2024 Approved  Android Tips  Flipping Video Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-video-illumination-top-strategies-for-immaculate-cinematography/"><u>2024 Approved  Pro Video Illumination  Top Strategies for Immaculate Cinematography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-innovative-text-additions-5-advanced-caption-methods-for-tiktok/"><u>[Updated] In 2024, Innovative Text Additions  5 Advanced Caption Methods for TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>In 2024, How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-ultimate-guided-audio-level-adjustment-software/"><u>New 2024 Approved Ultimate Guided Audio Level Adjustment Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-voice-capture-essentials-a-complete-review-and-selection-process-for-free-software/"><u>Updated 2024 Approved Voice Capture Essentials - A Complete Review and Selection Process for Free Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] Entering the World of Content Creation  Sign Up Tutorial</u></a></li>
+</ul></div>

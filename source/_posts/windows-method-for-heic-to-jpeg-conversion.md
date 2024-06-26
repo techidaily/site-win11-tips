@@ -1,7 +1,7 @@
 ---
 title: Windows Method for Heic to Jpeg Conversion
-date: 2024-06-25 11:48:53
-updated: 2024-06-26 12:10:11
+date: 2024-06-25T16:53:23.388Z
+updated: 2024-06-26T16:53:23.388Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  Aside from that, installing this software also enables you to preview HEIC images in Explorer without converting them. You can convert multiple HEIC images to JPEG with CopyTrans as follows:
 
-1. Open this[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
+1. Open this [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
 2. Click CopyTrans HEIC’s**Download** button and downloaded the executable.
 3. Double-click the**CopyTransHEICforWindowsv2.000.exe** file.
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
 2. Bring up a folder that contains some HEIC images you want to convert.
-3. Hold the**Ctrl** key to[select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
+3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
 
-1. Open the[FoneTool](https://www.fonetool.com/download.html) download page.
+1. Open the [FoneTool](https://www.fonetool.com/download.html) download page.
 2. Click**Free Download for PC** to get the setup wizard for the freeware version.
 3. Then double-click**FoneTool\_free\_installer.Z1qPz.exe** to open FoneTool’s setup wizard.
 4. If you prefer to configure the installation in any way, click Customization in the setup window. Then you can click the**Select Path** button to change the directory.
@@ -87,9 +87,9 @@ Now it's time to convert images with FoneTool:
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
- There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
+ There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
-1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
+1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
@@ -124,3 +124,22 @@ Now it's time to convert images with FoneTool:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-outlook-errors-on-windows/"><u>Expert Tips: Resolving Outlook Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-arp-cache-how-to-empty-it/"><u>Decoding Windows ARP Cache: How to Empty It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0xc00d36b4-from-win11-devices/"><u>Eliminating Error 0XC00D36B4 From Win11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-hello-recognition-work-again/"><u>Making Windows Hello Recognition Work Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-unidentified-razer-peripherals-on-win-11/"><u>Troubleshooting Synapse: Unidentified Razer Peripherals on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-windows-on-steam-deck-made-simple/"><u>Setting Up Windows on Steam Deck Made Simple</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-xr-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone XR Passcode not Working?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>In 2024, From Speedy to Steady on iPhone  A Compreomed Guide for Slowed-Down Visuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-editing-software-the-top-10-contenders/"><u>Free Online Video Editing Software The Top 10 Contenders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-the-course-to-trending-youtubers-for-2024/"><u>[Updated] Charting the Course to Trending YouTubers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-top-8-smoothest-capture-tools/"><u>[New] In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-non-commercial-android-recorder-choice/"><u>[New] 2024 Approved  Essential Guide  Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-the-art-of-audio-modulation-speed-and-pitch-online-guide/"><u>Updated 2024 Approved Mastering the Art of Audio Modulation Speed & Pitch Online Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eyecapture-screen-logger-x/"><u>In 2024, EyeCapture Screen Logger X</u></a></li>
+</ul></div>

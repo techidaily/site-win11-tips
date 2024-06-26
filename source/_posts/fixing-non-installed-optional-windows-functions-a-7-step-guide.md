@@ -1,7 +1,7 @@
 ---
 title: "Fixing Non-Installed Optional Windows Functions: A 7-Step Guide"
-date: 2024-06-24 22:16:39
-updated: 2024-06-25 10:15:30
+date: 2024-06-25T16:19:30.414Z
+updated: 2024-06-26T16:19:30.414Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To use the DISM tool, follow these steps:
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
- Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
+ Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the [DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -45,14 +45,14 @@ To use the DISM tool, follow these steps:
 
 To check your system using SFC, follow these steps:
 
-1. Open the Command Prompt with administrative rights using any of the[ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open the Command Prompt with administrative rights using any of the [ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
 Want to know the best part?
 
- The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+ The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 ## 3\. Reset the Windows Update Components
 
@@ -95,7 +95,7 @@ Follow these steps to run the update troubleshooter on Windows:
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
- The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+ The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try [installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 ## 5\. Update Windows to the Latest Version
 
@@ -138,12 +138,10 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + X** to open the Power User menu.
 2. Click on**Windows PowerShell (Admin)** or**Terminal (Admin)** .
 3. Type the following command and press**Enter** :  
-Get-WindowsOptionalFeature -Online  
-![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
+Get-WindowsOptionalFeature -Online ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
-Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
-![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
+Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
@@ -171,3 +169,23 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-speech-recognition-initialization-hiccup/"><u>Fixing Windows Speech Recognition Initialization Hiccup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-w11-issues-with-csgo/"><u>Addressing W11 Issues with CS:GO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-pc-boost-unearthing-windows-best-eight-restart-strategies/"><u>Quick PC Boost: Unearthing Windows' Best Eight Restart Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-utilizing-widgets-in-windows-11/"><u>Accessing and Utilizing Widgets in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming/"><u>New In 2024, Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-5-remote-recorders-online/"><u>2024 Approved  Best 5 Remote Recorders Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-pro-mobile-techniques-for-snapchat-recording-for-2024/"><u>[New] Pro Mobile Techniques for Snapchat Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>2024 Approved  Best in Class  Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/expert-reviews-2024s-best-rated-music-editors-compatible-with-macos/"><u>Expert Reviews 2024S Best-Rated Music Editors Compatible with macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-seamless-journey-from-blurred-borders-to-sharp-focus/"><u>A Seamless Journey From Blurred Borders to Sharp Focus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for Word 2016</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-make-an-animated-explainer-video/"><u>Updated In 2024, How to Make an Animated Explainer Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/collaborative-filmmaking-teamwork-in-producing-instagram-content-for-2024/"><u>Collaborative Filmmaking  Teamwork in Producing Instagram Content for 2024</u></a></li>
+</ul></div>

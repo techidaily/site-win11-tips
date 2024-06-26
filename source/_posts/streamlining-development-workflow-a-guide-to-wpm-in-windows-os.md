@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Development Workflow: A Guide to WPM in Windows OS"
-date: 2024-06-21 12:24:33
-updated: 2024-06-24 12:45:46
+date: 2024-06-25T16:22:32.093Z
+updated: 2024-06-26T16:22:32.093Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
-![remove reinstall microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-reinstall-microsoft-store-windows-11.jpg)
+![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
 
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
@@ -58,7 +58,7 @@ Some examples of popular package managers include:
 
  The Windows Package Manager does not come pre-installed on Windows, so you’ll have to download it manually. Fortunately, the installation process is straightforward and shouldn’t pose any hurdles.
 
- Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to[log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
+ Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to [log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
 
  There are two main ways of installing the Windows Package Manager on Windows 11.
 
@@ -102,7 +102,7 @@ For example, to search for zipping programs, you can type:
 
 `winget search zip`
 
- Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
+ Alternatively, you can use a [third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
 ### 3\. How to View Installed Applications
 
@@ -110,9 +110,7 @@ For example, to search for zipping programs, you can type:
 
 `winget list`
 
-### 4\. How to View Application Details
-
-![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
+### 4\. How to View Application Details ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
  To look into the installation details and software version of a specific app, you can use the following command:
 
@@ -137,3 +135,26 @@ For example, to search for zipping programs, you can type:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/understanding-why-files-carry-an-x-marking/"><u>Understanding Why Files Carry an X Marking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-share-failures-on-geforce-experience-for-w10w11/"><u>Tackling Share Failures on GeForce Experience for W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-master-windows-blue-screen-troubleshooting/"><u>How to Master Windows Blue Screen Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-invisible-hardware-on-microsoft-oses/"><u>Addressing Invisible Hardware on Microsoft OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/riding-out-the-storm-conquering-xbox-app-glitches-on-win11/"><u>Riding Out the Storm: Conquering Xbox App Glitches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-dark-theme-in-notepad/"><u>Understanding and Using Dark Theme in Notepad</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-go-live-on-facebook-for-2024/"><u>How Can I Go Live on Facebook for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-whip-up-a-fresh-web-comedic-bite-sized-delight-for-2024/"><u>[Updated] Whip Up a Fresh Web Comedic Bite-Sized Delight for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-turning-snaps-into-cashflow/"><u>[New] In 2024, Turning Snaps Into Cashflow</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hololens-by-microsoft-envisioning-the-augmented-tomorrow/"><u>2024 Approved  HoloLens By Microsoft  Envisioning the Augmented Tomorrow</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ethereal-escapes-slick-action-recorders-for-2024/"><u>[New] Ethereal Escapes  Slick Action Recorders for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-best-mobile-tools-to-pull-videos-from-youtube/"><u>2024 Approved  Unveiling the Best Mobile Tools to Pull Videos From YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a23-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A23 5G Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-efficacy-of-social-media-authenticity-validation/"><u>2024 Approved  The Efficacy of Social Media Authenticity Validation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-tweet-integration-on-facebook-platform/"><u>[Updated] 2024 Approved  Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone XR? | Dr.fone</u></a></li>
+</ul></div>

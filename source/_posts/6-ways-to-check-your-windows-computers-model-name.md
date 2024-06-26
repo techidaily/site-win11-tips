@@ -1,7 +1,7 @@
 ---
 title: 6 Ways to Check Your Windows Computer's Model Name
-date: 2024-06-21 20:34:58
-updated: 2024-06-24 12:32:44
+date: 2024-06-25T17:00:33.650Z
+updated: 2024-06-26T17:00:33.650Z
 tags:
   - windows10
   - windows11
@@ -18,15 +18,13 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  Whether you want to find the correct hardware upgrade for your computer or want to fix an issue, knowing about your computer model name can come in handy in various situations. Here are 6 quick ways to check your computer model name on Windows.
 
-## 1\. Using the Settings App
+## 1\. Using the Settings App ![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
 
-![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
-
- The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see[how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
+ The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see [how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
 ## 2\. Using the System Information App
 
- The System Information is the go-to place to[check your system information on Windows 11](https://www.makeuseof.com/windows-11-check-system-information/) . You can use it to know about your computer's hardware resources, components, and software environment.
+ The System Information is the go-to place to [check your system information on Windows 11](https://www.makeuseof.com/windows-11-check-system-information/) . You can use it to know about your computer's hardware resources, components, and software environment.
 
  To see your computer model name using the System Information app, follow the below instructions:
 
@@ -43,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  Here's how to use the DirectX Diagnostic Tool to know about your system model name:
 
-1. Use one of the[many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Use one of the [many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. In the text field, type**dxdiag** and click**OK.**
 3. Click the**System** tab in the DirectX Diagnostic Tool.
 4. Under the System Information section, you can check your computer model name next to the**System Model** option.  
@@ -71,11 +69,9 @@ You'll see the model name on the console screen.
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
-## 5\. Using the Manufacturer's Assistant App
+## 5\. Using the Manufacturer's Assistant App ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
 
-![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
-
- Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the[HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
+ Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the [HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
 
@@ -83,7 +79,7 @@ You'll see the model name on the console screen.
 
  The Basic Input / Output System, aka BIOS, lets you configure basic computer settings like boot order, hardware components, and more. You can also use the BIOS menu to know every tiny detail about your computer.
 
- Here's how to[enter the BIOS menu on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) and check your computer model name:
+ Here's how to [enter the BIOS menu on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) and check your computer model name:
 
 1. Open the Settings app, and choose**Windows Update** from the left sidebar.
 2. Choose the**Advanced options.**
@@ -114,3 +110,24 @@ You'll see the model name on the console screen.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/hacking-into-windows-11s-silent-camera-alert-system/"><u>Hacking Into Windows 11'S Silent Camera Alert System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-hidden-disk-space-with-windows-1011s-deletion-automation/"><u>Unlock Hidden Disk Space with Windows 10/11'S Deletion Automation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-automatic-lock-settings/"><u>Mastery over Windows Automatic Lock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-removing-signature-rejection-on-pcs/"><u>Strategies for Removing Signature Rejection on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-registry-tweaks-in-windows-terminal/"><u>The Ultimate Guide to Registry Tweaks in Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-setting-powershell-policies/"><u>A Practical Approach to Setting PowerShell Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choose-freedom-for-windows-chatai-freedomgpt/"><u>Choose Freedom for Windows ChatAI: FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c32-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C32 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/windows-11-premium-video-grabber-selections/"><u>Windows 11  Premium Video Grabber Selections</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-behind-the-scenes-of-online-content-monetization/"><u>In 2024, Behind the Scenes of Online Content Monetization</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-delete-white-background-in-photoshop-how-to-create-a-transparent-background-in-photoshop-steps-to-get-rid-of-white-background-in-photoshop-for-2024.m/"><u>How to Delete White Background in Photoshop. How to Create a Transparent Background in Photoshop? Steps to Get Rid of White Background in Photoshop for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snappy-side-hustles-earning-with-snapchat/"><u>2024 Approved  Snappy Side Hustles  Earning with Snapchat</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-7-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 7 Plus SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/open-source-game-tunes-library-web-for-2024/"><u>Open Source Game Tunes Library Web for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effortlessly-record-audio-on-your-mac-using-audacity/"><u>[Updated] Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+</ul></div>

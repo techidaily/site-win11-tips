@@ -1,7 +1,7 @@
 ---
 title: Regaining Original Terminals in Win11
-date: 2024-06-22 15:42:30
-updated: 2024-06-24 10:32:39
+date: 2024-06-25T17:04:48.319Z
+updated: 2024-06-26T17:04:48.319Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
- The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
+ The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
 
  To reset Windows Terminal Settings back to their defaults, follow these steps:
 
@@ -59,7 +59,7 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 
  Windows PowerShell is another command line application that you can use to restore Windows Terminal Settings to their default state. To figure out how, follow these steps:
 
-1. Open Windows PowerShell. You can do this by pressing**Win + R** , typing "PowerShell", and then pressing**Enter** . You can also one of the other[ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+1. Open Windows PowerShell. You can do this by pressing**Win + R** , typing "PowerShell", and then pressing**Enter** . You can also one of the other [ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 2. In the PowerShell window, copy and paste the following command:  
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
@@ -96,3 +96,24 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-improved-windows-tiling/"><u>Boost Productivity with Improved Windows Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-low-latency-techniques-for-discord-on-windows/"><u>Mastering Low-Latency Techniques for Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-file-extraction-failures-in-windows-1110/"><u>Navigating Through File Extraction Failures in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-application-launch-failure-the-0xc000003e-error-on-windows-11/"><u>Solving Application Launch Failure: The 0XC000003E Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-windows-management-with-a-disk-space-analysis-tool/"><u>Augment Windows Management with a Disk Space Analysis Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-definable-error-in-windows-environment/"><u>Tackling 'Non-Definable' Error in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-the-empty-folder-error-message-on-win-11/"><u>Removing the 'Empty Folder' Error Message on Win 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>[Updated] Direct MP3 to YouTube  3 Steps for Seamless Video Posting for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-record-streaming-audio-online/"><u>2024 Approved  How to Record Streaming Audio Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effective-approach-to-swiftly-eliminate-video-comments-for-2024/"><u>Effective Approach to Swiftly Eliminate Video Comments for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-8-smooth-latency-free-video-reporters/"><u>[Updated] 2024 Approved  Top 8 Smooth, Latency-Free Video Reporters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quiet-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars/"><u>[New] Quiet Your Screen  Three Strategies to Slow YouTube Videos Down (57 Chars)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-30i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 30i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earnings-in-the-age-of-streaming-how-youtube-pays-creators/"><u>In 2024, Earnings in the Age of Streaming  How YouTube Pays Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-pathway-to-success-with-snapchat-in-the-workplace-for-2024/"><u>[New] The Pathway to Success with Snapchat in the Workplace for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-avoid-payment-secure-your-free-fcp-copy/"><u>[Updated] Avoid Payment  Secure Your Free FCP Copy</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Accessing Windows Terminal for Quake Environment
-date: 2024-06-21 17:53:44
-updated: 2024-06-24 12:24:44
+date: 2024-06-25T16:17:21.397Z
+updated: 2024-06-26T16:17:21.397Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ Here's how to enable and use Quake mode in Windows Terminal.
 
  The name Quake mode refers to the similar-looking terminal window you could open in the iD Software game, Quake.
 
- If you don't know what Quake is, why not check out some[classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
+ If you don't know what Quake is, why not check out some [classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
 
 ## How to Open Windows Terminal in Quake Mode
 
@@ -44,7 +44,7 @@ There are two ways to open the Windows Terminal in Quake mode.
 
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
 
- If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+ If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open [Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ## Hiding and Restoring the Terminal Window
 
@@ -66,7 +66,7 @@ To reveal the window again, press the same keyboard shortcut.
 
  If you don't see a peek preview, you can right-click on the terminal icon in the Taskbar and select**Close Window** .
 
- If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
+ If the [Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 ## Start Windows Terminal in Quake Mode at Logon
 
@@ -82,7 +82,7 @@ To reveal the window again, press the same keyboard shortcut.
 
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
- If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
+ If you have [disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
 
 ## Using the Windows Terminal's Quake Mode
 
@@ -103,3 +103,24 @@ To reveal the window again, press the same keyboard shortcut.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/initiating-windows-11s-disguised-search-action/"><u>Initiating Windows 11'S Disguised Search Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-code-0x0000004e-problem/"><u>Overcoming Windows 11'S Code 0X0000004E Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-syncing-on-windows-the-most-rated-apps/"><u>Mastering File Syncing on Windows: The Most Rated Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-sound-failure-in-audacity-windows-11-and-11/"><u>Eliminating Sound Failure in Audacity, Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-swift-notification-off-switch/"><u>Windows 11: Swift Notification OFF Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solving-winservicesexe-issues/"><u>Guide to Solving Winservices.exe Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-examine-excel-data-in-notepad/"><u>How to Examine Excel Data in Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-code-0xa00f4289-in-wincams/"><u>Navigating Through Code 0xA00F4289 in WinCams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-methods/"><u>2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seeking-solutions-why-no-facebook-videos-pop-up/"><u>Seeking Solutions  Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-top-6-best-4k-dslr-cameras/"><u>2024 Approved  Top 6 Best 4K DSLR Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>In 2024, Navigating Video Aspects on YouTube  Perfect Size & Quality Balance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-world-of-book-trailers-with-top-5-picks/"><u>[Updated] Exploring the World of Book Trailers with Top 5 Picks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/getting-started-with-your-new-youtube-premium-account/"><u>Getting Started with Your New YouTube Premium Account</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-altering-gender-display-in-digital-photographs-step-by-step-guide-for-2024/"><u>[Updated] Altering Gender Display in Digital Photographs  Step by Step Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-6s-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 6s Plus and iPad Securely</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>In 2024, Unlock Earnings  The Guide to Successful Vimeo Monetization</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Addressing the “Pre-Vista Password Recall on W10/W11”
-date: 2024-06-25 15:27:21
-updated: 2024-06-26 12:20:32
+date: 2024-06-25T16:33:35.418Z
+updated: 2024-06-26T16:33:35.418Z
 tags:
   - windows10
   - windows11
@@ -32,17 +32,13 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-## 1\. Try All of Your Commonly Used Passwords
-
-![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
+## 1\. Try All of Your Commonly Used Passwords ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-## 2\. Press Enter While the Password Field Is Blank
-
-![Enter Key on Laptop Keyboard in Red](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enter-key-on-laptop-keyboard-in-red.jpg)
+## 2\. Press Enter While the Password Field Is Blank ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
@@ -67,3 +63,30 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
  While this error is a headache for sure, you can easily resolve it with a little password tinkering. Keep calm, try the steps above, and enjoy your newly set-up device.
 
  However, this error can be easily resolved. Here’s everything you need to know.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-cloud-connection-problems/"><u>Correcting Steam Cloud Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rewind-to-richness-a-guide-to-gaming-glory-past/"><u>Rewind to Richness: A Guide to Gaming Glory Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-internal-errors-quickly-with-windows-rdp-connections/"><u>Resolving Internal Errors Quickly with Windows RDP Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-red-to-ready-8-methods-to-mend-your-monochrome-misstep/"><u>From Red to Ready: 8 Methods to Mend Your Monochrome Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-onedrive-errors/"><u>Navigating Through the Complexities of OneDrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-route-to-your-windows-disk-space-win-1011/"><u>Quick Route to Your Windows Disk Space (Win 10/11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giroptics-virtual-sphere-breakdown/"><u>2024 Approved  Giroptic's Virtual Sphere Breakdown</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-applications-for-adding-audio-to-video-in-android/"><u>Updated In 2024, Applications for Adding Audio to Video in Android</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-streamline-your-tiktok-creativity-how-to-upload-videos-seamlessly/"><u>[New] In 2024, Streamline Your TikTok Creativity  How to Upload Videos Seamlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-revealing-hidden-group-sharing-in-chat-space/"><u>In 2024, Revealing Hidden Group Sharing in Chat Space</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-thinkers-playground-top-10-mind-bending-rooms/"><u>[New] In 2024, Thinkers' Playground  Top 10 Mind-Bending Rooms</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-reigning-typefaces-for-triumph-best-tiktok-font-generator-list-of-23/"><u>[New] Reigning Typefaces for Triumph  Best TikTok Font Generator List of '23</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harnessing-the-power-of-imagery-for-engaging-fb-slideshows-for-2024/"><u>[New] Harnessing the Power of Imagery for Engaging FB Slideshows for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>[Updated] In 2024, Enhancing Visual Aesthetics  Adding Black Bar & Box to Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/witticisms-and-whimsy-the-vhs-perspective-on-goofy/"><u>'Witticisms and Whimsy' - The VHS Perspective on Goofy</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

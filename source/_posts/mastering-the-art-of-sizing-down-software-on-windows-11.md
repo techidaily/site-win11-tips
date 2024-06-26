@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Sizing Down Software on Windows 11
-date: 2024-06-24 19:13:35
-updated: 2024-06-25 12:29:37
+date: 2024-06-25T16:57:20.922Z
+updated: 2024-06-26T16:57:20.922Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Sizer is a handy freeware program with which you can set up hotkeys that resize software windows to specific dimensions. This is how to resize software windows by creating keyboard shortcuts with Sizer:
 
-1. Open[Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
+1. Open [Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
 2. Click**Download Now** \>**Softpedia Mirror (US)** options.
 3. Sizer’s setup file will be in the folder your browser is configured to download to. Press your keyboard’s**Win** +**E** keys to view File Explorer, and go to the folder that includes the Sizer setup wizard.
 4. Double-click the**sizer4\_dev556.msi** file.
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
- Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
+ Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
 
- Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on[BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
+ Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on [BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -111,3 +111,22 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/finding-windows-11-account-settings-center/"><u>Finding Windows 11 Account Settings Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hyper-v-setup-process-for-windows-11-home-edition/"><u>Navigating the Hyper-V Setup Process for Windows 11 Home Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-setup-windows-11-arm-from-an-iso-file-stepwise-approach/"><u>Efficiently Setup Windows 11 ARM From an ISO File Stepwise Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-your-guide-to-windows-11-audio-control/"><u>Navigating with Ease: Your Guide to Windows 11 Audio Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-boot-routine-secrets/"><u>Breaking Down Windows Boot Routine Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-linux-into-your-windows-desktop-world/"><u>Integrating Linux Into Your Windows Desktop World</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-full-features-explored-logitechs-professional-4k-cam/"><u>[New] 2024 Approved  Full Features Explored  Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest-for-2024/"><u>Exclusive List of Cost-Free Video Downloaders From Pinterest for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-live-broadcast-guide-software-and-hardware-recommendations/"><u>[New] Ultimate Live Broadcast Guide  Software & Hardware Recommendations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-privacy-made-easy-face-blurring-with-top-editing-tools/"><u>New 2024 Approved Video Privacy Made Easy Face Blurring with Top Editing Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-obs-setup-for-skype-screenshots-for-2024/"><u>[New] Advanced OBS Setup for Skype Screenshots for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-real-time-broadcast-at-your-fingertips-12-channels/"><u>[Updated] Real-Time Broadcast at Your Fingertips - 12 Channels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-easy-to-use-tiktok-video-to-mp4-tool/"><u>[Updated] In 2024, Easy-to-Use TikTok Video to MP4 Tool</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/elevate-discord-audio-quality-with-simple-voicemod-adjustments-for-2024/"><u>Elevate Discord Audio Quality with Simple VoiceMod Adjustments for 2024</u></a></li>
+</ul></div>

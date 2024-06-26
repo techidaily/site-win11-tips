@@ -1,7 +1,7 @@
 ---
 title: Fix Crashing File Explorer on Windows 11 Now!
-date: 2024-06-24 12:28:23
-updated: 2024-06-25 12:51:39
+date: 2024-06-25T16:33:34.492Z
+updated: 2024-06-26T16:33:34.492Z
 tags:
   - windows10
   - windows11
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
- We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+ We have a detailed guide on [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
 
 * **Run an SFC Scan:** [Performing an SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow Windows to examine your PC for corrupt or damaged system files and repair them.
-* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
-* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can [use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
+* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -109,3 +109,26 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-iphone-image-import-something-went-wrong-error-in-windows-10-and-11/"><u>How to Fix the iPhone Image Import “Something Went Wrong” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-start-system-file-verification-with-sfc/"><u>How to Start System File Verification with SFC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-workflow-programmatic-shortcuts-in-winos/"><u>Streamline Workflow: Programmatic Shortcuts in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80300024-on-windows-xp/"><u>Eliminating Error Code: 0X80300024 on Windows XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-fixing-fall-guys-link-failures-windows-wise/"><u>Essential Steps for Fixing Fall Guys Link Failures Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-windows-defender-shield-unresponsiveness/"><u>Essential Fixes for Windows Defender Shield Unresponsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-netflix-freeze-in-windows-software/"><u>Overcoming Netflix Freeze in Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-impact-on-linux-desktop-usage/"><u>WSL's Impact on Linux Desktop Usage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-nubia-flip-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change ZTE Nubia Flip 5G Lock Screen Password?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-fbx-guide-to-flawless-gameplay-archives/"><u>In 2024, FBX Guide to Flawless Gameplay Archives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-free-screen-recorders-for-windows-and-mac/"><u>In 2024, Free Screen Recorders for Windows and Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-audio-experiences-on-iphones-for-2024/"><u>Top 5 Audio Experiences on iPhones for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a79-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A79 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger-for-2024/"><u>Embark on a Wanderlust Adventure  Becoming A Professional Travel Vlogger for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-concepts-in-image-manipulation-for-2024/"><u>Key Concepts in Image Manipulation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-android-and-ios-leaders-essential-snapchat-video-editing-tools/"><u>[Updated] 2024 Approved  Android & iOS Leaders  Essential Snapchat Video Editing Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-into-the-heart-of-windows-10-flawless-media-import-techniques/"><u>[Updated] Into the Heart of Windows 10  Flawless Media Import Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-10-best-webcam-recording-software-for-windows-10/"><u>New 2024 Approved 10 Best Webcam Recording Software for Windows 10</u></a></li>
+</ul></div>

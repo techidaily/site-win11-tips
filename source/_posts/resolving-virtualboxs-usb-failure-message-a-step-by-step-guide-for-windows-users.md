@@ -1,7 +1,7 @@
 ---
 title: "Resolving VirtualBox's USB Failure Message: A Step-by-Step Guide for Windows Users"
-date: 2024-06-21 22:11:32
-updated: 2024-06-24 12:51:38
+date: 2024-06-25T16:55:41.541Z
+updated: 2024-06-26T16:55:41.541Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Before trying to attach the USB device to the VirtualBox virtual machine, first check if it shows up on your host system. Launch the File Explorer and go to This PC and check if the USB drive appears there. If you don’t see the USB drive, do as follows:
 
-1. First, open Device Manager. There are many[different ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) , but a quick way is to press**Win + R** to launch the Run command box. Type**devmgmt.msc** and press the**Enter** key to launch the Device Manager.  
+1. First, open Device Manager. There are many [different ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) , but a quick way is to press**Win + R** to launch the Run command box. Type**devmgmt.msc** and press the**Enter** key to launch the Device Manager.  
 ![Check the USB Device on the Host System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-the-USB-Device-on-the-Host-System.jpg)
 2. Navigate to the**Disk Drives** option and click the**arrow** icon to expand the section.
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
@@ -55,7 +55,7 @@ Here are some possible reasons for the VirtualBox USB devices error.
  VirtualBox can only attach USB 1.0 devices to a virtual machine. You need to install the extension pack to add USB 2.0 or 3.0 devices. Here’s how to do it.
 
 1. Open VirtualBox on your system and navigate to**Help > About VirtualBox** . Note the version currently installed on your system.
-2. Launch any web browser on your system and go to the[official VirtualBox download page](https://www.virtualbox.org/wiki/Downloads) .
+2. Launch any web browser on your system and go to the [official VirtualBox download page](https://www.virtualbox.org/wiki/Downloads) .
 3. Click on the build number which is present on your system. Scroll down and download its corresponding extension pack.
 4. Now, open VirtualBox. Navigate to**File > Tools > Extension Pack Manager** .  
 ![_Install the VirtualBox Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/_Install-the-VirtualBox-Extension-Pack.jpg)
@@ -102,12 +102,12 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  If all the above methods don’t solve the ‘Failed to Attach the USB Device’ Error code, consider reinstalling the VirtualBox app on your system. Here’s how to do it.
 
-1. Press the**Win + R** key to launch the Run command box (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more ways). Type**appwiz.cpl** and press the enter key. The Programs and Features window will launch.
+1. Press the**Win + R** key to launch the Run command box (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more ways). Type**appwiz.cpl** and press the enter key. The Programs and Features window will launch.
 2. Locate VirtualBox from the list of installed programs and double-click on it.  
 ![Reinstall VirtualBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-VirtualBox.jpg)
 3. **UAC** will pop up. Click on**Yes** to continue.
 4. Follow the on-screen prompts to uninstall VirtualBox from your system.
-5. Now visit the[official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and download the app and the corresponding extension pack.
+5. Now visit the [official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and download the app and the corresponding extension pack.
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
 
@@ -130,3 +130,24 @@ Here are some possible reasons for the VirtualBox USB devices error.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-cameras-unsuccessful-save-attempts/"><u>Decoding Windows Camera's Unsuccessful Save Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-management-active-periods-not-permanent-disruptions/"><u>Efficient Window Management: Active Periods, Not Permanent Disruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-barriers-how-to-successfully-install-java/"><u>Overcoming Barriers: How to Successfully Install Java</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-focus-amidst-windows-11s-multitask-features/"><u>Enhancing Focus Amidst Windows 11'S Multitask Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/routine-steps-to-engage-windows-11s-calculator/"><u>Routine Steps to Engage Windows 11'S Calculator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-patch-up-reviving-synapse-in-latest-windows/"><u>System Patch-Up: Reviving Synapse in Latest Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mac-tools-to-tighten-instagram-video-content-for-2024/"><u>[Updated] Mac Tools to Tighten Instagram Video Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-engagement-share-tiktoks-on-twitter/"><u>[Updated] Enhancing Engagement  Share TikToks on Twitter</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-you-might-have-difficulty-rotating-a-video-without-an-efficient-media-player-or-editing-tool-below-is-a-detailed-guide-on-rotating-a-video-on-any-ax/"><u>In 2024, You Might Have Difficulty Rotating a Video without an Efficient Media Player or Editing Tool. Below Is a Detailed Guide on Rotating a Video on Any Axes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tuning-in-smoothly-learning-to-adjust-audio-volumes-on-audacity/"><u>New 2024 Approved Tuning In Smoothly Learning to Adjust Audio Volumes on Audacity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-unbiased-review-find-the-ideal-aiff-converter-for-your-audio-files/"><u>2024 Approved Unbiased Review Find the Ideal AIFF Converter for Your Audio Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[Updated] Explore Android' Written By  Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-macs-high-resolution-vision-the-ultimate-10-screen-companions/"><u>In 2024, Mac's High-Resolution Vision  The Ultimate #10 Screen Companions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-archive-adrenaline-fueled-moments-in-galaxy-games/"><u>[Updated] In 2024, Archive Adrenaline-Fueled Moments in Galaxy Games</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-c12-plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from C12 Plus.</u></a></li>
+</ul></div>

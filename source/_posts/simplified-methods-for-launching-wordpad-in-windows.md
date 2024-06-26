@@ -1,7 +1,7 @@
 ---
 title: Simplified Methods for Launching WordPad in Windows
-date: 2024-06-22 18:58:57
-updated: 2024-06-25 12:44:37
+date: 2024-06-25T16:37:45.648Z
+updated: 2024-06-26T16:37:45.648Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ To open WordPad using the search tool, follow these steps:
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
 
-1. Open Windows File Explorer (see[how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see [how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type the following and press**Enter** :  
 `C:\Program Files\Windows NT\Accessories\wordpad.exe`
 
@@ -85,7 +85,7 @@ To open WordPad using the Control Panel, follow these steps:
 
 To do this, follow these steps:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "cmd" to open Command Prompt, and "powershell" for Windows PowerShell.
 3. Now press**Ctrl + Shift + Enter** on your keyboard.
 4. If UAC prompts on the screen, click**Yes** to grant privileges.
@@ -149,3 +149,22 @@ To open WordPad using the Start menu, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-lsassexe-unable-to-locate-error-simple-steps/"><u>Fixing 'lsass.exe' Unable to Locate Error - Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/website-standoffs-on-pc-seven-saving-strategies-for-cross-browser-issues/"><u>Website Standoffs on PC: Seven Saving Strategies for Cross-Browser Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/budget-beware-top-7-hazards-with-sub-standard-windows-licenses/"><u>Budget Beware: Top 7 Hazards with Sub-Standard Windows Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365974672-ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-inactive-pc-device-engagement/"><u>Mastery of Inactive PC Device Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-unfreeze-steam-and-resume-gaming-on-windows-11/"><u>How To Swiftly Unfreeze Steam and Resume Gaming on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blade-chroma-with-4k-camera-review-for-2024/"><u>Blade Chroma with 4K Camera Review for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-proficiently-post-360-degree-content-on-fb-for-2024/"><u>[New] How to Proficiently Post 360-Degree Content on FB for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-digital-sound-shaping-at-no-charge-the-best-free-online-trimming-experience-for-2024/"><u>Updated Digital Sound Shaping at No Charge The Best Free Online Trimming Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-embrace-digital-preservation-keeping-your-snaps-fresh-on-devices/"><u>[Updated] 2024 Approved  Embrace Digital Preservation  Keeping Your Snaps Fresh on Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-discord-nitro-benefits-and-acquisition-tactics/"><u>[New] 2024 Approved  Unraveling the Mysteries of Discord Nitro - Benefits & Acquisition Tactics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone XS</u></a></li>
+</ul></div>

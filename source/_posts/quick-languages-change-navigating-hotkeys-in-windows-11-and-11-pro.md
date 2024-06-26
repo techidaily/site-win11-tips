@@ -1,7 +1,7 @@
 ---
 title: "Quick Languages Change: Navigating Hotkeys in Windows 11 & 11 Pro"
-date: 2024-06-22 10:26:14
-updated: 2024-06-24 11:45:37
+date: 2024-06-25T16:40:22.124Z
+updated: 2024-06-26T16:40:22.124Z
 tags:
   - windows10
   - windows11
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ## How to Translate Text in Windows Software With QTranslate
 
- QTranslate is among the[best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
+ QTranslate is among the [best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
 
-1. Open[the QTranslate](http://quest-app.appspot.com/home) website.
+1. Open [the QTranslate](http://quest-app.appspot.com/home) website.
 2. Click the**Download QTranslate** button.
 3. Press File Explorer’s button (the one with a folder library icon) on your taskbar.
 4. Go to whatever folder has the QTranslate setup file in it.
 5. Double-click the**Qtranslate.6.10.0.exe** installer file.
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
-7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+7. Open a website in a foreign language to try out the translator. For the sake of example, this [German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
@@ -55,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
- If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+ If you like translating text on the web, check out the [best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
 
-1. Open[the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
+1. Open [the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
 2. Select**Download Now** on that page, and click the**Softpedia Secure Download (US)** option.
 3. Double-click**DeepLSetup.exe** to install the software.
 4. After installing, DeepL will automatically start and prompt you to set up an account. However, you can skip it, as having one is not essential.
-5. Now open up this[French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
+5. Now open up this [French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
 6. Select a text passage to translate.
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
@@ -106,3 +106,26 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/stay-organized-with-automatic-files-deletion-in-win11/"><u>Stay Organized with Automatic Files Deletion in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realign-subtitles-in-prime-video-elevate-your-windows-11-experience/"><u>Realign Subtitles in Prime Video, Elevate Your Windows 11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stalling-fixing-microsoft-teams-in-ws11ws10/"><u>Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-repairing-razer-synapse-fixes-for-modern-oses/"><u>Swift Repairing: Razer Synapse Fixes for Modern OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-troubleshooting-failed-capture-on-win11/"><u>Methods for Troubleshooting Failed Capture on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0x80070522-unlocking-client-privileges-in-windows-1110/"><u>Troubleshooting Error 0X80070522: Unlocking Client Privileges in Windows 11/10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-14-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-decoding-the-revised-youtube-earnings-criteria/"><u>2024 Approved  Decoding the Revised YouTube Earnings Criteria</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-how-to-on-using-voice-input-in-google-docs-for-2024/"><u>The Ultimate How-To on Using Voice Input in Google Docs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-obstacles-in-youtube-journey-using-creative-studio-guide/"><u>In 2024, Overcoming Obstacles in YouTube Journey Using Creative Studio Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-retro-smile-captured-by-iphone-x-classic/"><u>[Updated] In 2024, Retro Smile Captured by iPhone X Classic</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/stop-wasting-time-check-out-our-verified-filmora-coupons-for-2024/"><u>Stop Wasting Time Check Out Our Verified Filmora Coupons for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-spark-20-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Spark 20 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevating-tiktok-experience-infusing-videos-with-audio-insights/"><u>[New] In 2024, Elevating TikTok Experience  Infusing Videos with Audio Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-launch-fb-video-campaigns-utilize-the-gratis-creation-kit/"><u>[Updated] 2024 Approved  Launch FB Video Campaigns  Utilize the Gratis Creation Kit</u></a></li>
+</ul></div>

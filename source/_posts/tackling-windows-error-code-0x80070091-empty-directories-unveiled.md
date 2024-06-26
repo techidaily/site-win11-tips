@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows Error Code 0X80070091 - Empty Directories Unveiled
-date: 2024-06-21 23:45:24
-updated: 2024-06-24 10:55:19
+date: 2024-06-25T16:24:17.797Z
+updated: 2024-06-26T16:24:17.797Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
 
- Run Command Prompt with elevated (administrative) rights. Our guide about[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+ Run Command Prompt with elevated (administrative) rights. Our guide about [running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
 
 `rmdir /s "folder path"`
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 ## 3\. Scan System Files With an SFC Scan
 
- Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
@@ -110,3 +110,24 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-cannot-add-columns-error-in-ms-excel-for-windows-users/"><u>Tackling the 'Cannot Add Columns' Error in MS Excel for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-always-seeing-your-sticky-notes-in-windows/"><u>Secrets to Always Seeing Your Sticky Notes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-w11-way-to-alter-your-fax-cover-page/"><u>Navigating the W11 Way to Alter Your Fax Cover Page</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-code-0xc0000001-on-windows-11-or-11/"><u>How to Fix Error Code 0Xc0000001 on Windows 11 or 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-to-spotify-fixing-windows-11-errors/"><u>Reconnecting to Spotify: Fixing Windows 11 Errors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-branding-made-simple-and-free-for-2024/"><u>[Updated] Channel Branding Made Simple & Free for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speak-and-stun-on-snapchat-voice-change-made-simple-for-2024/"><u>[New] Speak and Stun on Snapchat  Voice Change Made Simple for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>2024 Approved  Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essential-guide-to-mac-screen-recording-with-shortcuts-for-2024/"><u>[Updated] The Essential Guide to Mac Screen Recording with Shortcuts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/instant-facebook-beat-loader-for-2024/"><u>Instant Facebook Beat Loader for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-become-a-veterinarian-on-android-12-great-simulators-for-2024/"><u>[New] Become a Veterinarian on Android  12 Great Simulators for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-create-a-light-sweep-shine-effect-with-filmora/"><u>In 2024, How to Create a Light Sweep (Shine) Effect with Filmora</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/must-watch-live-games-top-nine-sites/"><u>Must-Watch Live Games  Top Nine Sites</u></a></li>
+</ul></div>

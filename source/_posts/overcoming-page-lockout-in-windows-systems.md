@@ -1,7 +1,7 @@
 ---
 title: Overcoming Page Lockout in Windows Systems
-date: 2024-06-24 14:38:24
-updated: 2024-06-25 10:44:47
+date: 2024-06-25T16:08:05.334Z
+updated: 2024-06-26T16:08:05.334Z
 tags:
   - windows10
   - windows11
@@ -53,23 +53,19 @@ thumbnail: https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d592
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
-### 1\. Clear the History, Cache, and Cookies on Your Browser
-
-![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
+### 1\. Clear the History, Cache, and Cookies on Your Browser ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
 
  Image Credit: Faithie/Depositphotos
 
  Piled-up browsing history and cache overflow could be the primary causes of the error we're discussing. Thus, to fix the "you don't have permission to access / on this server" error, you should first clear your browser's browsing history, cache, and cookies.
 
- We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
+ We have guides on clearing browsing data in [Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and [Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
-### 2\. Reset Your Browser
-
-![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
+### 2\. Reset Your Browser ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
  Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
 
- Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
+ Every browser has a different reset process. For the most-used browsers, we have a guide on [how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
 
 ## Fix Network Related Issues
 
@@ -85,17 +81,15 @@ Proceed to the next step if either of these changes does not help.
 
 ### 2\. Change Your DNS
 
- Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
+ Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out [our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
-### 3\. Disable Any Proxy Servers You Are Using
+### 3\. Disable Any Proxy Servers You Are Using ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
-![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
-
- Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
+ Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains [how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
 ## Ensure the Firewall Isn't Causing the Problem
 
- The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on [how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
 ## Fix Annoying Browser Errors on Windows
 
@@ -116,3 +110,24 @@ Proceed to the next step if either of these changes does not help.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stuck-battlenet-login-screen/"><u>Solutions for Stuck Battle.net Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-vlc-unrecognized-media-issue/"><u>Overcoming Windows VLC Unrecognized Media Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sorting-perfection-windows-software-that-shines/"><u>Sorting Perfection: Windows Software That Shines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-non-operational-printer-feature-via-wwinplusp-in-windows/"><u>Navigating and Fixing Non-Operational Printer Feature via WWin+P in Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-boot-up-a-guide-to-startup-service-management/"><u>Navigate Through Windows Boot-Up: A Guide to Startup Service Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-errors-a-guide-to-fs-repair-in-win11/"><u>Mending Errors: A Guide to FS Repair in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-to-peak-ssd-performance-win-and-fresh-methods/"><u>Leap to Peak SSD Performance: Win and Fresh Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-setup-for-bings-ai-assistance-in-windows-11-search-shortcuts/"><u>Instant Setup for Bing's AI Assistance in Windows 11 Search Shortcuts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-video-merging-techniques/"><u>Mastering iPhone Video Merging Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-traverse-times-tapestry-with-public-domain-art/"><u>In 2024, Traverse Time's Tapestry with Public Domain Art</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[New] In 2024, Capture Your Best Side  Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-techniques-for-quick-and-reliable-recording-of-online-classes-for-2024/"><u>[Updated] Essential Techniques for Quick and Reliable Recording of Online Classes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-the-top-9-mic-recording-apps-in-23/"><u>[Updated] In 2024, The Definitive Guide to the Top 9 Mic Recording Apps in '23</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-virtual-vibrance-instructions-for-weaving-echo-into-the-fabric-of-windows-and-internet-audio-streams-for-2024/"><u>New Virtual Vibrance Instructions for Weaving Echo Into the Fabric of Windows and Internet Audio Streams for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-integrating-real-time-collaboration-slack-and-filmoras-meeting-guide/"><u>[Updated] Integrating Real-Time Collaboration  Slack & Filmora's Meeting Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-mobile-aspect-ratio-a-guide-to-vertical-content/"><u>New In 2024, Mastering Mobile Aspect Ratio A Guide to Vertical Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breezy-setup-for-podcast-broadcasts/"><u>In 2024, Breezy Setup for Podcast Broadcasts</u></a></li>
+</ul></div>

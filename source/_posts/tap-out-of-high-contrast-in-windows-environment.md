@@ -1,7 +1,7 @@
 ---
 title: Tap Out of High Contrast in Windows Environment
-date: 2024-06-24 18:38:34
-updated: 2024-06-25 11:33:28
+date: 2024-06-25T17:02:13.904Z
+updated: 2024-06-26T17:02:13.904Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 
  To disable the high contrast mode using the Settings app on Windows 8 and above, do as follows.
 
-1. Press**Win + I** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) on your system.
+1. Press**Win + I** to [launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) on your system.
 2. Navigate to the left-hand side menu and click on**Personalization** .
 3. Click on the**Themes** option under Personalization. Scroll down and click on the**Contrast Themes** option.
 4. Click on the drop-down menu in the Contrast Themes option and select the**None** option.  
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
 
  Repeat the following steps to disable high contrast mode using the run command box:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
@@ -131,3 +131,23 @@ thumbnail: https://thmb.techidaily.com/716b773a3a0bbb4238a628ab28cfde8731d3dd391
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/essential-utilities-for-a-high-performing-windows/"><u>Essential Utilities for a High-Performing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resolving-user-not-found-issue-windows-1011/"><u>Steps for Resolving 'User Not Found' Issue: Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-hardware-ids-retrieval-methods/"><u>Mastering Windows Hardware IDs Retrieval Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unidentified-devices-on-windows-1011/"><u>Troubleshooting Unidentified Devices on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-erase-personal-info-from-sign-in-window/"><u>Guide to Erase Personal Info From Sign-In Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-bluetooth-issue-here-are-9-quick-cures-to-restore-your-link/"><u>Win 11'S Bluetooth Issue? Here Are 9 Quick Cures to Restore Your Link</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated In 2024, Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-instagrams-video-capabilities-blueprint-for-powerful-marketing/"><u>[New] 2024 Approved  Unlock Instagram's Video Capabilities  Blueprint for Powerful Marketing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>2024 Approved  The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-watch-videos-in-quicktime-with-subtitles-in-your-desired-language-here-are-different-ways-to-add-subtitles-in-quicktime-playe/"><u>Updated In 2024, Do You Want to Watch Videos in QuickTime with Subtitles in Your Desired Language? Here Are Different Ways to Add Subtitles in QuickTime Player</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-beginners-blueprint-for-creating-a-sports-chain-on-mac/"><u>In 2024, The Beginner's Blueprint for Creating a Sports Chain on Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram-for-2024/"><u>[New] A Comprehensive List of Frames to Upgrade Your Photos on Instagram for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-c67-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from C67 5G</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-leading-music-editors-for-iphones-and-android-devices-a-comprehensive-review-for-2024/"><u>New Leading Music Editors for iPhones and Android Devices – A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-your-fb-social-media-treasures-for-2024/"><u>[New] Unlocking Your FB Social Media Treasures for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Master Custom Keybinds: Quick Paste in Win 10/11"
-date: 2024-06-23 17:18:42
-updated: 2024-06-25 10:30:16
+date: 2024-06-25T16:52:04.446Z
+updated: 2024-06-26T16:52:04.446Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,12 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
- QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
+ QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
 
-1. Open[this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
+1. Open [this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
-4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
 
-1. Open this[HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
+1. Open this [HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
 2. Select**Download** on the HotkeyP page.
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
@@ -105,3 +105,22 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/correcting-reference-to-non-existent-token-errors-in-win11/"><u>Correcting “Reference to Non-Existent Token” Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-luminance-adjustments-on-your-win11-device/"><u>Leveraging Luminance Adjustments on Your Win11 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-non-operational-inbox-messages-on-windows/"><u>Breaking Down Non-Operational Inbox Messages on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-overcoming-server-notifications-on-pc-apex-(156-chars/"><u>Top Tips for Overcoming Server Notifications on PC Apex (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-upgrading-old-pcs-to-22h2/"><u>Navigating New Horizons: Upgrading Old PCs to 22H2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-instant-scrutiny-a-manual/"><u>Window's Instant Scrutiny  A Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-8-webcams-to-elevate-your-livestreams/"><u>2024 Approved  Premier 8 Webcams to Elevate Your Livestreams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decode-the-art-of-youtube-shorts-with-hit-songs/"><u>Decode the Art of YouTube Shorts with Hit Songs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-videotwitterconverter-direct-media-conversion/"><u>[New] VideoTwitterConverter  Direct Media Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-go-viral-on-youtube-with-impressive-music-reaction-content/"><u>[New] How to Go Viral on YouTube with Impressive Music Reaction Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-convenient-iphone-method-for-live-screen-capture/"><u>[New] In 2024, Convenient iPhone Method for Live Screen Capture</u></a></li>
+</ul></div>

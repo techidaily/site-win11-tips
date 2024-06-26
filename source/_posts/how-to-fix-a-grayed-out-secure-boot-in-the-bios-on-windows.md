@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Grayed-Out Secure Boot in the BIOS on Windows
-date: 2024-06-23 11:39:26
-updated: 2024-06-24 12:41:44
+date: 2024-06-25T16:14:06.229Z
+updated: 2024-06-26T16:14:06.229Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ To set an administrator password in BIOS:
 
  To fix the issue, boot into the BIOS Setup Utility and disable Fast Boot. This feature may not be available on all computers. If not available, skip to the next solution.
 
- Note that the fast boot feature is different from Fast Startup. Fast Boot is a BIOS feature, whereas[Fast Startup is a Windows feature to speed up the boot process](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) .
+ Note that the fast boot feature is different from Fast Startup. Fast Boot is a BIOS feature, whereas [Fast Startup is a Windows feature to speed up the boot process](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) .
 
 To disable fast boot in BIOS:
 
@@ -75,9 +75,7 @@ To restore BIOS Security settings to factory defaults:
 6. Press**F10** to save the changes and exit**BIOS** .
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
-## 4\. Update BIOS
-
-![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
+## 4\. Update BIOS ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
@@ -85,7 +83,7 @@ To restore BIOS Security settings to factory defaults:
 
 ### Prepare Your Computer for a BIOS Update
 
- Before you update your BIOS, you'll need to[suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to[temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
+ Before you update your BIOS, you'll need to [suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to [temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
 
  Next, check your current BIOS version. You don't want to install an older version of BIOS on your computer. So, press the**Win** key, type**system information** , and open the System Information app from the search results. In the System Information dialog, locate and check the**BIOS Version/Date** entry. Note down the BIOS version, for example,**AMI F.27, 3/17/2022** .
 
@@ -93,15 +91,13 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
- Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
+ Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the [HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
-## 5\. Load the BIOS Defaults Settings
-
-![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
+## 5\. Load the BIOS Defaults Settings ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -132,3 +128,24 @@ To load BIOS defaults settings:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-gaming-service-failures-on-pcs-and-laptops/"><u>How To Resolve Gaming Service Failures on PCs and Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-what-sets-ai-hardware-on-a-distinct-path/"><u>Analyzing What Sets AI Hardware on a Distinct Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/historic-footprints-in-tech-rediscovering-7-old-world-windows-aspects/"><u>Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-inactive-screen-time-windows/"><u>Personalized Inactive Screen Time Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-wild-high-on-your-windows-desktop/"><u>Taming the Wild High on Your Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winrars-hash-harmony-six-ways-to-ensure-correct-sums/"><u>WinRAR's Hash Harmony: Six Ways to Ensure Correct Sums</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-live-feed-rates-on-task-monitor-win-11/"><u>Improve Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-side-by-side-error-corrective-techniques-for-win10/"><u>Addressing Side-by-Side Error: Corrective Techniques for Win10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100t to Roku | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/conquer-snapchats-boomerang-challenges-easily/"><u>Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-powerdirector-2-written-users/"><u>Decoding PowerDirector 2 Written Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/urban-beats-on-tiktok-the-best-rap-collabs/"><u>Urban Beats on TikTok  The Best Rap Collabs</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/epic-tiktok-dishes-you-must-try/"><u>Epic TikTok Dishes You Must Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-videography-top-cameras/"><u>Visionary Videography  Top Cameras</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevate-your-media-incorporating-music-and-dialogue-into-android-videos/"><u>Updated Elevate Your Media Incorporating Music and Dialogue Into Android Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows Setup for GPT
-date: 2024-06-25 12:38:22
-updated: 2024-06-26 11:46:59
+date: 2024-06-25T16:09:40.128Z
+updated: 2024-06-26T16:09:40.128Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-### Uninstall the ChatGPT Web App on Edge
-
-![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
+### Uninstall the ChatGPT Web App on Edge ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
@@ -79,9 +77,7 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
-## Run ChatGPT Natively Using an Unofficial Project
-
-![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+## Run ChatGPT Natively Using an Unofficial Project ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -120,3 +116,31 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
  But what if you want to run ChatGPT as a Windows app? While no official Windows version is available yet, Microsoft Edge and Chrome let you use ChatGPT as a native Windows app. Here’s how you can run ChatGPT as a Windows app using Microsoft Edge, create a Chrome shortcut for the AI bot, and pin the ChatGPT app to the taskbar.
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-lsassexe-component-not-found-error-in-windows/"><u>Addressing lsass.exe Component Not Found Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-remedies-to-immediate-addition-problems-for-your-onedrive-drive/"><u>Efficient Remedies to Immediate Addition Problems for Your OneDrive Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-impact-on-linux-desktop-usage/"><u>WSL's Impact on Linux Desktop Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-of-intels-wi-fi-6d-driver-in-os/"><u>Addressing Failure of Intel's Wi-Fi 6D Driver in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-windows-settings-on-reboot/"><u>Steps for Resetting Windows Settings on Reboot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-workspace-win-11s-finest-productivity-tools/"><u>Transform Your Workspace: Win 11'S Finest Productivity Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-10-heavy-lift-drones-you-should-know/"><u>[New] Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-split-a-clip-in-davinci-resolve-step-by-step/"><u>Updated How to Split a Clip in DaVinci Resolve Step by Step</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-best-tiktok-video-editing-apps/"><u>2024 Approved  Best TikTok Video Editing Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-infographic-guide-effective-video-promotion-tools/"><u>In 2024, Infographic Guide  Effective Video Promotion Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choosing-excellence-hdr-cameras-decoded/"><u>[Updated] Choosing Excellence  HDR Cameras Decoded</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-video-conferencing-the-essential-list-of-10-free-recorders-for-2024/"><u>Perfect Video Conferencing  The Essential List of 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/sparking-interest-with-the-top-8-most-effective-youtube-thumbnails/"><u>Sparking Interest with the Top 8 Most Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-gt-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme GT 3 in 3 Ways | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

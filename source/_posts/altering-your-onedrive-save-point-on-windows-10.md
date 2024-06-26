@@ -1,7 +1,7 @@
 ---
 title: Altering Your OneDrive Save Point on Windows 10
-date: 2024-06-23 17:51:44
-updated: 2024-06-26 11:32:55
+date: 2024-06-25T16:53:25.233Z
+updated: 2024-06-26T16:53:25.233Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
 
- If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
+ If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 ### 1\. Unlinking OneDrive
 
- The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
+ The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
 
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
@@ -52,7 +52,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
 
-1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll[re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
+1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll [re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
@@ -64,7 +64,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
- Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+ Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -85,3 +85,23 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-asks-for-credentials-error-message/"><u>Bypassing Windows Asks for Credentials Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-keys-to-a-cleaner-windows-experience/"><u>Three Keys to a Cleaner Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-strategies-for-hardware-serial-numbers-on-windows/"><u>Insightful Strategies for Hardware Serial Numbers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/impact-analysis-removal-of-windows-11-taskbars-chatting-function/"><u>Impact Analysis: Removal of Windows 11 Taskbar's Chatting Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-time-intensive-gpsvc-hangs/"><u>Eliminating Time-Intensive GPSVC Hangs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence/"><u>[New] Upgrade Alert  Navigate Changes with Confidence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/textual-tricks-for-tickling-funny-bones/"><u>Textual Tricks for Tickling Funny Bones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-setting-up-your-zone-for-top-notch-oculus-vr-experience/"><u>In 2024, Setting Up Your Zone for Top-Notch Oculus VR Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-launch-film-studio-windows-xp-edition-essentials/"><u>2024 Approved  Launch Film Studio  Windows XP Edition Essentials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-instagram-looping-videos/"><u>The Ultimate Guide to Instagram Looping Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-mp4-to-mp3-conversion-made-easy-top-apps-for-mobile/"><u>In 2024, MP4 to MP3 Conversion Made Easy Top Apps for Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-innovative-tiktok-pfps-to-captivate-your-followers/"><u>[New] Innovative TikTok PFPs to Captivate Your Followers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Console Management with Admin Rights
-date: 2024-06-23 14:45:22
-updated: 2024-06-26 11:44:53
+date: 2024-06-25T17:05:28.380Z
+updated: 2024-06-26T17:05:28.380Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 
 ## 2\. Create a Command Prompt Desktop Shortcut
 
- If you prefer, you can create a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) that executes the Command Prompt with elevated privileges. Here's how to do it:
+ If you prefer, you can create a [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) that executes the Command Prompt with elevated privileges. Here's how to do it:
 
 1. Right-click on your desktop and select**New > Shortcut** .  
 ![Create Command Prompt Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-command-prompt-desktop-shortcut.jpg)
@@ -46,7 +46,7 @@ C:\WINDOWS\system32\cmd.exe
 
  If it prevents you from creating a shortcut for Command Prompt, you may have to create a new user account. To do this, follow these steps:
 
-1. Open the Control Panel. Check out[how to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) if you get stuck.  
+1. Open the Control Panel. Check out [how to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) if you get stuck.  
 ![Manage another account using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/manage-another-account-using-control-panel.jpg)
 2. Then navigate to**User Accounts > Manage Another Account** .  
 ![Add a new user in PC settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-a-new-user-in-pc-settings.jpg)
@@ -64,11 +64,11 @@ C:\WINDOWS\system32\cmd.exe
 
  If you have recently made changes to Command Prompt, and they seem to be causing the issue, you can try performing a system restore. This will revert your computer back to a previous point in time when Command Prompt was still working properly.
 
- Check out our guide on[how to perform a system restore in Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) for information on how to achieve this.
+ Check out our guide on [how to perform a system restore in Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) for information on how to achieve this.
 
 ## 6\. Boot Your Computer in Safe Mode
 
- Sometimes, Command Prompt may not run as an administrator due to issues with other applications or software. To fix this, you can check out our guide on[how to boot your Windows computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
+ Sometimes, Command Prompt may not run as an administrator due to issues with other applications or software. To fix this, you can check out our guide on [how to boot your Windows computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
 
  If you boot into Safe Mode, your computer will run with the most basic settings and drivers, so it can help detect software-related problems that could be causing Command Prompt to fail. While in Safe Mode, try running elevated commands to see if the problem persists.
 
@@ -93,3 +93,23 @@ C:\WINDOWS\system32\cmd.exe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-service-failure-error-1053/"><u>Correcting Windows Service Failure Error 1053</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-implement-without-obstacles-win11-version-22h2-update/"><u>Tactics to Implement Without Obstacles: Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-setting/"><u>Enabling Windows Terminal's Quake Setting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-silent-windows-headset-mic/"><u>Resuscitating Silent Windows Headset Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recognizing-unseen-sd-card-fix-for-windows-explorer/"><u>Recognizing Unseen SD Card: Fix for Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-email-setup-connecting-your-gmail-to-outlook-windows/"><u>Simplifying Email Setup: Connecting Your Gmail to Outlook Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gui-diskspace-windows-menu-integration-guide/"><u>Mastering GUI Diskspace: Windows Menu Integration Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-photoquarter-analysis/"><u>In 2024, PhotoQuarter Analysis</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/moviemaster-for-macos-for-2024/"><u>MovieMaster for macOS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-one-source-livestream-perfection-a-streamers-blueprint/"><u>[Updated] One-Source Livestream Perfection  A Streamer's Blueprint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-formulating-fascinating-film-excerpts/"><u>2024 Approved  Formulating Fascinating Film Excerpts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cam-division-is-splitcam-the-1-choice/"><u>[Updated] 2024 Approved  Cam Division  Is SplitCam the #1 Choice?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-fb-videos-top-10-watcher-tools/"><u>[New] In 2024, Best FB Videos  Top 10 Watcher Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-microphone-selection-for-high-res-video-shooting/"><u>2024 Approved  Ultimate Microphone Selection for High-Res Video Shooting</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-sound-integrating-cost-free-plugin-autotune-in-audacity-for-2024/"><u>Updated Elevate Your Sound Integrating Cost-Free Plugin Autotune in Audacity for 2024</u></a></li>
+</ul></div>

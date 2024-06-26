@@ -1,7 +1,7 @@
 ---
 title: Unblocking Chrome on a Windows Desktop
-date: 2024-06-25 13:29:30
-updated: 2024-06-26 11:38:30
+date: 2024-06-25T16:16:20.386Z
+updated: 2024-06-26T16:16:20.386Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  To resize the Chrome window, click the**Restore Down** icon in the top right corner. Then, move your mouse cursor over the edge of the window and click and hold the left mouse button. Drag the window to the size you want and see if that fixes the issue.
 
- Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
+ Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
 
 ![Force Close Chrome Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/force-close-chrome-using-task-manager.jpg)
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
 ## 2\. Disable Hardware Acceleration
 
- When you enable[hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
+ When you enable [hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
 
  Several users on the forums reported fixing Google Chrome black screen issue by simply disabling the hardware acceleration feature. You can also give this method a shot.
 
@@ -96,7 +96,7 @@ To disable extensions in Google Chrome:
 4. Select the**Reset settings** option to confirm.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-google-chrome.jpg)
 
- Check out[how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
+ Check out [how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
 ## 6\. Reinstall Google Chrome
 
@@ -110,9 +110,9 @@ To uninstall Google Chrome on your Windows computer, use these steps.
 ![Uninstall Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-google-chrome.jpg)
 4. Follow the on-screen instructions to uninstall Google Chrome.
 
- After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on[how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
+ After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on [how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
 
- Once you've done that, use another browser to[visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
+ Once you've done that, use another browser to [visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
 
 ## Start Using Google Chrome Again
 
@@ -135,3 +135,24 @@ To uninstall Google Chrome on your Windows computer, use these steps.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/getting-the-best-bargains-on-essential-windows-11-codes/"><u>Getting the Best Bargains on Essential Windows 11 Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-lock-on-time-for-windows-users/"><u>Automating Lock-On Time for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-fingerprint-scanner-compatibility-problem-in-windows/"><u>Solving Fingerprint Scanner Compatibility Problem in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-lag-and-enhance-fps-in-roblox-win-edition/"><u>Minimize Lag & Enhance FPS in Roblox Win Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-management-with-windows-autodelete-feature/"><u>Simplifying File Management with Windows' AutoDelete Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-clear-microsofts-watchdog-logs-on-windows/"><u>Techniques to Clear Microsoft's Watchdog Logs on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tap-out-of-high-contrast-in-windows-environment/"><u>Tap Out of High Contrast in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-automation-for-batch-files/"><u>Mastering Windows Automation for Batch Files</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-a2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi A2 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-vlc-video-recording-performance-study/"><u>In 2024, VLC Video Recording Performance Study</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>[Updated] Immersive Tech Triumphs  Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-masterclass-streamlining-your-video-uploads-on-tiktok-macwindows/"><u>[Updated] Masterclass  Streamlining Your Video Uploads on TikTok (Mac/Windows)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instantaneous-frame-construction-facebook-photo-groups/"><u>In 2024, Instantaneous Frame Construction  Facebook Photo Groups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-meme-craft-kinemasters-role-for-2024/"><u>Mastering the Meme Craft  KineMaster's Role for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-sony-xperia-1-v-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Sony Xperia 1 V Phone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms/"><u>In 2024, A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-compendium-chromes-excellence-in-video-grabs/"><u>2024 Approved  The Ultimate Compendium  Chromes' Excellence in Video Grabs</u></a></li>
+</ul></div>

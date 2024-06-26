@@ -1,7 +1,7 @@
 ---
 title: "Notepad Woes on PC: 7 Steps to Reopen the Favorite Text Editor"
-date: 2024-06-23 20:37:23
-updated: 2024-06-24 11:42:50
+date: 2024-06-25T16:23:23.282Z
+updated: 2024-06-26T16:23:23.282Z
 tags:
   - windows10
   - windows11
@@ -58,7 +58,7 @@ To repair the Notepad app on Windows:
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
- You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
+ You should see a checkmark next to the Repair button once the process is complete. Then, try to [open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
  If repairing the Notepad app does not make any difference, you can try resetting it. Here are the steps for the same.
 
@@ -70,7 +70,7 @@ To repair the Notepad app on Windows:
 
 ## 4\. Reinstall the Notepad App
 
- You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
+ You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the [optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
 
 1. Press**Win + I** to launch the Settings app.
 2. Navigate to**Apps > Optional features** .
@@ -110,7 +110,7 @@ To run the SFC scan on Windows:
 
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
 
- If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
+ If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
 
 ## 7\. Create Another User Account
 
@@ -118,13 +118,13 @@ To run the SFC scan on Windows:
 
 To create a new user account on Windows:
 
-1. Use one of the[many ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Use one of the [many ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Navigate to**Accounts > Other users** .
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
- Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
+ Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can [move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
 
@@ -147,3 +147,26 @@ To create a new user account on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-not-responding-problem-for-spotify-software/"><u>Resolving the Not Responding Problem for Spotify Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-windows-11s-update-0x800f0922-failure/"><u>Steps to Fix Windows 11'S Update 0X800F0922 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodge-the-null-error-resolving-win11-problems/"><u>Dodge the Null Error: Resolving Win11 Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-effortless-edits-crafting-new-folders-on-windows-11/"><u>Explore Effortless Edits: Crafting New Folders on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-notepad-stability/"><u>Mastering Windows Notepad Stability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-warmup-latency-top-tips-for-a-quicker-boot-up/"><u>Trim Down Warmup Latency – Top Tips for a Quicker Boot-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-11-fixes-22h2-edition/"><u>Essential Windows 11 Fixes: 22H2 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-aggregatorhostexe-on-windows-exploring-its-functionality-and-safety/"><u>What Is AggregatorHost.exe on Windows? Exploring Its Functionality and Safety</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-gt-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme GT 5 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content/"><u>[Updated] Expert Techniques  Efficiently Crafting Compelling Subtitles for FB Video Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-civi-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Civi 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-advanced-techniques-for-disco-text-flair/"><u>[Updated] In 2024, Exploring Advanced Techniques for Disco-Text Flair</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-igtv-downloads-decoded-iphone-and-android-edition/"><u>[New] IGTV Downloads Decoded  IPhone & Android Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-essential-tools-for-resizing-videos-for-2024/"><u>10 Essential Tools for Resizing Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focus-on-clarity-the-best-zooming-video-editors-list/"><u>[New] Focus on Clarity - The Best Zooming Video Editors List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-techniques-in-live-streamed-gaming-for-2024/"><u>[Updated] Cutting-Edge Techniques in Live-Streamed Gaming for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-prominence-mastery-a-comprehensive-youtube-guide/"><u>2024 Approved  Channel Prominence Mastery  A Comprehensive YouTube Guide</u></a></li>
+</ul></div>

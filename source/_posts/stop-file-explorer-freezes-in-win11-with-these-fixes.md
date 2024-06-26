@@ -1,7 +1,7 @@
 ---
 title: Stop File Explorer Freezes in Win11 With These Fixes
-date: 2024-06-22 12:50:54
-updated: 2024-06-24 12:20:19
+date: 2024-06-25T16:56:42.562Z
+updated: 2024-06-26T16:56:42.562Z
 tags:
   - windows10
   - windows11
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
- We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+ We have a detailed guide on [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
 
 * **Run an SFC Scan:** [Performing an SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow Windows to examine your PC for corrupt or damaged system files and repair them.
-* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
-* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can [use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
+* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -109,3 +109,24 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mobile-file-access-via-windows-server/"><u>Mobile File Access via Windows Server</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-checklist-for-fine-tuning-windows-11-installation/"><u>The Ultimate Checklist for Fine-Tuning Windows 11 Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-issues-a-comprehensible-guide-for-windows-11-users/"><u>Navigating Network Issues: A Comprehensible Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-personalized-secure-locks-for-windows-11/"><u>Designing Personalized Secure Locks for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-directory-management-without-renaming-features-in-windows-11/"><u>Mastering Directory Management without Renaming Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-microsofts-copilot-key-for-windows-11-users/"><u>Unveiling the Secrets of Microsoft's Copilot Key for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/install-update-and-remove-with-precision-using-windows-package-manager/"><u>Install, Update & Remove with Precision Using Windows Package Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-broken-exe-file-execution-on-pcs/"><u>Fix Broken Exe File Execution on PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/4kplus-3d-blu-ray-magic-high-end-players-guide/"><u>4K+ 3D Blu-Ray Magic  High-End Players Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-social-media-metrics-the-igtv-hashtag-connection-for-2024/"><u>Mastering Social Media Metrics  The IGTV Hashtag Connection for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-movie-swaps-top-7-alternate-films-for-2024/"><u>Best Movie Swaps  Top 7 Alternate Films for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-exceptional-background-melodies-for-video-content-creation-for-2024/"><u>Updated Exploring Exceptional Background Melodies for Video Content Creation for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G34 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-m34-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy M34 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-keeping-the-connection-strong-avoiding-livestream-interruptions-on-facebook-for-2024/"><u>[New] Keeping the Connection Strong  Avoiding Livestream Interruptions on Facebook for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fight-for-finesse-the-best-of-royale-battles/"><u>In 2024, Fight for Finesse  The Best of Royale Battles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-g24-power-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola G24 Power Screen | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Tackle Unknown Hardware in Windows 10/11 OS
-date: 2024-06-23 14:48:36
-updated: 2024-06-24 10:18:22
+date: 2024-06-25T16:21:19.917Z
+updated: 2024-06-26T16:21:19.917Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,13 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
 
-## 1\. Run the System Image and File Repair Commands
-
-![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
+## 1\. Run the System Image and File Repair Commands ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
 
  The “Unknown Hard Error” can be caused by corrupted system files. Some users have indeed confirmed running the System File Checker (SFC) command resolved the “Unknown Hard Error” on their PCs. However, run a Deployment Image Servicing and Management (DISM) scan before utilizing SFC.
 
  Our article about [repairing corrupted files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions for running both SFC and DISM scans.
 
-## 2\. Clean Boot Your Windows PC
-
-![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window-1.jpg)
+## 2\. Clean Boot Your Windows PC ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window-1.jpg)
 
  Clean-booting Windows is one of the more widely confirmed solutions for the “Unknown Hard Error.” Applying this resolution will disable non-essential third-party startup apps and services. This can prevent software conflicts that could be causing the “Unknown Hard Error” on your PC from occurring.
 
@@ -38,25 +34,19 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
  If the error doesn’t reoccur again, you’re onto something. You can keep the current boot configuration or try to identify what was causing the issue for the sake of re-enabling startup items. To identify the culprit, you’ll need to gradually re-enable one startup item every time you restart (or shut down) Windows until the issue returns.
 
-## 3\. Run a Check Disk Repair Scan
-
-![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
+## 3\. Run a Check Disk Repair Scan ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
 
  The “Unknown Hard Error” can be due to hard disk drive issues. Check Disk (CHKDSK) is the only pre-installed Windows utility that checks for and resolves hard drive errors. So, try running a CHKDSK scan via the Command Prompt or File Explorer.
 
  Our guide to [running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) includes instructions for utilizing that tool either way.
 
-## 4\. Remove Any Recent Windows Updates
-
-![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/install-updates.jpg)
+## 4\. Remove Any Recent Windows Updates ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/install-updates.jpg)
 
  A few users have reported the “Unknown Hard Error” arising after installing Windows updates. This highlights update issues can trigger the error. A possible solution in such a scenario would be to uninstall the most recent update after which the issue occurred.
 
  Try removing the latest installed patch update, as covered in this article about [how to manually uninstall Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/).
 
-## 5\. Roll Back Your PC to a Previous Windows Restore Point
-
-![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
+## 5\. Roll Back Your PC to a Previous Windows Restore Point ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
  The System Restore tool undoes system changes by restoring Windows to an image backup (restore point). It's a valuable troubleshooting tool for fixing the “Unknown Hard Error” if you have it enabled and there are restoration points available.
 
@@ -64,9 +54,7 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
  For this method to work, you’ll need to select a restore point date that predates the “Unknown Hard Error” on your PC. Choosing the oldest available restore point is the best bet if you’re not sure what one to go for. Select **Show more restore points** if that setting is available to see all your restoration options.
 
-## 6\. Switch to a New User Account
-
-![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-button.jpg)
+## 6\. Switch to a New User Account ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-button.jpg)
 
  An issue with your user account could be the reason for the “Unknown Hard Error” arising on your PC. If you can’t fix that issue, you may as well go around it by creating and utilizing a new user account.
 
@@ -87,3 +75,31 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
  You can kill off the “Unknown Hard Error” error by applying the potential fixes above. It’s not the most straightforward issue to fix, but one of those resolutions will probably get it sorted. The worst-case scenario is that your PC’s hard drive is failing, in which case you might need to replace the drive.
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-reawakening-top-3-windows-reset-methods/"><u>Efficient PC Reawakening: Top 3 Windows Reset Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-device-label-in-windows-os/"><u>Correcting 'Invalid Device' Label in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/becoming-a-storage-strategy-expert-with-windows-diskusage-commands-mastery/"><u>Becoming a Storage Strategy Expert with Windows' DiskUsage Commands Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-1110-setup-with-rightful-permissions/"><u>Navigating Windows 11/10 Setup with Rightful Permissions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/four-steps-for-pausing-windows-update/"><u>Four Steps for Pausing Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-prose-with-these-5-pc-apps/"><u>Boost Your Prose with These 5 PC Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-smart-8-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Smart 8 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-voice-customization-on-tiktok-a-comprehensive-guide/"><u>Mastering Voice Customization on TikTok  A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-enhancing-cinematic-soundscape-fading-and-amplifying-audio-effectively-with-keyframing-in-macos-filmora/"><u>Updated 2024 Approved Enhancing Cinematic Soundscape Fading and Amplifying Audio Effectively with Keyframing in macOS Filmora</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlock-creative-potential-the-ultimate-list-of-10-free-tiktok-edits-on-macos/"><u>[Updated] In 2024, Unlock Creative Potential  The Ultimate List of 10 Free TikTok Edits on MacOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-discover-mematic-the-modern-notetaker/"><u>In 2024, Discover Mematic  The Modern Notetaker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-deciphering-the-mysteries-an-in-depth-look-at-stardew-valleys-unique-island-ginger-isle/"><u>[New] 2024 Approved  Deciphering the Mysteries  An In-Depth Look at Stardew Valley's Unique Island - Ginger Isle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-pro-prime-video-cameras-for-pcs/"><u>[New] Windows 11 Pro  Prime Video Cameras for PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-assessing-hdr-standards-luminances-role/"><u>[Updated] Assessing HDR Standards  Luminance's Role</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-smooth-streams-facebooks-buffering-breakthrough-for-2024/"><u>Unlocking Smooth Streams - Facebook's Buffering Breakthrough for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

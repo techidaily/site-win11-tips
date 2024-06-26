@@ -1,7 +1,7 @@
 ---
 title: Reviving Typical Directory Display Order in Win11
-date: 2024-06-25 12:50:55
-updated: 2024-06-26 10:10:56
+date: 2024-06-25T16:27:53.662Z
+updated: 2024-06-26T16:27:53.662Z
 tags:
   - windows10
   - windows11
@@ -62,7 +62,7 @@ start explorer.exe`
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
 
-1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on[how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
+1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on [how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
@@ -72,12 +72,12 @@ start explorer.exe`
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
- The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
+ The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
 
  To reset folder view settings using the registry editor, do the following:
 
-1. Press**Win + R** on your keyboard to[open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
-2. Type**regedit** in the text box and press Enter. This will[open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Press**Win + R** on your keyboard to [open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Type**regedit** in the text box and press Enter. This will [open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 3. Navigate to the following location:  
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
@@ -106,3 +106,26 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-essential-checklist-for-dolby-atmos-installation-in-windows/"><u>The Essential Checklist for Dolby Atmos Installation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/six-major-deterrents-preventing-windows-11-upgrade/"><u>Six Major Deterrents Preventing Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-discord-setup-failures-on-windows-1011/"><u>Mastery Over Discord Setup Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-update-processes-context-menu-update-option-for-win11-users/"><u>Streamlining Update Processes: Context Menu Update Option for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-resolution-at-your-fingertips-top-10-tools/"><u>Error Resolution at Your Fingertips: Top 10 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-directx-download-errors-on-windows/"><u>Tackling DirectX Download Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-playnite-integrating-virtual-game-archives/"><u>Winning Playnite: Integrating Virtual Game Archives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-leaving-no-trace-on-insta-permanent-deactivation-101/"><u>[New] 2024 Approved  Leaving No Trace on Insta  Permanent Deactivation 101</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-media-mobility-in-apples-ecosystem/"><u>In 2024, Mastering Media Mobility in Apple's Ecosystem</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-brand-youtube-thumbnail-design-sizing-and-optimization-techniques/"><u>New Elevate Your Brand YouTube Thumbnail Design, Sizing, and Optimization Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-apowersoft-examined-a-full-review-of-its-capabilities/"><u>2024 Approved  Apowersoft Examined  A Full Review of Its Capabilities</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-video-editing-simplified-with-mac-mp4-cutters/"><u>In 2024, Professional Video Editing Simplified with Mac MP4 Cutters</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rise-and-shine-wondershare-filmora-easter-sale-brings-you-unbeatable-offers-for-2024/"><u>New Rise and Shine Wondershare Filmora Easter Sale Brings You Unbeatable Offers for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-premier-voice-modification-tools-to-enhance-silent-recording-experience-for-2024/"><u>Updated Premier Voice-Modification Tools to Enhance Silent Recording Experience for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-structuring-tutorials-for-clarity-on-youtube/"><u>In 2024, Structuring Tutorials for Clarity on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-strategies-for-capturing-discords-real-time-broadcasts-for-2024/"><u>Top Strategies for Capturing Discord's Real-Time Broadcasts for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-top-15-trending-hashtags-in-tiktok/"><u>[Updated] In 2024, The Top 15 Trending Hashtags in TikTok</u></a></li>
+</ul></div>

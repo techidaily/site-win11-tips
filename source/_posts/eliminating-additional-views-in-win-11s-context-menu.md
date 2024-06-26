@@ -1,7 +1,7 @@
 ---
 title: Eliminating Additional Views in Win 11'S Context Menu
-date: 2024-06-25 13:31:36
-updated: 2024-06-26 11:53:15
+date: 2024-06-25T16:46:19.363Z
+updated: 2024-06-26T16:46:19.363Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
- The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
+ The [Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to [enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
 
  Here's how to use the folder option to remove the "show more options" entry from the context menu:
 
@@ -49,7 +49,7 @@ Next, restart your computer for the changes to take effect.
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
- Now, you will have to restart Windows Explorer to see the changes. To do that, open the**Task Manager** (see how to[launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on**Windows Explorer,** and choose**Restart.**
+ Now, you will have to restart Windows Explorer to see the changes. To do that, open the**Task Manager** (see how to [launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on**Windows Explorer,** and choose**Restart.**
 
  Check if you can see the changes. If not, then you will have to restart your computer for the changes to take effect.
 
@@ -61,7 +61,7 @@ Next, restart your computer for the changes to take effect.
 
  Another quick way to remove the "show more options" entry is through the Registry Editor. Here's what you need to do:
 
- Before making any changes to the registry, ensure you've[created a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) or[back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will ensure your system settings and files are secure, and you can quickly access them if something goes wrong.
+ Before making any changes to the registry, ensure you've [created a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) or [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will ensure your system settings and files are secure, and you can quickly access them if something goes wrong.
 
 1. Open the Start Menu, type**Registry Editor** in the search bar, and press Enter.
 2. In the Registry Editor, navigate to the following location:  
@@ -78,7 +78,7 @@ Next, restart your computer for the changes to take effect.
 
  Here's how to download Winaero Tweaker and use it to remove the "show more options" entry from the context menu:
 
-1. Download the[Winaero Tweaker zip file](https://winaero.com/downloads/winaerotweaker.zip) on your computer.
+1. Download the [Winaero Tweaker zip file](https://winaero.com/downloads/winaerotweaker.zip) on your computer.
 2. Unzip the file, open the executable, and then follow the on-screen instructions to install it on your computer.
 3. Launch Winaero Tweaker and choose the**Classic Full Context Menus** option from the left sidebar.  
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
@@ -105,3 +105,24 @@ Next, restart your computer for the changes to take effect.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/spotting-large-files-and-drives-in-windows-storage-soup/"><u>Spotting Large Files & Drives in Windows Storage Soup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-device-opens-issue-on-audacity-in-windows/"><u>Steps to Correct Device Opens Issue on Audacity in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-efficiency-with-these-5-must-have-apps-on-windows-11/"><u>Enhance Efficiency with These 5 Must-Have Apps on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internet-unreachability-issue/"><u>Overcoming Internet Unreachability Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resolving-user-not-found-issue-windows-1011/"><u>Steps for Resolving 'User Not Found' Issue: Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-adjustments-nine-fixes-to-smooth-out-windows-11-gaming/"><u>Accelerated Adjustments: Nine Fixes to Smooth Out Windows 11 Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-usb-failure-message-a-step-by-step-guide-for-windows-users/"><u>Resolving VirtualBox's USB Failure Message: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g84-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G84 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-discover-the-world-of-screen-capture-with-apowersofts-free-version-for-2024/"><u>[Updated] Discover the World of Screen Capture with Apowersoft's Free Version for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>Pathway to YouTube Partnerships  Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-top-12-tycoon-games-where-strategies-thrive-and-profits-peak/"><u>In 2024, The Top 12 Tycoon Games - Where Strategies Thrive and Profits Peak</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-expert-recommended-editors-for-crafting-top-facebook-videos/"><u>[New] In 2024, Expert-Recommended Editors for Crafting Top Facebook Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-live-tv-capture-on-computers-for-2024/"><u>Mastering Live TV Capture on Computers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-zero-30-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Zero 30 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insights-into-smooth-sound-transitions-crossfade/"><u>[Updated] Insights Into Smooth Sound Transitions (Crossfade)</u></a></li>
+</ul></div>

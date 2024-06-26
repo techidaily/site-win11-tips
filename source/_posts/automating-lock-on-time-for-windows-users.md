@@ -1,7 +1,7 @@
 ---
 title: Automating Lock-On Time for Windows Users
-date: 2024-06-24 15:58:39
-updated: 2024-06-26 11:37:34
+date: 2024-06-25T16:23:43.812Z
+updated: 2024-06-26T16:23:43.812Z
 tags:
   - windows10
   - windows11
@@ -102,9 +102,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Now, let's explore how you can change the screen saver timeout settings.
 
-### Use the System Settings
-
-![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+### Use the System Settings ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
  Here's how to change the duration of the screen saver using the system settings:
 
@@ -147,9 +145,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
-### Use the Registry Editor
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+### Use the Registry Editor ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
@@ -192,3 +188,27 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-elevating-your-wsl-2-and-docker-coexistence/"><u>A Guide to Elevating Your WSL 2 & Docker Coexistence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-engaging-photoshop-on-modern-windows-machines/"><u>Effortlessly Engaging Photoshop on Modern Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-gaming-how-to-fix-the-error-code-0x000-in-xbox-game-pass-on-windows-11/"><u>Streamlining Your Gaming: How to Fix the Error Code 0X000_ in Xbox Game Pass on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-steam-cloud-connection-problems/"><u>Correcting Steam Cloud Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-value-save-on-upgrade-with-windows-11-pro-key/"><u>Maximize Value, Save on Upgrade with Windows 11 Pro Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-downloads-for-windows-top-10-choices-revealed/"><u>Secure Downloads for Windows: Top 10 Choices Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-clearer-depths-with-instas-bokeh-effects/"><u>[Updated] Unlock Clearer Depths with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets-for-2024/"><u>Skyrocket on Instagram  Unveiling Your Path with Top 9 Secrets for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XS Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-10-female-youtubers-lastest/"><u>[Updated] In 2024, Top 10 Female YouTubers [Lastest]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/collaborative-video-workflows-for-content-growth-for-2024/"><u>Collaborative Video Workflows for Content Growth for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/understanding-the-advantages-manycams-multicam-recordings/"><u>Understanding the Advantages  ManyCam's MultiCam Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>Infuse Vibrancy  Mastering Music Integration in Social Media Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-creating-professional-quality-audio-integration-in-videos-on-the-cheap-3-budget-friendly-methods/"><u>New In 2024, Creating Professional-Quality Audio Integration in Videos on the Cheap 3 Budget-Friendly Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capture-kings-face-off/"><u>[New] In 2024, Capture Kings Face-Off</u></a></li>
+</ul></div>

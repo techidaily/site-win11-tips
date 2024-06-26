@@ -1,7 +1,7 @@
 ---
 title: Boost Your Language Skills Using Windows 10/11 Hotkeys
-date: 2024-06-22 21:41:54
-updated: 2024-06-25 12:57:26
+date: 2024-06-25T16:07:34.632Z
+updated: 2024-06-26T16:07:34.632Z
 tags:
   - windows10
   - windows11
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ## How to Translate Text in Windows Software With QTranslate
 
- QTranslate is among the[best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
+ QTranslate is among the [best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
 
-1. Open[the QTranslate](http://quest-app.appspot.com/home) website.
+1. Open [the QTranslate](http://quest-app.appspot.com/home) website.
 2. Click the**Download QTranslate** button.
 3. Press File Explorer’s button (the one with a folder library icon) on your taskbar.
 4. Go to whatever folder has the QTranslate setup file in it.
 5. Double-click the**Qtranslate.6.10.0.exe** installer file.
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
-7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+7. Open a website in a foreign language to try out the translator. For the sake of example, this [German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
@@ -55,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
- If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+ If you like translating text on the web, check out the [best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
 
-1. Open[the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
+1. Open [the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
 2. Select**Download Now** on that page, and click the**Softpedia Secure Download (US)** option.
 3. Double-click**DeepLSetup.exe** to install the software.
 4. After installing, DeepL will automatically start and prompt you to set up an account. However, you can skip it, as having one is not essential.
-5. Now open up this[French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
+5. Now open up this [French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
 6. Select a text passage to translate.
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
@@ -106,3 +106,26 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/microsofts-surface-laptop-go-3-gains-processor-yet-fails-to-shine/"><u>Microsoft's Surface Laptop Go 3 Gains Processor, Yet Fails to Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-image-perfection-with-windows-photos-app/"><u>Effortless Image Perfection with Windows Photos App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-critical-alerts-when-to-reset-windows/"><u>Nine Critical Alerts: When to Reset Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-slacks-missing-notifications-issue-in-win-11/"><u>Solving Slack's Missing Notifications Issue in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-valorants-speech-issues-on-pc/"><u>Resolving Valorant's Speech Issues on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-no-more-files-errors-in-win-11/"><u>Eliminating 'No More Files' Errors in Win 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac-for-2024/"><u>[Updated] A Game Changer for Gamers  Easy 5 Ways to Capture Your Minecraft Adventures (Mac) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-camera-technology-the-best-reviewed/"><u>[Updated] Pinnacle Camera Technology – The Best Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-sound-settings-win/"><u>[New] Optimal Sound Settings WIN</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/perfecting-your-digital-identity-step-by-step-for-the-voxal-voice-changer-for-2024/"><u>Perfecting Your Digital Identity Step-by-Step for the Voxal Voice Changer for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-c110-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from C110.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-simple-strategies-for-stellar-sports-highlights/"><u>[New] Simple Strategies for Stellar Sports Highlights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-gamers-choice-top-software-for-live-scenes/"><u>[Updated] In 2024, Gamers' Choice  Top Software for Live Scenes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-6-video-mergers-without-watermark/"><u>Updated 2024 Approved 6 Video Mergers Without Watermark</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 7 Plus</u></a></li>
+</ul></div>

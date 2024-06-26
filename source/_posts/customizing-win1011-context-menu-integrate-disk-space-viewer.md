@@ -1,7 +1,7 @@
 ---
 title: "Customizing Win10/11 Context Menu: Integrate Disk Space Viewer"
-date: 2024-06-22 10:41:49
-updated: 2024-06-24 12:22:15
+date: 2024-06-25T17:10:35.425Z
+updated: 2024-06-26T17:10:35.425Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
 
-1. First, open this[RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
+1. First, open this [RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
 2. Click**Download Now** to view location options for downloading the software.
 3. Select**Secure Download (US)** or**External mirror 1** depending on preference.
 4. Press**Win + E** to open File Explorer ([see how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for more methods) and double-click**RidNacs-2.03-Setup.exe** to open the app’s installer.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
 
-1. Open the[Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
+1. Open the [Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
@@ -100,3 +100,23 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-experience-implementing-superior-run-capabilities/"><u>Elevate Your Windows 11 Experience: Implementing Superior Run Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-the-frustration-of-inaccessible-windows-commands/"><u>Avoiding the Frustration of Inaccessible Windows Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-settings-unveiled/"><u>Windows 11 Settings Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solving-winservicesexe-issues/"><u>Guide to Solving Winservices.exe Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-flushed-to-functional-8-steps-for-desktop-color-correction/"><u>From Flushed to Functional: 8 Steps for Desktop Color Correction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fbx-the-ultimate-gaming-video-guide/"><u>FBX  The Ultimate Gaming Video Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>[Updated] The Dynamic Duo  YouTube & Instagram Story Collaboration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-celebrating-top-10-moba-play-android-edition/"><u>[Updated] Celebrating Top 10 MOBA Play  Android Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-mix-fold-3-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Mix Fold 3 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-a-chorus-of-images-and-sound-on-instagram/"><u>In 2024, Crafting a Chorus of Images & Sound on Instagram</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To  Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-n3-flip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find N3 Flip Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-animate-your-world-8-must-try-video-animation-apps-for-mobile/"><u>New In 2024, Animate Your World 8 Must-Try Video Animation Apps for Mobile</u></a></li>
+</ul></div>

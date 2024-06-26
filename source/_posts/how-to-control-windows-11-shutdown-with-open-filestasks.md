@@ -1,7 +1,7 @@
 ---
 title: How to Control Windows 11 Shutdown with Open Files/Tasks
-date: 2024-06-24 10:21:24
-updated: 2024-06-26 12:56:25
+date: 2024-06-25T16:12:10.780Z
+updated: 2024-06-26T16:12:10.780Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
 ## What Should You Try First?
 
- The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
+ The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an [app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
- Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+ Changing both these values involves [editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and [make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
 
-1. Open the Registry editor. See[how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
+1. Open the Registry editor. See [how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
 2. Navigate to the following folder in the registry:  
 `HKEY_CURRENT_USER\Control Panel\Desktop`
 3. In the pane on the right, look for the string named**WaitToKillAppTimeout** .
@@ -99,3 +99,27 @@ This will allow you to change the default value for all users.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reopen-battlenet-desktop-client-on-windows-os/"><u>Guide to Reopen Battle.net Desktop Client on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-text-selection-in-windows-compatible-pdfs/"><u>Mastering Text Selection in Windows-Compatible PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-11-troubleshooters-for-optimal-performance/"><u>Realigning Windows 11 Troubleshooters for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-keys-alert-restoring-order-in-windows/"><u>Stuck Keys Alert: Restoring Order in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-admin-level-execution-woes/"><u>Guiding Users Through Admin-Level Execution Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-random-restarts-on-windows-11-systems/"><u>Troubleshoot Random Restarts on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-typing-snippets-and-hotkeys-on-windows/"><u>Streamline Your Typing: Snippets & Hotkeys on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enrich-youtube-images-with-radiant-neon-effects-for-2024/"><u>Enrich YouTube Images  With Radiant Neon Effects for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-brevity-in-action-shortening-youtube-video-content/"><u>[New] Brevity in Action  Shortening YouTube Video Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-annotate-windows-photos-video-content/"><u>2024 Approved  Step-by-Step Guide to Annotate Windows Photos Video Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tailored-editing-for-impeccable-instagram-videos-for-2024/"><u>[Updated] Tailored Editing for Impeccable Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-gray-area-when-is-buying-views-acceptable-in-2024/"><u>Navigating the Gray Area  When Is Buying Views Acceptable, In 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[Updated] Collaborative Filmmaking  Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stars-brief-moment-analysis-for-2024/"><u>[Updated] Star's Brief Moment Analysis for 2024</u></a></li>
+</ul></div>

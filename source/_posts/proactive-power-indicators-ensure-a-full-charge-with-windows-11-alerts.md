@@ -1,7 +1,7 @@
 ---
 title: "Proactive Power Indicators: Ensure a Full Charge with Windows 11 Alerts"
-date: 2024-06-25 11:43:32
-updated: 2024-06-26 10:36:45
+date: 2024-06-25T16:55:35.988Z
+updated: 2024-06-26T16:55:35.988Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  Battery Notification is a Microsoft Store app you can utilize in Windows 11/10\. That app enables you to set both high and low-battery alert notifications. The basic app is freely available, but you can upgrade it to one with battery analytics for $4.99\. You can set up a fully charged notifier with Battery Notification as follows:
 
-1. Bring up the[Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
+1. Bring up the [Battery Notification](https://apps.microsoft.com/store/detail/battery-notification/9WZDNCRD31FK) app page in a browser.
 2. Click Battery Notification’s**Get in Store App** option.
 3. Select**Open in Microsoft Store** to access a download option for the app outside the browser.
 4. Click**Get** to install Battery Notification.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
 
-1. Bring up the[Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
+1. Bring up the [Battery Notifier](https://www.softpedia.com/get/System/System-Miscellaneous/Battery-Notifier.shtml) Softpedia page.
 2. Click**Download** to view a couple of location options.
 3. Select the**Secure Download (US)** location option.
 4. Click**File Explorer** (a taskbar button) to open up the folder containing the downloaded**BatteryNotifier.exe** file.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  You can also set custom sounds for the full battery charge notifier. Click the music folder icon below the**Full Battery** bar to view a file selection window. Then choose a music or sound file for the alarm and click**OK** .
 
- The**Launch at Startup** option there is a self-explanatory setting. That setting[adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
+ The**Launch at Startup** option there is a self-explanatory setting. That setting [adds the app to the Windows startup](https://www.makeuseof.com/windows-add-apps-startup/) when selected. Then you won’t need to manually start the app.
 
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  Alert Full Battery & Theft Alarm is an app with which you add a full battery charge notifier to Windows laptops and Android mobile devices, as it’s available on Google Play. It also provides an additional theft alarm for security. The upgraded version of the app ($1.49) shows your battery history. These are the steps for adding a full battery charge notifier with Full Battery & Theft Alarm.
 
-1. Open the[Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
+1. Open the [Full Battery & Theft Alarm](https://apps.microsoft.com/store/detail/full-battery-theft-alarm/9NBLGGH5XFKJ) MS Store page in a web browser.
 2. Select Full Battery & Theft Alarm’s**Get in Store app** option.
 3. Click**Open Microsoft Store** \>**Install** to download the app.
 4. Select the**Open** option for Full Battery & Theft Alarm in MS Store.
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
 
-1. Open Run by pressing**Win + R** (see[all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
+1. Open Run by pressing**Win + R** (see [all the ways to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
 2. Type**ms-settings:notifications** inside Run, and click that accessory’s**OK** option.
 3. Turn on the**Notifications** or**Get notifications** setting.  
 ![The Notifications option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notifications-option.jpg)
@@ -121,3 +121,26 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unblocking-pasting-feature-in-chrome-edge-firefox-oses/"><u>Unblocking Pasting Feature in Chrome, Edge, Firefox OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-hypervisorerror-blue-screen-on-windows-10-and-11/"><u>5 Ways to Fix the HYPERVISOR_ERROR Blue Screen on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-gaming-service-failures-on-pcs-and-laptops/"><u>How To Resolve Gaming Service Failures on PCs and Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-unseen-resurrect-off-screen-windows-in-win1011/"><u>Unlock the Unseen: Resurrect Off-Screen Windows in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-win11-personalized-volume-shortcuts/"><u>The Essentials of Win11 Personalized Volume Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-win-11-a-guide/"><u>Maximizing Cursor Visibility on Win 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-your-win11-boot-experience-steps-to-optimize-service-setups/"><u>Craft Your Win11 Boot Experience: Steps to Optimize Service Setups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-update-failure-navigating-disconnect-in-windows-discord/"><u>Post-Update Failure: Navigating Disconnect in Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-greyed-out-waste-bin-icon-in-win11/"><u>Restoring Greyed Out Waste Bin Icon in Win11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives/"><u>2024 Approved Unhappy with Final Cut Pro X? Try One of These 10 Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-phantom-v-fold-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Phantom V Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-xiaomi-redmi-12-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhancing-comments-with-emojis-on-youtube/"><u>[Updated] Enhancing Comments with Emojis on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/media-magic-which-social-site-captures-the-crowd-faster-in-2024-youtubes-or-tiktoks/"><u>Mini-Media Magic  Which Social Site Captures the Crowd Faster, In 2024 YouTubes or TikToks?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enablingdisabling-pip-on-youtube-for-ios-devices-step-by-step-guide/"><u>Enabling/Disabling PIP on YouTube for iOS Devices  Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-no-trouble-way-to-start-iphones-screen-snapshots/"><u>The No-Trouble Way to Start iPhone's Screen Snapshots</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-strategies-for-efficient-io-screen-recording-for-2024/"><u>Expert Strategies for Efficient IO Screen Recording for 2024</u></a></li>
+</ul></div>

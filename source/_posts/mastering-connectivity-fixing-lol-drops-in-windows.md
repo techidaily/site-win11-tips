@@ -1,7 +1,7 @@
 ---
 title: "Mastering Connectivity: Fixing LoL Drops in Windows"
-date: 2024-06-23 20:54:21
-updated: 2024-06-26 11:43:55
+date: 2024-06-25T16:25:55.676Z
+updated: 2024-06-26T16:25:55.676Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
 
-1. Go to the[Riot Games Server Status website](https://status.riotgames.com/) .
+1. Go to the [Riot Games Server Status website](https://status.riotgames.com/) .
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
 ## 2\. Rule Out Internet Issues
 
- If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
+ If Riot servers are fully active, your internet might be the problem. Test your internet speed using [free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
 
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
@@ -69,9 +69,7 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
 Proceed to the next step if the above checks and fixes do not help.
 
-## 3\. Connect to a Different Network
-
-![WiFi symbol seen on a smartphone next to a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secure-smartphone-hotspot.jpg)
+## 3\. Connect to a Different Network ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
@@ -83,7 +81,7 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Due to League of Legends' online nature, tens of requests are communicated between your device and Riot servers every second. Wide-scale communications can cause Windows Defender's firewall or your antivirus to consider this activity harmful and block the connection after a certain number of requests.
 
- To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on[whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
+ To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on [whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
 
  You will need to whitelist the EXE file, so here is the path to the executable:
 
@@ -104,9 +102,9 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ## 6\. Report the Problem to Riot Games
 
- Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
+ Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the [League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
- If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
+ If the support team asks about logs, run the [Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 ## Fix the League of Legends Disconnecting Issue
 
@@ -127,3 +125,24 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-start-system-file-verification-with-sfc/"><u>How to Start System File Verification with SFC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-learn-hotkeys-to-manage-your-pc/"><u>Windows Wizardry: Learn Hotkeys to Manage Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-auto-lock-and-screensaver-configurations/"><u>Mastering Auto-Lock & Screensaver Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-command-not-working-issue/"><u>Fixing Windows 11 Command Not Working Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-app-crash-common-issues-and-fixes/"><u>Resolving Windows App Crash: Common Issues & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desktops-uncluttered-remove-win11s-spotlight-symbol/"><u>Desktops Uncluttered: Remove Win11's Spotlight Symbol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-user-experience-combining-instagram-and-facebook/"><u>In 2024, Enhancing User Experience  Combining Instagram & Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-expert-guide-to-snagging-twitter-gifs-pc-for-2024/"><u>[New] Expert Guide to Snagging Twitter GIFs (PC) for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-preserve-audio-perfection-how-to-convert-video-to-mp3-with-zero-loss-for-2024/"><u>New Preserve Audio Perfection How to Convert Video to MP3 with Zero Loss for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-virtual-worlds-for-buddy-bonding-games/"><u>10 Virtual Worlds for Buddy Bonding Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ingenious-webcam-use-cases-at-home/"><u>In 2024, Ingenious Webcam Use Cases at Home</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Revamp the Way You Search on Windows 11
-date: 2024-06-23 20:46:46
-updated: 2024-06-25 11:12:34
+date: 2024-06-25T16:16:07.440Z
+updated: 2024-06-26T16:16:07.440Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
- Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
+ Using [Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
 
- The enhanced search extends the search to other parts of your PC, thereby improving the quality of your search results. This is done by[indexing the search results in Windows 11](https://www.makeuseof.com/windows-11-index-faster-search-results/) , which means storing information on these files to make them easily accessible by your PC during a search.
+ The enhanced search extends the search to other parts of your PC, thereby improving the quality of your search results. This is done by [indexing the search results in Windows 11](https://www.makeuseof.com/windows-11-index-faster-search-results/) , which means storing information on these files to make them easily accessible by your PC during a search.
 
  Usually, it is set to**Classic** by default on your PC; hence your search will be limited to certain prime locations on your computer. Turning on enhanced search will change this mode of operation.
 
@@ -119,3 +119,27 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/preventing-intrusions-top-7-windows-safeguarding-methods/"><u>Preventing Intrusions: Top 7 Windows Safeguarding Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-must-have-android-apps-for-windows-users/"><u>Nine Must-Have Android Apps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-startup-with-auto-auditory-restart-mechanism/"><u>Boosting System Startup with Auto Auditory Restart Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-a-neat-system-restart-in-windows-11/"><u>The Essential Guide to a Neat System Restart in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-an-inactive-windows-11-license/"><u>How to Reactivate an Inactive Windows 11 License</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-notepads-visual-transformation-with-dark-themes-windows/"><u>Master Notepad’s Visual Transformation with Dark Themes (Windows)</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-your-first-online-phenomenal-giveaway/"><u>In 2024, Crafting Your First Online Phenomenal Giveaway</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-future-of-playtime-analysis-beyond-fbx-solutions/"><u>In 2024, The Future of Playtime Analysis  Beyond FBX Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 12 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-guiding-users-through-sending-video-troubles-on-iphone-and-android-based-messenger-app/"><u>[New] 2024 Approved  Guiding Users Through Sending Video Troubles on iPhone and Android-Based Messenger App</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamline-your-viewing-capturing-hulu-on-windows-mac-ios/"><u>[New] 2024 Approved  Streamline Your Viewing  Capturing Hulu on Windows, Mac, iOS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bridging-platforms-uploading-from-twitch-to-youtube/"><u>In 2024, Bridging Platforms  Uploading From Twitch to YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-10-flawless-unmarked-video-access-for-tiktok-for-2024/"><u>[Updated] Top 10  Flawless, Unmarked Video Access for TikTok for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accessing-your-favorite-pins-top-5-no-fee-download-tools/"><u>2024 Approved  Accessing Your Favorite Pins  Top 5 No-Fee Download Tools</u></a></li>
+</ul></div>

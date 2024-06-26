@@ -1,7 +1,7 @@
 ---
 title: "Decoding Windows XPatch Puzzle: Error 0X80073712"
-date: 2024-06-22 11:27:32
-updated: 2024-06-24 11:51:26
+date: 2024-06-25T16:27:26.078Z
+updated: 2024-06-26T16:27:26.078Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ Here’s how to perform a complete system shutdown:
 
 Repeat the following steps to start the necessary services:
 
-1. Press**Win + R** to[launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
+1. Press**Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
 2. Services utility will launch on your system. Now locate the**Background Intelligent Transfer** service in the list.
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
@@ -79,15 +79,12 @@ Repeat the following steps:
 
 1. Open the Start menu and search CMD. Press Ctrl + Shift + Enter to open the command prompt with admin privileges.
 2. Type the following commands to stop all the Windows update-related services:  
- net stop wuauserv net stop cryptSvc net stop bits net stop msiserver  
-![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
+ net stop wuauserv net stop cryptSvc net stop bits net stop msiserver ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
- ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
-![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
+ ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
-net start wuauserv net start cryptSvc net start bits net start msiserver  
-![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
+net start wuauserv net start cryptSvc net start bits net start msiserver ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 7. Open the Windows update in Settings and try to download and install updates.
 
@@ -111,7 +108,7 @@ Retrace the following steps to delete the pending.xml file:
 
 ## 8\. Reset Windows
 
- Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+ Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning [how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as [SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
 
 ## Update Windows Without Hiccups
 
@@ -132,3 +129,27 @@ Retrace the following steps to delete the pending.xml file:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/old-hardware-new-horizinas-guiding-windows-11-22h2-installation/"><u>Old Hardware, New Horizinas: Guiding Windows 11 22H2 Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-forward-in-windows-video-management-integrate-tdarrs-distributed-capabilities/"><u>Leap Forward in Windows Video Management: Integrate Tdarr's Distributed Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-windows-11-22h2-issues-and-their-fixes/"><u>Common Windows 11 22H2 Issues and Their Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-hdr-on-windows-11-an-in-depth-explanation/"><u>Decoding HDR on Windows 11: An In-Depth Explanation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-geforce-experiences-retrieval-failure-on-windows-11-systems/"><u>Fixing GeForce Experience's Retrieval Failure on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-usb-connection-in-windows-11/"><u>Reestablishing USB Connection in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-steps-to-wipe-your-drives-partitions-in-windows/"><u>4 Easy Steps to Wipe Your Drive's Partitions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-erase-files-for-good-on-your-windows-11-and-11-desktop-bin/"><u>How to Erase Files for Good on Your Windows 11 & 11 Desktop Bin</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-curves-transforming-photos-in-ps/"><u>[Updated] Master Curves  Transforming Photos in PS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-what-does-pfp-mean-in-tiktok-a-complete-guide-for-2024/"><u>[Updated] What Does PFP Mean in TikTok?[ A Complete Guide] for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/epiccutter-pro-dynamic-pc-video-and-melody-assembly/"><u>EpicCutter Pro  Dynamic PC Video & Melody Assembly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[New] In 2024, Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-algorithm-boosting-instagram-engagement/"><u>[New] 2024 Approved  Mastering the Algorithm  Boosting Instagram Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-hd-android-video-player-apps-you-should-know/"><u>In 2024, 10 Best Hd Android Video Player Apps You Should Know</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-civi-3mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Civi 3Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-tiktok-downloads-quickly/"><u>[New] In 2024, Mastering the Art of TikTok Downloads Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a58-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A58 4G Location | Dr.fone</u></a></li>
+</ul></div>

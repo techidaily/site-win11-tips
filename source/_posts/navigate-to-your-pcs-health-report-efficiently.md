@@ -1,7 +1,7 @@
 ---
 title: Navigate to Your PC’s Health Report Efficiently
-date: 2024-06-23 12:56:44
-updated: 2024-06-25 12:23:14
+date: 2024-06-25T16:26:48.451Z
+updated: 2024-06-26T16:26:48.451Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
 
- Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to[run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
+ Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to [run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
 
  Now, here’s how to open the System Information tool using the Run command dialog box:
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 ## 5\. Use the System Settings
 
- You can always use the system settings to customize or repair the apps on your PC (see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
+ You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
 
  Here are the steps for opening the System Information app using the system settings:
 
@@ -122,9 +122,7 @@ Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
-## 9\. Use the Command Prompt or PowerShell
-
-![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+## 9\. Use the Command Prompt or PowerShell ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
@@ -136,9 +134,7 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
-## 10\. Use a System Information Desktop Shortcut
-
-![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+## 10\. Use a System Information Desktop Shortcut ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
@@ -172,3 +168,27 @@ Want to make the System Information tool easily accessible?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-csgo-launch-failures-on-w11/"><u>Troubleshooting CS:GO Launch Failures on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-altering-window-icons-distance-on-11plus-windows/"><u>Title: Altering Window Icons' Distance on 11+ Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-to-new-heights-with-collective-windows-11-folder-creation/"><u>Drive Efficiency to New Heights with Collective Windows 11 Folder Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-works-on-windows-11-or-11/"><u>How to Install Microsoft Works on Windows 11 or 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-failures-on-older-windows-versions/"><u>Troubleshooting Installer Failures on Older Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-digital-space-with-win-11-sketching-techniques/"><u>Redefine Your Digital Space with Win 11 Sketching Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-facebook-live-sharing-your-desktop-display/"><u>2024 Approved  Mastering Facebook Live  Sharing Your Desktop Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-for-smartphone-screenshots/"><u>[New] 2024 Approved  Advanced Techniques for Smartphone Screenshots</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stepwise-process-enhancing-document-editing-via-googles-speech-to-text/"><u>Stepwise Process  Enhancing Document Editing via Google's Speech-to-Text</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 11 | Stellar</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-screencasting-apps-that-transform-classroom-dynamics-for-2024/"><u>[New] Ideal Screencasting Apps That Transform Classroom Dynamics for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/breakthrough-ways-to-amplify-your-video-content-reach-for-2024/"><u>Breakthrough Ways to Amplify Your Video Content Reach for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-asus-rog-phone-7-ultimate-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Asus ROG Phone 7 Ultimate Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nexus-nightlife-virtual-theater-realm/"><u>Nexus Nightlife  Virtual Theater Realm</u></a></li>
+</ul></div>

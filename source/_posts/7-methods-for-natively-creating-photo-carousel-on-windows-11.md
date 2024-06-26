@@ -1,7 +1,7 @@
 ---
 title: 7 Methods for Natively Creating Photo Carousel on Windows 11
-date: 2024-06-25 17:22:18
-updated: 2024-06-26 12:24:21
+date: 2024-06-25T16:05:54.129Z
+updated: 2024-06-26T16:05:54.129Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 
 ## 2\. How to Set Up a Screensaver Slideshow
 
- If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that[screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
+ If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that [screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
 
 his is how you can set up a screensaver slideshow in Windows 11:
 
@@ -92,7 +92,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ## 5\. How to Set Up a Slideshow With Google Photos
 
- Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this[Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
+ Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this [Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
 
 1. Open Google Photos in Edge or another browser.
 2. If you don’t already have images saved there, click**Upload** \>**Computer** in Google Photos. Press the**Ctrl** key to choose some photos, and click the**Open** option.
@@ -110,7 +110,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
  Slides is a presentation web app of the G Suite you can also utilize with a Google Account. That app includes much more extensive options for setting up photo slideshows with different layouts, transition effects, animations, and captions than Google Photos. These are the steps for setting up a basic image slideshow with Slides:
 
-1. Open the[Google Slides](https://www.google.co.uk/slides/about/) homepage.
+1. Open the [Google Slides](https://www.google.co.uk/slides/about/) homepage.
 2. Click the**Go to Slides** button.
 3. Then select the**Blank** presentation option.
 4. Enter a title in the Untitled presentation box.
@@ -134,7 +134,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Click the**Slideshow** button to view the presentation.
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
- Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
+ Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our [how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -176,3 +176,26 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accurate-timekeeping-at-your-fingertips-winning-windows-timers/"><u>Accurate Timekeeping at Your Fingertips: Winning Windows Timers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-methods-for-windows-easy-access-center-entry/"><u>5 Methods for Windows Easy Access Center Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-game-bar-errors-on-underpowered-systems/"><u>Addressing Game Bar Errors on Underpowered Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-roblox-system-crashes/"><u>Steps to Rectify Roblox System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-ms-defender-block-on-other-av-tools/"><u>How to Circumvent MS Defender Block on Other AV Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-techniques-transform-mkv-videos-into-windows-mp4-files/"><u>Simple Techniques: Transform MKV Videos Into Windows MP4 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-stopped-netflix-app-in-windows/"><u>Reviving the Stopped Netflix App in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-acoustic-precision-navigating-through-audio-distortion-remedies/"><u>Updated In 2024, Acoustic Precision Navigating Through Audio Distortion Remedies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picture-perfect-on-the-move-quick-color-correction-for-2024/"><u>Picture Perfect on the Move  Quick Color Correction for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>2024 Approved  Time Efficient  A Comprehensive Guide to SRT to TXT Switching</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-video-restrictions-what-you-must-know/"><u>Instagram Video Restrictions  What You Must Know</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-family-fantasy-films-this-summers-best-10-classics/"><u>[New] Family Fantasy Films  This Summer's Best 10 Classics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-is-my-friends-account-invisible-potential-block/"><u>[New] In 2024, Is My Friend's Account Invisible? Potential Block</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-covert-codes-of-snapchats-emojis/"><u>[Updated] 2024 Approved  Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-achieving-perfection-the-art-of-live-broadcasting-on-discord/"><u>[New] 2024 Approved  Achieving Perfection  The Art of Live Broadcasting on Discord</u></a></li>
+</ul></div>

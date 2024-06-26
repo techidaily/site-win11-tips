@@ -1,7 +1,7 @@
 ---
 title: "Instant Windows Slide Show Setup: 7 Essential Steps"
-date: 2024-06-22 15:34:37
-updated: 2024-06-25 10:35:40
+date: 2024-06-25T16:24:54.093Z
+updated: 2024-06-26T16:24:54.093Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
 ## 2\. How to Set Up a Screensaver Slideshow
 
- If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that[screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
+ If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that [screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
 
 his is how you can set up a screensaver slideshow in Windows 11:
 
@@ -92,7 +92,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ## 5\. How to Set Up a Slideshow With Google Photos
 
- Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this[Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
+ Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this [Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
 
 1. Open Google Photos in Edge or another browser.
 2. If you don’t already have images saved there, click**Upload** \>**Computer** in Google Photos. Press the**Ctrl** key to choose some photos, and click the**Open** option.
@@ -110,7 +110,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
  Slides is a presentation web app of the G Suite you can also utilize with a Google Account. That app includes much more extensive options for setting up photo slideshows with different layouts, transition effects, animations, and captions than Google Photos. These are the steps for setting up a basic image slideshow with Slides:
 
-1. Open the[Google Slides](https://www.google.co.uk/slides/about/) homepage.
+1. Open the [Google Slides](https://www.google.co.uk/slides/about/) homepage.
 2. Click the**Go to Slides** button.
 3. Then select the**Blank** presentation option.
 4. Enter a title in the Untitled presentation box.
@@ -134,7 +134,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Click the**Slideshow** button to view the presentation.
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
- Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
+ Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our [how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -176,3 +176,24 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-disk-distinctions-c-and-d/"><u>A Guide to Understanding Disk Distinctions (C & D)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-methods-for-natively-creating-photo-carousel-on-windows-11/"><u>7 Methods for Natively Creating Photo Carousel on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selective-vmm-recommendations-for-windows-11-success/"><u>Selective VMM Recommendations for Windows 11 Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-work-with-multiple-displays-in-win11/"><u>Elevate Your Work with Multiple Displays in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-a-local-and-free-chatgpt-clone-on-your-windows-pc-with-gpt4all/"><u>Run a Local and Free ChatGPT Clone on Your Windows PC With GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-ceasing-random-windows-key-activation/"><u>Strategies for Ceasing Random Windows Key Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-performance-leading-winners-for-windows/"><u>Boost Performance: Leading Winners for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-roblox-frame-rates-on-windows-systems/"><u>Boosting Roblox Frame Rates on Windows Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-powerpoint-to-video-converters/"><u>2024 Approved  Best PowerPoint to Video Converters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-huawei-nova-y91-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Huawei Nova Y91 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-best-auto-music-mixer-for-mac/"><u>In 2024, Best Auto Music Mixer for Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-your-channels-a-guide-to-the-best-keyword-research-software/"><u>[Updated] Supercharge Your Channels  A Guide to the Best Keyword Research Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-tweet-integration-on-facebook-platform/"><u>2024 Approved  Seamless Tweet Integration on Facebook Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>[Updated] The Influencer's Blueprint  Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+</ul></div>

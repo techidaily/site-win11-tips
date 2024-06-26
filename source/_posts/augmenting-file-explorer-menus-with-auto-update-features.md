@@ -1,7 +1,7 @@
 ---
 title: Augmenting File Explorer Menus with Auto-Update Features
-date: 2024-06-23 21:14:27
-updated: 2024-06-25 12:34:46
+date: 2024-06-25T16:19:13.966Z
+updated: 2024-06-26T16:19:13.966Z
 tags:
   - windows10
   - windows11
@@ -96,3 +96,34 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
  Select that shortcut to keep an eye out for new updates regularly. When optional updates are available, you’ll see them listed on the tab with **Download and install** options. Clicking **Check for updates** will automatically download and install available updates.
 
  To ensure your Windows 11/10 PC has all the patch updates available for it, it’s a good idea to check for new ones via Settings. The **Windows Update** tab includes a **Check for updates** button. You can add a shortcut for that tab to the desktop’s context menu with the method below.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-mechanism-behind-windows-sound-graph-isolation/"><u>The Mechanism Behind Windows Sound Graph Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-drive-discovering-excessive-disk-space-consumers/"><u>Declutter Your Drive: Discovering Excessive Disk Space Consumers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-strategies-for-unlocking-store-apps-directory/"><u>Proven Strategies for Unlocking Store Apps Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stabilizing-dwarf-fortress-on-win/"><u>Solutions for Stabilizing Dwarf Fortress on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-nvidia-gl-driver-issue-3-on-win11/"><u>Expert Fixes for NVIDIA GL Driver Issue #3 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-chrome-freeze-and-blank-screens/"><u>Fixing the Chrome Freeze and Blank Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-media-projects-engaging-with-windows-11-movie-maker-for-2024/"><u>Elevate Media Projects  Engaging with Windows 11 Movie Maker for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-effortless-video-size-transformation-on-macos/"><u>[Updated] The Art of Effortless Video Size Transformation on MacOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-concluding-your-instagram-journey-a-detailed-breakdown/"><u>2024 Approved  Concluding Your Instagram Journey  A Detailed Breakdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files/"><u>[Updated] 2024 Approved  Easy Sound Transformation  IOS Tools to Convert YouTube Songs to MP3 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoid-common-errors-while-spinning-videos-in-android-apps/"><u>In 2024, Avoid Common Errors While Spinning Videos in Android Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcasting-brilliance-share-your-twitch-stream-on-fb/"><u>In 2024, Broadcasting Brilliance  Share Your Twitch Stream on FB</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-burn-photos-to-dvd-how-to-burn-photos-to-dvd-with-transitions-and-music/"><u>New In 2024, Burn Photos to DVD | How to Burn Photos to DVD with Transitions and Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-session-identifier-generator/"><u>[New] Top-Tier Session Identifier Generator</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top15-apps-and-websites-to-use-to-add-music-to-a-video-for-2024/"><u>New Top15 Apps & Websites to Use to Add Music to a Video for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unveiling-the-finest-no-cost-recording-software-today/"><u>[New] In 2024, Unveiling the Finest No-Cost Recording Software Today</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

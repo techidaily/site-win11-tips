@@ -1,7 +1,7 @@
 ---
 title: Making Your Mouse Cursor Stand Out on Windows Devices
-date: 2024-06-24 23:11:26
-updated: 2024-06-26 11:26:34
+date: 2024-06-25T16:50:05.646Z
+updated: 2024-06-26T16:50:05.646Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
 
-1. Use**Win + I** to open up Settings (see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
+1. Use**Win + I** to open up Settings (see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
 2. Select**Bluetooth & devices** in Windows 11’s Settings app. You’ll need to select the**Devices** category in Windows 10.
 3. Click**Mouse** to view settings for that device type.
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  If you would prefer to add a permanent color highlight to the cursor, check out the Mouse Pointer Highlight app. That freely available adds a transparent color circle to the cursor. This is how you can highlight the cursor with Mouse Pointer Highlight:
 
-1. Open the[Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
+1. Open the [Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
 2. Then click**Get in Store** app to bring up a dialog for opening Microsoft Store.
 3. Press that dialog’s**Open Microsoft Store** option.
 4. Then click Mouse Pointer Highlight’s**Install** button.
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
 ## How to Highlight the Cursor With PowerToys
 
- PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
+ PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our [best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
 
  PowerToys includes a**Mouse utilities** tab from which you can enable a color highlight circle for your cursor. You can set mouse cursor highlighting with PowerToys like this:
 
-1. Open the[Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
+1. Open the [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
 2. Click**Get in Store** and the Open Microsoft Store options.
 3. Select**Install** to add PowerToys to your app library.
 4. Now open PowerToys, which you’ll find on your Start menu’s app list.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
 
-1. Open the[Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
+1. Open the [Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
@@ -123,3 +123,22 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/1719283991472-update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-photo-gallery-functions-on-windows-pc/"><u>Unlocking Photo Gallery Functions on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-your-windows-11s-application-arcade/"><u>Effortless Entry Into Your Windows 11'S Application Arcade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-startup-the-comprehensive-guidebook/"><u>Master Your Windows Startup: The Comprehensive Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-wins-protection-messages/"><u>Fixing Erroneous WINS Protection Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-digital-containers-file-prop-techniques/"><u>Navigating Digital Containers: File Prop Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inactive-windows-system-voices/"><u>Addressing Inactive Windows System Voices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-new-heights-top-10-adventure-channels-for-2024/"><u>[New] Discover New Heights  Top 10 Adventure Channels for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-guide-to-vimeo-video-host-and-share-site/"><u>[New] In 2024, A Guide to Vimeo  Video Host & Share Site</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-video-recovery-recover-deleted-videos-from-nubia-by-fonelab-android-recover-video/"><u>Nubia Video Recovery - Recover Deleted Videos from Nubia</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-sprint-time-strategies-comprehensive-guide-to-quick-audible-clarity-restoration/"><u>2024 Approved Sprint-Time Strategies Comprehensive Guide to Quick Audible Clarity Restoration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-invisible-lines-in-virtual-meetings-for-2024/"><u>[New] The Ultimate Guide to Invisible Lines in Virtual Meetings for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2013-files-easily-stellar-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2013 Files Easily | Stellar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-fareless-webcam-viewer-with-recording-for-2024/"><u>[Updated] Top Fareless Webcam Viewer with Recording for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+</ul></div>

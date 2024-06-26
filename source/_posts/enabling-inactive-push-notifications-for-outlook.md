@@ -1,7 +1,7 @@
 ---
 title: Enabling Inactive Push Notifications for Outlook
-date: 2024-06-24 19:48:37
-updated: 2024-06-26 12:23:40
+date: 2024-06-25T17:07:56.812Z
+updated: 2024-06-26T17:07:56.812Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ## 1\. Disable Offline Mode in Outlook
 
- First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if[Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
+ First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if [Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
 
 You can fix this by disabling offline mode in Outlook:
 
@@ -46,7 +46,7 @@ Follow these steps to check Outlook’s notification settings:
 
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
- Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
+ Windows allows you to [manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
 
 1. Press**Win + I** to open the**Settings** app.
 2. In the**System** tab, select**Notifications** . Make sure notifications are enabled on your PC.
@@ -154,3 +154,24 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/guides-to-restore-lock-screen-timeout-mechanism/"><u>Guides to Restore Lock Screen Timeout Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-fresh-perspective-key-modifications-in-windows-11-marketplace/"><u>A Fresh Perspective: Key Modifications in Windows 11' Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-7-steps-to-mend-obs-server-link-error-in-windows/"><u>Navigating 7 Steps to Mend OBS Server Link Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-the-limits-of-solid-state-drives-on-windows-with-ssdfresh/"><u>Pushing the Limits of Solid State Drives on Windows with SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-windows-11-default-applications/"><u>Step-by-Step: Changing Windows 11 Default Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-shortage-of-physical-storage-space-vm-errors/"><u>Resolving Shortage of Physical Storage Space (VM) Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-pova-5-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Pova 5 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-beyond-fcpx-10-top-video-editing-software-solutions-for-every-budget-for-2024/"><u>Updated Beyond FCPX 10 Top Video Editing Software Solutions for Every Budget for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-curated-audio-experience-on-android/"><u>[Updated] Expertly Curated Audio Experience on Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>[New] Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a79-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A79 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-12-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 12 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-no-paywalls-here-learn-how-to-record-and-save-your-youtube-experience-for-free/"><u>2024 Approved  No Paywalls Here! Learn How To Record and Save Your YouTube Experience For Free</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-where-to-find-free-public-domain-videos-for-any-project/"><u>Updated 2024 Approved Where to Find Free Public Domain Videos for Any Project</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapseed-basics-your-first-steps-in-enhancing-images/"><u>Snapseed Basics  Your First Steps in Enhancing Images</u></a></li>
+</ul></div>

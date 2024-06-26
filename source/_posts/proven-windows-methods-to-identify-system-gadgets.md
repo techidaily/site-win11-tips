@@ -1,7 +1,7 @@
 ---
 title: Proven Windows Methods to Identify System Gadgets
-date: 2024-06-22 13:27:50
-updated: 2024-06-25 10:52:16
+date: 2024-06-25T16:08:59.352Z
+updated: 2024-06-26T16:08:59.352Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Now, let’s check out how you can use the Device Manager to search for the hardware IDs:
 
-1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out[the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + Run** to open the Run command dialog box. Alternatively, check out [the various ways to access the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**devmgmt.msc** and press**Enter** to open the Device Manager.
 3. Expand the category for the device you want to look up. For example, expand the**Keyboards** category if you want the hardware ID for your keyboard.
 4. Right-click on the relevant device and select**Properties** .
@@ -41,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-## 2\. Use the Command Prompt
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+## 2\. Use the Command Prompt ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -83,7 +81,7 @@ Let’s check out the steps you need to follow:
 
 ## 3\. Use PowerShell
 
- Alternatively, you can also check the hardware IDs using[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
+ Alternatively, you can also check the hardware IDs using [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
 
  Let’s explore how you can check the hardware IDs using this tool:
 
@@ -132,7 +130,7 @@ Let’s check out the steps you need to follow:
 
  Let’s check out how you can install this tool and use it to check the hardware IDs:
 
-1. Download and install the[Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
+1. Download and install the [Windows Drivers Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads) from the Microsoft website. When you're on the site, head to the**Step 2: Install the WDK** section and pick an app that’s compatible with your device.
 2. Once you’ve installed the tool, open**File Explorer** and navigate to **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 10 > Tools** . If you’re using Windows 11, the path should be **This PC > Local Disk (C:) > Program Files (x86) > Windows Kits > 11 > Tools** .
 3. Access the**x64** (64-bit) folder if you're using a 64-bit device or the**x86** (32-bit) folder if you use a 32-bit PC. If you’re unsure what to pick,[check your Windows PC specs](https://www.makeuseof.com/ways-to-check-your-windows-10-essential-pc-specs/) first.
 
@@ -159,7 +157,7 @@ Once you’re in the correct folder, follow these steps:
 
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
- If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+ If you want to explore the Device Console in detail, check out [the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -182,3 +180,22 @@ Once you’re in the correct folder, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/drive-down-compilation-times-with-android-studio-tweaks-on-windows/"><u>Drive Down Compilation Times with Android Studio Tweaks on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-frozen-windows-safety-mode/"><u>Enhancing Efficiency of Frozen Windows Safety Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-what-sets-ai-hardware-on-a-distinct-path/"><u>Analyzing What Sets AI Hardware on a Distinct Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-0x80004005-failure-message/"><u>Resolving Virtualbox's 0X80004005 Failure Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-activate-folder-restrictions-in-windows/"><u>Step-by-Step Guide to Activate Folder Restrictions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-list-of-premium-internet-recorders-2023/"><u>[Updated] In 2024, Ultimate List of Premium Internet Recorders 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sticker-perfection-ranking-the-top-10-apps-for-ios-and-android-photos-for-2024/"><u>Sticker Perfection  Ranking the Top 10 Apps for iOS and Android Photos for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-syncing-symphony-with-cinema-top-15-online-platforms-and-software-for-audio-visual-fusion-in-media-projects-for-2024/"><u>New Syncing Symphony with Cinema Top 15 Online Platforms and Software for Audio-Visual Fusion in Media Projects for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-experience-a-compreayers-guide-to-selecting-the-best-4k-screen/"><u>Elevate Your Experience  A Compreayer's Guide to Selecting the Best 4K Screen</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-the-power-of-slow-mo-top-10-video-players/"><u>New In 2024, Unleash the Power of Slow Mo Top 10 Video Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x5-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X5 on Mac?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unveiling-advanced-screen-capture-methods/"><u>[Updated] 2024 Approved  Unveiling Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-discover-the-best-ways-to-convert-youtube-videos-to-mp3-files/"><u>Updated In 2024, Discover the Best Ways to Convert YouTube Videos to MP3 Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mastering Map Integration in Windows
-date: 2024-06-22 15:29:29
-updated: 2024-06-25 11:56:12
+date: 2024-06-25T17:01:53.531Z
+updated: 2024-06-26T17:01:53.531Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,7 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
-### How to Uninstall Google Maps Added via Edge
-
-![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
+### How to Uninstall Google Maps Added via Edge ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
@@ -61,9 +59,7 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
-### How to Uninstall a Google Maps Shortcut Added via Chrome
-
-![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
+### How to Uninstall a Google Maps Shortcut Added via Chrome ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -81,3 +77,29 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
  Alternatively, give the built-in Microsoft Maps a try. It lets you download maps for offline navigation and offers other nifty features, including favorite places, maps collection, annotation tools to create markings on the map, and more.
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-upcoming-license-expiration-error-in-w10w11/"><u>Addressing Upcoming License Expiration Error in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-comparison-dissecting-key-differences-between-local-and-microsoft-logins-in-os/"><u>In-Depth Comparison: Dissecting Key Differences Between Local & Microsoft Logins in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-inactive-printer-on-pcs/"><u>Winning Back Your Inactive Printer on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-live-feed-rates-on-task-monitor-win-11/"><u>Improve Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-roblox-system-crashes/"><u>Steps to Rectify Roblox System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-windows-on-steam-deck-made-simple/"><u>Setting Up Windows on Steam Deck Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-no-charge-subtitle-makers-srt-for-2024/"><u>The Ultimate Guide to No-Charge Subtitle Makers (SRT) for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c65-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts/"><u>DJI Quadcopters Groups  Fundamentals, Advanced Configurations, HD Experts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-visual-communication-a-comprehensive-guide-to-using-gifs-on-the-discord-platform/"><u>In 2024, Mastering Visual Communication  A Comprehensive Guide to Using GIFs on the Discord Platform</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cutting-edge-content-sharing-your-guide-to-youtubeplustiktok-linkup/"><u>2024 Approved  Cutting-Edge Content Sharing  Your Guide to YouTube+TikTok Linkup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-framework-for-crafting-compelling-live-video-thumbnails/"><u>[New] The Ultimate Framework for Crafting Compelling Live Video Thumbnails</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-syncing-your-presence-in-real-time-tiktoks/"><u>2024 Approved  Syncing Your Presence in Real-Time TikToks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-master-your-stream-best-cameras-to-capture-every-moment-on-twitch-for-2024/"><u>[Updated] Master Your Stream  Best Cameras to Capture Every Moment on Twitch for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

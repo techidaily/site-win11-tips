@@ -1,7 +1,7 @@
 ---
 title: Understanding Xbox App's Voice Issues in Windows
-date: 2024-06-22 19:42:41
-updated: 2024-06-25 12:23:10
+date: 2024-06-25T16:35:14.787Z
+updated: 2024-06-26T16:35:14.787Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
  The Recording Audio troubleshooter can be helpful for fixing many microphone-related issues in Windows. So, maybe it will help some users fix this Xbox app microphone issue. You can open the Recording Audio troubleshooter from the Control Panel in both Windows 11/10 like this:
 
-1. Open Run (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for methods) and type in**Control Panel** in its**Open** box.
+1. Open Run (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for methods) and type in**Control Panel** in its**Open** box.
 2. Select**OK** to open a Control Panel window.
 3. If you’re in the category view, click**Large icons** on the**View by** menu.  
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/large-icons-option.jpg)
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
  Windows has microphone permission settings that need to be enabled for the Xbox app to pick up sound. So, make sure microphone access is allowed for the Xbox app. This is how you can enable microphone access for the Xbox app on Windows:
 
-1. To open Settings, press the**Windows** logo and**I** keyboard keys simultaneously. Check out[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways.
+1. To open Settings, press the**Windows** logo and**I** keyboard keys simultaneously. Check out [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways.
 2. Click the**Privacy** Settings**category** or**tab** .
 3. Select**Microphone** to view mic app options.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
 ## 6\. Reset the Xbox App
 
- The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
+ The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our [how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
 
@@ -105,11 +105,11 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
 ## 8\. Reinstall the Xbox App
 
- The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+ The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in [how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
- After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
+ After uninstalling the Xbox app, open its [Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -129,3 +129,24 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-mechanism-behind-windows-sound-graph-isolation/"><u>The Mechanism Behind Windows Sound Graph Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-checklist-for-dolby-atmos-installation-in-windows/"><u>The Essential Checklist for Dolby Atmos Installation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-troubled-tracker-fixes-for-frozen-torrents/"><u>Tackling the Troubled Tracker: Fixes for Frozen Torrents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-initiate-sfc-process-in-windows-1087/"><u>Steps to Initiate SFC Process in Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstate-your-devices-access-post-error-22/"><u>Guide to Reinstate Your Device's Access Post Error 22</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sns-vs-competitors-a-critical-hdr-software-comparison/"><u>[Updated] SNS vs Competitors  A Critical HDR Software Comparison</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-the-full-capabilities-of-windows-11-for-2024/"><u>[New] Unlocking the Full Capabilities of Windows 11 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2022-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2022)? Learn All 4 Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-beginners-handbook-to-harnessing-the-power-of-movie-maker-in-windows-11-for-2024/"><u>A Beginner's Handbook to Harnessing the Power of Movie Maker in Windows 11 for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-engaging-audiennas-a-captivate-presentation-guide-for-2024/"><u>[New] Engaging Audiennas  A Captivate Presentation Guide for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-efficient-methods-for-turning-whatsapp-audio-into-mp3-files-in-minutes-for-2024/"><u>New Efficient Methods for Turning WhatsApp Audio Into MP3 Files in Minutes for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/cut-trim-and-share-the-top-free-online-video-editing-platforms/"><u>Cut, Trim, and Share The Top Free Online Video Editing Platforms</u></a></li>
+</ul></div>

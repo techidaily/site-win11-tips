@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Workflow: Paste & Mouse Jump Techniques"
-date: 2024-06-21 20:10:57
-updated: 2024-06-24 12:57:49
+date: 2024-06-25T16:16:26.851Z
+updated: 2024-06-26T16:16:26.851Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ## What Is the "Paste as Plain Text" Feature in PowerToys?
 
- Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any[free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
+ Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any [free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
 
  You can use**Ctrl + Shift + V** as a workaround to paste as plain text, but that doesn’t work with applications like Microsoft Word. So, it is not a permanent solution to remove source formatting from the text.
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ## How to Enable and Use the "Paste as Plain Text" Feature in PowerToys
 
- This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or[download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
+ This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or [download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
 
 1. Launch PowerToys on your system. Go to the left-hand side menu and click on the**Paste as Plain Text** option.
 2. Click on the**toggle** next to the**Enable Paste As Plain Text** option to enable the feature.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
  Mouse Jump aims to fix a fatal flaw while using a widescreen multiple display setup. The screen is so wide that it becomes impossible for the user to drag the mouse across the screen without lifting it once or twice. Laptop users have to suffer even more due to the small size of the trackpad.
 
- You can fix these annoyances with a[dual-monitor management app for Windows](https://www.makeuseof.com/software-manage-dual-monitors/) , but Mike Clayton already had a tool called[FancyMouse on GitHub](https://github.com/mikeclayton/FancyMouse) . But now he merged the tool with PowerToys which is great news for all power users.
+ You can fix these annoyances with a [dual-monitor management app for Windows](https://www.makeuseof.com/software-manage-dual-monitors/) , but Mike Clayton already had a tool called [FancyMouse on GitHub](https://github.com/mikeclayton/FancyMouse) . But now he merged the tool with PowerToys which is great news for all power users.
 
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
 
@@ -80,3 +80,23 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-display-at-operating-system-kickoff/"><u>Resolving Non-Display at Operating System Kickoff</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-the-difference-between-the-c-drive-and-the-d-drive/"><u>What's the Difference Between the C: Drive and the D: Drive?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-system-exploration-in-win11-6-keyways-to-duplicating-file-and-folder-paths/"><u>File System Exploration in Win11: 6 Keyways to Duplicating File and Folder Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ingenious-approach-to-hide-win-11s-taskbar-icon/"><u>Ingenious Approach to Hide Win 11'S Taskbar Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-graphic-design-to-daily-use-ai-in-windows/"><u>From Graphic Design to Daily Use: AI in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-csgo-launch-failures-on-w11/"><u>Troubleshooting CS:GO Launch Failures on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-superuser-access-challenges/"><u>Tackling Windows' Superuser Access Challenges</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-audio-content-in-vimeo-using-mp3-technology/"><u>In 2024, Unlock Audio Content in Vimeo Using MP3 Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-excellent-audio-capture-on-demand/"><u>[New] In 2024, Excellent Audio Capture on Demand</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-visual-harmony-a-color-grading-journey/"><u>[Updated] Crafting Visual Harmony  A Color Grading Journey</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>2024 Approved Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-the-directors-domain-comprehensive-guide-to-2024/"><u>[New] Inside the Director's Domain  Comprehensive Guide to 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-the-world-of-ustream-plus-alternatives/"><u>[Updated] Inside the World of Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-maintain-proper-aspect-ratio-for-tweeted-movies/"><u>[New] Maintain Proper Aspect Ratio for Tweeted Movies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-entry-points-creating-an-account/"><u>[Updated] Twitters' Entry Points  Creating an Account</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-pro-in-video-enhancement-vce-22-guide/"><u>2024 Approved  Becoming a Pro in Video Enhancement - VCE 2.2 Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Workarounds for Static Energy Controls on Windows 11
-date: 2024-06-23 18:11:45
-updated: 2024-06-25 11:37:41
+date: 2024-06-25T16:10:08.089Z
+updated: 2024-06-26T16:10:08.089Z
 tags:
   - windows10
   - windows11
@@ -75,8 +75,7 @@ Follow these steps to proceed:
 2. Type cmd in the text field of Run and press Ctrl + Shift + Enter to open Command Prompt with administrative privileges.
 3. Click**Yes** in the User Account Control prompt.
 4. Once you are inside the Command Prompt window, type the command mentioned below and hit Enter to execute it:  
-powercfg –restoredefaultscheme  
-![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
+powercfg –restoredefaultscheme ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -122,3 +121,22 @@ Hopefully, this will resolve the issue.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/making-websites-windows-programs-a-tutorial/"><u>Making Websites Windows Programs: A Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-and-solving-the-mystery-of-error-0x8007251d/"><u>Unpacking and Solving the Mystery of Error 0X8007251d</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-default-file-savings-in-windows-pcs/"><u>How to Solve Default File Savings in Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bf-price-war-save-612-on-endless-win10-lifetime-life/"><u>BF Price War: Save $6.12 on Endless Win10 Lifetime Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-missing-device-camera-in-windows-11/"><u>Steps to Correct Missing Device: Camera in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-utilizing-toolbar-features-in-microsofts-pcm-win11/"><u>Navigating and Utilizing Toolbar Features in Microsoft's PCM Win11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-regular-payment-structures-in-youtuber-economics/"><u>[New] Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-world-with-a-vr-headset/"><u>[Updated] Exploring the World with a VR Headset</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unify-your-visual-style-color-matching-techniques-for-powerdirector/"><u>Updated 2024 Approved Unify Your Visual Style Color Matching Techniques for PowerDirector</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/bumper-bliss-kids-car-games-galore/"><u>Bumper Bliss  Kids Car Games Galore</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-club-craft-how-to-download-best-dj-vids/"><u>[New] In 2024, Club Craft  How to Download Best DJ Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reimagining-action-recording-with-intova-edge-x/"><u>2024 Approved  Reimagining Action Recording with Intova Edge X</u></a></li>
+</ul></div>

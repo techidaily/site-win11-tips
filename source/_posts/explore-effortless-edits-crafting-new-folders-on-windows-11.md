@@ -1,7 +1,7 @@
 ---
 title: "Explore Effortless Edits: Crafting New Folders on Windows 11"
-date: 2024-06-22 12:26:34
-updated: 2024-06-24 12:27:47
+date: 2024-06-25T16:15:41.951Z
+updated: 2024-06-26T16:15:41.951Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
 To create a new folder using File Explorer's menu:
 
-1. Press**Win + E** or use one of[many ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** or use one of [many ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Navigate to the location where you want to create a new folder.
 3. Click the**New** button in the top-left corner of File Explorer and select**Folder** from the list.
 4. Give your folder a suitable name, and then press**Enter** .  
@@ -50,17 +50,17 @@ To create a new folder using File Explorer's menu:
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
- For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
+ For more such useful shortcuts, why not check our [ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
- Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to[create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
+ Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to [create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
 
  You can use Command Prompt or Windows PowerShell to create new folders on Windows. Here are the steps you need to follow:
 
 1. Use the**Win + S** keyboard shortcut to open Windows Search.
 2. Type**Command Prompt** or**PowerShell** in the search box and select**Run as administrator** .
-3. Select**Yes** when the[User Account Control (UAC) prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) appears.
+3. Select**Yes** when the [User Account Control (UAC) prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) appears.
 4. In the console, type the following command and press**Enter** to navigate to the location where you want to create a new folder. Make sure you replace**Directory** in the following command with the actual directory location where you want to create the folder.  
 `cd Directory`
 5. Next, type**mkdir** followed by the name of the folder you wish to create and press**Enter** . For instance, if you were to create a folder named**Work** , you'd type the following command:  
@@ -89,3 +89,27 @@ To create a new folder using File Explorer's menu:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/steps-for-windows-11-calculator-activation/"><u>Steps for Windows 11 Calculator Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-the-power-of-combined-android-and-windows-11-displays/"><u>Leveraging the Power of Combined Android & Windows 11 Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-setup-failure-windows-11-edition/"><u>Resolving GeForce Experience Setup Failure, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-xbox-game-pass-fatal-error-code-0-on-windows-11/"><u>Resolving Xbox Game Pass Fatal Error Code 0 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refining-windows-11-for-superior-usability/"><u>Refining Windows 11 for Superior Usability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-dxgi-error-messages-windows-1011/"><u>Navigating Through DXGI Error Messages (Windows 10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-managing-your-network-proxy/"><u>Windows 11: Managing Your Network Proxy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insiders-guide-how-to-buy-a-future-ready-360-camera/"><u>In 2024, Insider's Guide  How to Buy a Future-Ready 360 Camera</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-windows-movie-maker-download-a-step-by-step-guide/"><u>2024 Approved Free Windows Movie Maker Download A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cloaking-in-content-an-introduction-to-video-smoothing/"><u>In 2024, Cloaking in Content  An Introduction to Video Smoothing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>In 2024, The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y27s-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y27s Reset Code | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 14 Plus? How to Fix</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-in-high-def-the-best-video-software-for-2024/"><u>Updated Edit in High-Def The Best Video Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-basic-the-advanced-techniques-of-youtube-counts-for-2024/"><u>[Updated] Beyond Basic  The Advanced Techniques of YouTube Counts for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-fold-5-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Fold 5 Phone FRP Lock</u></a></li>
+</ul></div>

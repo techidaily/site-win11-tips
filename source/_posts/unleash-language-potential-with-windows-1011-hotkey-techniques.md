@@ -1,7 +1,7 @@
 ---
 title: Unleash Language Potential with Windows 10/11 Hotkey Techniques
-date: 2024-06-21 15:22:46
-updated: 2024-06-24 12:40:34
+date: 2024-06-25T17:10:20.166Z
+updated: 2024-06-26T17:10:20.166Z
 tags:
   - windows10
   - windows11
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
 ## How to Translate Text in Windows Software With QTranslate
 
- QTranslate is among the[best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
+ QTranslate is among the [best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
 
-1. Open[the QTranslate](http://quest-app.appspot.com/home) website.
+1. Open [the QTranslate](http://quest-app.appspot.com/home) website.
 2. Click the**Download QTranslate** button.
 3. Press File Explorer’s button (the one with a folder library icon) on your taskbar.
 4. Go to whatever folder has the QTranslate setup file in it.
 5. Double-click the**Qtranslate.6.10.0.exe** installer file.
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
-7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+7. Open a website in a foreign language to try out the translator. For the sake of example, this [German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
@@ -55,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
- If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+ If you like translating text on the web, check out the [best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
 
-1. Open[the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
+1. Open [the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
 2. Select**Download Now** on that page, and click the**Softpedia Secure Download (US)** option.
 3. Double-click**DeepLSetup.exe** to install the software.
 4. After installing, DeepL will automatically start and prompt you to set up an account. However, you can skip it, as having one is not essential.
-5. Now open up this[French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
+5. Now open up this [French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
 6. Select a text passage to translate.
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
@@ -106,3 +106,26 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/making-your-mouse-cursor-stand-out-on-windows-devices/"><u>Making Your Mouse Cursor Stand Out on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-image-import-error-with-apple-devices-step-by-step/"><u>Resolving Windows 11'S Image Import Error with Apple Devices Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-older-systems-healthy-with-win10-improvements/"><u>Keep Older Systems Healthy with Win10 Improvements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-computer-management-not-opening-on-windows-11/"><u>5 Ways to Fix Computer Management Not Opening on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-troubled-windows-11-calendars/"><u>Resetting Techniques for Troubled Windows 11 Calendars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-windows-hosts-overuse-a-guide/"><u>Reducing Windows Host's Overuse: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-system-call-issues-on-modern-windows/"><u>How to Eradicate System Call Issues on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/w11-addressing-undetected-additional-monitor/"><u>W11: Addressing Undetected Additional Monitor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-desktop-image-merging-tips/"><u>[New] Professional Desktop Image Merging Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>2024 Approved  Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-coordinating-multiple-channels-on-one-screen/"><u>[Updated] 2024 Approved  Coordinating Multiple Channels on One Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-broadcasting-videos-to-twitter-from-mobile-devices-only/"><u>[New] In 2024, Broadcasting Videos to Twitter From Mobile Devices Only</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-peeling-back-layers-what-hides-beneath-each-snapchat-emoji/"><u>[Updated] In 2024, Peeling Back Layers  What Hides Beneath Each Snapchat Emoji?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tricks-to-taper-down-video-playback-speed-in-snapchat/"><u>2024 Approved  Tricks to Taper Down Video Playback Speed in Snapchat</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-note-30-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Note 30 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unveiling-the-mystery-of-facebooks-status-video-downloads/"><u>[Updated] In 2024, Unveiling the Mystery of Facebook's Status Video Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streaming-your-way-to-animated-gifs-from-youtube-videos/"><u>In 2024, Streaming Your Way to Animated GIFs From YouTube Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 12 mini</u></a></li>
+</ul></div>

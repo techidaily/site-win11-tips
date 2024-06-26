@@ -1,7 +1,7 @@
 ---
 title: Strategies for Clearing Admin Not Allowed Message in OS
-date: 2024-06-23 20:26:47
-updated: 2024-06-24 12:13:58
+date: 2024-06-25T17:08:29.798Z
+updated: 2024-06-26T17:08:29.798Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 ## 1\. Change Your User Account to an Admin Account
 
- You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
+ You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to [changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
 ## 2\. Uninstall Third-Party Security Software
 
- Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
+ Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 1. To access the file search box, hold the Windows logo key and press S.
 2. Type**gpedit.msc** inside the file search box.
-3. Double-click**gpedit.msc** to[open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
+3. Double-click**gpedit.msc** to [open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
 4. Next, double-click**Computer Configuration** and**Administrative Templates** within Group Policy Editor’s sidebar.
 5. Expand the**Windows Components** folder in the sidebar.
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
- Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+ Our article [about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -124,7 +124,7 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
- Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+ Our guide on [creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 ## Start Utilizing Windows Security Again
 
@@ -144,3 +144,26 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevating-search-on-windows-11-the-top-5-must-knows/"><u>Elevating Search on Windows 11: The Top 5 Must-Knows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-save-settings-restoration-in-windows-1011s-pubg/"><u>Mastering Save Settings Restoration in Windows 10/11'S PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-7-steps-to-mend-obs-server-link-error-in-windows/"><u>Navigating 7 Steps to Mend OBS Server Link Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-editing-text-via-snipping-tool/"><u>Expert Guide: Editing Text via Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-error-unresponsive-audio-device-stopped/"><u>Eradicating Windows Error: Unresponsive Audio Device Stopped</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-desktop-layout-app-sizes-in-windows-11/"><u>Mastering Desktop Layout: App Sizes in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails/"><u>In 2024, Step Into Simplicity  A Tailored Approach to Creating Shorts Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-trivia-collection-general-knowledge-2024/"><u>[Updated] The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 100 Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-the-top-ogg-conversion-software-our-expert-takeaways/"><u>2024 Approved The Top OGG Conversion Software Our Expert Takeaways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-webcam-video-mastery-edit-enhance-and-distribute/"><u>2024 Approved  Webcam Video Mastery  Edit, Enhance & Distribute</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year-for-2024/"><u>Updated Beyond Pinnacle The Best Video Editing Apps for Mac This Year for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-sonic-visuals-your-guide-to-music-video-creation-for-2024/"><u>[New] Sonic Visuals  Your Guide to Music Video Creation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-camerasection-breakdown-analysis-for-2024/"><u>[New] CameraSection Breakdown Analysis for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-chrome-compatible-microphones-your-ultimate-selection-guide-for-2024/"><u>Updated Top Chrome-Compatible Microphones Your Ultimate Selection Guide for 2024</u></a></li>
+</ul></div>

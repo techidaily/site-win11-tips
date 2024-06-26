@@ -1,7 +1,7 @@
 ---
 title: Fixing the Chrome Freeze and Blank Screens
-date: 2024-06-21 19:47:36
-updated: 2024-06-24 12:58:25
+date: 2024-06-25T16:25:44.948Z
+updated: 2024-06-26T16:25:44.948Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
  To resize the Chrome window, click the**Restore Down** icon in the top right corner. Then, move your mouse cursor over the edge of the window and click and hold the left mouse button. Drag the window to the size you want and see if that fixes the issue.
 
- Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
+ Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
 
 ![Force Close Chrome Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/force-close-chrome-using-task-manager.jpg)
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ## 2\. Disable Hardware Acceleration
 
- When you enable[hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
+ When you enable [hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
 
  Several users on the forums reported fixing Google Chrome black screen issue by simply disabling the hardware acceleration feature. You can also give this method a shot.
 
@@ -96,7 +96,7 @@ To disable extensions in Google Chrome:
 4. Select the**Reset settings** option to confirm.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-google-chrome.jpg)
 
- Check out[how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
+ Check out [how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
 ## 6\. Reinstall Google Chrome
 
@@ -110,9 +110,9 @@ To uninstall Google Chrome on your Windows computer, use these steps.
 ![Uninstall Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-google-chrome.jpg)
 4. Follow the on-screen instructions to uninstall Google Chrome.
 
- After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on[how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
+ After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on [how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
 
- Once you've done that, use another browser to[visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
+ Once you've done that, use another browser to [visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
 
 ## Start Using Google Chrome Again
 
@@ -135,3 +135,27 @@ To uninstall Google Chrome on your Windows computer, use these steps.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-archival-steganography-in-photos-windows-11/"><u>The Art of Archival Steganography in Photos (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepad-woes-on-pc-7-steps-to-reopen-the-favorite-text-editor/"><u>Notepad Woes on PC: 7 Steps to Reopen the Favorite Text Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-faster-file-transfers-with-utorrent-on-win-computers/"><u>Unlock Faster File Transfers with uTorrent on Win Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-office-error-0x80041015-in-ms-word-and-excel/"><u>Overcoming Office Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-format-missing-error-on-pc-windows/"><u>Overcoming 'Format Missing' Error on PC Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-personalized-windows-11-interface-with-enlarged-icons/"><u>Crafting a Personalized Windows 11 Interface with Enlarged Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-methods-for-launching-wordpad-in-windows/"><u>Simplified Methods for Launching WordPad in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-lag-and-enhance-fps-in-roblox-win-edition/"><u>Minimize Lag & Enhance FPS in Roblox Win Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-how-to-clear-steams-dns-cache/"><u>Understanding How to Clear Steam's DNS Cache</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-automating-video-display-in-facebook-feeds/"><u>[New] In 2024, Automating Video Display in Facebook Feeds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-video-strategies-navigating-the-top-20-fb-marketing-tactics/"><u>[New] Innovative Video Strategies  Navigating the Top 20 FB Marketing Tactics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-good-to-great-a-vlog-on-incredible-instagrams/"><u>[Updated] In 2024, From Good to Great  A Vlog on Incredible Instagrams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-motion-blur-in-after-effects/"><u>Updated 2024 Approved How to Add Motion Blur in After Effects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-byte-sized-hits-the-heart-of-viral-content/"><u>[Updated] Byte-Sized Hits  The Heart of Viral Content</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-excellence-in-expression-devices-the-best-voice-over-creators-to-try-both-online-and-desktop-based/"><u>Updated 2024 Approved Excellence in Expression Devices The Best Voice Over Creators to Try, Both Online & Desktop Based</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-color-correction-best-practices-top-11-for-2024/"><u>The Art of Color Correction  Best Practices (Top 11) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-download-to-implementation-installing-obs-on-a-macpc-for-2024/"><u>From Download to Implementation  Installing OBS on a MacPC for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cinematic-brilliance-uncovered-top-filmmaking-secrets/"><u>[Updated] Cinematic Brilliance Uncovered  Top Filmmaking Secrets</u></a></li>
+</ul></div>

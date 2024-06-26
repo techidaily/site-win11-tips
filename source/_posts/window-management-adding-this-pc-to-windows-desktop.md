@@ -1,7 +1,7 @@
 ---
 title: "Window Management: Adding 'This PC' To Windows Desktop"
-date: 2024-06-25 12:12:29
-updated: 2024-06-26 12:34:55
+date: 2024-06-25T16:43:24.098Z
+updated: 2024-06-26T16:43:24.098Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 ![Click OK After Unchecking the Box Beside Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-click-ok-after-unchecking-the-box-beside-computer-in-desktop-icons-settings-window.jpg)
 
- Similar to how we have added the "This PC" icon, you can[add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
+ Similar to how we have added the "This PC" icon, you can [add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
@@ -61,3 +61,27 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-instant-addition-problems-with-windows-onedrive-a-compreenhensive-guide/"><u>Resolving Instant Addition Problems with Windows OneDrive - A Compreenhensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-10-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-web-access-via-win-os/"><u>Ensuring Seamless Web Access via Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-classic-gaming-collection-with-retroarch-achievements-tutorial/"><u>Enhance Your Classic Gaming Collection with Retroarch Achievements Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-newbies-guide-to-easier-access/"><u>Windows Newbies' Guide to Easier Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-text-in-the-windows-snip-tool/"><u>Advanced Techniques for Text in the Windows Snip Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-overlapping-app-symbols-on-pc-screen/"><u>Rectifying Overlapping App Symbols on PC Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-shop-failure-x800704cf/"><u>Deciphering Windows Shop Failure X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-optional-windows-extras-in-7-steps/"><u>Troubleshooting Missing Optional Windows Extras in 7 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-gpos-a-step-by-step-guide-for-windows-users/"><u>Revamping GPOs: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-youtube-secrets-to-effective-screen-recording-for-2024/"><u>[New] Unlocking YouTube  Secrets to Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-social-media-video-hack-how-to-resize-for-maximum-impact/"><u>New In 2024, The Ultimate Social Media Video Hack How to Resize for Maximum Impact</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-perfection-5-expert-tips-for-games-and-live-footage/"><u>[New] Capture Perfection  5 Expert Tips for Games & Live Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-terracore-pros-fusion-of-touch-and-high-definition/"><u>[New] 2024 Approved  TerraCore Pros  Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-uniting-conversations-across-platforms-twitter-vids-on-whatsapp/"><u>2024 Approved  Uniting Conversations Across Platforms  Twitter Vids on WhatsApp</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-smart-8-hd-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Smart 8 HD is off? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-bold-transitions-a-beginners-guide-to-fades/"><u>[New] Bold Transitions  A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laughing-along-to-mimicked-melodies/"><u>In 2024, Laughing Along to Mimicked Melodies</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713949918820-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-understating-of-the-workf/"><u>Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides for 2024</u></a></li>
+</ul></div>

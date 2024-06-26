@@ -1,7 +1,7 @@
 ---
 title: Strategies to Curb Energy Drain While Playing Games on PC
-date: 2024-06-23 22:11:22
-updated: 2024-06-24 10:22:45
+date: 2024-06-25T16:07:17.582Z
+updated: 2024-06-26T16:07:17.582Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,8 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 * Restart your device to ensure a temporary glitch hasn't caused the problem.
 * [Update your graphics drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to get the best performance out of your CPU.
 * [Disable Windows 11's animation effects](https://www.makeuseof.com/windows-11-turn-off-animation-effects/) . Taking this step will undoubtedly reduce the CPU's workload, but it will also affect the look and feel of your game and Windows' interface.
-* Since an outdated Windows OS can also cause the issue under discussion, look for and[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) .
-* [Disable background apps](https://www.makeuseof.com/windows-11-disable-background-apps/) and[startup programs](https://www.makeuseof.com/windows-11-disable-startup-programs/) to free up your CPU.
+* Since an outdated Windows OS can also cause the issue under discussion, look for and [install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) .
+* [Disable background apps](https://www.makeuseof.com/windows-11-disable-background-apps/) and [startup programs](https://www.makeuseof.com/windows-11-disable-startup-programs/) to free up your CPU.
 * [Run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to ensure the corrupt system files aren't slowing down the CPU.
 
  If none of the above checks help or resolve the problem, move on to the next step.
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
- If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
+ If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on [how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
 
 ## 3\. Force the Game to Process Graphics Using the Dedicated GPU (if Available)
 
@@ -107,3 +107,26 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/sync-your-schedule-how-to-reset-windows-time-service/"><u>Sync Your Schedule: How to Reset Windows Time Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-permanent-file-disposal-via-custom-trash-bin-setup/"><u>Windows 10/11: Permanent File Disposal via Custom Trash Bin Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/universal-font-collection-windows-installation-steps/"><u>Universal Font Collection: Windows Installation Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-efficient-temperature-management-strategy/"><u>Windows' Efficient Temperature Management Strategy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-straightforward-approach-to-discovering-ram-in-windows/"><u>A Straightforward Approach to Discovering RAM in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routines-to-reactivate-window-explorer/"><u>Easy Routines to Reactivate Window Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-swashbucklers-overcome-delayed-gameplay-in-sw-bf2/"><u>Swift Swashbucklers: Overcome Delayed Gameplay in SW BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-automatic-lock-settings/"><u>Mastery over Windows Automatic Lock Settings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fast-forward-your-videos-a-beginners-guide-to-time-lapse-photography/"><u>Fast Forward Your Videos A Beginners Guide to Time Lapse Photography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-setting-up-your-logitech-webcam-for-recording/"><u>[Updated] 2024 Approved  Setting Up Your Logitech Webcam for Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-mastering-tiktok-symbols-and-icons-manual/"><u>2024 Approved  Mastering TikTok Symbols and Icons Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/eyevision-recorder-ultimate/"><u>EyeVision Recorder Ultimate</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-prime-audio-solutions-for-creators/"><u>[New] Prime Audio Solutions for Creators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crucial-chrome-aids-for-effortless-vimeo-viewing/"><u>Crucial Chrome Aids for Effortless Vimeo Viewing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g23-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G23 Safely | Dr.fone</u></a></li>
+</ul></div>

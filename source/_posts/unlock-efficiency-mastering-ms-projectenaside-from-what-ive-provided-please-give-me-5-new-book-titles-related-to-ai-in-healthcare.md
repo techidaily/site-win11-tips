@@ -1,7 +1,7 @@
 ---
 title: "Unlock Efficiency: Mastering MS Project'enaside From What I've Provided, Please Give Me 5 New Book Titles Related to AI in Healthcare"
-date: 2024-06-22 12:18:57
-updated: 2024-06-25 12:12:27
+date: 2024-06-25T16:57:45.388Z
+updated: 2024-06-26T16:57:45.388Z
 tags:
   - windows10
   - windows11
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
- If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+ If you like using your keyboard to get around your productivity suite, check out [what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -199,3 +199,22 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unzipping-challenge-managing-multiple-compressed-files-in-a-snap/"><u>Unzipping Challenge: Managing Multiple Compressed Files in a Snap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-app-usage-a-comprehensive-review/"><u>Window's App Usage: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-overcome-windows-file-not-found-error/"><u>Methods to Overcome Windows 'File Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-customize-windows-11s-search-via-settings/"><u>5 Ways to Customize Windows 11'S Search via Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-power-to-edit-and-markup-in-windows-based-pdfs/"><u>Regain Power to Edit and Markup in Windows-Based PDFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-video-timing-what-you-need-to-know/"><u>[New] In 2024, Instagram Video Timing  What You Need To Know</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[New] Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-s18-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S18 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-picks-for-personalizing-mbp-screens-with-skins/"><u>[New] 2024 Approved  Top Picks for Personalizing MBP Screens with Skins</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ps3-gaming-reimagined-best-emulators-of-the-year/"><u>In 2024, PS3 Gaming Reimagined  Best Emulators of the Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts-for-2024/"><u>[Updated] Optimized Visual Quality  Black Bar & Box Frame for Social Media Posts for 2024</u></a></li>
+<li><a href="https://techidaily.com/vivo-y27s-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y27s support - Turn Off Screen Lock.</u></a></li>
+</ul></div>

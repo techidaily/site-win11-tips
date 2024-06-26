@@ -1,7 +1,7 @@
 ---
 title: Tactics to Extend Wait Time Before Shutting Down in Windows 10
-date: 2024-06-23 11:20:49
-updated: 2024-06-25 10:24:33
+date: 2024-06-25T16:35:11.076Z
+updated: 2024-06-26T16:35:11.076Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ## What Should You Try First?
 
- The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
+ The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an [app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
- Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+ Changing both these values involves [editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and [make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
 
-1. Open the Registry editor. See[how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
+1. Open the Registry editor. See [how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
 2. Navigate to the following folder in the registry:  
 `HKEY_CURRENT_USER\Control Panel\Desktop`
 3. In the pane on the right, look for the string named**WaitToKillAppTimeout** .
@@ -99,3 +99,22 @@ This will allow you to change the default value for all users.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zenith-of-clarity-top-strategies-for-combating-blurry-windows-views/"><u>Zenith of Clarity: Top Strategies for Combating Blurry Windows Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-microsoft-store-restrictions-on-windows-11/"><u>Easing Up Microsoft Store Restrictions on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-restricted-world-of-windows-11/"><u>Delving Into the Restricted World of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-insider-tips-on-wintools/"><u>Elevate PC Performance: Insider Tips on WinTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11s-mysteries-inside-its-registry-files/"><u>Unraveling Windows 11'S Mysteries: Inside Its Registry Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failures-from-windows-memory-tool/"><u>How To Rectify Failures From Windows Memory Tool</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-from-noise-to-music-mastering-sound-with-adobe-audition-an-updated-guide-and-review/"><u>New From Noise to Music Mastering Sound with Adobe Audition – An Updated Guide & Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stunning-video-haul-editing-explained-for-2024/"><u>From Shopping Spree to Stunning Video  Haul Editing Explained for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-top-5-avchd-video-editing-tools/"><u>Updated 2024 Approved Unleash Your Creativity Top 5 AVCHD Video Editing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-uncovered-top-mac-speech-to-text-tools-you-never-knew-existed/"><u>Updated In 2024, Uncovered Top Mac Speech-to-Text Tools You Never Knew Existed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-securing-partner-approval-essential-steps-for-discord-identity-confirmation/"><u>2024 Approved  Securing Partner Approval  Essential Steps for Discord Identity Confirmation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>2024 Approved  Peak Performance  Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-video-editing-a-step-by-step-online-tutorial/"><u>Updated 2024 Approved Mastering Video Editing A Step-by-Step Online Tutorial</u></a></li>
+</ul></div>

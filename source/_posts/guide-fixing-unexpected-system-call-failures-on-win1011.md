@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fixing Unexpected System Call Failures on Win10/11"
-date: 2024-06-22 21:41:17
-updated: 2024-06-24 10:54:31
+date: 2024-06-25T17:00:53.716Z
+updated: 2024-06-26T17:00:53.716Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
 
-## 1\. Restart Windows File Explorer
-
-![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
+## 1\. Restart Windows File Explorer ![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
 
  Restarting the explorer.exe process can fix the “System call failed” error. It's a really easy and quick fix, so it's a good starting point for troubleshooting the “system call failed” error.
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 
-## 2\. Run the SFC and DISM Tools in Command Prompt
-
-![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
+## 2\. Run the SFC and DISM Tools in Command Prompt ![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
 
  Corrupted system files could be causing File Explorer to crash. As such, it's worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.
 
@@ -93,3 +89,29 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  So, it’s very likely one will solve that issue, so you can fully utilize File Explorer again. If none of those resolutions are enough, consider contacting the Microsoft Windows support service for further guidance.
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-icon-alignment-in-windows-10/"><u>Simplify Icon Alignment in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-net-speeds-unlock-efficient-adapter-checking/"><u>Navigate Net Speeds: Unlock Efficient Adapter Checking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-printer-access-for-windows-users/"><u>Unblocking Printer Access for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-record-perfectly-with-apples-webcam-on-macbook/"><u>[Updated] In 2024, Record Perfectly with Apple's Webcam on MacBook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers on Windows 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-great-videostreams-youtubes-best-27-alternatives/"><u>Discovering Great Videostreams  YouTube's Best 27 Alternatives</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oneplus-nord-n30-se-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-crash-free-editing-tips-and-tricks-for-a-stable-final-cut-pro-x-experience-for-2024/"><u>Updated Crash-Free Editing Tips and Tricks for a Stable Final Cut Pro X Experience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speaking-into-the-future-iphone-recordings/"><u>In 2024, Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-crafting-a-masterpiece-with-collages/"><u>2024 Approved  Step-by-Step  Crafting a Masterpiece with Collages</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-unleash-your-creativity-6-innovative-adobe-premiere-pro-techniques/"><u>In 2024, Unleash Your Creativity 6 Innovative Adobe Premiere Pro Techniques</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

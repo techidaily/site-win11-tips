@@ -1,7 +1,7 @@
 ---
 title: 3 Keyways to Activate Telnet on Windows 11 PCs
-date: 2024-06-24 23:25:54
-updated: 2024-06-26 10:32:50
+date: 2024-06-25T16:19:08.345Z
+updated: 2024-06-26T16:19:08.345Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ## 1\. Enable Telnet on Windows Using Control Panel
 
- You can enable Telnet Client using the Classic Control Panel. Since it is an optional feature, you can enable it using the Windows Optional Feature dialog. You can use it[add or remove other users' optional features on Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) .
+ You can enable Telnet Client using the Classic Control Panel. Since it is an optional feature, you can enable it using the Windows Optional Feature dialog. You can use it [add or remove other users' optional features on Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) .
 
 To enable Telnet Client using Control Panel:
 
@@ -41,9 +41,7 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
-## 2\. Enable Telnet Client Using Windows PowerShell
-
-![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
+## 2\. Enable Telnet Client Using Windows PowerShell ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
 
@@ -58,9 +56,7 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
-## 3\. Install Telnet Client Using Command Prompt
-
-![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+## 3\. Install Telnet Client Using Command Prompt ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -76,13 +72,11 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-## How to Check the Telnet Client Status on Your PC
-
-![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
+## How to Check the Telnet Client Status on Your PC ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
-1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
+1. Launch Command Prompt as administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
 
@@ -107,3 +101,23 @@ Follow these steps to install Telnet using Command Prompt:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/speed-up-steam-downloads-stopping-unexpected-declines/"><u>Speed up Steam Downloads: Stopping Unexpected Declines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719268439990-chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-volume-control-fix-guide/"><u>Windows 10/11 Volume Control Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-unwanted-camera-request-errors-code-0xa00f4243/"><u>Removing Unwanted Camera Request Errors (Code 0xA00F4243)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-put-headsphones-on-and-record-new-auditory-elements-through-windows-video-editor-platform/"><u>New 2024 Approved Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-propel-your-presence-on-facebook-mastering-the-art-of-going-live/"><u>[Updated] 2024 Approved  Propel Your Presence on Facebook  Mastering the Art of Going Live</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-trending-searches-into-video-concepts-for-2024/"><u>Transforming Trending Searches Into Video Concepts for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-behind-the-scenes-10-movies-that-rely-on-final-cut-pro-for-editing/"><u>Updated In 2024, Behind the Scenes 10 Movies That Rely on Final Cut Pro for Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-strategies-to-stay-in-clear-view-after-a-tiktok-ban-for-2024/"><u>[Updated] Strategies to Stay in Clear View After a TikTok Ban for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlock-amazing-animations-10-essential-online-tools-for-2024/"><u>Unlock Amazing Animations 10 Essential Online Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-non-copyrighted-meditation-sounds/"><u>2024 Approved  Non-Copyrighted Meditation Sounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scripting-stimulating-screen-grabbers-for-2024/"><u>Scripting Stimulating Screen-Grabbers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-engaging-with-jujutsu-kaisen-fans-through-tiktok-challenges/"><u>[New] In 2024, Engaging with Jujutsu Kaisen Fans Through TikTok Challenges</u></a></li>
+</ul></div>

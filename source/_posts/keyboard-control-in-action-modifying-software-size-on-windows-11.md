@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Control in Action: Modifying Software Size on Windows 11"
-date: 2024-06-23 10:49:24
-updated: 2024-06-24 12:37:22
+date: 2024-06-25T16:24:55.026Z
+updated: 2024-06-26T16:24:55.026Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
  Sizer is a handy freeware program with which you can set up hotkeys that resize software windows to specific dimensions. This is how to resize software windows by creating keyboard shortcuts with Sizer:
 
-1. Open[Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
+1. Open [Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
 2. Click**Download Now** \>**Softpedia Mirror (US)** options.
 3. Sizer’s setup file will be in the folder your browser is configured to download to. Press your keyboard’s**Win** +**E** keys to view File Explorer, and go to the folder that includes the Sizer setup wizard.
 4. Double-click the**sizer4\_dev556.msi** file.
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
- Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
+ Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
 
- Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on[BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
+ Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on [BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -111,3 +111,26 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-digital-containers-file-prop-techniques/"><u>Navigating Digital Containers: File Prop Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-index-performance-on-your-pc/"><u>Enhancing Index Performance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-to-reinstate-normal-access-in-microsofts-safe-mode-outlook/"><u>Guidance to Reinstate Normal Access in Microsoft's Safe Mode Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-app-crash-common-issues-and-fixes/"><u>Resolving Windows App Crash: Common Issues & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pathways-to-launching-windows-fix/"><u>Essential Pathways to Launching Windows FIX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-clis-for-efficient-task-management-windows-11/"><u>Integrating CLIs for Efficient Task Management (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-sharing-using-dropboxgoogle-drive-from-windows-paths/"><u>Streamlining File Sharing: Using Dropbox/Google Drive From Windows Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-auto-lock-and-screensaver-configurations/"><u>Mastering Auto-Lock & Screensaver Configurations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-giggle-guides-essential-websites-for-humorous-ringtones/"><u>2024 Approved  Giggle Guides  Essential Websites for Humorous Ringtones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-understanding-more-about-capcut-lenta-template-and-slow-motion-videos-for-2024/"><u>Updated Understanding More About CapCut Lenta Template and Slow-Motion Videos for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-discover-twitters-ideal-video-aspect-ratio-for-maximum-engagement/"><u>New 2024 Approved Discover Twitters Ideal Video Aspect Ratio for Maximum Engagement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-elevate-your-mobile-videos-top-vertical-editing-apps-for-ios-and-android-for-2024/"><u>New Elevate Your Mobile Videos Top Vertical Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-curated-classical-repertoire-for-romantic-film-scenes-in-the-year-2024/"><u>New Curated Classical Repertoire for Romantic Film Scenes in the Year 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revive-vanished-watch-video-icon-for-2024/"><u>Revive Vanished Watch Video Icon for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expedited-ways-for-curating-mac-images-together/"><u>2024 Approved  Expedited Ways for Curating Mac Images Together</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-most-innovative-list-scouting-the-top-10-free-youtube-studios-for-animation-for-2024/"><u>The Most Innovative List  Scouting the Top 10 Free YouTube Studios for Animation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-cash-growth-forecasts-at-no-cost-for-2024/"><u>YouTube Cash Growth Forecasts at No Cost for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-7-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 7 Plus Space | Dr.fone</u></a></li>
+</ul></div>

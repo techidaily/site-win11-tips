@@ -1,7 +1,7 @@
 ---
 title: Rectify 'Your Input Cannot Be Opened' Error in Windows, VLC
-date: 2024-06-22 23:28:16
-updated: 2024-06-25 12:34:52
+date: 2024-06-25T17:05:36.679Z
+updated: 2024-06-26T17:05:36.679Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  If the error occurs when streaming a YouTube video, skip to the fourth solution in this guide.
 
-## 1\. Change the File/Folder Path
-
-![copy folder file move windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-folder-file-move-windows-11.jpg)
+## 1\. Change the File/Folder Path ![copy folder file move windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-folder-file-move-windows-11.jpg)
 
  The "your input can’t be opened" error can occur if the folder path for the saved media is too long. For example, if your file is saved in D:\\Users\\Downloads\\Media\\New\\Files, moving it to a main folder such as**D:\\Users** can fix the issue.
 
@@ -35,9 +33,7 @@ To move the media file to a different folder:
 3. Right-click on the media file and select**Copy** .
 4. Next, create a new folder in**D:\\Users** and paste the file. Now open the file to see if it plays without the error.
 
-## 2\. Change Folder or File Name
-
-![rename file folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-folder-windows-11.jpg)
+## 2\. Change Folder or File Name ![rename file folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-folder-windows-11.jpg)
 
  If you have a large folder with hundreds of media files,[renaming the folder or file on Windows](https://www.makeuseof.com/windows-11-rename-files/) can help you fix this error. Try to rename the folder with a short name to fix the error.
 
@@ -70,7 +66,7 @@ To rename the folder:
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
 
-1. Open the[GitHub page for the YouTube.luac file](http://github.com/videolan/vlc/blob/master/share/lua/playlist/youtube.lua) .
+1. Open the [GitHub page for the YouTube.luac file](http://github.com/videolan/vlc/blob/master/share/lua/playlist/youtube.lua) .
 2. Next, select all the content of the script on the YouTube.luac page. Alternatively, click the**Copy raw content** button in the top right corner to copy the code to your clipboard.  
 ![youtube luac code script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-code-script.jpg)
 3. Next, press the**Win key** and type**VLC** .
@@ -91,7 +87,7 @@ To rename the folder:
 
 ## 5\. Take Ownership of the Media File
 
- You can[take ownership of a file in Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) to fix the "your input can’t be opened" error in VLC. Taking ownership should work if the error is triggered due to insufficient permission to access the file.
+ You can [take ownership of a file in Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) to fix the "your input can’t be opened" error in VLC. Taking ownership should work if the error is triggered due to insufficient permission to access the file.
 
 To take ownership of a media file:
 
@@ -120,7 +116,7 @@ To uninstall the VLC media player:
 3. Click on**Installed apps** and then search for VLC.  
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
-5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
+5. Once uninstalled, open the [VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
 
 ## Invalid File Name and Long File Path Triggers This Error
 
@@ -141,3 +137,23 @@ To uninstall the VLC media player:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/win-users-guide-to-managing-monitor-luminosity/"><u>Win Users Guide to Managing Monitor Luminosity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-lock-on-time-for-windows-users/"><u>Automating Lock-On Time for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-windows-upgrade-failures-and-errors/"><u>How to Resolve Windows Upgrade Failures and Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unreachable-mb-status-on-windows-11-systems/"><u>Tackling Unreachable MB Status on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-windows-package-manager-on-windows-11/"><u>How to Use the Windows Package Manager on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-printmanagement-in-system-configuration/"><u>Addressing Absence of 'PrintManagement' In System Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/focusing-gpo-application-one-user-approach-for-windows-1111/"><u>Focusing GPO Application: One-User Approach for Windows 11/11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly-for-2024/"><u>[Updated] Angled Artistry  A Guide for Social Media Users to Spin Their Photos on the Fly for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-windows-users-top-choices-for-screenshot-and-capture/"><u>In 2024, Windows User's Top Choices for Screenshot and Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-approaches-to-securing-photo-and-video-borders-for-2024/"><u>Proven Approaches to Securing Photo & Video Borders for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>Uncover the Past  Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-realities-face-off-metaverse-and-omniverse-guide/"><u>In 2024, Interactive Realities Face-Off  Metaverse & Omniverse Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>[Updated] 2024 Approved  Unlock Gaming Potential  Your Complete Xbox Screenshot Guide</u></a></li>
+</ul></div>

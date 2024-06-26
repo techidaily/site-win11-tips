@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Gmail + Outlook in One Window, Windows"
-date: 2024-06-25 15:56:17
-updated: 2024-06-26 11:26:47
+date: 2024-06-25T16:44:01.591Z
+updated: 2024-06-26T16:44:01.591Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  If you have a valid personal or family Microsoft 365 subscription, you can register for the Insider program for no additional cost. Once you’ve signed up, choose between the**Beta Channel** or**Current Channel (Preview)** .
 
- The Outlook for Windows Preview app gives you access to the modern Outlook email client with newer features and a fresh user interface. To start with the Outlook for Windows Preview app, check out the[official Microsoft 365 Insider site](https://insider.microsoft365.com/en-us/join/windows) .
+ The Outlook for Windows Preview app gives you access to the modern Outlook email client with newer features and a fresh user interface. To start with the Outlook for Windows Preview app, check out the [official Microsoft 365 Insider site](https://insider.microsoft365.com/en-us/join/windows) .
 
  Once you’ve set up Microsoft 365 on your Windows PC, you can enable Outlook for Windows preview by sliding the**Try the new Outlook** toggle button in the top-right corner of your Microsoft Outlook client.
 
@@ -73,3 +73,22 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-adjustments-for-enhanced-windows-bar/"><u>Step-by-Step Adjustments for Enhanced Windows Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-impact-on-linux-desktop-usage/"><u>WSL's Impact on Linux Desktop Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unseen-windows-11-desktop-themes/"><u>Top Unseen Windows 11 Desktop Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-mechanics-of-windows-11s-compatibility-tool/"><u>Uncovering the Mechanics of Windows 11’S Compatibility Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-robust-defense-how-to-upgrade-your-pin-in-windows-11/"><u>Achieving Robust Defense: How to Upgrade Your Pin in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-build-custom-text-transcription-software-on-windows-with-whisper/"><u>How to Build Custom Text Transcription Software on Windows with Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/from-full-song-to-solo-groove-navigating-tools-for-beats-extraction-for-2024/"><u>From Full Song to Solo Groove Navigating Tools for Beats Extraction for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seamless-backdrop-switches-for-google-meet-users-for-2024/"><u>[Updated] Seamless Backdrop Switches for Google Meet Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[Updated] 2024 Approved  Veiled Vocal Keepers  IOS & Android Secretive Sound Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-free-wmv-video-assembly-software/"><u>Updated The Top Free WMV Video Assembly Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-strategic-screen-customization-timely-adjustments-in-teams/"><u>In 2024, Strategic Screen Customization  Timely Adjustments in Teams</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cutting-edge-free-4k-video-editors-you-need-to-try/"><u>New In 2024, Cutting-Edge Free 4K Video Editors You Need to Try</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-fake-face-makers-the-ultimate-online-collection-for-2024/"><u>Free Fake Face Makers The Ultimate Online Collection for 2024</u></a></li>
+</ul></div>

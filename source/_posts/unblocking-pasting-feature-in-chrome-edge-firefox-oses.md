@@ -1,7 +1,7 @@
 ---
 title: Unblocking Pasting Feature in Chrome, Edge, Firefox OSes
-date: 2024-06-21 13:28:55
-updated: 2024-06-24 11:17:13
+date: 2024-06-25T17:01:22.115Z
+updated: 2024-06-26T17:01:22.115Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-## 3\. Check for Problems With Your Keyboard
-
-![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+## 3\. Check for Problems With Your Keyboard ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -57,17 +55,13 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
 
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
 
-## 5\. Check Your Security Settings
-
-![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
+## 5\. Check Your Security Settings ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
-## 6\. Clear the Clipboard Cache and History
-
-![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
+## 6\. Clear the Clipboard Cache and History ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
@@ -110,3 +104,30 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  Aside from that, misconfigured security settings, issues with the keyboard keys or copy-paste shortcut, interfering clipboard cache, and interruptions from browser extensions and third-party clipboard managers can all cause this issue.
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/decode-fn-key-operations-in-modern-windows-pcs/"><u>Decode FN Key Operations in Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-directdraw-errors-with-ease-on-new-windows-oses/"><u>Fixing DirectDraw Errors with Ease on New Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-disabled-windows-application/"><u>How to Enable Disabled Windows Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securely-building-win11-self-extractables/"><u>Securely Building Win11 Self-Extractables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-epic-games-sign-in-on-pc/"><u>Efficiently Tackling Epic Games Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-windows-chrome-blackouts/"><u>Taming Windows Chrome Blackouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-deactivated-windows-email-rule-settings/"><u>Steps to Reactivate Deactivated Windows Email Rule Settings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-10-voice-recorder-apps-for-android-phone/"><u>Updated In 2024, Top 10 Voice Recorder Apps for Android Phone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>From Script to Screen  YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/premier-choice-of-10-tiktok-editors-for-w-pcs/"><u>Premier Choice of 10 TikTok Editors for W PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/c-spans-watchlist-for-the-curious-netizen-for-2024/"><u>C-Span's Watchlist for the Curious Netizen for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>[Updated] In 2024, How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-keeping-up-with-snapstreaks/"><u>In 2024, The Art of Keeping Up With Snapstreaks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-f5-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco F5 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-premium-gif-software-for-iphone-users/"><u>[New] Exploring Premium GIF Software for iPhone Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-tiktok-identity-ultimate-profile-transformation-guide-for-2024/"><u>[Updated] Mastering TikTok Identity  Ultimate Profile Transformation Guide for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

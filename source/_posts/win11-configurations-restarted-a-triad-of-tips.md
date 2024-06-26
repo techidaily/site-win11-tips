@@ -1,7 +1,7 @@
 ---
 title: "Win11 Configurations Restarted: A Triad of Tips"
-date: 2024-06-21 15:49:20
-updated: 2024-06-24 12:52:53
+date: 2024-06-25T16:46:57.922Z
+updated: 2024-06-26T16:46:57.922Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ To reset the Windows 11 Settings app with the search menu:
 5. Select**Reset** again to confirm.  
 ![Reset Settings App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-settings-app-in-windows-11.jpg)
 
- After completing the above steps, you can use one of the[many ways to access the Windows Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and configure it again.
+ After completing the above steps, you can use one of the [many ways to access the Windows Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and configure it again.
 
 ## 2\. How to Reset the Windows 11 Settings App via PowerShell
 
@@ -49,7 +49,7 @@ To reset the Windows 11 Settings app with the search menu:
 `Get-AppxPackage *Windows.ImmersiveControlPanel* | Reset-AppxPackage`  
 ![Reset Settings App Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-settings-app-using-powershell.jpg)
 
- If you're a PowerShell enthusiast, why not take the time to learn these[useful Windows PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to improve efficiency?
+ If you're a PowerShell enthusiast, why not take the time to learn these [useful Windows PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to improve efficiency?
 
 ## 3\. How to Reset the Windows 11 Settings App Using Command Prompt
 
@@ -58,7 +58,7 @@ To reset the Windows 11 Settings app with the search menu:
  To reset the Windows 11 Settings app using Command Prompt, use these steps:
 
 1. Press**Win + X** or right-click the**start icon** to open the Power User menu and select**Run** from the list.
-2. Type**cmd** in the text box and then press**Ctrl + Shift + Enter** on your keyboard to[open Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#how-to-run-command-prompt-as-an-administrator-through-the-windows-search-tool) .
+2. Type**cmd** in the text box and then press**Ctrl + Shift + Enter** on your keyboard to [open Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#how-to-run-command-prompt-as-an-administrator-through-the-windows-search-tool) .
 3. Select**Yes** when the User Account Control (UAC) prompt shows up.
 4. In the console, paste the following command and hit**Enter** :  
 `PowerShell -ExecutionPolicy Unrestricted -Command "& {$manifest = (Get-AppxPackage *immersivecontrolpanel*).InstallLocation + '\AppxManifest.xml' ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}"`
@@ -67,7 +67,7 @@ To reset the Windows 11 Settings app with the search menu:
 
  Once you run the above command, Windows will reset the Settings app on your computer.
 
- Do you find Command Prompt to be too complicated or boring to use? Here are some of[the best Command Prompt alternatives for Windows](https://www.makeuseof.com/best-command-prompt-alternatives-for-windows/) worth trying.
+ Do you find Command Prompt to be too complicated or boring to use? Here are some of [the best Command Prompt alternatives for Windows](https://www.makeuseof.com/best-command-prompt-alternatives-for-windows/) worth trying.
 
 ## Resetting the Windows 11 Settings App
 
@@ -90,3 +90,27 @@ To reset the Windows 11 Settings app with the search menu:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/gain-early-access-the-way-into-windows-11-beta/"><u>Gain Early Access: The Way Into Windows 11 Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-error-loadlib-err-87/"><u>Mitigating Windows Error LoadLib Err 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-pinnacle-clarity-to-your-w11-desktop-wallpaper/"><u>Bringing Pinnacle Clarity to Your W11 Desktop Wallpaper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-non-functioning-reading-aloud-in-word-2016plus/"><u>Quick Guide to Reviving Non-Functioning Reading Aloud in Word 2016+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-windows-management-with-a-disk-space-analysis-tool/"><u>Augment Windows Management with a Disk Space Analysis Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortana-ends-new-windows-aid-emerges/"><u>Cortana Ends, New Windows Aid Emerges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mechanics-behind-failed-usb-attachment-in-virtualbox/"><u>Decoding the Mechanics Behind Failed USB Attachment in VirtualBox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printer-error-0x8000ffff-in-windows/"><u>How to Fix the Printer Error 0X8000ffff in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-choice-10-leading-webcams-for-win-11/"><u>[New] In 2024, Premium Choice  10 Leading Webcams for Win 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-pova-5-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Pova 5 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-your-reel-game-on-instagram-in-days/"><u>Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-vr-world-your-first-vr-adventure-for-2024/"><u>Conquer the VR World  Your First VR Adventure for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-premier-10-webinar-applications/"><u>[New] The Premier 10 Webinar Applications</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mobile-animation-made-easy-top-10-apps-for-android-and-ios/"><u>New In 2024, Mobile Animation Made Easy Top 10 Apps for Android and iOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] Captivate Crowds  Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>[Updated] 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-interaction-with-microsofts-hololens-review/"><u>The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-yuva-2-by-drfone-android-unlock-android-unlock/"><u>How to unlock Lava Yuva 2</u></a></li>
+</ul></div>

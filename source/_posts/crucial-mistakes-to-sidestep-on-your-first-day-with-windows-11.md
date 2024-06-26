@@ -1,7 +1,7 @@
 ---
 title: Crucial Mistakes to Sidestep on Your First Day with Windows 11
-date: 2024-06-23 23:45:27
-updated: 2024-06-26 11:22:16
+date: 2024-06-25T16:28:15.300Z
+updated: 2024-06-26T16:28:15.300Z
 tags:
   - windows10
   - windows11
@@ -20,49 +20,39 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 
  In this article, we are putting together a list of mistakes you should never make in Windows 11.
 
-## 1\. Avoid Updating Windows 11 Without a Backup
-
-![the Windows backup screen on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-backup.jpg)
+## 1\. Avoid Updating Windows 11 Without a Backup ![the Windows backup screen on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-backup.jpg)
 
  Before updating your Windows 11 PC, you should always backup anything important and everything you might need later. This is because there is a chance of data loss when your PC crashes unexpectedly during a Windows update.
 
  You can create an image of your PC's entire system and files and store that in an external drive or network folder. All the documents, files, or anything you kept as a backup can be restored once the update is complete. This way, you can nullify the chances of data loss while updating Windows 11.
 
- We have a guide on[how to create a complete backup in Windows 11](https://www.makeuseof.com/windows-11-create-complete-backup/) .
+ We have a guide on [how to create a complete backup in Windows 11](https://www.makeuseof.com/windows-11-create-complete-backup/) .
 
-## 2\. Always Use a Microsoft Account Instead of a Local Account in Windows 11
-
-![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
+## 2\. Always Use a Microsoft Account Instead of a Local Account in Windows 11 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
 
  The benefits of using a Microsoft account to log in to your PC outweigh its disadvantages. One of the biggest advantages is that the Windows 11 activation key is associated with the Microsoft account when you use it on your PC. You can quickly recover the activation code from your Microsoft account if you lose it. Besides, when you use a Microsoft account on your PC, you automatically get access to BitLocker, a software that is designed to protect user data.
 
- You can easily[turn a local Windows account into a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) to enjoy all the benefits that come with it.
+ You can easily [turn a local Windows account into a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) to enjoy all the benefits that come with it.
 
 ## 3\. You Should Not Use the Same Password for Your Microsoft and Local Account
 
  You can have two separate accounts to log in to Windows 11: a Microsoft account and a local one. If, for some reason, you need to use a local account, you should choose a password that is different from the one you use in your Microsoft account. By doing so, you can give someone access to your PC by sharing the password of your local account without revealing your Microsoft account credentials.
 
- If you need a separate user account on your PC, you can[create a local account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) by following a few simple steps.
+ If you need a separate user account on your PC, you can [create a local account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) by following a few simple steps.
 
-## 4\. Prevent Windows 11 From Running Unwanted Apps When You Log In
-
-![Screenshot showing Startup apps in Taskbar ManagerStartup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/startup-apps.jpg)
+## 4\. Prevent Windows 11 From Running Unwanted Apps When You Log In ![Screenshot showing Startup apps in Taskbar ManagerStartup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/startup-apps.jpg)
 
  Startup apps start automatically as soon as you turn on your PC. It might be convenient when Windows 11 opens your most-used apps at startup without user input. But that benefit comes with a cost: auto-start apps ultimately increase the boot time of your PC. And if you have too many apps that start automatically, the slow boot time will be more pronounced.
 
- No matter how advanced your PC specifications PC are, you should never allow apps to auto-start in Windows 11\. You can[disable startup programs in Windows 11 in multiple ways](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
+ No matter how advanced your PC specifications PC are, you should never allow apps to auto-start in Windows 11\. You can [disable startup programs in Windows 11 in multiple ways](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
-## 5\. You Should Not Disable Windows Updates
+## 5\. You Should Not Disable Windows Updates ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
 
-![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
-
- There are solutions available for permanently disabling Windows updates. It is also possible to[temporarily pause or disable automatic updates on Windows 11](https://www.makeuseof.com/windows-11-stop-automatic-updates/) when you do not want Windows to interrupt something. Once you are done with whatever you've been working on, you should update your Windows 11 PC right away.
+ There are solutions available for permanently disabling Windows updates. It is also possible to [temporarily pause or disable automatic updates on Windows 11](https://www.makeuseof.com/windows-11-stop-automatic-updates/) when you do not want Windows to interrupt something. Once you are done with whatever you've been working on, you should update your Windows 11 PC right away.
 
  You should never think of disabling updates on Windows 11, especially if the PC is connected to the internet. When you disable Windows updates, the PC becomes vulnerable to all kinds of security threats. Another downside is that your Windows 11 PC will be deprived of features or changes introduced in every update.
 
-## 6\. Do Not Ignore Windows 11's Privacy Settings
-
-![Screenshot showing Privacy & security in Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/privacy-page-edit.jpg)
+## 6\. Do Not Ignore Windows 11's Privacy Settings ![Screenshot showing Privacy & security in Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/privacy-page-edit.jpg)
 
  The**Privacy & security** page in Windows 11 Settings app remains untouched for many people. If you are one of them, it's time for a course correction. Windows 11 collects various types of data, including location, calendar, diagnostics, typing, and more. It does so to give you a more personalized experience.
 
@@ -76,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 
  Moreover, PCs that do not meet Windows 11 minimum hardware requirements will not receive updates from Microsoft. In other words, running Windows 11 on unsupported hardware will leave your PC more vulnerable to threats.
 
- If your PC is too old, try upgrading its hardware or buying a new one to get the whole experience of Windows 11\. But if you want to install it on unsupported hardware just for fun, we have a detailed guide on[installing Windows 11 on unsupported hardware](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) .
+ If your PC is too old, try upgrading its hardware or buying a new one to get the whole experience of Windows 11\. But if you want to install it on unsupported hardware just for fun, we have a detailed guide on [installing Windows 11 on unsupported hardware](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) .
 
 ## 8\. Avoid Updating Windows 11 Using an Unstable Internet Connection
 
@@ -103,3 +93,22 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-management-with-windows-autodelete-feature/"><u>Simplifying File Management with Windows' AutoDelete Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lost-steam-games-iconage/"><u>Solutions for Lost Steam Games Iconage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-wintoys-a-brief-dive-into-a-formidable-windows-feature/"><u>Discovering WinToys: A Brief Dive Into a Formidable Windows Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-control-running-task-manager-with-admin-rights-in-win11/"><u>Enhance Control: Running Task Manager with Admin Rights in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chilly-cheer-christmas-presents-with-microsofts-marketplace/"><u>Chilly Cheer: Christmas Presents with Microsoft's Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-your-inner-world-accessing-windows-hidden-char-personality-screen/"><u>Gateway to Your Inner World: Accessing Windows' Hidden Char Personality Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-a05s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel A05s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-strategies-to-stay-in-clear-view-after-a-tiktok-ban/"><u>[New] Strategies to Stay in Clear View After a TikTok Ban</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortlessly-replay-videos-on-iphone/"><u>[Updated] In 2024, Effortlessly Replay Videos on iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-fundamentals-of-compelling-documentary-screenplay/"><u>[Updated] The Fundamentals of Compelling Documentary Screenplay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlock-mysteries-select-top-puzzle-houses/"><u>[Updated] 2024 Approved  Unlock Mysteries  Select Top Puzzle Houses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-gameplay-in-simulated-liquids/"><u>[New] 2024 Approved  Ultimate Guide to Gameplay in Simulated Liquids</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-master-the-art-of-music-and-messaging-spotifyplusdiscord-connection/"><u>2024 Approved  Master the Art of Music and Messaging  Spotify+Discord Connection</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-achieving-precision-in-sound-processing-an-ai-driven-approach-to-denoising/"><u>New 2024 Approved Achieving Precision in Sound Processing An AI-Driven Approach to Denoising</u></a></li>
+</ul></div>

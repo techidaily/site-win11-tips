@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Access: Windows 11 Screen Grab Utility"
-date: 2024-06-21 19:49:43
-updated: 2024-06-24 10:34:18
+date: 2024-06-25T16:45:31.064Z
+updated: 2024-06-26T16:45:31.064Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Once you've made your selection, click the Save icon in the upper right corner of the Snipping tool. You can also save snippets using the**Ctrl + S** shortcut key. Now choose a location where you want to save your snippet, and then click**Save** again.
 
- If you like using keyboard shortcuts, be sure to check out our[Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+ If you like using keyboard shortcuts, be sure to check out our [Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
- To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ To get more out of this handy tool, be sure to read our [beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## 6\. How to Open the Snipping Tool via File Explorer
 
@@ -139,3 +139,26 @@ The Snipping tool should now be open and ready to use!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/spotlight-on-7-irksome-windows-11-aesthetics/"><u>Spotlight on 7 Irksome Windows 11 Aesthetics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-file-lockdowns-access-restoration-on-pcs/"><u>Reversing File Lockdowns: Access Restoration on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dism-strategies-reviving-windows-11-images/"><u>DISM Strategies: Reviving Windows 11 Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-controller-reviving-it-from-steams-oblivion/"><u>Master the Controller: Reviving It From Steam's Oblivion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-connectivity-troubleshooting-on-win-os/"><u>Mastering Device Connectivity Troubleshooting on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-activating-controlled-folder-access-in-windows-11/"><u>Mastering Privacy: Activating Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-win11-personalized-volume-shortcuts/"><u>The Essentials of Win11 Personalized Volume Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grandest-directors-trailers/"><u>[New] Grandest Director's Trailers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-selection-12-offline-recorder-apps/"><u>In 2024, Ultimate Selection  12 Offline Recorder Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-craft-powerpoint-to-interactive-movie-scripts/"><u>[New] In 2024, Craft PowerPoint to Interactive Movie Scripts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-controlling-who-sees-your-youtube-productions/"><u>2024 Approved  Controlling Who Sees Your Youtube Productions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-premier-hash-trackers-fb-tweet-instagram-edition-for-2024/"><u>[New] Premier Hash Trackers  FB, Tweet, Instagram Edition for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-joining-the-twitter-community-from-scratch/"><u>[New] In 2024, Joining the Twitter Community From Scratch</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-slidecasting-simplified-a-modern-webcam-approach/"><u>[New] 2024 Approved  Slidecasting Simplified  A Modern, Webcam Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-digital-realms-comparing-metaverse-and-omniverse-for-2024/"><u>Pioneering Digital Realms  Comparing Metaverse & Omniverse for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-green-screen-apps-free-downloads-for-android-and-ios/"><u>New 2024 Approved Top-Rated Green Screen Apps Free Downloads for Android & iOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10c-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10C Phone? | Dr.fone</u></a></li>
+</ul></div>

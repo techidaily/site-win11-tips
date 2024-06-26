@@ -1,7 +1,7 @@
 ---
 title: Maximize Output with Windows' Streamlined Launcher
-date: 2024-06-23 11:50:37
-updated: 2024-06-25 10:48:42
+date: 2024-06-25T16:59:08.693Z
+updated: 2024-06-26T16:59:08.693Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## How to Install Flow Launcher
 
- You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
+ You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
@@ -41,7 +41,7 @@ Here's how to get the most from this popular productivity tool.
 
  Lastly, you can change the location where the Flow Launcher window opens by clicking on the frame and dragging it into position. As long as the**Remember last launch location** setting is checked, it will always be in this position.
 
- If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
+ If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
 ## How to Launch Apps With Flow Launcher
 
@@ -66,7 +66,7 @@ Here's how to get the most from this popular productivity tool.
  There are several ways to refine searches in Flow Launcher. For example, to search for something on a specific website, you can include the site name in the search query, e.g. YouTube David Bowie.
 
 * To search your browser bookmarks, start the search query with**b** . For example:**b how to create a workbook in excel** .
-* If you want to run a[Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
+* If you want to run a [Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
@@ -86,7 +86,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## Uninstalling Flow Launcher
 
- If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
+ If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
@@ -109,3 +109,26 @@ Here's how to get the most from this popular productivity tool.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/from-red-to-ready-8-methods-to-mend-your-monochrome-misstep/"><u>From Red to Ready: 8 Methods to Mend Your Monochrome Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-window-11-search-expertise-with-these-tricks/"><u>Elevate Your Window 11 Search Expertise With These Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-reasons-to-choose-win11-over-apples-macos/"><u>Top Reasons to Choose Win11 Over Apple's macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/forge-ahead-with-stronger-windows-security-top-four-password-keepers/"><u>Forge Ahead with Stronger Windows Security: Top Four Password Keepers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-prose-with-these-5-pc-apps/"><u>Boost Your Prose with These 5 PC Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-nonfunctional-nvidia-cp-on-windows-11/"><u>How to Reactivate a Nonfunctional Nvidia CP on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-printer-busy-message-in-win11/"><u>Eliminating Printer Busy Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-bliss-how-to-set-up-and-manage-a-podcast-live-stream-easily/"><u>Beginner's Bliss  How to Set Up and Manage a Podcast Live Stream Easily</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[New] 2024 Approved  Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-dead-walkers-dominance-leading-zombie-video-game-ranks-for-2024/"><u>[New] Dead Walkers Dominance  Leading Zombie Video Game Ranks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-discover-new-tunes-curated-dj-hits/"><u>In 2024, Discover New Tunes Curated DJ Hits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-cheat-sheet-social-media-image-sizes-and-ratios/"><u>New In 2024, The Ultimate Cheat Sheet Social Media Image Sizes and Ratios</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-handbook-insta-to-tik-tok-connectivity-for-2024/"><u>Ultimate Handbook  Insta-to-Tik Tok Connectivity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-screen-record-your-win10-game-log/"><u>[Updated] 2024 Approved  Step-by-Step Screen Record  Your Win10 Game Log</u></a></li>
+</ul></div>

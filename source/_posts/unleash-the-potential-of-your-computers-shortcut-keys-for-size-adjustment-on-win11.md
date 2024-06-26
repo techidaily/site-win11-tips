@@ -1,7 +1,7 @@
 ---
 title: Unleash the Potential of Your Computer's Shortcut Keys for Size Adjustment on Win11
-date: 2024-06-23 19:54:45
-updated: 2024-06-25 11:16:21
+date: 2024-06-25T16:37:56.826Z
+updated: 2024-06-26T16:37:56.826Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
  Sizer is a handy freeware program with which you can set up hotkeys that resize software windows to specific dimensions. This is how to resize software windows by creating keyboard shortcuts with Sizer:
 
-1. Open[Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
+1. Open [Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
 2. Click**Download Now** \>**Softpedia Mirror (US)** options.
 3. Sizer’s setup file will be in the folder your browser is configured to download to. Press your keyboard’s**Win** +**E** keys to view File Explorer, and go to the folder that includes the Sizer setup wizard.
 4. Double-click the**sizer4\_dev556.msi** file.
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
- Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
+ Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
 
- Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on[BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
+ Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on [BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -111,3 +111,24 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-resource-allocation-within-wsl-android-environment/"><u>Tailoring Resource Allocation Within WSL-Android Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-always-seeing-your-sticky-notes-in-windows/"><u>Secrets to Always Seeing Your Sticky Notes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-combination-of-files-in-windows-1011/"><u>Seamless Combination of Files in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-affected-windows-netflix-functions/"><u>Restarting Affected Windows Netflix Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-10-pricing-with-smart-key-acquisition/"><u>Mastering Windows 10 Pricing with Smart Key Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-taskbar-icons-that-dont-pop-up/"><u>Correcting Taskbar Icons that Don't Pop Up</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-say-goodbye-to-watermarks-free-tiktok-videos-for-2024/"><u>[New] Say Goodbye to Watermarks  Free TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-10-blockbuster-films-edited-with-final-cut-pro/"><u>New In 2024, 10 Blockbuster Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-advice-on-selecting-the-best-lenses-for-filmmaking-for-2024/"><u>Expert Advice on Selecting The Best Lenses For Filmmaking for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/leveraging-social-media-trends-for-fan-growth-on-igtv/"><u>Leveraging Social Media Trends for Fan Growth on IGTV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-corporate-emblems-from-available-graphic-samples/"><u>2024 Approved  Craft Corporate Emblems From Available Graphic Samples</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-color-balance-pro-for-2024/"><u>Pinnacle Color Balance Pro for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-nokia-g42-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Nokia G42 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-weavers-codex-looms-screen-capture-secrets/"><u>2024 Approved  The Weaver’s Codex  Loom's Screen Capture Secrets</u></a></li>
+</ul></div>

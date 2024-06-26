@@ -1,7 +1,7 @@
 ---
 title: Fixing Java VM Not Found Issue on Windows Devices
-date: 2024-06-23 19:29:50
-updated: 2024-06-24 11:27:55
+date: 2024-06-25T16:47:15.942Z
+updated: 2024-06-26T16:47:15.942Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,7 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 
  Here we show you a few troubleshooting steps to fix the could not create the java virtual machine error on Windows.
 
-## 1\. Verify Your Java Installation
-
-![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
+## 1\. Verify Your Java Installation ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
 
  Verifying your Java installation can help you determine issues with the release itself. You can use the**java -version** command in Command Prompt to check the current version of Java installed along with the date of installation.
 
@@ -35,11 +33,9 @@ To check the Java version installed on Windows:
 3. In the Command Prompt window, type the following command and press**Enter** :  
 `java -version`
 4. The output will list the JDK version installed on your computer and the installation date.
-5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
+5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the [Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
-## 2\. End the Java Process in Task Manager
-
-![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
+## 2\. End the Java Process in Task Manager ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
@@ -51,7 +47,7 @@ To check the Java version installed on Windows:
 
  Insufficient permission can prevent some Java apps from running on your computer. To fix the problem, run Java with administrative privilege. To run Java as an administrator on Windows, right-click on**Java.exe** and select**Run as administrator** .
 
- Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
+ Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out [how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
 
 ## 4\. Increase the System Memory for Java
 
@@ -91,20 +87,18 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
 
-## 5\. Uninstall and Reinstall Java
-
-![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
+## 5\. Uninstall and Reinstall Java ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
 
 To clean install Java:
 
-1. Go to the[Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
+1. Go to the [Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
 2. Run the executable and click**Agree** .
 3. Select all the versions of Java detected by the tool and click**Next** .
 4. Click**Yes** and wait as the uninstaller removes Java from your computer. Click**Close** .
 5. Restart your computer to apply the changes.
-6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
+6. Next, go to the [Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
 ## 6\. Install Java in a WindowsClean Boot State
@@ -132,3 +126,22 @@ To clean install Java:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/avoid-failure-windows-update-issue-code-0x80242016/"><u>Avoid Failure: Windows Update Issue Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-save-photoerror-in-windows-11-os/"><u>How to Correct 'No Save' PhotoError in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-peace-halt-unseen-operations/"><u>Win11 Peace: Halt Unseen Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-themes-for-enhanced-terminal-views/"><u>Innovative Themes for Enhanced Terminal Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivation-guide-for-your-frozen-windows-11-search-box/"><u>Reactivation Guide for Your Frozen Windows 11 Search Box</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-fixing-system-call-error-on-windows-11/"><u>Preventing and Fixing System Call Error on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-ios-video-recorders-reviewed-for-2024/"><u>[Updated] Essential iOS Video Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y200</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-nikon-video-post-production-made-easy-tips-and-tricks/"><u>Updated 2024 Approved Nikon Video Post-Production Made Easy Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/freezing-gameplay-essential-pc-screen-snaps-for-2024/"><u>Freezing Gameplay  Essential PC Screen Snaps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficient-vimeo-video-extraction-software-for-2024/"><u>[New] Efficient Vimeo Video Extraction Software for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-list-of-free-security-camera-software-for-2024/"><u>The Ultimate List of Free Security Camera Software for 2024</u></a></li>
+</ul></div>

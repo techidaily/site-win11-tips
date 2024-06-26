@@ -1,7 +1,7 @@
 ---
 title: Speedy Keyboard Wizardry with Windows Tools
-date: 2024-06-22 18:22:28
-updated: 2024-06-24 11:28:45
+date: 2024-06-25T16:11:44.601Z
+updated: 2024-06-26T16:11:44.601Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Developed by Microsoft in collaboration with its community, PowerToys is a suite of open-source utilities you can install on your Windows 10 or 11 PC. With PowerToys, you can customize your Windows experience and enhance your productivity and efficiency.
 
- PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you[extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that[converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
+ PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you [extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that [converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
 
- It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its[PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
+ It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its [PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
 
  Once you have PowerToys, you can use the Keyboard Manager, Quick Accent, and Shortcut Guide to type faster. Remember that PowerToys must be activated and running in the background for these utilities to work.
 
@@ -94,7 +94,7 @@ To remap your keys with Keyboard Manager:
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
- You might not be able to always recall the[various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
+ You might not be able to always recall the [various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
 
  First,**Enable Shortcut Guide** in PowerToys Settings. Then choose to activate Shortcut Guide by**holding the Win key down for a set time** or use a**customized shortcut** .
 
@@ -131,3 +131,27 @@ To remap your keys with Keyboard Manager:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-os-the-installation-of-outlook-preview-app/"><u>Leveraging Windows 11 OS: The Installation of Outlook Preview App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-unwelcome-closure-messages-from-your-roblox-games/"><u>Avoiding Unwelcome Closure Messages From Your Roblox Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-gpu-performance-unveiling-the-top-6-tools-for-windows-users/"><u>Pioneering GPU Performance: Unveiling the Top 6 Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-on-windows-a-step-by-step-guide/"><u>Converting Gmail To Outlook on Windows – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-exception-handling-breaking-point-solution/"><u>Mastering Windows Exception Handling: Breaking Point Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-paths-to-windows-help-and-hands-on-center/"><u>The Easy Paths To Windows Help and Hands-On Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-fixing-system-call-error-on-windows-11/"><u>Preventing and Fixing System Call Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-operation-failed-0x0000011b-errors/"><u>Troubleshooting Operation Failed: 0X0000011B Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-the-forgotten-windows-start-menu/"><u>How to Reactivate the Forgotten Windows Start Menu</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-list-the-7-most-immersive-global-conflict-sims/"><u>[New] Ultimate List  The 7 Most Immersive Global Conflict Sims</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>2024 Approved  Convert with Precision  10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-make-your-facebook-video-stand-out/"><u>[Updated] In 2024, How to Make Your Facebook Video Stand Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-blueprint-for-scheduling-success-with-slack-plus-filmora/"><u>2024 Approved  The Essential Blueprint for Scheduling Success with Slack + Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>[Updated] PowerPoint Presentations  Enhancing Clarity with Voiceovers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-live-screenbackscapes-2023-for-2024/"><u>Premium Live Screenbackscapes 2023 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-webcam-mastery-unique-ideas-explored/"><u>[New] 2024 Approved  Webcam Mastery  Unique Ideas Explored</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-15-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 15 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/premium-membership-uncovered-your-complete-guide/"><u>Premium Membership Uncovered  Your Complete Guide</u></a></li>
+</ul></div>

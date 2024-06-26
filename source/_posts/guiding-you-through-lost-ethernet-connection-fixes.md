@@ -1,7 +1,7 @@
 ---
 title: Guiding You Through Lost Ethernet Connection Fixes
-date: 2024-06-23 18:43:52
-updated: 2024-06-24 11:45:47
+date: 2024-06-25T16:46:27.730Z
+updated: 2024-06-26T16:46:27.730Z
 tags:
   - windows10
   - windows11
@@ -42,9 +42,7 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
-## 3\. Troubleshoot Your Ethernet Connection
-
-![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
+## 3\. Troubleshoot Your Ethernet Connection ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
@@ -76,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  After that, restart your device once to ensure the changes take effect.
 
-## 6\. Change Your DNS Settings and Flush the DNS Cache
-
-![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
+## 6\. Change Your DNS Settings and Flush the DNS Cache ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
 
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
@@ -86,9 +82,7 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
-## 7\. Reset the Network Settings
-
-![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
+## 7\. Reset the Network Settings ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
@@ -99,3 +93,31 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  Seeing your Ethernet connected but not being able to access the internet can make us lose our cool. Hopefully, the above fixes will help you solve the problem and start using the internet again. If none of the fixes work and you need help figuring out the problem, contact your ISP and have them diagnose and fix it.
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-gateway-how-to-enter-os-settings/"><u>The Gateway: How to Enter OS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-enable-photo-viewer-window/"><u>Step-by-Step: Enable Photo Viewer Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-taming-vanguards-cpu-power-draw-in-windows/"><u>Unlock Peak Performance: Taming Vanguard’s CPU Power Draw in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-ancient-game-visuals-using-retroarch-shader-magic/"><u>Transforming Ancient Game Visuals Using RetroArch Shader Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-non-operational-printer-feature-via-wwinplusp-in-windows/"><u>Navigating and Fixing Non-Operational Printer Feature via WWin+P in Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g14-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G14 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-virality-vault-uncovering-keywords-that-drive-video-shares/"><u>[New] Virality Vault  Uncovering Keywords That Drive Video Shares</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-insiders-tips-on-conveniently-setting-up-google-meet/"><u>[Updated] In 2024, The Insider's Tips on Conveniently Setting Up Google Meet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-silence-the-noise-in-online-discussions-with-voicemod-tricks/"><u>[Updated] Silence the Noise in Online Discussions with VoiceMod Tricks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-personalized-visuals-a-complete-user-imagery-guide-on-discord-for-2024/"><u>[Updated] Personalized Visuals  A Complete User Imagery Guide on Discord for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-software-choices-for-tweeting-vids/"><u>In 2024, Pinnacle Software Choices for Tweeting Vids</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-idea-to-internet-fame-becoming-a-vtuber/"><u>From Idea to Internet Fame  Becoming a VTuber?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Mix Fold 3</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

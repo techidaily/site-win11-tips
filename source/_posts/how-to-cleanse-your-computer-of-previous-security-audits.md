@@ -1,7 +1,7 @@
 ---
 title: How to Cleanse Your Computer of Previous Security Audits
-date: 2024-06-23 10:55:58
-updated: 2024-06-24 12:45:11
+date: 2024-06-25T16:54:35.952Z
+updated: 2024-06-26T16:54:35.952Z
 tags:
   - windows10
   - windows11
@@ -104,3 +104,29 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
  If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-writable-memory-protection/"><u>Correcting Windows 11' Writable Memory Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windowsapps-get-inside/"><u>Demystifying WindowsApps: Get Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-handling-widget-notifications-win-11-style/"><u>Efficiently Handling Widget Notifications Win 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regenerating-system-icons-in-windows-os/"><u>Regenerating System Icons in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-procedure-to-fix-a-disabled-windows-11-hotspot/"><u>Restarting Procedure to Fix a Disabled Windows 11 Hotspot</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-haul-video-editing-techniques-for-2024/"><u>Mastering the Art of Haul Video Editing Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-url-integration-in-ig-stories-and-posts/"><u>[New] In 2024, Navigating URL Integration in IG Stories and Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-digital-tools-for-enhancing-web-streams-for-2024/"><u>Top 5 Digital Tools for Enhancing Web Streams for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimal-webcam-use-and-recording-techniques-for-macbook/"><u>[New] In 2024, Optimal Webcam Use and Recording Techniques for MacBook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-identifying-10-quick-growth-youtube-blogs-that-encourage/"><u>2024 Approved  Identifying 10 Quick-Growth YouTube Blogs that Encourage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/edefine-your-viewing-habits-6-leading-cost-free-video-downloaders-for-youtube-shorts-for-2024/"><u>[New] Redefine Your Viewing Habits  6 Leading, Cost-Free Video Downloaders for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-checklist-to-add-audio-to-your-facebook-vids/"><u>[New] The Ultimate Checklist to Add Audio to Your Facebook Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-recording-lol-discover-3-essential-tips/"><u>Master the Art of Recording LOL - Discover 3 Essential Tips</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

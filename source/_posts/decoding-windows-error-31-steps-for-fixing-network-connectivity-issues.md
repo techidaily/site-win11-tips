@@ -1,7 +1,7 @@
 ---
 title: "Decoding Windows Error 31: Steps for Fixing Network Connectivity Issues"
-date: 2024-06-24 16:19:53
-updated: 2024-06-26 11:57:52
+date: 2024-06-25T16:41:47.781Z
+updated: 2024-06-26T16:41:47.781Z
 tags:
   - windows10
   - windows11
@@ -61,9 +61,7 @@ To perform a network reset:
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
-## 3\. Delete the Corrupted Network Config File on Older Machines
-
-![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
+## 3\. Delete the Corrupted Network Config File on Older Machines ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
 
@@ -79,13 +77,13 @@ To perform a network reset:
 
  Once the key is deleted, you'll need to remove and reinstall the network driver. You can do it using Device Manager, as shown in the step below.
 
- Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
+ Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on [how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
 
-1. Open Device Manager (see[how to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) for detailed steps).
+1. Open Device Manager (see [how to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) for detailed steps).
 2. Next, expand the**Network Adapters** section.
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
@@ -133,3 +131,22 @@ To perform a restore point:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/remedying-voice-typing-problems-error-code-0x80049dd3-in-windows-11/"><u>Remedying Voice Typing Problems (Error Code: 0X80049DD3) in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snowflake-surprises-gifting-windows-games-via-mstore/"><u>Snowflake Surprises: Gifting Windows Games via MSTORE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-read-only-folder-issues/"><u>Overcoming Windows 11 Read-Only Folder Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-sudden-screen-loss-during-win-games/"><u>Techniques to Overcome Sudden Screen Loss During WIN Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-command-center-for-app-and-browser-authority/"><u>Windows Command Center for App and Browser Authority</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-unauthorized-windows-shared-folder-access/"><u>Fix Unauthorized Windows Shared Folder Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-elevate-your-creative-output-with-these-audio-addition-methods-in-after-effects-updated/"><u>New 2024 Approved Elevate Your Creative Output with These Audio Addition Methods in After Effects (Updated )</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-smoothly-with-chromes-picture-in-picture/"><u>[Updated] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-verified-posts-do-they-matter/"><u>2024 Approved  Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/splitcam-assessment-best-video-recorder-ranking-for-2024/"><u>SplitCam Assessment  Best Video Recorder Ranking for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-to-cartoon-making-start-with-these-10-top-tools-for-2024/"><u>New to Cartoon Making? Start with These 10 Top Tools for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-diy-digital-storytelling-making-moving-pictures-on-your-smartphone-for-2024/"><u>[New] DIY Digital Storytelling  Making Moving Pictures on Your Smartphone for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-enigma-of-missing-video-suggestions-in-your-feed/"><u>The Enigma of Missing Video Suggestions in Your Feed</u></a></li>
+</ul></div>

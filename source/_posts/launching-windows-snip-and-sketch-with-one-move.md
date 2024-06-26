@@ -1,7 +1,7 @@
 ---
 title: Launching Windows Snip & Sketch With One Move
-date: 2024-06-23 22:42:24
-updated: 2024-06-24 10:49:57
+date: 2024-06-25T16:26:45.201Z
+updated: 2024-06-26T16:26:45.201Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
  Once you've made your selection, click the Save icon in the upper right corner of the Snipping tool. You can also save snippets using the**Ctrl + S** shortcut key. Now choose a location where you want to save your snippet, and then click**Save** again.
 
- If you like using keyboard shortcuts, be sure to check out our[Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+ If you like using keyboard shortcuts, be sure to check out our [Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
- To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ To get more out of this handy tool, be sure to read our [beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## 6\. How to Open the Snipping Tool via File Explorer
 
@@ -139,3 +139,26 @@ The Snipping tool should now be open and ready to use!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-with-ease-access-calculator/"><u>Navigating Windows 11 with Ease: Access Calculator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-trick-sticky-notes-open-up-with-system-boot/"><u>Tailored Windows Trick: Sticky Notes Open-Up With System Boot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-win11-space-to-perfection/"><u>Tailoring Your Win11 Space to Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-shifting-your-powertoys-profile-to-another-pc/"><u>Efficiently Shifting Your PowerToys Profile to Another PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circuit-breakers-fixes-to-power-up-your-photoshop/"><u>Circuit Breakers: Fixes to Power Up Your PhotoShop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>2024 Approved  Expert Recommendations  The Finest Skype Recorders of 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c33-2023-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C33 2023 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unveiling-the-most-effective-8-software-solutions-for-windows-mac-and-cloud-platforms/"><u>New In 2024, Unveiling the Most Effective 8 Software Solutions for Windows, Mac, and Cloud Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplified-methods-for-logging-videos-on-vimeo/"><u>2024 Approved  Simplified Methods for Logging Videos on Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ideal-dialogue-architect-forum/"><u>Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/beats-and-bars-top-20-rap-tracks-soaring-on-tiktok/"><u>Beats & Bars  Top 20 Rap Tracks Soaring on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-masters-list-the-best-6-4k-dslr-cameras-today-for-2024/"><u>Photo Masters List  The Best 6 4K DSLR Cameras Today for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/8-blender-3d-animation-tutorials-for-beginners-for-2024/"><u>8 Blender 3D Animation Tutorials for Beginners for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/six-visionaries-revolutionizing-the-nft-art-scene-for-2024/"><u>Six Visionaries Revolutionizing the NFT Art Scene for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-strategies-for-console-recording-on-personal-devices/"><u>Cutting-Edge Strategies for Console Recording on Personal Devices</u></a></li>
+</ul></div>

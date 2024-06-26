@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 10/11 iPhone Picture Import Glitches
-date: 2024-06-22 10:21:27
-updated: 2024-06-24 10:19:27
+date: 2024-06-25T16:41:53.847Z
+updated: 2024-06-26T16:41:53.847Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
 
-1. Open Services on Windows. See[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
+1. Open Services on Windows. See [how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 3. Press**Photos** to access settings for transferring images.
 4. Select the**Keep Originals** option.
 
- If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
+ If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our [how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
 ## 6\. Repair and/or Reset the Photos App
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
- You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
+ You can access both those Photos troubleshooting options as outlined in our [guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
 ## 7\. Close the OneDrive App
 
@@ -127,3 +127,26 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/understanding-variability-in-windows-protocols-for-cloud-and-local-reinstallation/"><u>Understanding Variability in Windows Protocols for Cloud and Local Reinstallation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-page-load-failure-on-microsoft-store-windows-app/"><u>Resolving 'Page Load Failure' On Microsoft Store Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-now-error-xc0f1103f-in-windows-11/"><u>Overcoming GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/riding-out-the-storm-conquering-xbox-app-glitches-on-win11/"><u>Riding Out the Storm: Conquering Xbox App Glitches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-unintended-mouse-scrolling-with-these-7-tricks/"><u>Eradicate Unintended Mouse Scrolling with These 7 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-non-changeable-sleepwake-modes-in-windows-11/"><u>Circumventing Non-Changeable Sleep/Wake Modes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-windows-11-support-features/"><u>Re-Establishing Windows 11 Support Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-average-time-to-watch-a-20-megabit-movie/"><u>In 2024, Average Time to Watch a 20 Megabit Movie</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elevating-ppt-impact-through-high-quality-recordings-for-2024/"><u>[New] Elevating PPT Impact Through High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-top-win11-videography-software-selections-for-2024/"><u>Unveiling Top Win11 Videography Software Selections for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-3-innovative-ways-to-record-on-your-ipad/"><u>In 2024, 3 Innovative Ways to Record on Your iPad</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-efficient-processes-for-sharing-4k-footage-with-a-global-audience/"><u>[New] Efficient Processes for Sharing 4K Footage with a Global Audience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-requirement-aspect-ratio/"><u>[New] Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-freely-accessible-comedy-soundtracks-5-recommended-sources-for-video-editors/"><u>New In 2024, Freely Accessible Comedy Soundtracks 5 Recommended Sources for Video Editors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-vacation-slideshow-in-5-minutes-for-2024/"><u>How to Create a Vacation Slideshow in 5 Minutes for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/perfect-and-unique-youtube-channel-names-for-professional-filmmakers-and-vloggers-no-more-than-156-characters/"><u>Perfect & Unique Youtube Channel Names for Professional Filmmakers & Vloggers (No More than 156 Characters)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-latest-in-sony-blu-ray-s6700-for-2024/"><u>Unveiling the Latest in Sony Blu-Ray S6700 for 2024</u></a></li>
+</ul></div>

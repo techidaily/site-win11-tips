@@ -1,7 +1,7 @@
 ---
 title: "Pro WLS Techniques: Unlocking the Full Power of WSL 2 in Win OSes"
-date: 2024-06-23 19:39:57
-updated: 2024-06-25 10:27:50
+date: 2024-06-25T16:53:54.334Z
+updated: 2024-06-26T16:53:54.334Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/b279c06b6e6c3fd0e8d4629e4ec0cbf49c045cc7b
 
 ## What Is Windows Subsystem for Linux 2?
 
- The Windows Subsystem for Linux 2 (WSL 2) is a Linux kernel built into Windows 10 and 11\. One of today's most valuable features is the Windows Subsystem for Linux (WSL). It lets Windows users run Linux distributions such as Ubuntu and Kali on Windows without having to dual-boot or[configure a specialized virtual machine](https://www.makeuseof.com/linux-virtual-machine-or-wsl/) .
+ The Windows Subsystem for Linux 2 (WSL 2) is a Linux kernel built into Windows 10 and 11\. One of today's most valuable features is the Windows Subsystem for Linux (WSL). It lets Windows users run Linux distributions such as Ubuntu and Kali on Windows without having to dual-boot or [configure a specialized virtual machine](https://www.makeuseof.com/linux-virtual-machine-or-wsl/) .
 
  Without the need for further installation work, Windows users can instantly access the Linux command-line tools, programs, and utilities. Initially launched with Windows 10, the latest version–WSL 2, offers much more stability and power.
 
- In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
+ In addition to being able to operate the Linux terminal, Windows users can even [run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
@@ -54,11 +54,9 @@ Here are some of the other important WSL 2 benefits for developers:
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
- Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
+ Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the [best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
-## 2\. Integrate Visual Studio Code
-
-![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
+## 2\. Integrate Visual Studio Code ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
@@ -78,9 +76,7 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-## 5\. Run Containers With Docker
-
-![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
+## 5\. Run Containers With Docker ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
@@ -104,3 +100,27 @@ Here are some of the other important WSL 2 benefits for developers:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/desktops-uncluttered-remove-win11s-spotlight-symbol/"><u>Desktops Uncluttered: Remove Win11's Spotlight Symbol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-bluetooth-pin-verification-hitch-on-win11w10-pcs/"><u>How To Fix Bluetooth PIN Verification Hitch on Win11/W10 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-the-forgotten-windows-start-menu/"><u>How to Reactivate the Forgotten Windows Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-primary-app-uses-computer-audio-devices/"><u>Resolving Non-Primary App Uses Computer Audio Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-microsoft-can-improve-windows-11-widgets/"><u>8 Ways Microsoft Can Improve Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-concepts-a-guide-to-obsidian-visualization/"><u>Captivating Concepts: A Guide to Obsidian Visualization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alternate-routes-to-open-the-latest-windows-apps/"><u>Alternate Routes to Open the Latest Windows Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-10-recommended-websites-to-discover-awesome-premiere-pro-video-templates/"><u>In 2024, 10 Recommended Websites to Discover Awesome Premiere Pro Video Templates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-engagement-advanced-youtube-tag-strategies-revealed/"><u>[New] Boost Engagement  Advanced YouTube Tag Strategies Revealed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-slow-motion-secrets-reels-done-right/"><u>[New] 2024 Approved  Instagram's Slow Motion Secrets  Reels Done Right</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-x90s-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from X90S</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacited-sight-top-ranked-phones-with-elite-4k-camera-features/"><u>In 2024, Spectacited Sight  Top-Ranked Phones with Elite 4K Camera Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-like-a-pro-tips-for-macwindows-tiktok-users-for-2024/"><u>Navigating Like a Pro  Tips for Mac/Windows TikTok Users for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-move-over-virtualdub-exploring-the-latest-video-editing-innovations/"><u>In 2024, Move Over Virtualdub Exploring the Latest Video Editing Innovations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-perfect-aspect-ratio-a-step-by-step-guide/"><u>Discover the Perfect Aspect Ratio A Step-by-Step Guide</u></a></li>
+</ul></div>

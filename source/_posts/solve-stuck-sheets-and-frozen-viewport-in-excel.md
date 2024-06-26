@@ -1,7 +1,7 @@
 ---
 title: Solve Stuck Sheets and Frozen Viewport in Excel
-date: 2024-06-23 15:21:29
-updated: 2024-06-25 10:43:10
+date: 2024-06-25T16:13:27.900Z
+updated: 2024-06-26T16:13:27.900Z
 tags:
   - windows10
   - windows11
@@ -121,3 +121,33 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  When you work on large Excel spreadsheets, it is often necessary to scroll both horizontally and vertically in order to access and modify data. But what if you can’t scroll in Microsoft Excel with your mouse or keyboard on Windows?
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reclaim-whats-missing-restoring-enhancement-options-in-windows-11/"><u>Reclaim What's Missing: Restoring Enhancement Options in Window’s 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-changes-essential-windows-programs-for-editing-file-dates/"><u>Timely Changes: Essential Windows Programs for Editing File Dates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-output-with-windows-streamlined-launcher/"><u>Maximize Output with Windows' Streamlined Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-reviving-the-net-framework-on-pcs-max-156/"><u>The Art of Reviving the .NET Framework on PCs (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-win1011-recycle-bin-repair-strategies/"><u>Mastering WIN10/11 Recycle Bin Repair Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-office-365-issue-code-30015-26/"><u>Correcting Office 365 Issue: Code 30015-26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-to-the-upcoming-sudo-integration/"><u>Adapting to the Upcoming Sudo Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-modifying-the-reset-counter-post-failed-logon-attempts-win-11/"><u>Enhancing Security: Modifying the Reset Counter Post Failed Logon Attempts, Win 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>[New] Bringing Out the Best  Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kinemasters-transition-playbook-for-cinematic-excellence-for-2024/"><u>Kinemaster’s Transition Playbook for Cinematic Excellence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>In 2024, Top Picks for the Modern Buyer  Advanced 360Cams</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Gionee F3 Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-essential-guide-for-entrepreneurs-on-igs-business-landscape/"><u>[Updated] 2024 Approved  The Essential Guide for Entrepreneurs on IG's Business Landscape</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-if-final-cut-pro-x-doesnt-work-here-are-some-things-you-can-try-to-get-your-system-back-to-normal-in-no-time/"><u>New 2024 Approved If Final Cut Pro X Doesnt Work, Here Are some Things You Can Try to Get Your System Back to Normal in No Time</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia C32 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-how-to-fix-videos-not-sent-in-facebook-message-apps/"><u>2024 Approved  Mastering How to Fix Videos Not Sent in Facebook Message Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-reels-culture-and-techniques/"><u>[New] Decoding Instagram's Reels Culture and Techniques</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

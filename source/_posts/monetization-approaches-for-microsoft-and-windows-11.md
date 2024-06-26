@@ -1,7 +1,7 @@
 ---
 title: Monetization Approaches for Microsoft & Windows 11
-date: 2024-06-23 17:31:27
-updated: 2024-06-26 10:56:16
+date: 2024-06-25T16:15:05.370Z
+updated: 2024-06-26T16:15:05.370Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
 
-## 1\. Microsoft Earns Money by Selling Windows 11 Licenses
-
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-device.jpg)
+## 1\. Microsoft Earns Money by Selling Windows 11 Licenses ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
@@ -32,9 +30,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
-## 2\. Microsoft Sells Subscriptions to Windows 11 Users
-
-![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
+## 2\. Microsoft Sells Subscriptions to Windows 11 Users ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
 
@@ -44,9 +40,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
-## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
-
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-start-menu.jpg)
+## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -56,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
-## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
-
-![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
+## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
 
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
@@ -72,9 +64,7 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
-## 5\. Microsoft Makes Money From Search Advertising Business
-
-![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
+## 5\. Microsoft Makes Money From Search Advertising Business ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
 
@@ -91,3 +81,33 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/understanding-microsofts-ai-assistive-functions/"><u>Understanding Microsoft's AI Assistive Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-nvidia-connect-error-in-windows-oses/"><u>Overcoming NVIDIA Connect Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-to-resolve-error-code-3-on-gl-drivers/"><u>Expert Techniques to Resolve Error Code 3 on GL Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-paradigms-of-administrative-control-in-windows-environments/"><u>Shifting Paradigms of Administrative Control in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-troubleshooting-windows-1011-file-issues/"><u>Strategies for Troubleshooting Windows 10/11 File Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-and-use-the-windows-terminal-in-quake-mode/"><u>How to Open and Use the Windows Terminal in Quake Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-windows-notification-for-updates/"><u>Ceasing Windows Notification for Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-text-animation-strategies-webreal-world-for-2024/"><u>Affordable Text Animation Strategies  Web/Real World for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-streamlining-digital-audio-production-in-audacity-using-lame-for-2024/"><u>Updated Streamlining Digital Audio Production in Audacity Using Lame for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-dive-into-direct-messaging-and-video-chats-in-under-a-minute/"><u>In 2024, How to Dive Into Direct Messaging & Video Chats in Under a Minute</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>[New] Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>Tech Tips  Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-your-content-10-exceptional-reacting-techniques/"><u>[New] In 2024, Enhancing Your Content  10 Exceptional Reacting Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-for-cross-social-video-sharing/"><u>[Updated] Pioneering Techniques for Cross-Social Video Sharing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2010-stellar-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2010? | Stellar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-viewers-interaction-via-youtube-cards/"><u>[New] In 2024, Boost Viewers Interaction via YouTube Cards</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>In 2024, Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

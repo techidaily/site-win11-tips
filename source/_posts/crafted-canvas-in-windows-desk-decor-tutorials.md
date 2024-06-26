@@ -1,7 +1,7 @@
 ---
 title: "Crafted Canvas in Windows: Desk Decor Tutorials"
-date: 2024-06-22 22:56:49
-updated: 2024-06-24 10:57:43
+date: 2024-06-25T17:10:33.095Z
+updated: 2024-06-26T17:10:33.095Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
 
-1. Open the[Epic Pen](https://epicpen.com/) website.
+1. Open the [Epic Pen](https://epicpen.com/) website.
 2. Click the**Download For Free** button to scroll down the homepage.
 3. Select the**Download Epic Pen** option for the free version.
 4. Find and double-click the**Epic Pen Setup v3.11.44.exe** file in whatever folder your browser usually downloads to.
@@ -51,7 +51,7 @@ Now you can get scribbling on the Windows desktop.
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
- Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
+ Epic Pen’s camera option enables you to save your drawings and annotations by [taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
 
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
@@ -65,9 +65,9 @@ Now you can get scribbling on the Windows desktop.
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
 
-1. Open the[gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
+1. Open the [gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
-3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
+3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
@@ -109,3 +109,22 @@ Now you can get scribbling on the Windows desktop.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/time-capsules-unlocked-exploring-7-features-from-bygone-windows/"><u>Time Capsules Unlocked: Exploring 7 Features From Bygone Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-login-retry-wait-timepost-failed-attempts/"><u>Manipulating Login Retry Wait Timepost-Failed Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-variances-in-remote-and-in-house-windows-setup/"><u>Analyzing Variances in Remote & In-House Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-save-photoerror-in-windows-11-os/"><u>How to Correct 'No Save' PhotoError in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erratic-read-only-file-behavior-on-win11/"><u>Fixing Erratic Read-Only File Behavior on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-and-solving-the-mystery-of-error-0x8007251d/"><u>Unpacking and Solving the Mystery of Error 0X8007251d</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 15? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-m54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beat-it-right-mastering-imovie-audio/"><u>2024 Approved  Beat It Right  Mastering iMovie Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>[New] How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-deciphering-the-code-a-deep-dive-into-recording-whatsapp-messages/"><u>[New] Deciphering the Code  A Deep Dive Into Recording WhatsApp Messages</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-razr-40-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Razr 40 Ultra Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-autonomous-exposure-control-the-magic-behind-auto-and-smart-hdr/"><u>In 2024, Autonomous Exposure Control  The Magic Behind Auto and Smart HDR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-of-firefox-pip-feature/"><u>[Updated] Exploring the Depths of Firefox PIP Feature</u></a></li>
+</ul></div>

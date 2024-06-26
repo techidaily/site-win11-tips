@@ -1,7 +1,7 @@
 ---
 title: Tailor-Made Storage Repositioning in OneDrive for Win 11
-date: 2024-06-22 13:55:42
-updated: 2024-06-25 12:26:11
+date: 2024-06-25T16:09:57.080Z
+updated: 2024-06-26T16:09:57.080Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
 
- If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
+ If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 ### 1\. Unlinking OneDrive
 
- The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
+ The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
 
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
@@ -52,7 +52,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
 
-1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll[re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
+1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll [re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
@@ -64,7 +64,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
- Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+ Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -85,3 +85,24 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-desktop-layout-app-sizes-in-windows-11/"><u>Mastering Desktop Layout: App Sizes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-key-clues-suggesting-windows-reboot-required/"><u>3 Key Clues Suggesting Windows Reboot Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-text-hotkeys-setup-for-custom-snip-tapping-in-win11/"><u>Advanced Text Hotkeys Setup for Custom Snip Tapping in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/closed-folder-fixes-for-w11w10-double-click-malfunction/"><u>Closed Folder Fixes for W11/W10 Double-Click Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-problem-solving-in-windows-1011-with-shortcuts/"><u>Personalizing Problem-Solving in Windows 10/11 with Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-to-new-life-for-your-outdated-computer/"><u>Transition to New Life for Your Outdated Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-put-a-windows-computer-to-sleep/"><u>9 Ways to Put a Windows Computer to Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-printer-access-for-windows-users/"><u>Unblocking Printer Access for Windows Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-united-experts-easeus-expert-reviews/"><u>2024 Approved  United Experts  EaseUS Expert Reviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/must-watch-10-unique-igtv-content-formats-for-brands/"><u>Must-Watch  10 Unique IGTV Content Formats for Brands</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pros-recommendations-leading-video-editing-software/"><u>[New] Pros' Recommendations  Leading Video Editing Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simple-strategies-for-saving-video-calls/"><u>[Updated] In 2024, Simple Strategies for Saving Video Calls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fists-fighting-fames-flame/"><u>[Updated] Fists Fighting Fame's Flame</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m54-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M54 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tasty-tiktoks-worlds-best-food-vloggers-for-2024/"><u>[New] Tasty TikToks  World's Best Food Vloggers for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-blaze-2-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Blaze 2? Try These Fixes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-sonic-signature-of-an-aggravated-poochs-howl/"><u>New Exploring the Sonic Signature of an Aggravated Poochs Howl</u></a></li>
+</ul></div>

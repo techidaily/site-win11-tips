@@ -1,7 +1,7 @@
 ---
 title: Customizing Window 11'S Desktop Menu Add-Ons
-date: 2024-06-21 12:37:45
-updated: 2024-06-24 11:51:23
+date: 2024-06-25T16:33:40.446Z
+updated: 2024-06-26T16:33:40.446Z
 tags:
   - windows10
   - windows11
@@ -120,3 +120,33 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  You could create multiple submenus on the context menu that include shortcuts for opening different software categories, such as web browsers, media players, productivity apps, etc. Or you can add a new desktop context menu submenu for accessing Windows tools and turn off options with Easy Context Menu.
 
  If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-transfer-windows-11-auto-move-techniques/"><u>Mastering File Transfer: Windows 11 Auto-Move Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-syncing-on-windows-the-most-rated-apps/"><u>Mastering File Syncing on Windows: The Most Rated Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-loading-messages-in-windows-discord-client/"><u>Correcting Non-Loading Messages in Windows Discord Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-lag-and-enhance-fps-in-roblox-win-edition/"><u>Minimize Lag & Enhance FPS in Roblox Win Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-chrome-clock-error-ahead-or-behind-windows-edition/"><u>Adjusting Chrome Clock Error: Ahead or Behind? (Windows Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redressing-invisible-lan-windows-network-guide/"><u>Redressing Invisible LAN: Windows Network Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-winerror-0xc0000005/"><u>Mastering the Art of Fixing WinError 0Xc0000005</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-hidden-treasures-10-newest-coolest-fb-meme-pages/"><u>[Updated] Hidden Treasures  10 Newest, Coolest FB Meme Pages</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-x50i-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor X50i</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-scrutinizing-vlc-for-video-capturing/"><u>[New] 2024 Approved  Scrutinizing VLC for Video Capturing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/10-best-live-tv-streaming-services-with-comparison-for-2024/"><u>10 Best Live TV Streaming Services - With Comparison for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-secrets-of-live-video-sharing-on-discord-for-2024/"><u>[New] Unveiling the Secrets of Live Video Sharing on Discord for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-online-video-editing-software-with-music-and-transitions/"><u>Updated Online Video Editing Software with Music and Transitions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-lava-agni-2-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Lava Agni 2 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-your-ipads-voice-capture-potential/"><u>[New] Unlocking Your iPad's Voice Capture Potential</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-unraveling-the-mysteries-of-jazz-music-more-than-meets-the-ear/"><u>2024 Approved Unraveling the Mysteries of Jazz Music More Than Meets the Ear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>In 2024, Pro Photo & Video with GoPro  Hero5 Black Mastery Essentials</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

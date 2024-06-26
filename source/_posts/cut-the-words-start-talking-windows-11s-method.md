@@ -1,7 +1,7 @@
 ---
 title: "Cut the Words, Start Talking: Windows 11'S Method"
-date: 2024-06-23 20:53:38
-updated: 2024-06-26 10:54:25
+date: 2024-06-25T17:09:43.968Z
+updated: 2024-06-26T17:09:43.968Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Windows 11 comes with a built-in screen reader called Narrator that you can use if you need a screen reader. Here's how to open it via the Command Prompt:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
 2. Type "cmd" in the text box and press**Ctrl + Shift + Enter** .
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
@@ -81,7 +81,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
 
-1. Open the Control Panel (see[how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
+1. Open the Control Panel (see [how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
@@ -113,7 +113,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  If you're looking for a quick way to open Narrator in Windows 11, there is no better way to do so than by using File Explorer. Here's how to do it:
 
-1. Open Windows File Explorer (see[how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
+1. Open Windows File Explorer (see [how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
 2. In the address bar, type "Narrator" and hit Enter.
 
 That's all; your Narrator should now be ready to go.
@@ -147,3 +147,24 @@ That's all; your Narrator should now be ready to go.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-modifying-the-reset-counter-post-failed-logon-attempts-win-11/"><u>Enhancing Security: Modifying the Reset Counter Post Failed Logon Attempts, Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-and-resolving-windows-11-thumbnail-missing-issue/"><u>Identifying & Resolving Windows 11 Thumbnail Missing Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/abruptly-quell-windows-11-interruptions/"><u>Abruptly Quell Windows 11 Interruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-secure-testing-solution-enabling-and-configuring-sandbox/"><u>Win 11'S Secure Testing Solution: Enabling and Configuring Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-file-formats-transforming-docx-into-plain-pdf-text-via-windows-11/"><u>Perfecting File Formats: Transforming DOCX Into Plain PDF Text via Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-runtime-brokers-in-computing/"><u>Unraveling the Mystery of Runtime Brokers in Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfolding-windows-11s-enigma-insights-into-the-registry/"><u>Unfolding Windows 11'S Enigma: Insights Into the Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-s-mode-imply-in-windows-11-upgrade/"><u>What Does 'S Mode' Imply in Windows 11 Upgrade?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melding-audio-with-visuals-digitally-for-2024/"><u>Melding Audio With Visuals Digitally for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/getting-started-a-primer-on-screencastify-use/"><u>Getting Started  A Primer on Screencastify Use</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-ubuntu-video-editing-essentials-top-10-free-options/"><u>2024 Approved Ubuntu Video Editing Essentials Top 10 Free Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>[New] IPhone Album Arrangement Masterclass  Achieving Systematic Order & Cloud Sync</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-13c-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi 13C 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/coping-out-spots-where-to-meet-youtube-brand-deals-for-2024/"><u>[New] Scoping Out Spots  Where to Meet YouTube Brand Deals for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/videographys-bright-side-5-must-have-apps/"><u>Videography's Bright Side  5 Must-Have Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C32? | Dr.fone</u></a></li>
+</ul></div>

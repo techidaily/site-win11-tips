@@ -1,7 +1,7 @@
 ---
 title: "Step by Step: Downloading and Installing Windows 11 ARM From ISO"
-date: 2024-06-24 19:34:15
-updated: 2024-06-25 11:18:51
+date: 2024-06-25T16:59:19.757Z
+updated: 2024-06-26T16:59:19.757Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
  Like its predecessor, the newest iteration of Microsoft's popular operating system can run on compatible ARM devices. However, Windows 11 now uses the new ARM64EC application binary interface (ABI) for ARM devices. It helps developers achieve native speed and makes it compatible with x64 apps and their dependencies.
 
- Microsoft explains in detail[ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
+ Microsoft explains in detail [ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
 
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
 ## How to Download Windows 11 ARM64 ISO
 
- To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to[download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to [download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 To download the Windows 11 ARM ISO:
 
-1. Go to the[UUP Dump page](https://uupdump.net/) .
+1. Go to the [UUP Dump page](https://uupdump.net/) .
 2. Type**Windows 11** in the search bar and hit**Enter** to view the search results.  
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
@@ -67,7 +67,7 @@ To download the Windows 11 ARM ISO:
 4. UUP Dump will run the script in Windows Terminal and download the necessary files. Once downloaded, the Terminal window will turn blue, indicating the ISO building process is in progress.
 5. When the prompt appears, press**0** to exit.
 
- UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
+ UUP Dump will save the ISO to your initially extracted folder. You can now use it to [create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to [create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
 ## Upgrade Your ARM-based PC to Windows 11
 
@@ -87,3 +87,24 @@ To download the Windows 11 ARM ISO:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/1719237818540-trouble-with-compatibility-try-these-straightforward-fixes-now/"><u>Trouble with Compatibility? Try These Straightforward Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-mcuicntexe-non-existent-window-complaint/"><u>Dealing with McUICnt.exe Non-Existent Window Complaint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-quick-fix-for-active-directory-domain-services-printer-errors/"><u>Comprehensible Guide: Quick Fix for Active Directory Domain Services Printer Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-directory-size-a-powershell-approach/"><u>Dissecting Directory Size: A PowerShell Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-resolving-windows-store-issue-code-0x00000000/"><u>Unraveling and Resolving Windows Store Issue Code 0X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-roblox-error-262-instantly/"><u>Overcoming Roblox Error 262 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-mspm-errors-windows-based-fixes-required/"><u>Halt MSPM Errors, Windows-Based Fixes Required</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-if-you-have-a-low-budget-but-want-to-create-a-filmy-appearance-of-the-video-then-read-6-ways-to-get-professional-filming-equipment-by-using-househol/"><u>In 2024, If You Have a Low Budget but Want to Create a Filmy Appearance of the Video, Then Read 6 Ways to Get Professional Filming Equipment by Using Household Objects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-into-the-world-of-vrecorder-downloading-and-using/"><u>[Updated] 2024 Approved  Step Into the World of VRecorder  Downloading and Using</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 14</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-quik-fix-exploring-the-best-pc-alternatives-for-video-editing/"><u>In 2024, Quik Fix Exploring the Best PC Alternatives for Video Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/connecting-the-dots-an-in-depth-look-at-linking-airpods-with-computers/"><u>Connecting the Dots An In-Depth Look at Linking AirPods with Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-network-broadcast-with-vlc/"><u>2024 Approved  Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expertly-selected-8-recording-software-for-2024/"><u>Expertly Selected 8 Recording Software for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-expert-guide-to-displaying-audio-waves-and-adding-motion-graphics-in-premiere-pro/"><u>Updated In 2024, Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro</u></a></li>
+</ul></div>

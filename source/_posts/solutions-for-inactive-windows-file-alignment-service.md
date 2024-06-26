@@ -1,7 +1,7 @@
 ---
 title: Solutions for Inactive Windows File Alignment Service
-date: 2024-06-24 12:57:54
-updated: 2024-06-26 12:42:14
+date: 2024-06-25T16:12:30.932Z
+updated: 2024-06-26T16:12:30.932Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  To check if the Disk Defragmenter service is running properly, follow the steps:
 
-1. Open the Services app (see[ways to open the Services app on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ).
+1. Open the Services app (see [ways to open the Services app on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ).
 2. Scroll down to the "Optimise drives" service and double-click on it.
 3. Click on the drop-down menu and set the Start type to "Manual."
 4. Make sure the Service status is "Running." If it is not, then click on**Start** to run it.  
@@ -71,7 +71,7 @@ To run the System File Checker, follow these steps:
 
 ## 3\. Run the CHKDSK Utility
 
- If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
+ If your computer's Disk Defragmenter is still not working, you can try [running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
 
 To run the CHKDSK utility, follow the below steps:
 
@@ -120,3 +120,26 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-strategy-for-sound-graph-segregation/"><u>Understanding Windows' Strategy for Sound Graph Segregation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/past-keys-to-future-launches-utilizing-windows-7-for-windows-11-bootup/"><u>Past Keys to Future Launches: Utilizing Windows 7 for Windows 11 Bootup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-system-call-issues-on-modern-windows/"><u>How to Eradicate System Call Issues on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-code-0xc0000005-on-windows-pc/"><u>How to Fix the Error Code 0Xc0000005 on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-your-mouse-cursor-stand-out-on-windows-devices/"><u>Making Your Mouse Cursor Stand Out on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-initiate-sfc-process-in-windows-1087/"><u>Steps to Initiate SFC Process in Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-superiority-of-pcs-to-macs-in-9-areas/"><u>Dissecting the Superiority of PCs to Macs in 9 Areas</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-crafting-twitreacts/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Crafting TwitReacts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-extension-fb-stories-archive/"><u>[New] Digital Extension  Fb Stories Archive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-professional-tips-for-perfecting-your-srt-files-for-2024/"><u>[New] Professional Tips for Perfecting Your SRT Files for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-your-facecam-video-recordings/"><u>[Updated] 2024 Approved  Optimizing Your Facecam Video Recordings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-neo-5-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT Neo 5 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unparalleled-vr-game-setups-top-8-edition-for-2024/"><u>Unparalleled VR Game Setups  Top 8 Edition for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-technique-programming-a-time-counter-in-obs/"><u>2024 Approved  Ultimate Technique  Programming a Time Counter in OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inferno-captures-best-slow-motion-cameras/"><u>Inferno Captures  Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-guides-and-tips-best-streamers/"><u>[New] 2024 Approved  Gamer Guides and Tips  Best Streamers</u></a></li>
+</ul></div>

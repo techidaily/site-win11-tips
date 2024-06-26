@@ -1,7 +1,7 @@
 ---
 title: How to Start System File Verification with SFC
-date: 2024-06-22 19:42:48
-updated: 2024-06-25 10:22:31
+date: 2024-06-25T16:57:16.293Z
+updated: 2024-06-26T16:57:16.293Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
- If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ If you’re unfamiliar with operating system files, please read our guide on [what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our [beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## What Happens After I Run the System File Checker?
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
 
- In that case, you can run SFC by[creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
+ In that case, you can run SFC by [creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
 
  The important thing to remember about an offline scan is that you need to tell the SFC where to find Windows on the bootable drive. Here’s what a**/scannow** command would look like if you ran it offline:
 
@@ -118,3 +118,26 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enable-digital-supervision-in-windows-11-pcs/"><u>Steps to Enable Digital Supervision in Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-internal-builds-in-windows-11/"><u>Safeguarding Internal Builds in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-taskview-in-window-11-taskbar-design/"><u>Concealing TaskView in Window 11 Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-restore-your-microsoft-store-registrations-win-11/"><u>Fix and Restore Your Microsoft Store Registrations (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually With Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-escape-the-slow-gpsvc-cycle/"><u>Expert Tips to Escape the Slow GPSVC Cycle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-recognized-hdd-problems-in-a-step-by-step-windows-11-process/"><u>Fixing Non-Recognized HDD Problems in a Step-by-Step Windows 11 Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>[Updated] Through the Eyes of One  A Critical Look at '3DR'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boost-focus-and-style-with-top-rated-frames-in-ig-photography/"><u>[Updated] Boost Focus & Style with Top-Rated Frames in IG Photography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-voiceover-techniques-for-tiktok-video-amplification/"><u>[New] Voiceover Techniques for TikTok Video Amplification</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oneplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on OnePlus</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-video-translator-app-for-pc-you-cannot-miss/"><u>New Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-add-emojisstickers-to-videos-on-pcmacmobileonline-for-2024/"><u>How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-melody-manual-grab-listen-and-scrutinize-songs/"><u>[New] In 2024, Melody Manual  Grab, Listen & Scrutinize Songs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/identifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>Identifying Creator Types  Six Intriguing YouTube Categorization Tests</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-z-fold-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy Z Fold 5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes-for-2024/"><u>Updated Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes for 2024</u></a></li>
+</ul></div>

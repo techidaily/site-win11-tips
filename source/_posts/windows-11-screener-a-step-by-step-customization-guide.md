@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Screener: A Step-by-Step Customization Guide"
-date: 2024-06-23 15:20:52
-updated: 2024-06-25 11:56:43
+date: 2024-06-25T17:10:24.786Z
+updated: 2024-06-26T17:10:24.786Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  Plus, you can change the text's surface and color style. Click**Sold Color** \>**Custom Color** \>**Choose Color** to bring up a palette. Then select a different text color on the palette and select**OK** .
 
- To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to[Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
+ To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to [Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
 
-1. Open the[Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
+1. Open the [Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
 2. Click the**Download Windows Screensavers** Tweaker link.
 3. Open whatever directory includes the**System\_Screensavers\_Tweaker.zip** file by pressing**Windows key** +**E** and navigating to it within File Explorer.
-4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
+4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
 6. Click the Windows 8 and x64 subfolders.
@@ -108,3 +108,24 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/secure-your-digital-life-winning-crypto-apps-ranked-150-chars/"><u>Secure Your Digital Life: Winning Crypto Apps Ranked (150 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-management-with-windows-autodelete-feature/"><u>Simplifying File Management with Windows' AutoDelete Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-service-management-for-optimized-windows-11/"><u>Strategic Service Management for Optimized Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-search-on-windows-11-the-top-5-must-knows/"><u>Elevating Search on Windows 11: The Top 5 Must-Knows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-items-to-windows-11-desktop-menu-hierarchy/"><u>Adding Items to Windows 11 Desktop Menu Hierarchy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/teams-upgrade-fast-memory-conscious-solution/"><u>Teams Upgrade: Fast, Memory-Conscious Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-reawakening-top-3-windows-reset-methods/"><u>Efficient PC Reawakening: Top 3 Windows Reset Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-update-processes-windows-os-explored/"><u>Dissecting Update Processes: Windows OS Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-bg-removal-in-figma-designs/"><u>Mastering BG Removal in Figma Designs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-cost-video-editing-solutions-for-beginners-desktoponlinemobile/"><u>Updated In 2024, No-Cost Video Editing Solutions for Beginners Desktop/Online/Mobile</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framecraft-videocutter/"><u>[Updated] In 2024, FrameCraft VideoCutter</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-steady-as-a-rock-3-proven-methods-for-stabilizing-video-in-ae/"><u>Updated 2024 Approved Steady as a Rock 3 Proven Methods for Stabilizing Video in AE</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y02t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y02T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-moments-of-laughter-and-tears-in-top-meme-groups-for-2024/"><u>Insta-Moments of Laughter & Tears in Top Meme Groups for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-zoom-simplified-your-guide-to-webinar-basics/"><u>2024 Approved  Zoom Simplified  Your Guide to Webinar Basics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Zero 30 5G? | Dr.fone</u></a></li>
+</ul></div>

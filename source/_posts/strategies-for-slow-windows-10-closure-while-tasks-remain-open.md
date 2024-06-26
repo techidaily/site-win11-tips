@@ -1,7 +1,7 @@
 ---
 title: Strategies for Slow Windows 10 Closure While Tasks Remain Open
-date: 2024-06-25 13:42:46
-updated: 2024-06-26 11:39:38
+date: 2024-06-25T16:39:36.359Z
+updated: 2024-06-26T16:39:36.359Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
 ## What Should You Try First?
 
- The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
+ The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an [app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
- Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+ Changing both these values involves [editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and [make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
 
-1. Open the Registry editor. See[how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
+1. Open the Registry editor. See [how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
 2. Navigate to the following folder in the registry:  
 `HKEY_CURRENT_USER\Control Panel\Desktop`
 3. In the pane on the right, look for the string named**WaitToKillAppTimeout** .
@@ -99,3 +99,23 @@ This will allow you to change the default value for all users.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/rectifying-rockalldlldll-disappearance-issue-windows/"><u>Rectifying Rockalldll.dll Disappearance Issue (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-unavailability-of-icloud-on-windows/"><u>Fixing the Unavailability of iCloud on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-external-disk-into-explorer-nav-pane/"><u>Incorporating External Disk Into Explorer Nav Pane</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-modern-interface-in-retro-machines-guide-to-windows-11-to-go-and-rufus/"><u>Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/how-to-link-youtube-to-tiktok-for-2024/"><u>How to Link YouTube to TikTok for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mute-audio-and-add-new-sound-in-windows-movie-maker/"><u>2024 Approved Mute Audio and Add New Sound in Windows Movie Maker</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-6-best-websites-to-download-whoosh-sound-effect-easily/"><u>New 2024 Approved 6 Best Websites to Download Whoosh Sound Effect (Easily)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-video-guide-with-annotations-on-youtube/"><u>2024 Approved  Elevate Your Video Guide with Annotations on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-editing-embedding-times-in-video-posts/"><u>2024 Approved  Precision Editing  Embedding Times in Video Posts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-interested-in-adding-a-cinematic-strobe-light-effect-to-your-movie-or-video-title-follow-the-steps-explained-in-detail-here/"><u>2024 Approved Interested in Adding a Cinematic Strobe Light Effect to Your Movie or Video Title? Follow the Steps Explained in Detail Here</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-process-of-modifying-your-networks-visual-backdrop/"><u>[New] 2024 Approved  Navigating the Process of Modifying Your Network's Visual Backdrop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-video-and-screenshots-with-simple-steps/"><u>[New] In 2024, Mastering Video & Screenshots with Simple Steps</u></a></li>
+</ul></div>

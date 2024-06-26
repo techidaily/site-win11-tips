@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 11 Installation on Unsupported Hardware
-date: 2024-06-21 15:15:12
-updated: 2024-06-24 12:53:57
+date: 2024-06-25T16:39:42.838Z
+updated: 2024-06-26T16:39:42.838Z
 tags:
   - windows10
   - windows11
@@ -26,15 +26,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  If you have Windows 11 22H2 and Windows 10 ISO available, skip to the third step below. If not, follow all the steps to download the necessary ISOs and then perform an upgrade.
 
- While these steps shouldn’t cause any issues, it is better to[create a backup of any important Windows 11 data](https://www.makeuseof.com/windows-11-create-complete-backup/) on your system drive just in case something goes wrong and you need to perform a clean install.
+ While these steps shouldn’t cause any issues, it is better to [create a backup of any important Windows 11 data](https://www.makeuseof.com/windows-11-create-complete-backup/) on your system drive just in case something goes wrong and you need to perform a clean install.
 
-## 1\. Download the Windows 11 22H2 ISO
+## 1\. Download the Windows 11 22H2 ISO ![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
 
-![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
+ You can [legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
 
- You can[legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
-
-1. Go to the[Microsoft Software Download page](https://www.microsoft.com/software-download/windows11) .
+1. Go to the [Microsoft Software Download page](https://www.microsoft.com/software-download/windows11) .
 2. Click on**Download Now** under**Create Windows 11 Installation Media.**
 3. Run the**mediacreationtool.exe** file and accept the license terms.
 4. Review the selected language and edition. To change the language, uncheck**Use the recommended options for this PC** and select your preferred language.
@@ -44,15 +42,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 8. Media Creation Tool will start downloading the ISO to your local drive. This process may take some time, depending on your Internet connection. So wait for the download to complete.
 9. Once the download is complete, click**Finish** and follow the next step to download Windows 10 ISO.
 
-## 2\. Download a Windows 10 ISO
-
-![windows 10 download ISO preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-10-download-iso-preference.jpg)
+## 2\. Download a Windows 10 ISO ![windows 10 download ISO preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-10-download-iso-preference.jpg)
 
  You’ll need to modify the Windows 11 ISO by replacing the appraiserress.dll with a version available in Windows 10 ISO. This DLL file is responsible for performing a hardware check during an upgrade.
 
 To download Windows 10 ISO:
 
-1. Go to[Windows 10 download page](https://www.microsoft.com/en-us/software-download/windows10) .
+1. Go to [Windows 10 download page](https://www.microsoft.com/en-us/software-download/windows10) .
 2. Click the**Download Now** button under**Create Windows 10 installation media** .
 3. Run the**mediacreationtool.exe** file to open Windows 10 Setup dialog.
 4. Click on**Accept** .
@@ -72,7 +68,7 @@ To download Windows 10 ISO:
 ![mount windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mount-windows-10-iso.jpg)
 2. Open the**Sources** folder and locate the**appraiserres.dll** file. Copy the**DLL** file and move it to a different folder.  
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
-3. Next, extract the Windows 11 ISO to a different folder. You can[use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
+3. Next, extract the Windows 11 ISO to a different folder. You can [use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
 ![extract windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-windows-11-iso.jpg)
 4. Open the Windows 11 ISO's extracted folder and then the**Source** folder.
 5. Next, copy and paste the**appraiserres.dll** file copied from Windows 10 ISO into Windows 11 ISO's**Sources** folder.
@@ -99,9 +95,7 @@ To check your Windows specification:
 2. In the**System** tab, scroll down and click on**About** .
 3. Under Windows specifications, you’ll see**Version 22H2** if the upgrade was successful.
 
-## 4\. Go Back to the Previous Version
-
-![go back windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/go-back-windows-11.jpg)
+## 4\. Go Back to the Previous Version ![go back windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/go-back-windows-11.jpg)
 
  If you run into an issue after the upgrade, you can use the**Go back** option to undo the update and restore the earlier version of Windows 11\. However, the "Go back" option is only available for seven days since the upgrade. After that, the option will be greyed out.
 
@@ -132,3 +126,26 @@ To go back to the previous version:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/install-update-and-remove-with-precision-using-windows-package-manager/"><u>Install, Update & Remove with Precision Using Windows Package Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-taskbar-icon-anomalies/"><u>Rectifying Taskbar Icon Anomalies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-preview-screens-for-files-troubleshoot-on-win-11/"><u>Reinstate Preview Screens for Files – Troubleshoot on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-protection-top-rated-windows-encryption-programs-153-chars/"><u>Prime Protection: Top-Rated Windows Encryption Programs (153 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-faster-your-windows-edge-fix-win10-w11/"><u>How to Faster Your Windows Edge: Fix (Win10, W11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-win-11-a-guide/"><u>Maximizing Cursor Visibility on Win 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-the-new-windows-taskbar-design/"><u>Maximizing the New Windows Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-activate-educational-themes/"><u>Win 11: Activate Educational Themes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor X50i+ FRP</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/build-high-impact-facebook-ad-videos-free-creation-kit-provides-tools-for-2024/"><u>Build High-Impact Facebook Ad Videos - FREE Creation Kit Provides Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimizing-ps4-games-for-live-capture-in-obs-for-2024/"><u>[Updated] Optimizing PS4 Games for Live Capture in OBS for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Bootloader Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beautys-brightest-stars-youtube-personalities-to-follow/"><u>[Updated] 2024 Approved  Beauty's Brightest Stars  YouTube Personalities to Follow</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[Updated] In 2024, Crafting Closure  Secrets of Spectacative Video Sign-Offs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-tiktok-effect-overhaul-the-two-pronged-approach/"><u>[New] 2024 Approved  TikTok Effect Overhaul  The Two-Pronged Approach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screencasts-a-step-by-step-manual/"><u>Mastering Screencasts  A Step-by-Step Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminous-techniques-crafting-captivating-cinematic-pieces/"><u>In 2024, Luminous Techniques  Crafting Captivating Cinematic Pieces</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Overhauling Copy & Paste on Chrome, Edge, Firefox OS
-date: 2024-06-22 16:58:35
-updated: 2024-06-25 11:28:12
+date: 2024-06-25T16:26:50.298Z
+updated: 2024-06-26T16:26:50.298Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,7 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-## 3\. Check for Problems With Your Keyboard
-
-![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+## 3\. Check for Problems With Your Keyboard ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -57,17 +55,13 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
 
-## 5\. Check Your Security Settings
-
-![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
+## 5\. Check Your Security Settings ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
-## 6\. Clear the Clipboard Cache and History
-
-![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
+## 6\. Clear the Clipboard Cache and History ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
@@ -110,3 +104,31 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
  Aside from that, misconfigured security settings, issues with the keyboard keys or copy-paste shortcut, interfering clipboard cache, and interruptions from browser extensions and third-party clipboard managers can all cause this issue.
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-result-visibility-for-windows-1011s-search/"><u>Enhancing Result Visibility for Windows 10/11'S Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-ad-free-innovation-windows-11s-modernized-start/"><u>Introducing Ad-Free Innovation: Windows 11'S Modernized Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-guide-for-installing-windows-11-arm-via-iso-download/"><u>How-To Guide for Installing Windows 11 ARM via ISO Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwrapping-the-truth-behind-windows-error-code-0x80073d26/"><u>Unwrapping the Truth Behind Windows' Error Code 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-for-outdated-pcs-on-their-way-to-windows-11/"><u>The Guide for Outdated PCs on Their Way to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-resolving-active-directory-printer-issues-on-win11/"><u>Tips & Tricks for Resolving Active Directory Printer Issues on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-limited-access-install-troubleshooting-on-win-1110/"><u>Navigating Through Limited Access Install Troubleshooting on Win 11/10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-boosting-online-communication-efficiency-the-role-of-the-clownfish-vocal-change-feature-in-discordfortniteskype-chat-rooms-for-2024/"><u>New Boosting Online Communication Efficiency The Role of the Clownfish Vocal Change Feature in Discord/Fortnite/Skype Chat Rooms for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-using-the-right-gopro-editor-on-mac-is-essential-wondershare-filmora-x-lets-you-edit-videos-like-a-pro-without-making-things-complicated/"><u>2024 Approved Using the Right GoPro Editor on Mac Is Essential. Wondershare Filmora X Lets You Edit Videos Like a Pro without Making Things Complicated</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-exclusive-guide-to-priceless-cam-screen-recorders-for-2024/"><u>[New] Exclusive Guide to Priceless Cam Screen Recorders for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[Updated] Professional Insights  Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/immersion-station-youtubes-10-best-virtual-reality-films-for-2024/"><u>Immersion Station  YouTube's 10 Best Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ultimate-instagram-story-tips-and-tricks/"><u>2024 Approved  Ultimate Instagram Story Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overcoming-virtual-reality-nausea/"><u>[New] Overcoming Virtual Reality Nausea</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-zte-nubia-z60-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve ZTE Nubia Z60 Ultra Screen Not Working | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

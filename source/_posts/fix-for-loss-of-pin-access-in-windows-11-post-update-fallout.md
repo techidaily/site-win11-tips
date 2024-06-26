@@ -1,7 +1,7 @@
 ---
 title: Fix for Loss of PIN Access in Windows 11 Post-Update Fallout
-date: 2024-06-23 17:58:13
-updated: 2024-06-25 10:32:57
+date: 2024-06-25T16:54:34.103Z
+updated: 2024-06-26T16:54:34.103Z
 tags:
   - windows10
   - windows11
@@ -70,9 +70,7 @@ To reset your user account password:
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
 
-## 2\. Delete the NGC Folder
-
-![delete ngc folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-ngc-folder-windows-11-1.jpg)
+## 2\. Delete the NGC Folder ![delete ngc folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-ngc-folder-windows-11-1.jpg)
 
  If the issue persists when signing in with a PIN, check the NGC folder for permission issues. The NGC folder is where Windows stores your login information. If the folder is corrupted or lacks sufficient permission, it can result in the Something happened and your PIN isn't available error.
 
@@ -88,21 +86,19 @@ To delete your NGC folder:
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
 5. Next, right-click on the**Ngc** folder and select**Delete** . Click on**Delete** again to confirm the action.
 
- If you see the**You need permission to perform this action** prompt, you'll need to[take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
+ If you see the**You need permission to perform this action** prompt, you'll need to [take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
 
-## 3\. Uninstall Windows Updates
-
-![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
+## 3\. Uninstall Windows Updates ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
 
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
- There are[many ways to uninstall updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) , including from the Settings app and Windows Recovery Environment. If you are unable to sign in using a password, you can use the Windows Recovery Environment method to uninstall Windows updates.
+ There are [many ways to uninstall updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) , including from the Settings app and Windows Recovery Environment. If you are unable to sign in using a password, you can use the Windows Recovery Environment method to uninstall Windows updates.
 
 ## 4\. Perform a System Restore Using Restore Point
 
  Windows creates automatic restore points before a major change is made to your system, including installing an update. You can use the restore point to restore your PC to an earlier time when it was working without an error.
 
- If you can log in to your PC, follow the instructions to[use a restore point to restore your Windows 11 system](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, here is how to use the system restore point from Windows Recovery Environment.
+ If you can log in to your PC, follow the instructions to [use a restore point to restore your Windows 11 system](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, here is how to use the system restore point from Windows Recovery Environment.
 
 1. From the sign-in screen, click on the**Power** icon in the bottom left corner.
 2. Next, press and hold the**Shift** key and click on**Restart** . Click on**Restart anyway** if a confirmation prompt appears. Make sure to hold the Shift key until the PC starts to restart.  
@@ -120,9 +116,7 @@ To delete your NGC folder:
 4. In the**System Restore** dialog, select the most recent restore point and click**Next** .
 5. Follow on-screen instructions to complete the system restore. Your PC will restart with a success or failure message. Once the restore is complete, try to log in with the same PIN to see if the error is resolved.
 
-## 5\. Perform a Startup Repair
-
-![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
+## 5\. Perform a Startup Repair ![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
 
  Startup repair is a built-in troubleshooting tool on Windows to fix issues with files required to boot the OS. You can run Startup Repair from the Windows Recovery Environment. Here's how to do it.
 
@@ -130,9 +124,7 @@ To delete your NGC folder:
 2. Next, under**Choose an option,** go to**Troubleshoot > Advanced Options.**
 3. Click on**Startup Repair** . Windows will start diagnosing your PC and repair any issues with the startup files.
 
-## 6\. Perform a System Reset
-
-![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
+## 6\. Perform a System Reset ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
 
  A system reset helps you reset your computer to its factory default removing all the system settings and configuration, including login credentials.
 
@@ -145,7 +137,7 @@ To perform a system reset:
 3. Under reset**Reset this PC** , click on**Reset PC** .
 4. Under **Choose an option, you can choose to keep or remove your files** . Confirm the option to reset your PC.
 
- If you are unable to sign in, follow this guide to[factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
+ If you are unable to sign in, follow this guide to [factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
 
 ## Restore the PIN Sign-in Functionality on Windows 11
 
@@ -165,3 +157,23 @@ To perform a system reset:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/solving-needed-parts-error-on-windows-1011-systems/"><u>Solving Needed Parts Error on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-reigniting-wifi-detection-in-windows-11-systems/"><u>Steps for Reigniting Wifi Detection in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-curtail-pc-sound-enhancement-effects/"><u>How To Curtail PC Sound Enhancement Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-failed-operations-code-0x0000011b-fixes/"><u>Eliminating 'Failed' Operations: Code 0X0000011B Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-win-microphone-functionality/"><u>Troubleshoot Win Microphone Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>[New] 2024 Approved  Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-pic-pro-the-top-10-iphonesandroid-apps-with-stickers/"><u>In 2024, Become a Pic Pro  The Top 10 iPhones/Android Apps with Stickers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-basic-to-bespoke-personalizing-your-tiktok-profile-for-2024/"><u>[Updated] From Basic to Bespoke  Personalizing Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-quality-hero5-black-battery-packs-legit-and-third-party-options-for-2024/"><u>Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>In 2024, Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-making-panzoids-for-2024/"><u>Masterclass in Making Panzoids for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/craft-the-ultimate-outro-with-pro-maker-advice-for-2024/"><u>Craft the Ultimate Outro with Pro Maker Advice for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-having-trouble-with-black-backgrounds-in-after-effects-land-in-here-to-know-how-you-can-quickly-escape-this-glitch-in-the-simplest-ever-wa/"><u>New 2024 Approved Having Trouble with Black Backgrounds in After Effects? Land in Here to Know How You Can Quickly Escape This Glitch in the Simplest Ever Way Possible</u></a></li>
+</ul></div>

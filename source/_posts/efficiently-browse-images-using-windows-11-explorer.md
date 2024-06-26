@@ -1,7 +1,7 @@
 ---
 title: Efficiently Browse Images Using Windows 11 Explorer
-date: 2024-06-23 11:31:16
-updated: 2024-06-24 11:10:51
+date: 2024-06-25T16:20:09.999Z
+updated: 2024-06-26T16:20:09.999Z
 tags:
   - windows10
   - windows11
@@ -34,17 +34,17 @@ thumbnail: https://thmb.techidaily.com/5a94426a32501655e657a3254c012c85eb00e68b9
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
- The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 ### 2\. Download ViVeTool
 
- You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+ You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
 2. Now, navigate to the main directory in C drive. Type**cd C:\\ command** and press the enter key.
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
@@ -108,3 +108,27 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-11-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-visuals-applying-microsoft-store-themes-in-windows/"><u>Reimagining Visuals: Applying Microsoft Store Themes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-to-peak-ssd-performance-win-and-fresh-methods/"><u>Leap to Peak SSD Performance: Win and Fresh Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-resource-tracking-efficiency-via-windows-interfaces/"><u>Upgrade Resource Tracking Efficiency via Window's Interfaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-techniques-for-text-in-the-windows-snip-tool/"><u>Advanced Techniques for Text in the Windows Snip Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-5-best-torrent-clients-for-windows/"><u>The 5 Best Torrent Clients for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-improved-windows-tiling/"><u>Boost Productivity with Improved Windows Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23-for-2024/"><u>[New] Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23) for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 13</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-perfect-your-sound-game-with-these-step-by-step-tiktok-tips/"><u>[New] 2024 Approved  Perfect Your Sound Game with These Step-by-Step TikTok Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>In 2024, A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-nft-platforms-unlocking-creativity-for-artists/"><u>[Updated] Top 6 NFT Platforms  Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>[Updated] A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-free-cam-software-roundup-innovation-at-your-fingertips-for-2024/"><u>[New] Free Cam Software Roundup  Innovation at Your Fingertips for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/12-best-free-animation-programs-for-pc-and-mac-users/"><u>12 Best Free Animation Programs for PC and Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>2024 Approved  From Shoot to Screen  Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-top-8-online-based-no-cost-audio-capture-tools/"><u>Updated In 2024, Top 8 Online-Based No-Cost Audio Capture Tools</u></a></li>
+</ul></div>

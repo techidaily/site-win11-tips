@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for ALT Codes Failing in Windows (60 Characters)
-date: 2024-06-23 11:11:11
-updated: 2024-06-25 10:35:28
+date: 2024-06-25T16:51:55.204Z
+updated: 2024-06-26T16:51:55.204Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
 
-1. Press**Win + I** on your keyboard to[launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select the**Accessibility** tab in the left pane.
 3. On the right side, click**Mouse** under the Interaction section.
 4. Click the toggle to enable the**Mouse keys** .  
@@ -57,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  This is a more advanced solution and requires some familiarity with the Windows registry editor.
 
- If you are uncomfortable working with your computer's registry, get professional assistance. You should also[back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
+ If you are uncomfortable working with your computer's registry, get professional assistance. You should also [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
 
 To get started, follow these steps:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. In the text field, type "regedit" and press Enter or click the**OK** button.
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
@@ -87,7 +87,7 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
 
-1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
+1. Open the Control Panel (see [how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
@@ -96,9 +96,9 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 ## 6\. Troubleshoot With a Clean Boot
 
- If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
+ If none of the above solutions work, you can try [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
 
-1. Open the MSConfig tool (see[how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
+1. Open the MSConfig tool (see [how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
 2. Check the**Selective startup** box.
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
@@ -129,3 +129,26 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-print-management-tool-and-how-do-you-access-it/"><u>What Is the Windows Print Management Tool, and How Do You Access It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-to-standard-power-plans-guide-for-win-11/"><u>Rebooting to Standard Power Plans: Guide for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80300024-on-windows-xp/"><u>Eliminating Error Code: 0X80300024 on Windows XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-non-verified-error-during-windows-file-installation/"><u>Solving the Non-Verified Error During Windows File Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-dilemma-obs-not-opening-on-windows/"><u>Resolving the Dilemma: OBS Not Opening on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-conjoin-windows-serial-numbers-and-microsoft-accounting/"><u>How to Conjoin Windows Serial Numbers & MICROSOFT ACCOUNTING</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-code-0xc0000005-on-windows-pc/"><u>How to Fix the Error Code 0Xc0000005 on Windows PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x-for-2024/"><u>Updated Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>In 2024, From Filming to Fame  Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-compelling-top-10-pc-cameras-for-recording-for-2024/"><u>[Updated] Compelling Top 10 PC Cameras for Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-peeling-back-sharex-critical-analysis-and-alternatives/"><u>2024 Approved  Peeling Back ShareX  Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-download-the-best-video-editor-for-mac-splice-for-2024/"><u>New Download the Best Video Editor for Mac Splice for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-instagrams-accessibility-with-easy-caption-features/"><u>[New] 2024 Approved  Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/chill-vibes-top-idle-pc-experiences/"><u>Chill Vibes  Top Idle PC Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-14-visual-effects-with-text-animations/"><u>[New] Ideal 14 Visual Effects with Text Animations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-twitter-video-snippets-to-lively-animated-gifs-for-2024/"><u>[New] From Twitter Video Snippets to Lively Animated GIFs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-mechanics-perfecting-every-snaps-boomerang-effect/"><u>2024 Approved  Mastering the Mechanics  Perfecting Every Snap's Boomerang Effect</u></a></li>
+</ul></div>

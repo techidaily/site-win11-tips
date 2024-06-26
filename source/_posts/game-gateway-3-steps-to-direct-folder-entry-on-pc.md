@@ -1,7 +1,7 @@
 ---
 title: "Game Gateway: 3 Steps to Direct Folder Entry on PC"
-date: 2024-06-21 10:23:59
-updated: 2024-06-24 11:24:31
+date: 2024-06-25T16:32:01.766Z
+updated: 2024-06-26T16:32:01.766Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  Let's have a look at different ways you can track down a game directory.
 
-## 1\. Follow the Shortcut
-
-![screenshot of the right click menu showing open file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screcreenshot_of_right_click_menu_open_file_location.jpg)
+## 1\. Follow the Shortcut ![screenshot of the right click menu showing open file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screcreenshot_of_right_click_menu_open_file_location.jpg)
 
  The easiest way to find the directory for most games, as well as general programs, is to follow the shortcut.
 
@@ -30,9 +28,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  Some game directories store their .exe in different locations. You might arrive at the root directory, or you may arrive at a folder imbedded in this directory. Either way, you're in the right place.
 
-## 2\. Via the Properties Menu
-
-![screenshot of the binding of isaac properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_properties_menu.jpg)
+## 2\. Via the Properties Menu ![screenshot of the binding of isaac properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_properties_menu.jpg)
 
  Another option would be to use that same shortcut to view the **Properties** menu.
 
@@ -40,9 +36,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  This will bring you to the installation directory, as well as tell you exactly where that is.
 
-## 3\. Via the Game Launcher
-
-![screenshot of the binding of isaac in steam showing browse local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_steam_browse_local_files.jpg)
+## 3\. Via the Game Launcher ![screenshot of the binding of isaac in steam showing browse local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_steam_browse_local_files.jpg)
 
  If you've installed your game with a game launcher, such as Steam, or through the Epic Games Store, you'll find easier ways to open up game directories.
 
@@ -57,3 +51,31 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
  Games are just programs, so there are plenty of ways to find their installation directory. Whether you're modding the game or just need to see some files, you'll be able to do so by the shortcut or the game launcher itself.
 
  Let's have a look at different ways you can track down a game directory.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-chrome-profiles-issues-on-windows-devices/"><u>Resolving Chrome Profiles Issues on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-your-guide-to-repairing-windows-software-glitches/"><u>Immediate Actions: Your Guide to Repairing Windows Software Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-high-dpi-displays-a-windows-guide/"><u>Dealing with High DPI Displays: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-opengl-error-3-nvidia-solutions-win1011/"><u>Eliminating OpenGL Error 3: Nvidia Solutions (Win10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-samsung-dex-connect-galaxy-and-pc-seamlessly/"><u>Mastering Samsung DeX: Connect Galaxy & PC Seamlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-failures-from-non-standard-windows-applications/"><u>Resolving Sign-Out Failures From Non-Standard Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-chrome-induced-system-time-missteps-windows/"><u>Rectifying Chrome-Induced System Time Missteps (Windows)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/narratives-of-the-bravest-our-favorites-in-adventure-games-for-2024/"><u>Narratives of the Bravest  Our Favorites in Adventure Games for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-your-works-discover-the-elite-6-in-nft-creativity/"><u>[Updated] In 2024, Elevate Your Works  Discover the Elite 6 in NFT Creativity</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-capture-showdown-is-obs-better-than-fraps-for-2024/"><u>Screen Capture Showdown  Is OBS Better Than Fraps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-unveiled-successful-podcast-on-apple-store-for-2024/"><u>Secrets Unveiled  Successful Podcast on Apple Store for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/effortless-instagram-media-export-top-20-free-mp4-converters-online/"><u>Effortless Instagram Media Export  Top 20 Free MP4 Converters Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-digital-delinquency-games-comparable-to-gta-v/"><u>[New] In 2024, Digital Delinquency  Games Comparable to GTA V</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-comprehensive-vimeo-video-breakdown-including-aspect-ratio/"><u>New In 2024, Comprehensive Vimeo Video Breakdown Including Aspect Ratio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevate-your-watch-time-master-the-tiktok-fast-forward-feature-for-2024/"><u>Elevate Your Watch Time  Master the TikTok Fast-Forward Feature for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

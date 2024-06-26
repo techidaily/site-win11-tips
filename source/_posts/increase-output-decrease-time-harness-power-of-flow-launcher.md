@@ -1,7 +1,7 @@
 ---
 title: "Increase Output, Decrease Time: Harness Power of Flow Launcher"
-date: 2024-06-21 15:26:58
-updated: 2024-06-24 12:50:52
+date: 2024-06-25T16:39:14.583Z
+updated: 2024-06-26T16:39:14.583Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## How to Install Flow Launcher
 
- You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
+ You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
@@ -41,7 +41,7 @@ Here's how to get the most from this popular productivity tool.
 
  Lastly, you can change the location where the Flow Launcher window opens by clicking on the frame and dragging it into position. As long as the**Remember last launch location** setting is checked, it will always be in this position.
 
- If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
+ If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
 ## How to Launch Apps With Flow Launcher
 
@@ -66,7 +66,7 @@ Here's how to get the most from this popular productivity tool.
  There are several ways to refine searches in Flow Launcher. For example, to search for something on a specific website, you can include the site name in the search query, e.g. YouTube David Bowie.
 
 * To search your browser bookmarks, start the search query with**b** . For example:**b how to create a workbook in excel** .
-* If you want to run a[Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
+* If you want to run a [Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
@@ -86,7 +86,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## Uninstalling Flow Launcher
 
- If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
+ If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
@@ -109,3 +109,27 @@ Here's how to get the most from this popular productivity tool.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-11-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/using-dialer-in-win-11/"><u>Using Dialer in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-startup-with-auto-auditory-restart-mechanism/"><u>Boosting System Startup with Auto Auditory Restart Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-virtual-memory-settings-for-peak-windows-performance/"><u>Navigating Through Virtual Memory Settings for Peak Windows Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-to-windows-updates-on-windows-108/"><u>Regaining Access to Windows Updates on Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-files-write-access-no-more-restrictions/"><u>Adjusting Windows Files: Write Access No More Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-domain-services-printer-failures-on-newest-microsoft-os/"><u>Fixing Domain Services Printer Failures on Newest Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimized-procedures-for-integrating-subtitles-into-live-streams-on-facebook/"><u>2024 Approved  Optimized Procedures for Integrating Subtitles Into Live Streams on Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069580706-updated-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] 2024 Approved  PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-and-fabulous-top-20-adobe-premiere-title-and-intro-templates-for-2024/"><u>New Free and Fabulous Top 20 Adobe Premiere Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[New] Exploring New Horizons  Video Resources for Dynamic Learning Spaces</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora.m/"><u>New 2024 Approved Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-suspend-voice-recording-features-and-embed-original-tunes-using-windows-movie-maker/"><u>New Suspend Voice Recording Features & Embed Original Tunes Using Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revolutionize-your-videos-first-impression-with-these-makers/"><u>2024 Approved  Revolutionize Your Video's First Impression with These Makers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-attract-1000-viewers-quickly-on-youtube/"><u>2024 Approved  Attract 1,000 Viewers Quickly on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-choices-youtube-vs-tiktok-battle/"><u>[New] 2024 Approved  Channel Choices  Youtube vs TikTok Battle</u></a></li>
+</ul></div>

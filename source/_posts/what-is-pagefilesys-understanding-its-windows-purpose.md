@@ -1,7 +1,7 @@
 ---
 title: What Is Pagefile.sys? Understanding Its Windows Purpose
-date: 2024-06-24 15:50:41
-updated: 2024-06-25 10:23:57
+date: 2024-06-25T16:37:07.302Z
+updated: 2024-06-26T16:37:07.302Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's what you need to know.
 
 ## What Is Pagefile.sys?
 
- Pagefile.sys is a system file in Windows set aside for your computer’s[Random Access Memory (RAM)](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) , also known as physical memory. When your computer's RAM begins to run out of memory, it uses the pagefile to offload data it doesn't need, such as files and apps.
+ Pagefile.sys is a system file in Windows set aside for your computer’s [Random Access Memory (RAM)](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) , also known as physical memory. When your computer's RAM begins to run out of memory, it uses the pagefile to offload data it doesn't need, such as files and apps.
 
  So how does your computer’s RAM decide when to offload data? Let’s use an app as an example of how this works.
 
@@ -86,11 +86,11 @@ Here's what you need to know.
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
 9. Restart your Windows computer for the changes to take effect.
 
- When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
+ When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on [what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
 
 ## How to Restore Pagefile.sys
 
- If you deleted Pagefile.sys and discovered that you're experiencing problems because of it, you can easily restore it. However, if the problems are so severe that Windows is constantly freezing or can't even boot up properly, you should try entering Safe Mode first. To do that, please check out guides on[ways to boot into Safe Mode on Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and[what is Safe Mode on Windows 10](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
+ If you deleted Pagefile.sys and discovered that you're experiencing problems because of it, you can easily restore it. However, if the problems are so severe that Windows is constantly freezing or can't even boot up properly, you should try entering Safe Mode first. To do that, please check out guides on [ways to boot into Safe Mode on Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and [what is Safe Mode on Windows 10](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
 
 Now, to bring back Pagefile.sys, follow the steps below:
 
@@ -142,3 +142,26 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/transition-trio-top-apps-making-pc-switch-easier/"><u>Transition Trio: Top Apps Making PC Switch Easier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-networking-essential-pre-call-tests-for-webcamsmics/"><u>Navigating Networking: Essential Pre-Call Tests for Webcams/Mics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowing-wonderland-personalized-monitor-settings-in-win1011/"><u>Windowing Wonderland: Personalized Monitor Settings in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719342757489-commanding-your-digital-files-linking-dropbox-googledrive-to-c/"><u>Commanding Your Digital Files: Linking Dropbox, GoogleDrive to C:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-rules-not-working-on-windows/"><u>How to Fix Outlook Rules Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-xc0f1103f-issues-with-geforce-now-on-win11/"><u>Correcting Xc0f1103f Issues with GeForce Now on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-procuring-premium-sound-extras-the-best-8-free-websites-for-2024/"><u>Updated Procuring Premium Sound Extras The Best 8 Free Websites for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer/"><u>[New] Steps to Acquire Free and Safe VLC Player on a Mac Computer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-top-whatsapp-video-editor-apps/"><u>2024 Approved Top WhatsApp Video Editor Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-tapestry-of-tech-loom-recording-explained/"><u>[Updated] 2024 Approved  The Tapestry of Tech  Loom Recording Explained</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-collection-sites-for-quick-access-to-youtube-vids/"><u>In 2024, Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-5-professional-drones-buyers-guide-for-2024/"><u>Premium 5 Professional Drones - Buyers Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>2024 Approved  Download & Install  Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-secrets-of-youtube-music-curation/"><u>[New] Unveiling the Secrets of YouTube Music Curation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[Updated] 2024 Approved  Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Restoring Faded Screen Settings in UEFI
-date: 2024-06-21 16:14:30
-updated: 2024-06-24 12:49:10
+date: 2024-06-25T16:34:59.599Z
+updated: 2024-06-26T16:34:59.599Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  Secure Boot is a UEFI feature that protects your computer against malware by allowing only trusted system software to run on your computer. When enabled, it will perform a cryptographic check during the boot process to verify the integrity of the system image.
 
- However, if you have Secure Boot enabled, it will likely disable Legacy Boot as well. You'll need to[disable Secure Boot in your BIOS utility](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) to fix the issue.
+ However, if you have Secure Boot enabled, it will likely disable Legacy Boot as well. You'll need to [disable Secure Boot in your BIOS utility](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) to fix the issue.
 
  The below steps to disable Secure Boot are for an HP Pavilion computer. For other systems, refer to your system manual.
 
@@ -74,7 +74,7 @@ To disable secure boot:
 
  Modern Standby (S0) is a newer power mode available on select modern computers. It is enabled by default on compatible systems but can cause issues with Legacy Boot.
 
- To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
+ To fix the issue, try to [disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
 
@@ -94,3 +94,23 @@ To disable secure boot:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-windows-11-defense-enhanced-filter-options-via-context-menu/"><u>Upgrade Your Windows 11 Defense: Enhanced Filter Options via Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-causes-behind-usb-attachment-failure-in-virtualbox/"><u>Unraveling the Causes Behind 'USB Attachment Failure' In VirtualBox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-editing-text-via-snipping-tool/"><u>Expert Guide: Editing Text via Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-local-user-policies-a-guide-to-windows-11-and-11-systems/"><u>Adjusting Local User Policies: A Guide to Windows 11 & 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-slacks-missing-notifications-issue-in-win-11/"><u>Solving Slack's Missing Notifications Issue in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-regain-onedrive-entry-points-in-windows/"><u>Effortlessly Regain OneDrive Entry Points in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-content-with-proven-strategies-for-youtube-shorts-growth-for-2024/"><u>Elevate Video Content with Proven Strategies for YouTube Shorts Growth for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earning-as-a-video-game-geek/"><u>Earning as a Video Game Geek</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-looking-beyond-vegas-pro-explore-these-10-exceptional-mac-video-editors-in-20/"><u>Updated Looking Beyond Vegas Pro? Explore These 10 Exceptional Mac Video Editors in 20</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere/"><u>In 2024, [Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-10-picks-for-flawless-slow-motion-video-generation-for-2024/"><u>Top 10 Picks for Flawless Slow Motion Video Generation for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choosing-between-vlc-and-mx-for-video-enjoyment/"><u>[Updated] Choosing Between VLC and MX for Video Enjoyment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[New] 2024 Approved  Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Freezes in Apex Legends
-date: 2024-06-24 18:45:33
-updated: 2024-06-25 11:19:20
+date: 2024-06-25T16:24:32.230Z
+updated: 2024-06-26T16:24:32.230Z
 tags:
   - windows10
   - windows11
@@ -30,19 +30,17 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 * NVIDIA GeForce GT 640 or Radeon HD 7730 GPU
 * At least 22GB of available space.
 
- If your computer doesn't fulfill either of the above requirements, then the only thing you can do is upgrade your computer to fix the crashing issue. Check out our guide on[which upgrades will improve your computer's performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) for some ideas.
+ If your computer doesn't fulfill either of the above requirements, then the only thing you can do is upgrade your computer to fix the crashing issue. Check out our guide on [which upgrades will improve your computer's performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) for some ideas.
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
-## 1\. Close Unnecessary Background Running Applications
-
-![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
+## 1\. Close Unnecessary Background Running Applications ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
 
  Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
 
  If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
 
- To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
+ To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also [stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
 ## 2\. Is Your CPU Overclocked?
 
@@ -62,9 +60,7 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  Next, switch to Apex Legends and check if you still experience the crash.
 
-## 4\. Tweak the In-Game Settings
-
-![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
+## 4\. Tweak the In-Game Settings ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
 
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
@@ -100,7 +96,7 @@ Here's how to do it in the EA app:
 
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
- If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+ If you're using Steam or Origin, then check out our guide on how to [verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 ## 6\. Update Your Graphics Driver
 
@@ -115,7 +111,7 @@ Here's how to do it in the EA app:
 
  The Device Manager will search for and download any available graphics driver update on your computer.
 
- Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
+ Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on [how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
@@ -150,3 +146,22 @@ Here's how to do it in the EA app:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-hyper-v-installation-on-w11-home-systems/"><u>Master the Art of Hyper-V Installation on W11 Home Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-netstat-on-windows-11-a-guide-to-tracking-data-flow/"><u>Explore Netstat on Windows 11: A Guide to Tracking Data Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-movement-eradicate-slowness-on-sw-battlefront-windows/"><u>Master Movement: Eradicate Slowness on SW Battlefront Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-shopping-crash-error-x800704cf/"><u>Tackling Win11's Shopping Crash: Error X800704CF</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix online without jailbreak</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>In 2024, The Art of HDR Enhancement  Your Lightroom Journey</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unbeatable-sound-quality-best-mac-mp3-converter-options/"><u>Updated Unbeatable Sound Quality Best Mac MP3 Converter Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-smart-planners-guide-to-virtual-meeting-success/"><u>[Updated] The Smart Planner's Guide to Virtual Meeting Success</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-free-video-repeat-tools/"><u>New In 2024, Top Free Video Repeat Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-create-animated-bouncing-text-for-2024/"><u>How to Create Animated Bouncing Text for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update drivers on Windows 10 & 7</u></a></li>
+</ul></div>

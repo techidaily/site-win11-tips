@@ -1,7 +1,7 @@
 ---
 title: "Combat Unwanted Scrolling: Windows Edition"
-date: 2024-06-22 20:16:16
-updated: 2024-06-24 12:36:34
+date: 2024-06-25T17:08:44.009Z
+updated: 2024-06-26T17:08:44.009Z
 tags:
   - windows10
   - windows11
@@ -52,14 +52,12 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 * Do you have multiple mouse devices connected to your device at once? If so, you should disconnect others except for the one you intend to use.
 * Is your Xbox controller connected to your device? If so, remove it.
 * Disconnect any other pointing device currently connected to your device.
-* If you keep Windows automatic updates turned off, check for and[install recent OS updates manually](https://www.makeuseof.com/update-windows-manually/) .
+* If you keep Windows automatic updates turned off, check for and [install recent OS updates manually](https://www.makeuseof.com/update-windows-manually/) .
 * If the**End** key on your keyboard remains pressed down for some reason, it will cause your windows to scroll down. Inspect your**End** key for anything holding it down, or disconnect your keyboard and see if that fixes the problem.
 
 If the above basic checks don't help, apply the remaining fixes.
 
-### 2\. Check for Hardware Issues
-
-![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+### 2\. Check for Hardware Issues ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -72,13 +70,11 @@ If the above basic checks don't help, apply the remaining fixes.
 
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
-### 3\. Check for Touchpad Issues
-
-![Man Using Touchpad on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Man-Using-Touchpad-on-Laptop.jpg)
+### 3\. Check for Touchpad Issues ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
 
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
- If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
+ If you are unfamiliar with the process, check out our guides on [disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or [Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
 
 ### 4\. Remove or Uninstall Ghost Devices
 
@@ -129,3 +125,22 @@ If the above basic checks don't help, apply the remaining fixes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unknown-disk-error-in-windows/"><u>Overcoming Unknown Disk Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-uninstall-quickly-in-windows-11/"><u>Navigating to Uninstall Quickly in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-boot-options-modifying-windows-11s-startup-delay/"><u>Quick Boot Options: Modifying Windows 11'S Startup Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-saved-audio-configurations-winvolume-hacks/"><u>Bring Back Saved Audio Configurations: WinVolume Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-remedying-full-screen-troubles-in-sonic-games/"><u>Understanding and Remedying Full-Screen Troubles in Sonic Games</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mastering-tiktok-the-top-20-best-caption-techniques-for-2024/"><u>[New] Mastering TikTok  The Top 20 Best Caption Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-prime-5-alternatives-for-android-and-iphone-users-videos/"><u>2024 Approved  The Prime 5 Alternatives for Android & iPhone Users' Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-methods-for-recording-in-adobe-presenter-for-2024/"><u>Advanced Methods for Recording in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>In 2024, Camera Kings Battle  Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/5-must-know-hacks-to-beat-deepfake-attacks-streamer-survival-guide-for-2024/"><u>5 Must-Know Hacks to Beat Deepfake Attacks Streamer Survival Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-vrs-elite-accessories-top-10/"><u>[New] Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-live-streams-essential-vr-gaming-recording-methods/"><u>[Updated] 2024 Approved  Mastering Live-Streams  Essential VR Gaming Recording Methods</u></a></li>
+</ul></div>

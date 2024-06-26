@@ -1,7 +1,7 @@
 ---
 title: Correcting File Access Failures in Microsoft Office Outlook
-date: 2024-06-24 21:57:21
-updated: 2024-06-26 12:53:28
+date: 2024-06-25T16:30:58.374Z
+updated: 2024-06-26T16:30:58.374Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
 ## 1\. Install Relevant Apps to Preview Files
 
- Outlook may fail to preview attachments if the appropriate app for the file format is not installed on your PC. For instance, if you don’t have a[PDF reader app on your PC](https://www.makeuseof.com/tag/6-pdf-readers-windows/) , Outlook may display the “this file cannot be previewed because there is no previewer installed for it” error.
+ Outlook may fail to preview attachments if the appropriate app for the file format is not installed on your PC. For instance, if you don’t have a [PDF reader app on your PC](https://www.makeuseof.com/tag/6-pdf-readers-windows/) , Outlook may display the “this file cannot be previewed because there is no previewer installed for it” error.
 
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
 ## 2\. Disable Preview Handler in PowerToys
 
- Using Microsoft PowerToys is an excellent way to[boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
+ Using Microsoft PowerToys is an excellent way to [boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
 
  Several users on the forums reported fixing Outlook’s “this file cannot be previewed” error by disabling the Preview Handler feature. You can also give this method a shot.
 
@@ -89,9 +89,9 @@ To delete Outlook cache data on Windows, use these steps:
 
 ## 7\. Modify Registry Files
 
- Incorrect[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) settings could also cause such anomalies. If that's the case, you'll need to correct the Registry settings manually on your PC.
+ Incorrect [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) settings could also cause such anomalies. If that's the case, you'll need to correct the Registry settings manually on your PC.
 
- Since Registry files contain important settings for Windows and its apps, you should only use this method if you’re familiar with editing Registry files. Also, it’s a good idea to back up all the Registry files before you proceed. If you need help with that, check our guide on[how to back up Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
+ Since Registry files contain important settings for Windows and its apps, you should only use this method if you’re familiar with editing Registry files. Also, it’s a good idea to back up all the Registry files before you proceed. If you need help with that, check our guide on [how to back up Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
 
 1. Press**Win + R** to open the Run dialog.
 2. Type**regedit** in the text box and press**Enter** .
@@ -144,3 +144,27 @@ To delete Outlook cache data on Windows, use these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tech-free-gaming-setup-dualshock-for-windows-users/"><u>Tech-Free Gaming Setup: DualShock for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-power-of-google-maps-in-your-windows-system/"><u>Harnessing the Power of Google Maps in Your Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-mastery-a-path-through-preferences/"><u>System Mastery: A Path Through Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-a-neat-system-restart-in-windows-11/"><u>The Essential Guide to a Neat System Restart in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-usb-drive-problems-for-efficient-data-handling/"><u>Solving USB Drive Problems for Efficient Data Handling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-view-this-file-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to View This File” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-quest-preventing-crashes-on-your-pcs-platform/"><u>Securing Your Quest: Preventing Crashes on Your PC's Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-forth-invisible-5ghz-connections-with-these-fixes/"><u>Bring Forth Invisible 5GHz Connections with These Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-walkthrough-of-youtube-timestamping-techniques/"><u>2024 Approved  A Comprehensive Walkthrough of YouTube Timestamping Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>Updated In 2024, Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tailoring-timeline-memories-the-look-back-video-expertise/"><u>[Updated] In 2024, Tailoring Timeline Memories  The Look Back Video Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-extras-for-enhancing-dji-phantom-4-for-2024/"><u>Ideal Extras for Enhancing DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-offline-pc-screen-recording-software/"><u>In 2024, Leading Offline PC Screen Recording Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>[Updated] In 2024, Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-easygoing-sounds-scores-of-country-music-to-dance-and-relax-on-tiktok/"><u>[New] Easygoing Sounds  Scores of Country Music to Dance and Relax On (TikTok)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafting-a-distinctive-tiktok-stream-hashcode/"><u>[Updated] Crafting a Distinctive TikTok Stream Hashcode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>In 2024, A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
+</ul></div>

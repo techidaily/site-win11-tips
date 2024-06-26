@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Shopping Experience: Fixing Error 0X80072F30"
-date: 2024-06-24 23:48:15
-updated: 2024-06-25 12:38:13
+date: 2024-06-25T16:18:05.016Z
+updated: 2024-06-26T16:18:05.016Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
 
-1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e[ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
+1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
+5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the [World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
 7. Also, make sure the time zone is set right by disabling the**Set time zone automatically** option and choosing an option on the**Time Zone** drop-down menu.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ## 5\. Turn Off Any Active Proxy Server Settings
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
 
  Even if you’re positive you’ve never enabled such a feature, check the proxy server setting like this:
 
@@ -137,3 +137,26 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-altering-window-icons-distance-on-11plus-windows/"><u>Title: Altering Window Icons' Distance on 11+ Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-enthusiast-special-grab-black-friday-best-price-on-all-years-windows-11/"><u>Keys Enthusiast Special: Grab Black Friday Best Price on All-Years Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-unraveling-breakpoint-failed-in-windows-devices/"><u>Tips for Unraveling Breakpoint Failed in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps-on-windows-10-and-11/"><u>Guide to Reinstalling Microsoft Store Apps on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719373411881-navigate-and-solve-frozen-shift-problems/"><u>Navigate and Solve Frozen Shift Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unsuccessful-onedrive-operations-on-os/"><u>Combatting Unsuccessful OneDrive Operations on OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-the-dizzy-spins-fixing-your-wheeling-mouse/"><u>Stop the Dizzy Spins: Fixing Your Wheeling Mouse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-failed-discord-games-detection-on-windows/"><u>Steps to Recover From Failed Discord Games Detection on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-economy-in-gaming-top-business-sim-titles-for-2024/"><u>Mastering Economy in Gaming  Top Business Sim Titles for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-speed-up-or-slow-down-top-gif-editors-reviewed/"><u>Updated 2024 Approved Speed Up or Slow Down Top GIF Editors Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-idevice-audio-mastery-stepwise-recording-of-voices-for-2024/"><u>[Updated] IDevice Audio Mastery  Stepwise Recording of Voices for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-replacing-sky-in-your-pictures-using-online-and-offline-tools/"><u>2024 Approved Replacing Sky in Your Pictures Using Online and Offline Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-web-microphones-at-a-glance-for-2024/"><u>Best Web Microphones at a Glance for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[Updated] How To Keep Your Audience Engaged  Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-bible-to-your-youtube-audio-visual-arsenal/"><u>[New] 2024 Approved  Beginner's Bible to Your YouTube Audio-Visual Arsenal</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-camon-20-premier-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Camon 20 Premier 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-20-best-free-platforms-for-youtube-channel-beginners-for-2024/"><u>[Updated] 20 Best Free Platforms for YouTube Channel Beginners for 2024</u></a></li>
+</ul></div>

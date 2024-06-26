@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Operation Failed: 0X0000011B Errors"
-date: 2024-06-22 15:10:30
-updated: 2024-06-25 12:57:54
+date: 2024-06-25T16:11:51.047Z
+updated: 2024-06-26T16:11:51.047Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
 ## 1\. Restart the Print Spooler Service
 
- A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the[print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
+ A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the [print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
 
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
@@ -39,9 +39,7 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
-## 2\. Install All the Pending Windows Updates
-
-![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
+## 2\. Install All the Pending Windows Updates ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -55,7 +53,7 @@ To check and install Windows updates:
 
 ## 3\. Install the Printer Manually via the Local Port
 
- A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
+ A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to [add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
 
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
@@ -87,7 +85,7 @@ To check and install Windows updates:
 
  To fix the error without uninstalling the security update, you’ll need to create a new registry entry to disable the feature. Here’s how to do it.
 
- Note that modifying your Windows Registry involves risk. We recommend you[back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and[create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
+ Note that modifying your Windows Registry involves risk. We recommend you [back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
 
 Next, follow these steps to disable CVE-2021-1678 mitigation:
 
@@ -141,3 +139,26 @@ To uninstall Windows updates:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-image-import-error-with-apple-devices-step-by-step/"><u>Resolving Windows 11'S Image Import Error with Apple Devices Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-non-operational-printer-feature-via-wwinplusp-in-windows/"><u>Navigating and Fixing Non-Operational Printer Feature via WWin+P in Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-top-5-grievances-from-windows-11-users/"><u>Unveiling the Top 5 Grievances From Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-hidden-disk-space-with-windows-1011s-deletion-automation/"><u>Unlock Hidden Disk Space with Windows 10/11'S Deletion Automation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-mass-rename-with-powertoys/"><u>Automate Mass Rename with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deal-with-imminent-license-expiry-on-your-pc/"><u>How to Deal with Imminent License Expiry on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-nvidia-geforce-connection-hurdle-in-win-11/"><u>Bypassing the Nvidia GeForce Connection Hurdle in Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g14-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G14 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-picks-in-depth-review-of-best-macos-screenshot-apps/"><u>[New] 2024 Approved  Top Picks  In-Depth Review of Best macOS Screenshot Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors-for-2024/"><u>[Updated] Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-best-pop-background-music-list-to-videos/"><u>In 2024, Best Pop Background Music List to Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-breed-top-9-microphones-recorders-online/"><u>[Updated] 2024 Approved  Best of Breed  Top 9 Microphones Recorders Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlock-the-door-to-customized-speaking-voices-in-tiktok-media-for-2024/"><u>[New] Unlock the Door to Customized Speaking Voices in TikTok Media for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-say-goodbye-to-shaky-cam-stabilizing-your-videos-in-premiere-pro/"><u>In 2024, Say Goodbye to Shaky Cam Stabilizing Your Videos in Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[New] 2024 Approved  Get Back to Pure Content  How to Block YouTube Ads on All Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/push-boundaries-in-image-editing-expert-distortion-techniques/"><u>Push Boundaries in Image Editing  Expert Distortion Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-pixel-power-a-beginners-guide-to-hd-video-production/"><u>New 2024 Approved Pixel Power A Beginners Guide to HD Video Production</u></a></li>
+</ul></div>

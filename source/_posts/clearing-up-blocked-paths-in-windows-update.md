@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Blocked Paths in Windows Update
-date: 2024-06-21 18:49:27
-updated: 2024-06-24 10:53:29
+date: 2024-06-25T16:12:00.205Z
+updated: 2024-06-26T16:12:00.205Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  The DNS cache uses stored information like IP addresses and DNS Records to load websites and pages faster. However, the DNS cache can get corrupted.
 
- But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
+ But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out [how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 To fix this, you can try restarting Cryptographic Services.
 
-1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the[many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
+1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the [many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
@@ -67,13 +67,13 @@ To fix this, you can try restarting Cryptographic Services.
 
  Sometimes you may experience that the SFC is not working properly. To overcome that, you should run the DISM command that will service and repair Windows images.
 
- You can quickly learn how to run the SFC and DISM, and also explore how they work. Check out our piece on the[differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for the full low-down.
+ You can quickly learn how to run the SFC and DISM, and also explore how they work. Check out our piece on the [differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for the full low-down.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
 ## 5\. Update System Drivers
 
- Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
+ Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to [know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
 
  If you're regularly keeping your Windows PC updated, the drivers your system needs would automatically be getting installed with the updates.
 
@@ -94,7 +94,7 @@ To fix this, you can try restarting Cryptographic Services.
 
  If you're using Windows 10 Pro or Windows 11 Pro editions, you can try tweaking the Scripted Diagnostics policy in Troubleshooting and Diagnostics in the Group Policy Editor.
 
- Though it's not available on Windows Home, you can still[access the Group Policy Editor by enabling it](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
+ Though it's not available on Windows Home, you can still [access the Group Policy Editor by enabling it](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
 
 To edit and enable the Scripted Diagnostics policy:
 
@@ -133,3 +133,26 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-scripts-the-winexe-transformation-tutorial/"><u>Elevate Your Scripts: The WinEXE Transformation Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-easing-through-administrative-denial-of-installers/"><u>Strategies for Easing Through Administrative Denial of Installers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-arp-cache-how-to-empty-it/"><u>Decoding Windows ARP Cache: How to Empty It?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-ignoring-soon-expiring-licenses-alerts-in-windows/"><u>Quick Fix for Ignoring Soon Expiring Licenses Alerts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-mending-exception-error-on-win-os/"><u>Understanding and Mending Exception Error on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-automate-heic-to-jpeg-images/"><u>Win 10/11: Automate HEIC to JPEG Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-step-by-step-journey-of-becoming-an-ez-grabber-user/"><u>In 2024, The Step-By Step Journey of Becoming an EZ Grabber User</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii-for-2024/"><u>Top Quality SD Card for Sony Alpha 7S II for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expressiveness-in-yt-adopting-emojis-for-2024/"><u>[Updated] Expressiveness in YT  Adopting Emojis for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prime-fb-videos-deciding-on-the-best-ten/"><u>[Updated] In 2024, Prime FB Videos  Deciding on the Best Ten</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-for-leveraging-b-roll-content-for-2024/"><u>Best Practices for Leveraging B-Roll Content for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713953919614-new-in-2024-finding-the-finest-way-to-add-subtitles-to-videos-filmora/"><u>New In 2024, Finding The Finest Way to Add Subtitles to Videos | Filmora</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-creative-with-slow-mo-top-video-editing-software-for-filmmakers/"><u>Updated In 2024, Get Creative with Slow Mo Top Video Editing Software for Filmmakers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-zero-5g-2023-turbo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Zero 5G 2023 Turbo to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/composing-persuasive-podcast-introductions/"><u>Composing Persuasive Podcast Introductions</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-g54-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola G54 5G unlock screen</u></a></li>
+</ul></div>

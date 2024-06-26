@@ -1,7 +1,7 @@
 ---
 title: Integrating Advanced Shortcuts Into Windows Explorer Menus
-date: 2024-06-23 13:30:21
-updated: 2024-06-26 10:40:24
+date: 2024-06-25T16:24:01.030Z
+updated: 2024-06-26T16:24:01.030Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
 ## How to Add a Move to Folder Context Menu Option
 
- To add new context menu options in Windows 11/10, you must tweak the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
+ To add new context menu options in Windows 11/10, you must tweak the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
 
-1. Bring up the Registry Editor with a method included in our[how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
+1. Bring up the Registry Editor with a method included in our [how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
 2. Click inside the address bar at the top of Registry Editor, and erase the current key location there.
 3. Then enter this**ContextMenuHandlers** key location and press**Return** :  
 `HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers`
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
 
-1. Head over to[the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
+1. Head over to [the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
 2. Press WinBubble’s**Download Now** button.
 3. Click the**Softpedia Mirror (US)** option for the download location.
 4. Next, bring up a**Downloads** tab or page in whatever web browser you’re utilizing. You can do that in Chrome, Edge, Firefox, or Opera with the**Ctrl** +**J** hotkey.
@@ -118,3 +118,22 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/turbo-enabledisable-bing-ai-on-windows-11-search-bar/"><u>Turbo Enable/Disable: Bing AI on Windows 11 Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hidden-recycling-bin-icon-on-windows-11/"><u>Activating Hidden Recycling Bin Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-windows-users-from-changing-the-date-and-time/"><u>How to Stop Windows Users From Changing the Date and Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-directdraw-issues-on-windows-11-and-11-pros/"><u>Overcoming DirectDraw Issues on Windows 11 & 11 Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-art-microsoft-paints-latest-enhancements/"><u>Mastering Art: Microsoft Paint's Latest Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-viewing-on-facebook-live-for-2024/"><u>[Updated] Mastering Viewing on Facebook Live for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/solving-sound-disconnection-on-live-feeds/"><u>Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ransforming-youtube-footage-for-ultimate-quality/"><u>[New] Transforming YouTube Footage for Ultimate Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-lightning-growth-guide-for-instagram-using-content-likes-and-videos/"><u>[New] In 2024, Lightning Growth Guide for Instagram  Using Content, Likes & Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-command-the-clicks-mastering-engagement-tactics-for-instagram/"><u>[New] Command the Clicks  Mastering Engagement Tactics for Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>2024 Approved  Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/advanced-audacity-methods-for-high-fidelity-computer-audio-recording-2023-guidebook-for-2024/"><u>Advanced Audacity Methods for High-Fidelity Computer Audio Recording (2023 Guidebook) for 2024</u></a></li>
+</ul></div>

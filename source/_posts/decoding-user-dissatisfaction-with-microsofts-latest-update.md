@@ -1,7 +1,7 @@
 ---
 title: Decoding User Dissatisfaction with Microsoft's Latest Update
-date: 2024-06-22 18:31:26
-updated: 2024-06-25 12:32:32
+date: 2024-06-25T17:00:39.249Z
+updated: 2024-06-26T17:00:39.249Z
 tags:
   - windows10
   - windows11
@@ -18,19 +18,15 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  Microsoft's Windows 11 has improved a lot ever since it was released. However, the OS is still missing some features available in the previous versions of Windows. Also, Microsoft has made some functionality harder to locate and use in the operating system.In this article, we are putting together a list of missing features and complaints users have about Windows 11.
 
-## 1\. Windows 11 Has Strict Hardware Requirements
-
-![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
+## 1\. Windows 11 Has Strict Hardware Requirements ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
  When Windows 10 debuted, Microsoft offered a free upgrade for PCs running Windows 7 and 8.1\. Windows 10 users can also upgrade to Windows 11 for free, but not everyone is eligible because of the stringent hardware requirement.
 
  Windows 10 PCs over six years old will unlikely have the TPM 2.0 technology in the processor. And this is one primary reason why many people are still not being offered the Windows 11 update via the Windows update.
 
- There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
+ There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can [bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
 
-## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process
-
-![windows 11 login problems](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-login-problems.jpg)
+## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process ![windows 11 login problems](https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg)
 
  You get a lot of benefits if you use Microsoft Account with your Windows 11 PC. Microsoft recommends a Microsoft account to make the most of Windows 11, though it's not mandatory to use it over a local account.
 
@@ -44,23 +40,21 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 ![A Windows 11 laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-windows-11-desktop.jpg)
 
- It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are[the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
+ It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are [the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
 
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
 
-## 4\. Changing Default Apps Is Too Hard
-
-![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
+## 4\. Changing Default Apps Is Too Hard ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
 
  Microsoft came under fierce criticism for making it harder to change default apps. In Windows 10, you have a Default apps interface on the Settings page for configuring default apps for email, music, photo viewing, web browser, and more. All it requires is a couple of clicks to change the default apps in Windows 10.
 
- However, changing the default apps in Windows 11 is complicated and lengthy. Windows 11 allows you to set defaults by file or link types. This means you now need to select each file or link type and change each default instead of a single switch, just like in Windows 10\. If you are new to the operating system, check out our guide on[how to change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) .
+ However, changing the default apps in Windows 11 is complicated and lengthy. Windows 11 allows you to set defaults by file or link types. This means you now need to select each file or link type and change each default instead of a single switch, just like in Windows 10\. If you are new to the operating system, check out our guide on [how to change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) .
 
- Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce[a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
+ Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce [a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
 
 ## 5\. The Limited Functionality of the Windows 11 Taskbar
 
- Users have also raised complaints about the limited functionality of the Windows 11 taskbar. It is currently missing popular features like the "never combine" option, which shows a more informative taskbar button. Windows 11 users have also criticized Microsoft for not allowing the taskbar to move to the sides or the top of the screen. Users want both these taskbar functionalities back in Windows 11\. Beyond these two, there are other[ways Microsoft can improve the Windows 11 taskbar](https://www.makeuseof.com/microsoft-improve-windows-11-taskbar/) .
+ Users have also raised complaints about the limited functionality of the Windows 11 taskbar. It is currently missing popular features like the "never combine" option, which shows a more informative taskbar button. Windows 11 users have also criticized Microsoft for not allowing the taskbar to move to the sides or the top of the screen. Users want both these taskbar functionalities back in Windows 11\. Beyond these two, there are other [ways Microsoft can improve the Windows 11 taskbar](https://www.makeuseof.com/microsoft-improve-windows-11-taskbar/) .
 
  In what could be a relief to many Windows 11 users, Microsoft is working on adding the never combine app icons option to the OS. Twitter user Albacore spotted the capability in Windows 11 Insider builds.
 
@@ -85,3 +79,24 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-on-configuring-the-taskbar-for-windows-11-slate-devices/"><u>Expert Advice on Configuring the Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-prime-video-text-barriers-on-windows-11/"><u>Overcoming Prime Video Text Barriers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-aligning-sticky-notes-in-w11/"><u>Mastering the Art of Aligning Sticky Notes in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-bloatware-removal-in-windows-11/"><u>Streamline Your PC: Bloatware Removal in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-users-guide-to-managing-monitor-luminosity/"><u>Win Users Guide to Managing Monitor Luminosity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-auto-lock-and-screensaver-interval/"><u>Personalize Auto-Lock & Screensaver Interval</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-unavailability-of-icloud-on-windows/"><u>Fixing the Unavailability of iCloud on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-quick-fixes-for-slow-windows-app-connections/"><u>Bridge the Gap: Quick Fixes for Slow Windows App Connections</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clipmaster-software/"><u>[New] In 2024, ClipMaster Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>New Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/"><u>2024 Approved  Expert Picks  11 Easy, Waterproof Kids' Camcorders For Vlogging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-feature-music-seamlessly-on-instagram/"><u>[Updated] How To Feature Music Seamlessly on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-tips-for-editing-audios-using-avidemux-2023-edition-for-2024/"><u>New Ultimate Tips for Editing Audios Using Avidemux - 2023 Edition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-platforms-for-game-casting/"><u>2024 Approved  Premier Platforms for Game Casting</u></a></li>
+</ul></div>

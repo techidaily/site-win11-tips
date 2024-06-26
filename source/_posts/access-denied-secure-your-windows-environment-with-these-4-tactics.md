@@ -1,7 +1,7 @@
 ---
 title: "Access Denied: Secure Your Windows Environment with These 4 Tactics"
-date: 2024-06-23 22:37:27
-updated: 2024-06-26 10:44:54
+date: 2024-06-25T16:23:41.007Z
+updated: 2024-06-26T16:23:41.007Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
 ## 1\. How to Disable a User Account in Windows Settings
 
- Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you[add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
+ Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you [add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
 
 To disable user accounts via Settings:
 
@@ -61,7 +61,7 @@ To disable a user account using PowerShell:
 `Enable-LocalUser -Name &ldquo;NewUser&rdquo;`
 5. In the above command replace NewUser with your user account name.
 
- When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
+ When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to [lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -110,7 +110,7 @@ To disable a user account using Command Prompt:
 
  Windows 11 Home users will have to rely on a third-party tool to disable a user account via the Local User and Groups console. Lusrmgr is a third-party snap-in that offers similar functionalities as the Local Users and Groups Management console.
 
- To install the tool, follow our guide to[enable Local User and Group Management on Windows 11](https://www.makeuseof.com/windows-home-edition-enable-local-user-group-management/) . Once done, follow the steps below:
+ To install the tool, follow our guide to [enable Local User and Group Management on Windows 11](https://www.makeuseof.com/windows-home-edition-enable-local-user-group-management/) . Once done, follow the steps below:
 
 1. Double-click on the**lusrmgr.exe** file to launch the application.
 2. In the**Local users and groups** dialog, select**Users** .
@@ -141,3 +141,24 @@ To disable a user account using Command Prompt:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-anticipate-sudo/"><u>Why Windows Users Should Anticipate Sudo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-windows-11-clean-enable-the-autodelete-functionality/"><u>Keep Windows 11 Clean: Enable the Autodelete Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-through-the-haze-9-tips-for-crystal-clear-pc-monitors/"><u>Cutting Through the Haze: 9 Tips for Crystal-Clear PC Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-automatic-system-updates-notice-to-windows-11-ui/"><u>Introducing Automatic System Updates Notice to Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-error-0xc00d36b4-sound-fixes/"><u>Unraveling Windows Error 0XC00D36B4: Sound Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-rules-not-working-on-windows/"><u>How to Fix Outlook Rules Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-printer-speed-in-windows-realm/"><u>Skyrocketing Printer Speed in Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gamers-dream-gear-youtube-collection/"><u>In 2024, Gamers' Dream Gear  YouTube Collection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/chromebooks-ultimate-sniping-software-our-5-favorites-for-2024/"><u>Chromebook's Ultimate Sniping Software  Our 5 Favorites for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-leading-online-video-teaser-creators/"><u>New In 2024, Leading Online Video Teaser Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-tips-for-multisnap-creation-on-snapchat/"><u>[New] Innovative Tips for Multisnap Creation on Snapchat</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-selection-of-video-capture-tools-for-streaming/"><u>In 2024, Ultimate Selection of Video Capture Tools for Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>The Ultimate Pathway  Autoplay YouTube Videos Within FB Networks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-iphone-hdr-photography-skills/"><u>2024 Approved  The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-zero-to-hero-on-instagram-fame/"><u>[Updated] From Zero to Hero on Instagram Fame</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/action-filmmaking-camera-picks-for-newbies-for-2024/"><u>Action Filmmaking  Camera Picks for Newbies for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mending “Recollection of Previous Window's Password”
-date: 2024-06-21 17:51:12
-updated: 2024-06-24 12:37:56
+date: 2024-06-25T16:44:48.883Z
+updated: 2024-06-26T16:44:48.883Z
 tags:
   - windows10
   - windows11
@@ -32,17 +32,13 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-## 1\. Try All of Your Commonly Used Passwords
-
-![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
+## 1\. Try All of Your Commonly Used Passwords ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-## 2\. Press Enter While the Password Field Is Blank
-
-![Enter Key on Laptop Keyboard in Red](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enter-key-on-laptop-keyboard-in-red.jpg)
+## 2\. Press Enter While the Password Field Is Blank ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
@@ -67,3 +63,33 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
  While this error is a headache for sure, you can easily resolve it with a little password tinkering. Keep calm, try the steps above, and enjoy your newly set-up device.
 
  However, this error can be easily resolved. Here’s everything you need to know.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-conjoin-windows-serial-numbers-and-microsoft-accounting/"><u>How to Conjoin Windows Serial Numbers & MICROSOFT ACCOUNTING</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-code-0x8024800c/"><u>Fixing Windows Update Error Code 0X8024800C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-switch-nat-settings-in-windows-oses/"><u>How to Effortlessly Switch NAT Settings in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrinth-a-guide-to-windows-11s-services/"><u>Navigating the Labyrinth: A Guide to Windows 11'S Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-when-and-how-to-leverage-ping-on-windows/"><u>Expert Advice: When and How to Leverage Ping on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-accessibility-issues-of-purchased-software-on-ms-marketplace/"><u>Unlocking Accessibility Issues of Purchased Software on MS Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-problems-addressing-frequent-ps4-disconnection-in-pc/"><u>Unplugging Problems: Addressing Frequent PS4 Disconnection in PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-top-8-selection-tripods-for-high-res-cameras/"><u>2024 Approved  Premium Top 8 Selection  Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-manual-to-acquiring-final-cut-pro-gratis-for-2024/"><u>The Essential Manual to Acquiring Final Cut Pro Gratis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-leveraging-youtube-luck-a-no-ad-earnings-blueprint-for-content-masters/"><u>[Updated] Leveraging YouTube Luck  A No-Ad Earnings Blueprint for Content Masters</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-x6-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find X6 Pro FRP Without Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[New] In 2024, Boosting Your Instagram Aesthetics  Implementing Borders on Photos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prime-cinematic-creator-a-symphony-of-sights-and-sounds/"><u>[New] Prime Cinematic Creator  A Symphony of Sights & Sounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-storage-upgrade-for-sony-a7s-ii-cameras/"><u>[New] Excellent Storage Upgrade for Sony A7S II Cameras</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-mpeg-video-splitter-downloads-top-5-picks-for-2024/"><u>Updated Free MPEG Video Splitter Downloads Top 5 Picks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-trim-cut-and-edit-videos-online-with-kapwings-free-editor/"><u>2024 Approved Trim, Cut, and Edit Videos Online with Kapwings Free Editor</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-vhs-revival-on-mobile-top-apps-for-retro-video-filters/"><u>In 2024, VHS Revival on Mobile Top Apps for Retro Video Filters</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

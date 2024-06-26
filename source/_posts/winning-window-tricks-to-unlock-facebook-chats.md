@@ -1,7 +1,7 @@
 ---
 title: Winning Window Tricks to Unlock Facebook Chats
-date: 2024-06-23 14:39:27
-updated: 2024-06-24 10:31:11
+date: 2024-06-25T16:14:36.230Z
+updated: 2024-06-26T16:14:36.230Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 
  Messenger services running in the background of your Windows PC might interfere when you try to open the application from scratch. To avoid that, consider using the Task Manager to close Messenger completely. Here are the steps to do it.
 
-1. Press the**Ctrl + Shift + Esc** hotkeys to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Press the**Ctrl + Shift + Esc** hotkeys to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. Find all the**Messenger-related** services, right-click on them and choose**End task** from the context menu.  
 ![Closing all the Messenger-related service in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/End-Task.jpg)
 
@@ -70,7 +70,7 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
  This might sound odd, but Facebook Messenger might not work if the system is set to an incorrect date and time. This is because Messenger checks if its own time and date are in sync with Window's own. If there's any difference, it'll refuse to work.
 
- You can[change the system time and date](https://www.makeuseof.com/windows-11-change-date-time/) by following the below steps:
+ You can [change the system time and date](https://www.makeuseof.com/windows-11-change-date-time/) by following the below steps:
 
 1. Open the Settings menu and choose**Time & language** from the left pane.
 2. Choose**Date & Time** .  
@@ -113,7 +113,7 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
  As such, temporarily disable the security app of your computer and then check whether the Facebook Messenger is working. To disable the security app, right-click its icon in the system tray area and choose disable from the context menu. You can also read the user guide of your security program to know much about the disabling process.
 
- If you're using Windows Security, then check our guide and how to[temporarily disable the Windows Security app on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
+ If you're using Windows Security, then check our guide and how to [temporarily disable the Windows Security app on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
 
 ## 8\. Tweak the Registry Editor
 
@@ -132,7 +132,7 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
 ## 9\. Reset the Windows Update Components
 
- If any UWP is not opening or working, try resetting the Windows Update components. You can do it with the help of the[Windows Reset Update tool](https://wureset.com/downloads.html) .
+ If any UWP is not opening or working, try resetting the Windows Update components. You can do it with the help of the [Windows Reset Update tool](https://wureset.com/downloads.html) .
 
 Here's how to use the tool:
 
@@ -174,3 +174,24 @@ Here's how to use the tool:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/transform-your-win11-ui-with-enlarged-icons/"><u>Transform Your Win11 UI with Enlarged Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-password-entry-for-instantaneous-win-11-connections/"><u>Bypassing Password Entry for Instantaneous Win 11 Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-mouse-movement-how-to-stop-acceleration/"><u>Master Your Mouse Movement: How to Stop Acceleration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0xc00d36b4-from-win11-devices/"><u>Eliminating Error 0XC00D36B4 From Win11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-low-usb-controller-limitation-error/"><u>Remedying “Low USB Controller Limitation” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-auto-recommended-games-in-windows-11/"><u>Cease Auto-Recommended Games in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-speed-status-in-windows-desktop-area/"><u>Effortless Speed Status in Windows Desktop Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-guide-to-beauty-on-youtube-gear-makeup-tutorials-and-more-for-2024/"><u>Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-speech-recognition-how-to-turn-talk-into-text/"><u>2024 Approved Speech Recognition How to Turn Talk Into Text</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly-for-2024/"><u>__Local Labor Costs__  The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly. For 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-connect-airpods-to-pc/"><u>New How to Connect AirPods to PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unbiased-review-is-videopad-video-editor-the-right-fit-for-you-in-2024/"><u>Unbiased Review Is Videopad Video Editor the Right Fit for You , In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-pc-color-with-windows-hdri/"><u>In 2024, Maximizing PC Color with Windows HDRI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-8-plus-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 8 Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-illustrator-way-how-to-create-stunning-motion-effects-for-2024/"><u>[New] The Illustrator Way  How to Create Stunning Motion Effects for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-a2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi A2 in Minutes | Dr.fone</u></a></li>
+</ul></div>

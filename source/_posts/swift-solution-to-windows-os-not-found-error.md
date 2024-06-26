@@ -1,7 +1,7 @@
 ---
 title: Swift Solution to Windows OS 'Not Found' Error
-date: 2024-06-21 21:56:41
-updated: 2024-06-24 10:51:51
+date: 2024-06-25T16:28:55.012Z
+updated: 2024-06-26T16:28:55.012Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
  If any of the three records becomes damaged or corrupted, there's a high chance you'll encounter the "Operating system not found" message.
 
- Thankfully, fixing these records is not as complicated as you might think. You just need a removable Windows installation drive. Use Microsoft's[Media Creation Tool](https://www.microsoft.com/en-gb/software-download/windows10) to create some Windows installation media.
+ Thankfully, fixing these records is not as complicated as you might think. You just need a removable Windows installation drive. Use Microsoft's [Media Creation Tool](https://www.microsoft.com/en-gb/software-download/windows10) to create some Windows installation media.
 
 ![windows media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-media-creation-tool.jpg)
 
@@ -72,15 +72,13 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 ## 5\. Enable or Disable UEFI Secure Boot
 
- The[Windows operating system has come a long way](https://www.makeuseof.com/windows-brief-history/) . However, one thing remains the same. Almost every Windows machine is shipped with UEFI firmware and Secure Boot enabled. However, in some cases, it might not work. For example, if Windows is installed on a GUID Partition Table, it can only boot in UEFI mode. Conversely, if Windows is running on an MBR disk, it cannot boot in UEFI mode.
+ The [Windows operating system has come a long way](https://www.makeuseof.com/windows-brief-history/) . However, one thing remains the same. Almost every Windows machine is shipped with UEFI firmware and Secure Boot enabled. However, in some cases, it might not work. For example, if Windows is installed on a GUID Partition Table, it can only boot in UEFI mode. Conversely, if Windows is running on an MBR disk, it cannot boot in UEFI mode.
 
  As such, it's prudent to either enable or disable UEFI Secure Boot and see if it makes a difference. You make the adjustments in the BIOS menu. Usually, the option will be called**Secure Boot** and can be found in the**Security** tab.
 
 ![secure boot configuration windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/secure-boot-configuration-windows.jpg)
 
-## 6\. Activate the Windows Partition
-
-![disk part](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/disk-part.jpg)
+## 6\. Activate the Windows Partition ![disk part](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/disk-part.jpg)
 
  It's possible that the Windows partition is disabled. If that's the case, then it's possible to encounter the 'operating system not found' error in your PC. You can fix this using Windows' native diskpart tool. To work through the following steps, you will once again need a Windows installation media USB.
 
@@ -115,9 +113,9 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 ## 8\. Reinstall Windows
 
- If none of the methods above have worked so far, then perhaps a complete reinstallation is in order. Don't worry, you won't lose any of your data though. Now, since you can't launch your PC, you will have to reinstall your Windows straight from a USB drive, as[laid out by Microsoft](http://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive?view=windows-11) .
+ If none of the methods above have worked so far, then perhaps a complete reinstallation is in order. Don't worry, you won't lose any of your data though. Now, since you can't launch your PC, you will have to reinstall your Windows straight from a USB drive, as [laid out by Microsoft](http://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive?view=windows-11) .
 
- So plug in your bootable USB drive and boot your PC from the USB. If you don't have a bootable USB yet, you can check out our guide on[creating a bootable USB from scratch](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) and get your work started. If your Windows doesn't boot, you might first have to change the booting order so that the OS can load boot up through your USB. To do that, press the**Esc/F10/F12** or the relevant key to boot into the boot-selection device. Once you're there, change the booting order to boot from your USB.
+ So plug in your bootable USB drive and boot your PC from the USB. If you don't have a bootable USB yet, you can check out our guide on [creating a bootable USB from scratch](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) and get your work started. If your Windows doesn't boot, you might first have to change the booting order so that the OS can load boot up through your USB. To do that, press the**Esc/F10/F12** or the relevant key to boot into the boot-selection device. Once you're there, change the booting order to boot from your USB.
 
  The process is fairly straightforward from there. Just follow the on-screen instructions, launch the installation wizard and wait while it installs a new copy of Windows.
 
@@ -147,3 +145,26 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-files-disabling-read-only-status/"><u>Manipulating Windows Files: Disabling Read-Only Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-crash-focus-on-0x800f0831/"><u>Eliminate Windows Crash: Focus on 0X800f0831</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-management-navigating-taskbar-with-windows-hotkeys/"><u>Effortless Management: Navigating Taskbar with Windows Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-uninstall-guide-enhancing-your-workflow-in-windows/"><u>The Ultimate Uninstall Guide: Enhancing Your Workflow in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-browse-images-using-windows-11-explorer/"><u>Efficiently Browse Images Using Windows 11 Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-operational-windows-desktop-context-menus/"><u>Tactics for Operational Windows Desktop Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-black-screens-in-win11-with-ease/"><u>Overcoming Black Screens in Win11 with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-budget-game-design-tools-and-software-for-aspiring-developers/"><u>[Updated] In 2024, Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>Advanced Tactics  Preserving the Integrity of WhatsApp Talks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-invisible-motion-capture-instruction/"><u>[Updated] Invisible Motion Capture Instruction</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-un-reload-your-loved-tiktok-videos/"><u>[New] How to Un-Reload Your Loved TikTok Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-asus-pa32u-a-4k-professional-review-for-2024/"><u>Breaking Down ASUS PA32U  A 4K Professional Review for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mobile-mastery-the-top-10-vlog-editor-apps-you-need-to-know/"><u>New In 2024, Mobile Mastery The Top 10 Vlog Editor Apps You Need to Know</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-the-moment-free-on-both-operating-systems/"><u>[New] 2024 Approved  Capture the Moment - Free on Both Operating Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-5-alternatives-to-bandicam-for-pro-mac-users-for-2024/"><u>[New] Top 5 Alternatives to Bandicam for Pro Mac Users for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-vllo-on-mac-your-ultimate-guide-to-downloads-and-alternatives/"><u>Updated In 2024, VLLO on Mac Your Ultimate Guide to Downloads and Alternatives</u></a></li>
+</ul></div>

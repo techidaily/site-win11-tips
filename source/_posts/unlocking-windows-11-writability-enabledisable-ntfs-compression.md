@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows 11' Writability: Enable/Disable NTFS Compression"
-date: 2024-06-23 16:46:56
-updated: 2024-06-24 11:42:43
+date: 2024-06-25T16:06:34.495Z
+updated: 2024-06-26T16:06:34.495Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
- The quickest way to enable NTFS[file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
+ The quickest way to enable NTFS [file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
 
 1. Open the File Explorer and head toward the folder you want to compress.
 2. Right-click on the target folder and choose**Properties** from the context menu.
@@ -52,7 +52,7 @@ Similarly, you can compress an entire drive. Here's how:
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
 
 1. Press the**Win + S** hotkeys to open the**Windows Search.**
-2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane. If this method is not working, you can use any other way to[open Command Prompt with admin rights](https://www.makeuseof.com/how-to-always-open-command-prompt-as-administrator-windows/) .
+2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane. If this method is not working, you can use any other way to [open Command Prompt with admin rights](https://www.makeuseof.com/how-to-always-open-command-prompt-as-administrator-windows/) .
 3. Type the following command and press**Enter** to enable file compression.  
 `fsutil behavior set disablecompression 0`
 
@@ -118,3 +118,24 @@ Similarly, you can compress an entire drive. Here's how:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-reversion-of-files-to-read-only/"><u>Tackling Win11's Reversion of Files to Read-Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowing-wonderland-personalized-monitor-settings-in-win1011/"><u>Windowing Wonderland: Personalized Monitor Settings in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-revive-windows-desktop-icons/"><u>Efficient Methods to Revive Windows Desktop Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-default-silence-camera-activation-in-win11/"><u>Breaking the Default Silence: Camera Activation in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-roblox-frame-rates-on-windows-systems/"><u>Boosting Roblox Frame Rates on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-digital-space-with-win-11-sketching-techniques/"><u>Redefine Your Digital Space with Win 11 Sketching Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-evaluation-best-action-capture-systems-for-2024/"><u>[Updated] Expert Evaluation  Best Action Capture Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[New] 2024 Approved  Streaming GoPro on Social Platforms  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-insiders-look-at-creating-viral-fb-cover-videos/"><u>[Updated] The Insider's Look at Creating Viral FB Cover Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-visual-journey-through-pc-games-snapping-the-best-for-2024/"><u>A Visual Journey Through PC Games - Snapping the Best for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-n53-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo N53 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-tips-for-high-quality-sports-streaming-for-2024/"><u>Professional Tips for High-Quality Sports Streaming for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-itel-p55-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Itel P55? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>2024 Approved  From Zero to Hero  Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-cameras-offering-uninterrupted-capture/"><u>In 2024, Best Cameras Offering Uninterrupted Capture</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mastery Over Removing Window Search Artifacts
-date: 2024-06-23 16:30:34
-updated: 2024-06-24 11:28:56
+date: 2024-06-25T17:06:18.097Z
+updated: 2024-06-26T17:06:18.097Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ## How to Disable the Illustrations in Windows Search Icons
 
- Even though this feature is creative, it may not be for everyone. Fortunately, Microsoft allows you to[customize the Windows taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) in a variety of ways, and you can disable the pictures by disabling search highlights in the taskbar settings.
+ Even though this feature is creative, it may not be for everyone. Fortunately, Microsoft allows you to [customize the Windows taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) in a variety of ways, and you can disable the pictures by disabling search highlights in the taskbar settings.
 
 Here is how you can do that:
 
@@ -38,7 +38,7 @@ Here is how you can do that:
 2. Choose**Search** \>**Show Search Highlights** .  
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
 
- After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
+ After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also [use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
 
 If you are a Windows 11 user, you can use these steps as well:
 
@@ -71,3 +71,27 @@ If you are a Windows 11 user, you can use these steps as well:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-badge-indicators-on-taskbars/"><u>Restoring Badge Indicators on Taskbars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-roblox-needs-quitting-on-windows-without-hesitation/"><u>How to Stop Roblox Needs Quitting on Windows Without Hesitation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-what-sets-ai-hardware-on-a-distinct-path/"><u>Analyzing What Sets AI Hardware on a Distinct Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-win-11-taskbar/"><u>Mastering Time Display on Win 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-razer-devices-detection-via-synapse-on-windows/"><u>Steps to Restore Razer Devices Detection via Synapse on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-switch-the-best-windows-apps-for-ex-mac-users/"><u>Smooth Switch: The Best Windows Apps for Ex-Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-faulty-windows-11-recycle-bin-messages/"><u>Purging Faulty Windows 11 Recycle Bin Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-non-scrolling-issue-in-microsoft-excel-pc/"><u>Resolve Non-Scrolling Issue in Microsoft Excel PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-wintoys-a-brief-dive-into-a-formidable-windows-feature/"><u>Discovering WinToys: A Brief Dive Into a Formidable Windows Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revisiting-radeon-review-and-restore-for-2024/"><u>[New] Revisiting Radeon  Review and Restore for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleash-gaming-potential-top-30-strategies-to-increase-video-popularity/"><u>[New] In 2024, Unleash Gaming Potential  Top 30 Strategies to Increase Video Popularity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/review-the-full-package-of-the-logitech-4k-webcam/"><u>Review  The Full Package of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-xbox-one-mastering-live-gaming-broadcasts-for-2024/"><u>[New] Xbox One  Mastering Live Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-online-video-editors-for-music-videos/"><u>New Top-Rated Online Video Editors for Music Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-tips-for-recording-google-voice-dialogues/"><u>Advanced Tips for Recording Google Voice Dialogues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-playbook-navigating-youtube-etiquette/"><u>2024 Approved  Ultimate Playbook  Navigating YouTube Etiquette</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>[New] From Raw to Refined  YouTube Thumbnail Creation for Mobile Users</u></a></li>
+</ul></div>

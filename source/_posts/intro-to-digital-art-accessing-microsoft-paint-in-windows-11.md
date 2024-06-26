@@ -1,7 +1,7 @@
 ---
 title: "Intro to Digital Art: Accessing Microsoft Paint in Windows 11"
-date: 2024-06-24 18:46:27
-updated: 2024-06-26 10:36:18
+date: 2024-06-25T16:11:22.866Z
+updated: 2024-06-26T16:11:22.866Z
 tags:
   - windows10
   - windows11
@@ -60,13 +60,13 @@ Now that Microsoft Paint is open, you can start working.
 
  Additionally, you can use the Command Prompt application in Windows 11 to open Microsoft Paint. It allows you to launch programs quickly by typing in a command rather than navigating through the Start menu or desktop icons. To open Microsoft Paint using Command Prompt, you need to take the following steps:
 
-1. Run Command Prompt as an administrator (see[how to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Run Command Prompt as an administrator (see [how to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. In the Command Prompt, type**mspaint** and press**Enter** .  
 ![Open Paint Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-command-prompt.jpg)
 
  The Microsoft Paint program will launch immediately and be ready for use.
 
- Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
+ Check out our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
 
@@ -87,7 +87,7 @@ The Microsoft Paint application will appear on your screen.
 
  With the help of this application, you can easily access programs like Microsoft Paint without having to search through menus or launch them from a desktop shortcut. To do this, follow these steps:
 
-1. Click on your Taskbar, press**Ctrl + Shift + Esc** , or use one of the many other[ways to open up the Task Manager window](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Click on your Taskbar, press**Ctrl + Shift + Esc** , or use one of the many other [ways to open up the Task Manager window](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. From there, select**More Details** if it is not already displayed.
 3. Select**Run new task** at the top of the Task Manager window.
 4. Type**mspaint** into the search field.  
@@ -148,3 +148,26 @@ Create a desktop shortcut as explained above.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-enhance-windows-11-task-manager-with-a-search-tool/"><u>How to Enhance Windows 11 Task Manager with a Search Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-and-change-the-subnet-mask-in-windows-11/"><u>How to Find and Change the Subnet Mask in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-laptop-or-desktops-past/"><u>Unraveling Windows Laptop or Desktop's Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrinth-a-guide-to-windows-11s-services/"><u>Navigating the Labyrinth: A Guide to Windows 11'S Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-upgrade-to-windows-11-22h2-on-unsupported-hardware/"><u>How to Upgrade to Windows 11 22H2 on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-games-launcher-handling-lost-security-code-issues-on-pc/"><u>Epic Games Launcher: Handling Lost Security Code Issues on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-with-leading-winning-apps-for-windows/"><u>Supercharge with Leading Winning Apps for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revert-windows-settings-after-restart/"><u>Methods to Revert Windows Settings After Restart</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-zero-5g-2023-turbo-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Zero 5G 2023 Turbo Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-8-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-change-snapchat-voice-in-minutes-using-twin-methods-for-2024/"><u>[New] Change Snapchat Voice in Minutes Using Twin Methods for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unparalleled-online-success-stories-from-youtube/"><u>[Updated] Unparalleled Online Success Stories From YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-magic-of-custom-snaps-and-effortless-lenses/"><u>[New] Unlock the Magic of Custom Snaps & Effortless Lenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] 2024 Approved  Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easeus-reviewed-a-world-of-technology-for-2024/"><u>[Updated] EaseUS Reviewed  A World of Technology for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-font-design-software-discord-edition/"><u>Ultimate Font Design Software - Discord Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 8T | Dr.fone</u></a></li>
+</ul></div>

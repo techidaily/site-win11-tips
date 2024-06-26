@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Lockout? Try These Hacks
-date: 2024-06-21 21:55:50
-updated: 2024-06-24 12:56:33
+date: 2024-06-25T16:42:58.608Z
+updated: 2024-06-26T16:42:58.608Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ If the internet appears to be working, continue with the fixes below.
 
 ## 2\. Run the Windows Store Apps Troubleshooter
 
- Windows Store Apps troubleshooter is useful for fixing[common issues related to the Microsoft Store and its apps](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) . It can scan the Microsoft Store for any common problems and attempt to repair them.
+ Windows Store Apps troubleshooter is useful for fixing [common issues related to the Microsoft Store and its apps](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) . It can scan the Microsoft Store for any common problems and attempt to repair them.
 
 To run the Windows Store apps troubleshooter, use these steps:
 
@@ -43,7 +43,7 @@ To run the Windows Store apps troubleshooter, use these steps:
 
  Like most apps, Microsoft Store collects cache data on your computer to speed up loading times and enhance app performance. However, if this data becomes corrupted, it could lead to many issues, including this one.
 
- You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn[different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
+ You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn [different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
 
 ## 4\. Repair or Reset the Microsoft Store App
 
@@ -59,7 +59,7 @@ To repair the Microsoft Store app on Windows:
 
  A checkmark should appear next to the Repair button once the process is complete.
 
- If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
+ If you cannot sign in even after attempting a repair, you can try [resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
 ## 5\. Correct Date and Time on Your PC
 
@@ -95,11 +95,11 @@ To configure the Microsoft Store Install Service on Windows:
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
- Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
+ Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on [how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
 ## 9\. Reinstall Microsoft Store
 
- If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
+ If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on [how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
 
 ## 10\. Install Windows Updates
 
@@ -128,3 +128,24 @@ To configure the Microsoft Store Install Service on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-audio-not-installed-issues-in-windows-os/"><u>Resolving 'Audio Not Installed' Issues in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-lock-personal-pattern-creation-tutorial/"><u>Mastering Window's Lock: Personal Pattern Creation Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unclog-the-windows-vds-startup-process/"><u>How to Unclog the Windows VDS Startup Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-using-the-netstat-command-in-win11/"><u>A Step-by-Step Approach: Using the Netstat Command in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-invalid-network-path/"><u>Overcoming Windows' Invalid Network Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-correcting-rdp-fails-in-modern-windows-os/"><u>Preventing and Correcting RDP Fails in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-microsoft-can-improve-windows-11-widgets/"><u>8 Ways Microsoft Can Improve Windows 11 Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-4-strategies-for-mac-address-extraction-in-windows-11/"><u>Exploring 4 Strategies for MAC Address Extraction in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hilarious-threads-the-tweeter-treasury-for-2024/"><u>Hilarious Threads  The Tweeter Treasury for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-invisible-areas-within-youtube-videos/"><u>[New] 2024 Approved  Fixing Invisible Areas Within YouTube Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-nord-ce-3-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Nord CE 3 5G Without PUK Codes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ppt-presentations-with-verbal-narration-guide-for-2024/"><u>[New] PPT Presentations with Verbal Narration Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-master-your-audience-smooth-screen-sharing-on-social-livestreams-for-2024/"><u>[Updated] Master Your Audience  Smooth Screen Sharing on Social Livestreams for 2024</u></a></li>
+</ul></div>

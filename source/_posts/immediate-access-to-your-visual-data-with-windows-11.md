@@ -1,7 +1,7 @@
 ---
 title: Immediate Access to Your Visual Data with Windows 11
-date: 2024-06-21 18:28:21
-updated: 2024-06-24 12:25:19
+date: 2024-06-25T16:27:33.550Z
+updated: 2024-06-26T16:27:33.550Z
 tags:
   - windows10
   - windows11
@@ -34,17 +34,17 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
 ### 1\. Update to the Appropriate Windows Insider Build
 
- The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use[UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 ### 2\. Download ViVeTool
 
- You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
+ You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press**Ctrl + Shift + Enter** keys at once to open a new Command Prompt window with administrator privileges.
 2. Now, navigate to the main directory in C drive. Type**cd C:\\ command** and press the enter key.
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
@@ -108,3 +108,22 @@ To remove a folder from Gallery, repeat the following steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/keep-devices-awake-disabling-usb-hibernate-in-win-11/"><u>Keep Devices Awake: Disabling USB Hibernate in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-switch-off-microsofts-assistant/"><u>Techniques to Switch Off Microsoft's Assistant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synchronizing-camera-use-among-windows-programs/"><u>Synchronizing Camera Use Among Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-sharing-using-dropboxgoogle-drive-from-windows-paths/"><u>Streamlining File Sharing: Using Dropbox/Google Drive From Windows Paths</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-calculator-display-timeframe-on-windows/"><u>Maximizing Calculator Display Timeframe on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-safe-secure-and-stress-free-exclusive-list-of-free-video-call-apps-for-iphoneandroid/"><u>[Updated] In 2024, Safe, Secure & Stress-Free  Exclusive List of Free Video Call Apps for iPhone/Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-by-drfone-android/"><u>Universal Unlock Pattern for Vivo</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-fast-and-easy-top-5-choices-for-pinterest-video-downloaders/"><u>2024 Approved  Free, Fast & Easy  Top 5 Choices for Pinterest Video Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-is-your-content-flourishing-consider-an-mcn-partnership/"><u>[Updated] Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhance-workflow-the-essential-list-of-8-scheduling-apps-for-2024/"><u>[New] Enhance Workflow  The Essential List of 8 Scheduling Apps for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-exploring-harmony-in-motion-discovering-the-best-music-animators-free-and-paid/"><u>Updated Exploring Harmony in Motion Discovering the Best Music Animators (Free & Paid)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-silence-detection-tools-for-better-film-production/"><u>Top Silence Detection Tools for Better Film Production</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic Vs 2? | Dr.fone</u></a></li>
+</ul></div>

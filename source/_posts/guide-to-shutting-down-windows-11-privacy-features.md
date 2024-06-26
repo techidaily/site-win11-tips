@@ -1,7 +1,7 @@
 ---
 title: Guide to Shutting Down Windows 11 Privacy Features
-date: 2024-06-21 17:47:43
-updated: 2024-06-24 11:47:13
+date: 2024-06-25T16:11:16.453Z
+updated: 2024-06-26T16:11:16.453Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ## How to Disable Activity Tracking on Windows 11
 
- Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to[Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
+ Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to [Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
 
  Your activity history is used to personalize your Windows experience and provide relevant suggestions. The Windows 11**Timeline** and Microsoft Edge utilize your activity history.
 
@@ -75,7 +75,7 @@ To disable tracking within Microsoft Edge:
 3. Select**Privacy, search and services** from the side menu.
 4. Enable**Tracking prevention** , and choose the tracking level you want to allow during your browsing sessions.
 
- If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
+ If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated [Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
 
 ## How to Delete Activity Tracking Data from Microsoft Account
 
@@ -83,7 +83,7 @@ To disable tracking within Microsoft Edge:
 
  Here’s what you need to do to clear activity tracking data from your linked Microsoft account:
 
-1. Login to your[Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
+1. Login to your [Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
@@ -113,3 +113,22 @@ To disable tracking within Microsoft Edge:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-downloading-errors-in-microsoft-store/"><u>Addressing Downloading Errors in Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-d3dx939dll-loss-in-windows-11/"><u>Resolving D3DX9_39.dll Loss in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-setting-up-window-sandbox/"><u>The Ultimate Guide to Setting up Window Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-windows-exploration-without-the-use-of-ls/"><u>Streamlined Windows Exploration Without the Use of LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-windows-security-pin-made-simple/"><u>Changing Windows Security PIN Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-free-gaming-setup-dualshock-for-windows-users/"><u>Tech-Free Gaming Setup: DualShock for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-v30t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme V30T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-craft-unique-logos-using-complimentary-stock-graphics/"><u>[Updated] Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[Updated] Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-proven-iphone-tips-effortless-video-length-and-size-control/"><u>In 2024, Proven iPhone Tips  Effortless Video Length & Size Control</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-workflow-the-6-best-audio-converters/"><u>Streamline Your Workflow The 6 Best Audio Converters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveilingnextgencameratech/"><u>In 2024, UnveilingNextGenCameraTech</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-collection-best-10-android-phone-apps-for-excellent-audio-recording-for-2024/"><u>Updated The Ultimate Collection Best 10 Android Phone Apps for Excellent Audio Recording for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-strategic-lighting-for-best-iphone-photography/"><u>In 2024, Strategic Lighting for Best iPhone Photography</u></a></li>
+</ul></div>

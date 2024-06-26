@@ -1,7 +1,7 @@
 ---
 title: "Folders and Files in the Spotlight: 6 Access Techniques"
-date: 2024-06-22 11:52:39
-updated: 2024-06-25 10:36:51
+date: 2024-06-25T16:46:26.796Z
+updated: 2024-06-26T16:46:26.796Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
  If you don’t want to use the keyboard at all, then you can open the file properties using the context menu.
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) and type**explorer.exe** . Press the enter key to open the File Explorer.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) and type**explorer.exe** . Press the enter key to open the File Explorer.
 2. Navigate to the desired file or folder location.
 3. Now,**right-click** on the file and select the**Properties** option from the context menu.  
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
 
-1. Press**Win + E** to[open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Go to the file location and**click** on it to highlight it.
 3. Now, navigate to the top menu and click on the**three dots (...)** button.
 4. A drop-down menu will open. Select the**Properties** option from the menu.  
@@ -102,3 +102,22 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-get-the-most-out-of-the-windows-11-taskbar/"><u>7 Ways to Get the Most Out Of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studio-not-launching-on-windows/"><u>How to Fix OBS Studio Not Launching on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-easing-through-administrative-denial-of-installers/"><u>Strategies for Easing Through Administrative Denial of Installers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-app-usage-a-comprehensive-review/"><u>Window's App Usage: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-overheat-in-laptops-with-intensive-play/"><u>Preventing Overheat in Laptops with Intensive Play</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-no-money-just-screen-time-how-to-record-youtube/"><u>In 2024, No Money, Just Screen Time  How To Record YouTube</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-13-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 13 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-science-and-magic-behind-full-circle-films/"><u>2024 Approved  The Science and Magic Behind Full Circle Films</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>2024 Approved  Women Rule  The Top 10 YouTube Stars Amongst Genders</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>In 2024, Best of Breed  Top-Rated Youtuber's Streaming Arsenal</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-whats-the-best-green-screen-app-for-mac-weve-got-the-answer/"><u>Updated In 2024, Whats the Best Green Screen App for Mac? Weve Got the Answer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-20c-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Tecno Spark 20C</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+</ul></div>

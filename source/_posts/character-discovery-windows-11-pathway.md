@@ -1,7 +1,7 @@
 ---
 title: "Character Discovery: Windows 11 Pathway"
-date: 2024-06-23 19:16:38
-updated: 2024-06-25 12:19:16
+date: 2024-06-25T16:17:25.086Z
+updated: 2024-06-26T16:17:25.086Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9042a37d5d2c8af9496ec8a51e895c3285abaf514
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
 
-1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
+1. Open Windows Run Dialog Box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/9042a37d5d2c8af9496ec8a51e895c3285abaf514
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
 
-1. Right-click on the Taskbar and select**Task Manager** from the option list. For more information, see our detailed tutorial on[opening the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Right-click on the Taskbar and select**Task Manager** from the option list. For more information, see our detailed tutorial on [opening the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. In the Task Manager window, click on the "Run new task" option at the top of the page.  
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/9042a37d5d2c8af9496ec8a51e895c3285abaf514
 
  Getting things on a Windows PC is easy with the address bar in File Explorer. All you need to do is open Windows Explorer, search for the program you are looking for, and it will do the rest. Check out the following steps for opening the Character Map:
 
-1. Press**Win + E** to open File Explorer. For other methods, see our guide to[opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to open File Explorer. For other methods, see our guide to [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/9042a37d5d2c8af9496ec8a51e895c3285abaf514
 
  If you prefer a command-line interface, you can open the Character Map tool with PowerShell or Command Prompt. To do this, follow these steps:
 
-1. Run Command Prompt as an administrator (see[how to open the Command Prompt](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Run Command Prompt as an administrator (see [how to open the Command Prompt](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. Type "charmap" in the Command Prompt or PowerShell window.  
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
@@ -137,3 +137,26 @@ This way you can now easily access the tool from the taskbar.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-mobile-app-positions-in-windows-ui/"><u>Mastery Over Mobile App Positions in Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-prime-screenshot-substitutes-beyond-the-windows-ecosystem/"><u>5 Prime Screenshot Substitutes Beyond the Windows Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-persistent-issues-windows-obs-not-opening-troubleshooting/"><u>Tackling Persistent Issues: Windows OBS Not Opening Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-computer-organization-auto-delete-in-windows-made-easy/"><u>Master Computer Organization: Auto-Delete in Windows Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-asks-for-credentials-error-message/"><u>Bypassing Windows Asks for Credentials Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-security-running-as-administrator/"><u>Navigating Windows Security: Running As Administrator</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweaking-your-tweets-audience-engagement-techniques/"><u>In 2024, Tweaking Your Tweets  Audience Engagement Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmenting-film-vistas-with-apple-playlist/"><u>Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-guide-to-adding-dynamic-captions-to-instagram-media/"><u>[Updated] In 2024, Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-mini-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 mini Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-convert-instagram-videos-to-mp3-a-step-by-step-guide-for-2024/"><u>Updated Convert Instagram Videos to MP3 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-zte-nubia-z60-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to ZTE Nubia Z60 Ultra FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-instant-guide-setup-snapchat-for-mac-users/"><u>[New] In 2024, Instant Guide  Setup Snapchat for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-harnessing-the-potential-of-quantum-hdr-imaging/"><u>2024 Approved  Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+</ul></div>

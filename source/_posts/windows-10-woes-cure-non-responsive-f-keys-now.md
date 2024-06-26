@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Woes? Cure Non-Responsive F-Keys Now
-date: 2024-06-24 19:15:27
-updated: 2024-06-26 10:14:29
+date: 2024-06-25T16:36:14.731Z
+updated: 2024-06-26T16:36:14.731Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,7 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
 
 1. In the **Start** menu search bar, search for **command prompt** and select the **Best match**.
 2. Type **msdt.exe -id DeviceDiagnostic**.
-3. Press **Enter**. This will bring up the Hardware and Devices troubleshooter. On its window, click **Next** to start the troubleshooting process
-
-![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
+3. Press **Enter**. This will bring up the Hardware and Devices troubleshooter. On its window, click **Next** to start the troubleshooting process ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -97,3 +95,30 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
  The Function keys give you a faster and easier way to control several hardware features. Using the Fn keys you can adjust the screen brightness, control the speaker volume, or turn on and off airplane mode, among many functions.
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-windows-issue-file-explorer-failsafe-mode/"><u>Solve Windows Issue: File Explorer Failsafe Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-setting-powershell-policies/"><u>A Practical Approach to Setting PowerShell Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-auto-time-zone-switches-in-microsofts-operating-system/"><u>Bypassing Auto Time Zone Switches in Microsoft's Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-sorry-there-is-a-problem-with-the-onedrive-servers-error-on-windows/"><u>6 Ways to Fix the “Sorry, There Is a Problem With the OneDrive Servers” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-standard-power-profile/"><u>Restoring Windows' Standard Power Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-data-protection-turning-on-controlled-folder-access/"><u>Ensuring Data Protection: Turning on Controlled Folder Access</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[Updated] 2024 Approved  Effortless Conversions  Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-x-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone X to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-total-gb-for-24-hour-movie-size/"><u>[New] Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-tiktok-metrics-optimizing-account-performance-tools/"><u>In 2024, Top TikTok Metrics  Optimizing Account Performance Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-insta-twist-magic-secrets-to-spinning-video-content-for-platform-perfection/"><u>[New] 2024 Approved  Insta-Twist Magic  Secrets to Spinning Video Content for Platform Perfection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-basic-principles-of-story-artistry/"><u>2024 Approved  Basic Principles of Story Artistry</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-x100-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo X100 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jumpstart-with-vrecorder-easy-installation-walkthrough/"><u>[Updated] Jumpstart with VRecorder  Easy Installation Walkthrough</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-s18-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo S18 Phone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Enabling Non-Standard Windows Apps
-date: 2024-06-23 10:25:28
-updated: 2024-06-24 10:50:50
+date: 2024-06-25T16:41:26.496Z
+updated: 2024-06-26T16:41:26.496Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,9 @@ To enable Developer Mode on Windows 11:
 
  Once the developer is enabled, you can use PowerShell to sideload a Msixbundle or AppxPackage on your Windows computer.
 
-## 1\. Install the Msixbundle App Files Using PowerShell
+## 1\. Install the Msixbundle App Files Using PowerShell ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
 
-![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
-
- You can use[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to sideload and install msix files on your Windows computer. This should also work if you are trying to sideload an app that is not Store signed.
+ You can use [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to sideload and install msix files on your Windows computer. This should also work if you are trying to sideload an app that is not Store signed.
 
  To install the app, you can use the Add-AppxPackage cmdlet in PowerShell with administrative privilege.
 
@@ -59,17 +57,15 @@ Follow these steps to sideload msix files using PowerShell.
 6. Next, press**Enter** and wait as PowerShell installs the app.
 7. Once installed, type exit and press Enter to close Command Prompt.
 
-## 2\. Install Msixbundle Apps Using the App Installer
-
-![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
+## 2\. Install Msixbundle Apps Using the App Installer ![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
 
  App Installer is an official app package installer for Windows 10\. It lets you install msixbundle and appxpackage with a double click. Useful if you don't want to deal with Windows PowerShell and associated commands.
 
- While the app was officially released for Windows 10, it works just as well on Windows 11\. Make sure to[create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) before you install App Installer, as it may conflict with your system's ability to sideload apps via PowerShell.
+ While the app was officially released for Windows 10, it works just as well on Windows 11\. Make sure to [create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) before you install App Installer, as it may conflict with your system's ability to sideload apps via PowerShell.
 
  Once the restore point is created, follow these steps to install App Installer:
 
-1. Go to the[App Installer page](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) on Microsoft Store.
+1. Go to the [App Installer page](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1) on Microsoft Store.
 2. Click on**Install** to download and install the app.
 3. Once installed, locate and double-click on the**.appx** or .**msixbundle** app package you want to install.
 4. Click on the**Install** button in the app installer dialog. The installer may download the required dependencies and then install the app.
@@ -94,3 +90,27 @@ Follow these steps to sideload msix files using PowerShell.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-sandbox-no-hypervisor-was-found-0xc0351000-error/"><u>How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-streamline-win11s-print-management-max-52-chars/"><u>Ways to Streamline Win11’s Print Management (Max 52 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-local-group-policy-editor-in-windows-11/"><u>10 Ways to Open the Local Group Policy Editor in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-default-silence-camera-activation-in-win11/"><u>Breaking the Default Silence: Camera Activation in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-no-network-reachable-errors-win/"><u>Eradicating No Network Reachable Errors (WIN)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/put-a-halt-on-application-start-tracking-in-windows/"><u>Put a Halt on Application Start-Tracking in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ps4-remote-link-eliminating-random-drops-in-connection/"><u>Secure Your PS4 Remote Link: Eliminating Random Drops in Connection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-achieve-high-quality-streams-youtube-and-twitch-via-obs-for-2024/"><u>[Updated] Achieve High-Quality Streams  YouTube & Twitch via OBS for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-monetize-your-youtube-shorts-simple-steps/"><u>[Updated] In 2024, How to Monetize Your YouTube Shorts  Simple Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] In 2024, Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android/"><u>2024 Approved  Mastering Minimization  32 Top-Rated Apps to Tidy Up Videos on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-adobes-quest-for-giggles-and-grins/"><u>[New] Adobe's Quest for Giggles and Grins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-draft-to-edit-essential-film-techniques-via-youtube/"><u>[Updated] 2024 Approved  From Draft to Edit  Essential Film Techniques via YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-s24plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy S24+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+</ul></div>

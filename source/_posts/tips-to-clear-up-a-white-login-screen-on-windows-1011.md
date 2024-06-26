@@ -1,7 +1,7 @@
 ---
 title: Tips to Clear Up a White Login Screen on Windows 10/11
-date: 2024-06-21 20:20:52
-updated: 2024-06-24 11:42:43
+date: 2024-06-25T17:10:15.693Z
+updated: 2024-06-26T17:10:15.693Z
 tags:
   - windows10
   - windows11
@@ -32,17 +32,15 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  You can restore your login screen in Windows 11 using the**Ctrl + Alt + Delete** combo. It is a temporary workaround but should help you sign in and perform additional troubleshooting steps if necessary. To do this, make sure your PC is turned on. Next, press the**Ctrl + Alt + Delete** combo on your keyboard. This should force the sign-in screen to appear.
 
-**Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
+**Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily [add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
- This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
+ This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to [boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
-## 3\. Install Pending Windows Updates
-
-![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
+## 3\. Install Pending Windows Updates ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
 
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
@@ -57,15 +55,15 @@ To check and update Windows 11:
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
- While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
+ While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily [disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
 
- If you can log in to your PC using the workaround above, explore our guide to[create and use a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, you can perform a system restore using Windows Recovery Environment. Here’s how to do it.
+ If you can log in to your PC using the workaround above, explore our guide to [create and use a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, you can perform a system restore using Windows Recovery Environment. Here’s how to do it.
 
- First, you need to[boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) , and there are many ways to do it. Assuming you cannot get past the lock screen, follow these steps to open the system recovery menu and perform a system restore.
+ First, you need to [boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) , and there are many ways to do it. Assuming you cannot get past the lock screen, follow these steps to open the system recovery menu and perform a system restore.
 
 1. Power off your PC. Press and hold the**Power** button to force a shutdown if necessary.
 2. Next, press the**Power** button to restart and start pressing the**F11** key until you see the recovery menu. Depending on the computer manufacturer, you may have to use the F2, F9, or**F12** keys to boot into**WinRE** .
@@ -97,7 +95,7 @@ To check and update Windows 11:
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
- Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can[disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
+ Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can [disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
 
 ## Fixing the No Login Screen Issue on Windows 11
 
@@ -119,3 +117,27 @@ To check and update Windows 11:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-regain-onedrive-entry-points-in-windows/"><u>Effortlessly Regain OneDrive Entry Points in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-11-and-11/"><u>How to Fix the Camera App’s Error 0xA00F425D in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-win1011-blue-screen-crash-issue/"><u>Addressing Win10/11 Blue Screen Crash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-complex-comic-formats-for-win11-users/"><u>Breaking Down Complex Comic Formats for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-pathway-for-changing-login-method-from-pin-to-passwords-on-windows-11/"><u>Unveiling the Pathway for Changing Login Method From PIN to Passwords on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-spotify-app-on-windows-11-pcs/"><u>Fixing Non-Responsive Spotify App on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-with-style-customizing-themes-for-an-improved-win11-experience/"><u>Decorate with Style: Customizing Themes for an Improved Win11 Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-strategies-converting-pinner-visuals-to-audio/"><u>2024 Approved  Top 3 Strategies  Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>2024 Approved  Sharpen Your Shots  Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Vivo Y78+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-12-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 12 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-in-flashes-sharing-briefly/"><u>In 2024, Facebook in Flashes  Sharing Briefly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-where-can-i-find-mp3-cat-sound-effect-in-2024/"><u>Updated Where Can I Find MP3 Cat Sound Effect, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-approach-to-revamping-your-videos-cover-images-on-fb-for-2024/"><u>Innovative Approach to Revamping Your Videos' Cover Images on FB for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exclusive-youtube-snippet-access-high-quality-free-download-for-2024/"><u>Exclusive YouTube Snippet Access - High Quality, Free Download for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pure-visuals-only-techniques-for-stripping-audio-from-mp4mkvavimov-files/"><u>Updated 2024 Approved Pure Visuals Only Techniques for Stripping Audio From MP4/MKV/AVI/MOV Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration"
-date: 2024-06-23 13:42:57
-updated: 2024-06-25 10:15:37
+date: 2024-06-25T16:45:09.299Z
+updated: 2024-06-26T16:45:09.299Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To use the DISM tool, follow these steps:
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
- Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
+ Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the [DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -45,14 +45,14 @@ To use the DISM tool, follow these steps:
 
 To check your system using SFC, follow these steps:
 
-1. Open the Command Prompt with administrative rights using any of the[ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open the Command Prompt with administrative rights using any of the [ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
 Want to know the best part?
 
- The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+ The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 ## 3\. Reset the Windows Update Components
 
@@ -95,7 +95,7 @@ Follow these steps to run the update troubleshooter on Windows:
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
- The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+ The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try [installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 ## 5\. Update Windows to the Latest Version
 
@@ -138,12 +138,10 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + X** to open the Power User menu.
 2. Click on**Windows PowerShell (Admin)** or**Terminal (Admin)** .
 3. Type the following command and press**Enter** :  
-Get-WindowsOptionalFeature -Online  
-![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
+Get-WindowsOptionalFeature -Online ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
-Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
-![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
+Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
@@ -171,3 +169,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-0x800713f-mail-glitch/"><u>Resolving Windows' 0X800713F Mail Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-library-no-sync-error-solution/"><u>Tackling Steam Library: No Sync Error Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-eradicate-system-call-issues-on-modern-windows/"><u>How to Eradicate System Call Issues on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-windows-users-to-fix-f429f-camera-app-hurdle/"><u>Guiding Windows Users to Fix F429F Camera App Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-enable-photo-viewer-window/"><u>Step-by-Step: Enable Photo Viewer Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-fixed-windows-itunes-applications/"><u>Swift Solutions to Fixed Windows iTunes Applications</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-looking-beyond-premiere-elements-top-10-video-editing-software/"><u>2024 Approved Looking Beyond Premiere Elements Top 10 Video Editing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-checklist-archiving-internet-music-with-ease-for-2024/"><u>The Essential Checklist  Archiving Internet Music with Ease for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-multi-camera-setup-with-obs/"><u>[New] Streamlining Multi-Camera Setup with OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-your-stream-obs-or-twitch-studio-in-2024/"><u>[Updated] Choosing Your Stream  OBS or Twitch Studio, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-post-production-pro-tailoring-video-content-to-instagram-standards-with-x/"><u>2024 Approved  Post-Production Pro  Tailoring Video Content to Instagram Standards with X</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>[Updated] In 2024, Capturing Every Detail  Tactics for Streamlined Meet Recordings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-pop-7-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Pop 7 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-strategies-how-to-remove-reverb-from-audio-with-precision-for-2024/"><u>Top Strategies How To Remove Reverb From Audio With Precision for 2024</u></a></li>
+</ul></div>

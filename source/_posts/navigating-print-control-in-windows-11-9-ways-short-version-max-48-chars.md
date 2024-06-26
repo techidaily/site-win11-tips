@@ -1,7 +1,7 @@
 ---
 title: Navigating Print Control in Windows 11 (9 Ways) - Short Version (Max 48 Chars)
-date: 2024-06-24 11:17:44
-updated: 2024-06-26 12:31:50
+date: 2024-06-25T16:28:34.967Z
+updated: 2024-06-26T16:28:34.967Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
  In File Explorer, there is an address bar that you can use to launch Windows tools. Follow these steps to open Print Management:
 
 1. Press the**Win + Q** shortcut on your keyboard.
-2. Type**“File Explorer”** in the search bar, and press the**Enter** key. You can see our guide to[open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for other methods.
+2. Type**“File Explorer”** in the search bar, and press the**Enter** key. You can see our guide to [open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for other methods.
 3. In File Explorer, browse to the following location:**C:\\Windows\\System32** .
 4. On the following page, use the search bar next to the address bar to find "printmanagement.msc".  
 ![Open Print Management Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-File-Explorer.jpg)
@@ -72,7 +72,7 @@ This will now open Print Management on your computer.
 
  You can also open Print Management using the Command Prompt. To do this, follow the below steps:
 
-1. Run Command Prompt as an administrator. This takes a little bit of extra effort, so check out[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you're unsure of how to do this.  
+1. Run Command Prompt as an administrator. This takes a little bit of extra effort, so check out [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you're unsure of how to do this.  
 ![Open Print Management Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Command-Prompt.jpg)
 2. In the Command Prompt window, type the following command and press Enter:  
 `printmanagement.msc`
@@ -148,3 +148,27 @@ This will open the Print Management window for you.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-window-11-interface-for-maximum-efficiency-and-satisfaction/"><u>Tailor Your Window 11 Interface for Maximum Efficiency and Satisfaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-problems-addressing-frequent-ps4-disconnection-in-pc/"><u>Unplugging Problems: Addressing Frequent PS4 Disconnection in PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-roblox-needs-to-close-windows-errors/"><u>Winning Against Roblox Needs to Close Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosted-methods-for-graphic-detail-recognition-windows-11/"><u>Boosted Methods for Graphic Detail Recognition, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-memory-assessment-made-easy/"><u>Windows Memory Assessment Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-iphones-calendar-into-windows-os/"><u>Automating iPhone's Calendar Into Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-smart-7-hd-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 7 HD to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unique-ways-to-document-your-console-games/"><u>Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-plus-5-ways-to-get-into-a-locked-iphone-14-plus-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Plus? 5 Ways to get into a Locked iPhone 14 Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-list-6-diverse-websites-for-youtube-visuals/"><u>[New] The Essential List  6 Diverse Websites for YouTube Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tunemaster-pro-how-to-download-and-assess/"><u>[Updated] TuneMaster Pro  How to Download & Assess</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-collection-top-6-fb-lite-vids-for-2024/"><u>[New] Ultimate Collection  #Top 6 FB Lite Vids for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zoom-room-basics-for-newbies/"><u>[Updated] In 2024, Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-discord-pfps-crafting-impressive-virtual-portraits/"><u>In 2024, Mastering Discord PFPs  Crafting Impressive Virtual Portraits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y78t-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y78t Lock Screen Password</u></a></li>
+</ul></div>

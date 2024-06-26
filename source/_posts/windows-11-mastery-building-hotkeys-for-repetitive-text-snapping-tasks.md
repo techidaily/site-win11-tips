@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Mastery: Building Hotkeys for Repetitive Text Snapping Tasks"
-date: 2024-06-22 12:31:52
-updated: 2024-06-24 12:28:46
+date: 2024-06-25T17:05:01.223Z
+updated: 2024-06-26T17:05:01.223Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,12 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
- QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
+ QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom [hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
 
-1. Open[this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
+1. Open [this QuickTextPaste](https://www.softwareok.com/?Download=QuickTextPaste) download page.
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
-4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
 
-1. Open this[HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
+1. Open this [HotkeyP page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml) on Softpedia.
 2. Select**Download** on the HotkeyP page.
 3. Click the**External Mirror - x64** option for a 64-bit version of the software.
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
@@ -105,3 +105,23 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-your-windows-headset-mic/"><u>Regain Control of Your Windows Headset Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-winexe-creation-from-batch-scripts/"><u>Unveiling WinEXE Creation From Batch Scripts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-to-reinstate-normal-access-in-microsofts-safe-mode-outlook/"><u>Guidance to Reinstate Normal Access in Microsoft's Safe Mode Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-revolutionizing-operations-with-virtual-engineering/"><u>2024 Approved  Revolutionizing Operations with Virtual Engineering</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>2024 Approved  Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-hottest-iphone-apps-unbiased-reviews-and-rankings/"><u>New S Hottest iPhone Apps Unbiased Reviews and Rankings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-free-and-value-oriented-mac-audio-editing-suite/"><u>New In 2024, Free & Value-Oriented Mac Audio Editing Suite</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/bridging-gaps-in-communication-automating-story-captions-for-2024/"><u>Bridging Gaps in Communication  Automating Story Captions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unravel-the-mysteries-of-efficient-story-connectivity-for-2024/"><u>[Updated] Unravel the Mysteries of Efficient Story Connectivity for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superior-ringtones-roundup-elite-download-hubs/"><u>[Updated] 2024 Approved  Superior Ringtones Roundup  Elite Download Hubs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-vivo-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Vivo has been deleted.</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Launching Windows 11'S Storyteller: A Step-by-Step Guide"
-date: 2024-06-23 21:13:50
-updated: 2024-06-24 10:34:19
+date: 2024-06-25T16:53:43.219Z
+updated: 2024-06-26T16:53:43.219Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  Windows 11 comes with a built-in screen reader called Narrator that you can use if you need a screen reader. Here's how to open it via the Command Prompt:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
 2. Type "cmd" in the text box and press**Ctrl + Shift + Enter** .
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
@@ -81,7 +81,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
 
-1. Open the Control Panel (see[how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
+1. Open the Control Panel (see [how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
@@ -113,7 +113,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  If you're looking for a quick way to open Narrator in Windows 11, there is no better way to do so than by using File Explorer. Here's how to do it:
 
-1. Open Windows File Explorer (see[how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
+1. Open Windows File Explorer (see [how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
 2. In the address bar, type "Narrator" and hit Enter.
 
 That's all; your Narrator should now be ready to go.
@@ -147,3 +147,27 @@ That's all; your Narrator should now be ready to go.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/why-upgrading-isnt-feeling-right-for-many-to-windows-11/"><u>Why Upgrading Isn't Feeling Right for Many to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-complications-caused-by-latest-windows-updates/"><u>Resolving Complications Caused by Latest Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-virtualboxs-0x80004005-failure-on-win/"><u>Dealing with VirtualBox's 0X80004005 Failure on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-your-pcs-health-report-efficiently/"><u>Navigate to Your PC’s Health Report Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-taskbar-with-win11-tips/"><u>Enhance Your Taskbar with Win11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-failed-file-creation-on-11-camera-app/"><u>Bypassing Failed File Creation on 11 Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-language-skills-quick-translate-via-windows-key-combinations/"><u>Elevate Language Skills: Quick Translate via Windows Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-windows-11-22h2-issues-and-their-fixes/"><u>Common Windows 11 22H2 Issues and Their Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissolving-onedrive-and-microsoft-id-integration-on-pcs/"><u>Dissolving OneDrive and Microsoft ID Integration on PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mi-drones-sky-views-unveiled-in-full-hd-quality-check/"><u>In 2024, Mi Drone's Sky Views Unveiled in Full HD Quality Check</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capture-and-store-screen-content-free/"><u>[Updated] 2024 Approved  Capture and Store Screen Content, FREE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-radio-playscript-artistry/"><u>[New] Prime Radio Playscript Artistry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-twitch-live-recordings-today/"><u>2024 Approved  Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-livestreaming-and-media-management-with-ms-video-hub-for-2024/"><u>[New] LiveStreaming & Media Management with MS Video Hub for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/device-based-digital-recording-pcmac-plus-phone-edition/"><u>Device-Based Digital Recording  PC/Mac + Phone Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-tweaking-soundtracks-in-youtube-videos/"><u>[New] The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-huawei-p60-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Huawei P60 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-professional-earnings-forecaster-for-tiktok-creators/"><u>2024 Approved  Professional Earnings Forecaster for TikTok Creators</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Crafting Windows 11 Extractable Files
-date: 2024-06-23 16:48:18
-updated: 2024-06-26 10:36:44
+date: 2024-06-25T16:29:58.541Z
+updated: 2024-06-26T16:29:58.541Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,9 @@ Now we can get started using IExpress Wizard:
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
- 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
+ 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to [encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
 
-1. Go to[the 7-Zip](https://www.7-zip.org/download.html) download page.
+1. Go to [the 7-Zip](https://www.7-zip.org/download.html) download page.
 2. Install Z-Zip on your PC.
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.
@@ -114,3 +114,24 @@ Testing the SFX File With 7-ZIP
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-discord-launch-and-update-check-with-windows-startup/"><u>Preventing Discord Launch and Update Check with Windows Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-hidden-options-mastery-of-lost-control-configurations/"><u>Explore Hidden Options: Mastery of Lost Control Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-the-ultimate-start-menu-guide/"><u>Mastering Windows 11: The Ultimate Start Menu Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-the-windows-11-touchpad-guide/"><u>Navigating with Ease: The Windows 11 Touchpad Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-depth-app-investigation-via-az-screen-recorder-for-2024/"><u>[New] In-Depth App Investigation via AZ Screen Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-distinguished-directories-top-online-destinations-for-snapping-alert-tunes/"><u>[Updated] Distinguished Directories  Top Online Destinations for Snapping Alert Tunes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[New] How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>[New] Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-slow-motion-video-playback-on-vlc-a-beginners-guide/"><u>2024 Approved Slow Motion Video Playback on VLC A Beginners Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>[New] 2024 Approved  Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>[Updated] Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT Neo 5</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Collaboration on a Sleeker Platform
-date: 2024-06-23 20:29:19
-updated: 2024-06-25 12:34:54
+date: 2024-06-25T16:52:39.559Z
+updated: 2024-06-26T16:52:39.559Z
 tags:
   - windows10
   - windows11
@@ -32,23 +32,21 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
- Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
+ Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the [best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
 
  Multi-Tenant Multi-Account (MTMA) allows you to use multiple work and school accounts simultaneously. You can see activities and real-time notifications for all your account in one place and respond to them. This makes it possible to switch between multiple accounts without quitting a meeting or dropping a call.
 
- Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like[scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
+ Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like [scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
-## How to Try the Teams Public Preview
-
-![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+## How to Try the Teams Public Preview ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
 To set the Update policy and enable public preview:
 
-1. Go to[Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
+1. Go to [Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
 2. Next, select**Teams** and click on**Teams Update policies** .
 3. Click**Add** to create a new policy and type a name.
 4. Next, toggle the switch for**Show preview features** and click**Apply** .
@@ -81,3 +79,24 @@ To set the Update policy and enable public preview:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-directx-downloads-issue-in-os/"><u>Mending DirectX Downloads Issue in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/iosandroid-sync-with-windows-server-files/"><u>IOS/Android: Sync with Windows Server Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-to-wipe-login-page-contacts/"><u>Guiding You to Wipe Login Page Contacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-restore-deleted-run-logs/"><u>Methods to Restore Deleted Run Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-crashes-due-to-video-drivers/"><u>Remedying Windows Crashes Due to Video Drivers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-locating-high-quality-sounds-of-onomatopoeic-klaps/"><u>New In 2024, Locating High-Quality Sounds of Onomatopoeic Klaps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-delve-into-the-aural-essence-of-artistic-appliances/"><u>New 2024 Approved Delve Into the Aural Essence of Artistic Appliances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>Secrets From the Pros  High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/wealth-wave-on-your-screen-monetizing-as-a-streamer/"><u>Wealth Wave on Your Screen  Monetizing as a Streamer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-critical-choices-for-perfect-snaps/"><u>[Updated] Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-open-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus Open.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-magic-6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Magic 6 Pro Location on Skout | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Making Sense of Blue Screen in W11"
-date: 2024-06-24 12:22:50
-updated: 2024-06-26 12:52:33
+date: 2024-06-25T16:59:42.371Z
+updated: 2024-06-26T16:59:42.371Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 
  Repeat the following steps to download and install the Microsoft Error Lookup tool:
 
-1. Launch a web browser on your system and visit the[Microsoft Error Lookup Tool download page](https://www.microsoft.com/en-us/download/details.aspx?id=100432) .
+1. Launch a web browser on your system and visit the [Microsoft Error Lookup Tool download page](https://www.microsoft.com/en-us/download/details.aspx?id=100432) .
 2. Scroll down and click on the Download button. It will take a few seconds for the download to complete.
-3. Press**Win + E** to[launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and navigate to the Microsoft Error Lookup Tool executable file download location.
+3. Press**Win + E** to [launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and navigate to the Microsoft Error Lookup Tool executable file download location.
 4. Since it is a command-line tool, you will have to run it by typing its full name. The default download name is**Err\_6.4.5** which will be trouble to remember and type correctly every time in the Command Prompt. So, we will rename it to something easier like**Err** .
 5. Right-click on the Microsoft Error Lookup tool executable file and select**Show more options** .  
 ![Renaming Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/renaming-microsoft-error-lookup-tool.jpg)
@@ -51,7 +51,7 @@ Here’s how to do it:
 1. Press**Win + E** to open File Explorer and navigate to the Microsoft Error Lookup Tool download location. Now, press**Ctrl + C** to copy the file.
 2. Go to the C drive and paste the tool. Grant permissions to place the tool in C drive.  
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
-3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
+3. Now, press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
@@ -86,7 +86,7 @@ Repeat the following steps:
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
- Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a[new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
+ Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a [new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
 
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
 
@@ -109,3 +109,27 @@ Repeat the following steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-installation-on-unsupported-hardware/"><u>Tackling Windows 11 Installation on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-track-of-windows-shots-folders/"><u>Keeping Track of Windows Shots' Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-error-in-windows-setup/"><u>Eliminating Not Found Error in Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-and-fixing-the-msvcr110dll-gap/"><u>Uncovering & Fixing the Msvcr110.dll Gap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-a-lasting-deletion-feature-for-windows-desktop-trash/"><u>Designing a Lasting Deletion Feature for Windows Desktop Trash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-wintoys-a-brief-dive-into-a-formidable-windows-feature/"><u>Discovering WinToys: A Brief Dive Into a Formidable Windows Feature</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mov-video-cutter-reviews-top-6-free-options/"><u>Updated 2024 Approved MOV Video Cutter Reviews Top 6 Free Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-8-trending-facebook-video-hits/"><u>2024 Approved  Top 8 Trending Facebook Video Hits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-elevate-your-video-game-6-expert-adobe-premiere-techniques-to-know/"><u>2024 Approved Elevate Your Video Game 6 Expert Adobe Premiere Techniques to Know</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-world-of-tweets-starting-fresh/"><u>[New] Navigating the World of Tweets  Starting Fresh</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-interface-key-win11-tricks/"><u>[New] Mastering the Interface  Key Win11 Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-shift-techniques-using-3dlut-on-mobile/"><u>In 2024, Quick-Shift Techniques  Using 3DLUT on Mobile</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways/"><u>2024 Approved  Unlock Follower Growth Secrets on Facebook in 10 Simple Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-six-hubs-where-companies-thrive-socially-and-professionally/"><u>Essential Six Hubs Where Companies Thrive Socially & Professionally</u></a></li>
+</ul></div>

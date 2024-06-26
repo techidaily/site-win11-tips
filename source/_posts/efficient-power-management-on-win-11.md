@@ -1,7 +1,7 @@
 ---
 title: Efficient Power Management on Win 11
-date: 2024-06-23 15:56:18
-updated: 2024-06-24 12:39:40
+date: 2024-06-25T16:33:41.364Z
+updated: 2024-06-26T16:33:41.364Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ## How to use Quick Settings on Windows 11
 
- With[Quick Settings enabled](https://www.makeuseof.com/windows-11-simple-quick-settings/) , you can do a lot of stuff without too many hassles. To get started, press the**Windows Key + A** shortcut, and your**Quick Settings** menu will be launched. Alternatively, head to the lower-right corner of your desktop screen, and click on the set of icons from below (Wi-Fi, speaker, battery, etc., which will be some of your options).
+ With [Quick Settings enabled](https://www.makeuseof.com/windows-11-simple-quick-settings/) , you can do a lot of stuff without too many hassles. To get started, press the**Windows Key + A** shortcut, and your**Quick Settings** menu will be launched. Alternatively, head to the lower-right corner of your desktop screen, and click on the set of icons from below (Wi-Fi, speaker, battery, etc., which will be some of your options).
 
 ![quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-settings.JPG)
 
  From there, the dialog box for your Quick Settings will open. You can then tweak your settings from here reasonably easily.
 
- For example, by clicking on**Accessibility** , a host of other options will pop open; for instance, you can choose everything from Magnifier and Color filters to[Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) , Sticker Keys, and so on, and make a series of changes—all from a single place.
+ For example, by clicking on**Accessibility** , a host of other options will pop open; for instance, you can choose everything from Magnifier and Color filters to [Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) , Sticker Keys, and so on, and make a series of changes—all from a single place.
 
 ![accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessibility-settings.JPG)
 
@@ -74,3 +74,26 @@ Here's how you can get started:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mechanism-disabling-dim-display-option/"><u>Unveiling the Mechanism: Disabling 'Dim Display' Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-explorer-3-ways-to-access-directories-on-windows-pcs/"><u>Game Explorer: 3 Ways to Access Directories on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-windows-11-calendar-usage/"><u>Essential Tips for Windows 11 Calendar Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-stuck-recycle-bin-on-microsofts-latest-os/"><u>Reviving a Stuck Recycle Bin on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-to-reviving-frozen-start-button/"><u>Methodical Approach to Reviving Frozen Start Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-history-on-windows-runs/"><u>Addressing Missing History on Windows Runs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-application-space-consumption-guide/"><u>Windows Application Space Consumption Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-taskbar-absence-during-full-screen-mode/"><u>Tackling Taskbar Absence During Full-Screen Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-where-can-i-find-scary-sound-effect-for-2024/"><u>Updated Where Can I Find Scary Sound Effect for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-videos-from-images-10-top-online-makers/"><u>New In 2024, Create Stunning Videos From Images 10 Top Online Makers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-clap-echo-generator/"><u>2024 Approved Clap Echo Generator</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-strategies-for-compelling-facebook-video-content/"><u>[New] Strategies for Compelling Facebook Video Content</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/a-deeper-understanding-of-jazz-beyond-familiar-knowledge-for-2024/"><u>A Deeper Understanding of Jazz Beyond Familiar Knowledge for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-tips-and-tricks-to-add-tags-to-youtube-video/"><u>[New] In 2024, Tips & Tricks to Add Tags to YouTube Video</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-techniques-for-ps3-gameplay-screencasts/"><u>In 2024, Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Windows' Portable Executable: An Overview"
-date: 2024-06-23 13:15:21
-updated: 2024-06-25 10:48:13
+date: 2024-06-25T16:11:03.186Z
+updated: 2024-06-26T16:11:03.186Z
 tags:
   - windows10
   - windows11
@@ -30,15 +30,13 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  COFF or Common Object File Format is a standardized set of conventions for representing binary instructions. COFF helps in maintaining cross-platform compatibility as all COFF file formats follow the same set of rules and conventions for organizing code and data. Although COFF was originally developed for use on \*NIX systems, it is now ubiquitous across all platforms.
 
- The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on[32-bit and 64-bit Windows systems](http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.
+ The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on [32-bit and 64-bit Windows systems](http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.
 
  It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports/imports, manage resources and prepare the file for execution.
 
  Linux also has its own iteration of the COFF; it's called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the**file command** on Linux with the filename as the first argument.
 
-## The Structure of a Windows Portable Executable
-
-![Windows portable executable structure diagram](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg)
+## The Structure of a Windows Portable Executable ![Windows portable executable structure diagram](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg)
 
  The Portable Executable file format consists of several components, each with a specific purpose. These components include:
 
@@ -57,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 ### PE Header
 
- The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
+ The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a [Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
 
 ### Section Headers
 
@@ -90,3 +88,26 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/in-depth-comparison-dissecting-key-differences-between-local-and-microsoft-logins-in-os/"><u>In-Depth Comparison: Dissecting Key Differences Between Local & Microsoft Logins in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-taskbar-implementation-in-windows-11-tablets/"><u>Essential Steps for Taskbar Implementation in Windows 11 (Tablets)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-secrets-to-swiftly-concluding-a-troubled-update-process/"><u>5 Secrets to Swiftly Concluding a Troubled Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-your-machine-windows-11s-bloatware-hack/"><u>Rejuvenate Your Machine: Windows 11'S Bloatware Hack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobes-secrets-ms-store-version-acquisition/"><u>Unlocking Adobe's Secrets: MS Store Version Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-flickering-win1011-screens/"><u>Efficient Fixes for Flickering WIN10/11 Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-network-errors-a-guide-for-windows-11-users/"><u>Eliminating Network Errors: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-taskview-in-window-11-taskbar-design/"><u>Concealing TaskView in Window 11 Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-programs-with-preset-window-sizes-in-windows-11/"><u>How to Open Programs With Preset Window Sizes in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-pro-tips-for-smoother-video-stabilizing-footage-in-adobe-premiere-pro/"><u>New Pro Tips for Smoother Video Stabilizing Footage in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exceptional-online-tv-services-featuring-community-broadcasts/"><u>2024 Approved  Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-designs-a-guide-to-cutting-out-background-in-figma-for-2024/"><u>Perfecting Designs  A Guide to Cutting Out Background in Figma for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-tiktok-strategies-aiming-for-the-top-of-the-list/"><u>[Updated] 2024 Approved  Essential TikTok Strategies  Aiming for the Top of the List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inject-vibrance-into-your-workspace-with-win11-backdrops/"><u>Inject Vibrance Into Your Workspace with Win11 Backdrops</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-quietude-creators-guide-methods-to-extract-silence-from-mp4-mkv-avi-mov-wmv-videos/"><u>Updated Quietude Creators Guide Methods to Extract Silence From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/motion-tracking-software-for-text-top-picks/"><u>Motion Tracking Software for Text Top Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-enhance-your-iphone-x-animoji-skills/"><u>In 2024, Expert Guide to Enhance Your iPhone X Animoji Skills</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eclipsing-fears-in-your-first-10-videos/"><u>[Updated] In 2024, Eclipsing Fears in Your First 10 Videos</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Turning On Windows 11'S Quick Start
-date: 2024-06-24 18:38:30
-updated: 2024-06-26 10:15:28
+date: 2024-06-25T16:10:54.031Z
+updated: 2024-06-26T16:10:54.031Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
 
-## How to Check if Fast Startup Is On or Off
-
-![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
+## How to Check if Fast Startup Is On or Off ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
 
  Often, a major Windows feature update may overwrite the power settings and disable Hibernate, thus disabling Fast Startup. Or you may experience unusual boot behavior even when you think Fast Startup is on. Before attempting to troubleshoot your computer, check if Fast Startup is on or off.
 
@@ -63,9 +61,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
 
-## How to Enable Hibernation in Windows 11
-
-![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
+## How to Enable Hibernation in Windows 11 ![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
 
  Fast Startup is only available on systems compatible with the Hibernate feature available on almost all modern computers. However, this option is often disabled by default on lower-end systems.
 
@@ -78,9 +74,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  Now that you have enabled the hibernate feature, below are the various ways to enable and disable Fast Startup on your Windows computer.
 
-## How to Turn On or Off Fast Startup in the Control Panel
-
-![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
+## How to Turn On or Off Fast Startup in the Control Panel ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
 
@@ -93,9 +87,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 7. Uncheck the **Turn on fast startup option** to disable Fast Startup.
 8. Click **Save changes** to apply the changes.
 
-## How to Turn On or Off Fast Startup Using the Registry Editor
-
-![turn on off fast startup registry register](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-fast-startup-registry-register.png)
+## How to Turn On or Off Fast Startup Using the Registry Editor ![turn on off fast startup registry register](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-fast-startup-registry-register.png)
 
  The next set of methods involves modifying the Windows registry. If something goes wrong, restoring your system to a functioning state can become difficult. So, [create a restore point](https://www.makeuseof.com/tag/create-system-restore-point/) before attempting to edit your registry entries. This will allow you to undo the changes if your system breaks during the process.
 
@@ -112,9 +104,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 8. To turn off Fast Startup, enter **0** in the **Value data** field and click **OK**.
 9. Close the Registry Editor and reboot your computer.
 
-## How to Turn On or Off Fast Startup Using a Registry File
-
-![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
+## How to Turn On or Off Fast Startup Using a Registry File ![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
 
  If you don’t want to work with the Registry Editor, you can create a REG file and run it to achieve the same. Here’s how to do it.
 
@@ -133,9 +123,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 7. Next, click **Save**.
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
 
-## How to Enable or Disable Fast Startup in the Group Policy Editor
-
-![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
+## How to Enable or Disable Fast Startup in the Group Policy Editor ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -152,9 +140,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 6. Or Select **Disabled** to turn off Fast Startup.
 7. Click **Apply** and **OK** to save the changes.
 
-## How to Turn Off Fast Startup Using the Command Prompt
-
-![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
+## How to Turn Off Fast Startup Using the Command Prompt ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
 
  Since fast startup depends on the Hibernate feature, you can disable Hibernate to turn off Fast start. However, this will also turn off Hibernate in Power options, so tread carefully.
 
@@ -171,3 +157,30 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  Whether you want to turn Fast Startup on or off depends on what problem you are trying to solve. Try experimenting with the feature to see if it works for you. If not, you can always undo the changes.
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/cpu-generation-inquiry-on-windows-8-efficient-approaches/"><u>CPU Generation Inquiry on Windows – 8 Efficient Approaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-browsing-experience-in-win-11-by-enabling-ms-defender-application-guard/"><u>Elevate Your Browsing Experience in Win 11 by Enabling MS Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-digital-seas-ensure-stability-at-sea-with-windows/"><u>Navigating the Digital Seas: Ensure Stability at Sea with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-window-into-evolution-noteworthy-windows-11-file-enhancements/"><u>A Window Into Evolution: Noteworthy Windows 11 File Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-disable-the-win11-firewall/"><u>Strategies to Disable the Win11 Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-windows-11-language-line-from-status-bar/"><u>Hide Windows 11 Language Line From Status Bar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-impressive-video-tracks-with-a-newbie-mac-user/"><u>[Updated] In 2024, Creating Impressive Video Tracks with a Newbie Mac User</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-stream-and-record-at-the-same-time-but-cant-find-an-easy-solution-this-guide-will-help-you-get-this-done-using-three-easy-to-follow-methods.m/"><u>Do You Want to Stream and Record at the Same Time but Cant Find an Easy Solution? This Guide Will Help You Get This Done Using Three Easy-to-Follow Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-ace-3-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus Ace 3 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mirth-makers-zombie-shadowbenders/"><u>[Updated] Mirth Makers  Zombie Shadowbenders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-14-effective-methods-zero-budget-webinar-recording-tips-for-2024/"><u>[New] 14 Effective Methods  Zero Budget Webinar Recording Tips for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram-for-2024/"><u>[Desktop & Mobile Solutions] How to Rotate Videos for Instagram for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-15-asmr-channels-to-follow/"><u>In 2024, Top 15 ASMR Channels to Follow</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-send-local-videos-to-chromecast-a-beginners-guide-for-all-platforms/"><u>2024 Approved Send Local Videos to Chromecast A Beginners Guide for All Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-safari-screens-freeze-heres-how-to-fix-black-screen-on-fb/"><u>2024 Approved  Safari Screens Freeze? Here's How to Fix Black Screen on FB</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

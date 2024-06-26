@@ -1,7 +1,7 @@
 ---
 title: Breathe Life Back Into Your PC's Arrow Keys
-date: 2024-06-22 11:11:30
-updated: 2024-06-24 10:22:10
+date: 2024-06-25T17:01:36.042Z
+updated: 2024-06-26T17:01:36.042Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ msdt.exe -id DeviceDiagnostic
 
  If the arrow keys still don’t work, you can run the “Keyboard Troubleshooter”. This tool is similar to the “Hardware and Devices” troubleshooter, but it focuses on keyboard issues. To run it, follow these steps:
 
-1. Open the Settings window. If you need help, see our guide on[how to open the Windows System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Open the Settings window. If you need help, see our guide on [how to open the Windows System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
@@ -97,3 +97,24 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-window-11-settings-for-clear-prime-video-texts/"><u>Harmonize Window 11 Settings for Clear Prime Video Texts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-spontaneous-file-explorer-opens/"><u>Disabling Spontaneous File Explorer Opens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719316562070-boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-why-drives-vanish-on-windows-fix-guide-required/"><u>Unveiling Why Drives Vanish on Windows - Fix Guide Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-failed-speech-recognition-launch-in-windows/"><u>Troubleshooting Failed Speech Recognition Launch in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatar-wondershare-virbo-online/"><u>Updated AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-capturing-honesty-a-comprehensive-guide-to-insta-self-verification/"><u>[New] Capturing Honesty  A Comprehensive Guide to Insta Self-Verification</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-a14-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy A14 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-high-definition-mastery-best-hd-screen-recorder-selections/"><u>[New] 2024 Approved  High Definition Mastery  Best HD Screen Recorder Selections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-non-retweet-strategies-for-mobile-video-shares/"><u>[New] In 2024, Non-Retweet Strategies for Mobile Video Shares</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-video-content-to-youtubes-niche-needs/"><u>2024 Approved  Tailoring Video Content to Youtube's Niche Needs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia to Protect Your Individual Information</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-elevate-your-group-dynamics-with-discord-roles/"><u>2024 Approved  Elevate Your Group Dynamics with Discord Roles</u></a></li>
+</ul></div>

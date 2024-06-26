@@ -1,7 +1,7 @@
 ---
 title: Understanding Windows' Approach to Allocated RAM
-date: 2024-06-23 20:44:27
-updated: 2024-06-24 11:50:25
+date: 2024-06-25T16:19:03.696Z
+updated: 2024-06-26T16:19:03.696Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
 ### 1\. Update Your Drivers
 
- Outdated or corrupt[computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) will increase the amount of memory Windows reserves to keep your hardware devices running smoothly. Updating the drivers, especially the GPU drivers, might help Windows reduce the amount of reserved memory.
+ Outdated or corrupt [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) will increase the amount of memory Windows reserves to keep your hardware devices running smoothly. Updating the drivers, especially the GPU drivers, might help Windows reduce the amount of reserved memory.
 
  Additionally, it might help to disable drivers for devices that you no longer use, as Windows will keep managing them. Launch Device Manager, go through the list, then locate any unneeded drivers. Click them and select**Disable device** .
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
 ### 2\. Install 64-Bit Windows
 
- There are a few[differences between 32-bit and 64-bit Windows](https://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) , including the amount of Hardware Reserved Memory. As we’ve mentioned, a 64-bit Windows assigns less RAM to the Hardware Reserved Memory, so updating from 32-bit to the 64-bit Windows version should reduce the amount of reserved memory.
+ There are a few [differences between 32-bit and 64-bit Windows](https://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) , including the amount of Hardware Reserved Memory. As we’ve mentioned, a 64-bit Windows assigns less RAM to the Hardware Reserved Memory, so updating from 32-bit to the 64-bit Windows version should reduce the amount of reserved memory.
 
  If you’re not sure which version you’re currently running, press**Windows key + I** to bring up the Settings menu. There, head to**System** , scroll to the bottom of the page, and click**About** . Check the value next to**System type** to check if your system is 32 or 64-bit.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
 ### 3\. Set a Preferred GPU
 
- There’s a chance your computer has two GPUs, and one of them is better when managing high-intensive graphics tasks. Instead of using the integrated graphics card to process complex tasks, you should[choose a preferred GPU for games or editing software](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to reduce the memory reserved by Windows.
+ There’s a chance your computer has two GPUs, and one of them is better when managing high-intensive graphics tasks. Instead of using the integrated graphics card to process complex tasks, you should [choose a preferred GPU for games or editing software](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to reduce the memory reserved by Windows.
 
 ### 4\. Run the Hardware and Devices Troubleshooter
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
  First, press**Del** or**F2** to enter BIOS during the Windows startup screen. From the bottom of the page, click Load Defaults (or Restore Settings) and confirm the action. Then, exit BIOS, restart your computer, and check the Hardware Reserved Memory value.
 
- If you can’t access BIOS during the startup screen, there are more[methods you could try to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) and reset it.
+ If you can’t access BIOS during the startup screen, there are more [methods you could try to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) and reset it.
 
 ## Manage the Hardware Reserved Memory on Windows
 
@@ -121,3 +121,22 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-complex-comic-formats-for-win11-users/"><u>Breaking Down Complex Comic Formats for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-screen-direction-with-windows-settings/"><u>Change Screen Direction with Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ancient-pc-modern-atlasos/"><u>Ancient PC, Modern AtlasOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719204825676-fix-the-unresponsive-shift-on-your-pc-now/"><u>Fix the Unresponsive Shift on Your PC Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-w11-desktop-customization-essentials/"><u>Effortless W11 Desktop Customization Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedily-seek-synonyms-with-win11-dictionary/"><u>Speedily Seek Synonyms with Win11 Dictionary</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-insider-look-at-youtube-revenue-policies/"><u>2024 Approved  Insider Look at YouTube Revenue Policies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-legally-downloading-and-watching-c-span-videos/"><u>In 2024, Guide to Legally Downloading and Watching C-Span Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-expert-strategies-for-managing-facebook-lives-in-two-screens/"><u>[New] Expert Strategies for Managing Facebook Lives in Two Screens</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-video-looping-top-10-online-tools-for-2024/"><u>Free and Easy Video Looping Top 10 Online Tools for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-evaluating-mr-beasts-financial-heft/"><u>In 2024, Evaluating Mr. Beast's Financial Heft</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>[Updated] In 2024, Simplify Your Digital Life  5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/distort-image-distance-worry-photo-editing-trick/"><u>Distort Image, Distance Worry  Photo Editing Trick</u></a></li>
+</ul></div>

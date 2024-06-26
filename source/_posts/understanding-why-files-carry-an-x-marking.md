@@ -1,7 +1,7 @@
 ---
 title: Understanding Why Files Carry an X Marking
-date: 2024-06-23 20:51:32
-updated: 2024-06-25 12:20:14
+date: 2024-06-25T16:44:13.660Z
+updated: 2024-06-26T16:44:13.660Z
 tags:
   - windows10
   - windows11
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
  First, perform the following preliminary checks, as they may help you get to the bottom of the problem:
 
 * Make sure the issue isn't temporary by restarting your device once.
-* If you're experiencing this issue on a specific folder, check whether it has some files corrupted in it. You can[repair corrupted files using built-in Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+* If you're experiencing this issue on a specific folder, check whether it has some files corrupted in it. You can [repair corrupted files using built-in Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 * Make sure no other storage or sync apps are currently open on Windows.
 * If OneDrive is open on the web, close it.
 * If you use a Microsoft OneDrive premium plan, ensure it hasn't expired.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
  The problem under discussion can also occur if there isn't sufficient space in OneDrive for syncing additional data. Hence, if you have not been successful in resolving the issue with the above fixes, you should check the available space in your OneDrive account.
 
- To check that, go to[OneDrive's sign-in page](https://onedrive.live.com/about/en-us/signin/) . Then, enter your login credentials to access OneDrive. After logging in, click on the**cog wheel icon** in the top-right corner and go to**Options** . Here, you will see how much storage space you have available.
+ To check that, go to [OneDrive's sign-in page](https://onedrive.live.com/about/en-us/signin/) . Then, enter your login credentials to access OneDrive. After logging in, click on the**cog wheel icon** in the top-right corner and go to**Options** . Here, you will see how much storage space you have available.
 
 ![Go to Options From the Settings Menu of OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-go-to-options-from-the-settings-menu-of-onedrive.jpg)
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
 ## 5\. Restart the Windows Explorer Process
 
- Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
+ Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
 
 ## 6\. Reinstall OneDrive
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 4. In the**Search apps** field, type**"OneDrive."**
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
-6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
+6. After that, go to the [OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
@@ -131,3 +131,24 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-20/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-and-msi-dissecting-software-package-variations/"><u>EXE and MSI: Dissecting Software Package Variations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-ed-themed-windows-experience/"><u>Tailoring Ed-Themed Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-graphics-performance-on-hogwarts-learning-platform/"><u>Strategies to Improve Graphics Performance on Hogwarts Learning Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-linkage-airpods-and-windows-harmony/"><u>Master the Linkage: AirPods & Windows Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolving-file-corrupted-error-x70-on-windows-1011/"><u>Swiftly Resolving 'File Corrupted' Error X70 on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-history-hiccup-quick-fixes-in-3-steps/"><u>Windows History Hiccup - Quick Fixes in 3 Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-revealed-a-detailed-look-at-google-podcasting-for-2024/"><u>Secrets Revealed  A Detailed Look at Google Podcasting for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-windows-movie-maker-essentials-editing-and-enhancing-your-videos-for-2024/"><u>Updated Windows Movie Maker Essentials Editing and Enhancing Your Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-unboxing-game-8-tips-from-experts/"><u>In 2024, Perfect Your Unboxing Game  8 Tips From Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v29e-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-v27-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo V27</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/post-mortem-punchlines-pro/"><u>Post-Mortem Punchlines Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-prioritizing-quality-the-best-skype-recorders-listed/"><u>In 2024, Prioritizing Quality  The Best Skype Recorders Listed</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-m6-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco M6 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>

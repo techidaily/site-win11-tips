@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: The Promise of Next Generation in the Upcoming Moment"
-date: 2024-06-22 17:49:55
-updated: 2024-06-25 11:35:20
+date: 2024-06-25T16:26:21.231Z
+updated: 2024-06-26T16:26:21.231Z
 tags:
   - windows10
   - windows11
@@ -40,17 +40,13 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Since Microsoft has not yet introduced the macOS dock-inspired taskbar to Windows 11 Insider builds, the question of whether it will be possible to move the taskbar to several positions remains unanswered. Either way, the floating taskbar appears to be going through internal testing at this moment. Once ready, Microsoft could release it for Windows 11 Insiders and eventually for the general public via Moment updates.
 
-## 3\. Tabbed Interface in Notepad
-
-![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
+## 3\. Tabbed Interface in Notepad ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
 
  Microsoft introduced File Explorer tabs in the Windows 11 22H2 update last year. Tabs support might expand to the Notepad app as well. Microsoft is currently testing tabs in Notepad with Windows 11 Insiders, hinting that it has a high chance of becoming available in upcoming Moment updates.
 
- Just like how[File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
+ Just like how [File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
-## 4\. Animated Icons in the Settings App
-
-![animated icons in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/animated-icons-in-settings-app.jpg)
+## 4\. Animated Icons in the Settings App ![animated icons in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/animated-icons-in-settings-app.jpg)
 
  Image credit:[Microsoft](https://learn.microsoft.com/en-in/windows/apps/design/signature-experiences/motion#delightful-unexpected-moments-of-joy-with-purpose)
 
@@ -58,13 +54,11 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Every animation will have a unique visual effect that's true to the nature of the icons. For example, the icon for the**Windows Update** setting will spin around whenever you click on it, whereas the icon for**Network & internet** will fill itself up upon clicking. Microsoft is currently A/B testing the animated Settings icon with select Windows 11 Insiders.
 
-## 5\. Built-in Screen Recording
-
-![Snipping tool with screen recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snipping-tool-with-screen-recording.jpg)
+## 5\. Built-in Screen Recording ![Snipping tool with screen recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snipping-tool-with-screen-recording.jpg)
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
- The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
+ The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our [guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
 ## 6\. New Dark Mode Toggle
 
@@ -74,11 +68,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  Image credit: Zac Bowden/[Twitter](https://twitter.com/zacbowden/status/1592528453903200257)
 
- As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our[guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
+ As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our [guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
-## 7\. Task Manager Improvements
-
-![Windows 11 Task Manager search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-task-manager-search-bar.jpg)
+## 7\. Task Manager Improvements ![Windows 11 Task Manager search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-task-manager-search-bar.jpg)
 
  Task Manager in Windows 11 shows you information on applications and processes on your computer. It is also where you can get a good idea about your PC's current state. However, finding one particular process or application that may need your attention when you run into trouble is quite a task.
 
@@ -103,3 +95,27 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/guide-to-securely-manage-editing-accessibility/"><u>Guide to Securely Manage Editing Accessibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-methods-creating-new-dossiers-in-win11/"><u>Quick Methods: Creating New Dossiers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-default-energy-management-in-windows-11/"><u>Regaining Default Energy Management in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-mold-reinventing-yourself-with-a-new-username-in-windows-11/"><u>Breaking the Mold: Reinventing Yourself with a New UserName in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-windows-11-login-issues-without-screen-display/"><u>Clear Windows 11 Login Issues Without Screen Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-self-scrolled-windows-with-ease-and-precision/"><u>Fix Self-Scrolled Windows with Ease and Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-windows-menu-with-superior-powers/"><u>Enhancing the Windows Menu with Superior Powers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-shopping-crash-error-x800704cf/"><u>Tackling Win11's Shopping Crash: Error X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-internal-errors-quickly-with-windows-rdp-connections/"><u>Resolving Internal Errors Quickly with Windows RDP Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screen-saver-successes-a-video-showcase-evaluation/"><u>[Updated] Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-adobe-advances-bringing-text-into-three-dimensional-space/"><u>2024 Approved  Adobe Advances  Bringing Text Into Three-Dimensional Space</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x9a-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X9a Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-the-full-potential-of-your-channel-in-studio/"><u>In 2024, Unleashing the Full Potential of Your Channel in Studio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-modern-way-tweeting-videos-to-whatsapp/"><u>In 2024, The Modern Way  Tweeting Videos to WhatsApp</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-download-fb-links-8-free-online-tools/"><u>[Updated] In 2024, Download FB Links  8 FREE, Online Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-tag-selection-elevate-your-videos-online-presence/"><u>[Updated] Optimal Tag Selection  Elevate Your Video's Online Presence</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/viral-visuals-animated-avatars-and-icons/"><u>Viral Visuals  Animated Avatars and Icons</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>2024 Approved  Advanced Editing Tips  Remove the Unnecessary Picture Border</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-professional-editing-techniques-for-obs-studio-success/"><u>In 2024, Professional Editing Techniques for OBS Studio Success</u></a></li>
+</ul></div>

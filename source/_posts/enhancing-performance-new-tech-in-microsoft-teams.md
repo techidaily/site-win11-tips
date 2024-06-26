@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: New Tech in Microsoft Teams"
-date: 2024-06-22 23:51:39
-updated: 2024-06-25 11:39:46
+date: 2024-06-25T16:23:09.801Z
+updated: 2024-06-26T16:23:09.801Z
 tags:
   - windows10
   - windows11
@@ -32,23 +32,21 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
- Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
+ Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the [best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
 
  Multi-Tenant Multi-Account (MTMA) allows you to use multiple work and school accounts simultaneously. You can see activities and real-time notifications for all your account in one place and respond to them. This makes it possible to switch between multiple accounts without quitting a meeting or dropping a call.
 
- Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like[scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
+ Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like [scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
-## How to Try the Teams Public Preview
-
-![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+## How to Try the Teams Public Preview ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
 To set the Update policy and enable public preview:
 
-1. Go to[Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
+1. Go to [Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
 2. Next, select**Teams** and click on**Teams Update policies** .
 3. Click**Add** to create a new policy and type a name.
 4. Next, toggle the switch for**Show preview features** and click**Apply** .
@@ -81,3 +79,23 @@ To set the Update policy and enable public preview:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-google-chrome-windows-files-not-syncing-problem/"><u>Resolve Google Chrome: Windows Files Not Syncing Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-windows-notifications-for-essential-only/"><u>Adjust Windows Notifications for Essential Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-windows-defender-shield-unresponsiveness/"><u>Essential Fixes for Windows Defender Shield Unresponsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-a-comprehensive-guide-using-rufus-on-win11/"><u>Unlocking Secure Boot: A Comprehensive Guide Using Rufus on Win11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-social-media-revolution-a-side-by-side-look-at-tiktok-and-snapchats-features-for-2024/"><u>[New] The Social Media Revolution  A Side-By-Side Look at TikTok and Snapchat's Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>[Updated] The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] 2024 Approved  15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-video-maker-effortless-slideshow-creation-for-macos-users/"><u>New Mac Video Maker Effortless Slideshow Creation for macOS Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ditch-costs-enjoy-free-video-playback-on-pcmac/"><u>Ditch Costs, Enjoy FREE Video Playback on PC/Mac</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-best-lyric-video-makers-you-should-try/"><u>[New] Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>[New] In 2024, Mac Enhancement  Synchronized Screen + Audio Tracking</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/calculating-youtube-profits-instantly-for-2024/"><u>Calculating YouTube Profits Instantly for 2024</u></a></li>
+</ul></div>

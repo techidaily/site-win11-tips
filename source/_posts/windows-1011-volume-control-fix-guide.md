@@ -1,7 +1,7 @@
 ---
 title: Windows 10/11 Volume Control Fix Guide
-date: 2024-06-25 13:50:20
-updated: 2024-06-26 10:57:31
+date: 2024-06-25T16:19:06.486Z
+updated: 2024-06-26T16:19:06.486Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb
 
 ## 2\. Scan and Repair System Files
 
- The volume control slider might not work on your PC because of system file corruption. So, run a System File Checker scan to check for and repair corrupted files. This guide to[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair corrupted system files.
+ The volume control slider might not work on your PC because of system file corruption. So, run a System File Checker scan to check for and repair corrupted files. This guide to [running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair corrupted system files.
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-file-checker.jpg)
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb
 
  A faulty or outmoded audio device driver on your PC could be causing the volume control issue. To remedy that, try updating your PC’s audio device driver.
 
- The most straightforward way to do that is to utilize the best driver updater software like Driver Booster. Such software will detect an antiquated or faulty sound driver on your PC and enable you to update it. Check out[how to update Windows, apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) for more information.
+ The most straightforward way to do that is to utilize the best driver updater software like Driver Booster. Such software will detect an antiquated or faulty sound driver on your PC and enable you to update it. Check out [how to update Windows, apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) for more information.
 
  However, some users have said they’ve fixed the volume control with Device Manager’s Update Driver tool. Those users selected an existing high-definition audio driver already on their PCs. This is how you can update the sound driver like that:
 
@@ -108,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb
 
  This potential resolution is specifically for fixing the volume control slider not working with Bluetooth speakers. The Absolute Volume feature can cause the volume control to stop working with incompatible Bluetooth devices. Users with Bluetooth speakers have confirmed disabling Absolute Volume by editing a CT registry key resolves that issue.
 
- Our guide about[disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
+ Our guide about [disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
 
 ## 9\. Reinstall Windows With an In-Place Upgrade
 
- If the volume control slider still isn’t working after going through the fixes above, there could be a deeper issue that only reinstalling (or resetting) Windows will resolve. You can reinstall the OS and preserve apps and user files by performing an in-place upgrade. So, try reinstalling Windows as covered in our guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) .
+ If the volume control slider still isn’t working after going through the fixes above, there could be a deeper issue that only reinstalling (or resetting) Windows will resolve. You can reinstall the OS and preserve apps and user files by performing an in-place upgrade. So, try reinstalling Windows as covered in our guide to [performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) .
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-setup.jpg)
 
- Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about[factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
+ Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about [factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
 
@@ -138,3 +138,27 @@ thumbnail: https://thmb.techidaily.com/21aecb659e7a5e8e968da4a0f8638ae8bdef383eb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/upgrading-graphic-memory-in-windows-11-systems/"><u>Upgrading Graphic Memory in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-friendly-forecast-tools/"><u>Essential Windows-Friendly Forecast Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-control-over-windows-with-alomware-tools/"><u>Empower Control Over Windows With AlomWare Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-no-lags-smoother-youtube-videos-on-windows/"><u>Navigate No Lags: Smoother YouTube Videos on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-sound-glitch-error-0xc00d36b4-on-win11/"><u>Bypassing Sound Glitch: Error 0XC00D36B4 on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-11-installation-rejection-issues/"><u>Guiding Through Windows 11 Installation Rejection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-flawed-windows-safety-features-in-win-11/"><u>Fixing Flawed Windows Safety Features in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-old-school-gaming-adventures-integrate-trophies-through-retroarch/"><u>Revitalize Your Old-School Gaming Adventures - Integrate Trophies Through Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-changing-windows-11-search-icons-backwards/"><u>Guidelines for Changing Windows 11 Search Icons Backwards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-remedying-full-screen-troubles-in-sonic-games/"><u>Understanding and Remedying Full-Screen Troubles in Sonic Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beyond-imagination-vr-powered-movies/"><u>2024 Approved  Beyond Imagination  VR-Powered Movies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-audio-dynamics-in-motion-blending-auditory-data-with-kinetic-graphics-in-adobe-premiere-pros-environment/"><u>New 2024 Approved Audio Dynamics in Motion Blending Auditory Data with Kinetic Graphics in Adobe Premiere Pros Environment</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-the-only-guide-youll-need-to-learn-about-gif-video-downloader/"><u>2024 Approved The Only Guide Youll Need to Learn About GIF Video Downloader</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-5-essential-steps-to-create-viral-titles-online/"><u>In 2024, 5 Essential Steps to Create Viral Titles Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-solo-streamer-to-global-content-powerhouse/"><u>[New] In 2024, From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-y100t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-playgrounds-for-virtual-escapades/"><u>[New] In 2024, Essential Playgrounds for Virtual Escapades</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-determining-better-macbook-air-vs-pro-m1-edition/"><u>[New] In 2024, Determining Better  MacBook Air Vs. Pro M1 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lg-27uhd68-screen-revolution-understanding-4k-sync-technology/"><u>In 2024, LG 27UHD68 Screen Revolution  Understanding 4K Sync Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-5-essential-android-photo-editing-software/"><u>In 2024, Unveiling Top 5 Essential Android Photo Editing Software</u></a></li>
+</ul></div>

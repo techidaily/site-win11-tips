@@ -1,7 +1,7 @@
 ---
 title: Configuring the Functionality of FN Keys on Modern PCs (Windows 11)
-date: 2024-06-23 16:47:37
-updated: 2024-06-24 11:55:35
+date: 2024-06-25T16:51:48.748Z
+updated: 2024-06-26T16:51:48.748Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
 
  In most laptops, there are 12 function keys (they used to be a lot more in the older devices), and you can use them by pressing them along with the "Fn" key on your keyboard. So for instance, if you wish to enable the backlit keyboard using the F3 key, you can hold the Fn key and then press F3 to make the desired changes.
 
- We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
+ We have a detailed [guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
@@ -107,7 +107,7 @@ If you are a Windows 11 user, follow these steps:
 
  Changes to Fn keys are safe and do not have any negative consequences. The customization options for the keys within Windows are limited, but there are quite a few third-party resources that you can look into if you want to modify keys a step further.
 
- On Windows, you can also[disable specific keys on your keyboard](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) so you can avoid accidentally pressing keys you don't use. As a general rule, if you follow the steps carefully, you should have no problems.
+ On Windows, you can also [disable specific keys on your keyboard](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) so you can avoid accidentally pressing keys you don't use. As a general rule, if you follow the steps carefully, you should have no problems.
 
  Here are some considerations to help you decide if changing the Fn keys is a good idea for you:
 
@@ -136,3 +136,24 @@ If you are a Windows 11 user, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-outlooks-something-went-wrong-error-on-windows/"><u>How to Fix Microsoft Outlook's “Something Went Wrong” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-8-strategies-for-neutralizing-pink-displays/"><u>Windows Woes: 8 Strategies for Neutralizing Pink Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-hacks-for-instantaneous-iis-server-management-entry/"><u>8 Hacks for Instantaneous IIS Server Management Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-in-hand-typing-enable-steps-on-windows/"><u>Unlock the Power of In-Hand Typing: Enable Steps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-interface-clarity-displaying-this-pc-icon/"><u>Optimizing Interface Clarity: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-resolving-windows-store-issue-code-0x00000000/"><u>Unraveling and Resolving Windows Store Issue Code 0X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-ignoring-soon-expiring-licenses-alerts-in-windows/"><u>Quick Fix for Ignoring Soon Expiring Licenses Alerts in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>Cutting Edge Video Processing  Free HD/1080P From FF Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>Pro Video Setup  Choose From Our List of Best 5 Webcams & Mics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-5-secret-story-viewers-tools-for-2024/"><u>Top 5 Secret Story Viewers' Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-remove-or-replace-the-background-in-logitech-for-2024/"><u>[Updated] How to Remove or Replace the Background in Logitech for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-legends-rapidly-climbing-to-100-million-views-in-early-2024/"><u>YouTube Legends  Rapidly Climbing to 100 Million Views in Early 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-dive-into-camtasias-ken-burns-feature-rich-tutorial-for-2024/"><u>[Updated] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-link-it-up-sharing-youtube-on-ig-snapshots/"><u>[New] 2024 Approved  Link It Up! Sharing YouTube on IG Snapshots</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-audio-capture-in-garageband-your-personalized-tutorial-for-2024/"><u>New Step-by-Step Audio Capture in GarageBand Your Personalized Tutorial for 2024</u></a></li>
+</ul></div>

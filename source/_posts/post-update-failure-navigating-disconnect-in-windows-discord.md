@@ -1,7 +1,7 @@
 ---
 title: "Post-Update Failure: Navigating Disconnect in Windows Discord"
-date: 2024-06-23 19:29:32
-updated: 2024-06-25 12:33:26
+date: 2024-06-25T16:16:53.253Z
+updated: 2024-06-26T16:16:53.253Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
  One of the most common causes for a failed Discord update is a sluggish or inconsistent internet connection. Hence, before trying any advanced troubleshooting tips, you should rule out any issues with your internet connection.
 
- Test your internet connection by loading a few websites or visiting one of the[best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
+ Test your internet connection by loading a few websites or visiting one of the [best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
 
 ## 2\. Give Discord a Fresh Start
 
@@ -40,7 +40,7 @@ To force-stop the Discord app:
 
 ## 3\. Check Discord Server Status
 
- You may not be the only one experiencing problems with Discord updates. There's a good chance the issue isn't on your end, but on Discord's. You can[check Discord’s service status](https://discordstatus.com/) to see if others are facing similar issues.
+ You may not be the only one experiencing problems with Discord updates. There's a good chance the issue isn't on your end, but on Discord's. You can [check Discord’s service status](https://discordstatus.com/) to see if others are facing similar issues.
 
  If there is a problem with the Discord servers, you have no option but to wait until the developers resolve it. Hopefully, it shouldn’t take too long. Following that, you should be able to update the Discord app on Windows.
 
@@ -50,7 +50,7 @@ To force-stop the Discord app:
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
 
- If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
+ If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on [how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 ## 5\. Allow Discord Through Windows Firewall
 
@@ -71,11 +71,11 @@ To force-stop the Discord app:
 
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
 
- After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+ After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of [free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 ## 7\. Adjust the Date and Time Settings
 
- Discord may have trouble connecting to its server[if your PC is set to an incorrect date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) . You can avoid such problems by configuring Windows to use network-provided time. Here’s how.
+ Discord may have trouble connecting to its server [if your PC is set to an incorrect date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) . You can avoid such problems by configuring Windows to use network-provided time. Here’s how.
 
 1. Press**Win + I** to open the Settings app.
 2. Select**Time & language** from the left pane.
@@ -85,7 +85,7 @@ To force-stop the Discord app:
 
 Restart the Discord app after this and allow it to finish updates.
 
- If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
+ If you can't seem to set the correct time no matter what you do, check out [how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
 
 ## 8\. Rename the Discord Update Executable File
 
@@ -116,7 +116,7 @@ To uninstall Discord from your PC:
 2. Type**%appdata%** in the Open field and press**Enter** .
 3. In the File Explorer window, right-click the**Discord** folder and select**Delete** .
 
- Once you've done that, head over to Discrod’s website or open the Microsoft Store to install the Discord app on your PC. And while you're at it, check out[how to eradicate leftovers from programs on Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) to keep your PC squeaky clean.
+ Once you've done that, head over to Discrod’s website or open the Microsoft Store to install the Discord app on your PC. And while you're at it, check out [how to eradicate leftovers from programs on Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) to keep your PC squeaky clean.
 
 ## Getting Discord Updated on Windows
 
@@ -137,3 +137,26 @@ To uninstall Discord from your PC:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/1719261998240-unfreeze-windows-update-easy-to-follow-tips/"><u>Unfreeze Windows Update: Easy-to-Follow Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-pc-identifying-the-7-most-suspicious-windows-processes/"><u>Protect Your PC: Identifying the 7 Most Suspicious Windows Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ahead-mastering-upcoming-tools-through-vivetool/"><u>Windows Ahead: Mastering Upcoming Tools Through ViVeTool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routines-to-reactivate-window-explorer/"><u>Easy Routines to Reactivate Window Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-course-through-cortana-history-windows/"><u>Charting Your Course Through Cortana History (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-permission-errors-a-step-by-step-guide-on-windows/"><u>Resolving Permission Errors: A Step-by-Step Guide on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-prime-video-text-barriers-on-windows-11/"><u>Overcoming Prime Video Text Barriers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-microsoft-store-error-0x80073cf3/"><u>Strategies to Address Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-instagrams-secrets-detailed-guide-to-user-engagement-and-reach/"><u>[New] 2024 Approved  Unlocking Instagram's Secrets  Detailed Guide to User Engagement and Reach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>[New] Agriculture Adventures  The Ultimate Farmer's Game Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/economical-mp3-cutter-and-adjuster-software-for-apple-devices-for-2024/"><u>Economical MP3 Cutter & Adjuster Software for Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>2024 Approved  Starting with Telegram Advertising  Essential Steps for Newbies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo S17t Phone without Google Account?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-the-best-free-passport-picture-services-worldwide/"><u>In 2024, Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-mac-video-capture-now/"><u>[Updated] Mastering MAC Video Capture Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/optimizing-personal-video-experience-building-an-organized-watch-later-list/"><u>Optimizing Personal Video Experience  Building an Organized 'Watch Later' List</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-elevate-your-audio-altering-speech-pitch-with-audacity/"><u>New 2024 Approved Elevate Your Audio Altering Speech Pitch with Audacity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tips-for-disconnecting-unfollowing-on-instagram/"><u>[Updated] In 2024, Tips for Disconnecting  Unfollowing on Instagram</u></a></li>
+</ul></div>

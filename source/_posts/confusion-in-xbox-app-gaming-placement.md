@@ -1,7 +1,7 @@
 ---
 title: Confusion in Xbox App Gaming Placement
-date: 2024-06-22 19:44:47
-updated: 2024-06-25 11:45:39
+date: 2024-06-25T16:13:52.370Z
+updated: 2024-06-26T16:13:52.370Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  Such situations usually arise due to corruption in the Xbox app or misconfigured registry settings. Fortunately, it's very easy to troubleshoot this problem. Here are some fixes to try when you can't choose a drive to install games on the Xbox app.
 
-## 1\. Restart the Computer
-
-![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
+## 1\. Restart the Computer ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
  You might fail to change the installation drive in the Xbox app due to a temporary system glitch or bug. Luckily, you can quickly eliminate such bugs and glitches by restarting your computer.
 
@@ -53,9 +51,7 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  That's it! Restart your computer and check if the problem continues.
 
-## 4\. Restart Important Xbox Services
-
-![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
+## 4\. Restart Important Xbox Services ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 
@@ -85,19 +81,19 @@ Xbox Live Networking Service`
 4. Click**Yes** to confirm your selection.
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
- Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
+ Now, open the elevated PowerShell window (see how to [open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
 
 `Get-AppxPackage *gamingservices* -allusers | remove-appxpackage -allusers`
 
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
- After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
+ After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and [download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
 
 ## 6\. Repair the Xbox App
 
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
- Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
+ Check out [how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
 
 ## 7\. Update the Xbox App
 
@@ -110,7 +106,7 @@ To update the Xbox app, follow the below steps:
 
  The Microsoft Store will now automatically download updates for installed apps, including the Xbox app.
 
- While you're at installing updates, we'd also recommend[downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
+ While you're at installing updates, we'd also recommend [downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
 
 ## Change the Download Location of the Xbox App
 
@@ -133,3 +129,22 @@ To update the Xbox app, follow the below steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-error-in-windows-setup/"><u>Eliminating Not Found Error in Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-your-windows-11-administrative-credentials/"><u>Efficiently Manage Your Windows 11 Administrative Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-windows-11s-rounded-edges/"><u>Eliminate Windows 11'S Rounded Edges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11s-operation-elevation-issue-740/"><u>Troubleshooting Windows 11'S Operation Elevation Issue #740</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-creating-polished-video-content-in-captivate/"><u>In 2024, Creating Polished Video Content in Captivate</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/no-cost-visuals-finding-free-images-for-commercial-projects-for-2024/"><u>No-Cost Visuals Finding Free Images for Commercial Projects for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-microsofts-hololens-journey-from-vision-to-reality/"><u>[Updated] Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-instagrams-video-length-cap/"><u>In 2024, Understanding Instagram's Video Length Cap</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-autoplay-facebook-videos-for-2024/"><u>[Updated] How to Autoplay Facebook Videos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/20-must-have-graduation-songs/"><u>20 Must-Have Graduation Songs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittertunescutter-mp4-and-mp3-extractor/"><u>[New] In 2024, TwitterTunesCutter  MP4 & MP3 Extractor</u></a></li>
+</ul></div>

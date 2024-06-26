@@ -1,7 +1,7 @@
 ---
 title: Elevating File Extractions with Win11 SEFx Magic
-date: 2024-06-25 18:56:41
-updated: 2024-06-26 10:15:20
+date: 2024-06-25T16:42:42.403Z
+updated: 2024-06-26T16:42:42.403Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,9 @@ Now we can get started using IExpress Wizard:
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
- 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
+ 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to [encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
 
-1. Go to[the 7-Zip](https://www.7-zip.org/download.html) download page.
+1. Go to [the 7-Zip](https://www.7-zip.org/download.html) download page.
 2. Install Z-Zip on your PC.
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.
@@ -114,3 +114,24 @@ Testing the SFX File With 7-ZIP
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/pushing-the-limits-of-solid-state-drives-on-windows-with-ssdfresh/"><u>Pushing the Limits of Solid State Drives on Windows with SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pc-speed-for-swift-steam-content-delivery/"><u>Enhance PC Speed for Swift Steam Content Delivery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-the-outlook-preview-app-on-windows-10-and-11/"><u>How to Get the Outlook Preview App on Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/"><u>Breaking Barriers: Uniting PC & Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-eliminating-no-servers-found-in-apex-legends-(156-chars/"><u>Troubleshooting: Eliminating 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-securing-partner-approval-essential-steps-for-discord-identity-confirmation/"><u>[New] Securing Partner Approval  Essential Steps for Discord Identity Confirmation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>[Updated] In 2024, The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-powerdirector-guidebook-2024-overview/"><u>[New] PowerDirector Guidebook 2024 Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overview-of-google-ar-sticker-and-its-alternative-for-2024/"><u>Overview of Google AR Sticker and Its Alternative for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-hd-lenses-for-youtube-creators/"><u>Top HD Lenses for YouTube Creators</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/30-dynamic-discord-tags-to-make-you-stand-out-now/"><u>30 Dynamic Discord Tags to Make You Stand Out Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-start-up-to-success-how-to-register-a-professional-account-on-instagram/"><u>[New] In 2024, From Start-Up to Success  How to Register a Professional Account on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-c65-messages-recovery-recover-deleted-messages-from-poco-c65-by-fonelab-android-recover-messages/"><u>Poco C65 Messages Recovery - Recover Deleted Messages from Poco C65</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastery-in-motion-choosing-your-path-for-vimeo-download-tools/"><u>Mastery in Motion  Choosing Your Path for Vimeo Download Tools</u></a></li>
+</ul></div>

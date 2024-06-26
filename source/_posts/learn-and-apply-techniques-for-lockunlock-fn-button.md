@@ -1,7 +1,7 @@
 ---
 title: Learn & Apply Techniques for Lock/Unlock Fn Button
-date: 2024-06-22 16:57:54
-updated: 2024-06-24 12:31:19
+date: 2024-06-25T16:14:56.550Z
+updated: 2024-06-26T16:14:56.550Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
 
-1. Access the Recovery menu of Windows (see our guide on the[Windows Recovery Environment](https://www.makeuseof.com/windows-recovery-environment-explanation/) for more information).
+1. Access the Recovery menu of Windows (see our guide on the [Windows Recovery Environment](https://www.makeuseof.com/windows-recovery-environment-explanation/) for more information).
 2. Head over to**Troubleshoot** and click on**Advanced Options** .  
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
@@ -64,7 +64,7 @@ Follow these steps to proceed:
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
- This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
+ This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on [how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
 ## Manage Your Fn Key Better on Windows
 
@@ -84,3 +84,24 @@ Follow these steps to proceed:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-flaws-with-non-working-ccleaner-in-win1011/"><u>Techniques to Overcome Flaws with Non-Working CCleaner in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disrupt-a-persistent-dark-theme-on-windows/"><u>How to Disrupt a Persistent Dark Theme on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-frozen-volume-shadows-in-operating-systems/"><u>Tackling Frozen Volume Shadows in Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-access-to-registry-tools-in-win11/"><u>How to Manage Access to Registry Tools in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-error-0x8000ffff-in-windows-based-printers/"><u>Conquering Error 0X8000FFFF in Windows-Based Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-errors-fixing-loadlib-failure-87/"><u>Navigating Windows Errors: Fixing LoadLib Failure 87</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>New 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-quick-play-tiktok-speed-skipping-guide/"><u>Mastering Quick Play  TikTok Speed Skipping Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/navigating-through-music-tech-top-7-daws-for-fostering-exceptional-guitar-recordings-updated-for-2024/"><u>Navigating Through Music Tech Top 7 DAWs for Fostering Exceptional Guitar Recordings (Updated ) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-epicmosaic-insta-video-fusion-for-iosandroid/"><u>[Updated] 2024 Approved  EpicMosaic  Insta Video Fusion for iOS/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-enhance-your-virtual-stage-the-ultimate-list-of-top-6-microphones/"><u>In 2024, Enhance Your Virtual Stage  The Ultimate List of Top 6 Microphones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y17s-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y17s</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/"><u>Exploring the Top Hashtags for a Boost on IG for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users-for-2024/"><u>[New] 8 Compelling No-Cost Video Calls Applications for PC and MAC Users for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-xiaomi-14-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Xiaomi 14 Pro ?</u></a></li>
+</ul></div>

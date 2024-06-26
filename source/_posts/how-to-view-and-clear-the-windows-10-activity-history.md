@@ -1,7 +1,7 @@
 ---
 title: How to View and Clear the Windows 10 Activity History
-date: 2024-06-23 19:13:59
-updated: 2024-06-26 11:58:59
+date: 2024-06-25T16:21:20.850Z
+updated: 2024-06-26T16:21:20.850Z
 tags:
   - windows10
   - windows11
@@ -88,9 +88,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
-### The Windows 10 Activity History Categories
-
-![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
+### The Windows 10 Activity History Categories ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -98,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 **Location Activity** includes the times when you let a Windows device get access to your location. It's good to double-check this part to see if Windows is storing your location.
 
-**Speech Activity** should be the top priority if you've ever used Cortana before. Here, you'll find saved clips of you giving commands to Cortana, used by Microsoft for better speech recognition. If you dislike this, try one of[the best alternatives to Cortana for Windows](https://www.makeuseof.com/best-alternatives-cortana-windows-10/).
+**Speech Activity** should be the top priority if you've ever used Cortana before. Here, you'll find saved clips of you giving commands to Cortana, used by Microsoft for better speech recognition. If you dislike this, try one of [the best alternatives to Cortana for Windows](https://www.makeuseof.com/best-alternatives-cortana-windows-10/).
 
 **Media Activity** is where Microsoft keeps tabs on what you enjoy watching to further your recommendations. If you're getting weird suggestions because of something someone else watched, it's worth checking out.
 
@@ -121,3 +119,30 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  Now that your data in Windows 10 is secure, it's time to ensure that all the programs and settings on your PC are equally ironclad. You can do plenty of things to heighten your computer's security, such as uninstalling Flash and making restore points.
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-headset-microphone-blockage/"><u>Unblocking Windows Headset Microphone Blockage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-running-imessage-on-windows/"><u>Uncovering the Secrets of Running iMessage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-extract-to-temp-folder-error-1152-on-win/"><u>Fixing 'Extract to Temp Folder Error 1152' On Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-efficiency-of-frozen-windows-safety-mode/"><u>Enhancing Efficiency of Frozen Windows Safety Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-startup-success-for-windows-index-service/"><u>Strategies to Trigger Startup Success for Windows Index Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-taskbar-absence-during-full-screen-mode/"><u>Tackling Taskbar Absence During Full-Screen Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-reasons-to-use-the-new-outlook-app-on-windows/"><u>9 Reasons to Use the New Outlook App on Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-explainer-video-software-review-the-top-contenders/"><u>2024 Approved Explainer Video Software Review The Top Contenders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-zte-blade-a73-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-auditory-aesthetics-crafting-perfect-sounds-for-insta-for-2024/"><u>[Updated] Auditory Aesthetics  Crafting Perfect Sounds for Insta for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-evaluation-what-makes-theta-s-special-for-2024/"><u>Full Evaluation  What Makes Theta S Special for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-broadcasting-automated-repeats-on-tv/"><u>[Updated] Perfect Your Broadcasting  Automated Repeats on TV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-camera-selection-for-youtube-success/"><u>[New] The Ultimate Camera Selection for YouTube Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-freepaid-screen-recorders-for-meet-video/"><u>2024 Approved  Ultimate Guide  Free/Paid Screen Recorders for Meet Video</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-integrating-twitter-feed-into-your-whatsapp-conversations/"><u>[New] Integrating Twitter Feed Into Your WhatsApp Conversations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

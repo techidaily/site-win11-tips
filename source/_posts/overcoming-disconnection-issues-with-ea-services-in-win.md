@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disconnection Issues with EA Services in Win
-date: 2024-06-23 11:21:38
-updated: 2024-06-26 12:43:57
+date: 2024-06-25T17:03:43.346Z
+updated: 2024-06-26T17:03:43.346Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  Occasionally, EA servers go down during maintenance or when facing technical problems. As such, before you do any troubleshooting, first ensure that the EA servers are actually up and running. Follow these steps to check that:
 
-1. Go to the[official EA Help website](https://help.ea.com/en/?r=1) .
+1. Go to the [official EA Help website](https://help.ea.com/en/?r=1) .
 2. Navigate to the**Games** menu in the top-left corner of the screen, find the game giving you the error, and click on it.  
 ![Select a Game From Games Menu to Check Its Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-a-game-from-games-menu-to-check-its-status-on-ea-website.jpg)
 3. Wait a few seconds and click on the**Server Status** link on the right side of the screen.  
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  Your device needs to be connected to a reliable internet connection to connect to EA servers successfully. Before investigating the issue further, check whether the internet is even connected.
 
- If it is, check the stability of your internet connection. Try any of the[best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
+ If it is, check the stability of your internet connection. Try any of the [best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
 
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  EA can temporarily suspend or permanently ban your account if you violate the terms of the User Agreement you signed when you created it. Once the ban has been imposed, you can't use many game features, which include online gaming.
 
- To check if you have been banned, visit the[EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
+ To check if you have been banned, visit the [EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
 
 ![Click on My Ban History From Accounts Menu on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-my-ban-history-from-accounts-menu-on-ea-website.jpg)
 
- If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the[EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
+ If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the [EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
 
 ![EA Website Showing No Ban History of an Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ea-website-showing-no-ban-history-on-a-account.jpg)
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  A bad DNS server can cause internet connectivity issues. If you've never changed the DNS on your device, you're probably using the one assigned by your ISP. So, try changing it to see if it fixes the problem.
 
- Check out[how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
+ Check out [how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
 
  We recommend switching to Google DNS (8.8.8.8, 8.8.4.4) because it's more stable and offers faster response times. However, you can choose any DNS server that you prefer.
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
 
- If things don't look right, check out[how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
+ If things don't look right, check out [how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
 
 ## Get Connected to EA's Servers Again
 
@@ -121,3 +121,22 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-speech-recognition-initialization-hiccup/"><u>Fixing Windows Speech Recognition Initialization Hiccup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-unending-teams-sign-in-requests/"><u>Overcoming Windows Error: Unending Teams Sign-In Requests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-overcoming-org-managed-configurations-in-windows-11/"><u>Guidelines for Overcoming Org-Managed Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resetting-graphics-drivers-on-latest-oses/"><u>Quick Guide to Resetting Graphics Drivers on Latest OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-the-pinnacle-of-windows-interactivity/"><u>Experience the Pinnacle of Windows Interactivity</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-knowledge-trivia-video-channels/"><u>In 2024, Premier Knowledge Trivia Video Channels</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-cinematic-luts-for-premiere-pro-you-can-come-across/"><u>2024 Approved Best Cinematic LUTs For Premiere Pro You Can Come Across</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>In 2024, Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-youtubes-earning-potential-with-strategic-short-videos/"><u>[Updated] Unleash YouTube's Earning Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-non-discord-streaming-networks/"><u>[Updated] In 2024, Top Non-Discord Streaming Networks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtubes-foremost-ad-creators-a-showcase-of-excellence/"><u>YouTube's Foremost Ad Creators  A Showcase of Excellence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-indicator-of-a-block-no-snapshots-received-for-2024/"><u>[New] The Indicator of a Block  No Snapshots Received for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows 11 Safe Mode Access
-date: 2024-06-22 11:28:35
-updated: 2024-06-24 12:34:13
+date: 2024-06-25T16:59:21.623Z
+updated: 2024-06-26T16:59:21.623Z
 tags:
   - windows10
   - windows11
@@ -70,9 +70,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+## 3\. How to Boot Into Safe Mode From the Lock-Screen ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
@@ -139,9 +137,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 5. Type **exit** and press **Enter** to close Command Prompt.
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
-## How to Exit Safe Mode in Windows 11
-
-![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
+## How to Exit Safe Mode in Windows 11 ![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
 
  To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
 
@@ -200,9 +196,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+## 3\. How to Boot Into Safe Mode From the Lock-Screen ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
@@ -269,9 +263,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 5. Type **exit** and press **Enter** to close Command Prompt.
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
-## How to Exit Safe Mode in Windows 11
-
-![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
+## How to Exit Safe Mode in Windows 11 ![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
 
  To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
 
@@ -330,9 +322,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+## 3\. How to Boot Into Safe Mode From the Lock-Screen ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
@@ -399,9 +389,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 5. Type **exit** and press **Enter** to close Command Prompt.
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
-## How to Exit Safe Mode in Windows 11
-
-![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
+## How to Exit Safe Mode in Windows 11 ![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
 
  To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
 
@@ -460,9 +448,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+## 3\. How to Boot Into Safe Mode From the Lock-Screen ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
@@ -529,9 +515,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 5. Type **exit** and press **Enter** to close Command Prompt.
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
-## How to Exit Safe Mode in Windows 11
-
-![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
+## How to Exit Safe Mode in Windows 11 ![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
 
  To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
 
@@ -557,3 +541,24 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/a-window-into-evolution-noteworthy-windows-11-file-enhancements/"><u>A Window Into Evolution: Noteworthy Windows 11 File Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-android-into-a-compatible-webcam-for-windows-11/"><u>Turning Android Into a Compatible Webcam for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-persistent-issues-windows-obs-not-opening-troubleshooting/"><u>Tackling Persistent Issues: Windows OBS Not Opening Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-voice-commands-xbox-and-pc-synergy/"><u>Mastering Voice Commands: Xbox & PC Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-culprits-affecting-windows-11s-efficiency/"><u>Invisible Culprits Affecting Windows 11'S Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-peaceful-sleep-windows-1011-automatic-shutdown/"><u>Securing Peaceful Sleep: Windows 10/11 Automatic Shutdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-windows-11-calculator-activation/"><u>Steps for Windows 11 Calculator Activation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-loop-video-liftoff-engaging-audiences-on-ig-for-2024/"><u>[Updated] Loop Video Liftoff  Engaging Audiences on IG for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-start-a-google-meet-on-laptops-and-mobile/"><u>In 2024, How to Start a Google Meet on Laptops & Mobile?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-13-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-foremost-5-cloud-recording-tools/"><u>[New] 2024 Approved  Foremost 5 Cloud Recording Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-13-ultra-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi 13 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c32-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C32?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-free-skype-mp3-logger-101-guide/"><u>In 2024, Free Skype Mp3 Logger 101 Guide</u></a></li>
+</ul></div>

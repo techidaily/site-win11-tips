@@ -1,7 +1,7 @@
 ---
 title: Enhancing Linux with Windows Tools
-date: 2024-06-22 23:45:33
-updated: 2024-06-25 11:28:37
+date: 2024-06-25T16:57:08.895Z
+updated: 2024-06-26T16:57:08.895Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  Thankfully, much like Linux, Windows leaves power in the hands of the user. Let's have a look at a handful of different features you can pull over from Linux into your own Windows system.
 
-## Getting Linux Features on Windows
-
-![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
+## Getting Linux Features on Windows ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
 
  Linux offers many useful tools for power users, but at the end of the day, many of its functions are simple ones that Windows either obscures or didn't think to add.
 
@@ -30,9 +28,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  There are still [many functions that Linux has that Windows will struggle to imitate](https://www.makeuseof.com/things-you-can-do-on-linux-but-not-on-windows/), but with this list, you'll hopefully be able to bring over your favorite Linux features without much hassle.
 
-## 1\. Better Window Management With AltSnap
-
-![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
+## 1\. Better Window Management With AltSnap ![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
 
  Linux boasts a rather famous feature many call Alt Drag, where you can easily rearrange windows without having to move the mouse to the title bar.
 
@@ -42,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
 **Download:**[AltSnap](https://github.com/RamonUnch/AltSnap/) (Free)
 
-## 2\. Faster Windows Focus With X-Mouse Controls
-
-![screenshot of x mouse controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_x_mouse_controls.jpg)
+## 2\. Faster Windows Focus With X-Mouse Controls ![screenshot of x mouse controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_x_mouse_controls.jpg)
 
  On Windows, clicking on a window makes it the active window. Many Linux distros follow a different tradition, where simply hovering your mouse over the window causes it to become active instead.
 
@@ -56,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
 **Download:**[X-Mouse Controls](https://joelpurra.com/projects/X-Mouse%5FControls/) (Free)
 
-## 3\. Batch File for More Efficient Command Prompt Management
-
-![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
+## 3\. Batch File for More Efficient Command Prompt Management ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
 
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
 
@@ -74,9 +66,7 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  Now you can use whatever you named the batch file as a command to jump to your home directory. This can be a huge time saver if you're coming over from Linux!
 
-## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
-
-![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
+## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
 
  When it comes to comparing the advantages of Linux and Windows, one point in Linux's favor is definitely how hands-off it is with the user.
 
@@ -109,3 +99,23 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-remote-connection-issues/"><u>Mastering Windows Remote Connection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-adding-portable-apps-menus/"><u>Enhancing Windows Interface: Adding Portable Apps Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-deactivated-windows-email-rule-settings/"><u>Steps to Reactivate Deactivated Windows Email Rule Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-explorer-3-ways-to-access-directories-on-windows-pcs/"><u>Game Explorer: 3 Ways to Access Directories on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-snapping-in-depth-guide-to-powertoy-window-layouts/"><u>Master the Art of Snapping: In-Depth Guide to PowerToy Window Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-vmware-freeze-ups-on-windows-11/"><u>Clearing Up VMware Freeze-Ups on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-batch-renaming-like-a-pro-with-powertoys/"><u>Master Batch Renaming Like a Pro with PowerToys</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-hash-tag-guide-for-gamers-youtube-channels/"><u>The Ultimate Hash Tag Guide for Gamers' YouTube Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>Choosing Your Soundtrack  The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-videography-instruments/"><u>[Updated] Premier Videography Instruments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-downloading-setting-up-to-using-obs-effectively-on-macos/"><u>[New] From Downloading, Setting Up, to Using OBS Effectively on macOS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-15-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 15 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-gaming-without-limits-screen-recorder-alternatives-explained-for-2024/"><u>[Updated] Gaming Without Limits  Screen Recorder Alternatives Explained for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlining-your-edit-with-jump-cut-tips-for-2024/"><u>Streamlining Your Edit with Jump Cut Tips for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-gif-mastery-28-top-video-to-gif-converter-recommendations-for-2024/"><u>New GIF Mastery 28 Top Video to GIF Converter Recommendations for 2024</u></a></li>
+</ul></div>

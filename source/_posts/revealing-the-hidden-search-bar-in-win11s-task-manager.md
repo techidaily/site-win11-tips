@@ -1,7 +1,7 @@
 ---
 title: Revealing the Hidden Search Bar in Win11's Task Manager
-date: 2024-06-23 21:36:45
-updated: 2024-06-25 11:13:36
+date: 2024-06-25T16:46:43.879Z
+updated: 2024-06-26T16:46:43.879Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,7 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  When you're in the Command Prompt window, copy and paste the following command and press Enter:
 
-C:\vivetool\vivetool /enable /id:39420424
-
-![Enable Search Box in Task Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-search-box-in-task-manager-on-windows-11.jpg)
+C:\vivetool\vivetool /enable /id:39420424 ![Enable Search Box in Task Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-search-box-in-task-manager-on-windows-11.jpg)
 
  This will install the tool on your system and throw a message that says, "Successfully set feature configuration (s)".
 
@@ -42,9 +40,7 @@ C:\vivetool\vivetool /enable /id:39420424
 
  If you want to disable the Search box feature for any reason, you need to run the following command in the command prompt:
 
-c:\vivetool\vivetool.exe /disable /id:37969115
-
-![Disable Search Box in Task Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-search-box-in-task-manager-on-windows-11.jpg)
+c:\vivetool\vivetool.exe /disable /id:37969115 ![Disable Search Box in Task Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-search-box-in-task-manager-on-windows-11.jpg)
 
  After executing the above command, restart your computer to apply the change.
 
@@ -67,3 +63,24 @@ c:\vivetool\vivetool.exe /disable /id:37969115
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-access-restoring-standard-user-privileges-in-win11/"><u>Redefine Access: Restoring Standard User Privileges in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-displaying-searches-in-win-1011-os/"><u>Strategies for Fixing Non-Displaying Searches in Win 10/11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-file-explorer-in-windows-10plus/"><u>Jumpstart File Explorer in Windows 10+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-crashes-due-to-video-drivers/"><u>Remedying Windows Crashes Due to Video Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-regain-onedrive-entry-points-in-windows/"><u>Effortlessly Regain OneDrive Entry Points in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-a-future-ready-device-review-of-asus-s15-bape-edition/"><u>Unveiling a Future-Ready Device: Review of Asus S15 BAPE Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-operation-issues-on-modern-windows-pcs/"><u>Resolving Operation Issues on Modern Windows PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-auditing-for-accuracy-youtube-monetization-compliance/"><u>[Updated] Auditing for Accuracy  YouTube Monetization Compliance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/subscriber-supremacy-youtubes-front-runners-for-2024/"><u>Subscriber Supremacy  YouTube's Front-Runners for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/ten-simple-steps-to-acquire-igtv-media-for-2024/"><u>Ten Simple Steps to Acquire IGTV Media for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>[Updated] Gazing Into Clarity  In-Depth on the HP Z32X Monitor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixelmaster-360-multiplatform-resolution-booster/"><u>2024 Approved  PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fast-tracked-fame-youtubes-pacey-video-breakthroughs/"><u>[New] Fast-Tracked Fame  YouTube's Pacey Video Breakthroughs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-where-the-best-youtube-symbols-are-hidden/"><u>[New] Where the Best YouTube Symbols Are Hidden</u></a></li>
+</ul></div>

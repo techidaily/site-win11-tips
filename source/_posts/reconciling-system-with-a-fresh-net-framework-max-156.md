@@ -1,7 +1,7 @@
 ---
 title: Reconciling System with a Fresh .NET Framework (Max 156)
-date: 2024-06-23 16:54:10
-updated: 2024-06-25 10:59:33
+date: 2024-06-25T16:31:20.296Z
+updated: 2024-06-26T16:31:20.296Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,13 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
  If the repair tool doesn’t work, you can use other workarounds to try and fix the framework errors. So, here are a few ways you can repair .NET Framework on your Windows computer.
 
-## 1\. Run the .NET Framework Repair Tool
-
-![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
+## 1\. Run the .NET Framework Repair Tool ![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
 
  An easy way to repair your .NET Framework is to use the official .NET Framework Repair Tool provided by Microsoft on its official website. It is a handy utility that can check for common issues affecting the .NET Framework setup or updates and recommend fixes accordingly.
 
 To run the .NET Framework Repair Tool
 
-1. Go to the[Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
+1. Go to the [Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
 2. Scroll down to the**Download information** section.
 3. Next, click on the**Microsoft .NET Framework Repair Tool** link to download the executable file.
 4. Once downloaded, double-click on the Netfxrepairtool.exe to run the repair tool. Click**Yes** if prompted by**User Account Control.**
@@ -40,7 +38,7 @@ To run the .NET Framework Repair Tool
 
  If the .NET Framework Repair Tool doesn’t work, you can disable and re-enable the feature from Optional Features to repair the framework. This process will disable and re-enable the feature fixing any issue due to temporary glitches and file corruption.
 
- Follow these steps to[add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
+ Follow these steps to [add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
 
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open Control Panel.
@@ -65,7 +63,7 @@ After the restart:
 
 ## 3\. How to Repair .NET Framework Using PowerShell
 
- If the issue persists, try reinstalling .NET Framework on your Windows PC using[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
+ If the issue persists, try reinstalling .NET Framework on your Windows PC using [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
 
 1. Press the**Win** key and type**PowerShell** .
 2. Right-click on**PowerShell** and select**Run as administrator.**
@@ -86,16 +84,14 @@ After the restart:
 
 To manually install older versions of the .NET Framework:
 
-1. Go to the[.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
+1. Go to the [.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
 2. Under the**Supported versions** section, click on the**.NET Framework** version you want to download.
 3. On the next page, click on**Download .NET Framework XX Runtime.**
 4. Once the download is complete, open the download location and run the**dotnetfx.exe** file to launch the setup. Click**Yes** , if prompted by UAC.
 5. Next, follow the on-screen instructions to complete the setup.
 6. Restart your PC and then try to install the app to see if it works.
 
-## 5\. Run the System File Checker Tool
-
-![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
+## 5\. Run the System File Checker Tool ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -130,3 +126,23 @@ To run the System File Checker tool:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-device-synergy-samsung-dex-for-galaxy-users/"><u>Streamlining Device Synergy: Samsung DeX for Galaxy Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-windows-headset-mic-functionality/"><u>Restore Your Windows Headset Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-superuser-access-a-step-by-step-guide/"><u>Mastering Superuser Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-a-local-and-free-chatgpt-clone-on-your-windows-pc-with-gpt4all/"><u>Run a Local and Free ChatGPT Clone on Your Windows PC With GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-pc-boost-unearthing-windows-best-eight-restart-strategies/"><u>Quick PC Boost: Unearthing Windows' Best Eight Restart Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amending-disabled-windows-shadow-snapshots/"><u>Amending Disabled Windows Shadow Snapshots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>In 2024, Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-ways-to-download-instagram-mp3/"><u>New In 2024, Ways to Download Instagram MP3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging-for-2024/"><u>Step-by-Step Path  Turning GIFs Into Stickers Across Social Media Messaging for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-budget-friendly-cam-viewer/"><u>In 2024, Superior Budget-Friendly Cam Viewer</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-little-known-techniques-of-motion-graphics-in-premiere-pro/"><u>In 2024, Little Known Techniques of Motion Graphics in Premiere Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-x5-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco X5 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-ace-2-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Ace 2</u></a></li>
+</ul></div>

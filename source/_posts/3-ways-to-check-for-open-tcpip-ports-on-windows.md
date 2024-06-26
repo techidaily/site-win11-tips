@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Check for Open TCP/IP Ports on Windows
-date: 2024-06-21 16:32:19
-updated: 2024-06-24 10:48:37
+date: 2024-06-25T16:54:17.024Z
+updated: 2024-06-26T16:54:17.024Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,7 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  Let's now explore the various ways to check active TCP/IP ports.
 
-## 1\. Check the Open TCP/IP Ports and Their Process Names Using the Command Prompt
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+## 1\. Check the Open TCP/IP Ports and Their Process Names Using the Command Prompt ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  When checking the TCP/IP ports that are open, you might also want to discover some additional information.
 
@@ -56,9 +54,7 @@ netstat -ab
 
  For example, you might see the “\[svchost.exe\]” process name under one of the TCP ports.
 
-## 2\. Check the Open TCP/IP Ports and the Process Identifiers Using the Command Prompt
-
-![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
+## 2\. Check the Open TCP/IP Ports and the Process Identifiers Using the Command Prompt ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
 
  In some instances, you might want to check out the TCP/IP ports along with their Process Identifiers (the unique numbers that identify processes). This method could be useful if you can’t find the process names using the previous method.
 
@@ -88,9 +84,7 @@ netstat -aon
 
  If you’re a fan of third-party apps, here are some tools that can help you check active TCP/IP ports on your device.
 
-### TCPView
-
-![The TCPView Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcpview-tool.jpg)
+### TCPView ![The TCPView Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcpview-tool.jpg)
 
  The TCPView app shows a detailed list of all the [TCP and UDP (User Datagram Protocol) ports](https://www.makeuseof.com/what-are-tcp-and-udp-ports/). It also shows you the Process Name, Process IDs (PIDs), the Local Address, the Remote Address, the Local Port, the Remote Port, and more.
 
@@ -104,9 +98,7 @@ netstat -aon
 
 **Download**: TCPView for [Windows](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) (Free)
 
-### CurrPorts
-
-![The CurrPorts Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-currports-tool.jpg)
+### CurrPorts ![The CurrPorts Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-currports-tool.jpg)
 
  CurrPorts almost looks similar to TCPView, but it has a couple of additional tabs that display critical information. For example, this tool also shows you the Process Path (file path), the Product Name, the File Description, and the File Version (for apps).
 
@@ -122,9 +114,7 @@ netstat -aon
 
 **Download**: CurrPorts for [Windows](https://www.nirsoft.net/utils/cports.html) (Free)
 
-### TCP Monitor Plus
-
-![The TCP Monitor Plus Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcp-monitor-plus-tool.jpg)
+### TCP Monitor Plus ![The TCP Monitor Plus Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcp-monitor-plus-tool.jpg)
 
  TCP Monitor Plus comprises 11 tabs that you can use for various purposes. But in this case, we’ll focus on the Session Monitor tab because that’s where the TCP/IP information is located.
 
@@ -155,3 +145,23 @@ netstat -aon
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/speed-spectrum-mastering-windows-network-adapter-assessment-methods/"><u>Speed Spectrum: Mastering Windows' Network Adapter Assessment Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ram-a-quick-guide-for-efficient-identification/"><u>Windows RAM: A Quick Guide for Efficient Identification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-switching-nat-type-on-wins-10-and-11/"><u>Step-By-Step Walkthrough: Switching NAT Type on Wins 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-buzzing-the-net-with-humor-your-comprehensive-guide-to-9gag/"><u>[New] Buzzing the Net with Humor  Your Comprehensive Guide to 9GAG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionary-tips-to-upgrade-your-webinar-recordings-for-2024/"><u>[New] Revolutionary Tips to Upgrade Your Webinar Recordings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-debating-on-the-significance-of-truthfulness-in-selfies-for-2024/"><u>[New] Debating on the Significance of Truthfulness in Selfies for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-crafting-seamless-sound-tracks-with-imovies-volume-control/"><u>In 2024, Crafting Seamless Sound Tracks with iMovies Volume Control</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-rock-solid-results-3-ways-to-stabilize-video-in-after-effects/"><u>In 2024, Rock-Solid Results 3 Ways to Stabilize Video in After Effects</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-kinemaster-is-a-mobile-video-editor-for-ios-and-android-users-but-if-you-still-want-to-download-kinemaster-for-mac-heres-the-deal-for-you/"><u>New KineMaster Is a Mobile Video Editor for Ios and Android Users. But if You Still Want to Download KineMaster for Mac, Heres the Deal for You</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-adobe-premiere/"><u>[New] 2024 Approved  How to Edit YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-motion-mastery-essential-apps-for-tracking-your-movements/"><u>2024 Approved Motion Mastery Essential Apps for Tracking Your Movements</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-80-pro-straight-screen-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor 80 Pro Straight Screen Edition FRP Bypass With Best Methods</u></a></li>
+</ul></div>

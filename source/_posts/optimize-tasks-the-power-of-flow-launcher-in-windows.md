@@ -1,7 +1,7 @@
 ---
 title: "Optimize Tasks: The Power of Flow Launcher in Windows"
-date: 2024-06-22 15:27:17
-updated: 2024-06-25 11:15:54
+date: 2024-06-25T17:00:00.459Z
+updated: 2024-06-26T17:00:00.459Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## How to Install Flow Launcher
 
- You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
+ You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
@@ -41,7 +41,7 @@ Here's how to get the most from this popular productivity tool.
 
  Lastly, you can change the location where the Flow Launcher window opens by clicking on the frame and dragging it into position. As long as the**Remember last launch location** setting is checked, it will always be in this position.
 
- If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
+ If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
 ## How to Launch Apps With Flow Launcher
 
@@ -66,7 +66,7 @@ Here's how to get the most from this popular productivity tool.
  There are several ways to refine searches in Flow Launcher. For example, to search for something on a specific website, you can include the site name in the search query, e.g. YouTube David Bowie.
 
 * To search your browser bookmarks, start the search query with**b** . For example:**b how to create a workbook in excel** .
-* If you want to run a[Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
+* If you want to run a [Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
@@ -86,7 +86,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## Uninstalling Flow Launcher
 
- If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
+ If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
@@ -109,3 +109,26 @@ Here's how to get the most from this popular productivity tool.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-sudden-device-disconnection-dxgi/"><u>Remedy for Sudden Device Disconnection (DXGI)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-overheat-during-intense-play/"><u>Minimizing Overheat During Intense Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-msresourceappnametext-glitch-win11-style/"><u>Fixing 'MsResource:AppName/Text Glitch', Win11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-altering-window-icons-distance-on-11plus-windows/"><u>Title: Altering Window Icons' Distance on 11+ Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-minimizing-disruptions-in-windows-updates/"><u>The Art of Minimizing Disruptions in Windows Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-metrics-top-10-instagram-tags-right-now/"><u>[Updated] Mastering Metrics  Top 10 Instagram Tags Right Now</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-creating-cohesive-content-with-soundtracks-on-instagram/"><u>[Updated] In 2024, Creating Cohesive Content with Soundtracks on Instagram</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-leading-whatsapp-video-status-editors-for-2024/"><u>Updated Leading WhatsApp Video Status Editors for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-latest-innovations-in-tiktok-world/"><u>[New] 2024 Approved  Top 15 Latest Innovations in TikTok World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/must-do-tasks-for-enhanced-podcast-experience-for-2024/"><u>Must-Do Tasks for Enhanced Podcast Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-play-to-replay-capturing-switch-games/"><u>In 2024, From Play to Replay  Capturing Switch Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-seamless-facebook-live-experience-combat-interruptions/"><u>[New] 2024 Approved  Seamless Facebook Live Experience  Combat Interruptions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>The Dynamic Duo  YouTube & Instagram Story Collaboration</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-unleash-your-creativity-top-mobile-video-editors-for-iphone-and-android/"><u>2024 Approved Unleash Your Creativity Top Mobile Video Editors for iPhone and Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>2024 Approved  Innovating with Technology  Advanced GoPro 4K Editing Techniques</u></a></li>
+</ul></div>

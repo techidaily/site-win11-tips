@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Complex Comic Formats for Win11 Users
-date: 2024-06-24 10:25:42
-updated: 2024-06-25 10:32:43
+date: 2024-06-25T17:03:21.125Z
+updated: 2024-06-26T17:03:21.125Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
 ## First, Download Some Comics
 
- Firstly, download a few comic books to open and read in YACReader and Cover. The[GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
+ Firstly, download a few comic books to open and read in YACReader and Cover. The [GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
 
 ![The Download Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download-now-button.jpg)
 
- There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our[best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
+ There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our [best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
 
  When you’ve downloaded comics, it’s a good idea to set up a new, empty folder to store them. Right-click the desktop area of Windows 11 and select the**New** \>**Folder** options. Then input Comic Books for the directory’s title. Move your downloaded comics into that folder by dragging and dropping their files within File Explorer.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
 
-1. Open the[Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
+1. Open the [Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
 2. Press Cover’s**Get in Store** app button.
 3. Select the**Open Microsoft Store** option.
 4. Click**Get** to download and install Cover.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  YACReader is a good alternative freeware comic reader to Cover for Windows platforms dating back to Vista. Unlike Cover, YACReader doesn’t restrict you to a 25-comic library. It also incorporates some nice unique features. This is how you can open up comics with YACReader:
 
-1. Open the**Download** page on the[YACReader website](https://www.yacreader.com/) .
+1. Open the**Download** page on the [YACReader website](https://www.yacreader.com/) .
 2. Press the**Download YACReader** button.
 3. Select the File Explorer shortcut on the Windows taskbar.
 4. Open the folder your browser downloaded YACReader’s installer to, and double-click the**YACReader-v9.10.0.2210304-winx64-7z-qt6.exe** file.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
 ## How to Read Comics in Your Web Browser
 
- You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the[best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
+ You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the [best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
 
 * [Read Comic Online](https://readcomiconline.li/)
 * GetComics (linked above)
@@ -127,3 +127,27 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-microsoft-visual-cplusplus-redistributable-used-for/"><u>What Is the Microsoft Visual C++ Redistributable Used For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-successful-installation-in-the-windows-store/"><u>Securing Successful Installation in the Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-pathways-open-directory-games-in-windows/"><u>The Hidden Pathways: Open Directory Games in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-efficiency-with-these-5-must-have-apps-on-windows-11/"><u>Enhance Efficiency with These 5 Must-Have Apps on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-ancient-game-visuals-using-retroarch-shader-magic/"><u>Transforming Ancient Game Visuals Using RetroArch Shader Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-storage-disks-in-windows-os/"><u>Deciphering Storage Disks in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-0x00000709/"><u>Steps to Rectify Error 0X00000709</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719295110946-get-a-free-self-hosted-gptclone-with-gpt4all/"><u>Get a Free, Self-Hosted GPTClone with GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strengthening-game-accessibility-winning-over-ea-errors/"><u>Strengthening Game Accessibility: Winning Over EA Errors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-onlineandpc-cartoon-video-maker-2023-for-beginner/"><u>Updated 2024 Approved Top 10 Online&PC Cartoon Video Maker 2023 For Beginner</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-master-mobile-video-editing-the-top-5-iphone-apps/"><u>In 2024, Master Mobile Video Editing The Top 5 iPhone Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asus-mg28uq-4k-monitor-review/"><u>In 2024, ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed/"><u>Peeling Back the Layers of Visual Past  A Guide to FB Image Searching (Reversed)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>In 2024, Revolutionizing Creativity  Premier Tablet Apps for iPadOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-followers-footprints-trail-blazing-techniques/"><u>[Updated] Insta Followers Footprints  Trail-Blazing Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-invisible-vids-on-social-reveal-the-top-12-techniques-to-restore-appearance-in-23/"><u>[New] In 2024, Invisible Vids on Social? Reveal the Top 12 Techniques to Restore Appearance in '23</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleashing-creative-potential-editing-tiktok-videos-on-mac-for-2024/"><u>[New] Unleashing Creative Potential  Editing TikTok Videos on Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-file-conversion-simplified-with-os-support/"><u>[Updated] SRT File Conversion Simplified with OS Support</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bedtime-videos-breakdown-stories-and-reviews/"><u>In 2024, Bedtime Videos Breakdown  Stories and Reviews</u></a></li>
+</ul></div>

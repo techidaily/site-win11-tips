@@ -1,7 +1,7 @@
 ---
 title: How to Build Custom Text Transcription Software on Windows with Whisper
-date: 2024-06-23 22:44:20
-updated: 2024-06-25 12:24:39
+date: 2024-06-25T16:53:37.657Z
+updated: 2024-06-26T16:53:37.657Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,29 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-keyboard-shortcuts-next-to-power-icon/"><u>Tailoring Windows 11: Keyboard Shortcuts Next to Power Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reworking-records-6-windows-applications-for-date-revision/"><u>Reworking Records: 6 Windows Applications for Date Revision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-cr2-conversion-to-jpg-in-windows-environment/"><u>Streamline CR2 Conversion to JPG in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-uninstallreinstall-issues-for-windows-store/"><u>Fix Uninstall/Reinstall Issues for Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-spotify-connections-on-windows-11-devices/"><u>Overcoming Spotify Connections on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-ai-enhance-windows-11-usability/"><u>How Does AI Enhance Windows 11 Usability?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-should-past-facebook-actions-follow-you-today-investigate/"><u>2024 Approved  Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>In 2024, A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-get-started-in-stop-motion-claymation/"><u>Updated 2024 Approved How to Get Started in Stop Motion Claymation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-speech-to-text-in-google-documents/"><u>[New] Harness the Power of Speech-to-Text in Google Documents</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-imagery-tale-constructor/"><u>[Updated] Exclusive Imagery Tale Constructor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-in-choosing-your-best-live-streamer/"><u>Masterclass in Choosing Your Best Live Streamer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-essential-playlists-masterful-cinematic-scores-for-every-video-narrative/"><u>Updated In 2024, Essential Playlists Masterful Cinematic Scores for Every Video Narrative</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

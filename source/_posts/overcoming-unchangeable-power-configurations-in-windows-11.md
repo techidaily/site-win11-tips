@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unchangeable Power Configurations in Windows 11
-date: 2024-06-25 13:24:40
-updated: 2024-06-26 11:27:54
+date: 2024-06-25T16:17:48.757Z
+updated: 2024-06-26T16:17:48.757Z
 tags:
   - windows10
   - windows11
@@ -75,8 +75,7 @@ Follow these steps to proceed:
 2. Type cmd in the text field of Run and press Ctrl + Shift + Enter to open Command Prompt with administrative privileges.
 3. Click**Yes** in the User Account Control prompt.
 4. Once you are inside the Command Prompt window, type the command mentioned below and hit Enter to execute it:  
-powercfg –restoredefaultscheme  
-![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
+powercfg –restoredefaultscheme ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -122,3 +121,27 @@ Hopefully, this will resolve the issue.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-access-control-the-powertoys-way/"><u>Mastering Access Control: The PowerToys Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-sharpen-your-windows-11-multi-tasking-skills/"><u>Strategies to Sharpen Your Windows 11 Multi-Tasking Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-resolution-glitches/"><u>Overcoming Common Windows Resolution Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-utorrent-installation-hiccups-in-windows-78/"><u>Handling uTorrent Installation Hiccups in Windows 7/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/self-guided-inspector-writes-secure-your-computer-from-spyware/"><u>Self-Guided Inspector' Writes: Secure Your Computer From Spyware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-to-life-without-official-windows-xp-7-or-81-support/"><u>Adjusting to Life Without Official Windows XP, 7, or 8.1 Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-disabled-volume-adjustment-on-windows/"><u>Correct Disabled Volume Adjustment on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-win-pcs-voice-input-problems/"><u>Diagnosing Win PCs' Voice Input Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-inaccessible-folder-issue-fix-steps-for-windows-based-pcs/"><u>Solving 'Inaccessible Folder' Issue: Fix Steps for Windows-Based PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gone-sticker-refining-vids-for-a-slick-tiktok-presence/"><u>2024 Approved  Gone Sticker  Refining Vids for a Slick TikTok Presence</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>In 2024, How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snicker-schematics-androids-with-sarcasm/"><u>In 2024, Snicker Schematics  Androids with Sarcasm</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-video-hacks-instant-mp4-downloads/"><u>[New] In 2024, FB Video Hacks  Instant MP4 Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-story-stream-sequencer-app-for-2024/"><u>[New] Story Stream Sequencer App for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-mobile-and-professional-cameras-producing-igtv-excellence/"><u>[Updated] In 2024, Mastering Mobile and Professional Cameras  Producing IGTV Excellence</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-practices-for-producing-encouragement-driven-vlogs/"><u>Best Practices for Producing Encouragement-Driven Vlogs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia C12 Pro Phones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gratis-emulation-software-for-nintendo-switch-for-2024/"><u>Gratis Emulation Software for Nintendo Switch for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-power-of-fb-giveaways-in-your-business-plan/"><u>Unlocking the Power of FB Giveaways in Your Business Plan</u></a></li>
+</ul></div>

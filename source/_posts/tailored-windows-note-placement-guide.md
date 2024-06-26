@@ -1,7 +1,7 @@
 ---
 title: Tailored Windows Note Placement Guide
-date: 2024-06-22 12:25:45
-updated: 2024-06-24 12:33:31
+date: 2024-06-25T17:04:54.775Z
+updated: 2024-06-26T17:04:54.775Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Stick A Note is a freeware and portable note-taking software for Windows 11 and Windows 10 from the talented solo developer Anand Gupta. By pressing that app's hotkey, you can add a note to any software window you wish. Follow these steps to get stuck in with Stick A Note:
 
-1. First, open the[Stick A Note](https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Stick-A-Note.shtml) Softpedia page.
+1. First, open the [Stick A Note](https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Stick-A-Note.shtml) Softpedia page.
 2. Select Softpedia's**Download Now** and**Secure Download (US)** options.
 3. [Bring up Windows 11's Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/) from the taskbar by clicking its folder library icon.
 4. Navigate to the folder the Stick A Note ZIP file downloaded in.
-5. Extract the downloaded**Stick A Note 3.0.1 (1).zip** archive. Our[how-to unzip files in Windows 10 guide](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting ZIPs.
+5. Extract the downloaded**Stick A Note 3.0.1 (1).zip** archive. Our [how-to unzip files in Windows 10 guide](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting ZIPs.
 
 1. Double-click**Stick A Note.exe** in that software's extracted folder.
 2. Next, double-click the**Stick A Note** system tray icon.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  Alas, Notezilla isn't freeware software. It's retailing at a reasonable $29.95 on the Conceptworld site. You can try out Notezilla by downloading and installing its 30-day trial package. This is how you can stick notes to windows with Notezilla:
 
-1. Open the[Notezilla](https://www.conceptworld.com/Notezilla/Download) download page on Conceptworld's website.
+1. Open the [Notezilla](https://www.conceptworld.com/Notezilla/Download) download page on Conceptworld's website.
 2. Select**Download Now** for the 64-bit Windows Notezilla version.
 3. Next, open your browser software's download tab. That tab is accessible in Chrome, Opera, Firefox, and Edge with a**Ctrl** +**J** keyboard shortcut.
 4. Click**NotezillaSetup.exe** to view the software's setup wizard.
@@ -119,3 +119,24 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-compatibility-with-windows-11-explained/"><u>Chrome Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-login-lock-ups-with-rust-and-windows/"><u>Navigating Through Steam Login Lock-Ups with Rust & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-unregistered-package-error-in-win11-images/"><u>Steps to Resolve Unregistered Package Error in Win11 Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-configuring-script-policies-in-ps/"><u>The Definitive Guide to Configuring Script Policies in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-proxy-configurations-on-windows-11/"><u>Mastering the Art of Proxy Configurations on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-your-feed-top-15-instagram-free-safe-following-aids-for-2024/"><u>[New] Enhance Your Feed  Top 15 Instagram Free, Safe Following Aids for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-gopro-hero-5-vs-nikon-km-170-for-adventurers/"><u>2024 Approved  GoPro HERO 5 vs Nikon KM-170 for Adventurers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/online-income-analysis-for-youtube-stars-for-2024/"><u>Online Income Analysis for YouTube Stars for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-rock-solid-videos-best-free-android-video-stabilizer-apps/"><u>In 2024, Rock-Solid Videos Best Free Android Video Stabilizer Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-avoiding-zoom-call-blunders-smart-filters-usage/"><u>[New] In 2024, Avoiding Zoom Call Blunders  Smart Filters Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secret-social-scrolls-best-kept-facebook-memes/"><u>[Updated] 2024 Approved  Secret Social Scrolls  Best-Kept Facebook Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shoot-with-confidence-the-beginners-guide-to-cameras/"><u>[Updated] Shoot with Confidence - The Beginner's Guide to Cameras</u></a></li>
+</ul></div>

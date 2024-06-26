@@ -1,7 +1,7 @@
 ---
 title: "Jump Back to Joy: Playing Classics on DOSBox-X"
-date: 2024-06-24 17:47:44
-updated: 2024-06-25 12:25:40
+date: 2024-06-25T17:00:58.375Z
+updated: 2024-06-26T17:00:58.375Z
 tags:
   - windows10
   - windows11
@@ -169,3 +169,33 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/windows-notepad-blockade-uncover-the-7-pathways-to-access-it-again/"><u>Windows Notepad Blockade: Uncover the 7 Pathways to Access It Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-monitor-mastery-personalized-pixelation-per-system-screen/"><u>Multi-Monitor Mastery: Personalized Pixelation per System Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-hyper-v-in-windows-11/"><u>How to Enable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-windows-aggressive-contrast-mode/"><u>Silence Windows' Aggressive Contrast Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-anticipate-sudo/"><u>Why Windows Users Should Anticipate Sudo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winfixing-comprehensive-steps-for-repairing-windows-filesystem-issues/"><u>Winfixing: Comprehensive Steps for Repairing Windows Filesystem Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-applying-windows-11s-auto-hdr/"><u>Understanding and Applying Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-of-intels-wi-fi-6d-driver-in-os/"><u>Addressing Failure of Intel's Wi-Fi 6D Driver in OS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat-for-2024/"><u>Stepwise Instructions  Preserve Your Memories by Uploading to Snapchat for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-video-calls-on-zoom/"><u>In 2024, Perfect Your Video Calls on Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/racing-cameras-clash-is-black-hero-4-or-ghost-s-better-in-2024/"><u>Racing Cameras Clash  Is Black Hero 4 or Ghost-S Better, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-infographic-index-youtubes-surprising-stat-treasury-2017/"><u>[New] The Infographic Index  YouTube's Surprising Stat Treasury (2017)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-only-facebook-video-aspect-ratio-guide-youll-ever-need/"><u>New In 2024, The Only Facebook Video Aspect Ratio Guide Youll Ever Need</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-srt-to-text-transformation-a-modern-technique/"><u>2024 Approved  Seamless SRT-to-Text Transformation  A Modern Technique</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-complete-guide-to-transitioning-sound-elements-in-video-content-for-2024/"><u>New Complete Guide to Transitioning Sound Elements in Video Content for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval-for-2024/"><u>Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

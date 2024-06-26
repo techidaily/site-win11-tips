@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Overcoming Server Notifications on PC Apex (<156 Chars)
-date: 2024-06-22 23:53:11
-updated: 2024-06-25 12:44:48
+date: 2024-06-25T16:22:37.689Z
+updated: 2024-06-26T16:22:37.689Z
 tags:
   - windows10
   - windows11
@@ -30,17 +30,15 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 Now let's check out all the solutions in detail.
 
-## 1\. Check the Apex Legends Server Status
-
-![Apex Legends Server status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apex-Legends-Server-Page.jpg)
+## 1\. Check the Apex Legends Server Status ![Apex Legends Server status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apex-Legends-Server-Page.jpg)
 
  Like any other online multiplayer game, Apex Legends servers can face downtime. If the game is experiencing an outage or maintenance, you'll be unable to connect to them.
 
- So, whenever you face the problem at hand, first check the server status of the game. You can do this by visiting the[Apex Legends server-status checking webpage](https://apexlegendsstatus.com/) .
+ So, whenever you face the problem at hand, first check the server status of the game. You can do this by visiting the [Apex Legends server-status checking webpage](https://apexlegendsstatus.com/) .
 
 ## 2\. Check Your Internet Connection
 
- Most of server connection-related issues in online multiplayer games often result from a weak internet connection. So, check the internet connection whenever you face the problem at hand. You can do it by visiting one of the[internet-speed checking websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Most of server connection-related issues in online multiplayer games often result from a weak internet connection. So, check the internet connection whenever you face the problem at hand. You can do it by visiting one of the [internet-speed checking websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you are getting a comparatively lower speed, consider power cycling the router. If that doesn't help, contact your ISP.
 
@@ -55,17 +53,13 @@ Now let's check out all the solutions in detail.
 
 Relaunch the game and check if you still face the problem.
 
-## 4\. Switch to a Different Server
-
-![Different servers of Apex Legends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/different-servers.jpg)
+## 4\. Switch to a Different Server ![Different servers of Apex Legends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/different-servers.jpg)
 
  Another quick way to resolve the issue is to switch to a different server within your region. However, this fix will only be helpful if there's a regional server outage. If all the servers are down, then try the next solution.
 
  Also, be prepared to experience comparatively higher ping on the new server, but it's still better than waiting for the servers to become operational again.
 
-## 5\. Verify Games Files
-
-![Repair option in EA app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair.jpg)
+## 5\. Verify Games Files ![Repair option in EA app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair.jpg)
 
  Games may start misbehaving and throw different errors if there's corruption in their files. Fortunately, you can quickly eliminate this issue by verifying the game files.
 
@@ -75,7 +69,7 @@ Relaunch the game and check if you still face the problem.
 2. Choose**Library** from the left sidebar.
 3. Click the**three dots** on the Apex Legends icon and choose**Repair** from the menu that crops up.
 
- After completing the verification process, restart the EA app and check for the issue. If you're using any other launcher, check our guide on[verifying game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+ After completing the verification process, restart the EA app and check for the issue. If you're using any other launcher, check our guide on [verifying game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 ## 6\. Turn Off Any Proxy Server Connections
 
@@ -116,7 +110,7 @@ Launch the game and check for the problem.
 
 ## 9\. Switch to Google's DNS Server
 
- The next solution on the list is to switch to the Google DNS server. As it turns out, if your current[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is unstable, you will most likely face the issue.
+ The next solution on the list is to switch to the Google DNS server. As it turns out, if your current [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is unstable, you will most likely face the issue.
 
  While there are a lot of public DNS servers you can use, Google's servers are easy to remember and have good performance. So, here's how to connect to the Google DNS server.
 
@@ -138,7 +132,7 @@ Launch the game and check for the problem.
 
  As a solution, consider clearing the DNS cache data. You can do it by following the below steps.
 
-1. Open**Command Prompt** using one of the[many ways to open the command prompt](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+1. Open**Command Prompt** using one of the [many ways to open the command prompt](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 2. Type**ipconfig /flushdns** and press Enter.  
 ![running flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/flushdns-terminal.png)
 
@@ -148,7 +142,7 @@ Launch the game and check for the problem.
 
  If none of the steps was helpful, consider resetting the network settings. Resetting the network settings will remove and reinstall the network adapters and set the network components to their default values.
 
- You can[reset the network settings](https://www.makeuseof.com/reset-network-settings-windows-11/) by following the below steps.
+ You can [reset the network settings](https://www.makeuseof.com/reset-network-settings-windows-11/) by following the below steps.
 
 1. Open**Settings** .
 2. Choose**Network & internet** \>**Advanced network settings** \>**Network reset** .
@@ -182,3 +176,27 @@ Launch the game and check for the problem.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/transformative-troubleshooting-tips-to-ease-team-communication-errors-on-w11/"><u>Transformative Troubleshooting Tips to Ease Team Communication Errors on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-more-value-black-friday-offers-at-612-win10/"><u>Get More Value: Black Friday Offers at $6.12 Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-linux-with-windows-tools/"><u>Enhancing Linux with Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-your-windows-hurdles-and-complications/"><u>Quick Fixes for Your Windows Hurdles & Complications!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stalling-fixing-microsoft-teams-in-ws11ws10/"><u>Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-barriers-to-running-powershell-scripts-in-windows/"><u>Dismantling Barriers to Running PowerShell Scripts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-non-admin-account-permissions-in-windows/"><u>Fine-Tuning Non-Admin Account Permissions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cooling-policies-in-microsofts-os-environment/"><u>Navigating Cooling Policies in Microsoft's OS Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-win-10s-cc-troubleshooting/"><u>Essential Tips for Win 10'S CC Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-android-into-a-compatible-webcam-for-windows-11/"><u>Turning Android Into a Compatible Webcam for Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c210-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C210 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-stock-market-strategies-in-yt-reviews/"><u>[Updated] Pro Stock Market Strategies in YT Reviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-exploring-8-premium-open-source-videoconferencing-platforms/"><u>In 2024, Exploring 8 Premium Open-Source Videoconferencing Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-3-fb-movie-extractors-for-2024/"><u>[Updated] Ultimate 3 Fb Movie Extractors for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/epicurean-escapades-top-tiktok-chefs-and-cooks/"><u>Epicurean Escapades  Top TikTok Chefs & Cooks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-the-web-in-motion-a-compact-list-of-leading-recorders/"><u>2024 Approved  Capturing the Web in Motion  A Compact List of Leading Recorders</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bass-bridges-and-high-beats-understanding-sound-mixing/"><u>2024 Approved  Bass Bridges & High Beats  Understanding Sound Mixing</u></a></li>
+</ul></div>

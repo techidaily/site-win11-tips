@@ -1,7 +1,7 @@
 ---
 title: Regain Your Lost Screen Symbols in Win 11
-date: 2024-06-23 17:32:16
-updated: 2024-06-24 10:29:34
+date: 2024-06-25T16:20:40.373Z
+updated: 2024-06-26T16:20:40.373Z
 tags:
   - windows10
   - windows11
@@ -85,13 +85,13 @@ To rebuild icon cache on Windows 11:
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
- If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
+ If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on [how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
 ## 6\. Check the Group Policy Settings
 
  The Group Policy Editor lets you make various system-wide changes on your Windows computer. If desktop icons are disabled from the Group Policy Editor, you won’t be able to add or remove desktop icons no matter what you do. To fix this, you must disable this “Hide and disable all items on the desktop” from the Group Policy Editor.
 
- Note that you can only access the Group Policy Editor on Windows 11 Professional, Enterprise, and Education editions. If you’re running Windows 11 Home, check our guide on[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
+ Note that you can only access the Group Policy Editor on Windows 11 Professional, Enterprise, and Education editions. If you’re running Windows 11 Home, check our guide on [how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
 
 1. Click the magnifying icon on the taskbar to open the search menu.
 2. Type**gpedit.msc** in the box and press**Enter** . This will open the Local Group Policy Editor.
@@ -127,7 +127,7 @@ Follow these steps to perform a system restore on Windows:
 
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
- We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
+ We covered this topic in more detail in our guide to [how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -148,3 +148,24 @@ Follow these steps to perform a system restore on Windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vscode-instability-in-windows-11/"><u>Troubleshooting VSCode Instability in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-event-viewer-breakdowns/"><u>Addressing Windows Event Viewer Breakdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-crafting-a-custom-uninstall-menu-for-win/"><u>Simplify Your System: Crafting a Custom Uninstall Menu for Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lowering-audio-amplitude-progressively-using-lumafusion/"><u>In 2024, Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[Updated] '21 Edition Deep-Dive  Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturemaster-x-overview-evaluation/"><u>[Updated] CaptureMaster X Overview Evaluation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-free-music-production-tools-expert-reviews/"><u>Updated 2024 Approved Top 10 Free Music Production Tools Expert Reviews</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-infusing-auditory-experience-in-visual-storytelling/"><u>In 2024, Infusing Auditory Experience in Visual Storytelling</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-increasing-onscreen-detail-in-virtual-spaces/"><u>[Updated] Increasing Onscreen Detail in Virtual Spaces</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-iphoneipad-top-10-free-youtube-video-editing-apps/"><u>[New] In 2024, IPhone/iPad  Top 10 Free YouTube Video Editing Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-perfecting-highlight-covers-an-in-depth-insta-photography-guide/"><u>[New] In 2024, Perfecting Highlight Covers  An In-Depth Insta Photography Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Customization in Windows 11: Adding Directories"
-date: 2024-06-23 14:49:12
-updated: 2024-06-25 11:57:27
+date: 2024-06-25T16:32:08.282Z
+updated: 2024-06-26T16:32:08.282Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
 
-1. First, open the[MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
+1. First, open the [MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
 2. Click the**Download Completely Free** button.
 3. Next, click File Explorer’s shortcut on Windows 11’s taskbar; and navigate to the directory where the**MyFolders\_Installer.exe** setup file was downloaded.
 4. Double-click**MyFolders\_Installer.exe** to view the MyFolders setup window.
@@ -58,14 +58,14 @@ Once your PC has restarted:
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
- Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
+ Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the [best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
 
  You can extract Right Click Context Menu Adder’s archive with 7-Zip like this:
 
-1. Open the[7-Zip File Manager](https://www.7-zip.org/) download page.
+1. Open the [7-Zip File Manager](https://www.7-zip.org/) download page.
 2. Select the**Download** option for 7-Zip’s 64-bit Windows version, and then double-click the**7z2201-x64.exe** setup file within the folder that includes it.
 3. Click**Install** within the 7-Zip setup window.
-4. Open the[Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
+4. Open the [Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
 5. Click**Download** to view the two location options.
 6. Select the**External Mirror** or**Softpedia Secure Download (US)** option. The US option is better for users in North America.
 7. Then launch the 7-Zip software.
@@ -78,7 +78,7 @@ Once your PC has restarted:
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
 
-1. Use one of the many[ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Use one of the many [ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Open the extracted Right Click Context Menu Adder folder.
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
@@ -124,3 +124,26 @@ Once your PC has restarted:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-adobe-reader-setup-on-ms-store/"><u>Effortless Adobe Reader Setup on MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-stop-windows-from-launching-spotify/"><u>Guide to Stop Windows From Launching Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-zenbook-14-oled-review-pcmac-comparison/"><u>ASUS Zenbook 14 OLED Review: PC/Mac Comparison?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-words-start-talking-windows-11s-method/"><u>Cut the Words, Start Talking: Windows 11'S Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-taskmanagers-dominance/"><u>Mastery Over TaskManager's Dominance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-freepaid-screen-recorders-for-meet-video/"><u>[Updated] Ultimate Guide  Free/Paid Screen Recorders for Meet Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-harnessing-hype-strategies-to-elevate-your-instagram-presence-for-2024/"><u>[Updated] Harnessing Hype  Strategies to Elevate Your Instagram Presence for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/recovering-the-solitary-sound-device-for-2024/"><u>Recovering the Solitary Sound Device for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zooms-best-alternatives-on-laptops-and-tablets/"><u>In 2024, Zoom's Best Alternatives on Laptops & Tablets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f14-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F14 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decoding-instagrams-best-timing-practices-for-2024/"><u>[Updated] Decoding Instagram's Best Timing Practices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-speed-upters-accelerate-your-android-media/"><u>2024 Approved  Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-breaking-down-silence-extracting-video-contents-hidden-aural-elements/"><u>2024 Approved Breaking Down Silence Extracting Video Contents Hidden Aural Elements</u></a></li>
+</ul></div>

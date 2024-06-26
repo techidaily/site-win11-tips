@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Restoring Standard User Permissions"
-date: 2024-06-23 12:46:29
-updated: 2024-06-24 10:29:49
+date: 2024-06-25T17:01:02.118Z
+updated: 2024-06-26T17:01:02.118Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ Let's now explore them in detail.
 
 ## 1\. Run the Icacls Command
 
- The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to[take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then[open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
+ The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to [take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then [open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
 
 `icacls * /t /q /c /reset`
 
@@ -98,3 +98,24 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-repeatedly-accessing-cmos-settings/"><u>Stop Windows From Repeatedly Accessing CMOS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-configurations-restarted-a-triad-of-tips/"><u>Win11 Configurations Restarted: A Triad of Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-older-systems-healthy-with-win10-improvements/"><u>Keep Older Systems Healthy with Win10 Improvements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-windows-read-only-constraints/"><u>Taking Control of Windows Read-Only Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/money-making-tactics-from-the-w11-windowware/"><u>Money-Making Tactics From the W11 Windowware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-video-drivers-errors/"><u>Mastering the Art of Fixing Video Drivers Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-affordable-pc-frame-capture-apps/"><u>2024 Approved  Affordable PC Frame Capture Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>[New] 2024 Approved  Streamlining Your Viewing Experience  6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-key-selections-top-6-fb-lite-video-grabs/"><u>[New] Key Selections  Top 6 FB Lite Video Grabs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unveiling-the-process-of-downloading-instagram-videos-pcmac/"><u>[Updated] In 2024, Unveiling the Process of Downloading Instagram Videos (PC/Mac)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expertise-in-action-leading-youtube-text-to-video-devices/"><u>[New] Expertise in Action  Leading Youtube Text-to-Video Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-customizing-your-discord-avatar/"><u>The Ultimate Guide to Customizing Your Discord Avatar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/initiating-live-video-sharing-complete-walkthrough/"><u>Initiating Live Video Sharing  Complete Walkthrough</u></a></li>
+</ul></div>

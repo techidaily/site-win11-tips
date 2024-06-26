@@ -1,7 +1,7 @@
 ---
 title: Solving Needed Parts Error on Windows 10/11 Systems
-date: 2024-06-23 17:51:36
-updated: 2024-06-24 11:34:49
+date: 2024-06-25T16:34:11.320Z
+updated: 2024-06-26T16:34:11.320Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-## 1\. Check for and Install Any Pending Windows Updates
-
-![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
+## 1\. Check for and Install Any Pending Windows Updates ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
@@ -69,17 +67,13 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
-## 5\. Repair .NET Framework Components
-
-![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+## 5\. Repair .NET Framework Components ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
-## 6\. Verify the Affected Game Within Your Game Launcher
-
-![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
+## 6\. Verify the Affected Game Within Your Game Launcher ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
@@ -104,3 +98,33 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  However, we can’t guarantee those potential resolutions will always fix the “following components are required” error. Check whether an affected game has a technical support service you can contact for further troubleshooting guidance if needed. If this error occurs for a new game, consider requesting a refund for it while you still can.
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-windows-users-from-changing-the-date-and-time/"><u>How to Stop Windows Users From Changing the Date and Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-non-active-vss-service-states/"><u>Restoring Non-Active VSS Service States</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resetting-graphics-drivers-on-latest-oses/"><u>Quick Guide to Resetting Graphics Drivers on Latest OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-preview-screens-for-files-troubleshoot-on-win-11/"><u>Reinstate Preview Screens for Files – Troubleshoot on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-evolutionary-leap-with-ai-copilot-in-windows-11-life/"><u>The Evolutionary Leap with AI Copilot in Windows 11 Life</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-filmmaking-bridging-audio-and-visuals-in-the-digital-age/"><u>Updated The Future of Filmmaking Bridging Audio and Visuals in the Digital Age</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-pictures-focus-with-gaussian-blur/"><u>[New] Perfect Your Picture's Focus with Gaussian Blur</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-monetize-your-live-webcam-shows/"><u>[New] How to Monetize Your Live Webcam Shows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-tag-management-made-easy-top-editors-for-windows-and-mac/"><u>New Video Tag Management Made Easy Top Editors for Windows and Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[Updated] Expert Tips  Crafting Compelling Facebook Ad Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation-for-2024/"><u>Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tips-for-finding-trending-videos-on-facebook/"><u>In 2024, Tips for Finding Trending Videos on Facebook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement/"><u>[New] 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-p55-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of P55 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/convert-and-edit-wonders-select-10-best-youtube-converters-for-2024/"><u>Convert & Edit Wonders  Select 10 Best YouTube Converters for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

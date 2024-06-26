@@ -1,7 +1,7 @@
 ---
 title: Fix Window Updates Blocked by Error 2E
-date: 2024-06-23 21:29:57
-updated: 2024-06-25 11:52:40
+date: 2024-06-25T16:15:42.870Z
+updated: 2024-06-26T16:15:42.870Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,7 @@ To restart the Windows Update service, follow these steps:
 
  This solution might work if you're dealing with a corrupt or missing Windows Update setting in your registry. Be very cautious when accessing and modifying your registry, as you could be exposed to a range of unwanted issues if done incorrectly.
 
- Always[back up the registry files](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes, just in case something goes wrong so that it can easily and quickly be restored.
+ Always [back up the registry files](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes, just in case something goes wrong so that it can easily and quickly be restored.
 
  To adjust the Windows Update setting in your registry, follow these steps:
 
@@ -83,7 +83,7 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 Follow these steps to reset your Windows Update Components:
 
-1. First, open Notepad on your Windows computer. In case you need help, see our guide on[how to open Notepad on Windows](https://www.makeuseof.com/windows-11-open-notepad/) .
+1. First, open Notepad on your Windows computer. In case you need help, see our guide on [how to open Notepad on Windows](https://www.makeuseof.com/windows-11-open-notepad/) .
 2. Copy and paste the following commands into the Notepad window:  
 `net stop bits  
 net stop wuauserv  
@@ -152,7 +152,7 @@ net start cryptsvc`
 
  If all else fails, it's time to try some more general fixes. These have had good track records for fixing Windows Update errors, regardless of the error code it gives you.
 
- Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
+ Check out [the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
 
 ## Resolving Windows Update Error 0x8024002e
 
@@ -173,3 +173,27 @@ net start cryptsvc`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigate-effortlessly-bypass-pin-in-windows-11-projections/"><u>Navigate Effortlessly: Bypass PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-security-running-as-administrator/"><u>Navigating Windows Security: Running As Administrator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-windows-note-taking-aids/"><u>Ultimate List of Windows Note-Taking Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-analysis-creating-and-interpreting-data/"><u>Navigating Windows Analysis: Creating & Interpreting Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-development-workflow-a-guide-to-wpm-in-windows-os/"><u>Streamlining Development Workflow: A Guide to WPM in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-the-best-bargains-on-essential-windows-11-codes/"><u>Getting the Best Bargains on Essential Windows 11 Codes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-tools-to-create-blend-image-collage/"><u>New Top Tools To Create Blend Image Collage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-7-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 7 Phone FRP Lock</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-cut-mark-clutter-quickly-tiktok-overlay-remover/"><u>2024 Approved  Cut Mark Clutter Quickly  TikTok Overlay Remover</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715859689913-2024-approved-best-5-chrome-os-clipping-utilities-ranked/"><u>2024 Approved  Best 5 Chrome OS Clipping Utilities, Ranked!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-incorporating-music-in-videos-and-stories/"><u>[New] 2024 Approved  Mastering Instagram  Incorporating Music in Videos & Stories</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y55s-5g-2023-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y55s 5G (2023) Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-asmr-methods-by-leading-talents/"><u>2024 Approved  Masterful ASMR Methods by Leading Talents</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leaders-shaping-immersive-digital-experiences/"><u>[New] Leaders Shaping Immersive Digital Experiences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-look-what-makes-asmr-special/"><u>[New] 2024 Approved  Inside Look  What Makes ASMR Special</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-overcoming-obstacles-with-youtube-short-strategies/"><u>[Updated] In 2024, Overcoming Obstacles with YouTube Short Strategies</u></a></li>
+</ul></div>

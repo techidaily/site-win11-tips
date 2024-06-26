@@ -1,7 +1,7 @@
 ---
 title: Strategies to Keep LoL Playtime Uninterrupted in Windows
-date: 2024-06-24 17:13:17
-updated: 2024-06-25 10:11:38
+date: 2024-06-25T16:49:30.905Z
+updated: 2024-06-26T16:49:30.905Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
 
-1. Go to the[Riot Games Server Status website](https://status.riotgames.com/) .
+1. Go to the [Riot Games Server Status website](https://status.riotgames.com/) .
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ## 2\. Rule Out Internet Issues
 
- If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
+ If Riot servers are fully active, your internet might be the problem. Test your internet speed using [free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
 
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
@@ -69,9 +69,7 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 Proceed to the next step if the above checks and fixes do not help.
 
-## 3\. Connect to a Different Network
-
-![WiFi symbol seen on a smartphone next to a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secure-smartphone-hotspot.jpg)
+## 3\. Connect to a Different Network ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
@@ -83,7 +81,7 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Due to League of Legends' online nature, tens of requests are communicated between your device and Riot servers every second. Wide-scale communications can cause Windows Defender's firewall or your antivirus to consider this activity harmful and block the connection after a certain number of requests.
 
- To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on[whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
+ To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on [whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
 
  You will need to whitelist the EXE file, so here is the path to the executable:
 
@@ -104,9 +102,9 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ## 6\. Report the Problem to Riot Games
 
- Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
+ Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the [League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
- If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
+ If the support team asks about logs, run the [Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 ## Fix the League of Legends Disconnecting Issue
 
@@ -127,3 +125,24 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-door-on-stuck-wow-61-patches/"><u>Unlocking the Door on Stuck WoW 6.1 Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-access-rectifying-unreachable-ea-services/"><u>Reestablishing Access: Rectifying Unreachable EA Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-search-with-image-cleanse/"><u>Simplifying Windows Search with Image Cleanse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-to-run-this-application-you-must-install-net-core-error/"><u>How to Fix the Windows “To Run This Application, You Must Install .NET Core” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hazards-of-cheap-windows-key-purchases/"><u>Navigating the Hazards of Cheap Windows Key Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-ubisoft-launcher-not-found-issue/"><u>Troubleshooting: Resolving Ubisoft Launcher Not Found Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-android-to-windows-shared-drives/"><u>Navigating Android to Windows Shared Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quicken-video-playback-on-instagram-apps/"><u>2024 Approved  Quicken Video Playback on Instagram Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-most-attractive-ringtones-for-your-phone/"><u>New In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>2024 Approved  How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[New] Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-10-websites-for-premium-quality-vector-stock-images/"><u>[New] Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/guide-to-creating-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Guide To Creating The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transforming-viewers-into-customers-youtubes-essential-5-tactics/"><u>Transforming Viewers Into Customers  YouTube's Essential 5 Tactics</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pick-from-the-best-top-10-imovie-alternatives-on-android/"><u>Updated Pick From the Best Top 10 iMovie Alternatives on Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-6-best-voice-changers-for-chromebook-deserve-a-try-filmora/"><u>Updated 6 Best Voice Changers for Chromebook Deserve a Try - Filmora</u></a></li>
+</ul></div>

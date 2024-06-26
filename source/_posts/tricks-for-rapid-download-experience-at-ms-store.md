@@ -1,7 +1,7 @@
 ---
 title: Tricks for Rapid Download Experience at MS Store
-date: 2024-06-22 12:51:57
-updated: 2024-06-25 12:36:18
+date: 2024-06-25T16:51:31.556Z
+updated: 2024-06-26T16:51:31.556Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 ## 1\. Check Your Internet Connection
 
- Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
+ If you are getting a slower download speed across all your internet-based apps, check out our guide on [how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 ## 2\. Close Network-Consuming Applications
 
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 1. Open the**Task Manager** by pressing the**Ctrl + Shift + Esc** hotkeys.
 2. In the**Processes** tab, look in the**Network** column, and close all non-essential applications that are consuming a lot of data.
 
- Additionally, make sure the Microsoft Store is not running in[Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
+ Additionally, make sure the Microsoft Store is not running in [Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
 
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 ## 6\. Switch to the Google Public DNS
 
- By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
+ By default, the [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
 
 1. Launch the Start Menu, type**Control Panel** and press Enter.
 2. In the Control Panel, change the**View by** to**Category.**
@@ -139,3 +139,22 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/windows-notepad-blockade-uncover-the-7-pathways-to-access-it-again/"><u>Windows Notepad Blockade: Uncover the 7 Pathways to Access It Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-reasons-to-choose-win11-over-apples-macos/"><u>Top Reasons to Choose Win11 Over Apple's macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-windows-11-admin-details-effectively/"><u>Revamp Your Windows 11 Admin Details Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-workday-woes-into-productivity-peaks-using-windows-11s-tools/"><u>Transform Workday Woes Into Productivity Peaks Using Windows 11'S Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-recovery-for-non-functional-windows-software/"><u>Immediate Recovery for Non-Functional Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-galaxys-potential-the-dex-connection-technique/"><u>Leveraging Galaxy's Potential: The DeX Connection Technique</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-jazz-101-key-elements-you-must-understand/"><u>2024 Approved Jazz 101 Key Elements You Must Understand</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-combining-camera-and-display-in-one-go/"><u>2024 Approved  Combining Camera and Display in One Go</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone SE and iPad</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-switch-to-shine-with-premium-capture-cards/"><u>In 2024, Switch to Shine with Premium Capture Cards</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies/"><u>Crop Companion Chronicles  Ultimate AgriGames to Bond with Buddies</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-hd-video-essentials-mastering-pixel-size-and-resolution-for-2024/"><u>New HD Video Essentials Mastering Pixel Size and Resolution for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find N3 FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Hot 40i | Dr.fone</u></a></li>
+</ul></div>

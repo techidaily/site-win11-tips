@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Selectivity: Enable Checkbox File Option in Win11"
-date: 2024-06-23 12:10:58
-updated: 2024-06-26 10:32:38
+date: 2024-06-25T16:51:13.492Z
+updated: 2024-06-26T16:51:13.492Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
- The[Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to[clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
+ The [Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to [clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
 
 Here's how to use the Folder Option to enable the checkboxes:
 
@@ -80,3 +80,26 @@ Here's how to use the Folder Option to enable the checkboxes:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/altering-default-cmd-settings-with-ease/"><u>Altering Default CMD Settings with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-empower-your-taskbar-with-new-features/"><u>How to Empower Your Taskbar with New Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-security-faults-effectively/"><u>Steps to Tackle Windows Security Faults Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-disabled-volume-snapshots/"><u>Restoring Functionality to Disabled Volume Snapshots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-and-intel-unison-for-smooth-phone-integration/"><u>Leveraging Windows 11 & Intel Unison for Smooth Phone Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-windows-services-tool-when-it-wont-open-or-respond/"><u>7 Ways to Fix the Windows Services Tool When It Won't Open or Respond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-apex-legends-crashes-w11/"><u>Strategies to Prevent Apex Legends Crashes W11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>Updated In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-compilation-top-7-free-voice-transformation-tools-for-unleashing-your-inner-artist-for-2024/"><u>The Ultimate Compilation Top 7 FREE Voice Transformation Tools for Unleashing Your Inner Artist for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/enhance-live-stream-performance-with-these-5-pro-tips/"><u>Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/catchy-counterpoint-the-best-backwards-song-videos-of-this-year-for-2024/"><u>Catchy Counterpoint The Best Backwards Song Videos of This Year for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breaking-the-mold-high-fidelity-sound-without-a-microphone/"><u>[Updated] 2024 Approved  Breaking the Mold  High-Fidelity Sound without a Microphone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-10-viral-tiktok-kitchen-secrets-for-2024/"><u>[Updated] Top 10 Viral TikTok Kitchen Secrets for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/high-definition-webcams-top-5-combined-visual-and-audio-for-2024/"><u>High-Definition Webcams Top 5 - Combined Visual & Audio for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-outsmarting-tiktoks-unseen-ban-a-recovery-plan/"><u>In 2024, Outsmarting TikTok's Unseen Ban  A Recovery Plan</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-vertical-video-revolution-a-simple-yet-powerful-resizing-technique/"><u>New In 2024, The Vertical Video Revolution A Simple Yet Powerful Resizing Technique</u></a></li>
+</ul></div>

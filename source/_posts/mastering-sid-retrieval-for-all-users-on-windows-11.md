@@ -1,7 +1,7 @@
 ---
 title: Mastering SID Retrieval for All Users on Windows 11
-date: 2024-06-21 14:35:45
-updated: 2024-06-24 10:46:35
+date: 2024-06-25T17:05:27.461Z
+updated: 2024-06-26T17:05:27.461Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,7 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 1. Press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **cmd** in the text box and press the **Ctrl + Shift + Enter** keys to open Command Prompt.
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Now, type the following command to view the SID of the currently logged-in user account:  
-whoami /user  
-![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
+whoami /user ![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
 4. You will see the currently logged-in user’s name and the corresponding SID. You can directly select and copy the text from the Command Prompt window. But if you want to export the details to a text file for future use, you can do so by entering the following command:  
 whoami /user > C:\SID.txt
 5. The above command will create a text file named **SID** in the **C** drive. You can open it with Notepad or any other text editor app.
@@ -47,13 +46,11 @@ whoami /user > C:\SID.txt
 wmic useraccount get name,sid
 3. The above command will display the user name and the corresponding SID of all the user accounts. In our instance, it shows three local accounts (a,b, and t), and the administrator, guest, default account, and WDAGUtility account.
 4. You can export all this data into a text file on the D drive by executing the following command:  
-wmic useraccount get name,sid > D:\SID.txt  
-![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
+wmic useraccount get name,sid > D:\SID.txt ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
 5. If you want to get the details of a specific user account on your PC, the syntax of the command is:  
 wmic useraccount where name="USER" get sid
 6. Replace the **USER** part of the command with an actual username. In our case, the command becomes:  
-wmic useraccount where name="a" get sid  
-![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
+wmic useraccount where name="a" get sid ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
 7. Close the Command Prompt window.
 
 ## 3\. Using a PowerShell Cmdlet
@@ -65,8 +62,7 @@ wmic useraccount where name="a" get sid
 1. Press **Win + R** to launch the Run dialog box. Type **powershell** in the text box and press the **Ctrl + Shift + Enter** keys to open PowerShell.
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Type the following command and press the Enter key:  
-Get-WmiObject win32_useraccount | Select name,sid  
-![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
+Get-WmiObject win32_useraccount | Select name,sid ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
@@ -112,3 +108,33 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  The rest of the methods will display the SID of one or all the users on your PC. Lastly, create a batch file to display the SIDs of all users whenever you need it.
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/master-swift-typing-techniques-with-powertoys/"><u>Master Swift Typing Techniques with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-domain-based-biometric-use-in-windows-11/"><u>Tailoring Domain-Based Biometric Use in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-art-of-toggling-between-window-terminals-concentration-and-normalcy/"><u>Uncovering the Art of Toggling Between Window Terminal's Concentration and Normalcy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11s-code-0x0000004e-hurdle/"><u>Addressing Windows 11'S Code 0X0000004E Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-for-outdated-pcs-on-their-way-to-windows-11/"><u>The Guide for Outdated PCs on Their Way to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-remedying-0x80072af9-issues/"><u>Breaking Down and Remedying 0X80072AF9 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-fullscreen-glitches-with-ease-on-windows/"><u>Navigate Fullscreen Glitches with Ease on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-defusing-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Deciphering and Defusing Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-most-reliable-free-screen-capture-apps-for-mac/"><u>[New] The Most Reliable Free Screen Capture Apps for Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-pixel-sounds-to-your-style-for-2024/"><u>Tailoring Pixel Sounds to Your Style for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-how-to-send-and-add-snapchat-gifs-100-in-easy-way-for-2024/"><u>New How to Send and Add Snapchat GIFs 100 in Easy Way for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-boosting-traffic-elevating-your-pages-popularity-metric/"><u>2024 Approved  Boosting Traffic  Elevating Your Page's Popularity Metric</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit-for-2024/"><u>Maximum Video Stowage on a Single 64Gb Unit for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/steady-visual-commencement-for-2024/"><u>Steady Visual Commencement for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-cut-mkv-files-for-free-top-10-editors-for-2024/"><u>Updated Cut MKV Files for Free Top 10 Editors for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

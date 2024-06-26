@@ -1,7 +1,7 @@
 ---
 title: "Windows Desktop Drawing: Tips & Tricks Compilation"
-date: 2024-06-23 23:32:32
-updated: 2024-06-26 12:31:41
+date: 2024-06-25T16:38:02.929Z
+updated: 2024-06-26T16:38:02.929Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
 
-1. Open the[Epic Pen](https://epicpen.com/) website.
+1. Open the [Epic Pen](https://epicpen.com/) website.
 2. Click the**Download For Free** button to scroll down the homepage.
 3. Select the**Download Epic Pen** option for the free version.
 4. Find and double-click the**Epic Pen Setup v3.11.44.exe** file in whatever folder your browser usually downloads to.
@@ -51,7 +51,7 @@ Now you can get scribbling on the Windows desktop.
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
- Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
+ Epic Pen’s camera option enables you to save your drawings and annotations by [taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
 
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
@@ -65,9 +65,9 @@ Now you can get scribbling on the Windows desktop.
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
 
-1. Open the[gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
+1. Open the [gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
-3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
+3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
@@ -109,3 +109,27 @@ Now you can get scribbling on the Windows desktop.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/bringing-traditional-visuals-the-iconic-window-11-search-return/"><u>Bringing Traditional Visuals: The Iconic Window 11 Search Return</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-and-msi-dissecting-software-package-variations/"><u>EXE and MSI: Dissecting Software Package Variations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-non-functioning-reading-aloud-in-word-2016plus/"><u>Quick Guide to Reviving Non-Functioning Reading Aloud in Word 2016+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-screen-failure-during-boot-up-in-windows-11/"><u>Addressing Screen Failure During Boot-Up in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-your-pcs-dns-with-ease-in-windows-11/"><u>Revitalizing Your PC's DNS with Ease in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-disabled-volume-snapshots/"><u>Restoring Functionality to Disabled Volume Snapshots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-calculator-display-timeframe-on-windows/"><u>Maximizing Calculator Display Timeframe on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-trending-topics-the-best-10-music-videos-on-fb/"><u>[Updated] In 2024, Trending Topics  The Best 10 Music Videos on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-invert-colors-in-digital-photos/"><u>In 2024, How to Invert Colors in Digital Photos?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/relax-and-revel-in-youtubes-best-film-compilation-2024/"><u>Relax and Revel in Youtube's Best Film Compilation, 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/lose-the-extra-bits-effortless-mp3-downscaling-for-spotless-sing-along-sessions-for-2024/"><u>Lose the Extra Bits Effortless MP3 Downscaling for Spotless Sing-Along Sessions. For 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlock-content-creation-uploading-videos/"><u>[Updated] 2024 Approved  Unlock Content Creation  Uploading Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elevate-your-tiktok-score-with-these-10-key-tools-for-2024/"><u>[New] Elevate Your TikTok Score with These 10 Key Tools for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-x100-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo X100 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-tiktok-profile-updates-with-linktree-integration/"><u>2024 Approved  Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+</ul></div>

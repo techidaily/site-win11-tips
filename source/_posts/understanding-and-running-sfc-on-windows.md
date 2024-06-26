@@ -1,7 +1,7 @@
 ---
 title: Understanding and Running SFC on Windows
-date: 2024-06-25 13:40:14
-updated: 2024-06-26 12:52:30
+date: 2024-06-25T16:46:53.275Z
+updated: 2024-06-26T16:46:53.275Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
- If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ If you’re unfamiliar with operating system files, please read our guide on [what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our [beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## What Happens After I Run the System File Checker?
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
 
- In that case, you can run SFC by[creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
+ In that case, you can run SFC by [creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
 
  The important thing to remember about an offline scan is that you need to tell the SFC where to find Windows on the bootable drive. Here’s what a**/scannow** command would look like if you ran it offline:
 
@@ -118,3 +118,27 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-discord-from-launching-at-startup-and-searching-for-updates-on-windows/"><u>How to Stop Discord From Launching at Startup and Searching for Updates on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-ui-to-prompt-users-for-system-updates/"><u>Tailoring the Windows 11 UI to Prompt Users for System Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-memory-diagnostic-failure-on-your-pc/"><u>Addressing 'Memory Diagnostic Failure' On Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-ping-windows-application-essentials/"><u>Unveiling the Power of Ping: Windows Application Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-command-power-in-minutes/"><u>Unlock Full Command Power in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-effective-methods-to-align-security-keys-in-windows-11-systems/"><u>Five Effective Methods to Align Security Keys in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedily-seek-synonyms-with-win11-dictionary/"><u>Speedily Seek Synonyms with Win11 Dictionary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-modifying-windows-files/"><u>Mastering the Art of Modifying Windows Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-the-8-most-common-mistakes-for-beginners-to-skip/"><u>Navigating Windows 11: The 8 Most Common Mistakes for Beginners to Skip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transforming-chat-sounds-on-discord-our-top-10-free-plugins-for-2024/"><u>Transforming Chat Sounds on Discord  Our Top 10 Free Plugins for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-animate-on-the-go-top-8-mobile-apps/"><u>Updated In 2024, Animate On-the-Go Top 8 Mobile Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>Compreran't & Reviewed  The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-professional-gopro-video-making-for-2024/"><u>The Ultimate Guide to Professional GoPro Video Making for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-neo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Neo Phones with/without a PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-transparent-background-in-paint-how-3d-paint-transparent-background-can-be-made-how-to-save-an-image-with-transparent-background/"><u>How to Make a Transparent Background in Paint. How 3D Paint Transparent Background Can Be Made. How to Save an Image with Transparent Background?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-musical-memories-apply-free-melodies-to-digital-images-for-2024/"><u>New Musical Memories Apply Free Melodies to Digital Images for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-privacy-filter-concealing-visual-details-in-media/"><u>In 2024, The Privacy Filter  Concealing Visual Details in Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-spoken-word-unveiled-enhancing-expressiveness-on-slides/"><u>In 2024, The Spoken Word Unveiled  Enhancing Expressiveness on Slides</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-proscreencapture-ultimate-edition-for-2024/"><u>[New] ProScreenCapture Ultimate Edition for 2024</u></a></li>
+</ul></div>

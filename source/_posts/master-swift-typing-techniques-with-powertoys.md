@@ -1,7 +1,7 @@
 ---
 title: Master Swift Typing Techniques with PowerToys
-date: 2024-06-23 12:46:35
-updated: 2024-06-25 12:12:20
+date: 2024-06-25T16:28:27.393Z
+updated: 2024-06-26T16:28:27.393Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Developed by Microsoft in collaboration with its community, PowerToys is a suite of open-source utilities you can install on your Windows 10 or 11 PC. With PowerToys, you can customize your Windows experience and enhance your productivity and efficiency.
 
- PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you[extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that[converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
+ PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you [extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that [converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
 
- It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its[PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
+ It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its [PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
 
  Once you have PowerToys, you can use the Keyboard Manager, Quick Accent, and Shortcut Guide to type faster. Remember that PowerToys must be activated and running in the background for these utilities to work.
 
@@ -94,7 +94,7 @@ To remap your keys with Keyboard Manager:
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
- You might not be able to always recall the[various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
+ You might not be able to always recall the [various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
 
  First,**Enable Shortcut Guide** in PowerToys Settings. Then choose to activate Shortcut Guide by**holding the Win key down for a set time** or use a**customized shortcut** .
 
@@ -131,3 +131,26 @@ To remap your keys with Keyboard Manager:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-for-non-functional-windows-alt-codes-49-characters/"><u>Quick Remedies for Non-Functional Windows Alt Codes (49 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11s-snip-and-sketch-shortcut/"><u>Launching Windows 11'S Snip & Sketch Shortcut</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-non-loading-messages-in-windows-discord-client/"><u>Correcting Non-Loading Messages in Windows Discord Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-down-clutter-tackling-large-storage-consumers-in-windows/"><u>Cut Down Clutter: Tackling Large Storage Consumers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-cross-device-note-utilization-guide/"><u>Windows 11 Cross-Device Note Utilization Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-best-practices-for-ping-commands/"><u>Understanding Windows: Best Practices for Ping Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-additional-views-in-win-11s-context-menu/"><u>Eliminating Additional Views in Win 11'S Context Menu</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-s2t-integration-with-powerpoint/"><u>In 2024, Mastering S2T Integration with PowerPoint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-compelling-content-with-powerful-youtube-titles-for-2024/"><u>[Updated] Creating Compelling Content with Powerful YouTube Titles for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ultimate-fb-ad-strategy-manual/"><u>[New] 2024 Approved  Ultimate FB Ad Strategy Manual</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transformational-techniques-bold-borders-on-instagram-photos/"><u>[Updated] In 2024, Transformational Techniques  Bold Borders on Instagram Photos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-perfect-tiktok-start-mac-based-production-strategies-for-2024/"><u>[New] Perfect TikTok Start  Mac-Based Production Strategies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-get-no-cost-screen-capture-software-windows-mac/"><u>2024 Approved  Get No-Cost Screen Capture Software (Windows, Mac)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-chronicles-of-time-student-approved-historical-yt-content-for-2024/"><u>[Updated] Chronicles of Time  Student-Approved Historical YT Content for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-filming-your-overwatch-victories/"><u>[Updated] In 2024, Step-by-Step  Filming Your Overwatch Victories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-guru-setup-opt-for-studio-or-beta-option/"><u>In 2024, YouTube Guru Setup  Opt for Studio or Beta Option</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid-for-2024/"><u>[New] Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android for 2024</u></a></li>
+</ul></div>

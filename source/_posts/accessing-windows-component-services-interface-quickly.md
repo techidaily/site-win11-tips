@@ -1,7 +1,7 @@
 ---
 title: Accessing Windows' Component Services Interface Quickly
-date: 2024-06-24 19:49:18
-updated: 2024-06-25 11:16:25
+date: 2024-06-25T17:02:25.515Z
+updated: 2024-06-26T17:02:25.515Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Having trouble using the Start menu search bar? Try accessing the Component Services tool using the Run command dialog box.
 
- Want to know the best part about using the Run command dialog box? This tool can help you open almost any program on your Windows device. But if you want to[use the Run command dialog box to access third-party programs](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , you’d have to edit some Registry keys first.
+ Want to know the best part about using the Run command dialog box? This tool can help you open almost any program on your Windows device. But if you want to [use the Run command dialog box to access third-party programs](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , you’d have to edit some Registry keys first.
 
  Here are the steps for opening the Component Services tool using the Run command dialog box:
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ## 5\. Open the Component Services Tool Using the Control Panel
 
- In most cases, the Control Panel is used for[troubleshooting a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/) or configuring PC settings. Well, the good news is that you can also use this tool to open various apps on your Windows device.
+ In most cases, the Control Panel is used for [troubleshooting a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/) or configuring PC settings. Well, the good news is that you can also use this tool to open various apps on your Windows device.
 
  Here are the steps for accessing the Component Services tool using the Control Panel:
 
@@ -106,9 +106,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
 
-## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt
-
-![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
  PowerShell and the Command Prompt can also help you access the Component Services tool.
 
@@ -128,9 +126,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 `comexp.msc`
 
-## 9\. Open the Component Services Tool Using a Desktop Shortcut
-
-![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+## 9\. Open the Component Services Tool Using a Desktop Shortcut ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
 
@@ -168,3 +164,26 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-of-lock-screen-delay-on-pcs/"><u>Regaining Control of Lock Screen Delay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/"><u>Breaking Barriers: Uniting PC & Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gpt4all-for-pcs-local-free-chatgpt-version/"><u>GPT4All for PCs: Local, Free ChatGPT Version.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-window-11-mails-default-html-settings-for-clarity/"><u>Overhauling Window 11 Mail's Default HTML Settings for Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-lock-personal-pattern-creation-tutorial/"><u>Mastering Window's Lock: Personal Pattern Creation Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-file-ordering-with-these-7-photo-apps/"><u>Seamless File Ordering with These 7 Photo Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-controlling-edges-cpu-usage/"><u>Techniques for Controlling Edge's CPU Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-navigation-tips-on-using-narrator-commands/"><u>Streamlining Windows Navigation: Tips on Using Narrator Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-window-11-settings-for-clear-prime-video-texts/"><u>Harmonize Window 11 Settings for Clear Prime Video Texts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-transformation-through-strategic-use-of-youtube-outros-for-2024/"><u>Channel Transformation Through Strategic Use of YouTube Outros for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-digital-doppelganger-designs-sketching-an-animated-self/"><u>[New] 2024 Approved  Digital Doppelganger Designs  Sketching an Animated Self</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-top-free-online-video-merging-software/"><u>New The Ultimate List Top Free Online Video Merging Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-drone-propeller-rankings-for-top-flyers/"><u>Ultimate Drone Propeller Rankings for Top Flyers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-milliseconds-and-megabits-deconstructing-20mb-videos/"><u>[New] Milliseconds & Megabits  Deconstructing 20MB Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 6s Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-mac-preview-with-ease-ultimate-guide/"><u>In 2024, Navigating Mac Preview with Ease  Ultimate Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Phone without Google Account?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid/"><u>In 2024, A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+</ul></div>

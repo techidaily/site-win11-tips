@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Local Links to Global Drives: Dropbox & GoogleDrive via C:"
-date: 2024-06-22 14:12:24
-updated: 2024-06-25 12:23:17
+date: 2024-06-25T16:38:59.779Z
+updated: 2024-06-26T16:38:59.779Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,31 @@ subst Z: "C:\Cloud Drives\Dropbox"
  Cloud storage services are easier than ever to access, they offer free storage, and as a bonus, they can make your life miserable if you want to access anything stored there using a quirky app instead of your web browser.
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/ensuring-persistence-of-user-defined-volume-mixer/"><u>Ensuring Persistence of User-Defined Volume Mixer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-top-5-grievances-from-windows-11-users/"><u>Unveiling the Top 5 Grievances From Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-routines-to-pause-windows-and-office-software-updates/"><u>4 Routines to Pause Windows & Office Software Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-moving-of-apps-within-the-windows-ui/"><u>Techniques to Halt Moving of Apps Within the Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-unsuccessful-onedrive-procedures/"><u>Strategies to Address Unsuccessful OneDrive Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-be-the-life-of-your-virtual-gathering-top-6-voice-changes-for-zoom-that-add-fun-and-flair-for-2024/"><u>New Be the Life of Your Virtual Gathering Top 6 Voice Changes for Zoom That Add Fun and Flair for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simplifying-tasks-with-ez-grabber-techniques/"><u>[New] 2024 Approved  Simplifying Tasks with EZ Grabber Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-capturing-stunning-time-lapses-on-galaxys/"><u>[Updated] The Ultimate Guide to Capturing Stunning Time-Lapses on Galaxys</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>[Updated] 2024 Approved  Channel Branding Mastery  Securing a Loyal YouTube Subscriber Base</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-directors-toolkit-youtube-lessons-on-film-making/"><u>[New] 2024 Approved  The Director's Toolkit  YouTube Lessons on Film Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thinkers-arena-premier-gk-quiz-vids/"><u>In 2024, Thinkers’ Arena  Premier GK Quiz Vids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-virtual-reality-bike-adventures-listed-here/"><u>2024 Approved  Best Virtual Reality Bike Adventures Listed Here</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

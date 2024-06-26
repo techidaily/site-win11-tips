@@ -1,7 +1,7 @@
 ---
 title: Displaying Caps Lock & Numeric Status on Taskbar Tray of Win11
-date: 2024-06-24 11:13:17
-updated: 2024-06-25 10:58:25
+date: 2024-06-25T16:43:35.209Z
+updated: 2024-06-26T16:43:35.209Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,31 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-failed-to-launch-lunar-client-windows-message/"><u>Circumventing the Failed to Launch: Lunar Client Windows Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-guide-for-converting-cr2-images-to-windows-jpeg-files/"><u>Stepwise Guide for Converting CR2 Images to Windows JPEG Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-turn-off-lurking-apps-in-window-11/"><u>Secrets to Turn Off Lurking Apps in Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-drag-recover-lost-functionality-fast/"><u>Win11 Drag: Recover Lost Functionality Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-disabled-lock-screen-timer/"><u>Corrective Measures for Disabled Lock Screen Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-12-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi 12 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-insider-guide-to-regular-broadcast-etiquette/"><u>The Insider Guide to Regular Broadcast Etiquette</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-30i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 30i Quickly | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-f14-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy F14 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>[New] Cut the Hassle with MacOS  Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-split-screen-video-editor-online-and-offline-for-2024/"><u>Best Split Screen Video Editor Online & Offline for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-toolkit-for-drum-removal-a-step-by-step-online-resource-for-2024/"><u>New The Ultimate Toolkit for Drum Removal A Step-by-Step Online Resource for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713953852363-new-2024-approved-3-actionable-ways-to-create-countdown-animation-for-videos/"><u>New 2024 Approved 3 Actionable Ways to Create Countdown Animation for Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-jake-paul-from-dabbing-to-dominance-youtube-triumph/"><u>In 2024, Jake Paul  From Dabbing to Dominance - YouTube Triumph</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

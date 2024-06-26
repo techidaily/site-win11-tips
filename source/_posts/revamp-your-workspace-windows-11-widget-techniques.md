@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Workspace: Windows 11 Widget Techniques"
-date: 2024-06-24 17:21:20
-updated: 2024-06-25 12:55:15
+date: 2024-06-25T17:12:21.520Z
+updated: 2024-06-26T17:12:21.520Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 3. Expand the**Taskbar items** drop-down menu.
 4. Enable the**Widgets** toggle.
 
- If you do not see the button on the Taskbar even after following the above steps, you need to put some more effort into[fixing the issues and getting widgets up and running on Windows 11](https://www.makeuseof.com/windows-11-widgets-not-working/) . And if it's the Windows 11 Taskbar that is not working as expected, you need to[fix possible issues that may be causing those anomalies in Taskbar](https://www.makeuseof.com/ways-to-fix-malfunctioning-windows-taskbar/) .
+ If you do not see the button on the Taskbar even after following the above steps, you need to put some more effort into [fixing the issues and getting widgets up and running on Windows 11](https://www.makeuseof.com/windows-11-widgets-not-working/) . And if it's the Windows 11 Taskbar that is not working as expected, you need to [fix possible issues that may be causing those anomalies in Taskbar](https://www.makeuseof.com/ways-to-fix-malfunctioning-windows-taskbar/) .
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
@@ -51,7 +51,7 @@ Follow the below steps to add widgets:
 2. At the top of the panel, you can see a "**+** " icon. Click on it.
 3. Select the widgets you want to see at the top of your widgets board.
 
- You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
+ You can later unpin the widgets that you no longer need from the widget context menu. Also, you can [pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
 
 ## 3\. Change the Size of Widgets
 
@@ -66,13 +66,11 @@ To change the size of widgets, follow the below steps:
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
-## 4\. Customize Your News Feed to Get a More Personalized Experience
-
-![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
+## 4\. Customize Your News Feed to Get a More Personalized Experience ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
- You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also[tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
+ You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also [tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
@@ -88,9 +86,7 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
-## 6\. Expand the Widgets Panel
-
-![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+## 6\. Expand the Widgets Panel ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -128,3 +124,26 @@ To expand the widgets panel, follow the below steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-wi-fi-potential-in-windows-11-with-these-tips/"><u>Unlock Full Wi-Fi Potential in Windows 11 with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-upgrade-efficiency-over-entertainment/"><u>Windows 11 Upgrade: Efficiency Over Entertainment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-changes-to-user-profiles-in-w11-os/"><u>Directing Changes to User Profiles in W11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-marketplace-fails-error-0x80073cf3/"><u>Guiding Through Windows Marketplace Fails (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pitfalls-of-the-promotional-assessing-risks-with-low-price-auth-codes/"><u>Pitfalls of the Promotional: Assessing Risks with Low-Price Auth Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-your-machine-windows-11s-bloatware-hack/"><u>Rejuvenate Your Machine: Windows 11'S Bloatware Hack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-handling-widget-notifications-win-11-style/"><u>Efficiently Handling Widget Notifications Win 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-your-windows-hello-fix-unresponsive-fingerprints/"><u>Re-Establish Your Windows Hello: Fix Unresponsive Fingerprints</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-hit-the-beats-20-easy-to-learn-trending-tiktok-dances-for-2024/"><u>[New] Hit the Beats  20 Easy-to-Learn Trending TikTok Dances for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reviving-retro-shots-step-by-step-for-image-conversion-and-curation/"><u>2024 Approved  Reviving Retro Shots  Step-by-Step for Image Conversion & Curation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-definitive-guide-to-acquiring-tiktok-followers-safely/"><u>[New] In 2024, The Definitive Guide to Acquiring TikTok Followers Safely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>In 2024, Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-vivo-s18e-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo S18e Phone?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-ethical-buying-of-tiktok-clout-increase/"><u>[Updated] Ethical Buying of TikTok Clout Increase</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-deciphering-your-pathway-to-youtubes-maker-land/"><u>2024 Approved  Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-in-business-4k-cameras-our-leading-choices-18/"><u>In 2024, Best in Business 4K Cameras  Our Leading Choices (18)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-8-digital-audio-workstations-your-ultimate-guide-for-producing-high-quality-music-for-2024/"><u>Top 8 Digital Audio Workstations Your Ultimate Guide for Producing High-Quality Music for 2024</u></a></li>
+</ul></div>

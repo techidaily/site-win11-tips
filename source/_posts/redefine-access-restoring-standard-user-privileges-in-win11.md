@@ -1,7 +1,7 @@
 ---
 title: "Redefine Access: Restoring Standard User Privileges in Win11"
-date: 2024-06-24 15:38:17
-updated: 2024-06-26 10:26:51
+date: 2024-06-25T16:55:37.835Z
+updated: 2024-06-26T16:55:37.835Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ Let's now explore them in detail.
 
 ## 1\. Run the Icacls Command
 
- The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to[take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then[open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
+ The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to [take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then [open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
 
 `icacls * /t /q /c /reset`
 
@@ -98,3 +98,26 @@ subinacl /subdirectories %SystemDrive% /grant=system=f`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-savings-with-w11-pro-key-access-prime-deals/"><u>Elevate Savings with W11 Pro Key: Access Prime Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-installation-of-windows-chatgpt/"><u>Step-by-Step Installation of Windows ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-productivity-the-most-compelling-task-list-software-on-windows-11/"><u>Harnessing Productivity: The Most Compelling Task List Software on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-a-comparative-analysis-of-standard-login-vs-microsoft-account-on-pcs/"><u>Dissecting Distinctions: A Comparative Analysis of Standard Login vs Microsoft Account on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-device-label-in-windows-os/"><u>Correcting 'Invalid Device' Label in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-security-top-5-fixes-for-access-denied-errors/"><u>Mastering Windows 11 Security: Top 5 Fixes for Access Denied Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-problematic-java-setup-on-windows-pcs/"><u>Unblocking Problematic Java Setup on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-your-onedrive-login-windows-solutions-needed/"><u>Reignite Your OneDrive Login: Windows Solutions Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategizing-user-focused-gpo-settings-for-windows-1111-oses/"><u>Strategizing User-Focused GPO Settings for Windows 11/11 OSes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-revisiting-your-private-snap-history-for-2024/"><u>[New] The Art of Revisiting Your Private Snap History for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-performance-tools-youtube-meets-twitter/"><u>In 2024, High-Performance Tools  YouTube Meets Twitter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-picks-top-10-live-broadcast-apps-for-basketball-and-soccer-fans/"><u>Expert Picks  Top 10 Live-Broadcast Apps for Basketball and Soccer Fans</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-presence-mastery-of-channel-art-and-banner-sizes/"><u>[New] 2024 Approved  Elevate Your Video Presence  Mastery of Channel Art and Banner Sizes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a24-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A24? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-ninja-jump-effect-with-filmora-for-2024/"><u>How To Make Ninja Jump Effect with Filmora for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplifying-video-preservation-with-3-key-practices-for-2024/"><u>Simplifying Video Preservation with 3 Key Practices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elite-7-film-downloader-apps/"><u>[New] In 2024, Elite 7 Film Downloader Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-vivid-images-ps-hue-harmony-tips/"><u>[Updated] Crafting Vivid Images  PS Hue Harmony Tips</u></a></li>
+</ul></div>

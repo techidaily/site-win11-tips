@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate a Nonfunctional Nvidia CP on Windows 11
-date: 2024-06-22 10:49:18
-updated: 2024-06-25 12:20:58
+date: 2024-06-25T16:07:56.163Z
+updated: 2024-06-26T16:07:56.163Z
 tags:
   - windows10
   - windows11
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 3. Right-click the**NVIDIA Control Panel** result to select a**Run as administrator** on that app’s context menu.  
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-administrator-option.jpg)
 
- Setting NVIDIA Control Panel to always run as administrator is tricky because that UWP app is installed within a restricted access folder. You’ll need to[take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to open that directory. Then select the "Run as administrator" option for the nvcplui.exe file. The default path for the file is:
+ Setting NVIDIA Control Panel to always run as administrator is tricky because that UWP app is installed within a restricted access folder. You’ll need to [take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to open that directory. Then select the "Run as administrator" option for the nvcplui.exe file. The default path for the file is:
 
 `C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.963.0_x64__56jybvy8sckqj\nvcplui.exe`
 
@@ -63,19 +63,19 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
 ## 4\. Repair the NVIDIA Control Panel App
 
- Windows 11’s standard**Repair** and**Reset** app options are available for NVIDIA Control Panel. So, those troubleshooting options might help you fix that app not opening. You can select the**Reset** and**Repair** options in the same place within the NVIDIA Control Panel settings. Our guide on about[resetting Windows 11s apps](https://www.makeuseof.com/windows-reset-app/) includes step-by-step instructions for how to apply do this.
+ Windows 11’s standard**Repair** and**Reset** app options are available for NVIDIA Control Panel. So, those troubleshooting options might help you fix that app not opening. You can select the**Reset** and**Repair** options in the same place within the NVIDIA Control Panel settings. Our guide on about [resetting Windows 11s apps](https://www.makeuseof.com/windows-reset-app/) includes step-by-step instructions for how to apply do this.
 
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 
 ## 5\. Update Your PC’s NVIDIA Graphics Driver
 
- Updating the NVIDIA graphics driver on your PC will also update the control panel app for it. So, that’s a potential solution worth trying if your graphics card’s driver is outdated. You can apply this potential fix by following the instructions within our[guide to updating NVIDIA GPUs](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) .
+ Updating the NVIDIA graphics driver on your PC will also update the control panel app for it. So, that’s a potential solution worth trying if your graphics card’s driver is outdated. You can apply this potential fix by following the instructions within our [guide to updating NVIDIA GPUs](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) .
 
 ## 6\. Install Missing Visual C++ Redistribute Packages
 
  Another possibility is that the NVIDIA Control Panel doesn’t open because your PC is missing a required Visual C++ Redistributable package to run it. You can eliminate this possible cause by updating Visual C++ packages on your PC if needed. This is how to install a missing Visual C++ Redistributable in Windows:
 
-1. Open up the[Microsoft Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) download page in your browser software.
+1. Open up the [Microsoft Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) download page in your browser software.
 2. Click the X64 link for the latest Visual Studio 2015, 2017, 2019, and 2022 packs.  
 ![The X64 download link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/x64-link.jpg)
 3. Double-click the**VC\_redist.arm64.exe** (Visual C++ installer) file once it's downloaded.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
 ## 7\. Edit the Windows Registry
 
- This Windows Registry tweak creates a new context menu option for opening the NVIDIA Control Panel. As this solution involves deleting a key, we recommend you learn[how to back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding.
+ This Windows Registry tweak creates a new context menu option for opening the NVIDIA Control Panel. As this solution involves deleting a key, we recommend you learn [how to back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding.
 
 To apply this fix, edit the Registry as follows:
 
@@ -108,15 +108,15 @@ To apply this fix, edit the Registry as follows:
 
 ## 8\. Reinstall the NVIDIA Control Panel
 
- The NVIDIA Control Panel is a UWP app you can uninstall, download, and reinstall. If none of the other fixes in this guide work for you, that app might have corrupted or missing files. To do so, remove the NVIDIA Control Panel in Settings, as outlined in our guide for[how to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+ The NVIDIA Control Panel is a UWP app you can uninstall, download, and reinstall. If none of the other fixes in this guide work for you, that app might have corrupted or missing files. To do so, remove the NVIDIA Control Panel in Settings, as outlined in our guide for [how to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall app option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-option-in-apps-features.jpg)
 
- When you’ve uninstalled NVIDIA Control Panel, restart your PC. Then click**Get in Store** app on the[NVIDIA Control Panel](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) [Microsoft Store page](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) . Select**Open Microsoft Store** , and click**Get** to reinstall the app.
+ When you’ve uninstalled NVIDIA Control Panel, restart your PC. Then click**Get in Store** app on the [NVIDIA Control Panel](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) [Microsoft Store page](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) . Select**Open Microsoft Store** , and click**Get** to reinstall the app.
 
 ## Tweak Graphics Settings in the NVIDIA Control Panel Again
 
- Those potential solutions will usually fix the NVIDIA Control Panel not opening in Windows. However, there are many potential causes for the NVIDIA Control Panel not opening; and it is not guaranteed those resolutions will resolve that issue in all scenarios. If you need any more resolutions for fixing that app not starting, consider submitting a help ticket on the[NVIDIA support page](https://www.nvidia.com/en-us/support/consumer/) .
+ Those potential solutions will usually fix the NVIDIA Control Panel not opening in Windows. However, there are many potential causes for the NVIDIA Control Panel not opening; and it is not guaranteed those resolutions will resolve that issue in all scenarios. If you need any more resolutions for fixing that app not starting, consider submitting a help ticket on the [NVIDIA support page](https://www.nvidia.com/en-us/support/consumer/) .
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,3 +132,23 @@ To apply this fix, edit the Registry as follows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-screen-unresponsive-error-on-windows-11/"><u>Overcoming 'Screen Unresponsive' Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-camera-saving-errors/"><u>Guiding Through Windows Camera Saving Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notable-nights-of-non-opening-notepad-your-solution-guide-for-windows-users/"><u>Notable Nights of Non-Opening Notepad: Your Solution Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-to-your-needs-active-hours-and-updates/"><u>Tailoring Windows 11 to Your Needs: Active Hours & Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pc-speed-for-swift-steam-content-delivery/"><u>Enhance PC Speed for Swift Steam Content Delivery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-budget-video-editing-made-simple-with-vimeo-free-service/"><u>[Updated] Budget Video Editing Made Simple with Vimeo Free Service</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-relaxation-station-youtubes-finest-film-series-all-access/"><u>[Updated] Relaxation Station  YouTube's Finest Film Series, All-Access</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-record-video-in-slow-motion-comprehending-important-points-for-2024/"><u>Updated How To Record Video in Slow Motion Comprehending Important Points for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-virtual-enhancer-facebook-story-sinker/"><u>[New] 2024 Approved  Virtual Enhancer  Facebook Story Sinker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unbeatable-5-photo-backdrop-switchers-for-x8-series-for-2024/"><u>Unbeatable 5 Photo Backdrop Switchers for X/8 Series for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-bestdiscords-ultimate-guide-to-popular-themes/"><u>[New] In 2024, BestDiscord's Ultimate Guide to Popular Themes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>In 2024, Streamline Your Views  The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-ai-driven-video-editing-software-for-perfect-aspect-ratios/"><u>In 2024, AI-Driven Video Editing Software for Perfect Aspect Ratios</u></a></li>
+</ul></div>

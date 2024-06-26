@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality of Windows Photo Viewer in Win11
-date: 2024-06-22 15:36:44
-updated: 2024-06-24 10:24:18
+date: 2024-06-25T16:24:12.205Z
+updated: 2024-06-26T16:24:12.205Z
 tags:
   - windows10
   - windows11
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 1. Press **Win + R** to open the **Run** dialog. Input **notepad** and click **OK**.
 2. Copy and paste the following script into the notepad file:  
-`Windows Registry Editor Version 5.00[-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
+`Windows Registry Editor Version 5.00 [-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
 ![Notepad App Showing a Registry Script to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-registry-script-to-disable-windows-photo-viewer-in-windows-11.png)
 3. Press **Ctrl + Shift + S** to open the **Save** dialog.
 4. Type **DeactivateWindowsPhotoViewer.reg** as the file name. Click the **Save as type** drop-down, choose **All files (\*.\*)**, then click **Save**.  
@@ -68,9 +68,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
  Once done, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/), and the Photo Viewer app will be disabled.
 
-## Use One Photo Viewer
-
-![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
+## Use One Photo Viewer ![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
 
  One Photo Viewer is an excellent Windows Photo Viewer and [Windows Photos alternative](https://www.makeuseof.com/best-windows-10-photos-app-alternatives/). It's fast, free, and offers a clean interface by placing all the controls in the context menu, decluttering the toolbar area. Right-click the app interface to view the menu and access all the tools and settings.
 
@@ -81,3 +79,33 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 **Download:** [One Photo Viewer](https://apps.microsoft.com/detail/9PM6W4F0XW3H) (Free, premium version available)
 
  That said, if you prefer to stick with a native option, give the built-in Windows Photos app another shot. It's not as bad as you may think upon first use.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-discord-launch-and-update-check-with-windows-startup/"><u>Preventing Discord Launch and Update Check with Windows Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-the-login-loop-in-windows-1011/"><u>Hacking the Login Loop in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-policy-editor-in-windows-11/"><u>Unlock the Full Potential of Policy Editor in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-application-launch-failure-the-0xc000003e-error-on-windows-11/"><u>Solving Application Launch Failure: The 0XC000003E Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-edge-always-active-on-windows-11-guide/"><u>Is Edge Always Active on Windows 11? Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-csgo-in-w11/"><u>Unlocking the Power of CS:GO in W11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[New] 2024 Approved  Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discover-tiktoks-10-best-gamers-now-for-2024/"><u>Discover TikTok's 10 Best Gamers Now for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-complete-blueprint-integrating-real-time-video-on-sites/"><u>[Updated] The Complete Blueprint  Integrating Real-Time Video on Sites</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-superior-video-editing-software-for-online-sessions/"><u>[New] In 2024, Superior Video Editing Software for Online Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-of-hilarity-with-adobe-tools/"><u>In 2024, Pixels of Hilarity with Adobe Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-recruiting-gems-amp-up-engagement/"><u>2024 Approved  Top 10 Recruiting Gems  Amp Up Engagement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-40-neo-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 40 Neo Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-watermark-no-problem-7-video-merger-solutions/"><u>New No Watermark, No Problem 7 Video Merger Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-unique-ps3-gameplay-presentations-with-screen-recordings-for-2024/"><u>[New] Crafting Unique PS3 Gameplay Presentations with Screen Recordings for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-10-steps-to-dominance-in-innovative-tiktok-marketing-playbooks-for-2024/"><u>Top 10 Steps to Dominance in Innovative TikTok Marketing Playbooks for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Keeping Your Windows Notes Prominent
-date: 2024-06-25 19:49:44
-updated: 2024-06-26 12:22:41
+date: 2024-06-25T16:48:20.888Z
+updated: 2024-06-26T16:48:20.888Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  Here’s how you can use the Always On Top feature in Microsoft PowerToys to pin the Sticky Notes app on Windows.
 
-1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
+1. Open the [Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
- Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+ Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 To pin Sticky Notes using DeskPins:
 
-1. Go to the[DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
+1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
@@ -85,3 +85,24 @@ To pin Sticky Notes using DeskPins:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-speed-minimizing-applications-via-keyboard-shortcuts/"><u>Unleash Speed: Minimizing Applications via Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hazards-of-cheap-windows-key-purchases/"><u>Navigating the Hazards of Cheap Windows Key Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-epic-games-sign-in-on-pc/"><u>Efficiently Tackling Epic Games Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-tiktoks-best-and-secret-emojis-guide/"><u>2024 Approved  Mastering TikTok's Best & Secret Emojis Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-is-active-setting-new-standards-in-screen-recording-for-2024/"><u>[New] Is Active Setting New Standards in Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leading-tools-for-extracting-fb-videos-top-5/"><u>[New] 2024 Approved  Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-innovative-sound-editing-top-4-applications-redefining-music-production-on-mac/"><u>In 2024, Innovative Sound Editing - Top 4 Applications Redefining Music Production on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-use-filmora-slideshow-maker-for-making-slideshow-what-is-slideshow-filmora-know-the-steps-to-make-filmora-slideshow-what-are-steps-to/"><u>Updated In 2024, How to Use Filmora Slideshow Maker for Making Slideshow? What Is Slideshow Filmora? Know the Steps to Make Filmora Slideshow. What Are Steps to Make Filmora Slideshow Template?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-fcpx-essentials-how-to-achieve-silky-smooth-video-playback/"><u>Updated 2024 Approved FCPX Essentials How to Achieve Silky Smooth Video Playback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>[New] In 2024, Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-tools-for-customizable-screenshot-capabilities/"><u>Leading Tools for Customizable Screenshot Capabilities</u></a></li>
+</ul></div>

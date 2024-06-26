@@ -1,7 +1,7 @@
 ---
 title: How-To Guide for Installing Windows 11 ARM via ISO Download
-date: 2024-06-21 23:43:56
-updated: 2024-06-24 12:10:50
+date: 2024-06-25T16:44:40.104Z
+updated: 2024-06-26T16:44:40.104Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
  Like its predecessor, the newest iteration of Microsoft's popular operating system can run on compatible ARM devices. However, Windows 11 now uses the new ARM64EC application binary interface (ABI) for ARM devices. It helps developers achieve native speed and makes it compatible with x64 apps and their dependencies.
 
- Microsoft explains in detail[ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
+ Microsoft explains in detail [ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
 
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
 ## How to Download Windows 11 ARM64 ISO
 
- To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to[download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to [download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 To download the Windows 11 ARM ISO:
 
-1. Go to the[UUP Dump page](https://uupdump.net/) .
+1. Go to the [UUP Dump page](https://uupdump.net/) .
 2. Type**Windows 11** in the search bar and hit**Enter** to view the search results.  
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
@@ -67,7 +67,7 @@ To download the Windows 11 ARM ISO:
 4. UUP Dump will run the script in Windows Terminal and download the necessary files. Once downloaded, the Terminal window will turn blue, indicating the ISO building process is in progress.
 5. When the prompt appears, press**0** to exit.
 
- UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
+ UUP Dump will save the ISO to your initially extracted folder. You can now use it to [create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to [create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
 ## Upgrade Your ARM-based PC to Windows 11
 
@@ -87,3 +87,26 @@ To download the Windows 11 ARM ISO:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-insufficient-access-error-on-win-11-pcs/"><u>How to Bypass Insufficient Access Error on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-upcoming-changes-with-windows-11-version-22h2/"><u>Delving Into Upcoming Changes with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-combat-gaming-induced-laptop-overheating/"><u>Steps to Combat Gaming-Induced Laptop Overheating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win10-isolating-and-fixing-unilateral-audio-malfunction/"><u>Win10: Isolating and Fixing Unilateral Audio Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-winerror-installation-fault-0xc004f050/"><u>How to Resolve WinError: Installation Fault #0XC004F050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shutdown-playbook-avoiding-windows-11-activities/"><u>The Shutdown Playbook: Avoiding Windows 11 Activities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-lowering-windows-acoustic-amplifiers/"><u>Guide to Lowering Windows Acoustic Amplifiers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-visual-verve-new-era-of-radeon/"><u>In 2024, Visual Verve  New Era of Radeon</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-screen-recording-snapshots-on-mobile/"><u>[New] Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 5 Lite FRP</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-film-your-facebook-video/"><u>[Updated] In 2024, Film Your FACEbook Video</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-zte-nubia-z60-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from ZTE Nubia Z60 Ultra Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-funhouse-finds-unveiling-the-hottest-tiktok-gaming-phenoms-for-2024/"><u>[New] Funhouse Finds  Unveiling the Hottest TikTok Gaming Phenoms for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-full-hd-on-facebook-streams/"><u>2024 Approved  Unlocking Full HD on Facebook Streams</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-sound-shakers-for-2024/"><u>The Ultimate Guide to Sound Shakers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo V29 | Dr.fone</u></a></li>
+</ul></div>

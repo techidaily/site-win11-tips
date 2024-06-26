@@ -1,7 +1,7 @@
 ---
 title: Personalize Auto-Lock & Screensaver Interval
-date: 2024-06-24 15:49:59
-updated: 2024-06-26 11:37:49
+date: 2024-06-25T17:04:43.295Z
+updated: 2024-06-26T17:04:43.295Z
 tags:
   - windows10
   - windows11
@@ -102,9 +102,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Now, let's explore how you can change the screen saver timeout settings.
 
-### Use the System Settings
-
-![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+### Use the System Settings ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
  Here's how to change the duration of the screen saver using the system settings:
 
@@ -147,9 +145,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
-### Use the Registry Editor
-
-![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+### Use the Registry Editor ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
@@ -192,3 +188,23 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-game-launch-freezes-steps-to-mend-windows-11-steam/"><u>Troubleshooting Game Launch Freezes: Steps to Mend Windows 11 Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-task-runner-error-code-0x8007000f-in-winos/"><u>Mastery over Task Runner Error Code 0X8007000f in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-screen-capture-utility-quickly/"><u>Windows 11: Accessing Screen Capture Utility Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-chrome-freeze-and-blank-screens/"><u>Fixing the Chrome Freeze and Blank Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pathways-to-launching-windows-fix/"><u>Essential Pathways to Launching Windows FIX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regenerating-system-icons-in-windows-os/"><u>Regenerating System Icons in Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-s17t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo S17t Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-14-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 14 in the Best Ways</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-comprehensive-guide-to-youtube-video-editing-tools/"><u>In 2024, Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-reviews-best-screen-recorder-software-for-google-meet/"><u>[Updated] In 2024, Expert Reviews  Best Screen Recorder Software for Google Meet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-speeding-up-tiktok-videos-made-simple/"><u>[New] Speeding Up TikTok Videos Made Simple</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-wit-crafting-memes-with-kapwing/"><u>Elevate Your Wit  Crafting Memes with Kapwing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-troubleshooting-excessive-obs-bitrate/"><u>[New] In 2024, Troubleshooting Excessive OBS Bitrate</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Setting WinTerminal's Bg Pic
-date: 2024-06-25 10:59:28
-updated: 2024-06-26 11:29:29
+date: 2024-06-25T16:46:44.813Z
+updated: 2024-06-26T16:46:44.813Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
  Manually editing settings.json is another great way to customize your Windows Terminal background image. For this, you need to open the settings.json file in any text editor, such as Notepad. Here's how to do it:
 
-1. Open Windows File Explorer (see our guide on[how to open File Explorer on a Windows PC](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see our guide on [how to open File Explorer on a Windows PC](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. Once you're in File Explorer, navigate to your**C:** drive and select the**Users** folder.
 3. Locate your**username** in this folder, then open the**AppData** folder and the**Local** folder.
 4. In the Local folder, find and open the**Packages** folder.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
- You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
+ You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to [customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 ## Set a New Background Image for Windows Terminal
 
@@ -110,3 +110,27 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-cleaning-up-the-icon-cache/"><u>Best Practices for Cleaning Up the Icon Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-window-shifts-gone-but-not-forgotten/"><u>6 Window Shifts: Gone But Not Forgotten</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-render-vintage-videos-with-windows-madvr/"><u>Revamp and Render Vintage Videos with Windows MadVR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-experience-settings-retrieval-issues/"><u>Overcoming GeForce Experience Settings Retrieval Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11s-code-0x0000004e-hurdle/"><u>Addressing Windows 11'S Code 0X0000004E Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-decades-old-windows-authentication-error/"><u>Reversing Decades-Old Windows Authentication Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-way-to-unlink-wi-fi-on-windows-11/"><u>Efficient Way to Unlink Wi-Fi on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chilly-cheer-christmas-presents-with-microsofts-marketplace/"><u>Chilly Cheer: Christmas Presents with Microsoft's Marketplace</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-every-aspect-of-vitas-complete-editing-app/"><u>Exploring Every Aspect of Vita's Complete Editing App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixiz-workshop-the-art-of-photo-video-synthesis/"><u>In 2024, Pixiz Workshop  The Art of Photo Video Synthesis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleash-peak-potential-in-discords-auditory-realm-with-top-tier-bot-aids/"><u>[New] In 2024, Unleash Peak Potential in Discord's Auditory Realm with Top-Tier Bot Aids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-class-top-online-aids-for-improving-media-captions-quality/"><u>In 2024, Master Class  Top Online Aids for Improving Media Captions' Quality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlocking-compressors-power-in-final-cut-pro-x/"><u>Updated 2024 Approved Unlocking Compressors Power in Final Cut Pro X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-turning-onoff-comments-with-ease-on-youtube-platform/"><u>2024 Approved  Turning On/Off Comments with Ease on YouTube Platform</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-pixel-percussion-finding-sound-cues-from-button-presses/"><u>Updated Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-audio-the-best-cam-mics/"><u>In 2024, Perfecting Audio  The Best Cam Mics</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mastering-the-art-of-audio-volume-transition/"><u>Updated In 2024, Mastering the Art of Audio Volume Transition</u></a></li>
+</ul></div>

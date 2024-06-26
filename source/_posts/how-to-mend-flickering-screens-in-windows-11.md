@@ -1,7 +1,7 @@
 ---
 title: How to Mend Flickering Screens in Windows 11
-date: 2024-06-22 15:55:25
-updated: 2024-06-24 12:28:56
+date: 2024-06-25T17:05:21.923Z
+updated: 2024-06-26T17:05:21.923Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  A monitor's refresh rate is the speed at which the screen updates the image per second, measured in hertz (Hz). Basic monitors can usually only handle a 60Hz refresh rate, while more advanced ones—typically aimed at gamers—can go to 360Hz and beyond.
 
- It's important that you[set a suitable refresh rate for your monitor](https://www.makeuseof.com/tag/60hz-vs-144hz/) . Sometimes a monitor manufacturer will support an overclocked refresh rate, but this can cause screen flickering.
+ It's important that you [set a suitable refresh rate for your monitor](https://www.makeuseof.com/tag/60hz-vs-144hz/) . Sometimes a monitor manufacturer will support an overclocked refresh rate, but this can cause screen flickering.
 
 To adjust your refresh rate:
 
@@ -80,17 +80,17 @@ Next, use Device Manager to uninstall the display driver:
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
 4. Restart your system again.
 
- Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
+ Alternatively, you can use third-party software [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
 ### Step 2: Install a New Driver
 
- You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
+ You now want to [install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
 
 1. Press**Windows Key + I** to open Settings.
 2. Click**Update & Security** (Windows 10) or**Windows Update** (Windows 11).
 3. Click**Check for updates** .
 
- Alternatively, you can go to your graphics card manufacturer's website (likely[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) ) and manually download the driver from there.
+ Alternatively, you can go to your graphics card manufacturer's website (likely [AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or [Intel](https://downloadcenter.intel.com/product/80939/Graphics) ) and manually download the driver from there.
 
  Download the driver, install it, and see if the screen flashing problem has ceased.
 
@@ -98,7 +98,7 @@ Next, use Device Manager to uninstall the display driver:
 
  If the problem continues, it might be that the newest driver hasn't patched the problem. If the screen flickering occurred after a driver update, try rolling back to an older version.
 
- Follow the steps above to uninstall the driver, then head to the old driver page for either[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
+ Follow the steps above to uninstall the driver, then head to the old driver page for either [AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or [Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
 
 ## 4\. Reseat Your Graphics Card
 
@@ -127,7 +127,7 @@ If this doesn't work, uninstall the program. To do so:
 
 ## 6\. Create a New Windows User Profile
 
- How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
+ How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by [creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
 
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
 
@@ -158,3 +158,23 @@ To create a new account:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-efficient-qr-codes-on-windows-systems/"><u>Unlocking Secrets: Efficient QR Codes on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-roblox-error-262-instantly/"><u>Overcoming Roblox Error 262 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-updater-error-code-0xca00a009/"><u>Addressing Windows Updater Error Code: 0XCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-domain-based-biometric-use-in-windows-11/"><u>Tailoring Domain-Based Biometric Use in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-1011-photography-setup/"><u>Streamlining Windows 10/11 Photography Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-film-unveiling-series/"><u>Prime Film Unveiling Series</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y56-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y56 5G? Try These Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-impact-setting-techniques-for-live-media/"><u>[New] High-Impact Setting Techniques for Live Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-for-power-users-expert-whatsapp-techniques/"><u>2024 Approved  Pro Tips for Power Users  Expert WhatsApp Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-precision-listening-top-audio-customization-techniques-for-2024/"><u>New Precision Listening Top Audio Customization Techniques for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic 5 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/visual-narrative-weaver/"><u>Visual Narrative Weaver</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-effortless-video-editing-a-guide-to-speeding-up-and-slowing-down-in-camtasia/"><u>New 2024 Approved Effortless Video Editing A Guide to Speeding Up and Slowing Down in Camtasia</u></a></li>
+</ul></div>

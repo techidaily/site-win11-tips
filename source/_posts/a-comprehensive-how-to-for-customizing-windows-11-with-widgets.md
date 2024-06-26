@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive How-To for Customizing Windows 11 with Widgets
-date: 2024-06-24 13:39:38
-updated: 2024-06-26 10:21:31
+date: 2024-06-25T16:18:15.141Z
+updated: 2024-06-26T16:18:15.141Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  Widget Launcher is available on the Microsoft Store. If you haven't explored it before,[the Microsoft Store has plenty of award-winning and innovative apps](https://www.makeuseof.com/microsoft-store-award-winning-apps-customize/) . For the time being, we'll use it to download Widget Launcher.
 
- If Microsoft Store is up and running on your PC, you should be able to download the app via[the Widget Launcher page on the Microsoft Store](https://apps.microsoft.com/store/detail/widget-launcher/9WZDNCRDQFBT?hl=en-gb&gl=gb&rtc=1) . Just click**Get in Store app** and Windows will handle the rest.
+ If Microsoft Store is up and running on your PC, you should be able to download the app via [the Widget Launcher page on the Microsoft Store](https://apps.microsoft.com/store/detail/widget-launcher/9WZDNCRDQFBT?hl=en-gb&gl=gb&rtc=1) . Just click**Get in Store app** and Windows will handle the rest.
 
  Otherwise, press**Win + S** to open Windows Search and type**store** in the search box. Under**Best match** in the search results, click on**Microsoft Store** to launch the app. Search for**widget launcher** and install the app that appears.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
 
- In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
+ In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can [disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
 
@@ -83,3 +83,26 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-your-way-to-system32-win11/"><u>Discovering Your Way to System32 (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-explorer-onedrive-as-a-launchpad/"><u>Mastering File Explorer: OneDrive as a Launchpad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-xbox-game-pass-error-0x000-on-windows-11-systems/"><u>Understanding and Correcting Xbox Game Pass Error 0X000_ on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-normalcy-windows-11s-basic-user-reset-guide/"><u>Unleashing Normalcy: Windows 11'S Basic User Reset Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-platform-android-entertainment-in-windows-11-via-play-services/"><u>Cross-Platform Android Entertainment in Windows 11 via Play Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-not-responding-problem-for-spotify-software/"><u>Resolving the Not Responding Problem for Spotify Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-faded-bios-boot-options/"><u>Remedy for Faded BIOS Boot Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>[New] In 2024, Capture YouTube Live  A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y56-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y56 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-gif-creation-best-tools-reviewed-and-compared/"><u>[Updated] Essential GIF Creation  Best Tools Reviewed & Compared</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-superior-zero-price-switch-emulators-for-2024/"><u>[New] Superior Zero Price Switch Emulators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-download-virtualdub-mpeg2-modded-version-and-follow-this-article-to-learn-how-to-use-virtualdub-mpeg2-to-compress-large-mpeg2-videos-easily-an/"><u>2024 Approved Download VirtualDub MPEG2 Modded Version and Follow This Article to Learn How to Use VirtualDub MPEG2 to Compress Large MPEG2 Videos Easily and Fast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video-for-2024/"><u>Nailing the Perfect Capture  Mac Tips for Screencasting Streamed Video for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together-for-2024/"><u>[Updated] The Ultimate Harvest Hangout  Top 10 Agri-Games to Enjoy Together for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition-for-2024/"><u>Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-comparative-study-of-youtubes-and-dailymentions-for-2024/"><u>[New] Comparative Study of YouTubes and DailyMentions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-convert-facebook-to-mp4-hack-for-quick-access/"><u>[New] Convert Facebook to MP4 – Hack for Quick Access</u></a></li>
+</ul></div>

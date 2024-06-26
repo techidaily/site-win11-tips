@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Update Files Are Missing Error 0X80070003 on Windows
-date: 2024-06-22 22:39:58
-updated: 2024-06-24 12:43:17
+date: 2024-06-25T16:52:49.722Z
+updated: 2024-06-26T16:52:49.722Z
 tags:
   - windows10
   - windows11
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 Here is all that you need to do:
 
-1. Open Command Prompt as an administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Open Command Prompt as an administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. Click**Yes** in the User Account Control prompt.
 3. In the Command Prompt window, type the command mentioned below and hit**Enter** .  
 `sfc /scannow`  
@@ -72,17 +72,17 @@ Here is all that you need to do:
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
- While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
+ While you are at it, you can also [run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
 ## 3\. Repair the Update Components
 
  As we mentioned earlier, the update components can also deal with some kind of corruption, leading to the problem under discussion.
 
- The good news is that repairing these components is quite simple, and we will also use the Command Prompt in this method. We recommend[creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed. This will help you revert to the current system state in case something goes wrong during the execution of the method.
+ The good news is that repairing these components is quite simple, and we will also use the Command Prompt in this method. We recommend [creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed. This will help you revert to the current system state in case something goes wrong during the execution of the method.
 
 Once the restore point is created, follow these steps:
 
-1. Open a Run dialog box (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) to learn how).
+1. Open a Run dialog box (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) to learn how).
 2. Type cmd in the text field of Run and press Ctrl + Shift + Enter to open Command Prompt as an administrator.
 3. Click**Yes** in the User Account Control prompt.
 4. Once you are inside the Command Prompt, execute the commands below one by one:  
@@ -123,3 +123,26 @@ net start appidsvc`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-windows-11s-stealthy-taskbar-spotlight/"><u>Triggering Windows 11'S Stealthy Taskbar Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-s-mode-imply-in-windows-11-upgrade/"><u>What Does 'S Mode' Imply in Windows 11 Upgrade?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-remedies-to-immediate-addition-problems-for-your-onedrive-drive/"><u>Efficient Remedies to Immediate Addition Problems for Your OneDrive Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-a-halted-warcraft-update-sequence/"><u>Navigating a Halted Warcraft Update Sequence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-data-exchange-safeguarding-files-across-ws11w10/"><u>Silent Data Exchange: Safeguarding Files Across WS11/W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-techniques-transform-mkv-videos-into-windows-mp4-files/"><u>Simple Techniques: Transform MKV Videos Into Windows MP4 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-windows-camera-problems-with-expert-tips/"><u>Tackle Windows Camera Problems with Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skillful-stylization-efficiently-tap-into-windows-paints-features/"><u>[New] Skillful Stylization  Efficiently Tap Into Windows Paint's Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-integrating-youtube-videos-into-your-instagram-story/"><u>[Updated] 2024 Approved  Integrating YouTube Videos Into Your Instagram Story</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laugh-out-loud-a-step-by-step-meme-building/"><u>In 2024, Laugh Out Loud  A Step-by-Step Meme Building</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantaneous-pro-thumbnail-creation-valorant-edition/"><u>2024 Approved  Instantaneous Pro Thumbnail Creation - Valorant Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-v11-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for PDF v1.1 document</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-insights-fifa-content-on-youtube-charted/"><u>[New] Key Insights  FIFA Content on YouTube Charted</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-spark-20-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Spark 20 PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-is-rapid-subscription-truly-effective-for-youtube-users/"><u>[Updated] Is Rapid Subscription Truly Effective for YouTube Users?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/select-top-6-apps-for-creating-impressive-photo-shows/"><u>Select Top 6 Apps for Creating Impressive Photo Shows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Correcting Non-Loading Messages in Windows Discord Client
-date: 2024-06-24 16:32:22
-updated: 2024-06-25 12:46:51
+date: 2024-06-25T17:09:41.203Z
+updated: 2024-06-26T17:09:41.203Z
 tags:
   - windows10
   - windows11
@@ -20,21 +20,17 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  In this article, we will demonstrate how to troubleshoot the error and make your messages accessible again.
 
-## 1\. Make Sure Discord Isn't Down
+## 1\. Make Sure Discord Isn't Down ![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
 
-![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
-
- Before you start tweaking any settings, ensure Discord isn't down first. Check the[Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
+ Before you start tweaking any settings, ensure Discord isn't down first. Check the [Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
-## 2\. Rule Out Any Internet Issues
-
-![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
+## 2\. Rule Out Any Internet Issues ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
 
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
- If other apps are not loading correctly and the issue is consistent throughout the operating system, then the internet is to blame. In that case, we recommend checking out our guide on[fixing network access issues when connected to Wi-Fi on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
+ If other apps are not loading correctly and the issue is consistent throughout the operating system, then the internet is to blame. In that case, we recommend checking out our guide on [fixing network access issues when connected to Wi-Fi on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
 
@@ -42,9 +38,7 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
 
-## 4\. Switch Your Network Connection
-
-![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
+## 4\. Switch Your Network Connection ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
 
@@ -85,13 +79,11 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  Unfortunately, the API ban is based on your IP address, not your account. As such, making a new account won't get around the ban.
 
-## 9\. Enable or Disable a VPN
-
-![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
+## 9\. Enable or Disable a VPN ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
 
  If you encounter the error when accessing Discord for the first time from a new location, Discord might be blocked in that area. Likewise, you may encounter the error under discussion if your IP address is banned by Discord.
 
- To test for this, boot up a VPN. There are plenty of[totally free VPNs](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) you can download, and once you turn it on, any connections you make will see your VPN's IP address instead of your own. This will let you surpass any IP blocking in place.
+ To test for this, boot up a VPN. There are plenty of [totally free VPNs](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) you can download, and once you turn it on, any connections you make will see your VPN's IP address instead of your own. This will let you surpass any IP blocking in place.
 
  If you're using Discord while you have a VPN enabled and you get this error, the IP assigned by the VPN might have been blocked by Discord. Therefore, temporarily disable the VPN to resolve the issue. You could also try connecting to other servers via your VPN and see if any of them work better.
 
@@ -116,17 +108,15 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
-## 12\. Switch to a Different Discord Client
-
-![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
+## 12\. Switch to a Different Discord Client ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
- To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should[uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try[clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
+ To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should [uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try [clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
 
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
- If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the[Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to[Discord via Twitter](https://twitter.com/discord) .
+ If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the [Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to [Discord via Twitter](https://twitter.com/discord) .
 
 ## "Messages Fail to Load" Error, Fixed
 
@@ -148,3 +138,26 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-save-windows-spotlight-pictures-to-use-as-wallpapers-when-you-want/"><u>How to Save Windows Spotlight Pictures to Use as Wallpapers When You Want</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-failure-windows-update-issue-code-0x80242016/"><u>Avoid Failure: Windows Update Issue Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-management-features-for-maximum-efficiency/"><u>Unlocking Power Management Features for Maximum Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-create-high-quality-audio-cds-from-mp3-files-using-imgburn-windows/"><u>Easy Pathway to Create High Quality Audio Cds From MP3 Files Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-smart-adjustments-color-control-in-win11-apps/"><u>Enabling Smart Adjustments: Color Control in Win11 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-ms-defenders-restrictions-for-additional-virus-protection/"><u>Bypassing MS Defender's Restrictions for Additional Virus Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proarts-pa-329q-monitor-a-critical-look-at-its-4k-performance/"><u>ProArt's PA 329Q Monitor  A Critical Look at Its 4K Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stealth-sharpening-hiding-background-details/"><u>[Updated] Stealth Sharpening  Hiding Background Details</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-splitcam-review-does-it-reign-supreme-in-video-tech-for-2024/"><u>[New] SplitCam Review  Does It Reign Supreme in Video Tech for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-9-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 9 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-s17e-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo S17e Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-youtube-like-gbv-snippets-on-fb/"><u>[Updated] Top 5 YouTube-Like GBV Snippets on FB</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>

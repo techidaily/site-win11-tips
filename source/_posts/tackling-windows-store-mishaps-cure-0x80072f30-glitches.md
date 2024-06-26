@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows Store Mishaps: Cure 0X80072F30 Glitches"
-date: 2024-06-23 18:11:44
-updated: 2024-06-26 10:14:43
+date: 2024-06-25T16:48:39.426Z
+updated: 2024-06-26T16:48:39.426Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
 
-1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e[ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
+1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
+5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the [World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
 7. Also, make sure the time zone is set right by disabling the**Set time zone automatically** option and choosing an option on the**Time Zone** drop-down menu.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ## 5\. Turn Off Any Active Proxy Server Settings
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
 
  Even if you’re positive you’ve never enabled such a feature, check the proxy server setting like this:
 
@@ -137,3 +137,24 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/direct-user-name-changes-for-w11-enthusiasts/"><u>Direct User Name Changes for W11 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ten-clear-indicators-of-pc-needs-a-factory-start/"><u>Ten Clear Indicators of PC Needs a Factory Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-compatibility-tips-synapse-reinstatement-guide/"><u>Win Compatibility Tips: Synapse Reinstatement Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-technical-exploration-of-high-dynamic-range-on-windows-11-platforms/"><u>The Technical Exploration of High Dynamic Range on Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-best-practices-for-ping-commands/"><u>Understanding Windows: Best Practices for Ping Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-software-aid-the-best-windows-apps-that-facilitate-mac-switch/"><u>Crucial Software Aid: The Best Windows Apps That Facilitate MAC Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-steps-to-wipe-your-drives-partitions-in-windows/"><u>4 Easy Steps to Wipe Your Drive's Partitions in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-apowersoft-picks-unveiling-the-best-for-pc-screen-recorders/"><u>In 2024, Apowersoft Picks  Unveiling the Best for PC Screen Recorders</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb Online with DigiSigner</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-efficient-methods-for-nvidia-screen-recording/"><u>2024 Approved  Efficient Methods for NVIDIA Screen Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-exclusive-list-best-free-videos-for-pc-macos/"><u>2024 Approved  Exclusive List  Best Free Videos for PC, MacOS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-compreehing-and-engaging-with-your-twitter-archive/"><u>2024 Approved  Compreehing & Engaging with Your Twitter Archive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/televising-facebook-video-content-a-possibility-for-2024/"><u>Televising Facebook Video Content  A Possibility  for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-editing-on-windows-microsoft-video-editor-review/"><u>Effortless Video Editing on Windows Microsoft Video Editor Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-e13-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto E13</u></a></li>
+</ul></div>

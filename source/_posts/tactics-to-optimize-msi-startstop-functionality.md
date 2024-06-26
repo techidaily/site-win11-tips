@@ -1,7 +1,7 @@
 ---
 title: Tactics to Optimize MSI Start/Stop Functionality
-date: 2024-06-24 16:47:23
-updated: 2024-06-25 11:50:50
+date: 2024-06-25T16:44:08.099Z
+updated: 2024-06-26T16:44:08.099Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
 ## 2\. Use Local Group Policy Editor
 
- You can also use the group policy editor to enable or disable the Windows Installer service on your Windows computer system. However, it is important to note that this tool only works on Windows Pro and Enterprise editions. Therefore, if you are using Windows Home Edition, you must first[activate the Local Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
+ You can also use the group policy editor to enable or disable the Windows Installer service on your Windows computer system. However, it is important to note that this tool only works on Windows Pro and Enterprise editions. Therefore, if you are using Windows Home Edition, you must first [activate the Local Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
 
  To disable the service using the group policy editor, do the following:
 
-1. Click on Start and type in**gpedit.msc** , then press**Enter** to[launch the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) .
+1. Click on Start and type in**gpedit.msc** , then press**Enter** to [launch the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) .
 2. On the left side of the window, navigate to the path:  
 `Computer Configuration > Administrative Templates > Windows Components > Windows Installer`
 3. Now move to the right and double-click on the policy named**Turn off Windows Installer** .  
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
 
  To enable or disable this service using Registry Editor, follow these steps:
 
-1. Press**Win + X** , type**regedit** , and press**Enter** to launch the Registry Editor. To learn more, see our guide on how to[open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Press**Win + X** , type**regedit** , and press**Enter** to launch the Registry Editor. To learn more, see our guide on how to [open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 2. If prompted with a UAC warning, click**Yes** to continue.
 3. Now once you're in, navigate to the following path:  
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\msiserver`
@@ -89,3 +89,23 @@ thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unraveling-ftdibussys-its-impact-on-windows-memory-protocols/"><u>Unraveling ftdibus.sys: Its Impact on Windows Memory Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-for-quake-via-windows-terminal/"><u>Command Line for Quake via Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stronger-defense-through-longer-passcodes-windows-11-and-11-tips/"><u>Stronger Defense Through Longer Passcodes: Windows 11 and 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-navigate-windows-system-restore-functions/"><u>Simplified Steps to Navigate Windows' System Restore Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-11-with-these-top-6-android-apps/"><u>Elevate Your Windows 11 with These Top 6 Android Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-directdraw-faults-on-windows-oses/"><u>Steps to Eliminate DirectDraw Faults on Windows OSes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-6-pure-android-screen-recorder-selections-no-ads/"><u>[New] 6 Pure Android Screen Recorder Selections (No Ads)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-honor-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Honor Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/budget-friendly-top-7-tiktok-edits-for-macos-for-2024/"><u>Budget-Friendly Top 7 TikTok Edits for MacOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-iphone-sound-archive-voice-memo-tips-and-tricks/"><u>[New] 2024 Approved  IPhone Sound Archive  Voice Memo Tips & Tricks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-cutting-edge-mp3-editing-solutions-for-mac-a-comprehensive-review-of-leading-cutter-tools/"><u>New 2024 Approved Cutting-Edge MP3 Editing Solutions for Mac A Comprehensive Review of Leading Cutter Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-and-paid-android-video-editors-for-2024/"><u>New Top-Rated Free and Paid Android Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-guide-to-free-you-from-youtubes-extra-bar-width/"><u>[Updated] 2024 Approved  A Guide to Free You From YouTube's Extra Bar Width</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ranking-the-10-most-effective-screen-recorders-for-2024/"><u>Ranking the 10 Most Effective Screen Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb/"><u>[Updated] Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB</u></a></li>
+</ul></div>

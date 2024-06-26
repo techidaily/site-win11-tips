@@ -1,7 +1,7 @@
 ---
 title: How to Enable Dark Mode in Notepad on Windows 10 & 11
-date: 2024-06-24 10:27:16
-updated: 2024-06-25 10:50:21
+date: 2024-06-25T17:00:55.571Z
+updated: 2024-06-26T17:00:55.571Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 
 ## How to Enable Dark Mode in Notepad on Windows 10
 
- If you're unsure about this feature, read our guide on[what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
+ If you're unsure about this feature, read our guide on [what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
 
  The simplest way of enabling dark mode in Notepad on Windows 10 is by modifying the Ease of Access settings in the Settings app. If you do not wish to enable that feature, then you can download a similar third-party application using the Microsoft Store.
 
@@ -50,7 +50,7 @@ Here is how you can enable it:
 
  As we mentioned earlier, the high contrast feature might not be for everyone. If you do not want to enable it, then you can download a third-party alternative using the Microsoft Store.
 
- The most popular option is the[Black Notepad app](https://apps.microsoft.com/store/detail/black-notepad/9P20VW17VMPK?hl=en-us&gl=US) , whose functionality is almost similar to that of the default notepad in Windows. It is available for free in the Microsoft Store, so you can download and start using it in no time.
+ The most popular option is the [Black Notepad app](https://apps.microsoft.com/store/detail/black-notepad/9P20VW17VMPK?hl=en-us&gl=US) , whose functionality is almost similar to that of the default notepad in Windows. It is available for free in the Microsoft Store, so you can download and start using it in no time.
 
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
@@ -64,7 +64,7 @@ Here is how you can enable it:
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
- The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
+ The new Windows operating system also allows users to [enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
 
 ### 1\. Use the Settings App
 
@@ -94,7 +94,7 @@ Follow these steps to proceed:
 
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
- To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
+ To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our [guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
 
 ## How to Enable Dark Theme in Notepad++
 
@@ -133,3 +133,26 @@ Follow these steps to proceed:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-modifying-windows-passcode/"><u>Quick Tips for Modifying Windows Passcode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-skip-out-of-s-mode-with-ease-for-your-pc/"><u>Swiftly Skip Out of S Mode with Ease for Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-lockout-duration-after-failed-logon-attempts-in-windows-11-and-11/"><u>How to Change Lockout Duration After Failed Logon Attempts in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073d26/"><u>Troubleshooting Microsoft Store Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-fix-java-non-installation-in-windows/"><u>Approaches to Fix Java Non-Installation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-6-most-reliable-brightness-tools-for-windows-multi-display-users/"><u>The 6 Most Reliable Brightness Tools For Windows Multi-Display Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-utorrent-install-issues-on-a-windows-laptop/"><u>Navigating uTorrent Install Issues on a Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-edthemes-in-windows-11/"><u>Implementing EdThemes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-apps-to-increase-the-volume-beyond-100-percent-in-windows/"><u>4 Apps to Increase the Volume Beyond 100 Percent in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-and-create-chrome-oss-10-best-sketches-tools-for-2024/"><u>Innovate and Create  Chrome OS's 10 Best Sketches Tools for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-reworking-your-online-identity-comprehensive-tiktok-username-change-protocols/"><u>In 2024, Reworking Your Online Identity  Comprehensive TikTok Username Change Protocols</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 12</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-new-directors-toolkit-15-basic-cinematography-movements/"><u>In 2024, The New Director’s Toolkit  15 Basic Cinematography Movements</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-art-of-social-media-convergence-tiktok-facebook-linking-for-2024/"><u>[New] Mastering the Art of Social Media Convergence  TikTok-Facebook Linking for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-image-capture-with-ios-11-updates/"><u>[New] Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tips-for-superior-sound-recordings-without-a-microphone/"><u>In 2024, Tips for Superior Sound Recordings Without a Microphone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-brighten-up-best-video-editing-apps-for-mobile-devices-for-2024/"><u>Updated Brighten Up Best Video Editing Apps for Mobile Devices for 2024</u></a></li>
+</ul></div>

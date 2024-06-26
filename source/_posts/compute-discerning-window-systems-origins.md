@@ -1,7 +1,7 @@
 ---
 title: "Compute: Discerning Window Systems' Origins"
-date: 2024-06-22 11:58:29
-updated: 2024-06-24 12:19:21
+date: 2024-06-25T16:32:48.879Z
+updated: 2024-06-26T16:32:48.879Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
  One way to check your computer's age is if you have the original packaging. The packing often includes a sticker with manufacturing details. If the original packing or the bill is not available, here is how you can find the manufacturing date and other critical details of your computer.
 
-## 1\. Use the Serial Number to Check the Warranty Status
-
-![HP warranty status details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-warranty-status-details.jpg)
+## 1\. Use the Serial Number to Check the Warranty Status ![HP warranty status details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-warranty-status-details.jpg)
 
  Windows laptops often come with their serial numbers and other manufacturing details like Made, Product ID, and model number imprinted on the back panel. Each laptop features a unique serial identifier.
 
@@ -39,9 +37,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
  While this is not a tamper-proof mechanism, in most cases, the warranty details are sufficient to determine the age and value of a Windows laptop.
 
-## 2\. Check the Serial Number Using the Command Prompt
-
-![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
+## 2\. Check the Serial Number Using the Command Prompt ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
 
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
 
@@ -53,9 +49,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
-## 3\. Check the BIOS Version Using the System Information Utility
-
-![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
+## 3\. Check the BIOS Version Using the System Information Utility ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -75,9 +69,7 @@ systeminfo.exe
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
-## 4\. Check the Windows Installation Method Using the Command Prompt
-
-![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
+## 4\. Check the Windows Installation Method Using the Command Prompt ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
@@ -87,17 +79,13 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
-## 5\. Check Your CPU Details
-
-![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
+## 5\. Check Your CPU Details ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
 
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
-## 6\. Use the OEM Tool to Detect the Laptop's Age
-
-![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
+## 6\. Use the OEM Tool to Detect the Laptop's Age ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
@@ -130,3 +118,23 @@ systeminfo | find /I "install date"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-with-these-8-innovative-personalization-steps-from-bubbleui/"><u>Elevate Your Desktop with These 8 Innovative Personalization Steps From BubbleUI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-clearing-windowss-prior-passcode/"><u>Winning Back Access: Clearing “Windows's Prior Passcode”</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disabled-internet-router-configuration/"><u>Fixing Disabled Internet Router Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-windows-users-from-changing-the-date-and-time/"><u>How to Stop Windows Users From Changing the Date and Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-communication-making-calls-on-windows-11-with-unison-app/"><u>Elevate Communication: Making Calls on Windows 11 with Unison App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-guide-to-acquiring-jolly-sound-tracks-and-cues/"><u>2024 Approved Guide to Acquiring Jolly Sound Tracks and Cues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-the-power-of-slow-motion-free-video-editing-software-filmora/"><u>Updated Unlock the Power of Slow Motion Free Video Editing Software - Filmora</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/streamline-your-social-media-mastering-automatic-video-playback/"><u>Streamline Your Social Media  Mastering Automatic Video Playback</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x90s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X90S to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-instagrams-magnifying-functions/"><u>[New] In 2024, The Ultimate Guide to Instagram's Magnifying Functions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-razer-kiyo-webcam-detailed-review/"><u>[New] 2024 Approved  Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-startup-to-stardom-with-youtube-seo-basics-for-2024/"><u>[Updated] From Startup to Stardom with YouTube SEO Basics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-igniting-online-trends-crafting-viral-facebook-posts/"><u>In 2024, Igniting Online Trends  Crafting Viral Facebook Posts</u></a></li>
+</ul></div>

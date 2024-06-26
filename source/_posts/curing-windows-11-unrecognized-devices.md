@@ -1,7 +1,7 @@
 ---
 title: Curing Windows 11 Unrecognized Devices
-date: 2024-06-21 17:36:15
-updated: 2024-06-24 10:39:17
+date: 2024-06-25T16:29:11.714Z
+updated: 2024-06-26T16:29:11.714Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 ## 1\. Try the Basic Repairs
 
- The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
+ The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to [restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
 
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
@@ -50,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
-## 3\. Use the Hardware and Devices Troubleshooter
-
-![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+## 3\. Use the Hardware and Devices Troubleshooter ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -67,7 +65,7 @@ Here's how to use the Hardware and Devices troubleshooter:
 
 ## 4\. Disable Fast Startup
 
- Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
+ Windows has a [fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
 
  So, try disabling this feature and check if it makes any difference. Here's how:
 
@@ -141,3 +139,24 @@ Next, restart your computer and check for the problem.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-insufficient-ram-issues-on-windowsvmware-platforms/"><u>Addressing Insufficient RAM Issues on Windows/VmWare Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-gmaps-integration-process-in-windows/"><u>Navigating the GMaps Integration Process in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-cpu-and-gpu-for-smooth-online-engagement/"><u>Balancing CPU and GPU for Smooth Online Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-third-party-vendors-from-defender-constraints/"><u>Unshackling Third-Party Vendors From Defender Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-dism-failure-0x800f082f/"><u>Mastering the Art of Rectifying DISM Failure: 0X800F082F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-internal-rdp-problems-on-windows-os/"><u>Eliminating Internal RDP Problems on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/impact-analysis-removal-of-windows-11-taskbars-chatting-function/"><u>Impact Analysis: Removal of Windows 11 Taskbar's Chatting Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-3-windows-group-policy-approaches/"><u>Navigating 3 Windows Group Policy Approaches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-prime-choices-of-drones-up-for-grabs/"><u>2024 Approved  Prime Choices of Drones Up for Grabs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid-for-2024/"><u>[Updated] Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-no-download-necessary-youtube-to-gif-conversion-made-easy/"><u>2024 Approved  No Download Necessary  YouTube-to-GIF Conversion Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-most-memorable-2022-ice-sculpture-moves/"><u>[Updated] In 2024, The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g04-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G04</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-morphvox-modification-handbook-for-2024/"><u>Comprehensive MorphVOX Modification Handbook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-powerdirector/"><u>2024 Approved  The Ultimate Guide to Mastering PowerDirector</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>Updated Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-6s-plus-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 6s Plus The Right Way</u></a></li>
+</ul></div>

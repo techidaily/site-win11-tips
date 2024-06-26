@@ -1,7 +1,7 @@
 ---
 title: "Navigating Comics: An Intuitive Approach for Win11 Users"
-date: 2024-06-22 14:18:16
-updated: 2024-06-24 10:50:37
+date: 2024-06-25T16:51:10.629Z
+updated: 2024-06-26T16:51:10.629Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ## First, Download Some Comics
 
- Firstly, download a few comic books to open and read in YACReader and Cover. The[GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
+ Firstly, download a few comic books to open and read in YACReader and Cover. The [GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
 
 ![The Download Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download-now-button.jpg)
 
- There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our[best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
+ There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our [best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
 
  When you’ve downloaded comics, it’s a good idea to set up a new, empty folder to store them. Right-click the desktop area of Windows 11 and select the**New** \>**Folder** options. Then input Comic Books for the directory’s title. Move your downloaded comics into that folder by dragging and dropping their files within File Explorer.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
 
-1. Open the[Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
+1. Open the [Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
 2. Press Cover’s**Get in Store** app button.
 3. Select the**Open Microsoft Store** option.
 4. Click**Get** to download and install Cover.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  YACReader is a good alternative freeware comic reader to Cover for Windows platforms dating back to Vista. Unlike Cover, YACReader doesn’t restrict you to a 25-comic library. It also incorporates some nice unique features. This is how you can open up comics with YACReader:
 
-1. Open the**Download** page on the[YACReader website](https://www.yacreader.com/) .
+1. Open the**Download** page on the [YACReader website](https://www.yacreader.com/) .
 2. Press the**Download YACReader** button.
 3. Select the File Explorer shortcut on the Windows taskbar.
 4. Open the folder your browser downloaded YACReader’s installer to, and double-click the**YACReader-v9.10.0.2210304-winx64-7z-qt6.exe** file.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ## How to Read Comics in Your Web Browser
 
- You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the[best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
+ You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the [best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
 
 * [Read Comic Online](https://readcomiconline.li/)
 * GetComics (linked above)
@@ -127,3 +127,24 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/preventing-dual-camera-access-in-windows-apps/"><u>Preventing Dual Camera Access in Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-windows-11s-enhanced-bar/"><u>Make the Most of Windows 11'S Enhanced Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-popular-rainmeter-problems-in-windows-systems/"><u>Troubleshooting Popular Rainmeter Problems in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-amd-installer-crash-in-windows/"><u>Quick Fixes for the AMD Installer Crash in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/icon-position-correction-made-simple/"><u>Icon Position Correction Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-view-this-file-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to View This File” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-protection-top-rated-windows-encryption-programs-153-chars/"><u>Prime Protection: Top-Rated Windows Encryption Programs (153 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-format-missing-error-on-pc-windows/"><u>Overcoming 'Format Missing' Error on PC Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-choice-avi-player-with-multiplatform-support-for-2024/"><u>Best Choice Avi Player with Multiplatform Support for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-activity-assessment-guide/"><u>Complete Activity Assessment Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-have-a-low-budget-but-want-to-create-a-filmy-appearance-of-the-video-then-read-6-ways-to-get-professional-filming-equipment-by-using-househol/"><u>Updated If You Have a Low Budget but Want to Create a Filmy Appearance of the Video, Then Read 6 Ways to Get Professional Filming Equipment by Using Household Objects</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamless-tiktok-to-high-quality-mp4-format-for-2024/"><u>Seamless TikTok to High-Quality MP4 Format for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-best-10-tiktok-video-editors-to-make-a-tiktok-video-onlinewindowspc/"><u>[New] Best 10 TikTok Video Editors to Make a TikTok Video [Online/Windows/PC]</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-voice-text-to-speech/"><u>New 2024 Approved What Is AI Voice Text to Speech?</u></a></li>
+</ul></div>

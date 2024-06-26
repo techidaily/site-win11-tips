@@ -1,7 +1,7 @@
 ---
 title: Securely Building Win11 Self-Extractables
-date: 2024-06-23 11:11:59
-updated: 2024-06-24 11:49:32
+date: 2024-06-25T17:03:51.150Z
+updated: 2024-06-26T17:03:51.150Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,9 @@ Now we can get started using IExpress Wizard:
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
- 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
+ 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to [encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
 
-1. Go to[the 7-Zip](https://www.7-zip.org/download.html) download page.
+1. Go to [the 7-Zip](https://www.7-zip.org/download.html) download page.
 2. Install Z-Zip on your PC.
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.
@@ -114,3 +114,26 @@ Testing the SFX File With 7-ZIP
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-0x80072f8f-0x20000-error-on-pcs/"><u>Resolving 0X80072f8f-0x20000 Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-tech-companion-asus-vivobook-s-15-review/"><u>The Ultimate Tech Companion: Asus Vivobook S 15 Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-nonfunctional-nvidia-cp-on-windows-11/"><u>How to Reactivate a Nonfunctional Nvidia CP on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-stuck-windows-enter-function/"><u>Mending the Stuck Windows 'Enter' Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-security-settings-through-gpo/"><u>Unveiling Windows Security Settings Through GPO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-the-key-differences-in-exe-and-msi-formats/"><u>Identifying the Key Differences in EXE & MSI Formats</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/becoming-an-expert-in-video-capturing-streamlabs-obs-guide/"><u>Becoming an Expert in Video Capturing  Streamlabs OBS Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-boost-your-spirit-creating-motivational-status-videos/"><u>Updated In 2024, Boost Your Spirit Creating Motivational Status Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-images-on-iphone-8-advanced-techniques-for-2024/"><u>Crafting Cinematic Images on iPhone  8 Advanced Techniques for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-13-mini-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 13 mini IMEI Checker</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-art-of-slow-motion-how-to-make-jaw-dropping-videos-on-kapwing/"><u>New In 2024, The Art of Slow Motion How to Make Jaw-Dropping Videos on Kapwing</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>New Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jestjungle-your-gateway-to-universal-comedy/"><u>JestJungle  Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ace-bgm-selection-perfect-backdrops-for-video-calling/"><u>[Updated] 2024 Approved  Ace BGM Selection  Perfect Backdrops for Video Calling</u></a></li>
+</ul></div>

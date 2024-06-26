@@ -1,7 +1,7 @@
 ---
 title: How to Streamline Note-Taking with Win 11 Display Rules
-date: 2024-06-23 18:15:49
-updated: 2024-06-24 10:18:19
+date: 2024-06-25T17:02:39.361Z
+updated: 2024-06-26T17:02:39.361Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 
  Here’s how you can use the Always On Top feature in Microsoft PowerToys to pin the Sticky Notes app on Windows.
 
-1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
+1. Open the [Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
 2. You can launch the app from the recently installed list or system tray.
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
- Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+ Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e5
 
 To pin Sticky Notes using DeskPins:
 
-1. Go to the[DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
+1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
@@ -85,3 +85,24 @@ To pin Sticky Notes using DeskPins:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-microsoft-edges-from-popping-up/"><u>How to Stop Microsoft Edges From Popping Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-assurance-verify-windows-equipment-before-calling/"><u>Audio Visual Assurance: Verify Windows Equipment Before Calling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-how-you-use-the-mouse-cross-border-efficiency-via-powertoys/"><u>Transforming How You Use the Mouse: Cross-Border Efficiency via PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-stuck-windows-enter-mechanism/"><u>Addressing Stuck Windows 'Enter' Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-current-frames-crafting-future-windows/"><u>Beyond Current Frames: Crafting Future Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-demanded-assets-error-in-windows-1011-environments/"><u>Overcoming Demanded Assets Error in Windows 10/11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-keyboard-errors-for-functional-shortcuts-in-windows-11/"><u>Resolve: Keyboard Errors for Functional Shortcuts in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-encapsulate-powerpoint-visuals-in-media/"><u>[New] Encapsulate PowerPoint Visuals in Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-depth-ranking-10-smartphones-with-superior-4k-camera-capabilities/"><u>Detailed Depth  Ranking 10 Smartphones with Superior 4K Camera Capabilities</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-130-music-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia 130 Music FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y36i-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y36i is off? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f14-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-digital-applications-for-visual-storytelling/"><u>[New] Premier Digital Applications for Visual Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers/"><u>2024 Approved  A Comprehensive List of Prime Tablets for Photo Editing Lovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed/"><u>[New] Conquer KineMaster  Efficient Use + Top Online Gaming Platforms Reviewed</u></a></li>
+</ul></div>

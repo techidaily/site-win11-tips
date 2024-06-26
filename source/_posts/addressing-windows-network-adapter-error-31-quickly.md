@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows Network Adapter Error 31 Quickly
-date: 2024-06-25 19:48:55
-updated: 2024-06-26 12:23:35
+date: 2024-06-25T16:18:16.990Z
+updated: 2024-06-26T16:18:16.990Z
 tags:
   - windows10
   - windows11
@@ -61,9 +61,7 @@ To perform a network reset:
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
-## 3\. Delete the Corrupted Network Config File on Older Machines
-
-![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
+## 3\. Delete the Corrupted Network Config File on Older Machines ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
 
@@ -79,13 +77,13 @@ To perform a network reset:
 
  Once the key is deleted, you'll need to remove and reinstall the network driver. You can do it using Device Manager, as shown in the step below.
 
- Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
+ Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on [how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
 
-1. Open Device Manager (see[how to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) for detailed steps).
+1. Open Device Manager (see [how to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) for detailed steps).
 2. Next, expand the**Network Adapters** section.
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
@@ -133,3 +131,24 @@ To perform a restore point:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-11-and-11/"><u>4 Ways to Open Disk Management in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-computing-essential-windows-software-to-banish/"><u>Efficient Computing: Essential Windows Software to Banish</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-virtual-world-with-hyper-v-in-windows-11/"><u>Harness the Virtual World with Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-transparent-taskbars-on-win11/"><u>Mastering the Art of Transparent Taskbars on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-docker-with-wsl-2/"><u>Navigating the Complexities of Docker with WSL 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-virtualbox-usb-connection-issue-on-windows-devices/"><u>Overcoming VirtualBox USB Connection Issue on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-tasks-the-power-of-flow-launcher-in-windows/"><u>Optimize Tasks: The Power of Flow Launcher in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/"><u>Workflow Enhancer: Integrating Sticky Notes Into Your Windows Morning Ritual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-survival-housing-in-minecraft-6-10-guide/"><u>[Updated] Survival Housing in Minecraft  #6-10 Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unlocking-flawless-youtube-twitplay/"><u>[Updated] Unlocking Flawless YouTube Twitplay</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-evolved-examination-of-sony-bdp-s3700/"><u>The Evolved Examination of Sony BDP-S3700</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-headset-todays-vr-tomorrows-trials/"><u>2024 Approved  Behind the Headset  Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-crafting-perfect-tiktok-vids-on-mac-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Crafting Perfect TikTok Vids on Mac  A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-views-to-valuables-the-ultimate-video-income-play-for-2024/"><u>[New] From Views to Valuables  The Ultimate Video Income Play for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-decoding-the-art-of-slow-time-capture-on-tiktok-for-2024/"><u>[New] Decoding the Art of Slow Time Capture on TikTok for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update your drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-workflow-best-free-mac-speech-recognition-tools-with-no-downloads-or-strings-attached-for-2024/"><u>Updated Transform Your Workflow Best Free Mac Speech Recognition Tools with No Downloads or Strings Attached for 2024</u></a></li>
+</ul></div>

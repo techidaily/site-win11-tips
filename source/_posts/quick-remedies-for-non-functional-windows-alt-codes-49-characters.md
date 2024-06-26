@@ -1,7 +1,7 @@
 ---
 title: Quick Remedies for Non-Functional Windows Alt Codes (49 Characters)
-date: 2024-06-23 16:50:15
-updated: 2024-06-25 10:41:22
+date: 2024-06-25T16:19:44.406Z
+updated: 2024-06-26T16:19:44.406Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
 
-1. Press**Win + I** on your keyboard to[launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select the**Accessibility** tab in the left pane.
 3. On the right side, click**Mouse** under the Interaction section.
 4. Click the toggle to enable the**Mouse keys** .  
@@ -57,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  This is a more advanced solution and requires some familiarity with the Windows registry editor.
 
- If you are uncomfortable working with your computer's registry, get professional assistance. You should also[back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
+ If you are uncomfortable working with your computer's registry, get professional assistance. You should also [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
 
 To get started, follow these steps:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. In the text field, type "regedit" and press Enter or click the**OK** button.
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
@@ -87,7 +87,7 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
 
-1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
+1. Open the Control Panel (see [how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
@@ -96,9 +96,9 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 ## 6\. Troubleshoot With a Clean Boot
 
- If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
+ If none of the above solutions work, you can try [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
 
-1. Open the MSConfig tool (see[how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
+1. Open the MSConfig tool (see [how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
 2. Check the**Selective startup** box.
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
@@ -129,3 +129,26 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/preventing-persistent-microsoft-edge-shortcuts/"><u>Preventing Persistent Microsoft Edge Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-volume-control-fix-guide/"><u>Windows 10/11 Volume Control Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-discord-setup-failures-on-windows-1011/"><u>Mastery Over Discord Setup Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-programs-with-preset-window-sizes-in-windows-11/"><u>How to Open Programs With Preset Window Sizes in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unsuccessful-onedrive-operations-on-os/"><u>Combatting Unsuccessful OneDrive Operations on OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-how-to-clear-steams-dns-cache/"><u>Understanding How to Clear Steam's DNS Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-elevating-your-wsl-2-and-docker-coexistence/"><u>A Guide to Elevating Your WSL 2 & Docker Coexistence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-error-code-0x80-point-to-point-link-failure-on-windows/"><u>How to Handle Error Code: 0X80 Point-to-Point Link Failure on Windows</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-complete-guide-to-slideshow-maker-with-music/"><u>New 2024 Approved The Complete Guide to Slideshow Maker with Music</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit/"><u>How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-find-x7-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Find X7 Ultra Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transform-your-photos-with-instagrams-latest-filters-2023-techniques/"><u>2024 Approved  Transform Your Photos with Instagram's Latest Filters (2023 Techniques)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/club-anthems-expertly-curated-dj-vids-downloads-for-2024/"><u>Club Anthems  Expertly Curated DJ Vids Downloads for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-practical-methods-reflecting-video-via-vlc-software/"><u>[New] In 2024, Practical Methods  Reflecting Video via VLC Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>In 2024, Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-instagram-speed-mastering-video-and-likes/"><u>[Updated] 2024 Approved  Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-nokia-g310-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Nokia G310 has been deleted</u></a></li>
+</ul></div>

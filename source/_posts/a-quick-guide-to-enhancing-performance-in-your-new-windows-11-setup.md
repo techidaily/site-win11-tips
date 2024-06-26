@@ -1,7 +1,7 @@
 ---
 title: A Quick Guide to Enhancing Performance in Your New Windows 11 Setup
-date: 2024-06-23 11:59:30
-updated: 2024-06-25 10:11:48
+date: 2024-06-25T17:02:24.590Z
+updated: 2024-06-26T17:02:24.590Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
-## 2\. Set Up Nearby Sharing
+## 2\. Set Up Nearby Sharing ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
 
-![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
-
- If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
+ If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out [how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
 ## 3\. A Cleaner Desktop Experience
 
@@ -47,21 +45,17 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
 ![Delete Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-desktop-shortcuts.jpg)
 
- You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
+ You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly [hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
-## 4\. Enable Storage Sense to Manage Your Memory Better
-
-![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
+## 4\. Enable Storage Sense to Manage Your Memory Better ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
 
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
 
-## 5\. Enable Find My Device to Track Your PC
+## 5\. Enable Find My Device to Track Your PC ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
 
-![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
-
- If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out[how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
+ If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out [how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
 
 ## 6\. Tweak the Night Light Setting to Get Better Sleep
 
@@ -117,3 +111,24 @@ Here is how you can enable Dark mode on your Windows 11 PC:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/speedy-typing-solutions-for-windows-pcs-7-must-dos/"><u>Speedy Typing Solutions for Windows PCs (#7 Must-Dos)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-win-11-gaming-landscape-with-these-fps-counters/"><u>Mastering the Win 11 Gaming Landscape with These FPS Counters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-terminal-settings-on-windows-pc/"><u>Optimizing Terminal Settings on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-ping-windows-application-essentials/"><u>Unveiling the Power of Ping: Windows Application Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-task-runner-error-code-0x8007000f-in-winos/"><u>Mastery over Task Runner Error Code 0X8007000f in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-window-restoration-after-dark-screens/"><u>Effortless Window Restoration After Dark Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-system-performance-via-alomware-settings-utility/"><u>Enhance System Performance via AlomWare Settings Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-alarms-best-download-sites/"><u>Excellent Alarms  Best Download Sites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-assessment-exploring-dji-inspire-1-for-2024/"><u>Complete Assessment  Exploring DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nfluencer-collaborations-impacting-video-view-counts-for-2024/"><u>[New] Influencer Collaborations Impacting Video View Counts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-new-photogs-cameras-the-top-entry-level-picks-of-24/"><u>[New] New Photog's Cameras  The Top Entry-Level Picks of '24</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-complete-process-to-tweak-your-instagram-voice/"><u>2024 Approved  The Complete Process to Tweak Your Instagram Voice</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-guide-to-the-topest-free-sounds-and-effects-sites/"><u>The Ultimate Guide to the Topest Free Sounds & Effects Sites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-free-game-recording-software-2024/"><u>[New] Top 10 Free Game Recording Software 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[New] In 2024, Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-online-retailers-specialized-in-personalized-boxed-gifts/"><u>[New] 10 Online Retailers Specialized in Personalized Boxed Gifts</u></a></li>
+</ul></div>

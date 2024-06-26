@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Secrets of Windows' ODBC Settings Panel
-date: 2024-06-22 17:17:23
-updated: 2024-06-25 12:34:41
+date: 2024-06-25T16:12:03.847Z
+updated: 2024-06-26T16:12:03.847Z
 tags:
   - windows10
   - windows11
@@ -42,9 +42,7 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  Want to discover the various ways to access the ODBC Data Sources tool? Let's help you out!
 
-## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar
-
-![Windows computer next to a book and a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-computer-next-to-a-book-and-a-cup.jpg)
+## 1\. Access the ODBC Data Sources App Using the Start Menu Search Bar ![Windows computer next to a book and a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-computer-next-to-a-book-and-a-cup.jpg)
 
  One of the easiest ways to access the ODBC Data Sources tool (or any other app) is by using the Start menu search bar.
 
@@ -131,9 +129,7 @@ odbcad32.exe
 
 odbcad32.exe
 
-## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut
-
-![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
 
@@ -165,3 +161,22 @@ odbcad32.exe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-re-listing-bluetooth-on-windows-pc/"><u>Strategies for Re-Listing Bluetooth on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-tackle-non-responsive-function-keys-for-brighness-on-windows-11/"><u>Methods to Tackle Non-Responsive Function Keys for Brighness on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-thumb-button-clicks-in-windows-11/"><u>Mastering Mouse Thumb Button Clicks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-downloads-with-these-5-windows-clients/"><u>Maximize Your Downloads with These 5 Windows Clients</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepad-woes-on-pc-7-steps-to-reopen-the-favorite-text-editor/"><u>Notepad Woes on PC: 7 Steps to Reopen the Favorite Text Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-setup-a-closer-look/"><u>Windows 11 Setup: A Closer Look</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2016-stellar-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2016 | Stellar</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-easy-dance-routines-to-follow-with-these-20-country-songs-tiktok/"><u>[New] In 2024, Easy Dance Routines to Follow with These 20 Country Songs (TikTok)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieving-flawless-audio-to-text-translation-using-google/"><u>In 2024, Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-whats-the-best-orientation-horizontalvertical-on-facebook/"><u>[Updated] 2024 Approved  What's The Best Orientation  Horizontal/Vertical on Facebook?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-rotate-your-mov-files-for-free-top-5-options-for-2024/"><u>New Rotate Your MOV Files for Free Top 5 Options for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-preserving-melody-methods-to-decelerate-sound-waves-without-modifying-frequency-range/"><u>New Preserving Melody Methods to Decelerate Sound Waves without Modifying Frequency Range</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>

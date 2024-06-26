@@ -1,7 +1,7 @@
 ---
 title: Unleash the Power of Hyper-V in Windows 11 Homes with This Guide
-date: 2024-06-22 11:37:20
-updated: 2024-06-25 11:16:54
+date: 2024-06-25T16:46:03.061Z
+updated: 2024-06-26T16:46:03.061Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-## How to Enable Hardware Virtualization in Windows 11
-
-![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop-1.jpg)
+## How to Enable Hardware Virtualization in Windows 11 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop-1.jpg)
 
  Hyper-V is a bare-metal hypervisor and requires [Hardware Virtualization enabled in BIOS to work](https://www.makeuseof.com/what-is-virtualization-and-what-is-it-for/). Most modern systems support Hardware Virtualization, and you can enable it in BIOS.
 
@@ -93,9 +91,7 @@ pause`
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
-## How to Disable Hyper-V on Windows 11 Home
-
-![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
+## How to Disable Hyper-V on Windows 11 Home ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
 
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
@@ -118,3 +114,31 @@ pause`
  Once you have Hyper-V up and running, you can install Windows, Ubuntu, and other supported operating systems in a virtual machine.
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/simplifying-git-operations-github-desktop-and-windows-11-explained/"><u>Simplifying Git Operations: GitHub Desktop and Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-edge-why-a-pc-outmatches-a-mac-in-9-key-aspects/"><u>Analyzing the Edge: Why a PC Outmatches a Mac in 9 Key Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-yuzu-game-performance-in-windows/"><u>Boosting Yuzu Game Performance in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-old-school-games-a-guide-to-adding-achievements-via-retroarch/"><u>Boosting Old-School Games: A Guide to Adding Achievements via Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsofts-windows-1111-shop-hurdle/"><u>Overcoming Microsoft's Windows 11/11 Shop Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-stacking-windows-sticky-notes-high/"><u>Pro Tips: Stacking Windows Sticky Notes High</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-removing-virtualization-support-on-win11/"><u>Tips for Removing Virtualization Support on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-incorrect-parameters-for-winloadlib/"><u>Dealing with Incorrect Parameters for WinLoadLib</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-download-filmora-for-free-safe-and-virus-free-methods/"><u>In 2024, Download Filmora for Free Safe and Virus-Free Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-av1-encoding-insights/"><u>[New] Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-clear-out-conversations-swiftly-on-your-discord-servers/"><u>[Updated] In 2024, How to Clear Out Conversations Swiftly on Your Discord Servers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-post-a-vimeo-video-on-instagram/"><u>In 2024, How to Post a Vimeo Video on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-8-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 8 Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-proven-methods-for-twitter-brand-awareness-for-2024/"><u>[New] Proven Methods for Twitter Brand Awareness for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-edit-workflow-using-audio-duck-features-in-powerdirector-to-enhance-audio-transitions-for-2024/"><u>New Elevating Your Edit Workflow Using Audio Duck Features in PowerDirector to Enhance Audio Transitions for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-all-about-discord-stickers/"><u>[New] In 2024, Unveiling All About Discord Stickers</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

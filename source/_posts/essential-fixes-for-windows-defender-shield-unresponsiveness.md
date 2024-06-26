@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Windows Defender Shield Unresponsiveness
-date: 2024-06-24 19:59:54
-updated: 2024-06-26 11:28:21
+date: 2024-06-25T17:07:58.708Z
+updated: 2024-06-26T17:07:58.708Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ Here is how you can restart the Security Center Service:
 
  You can also enable the Windows Defender services using the Registry Editor. In this method, we will disable the DisableAntiSpyware and DisableAntiVirus values. Then, we will delete any corrupt Registry entries that malware may have introduced in the system.
 
- However, before we proceed, we recommend[creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , just to be safe.
+ However, before we proceed, we recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , just to be safe.
 
 Once that is done, proceed with the steps below:
 
@@ -78,9 +78,9 @@ Once that is done, proceed with the steps below:
 
  If the system cannot install the Windows Defender update automatically, you can also manually install it.
 
- This can be done by heading over to the[Microsoft security updates](https://www.microsoft.com/en-us/wdsi/defenderupdates) page and finding the required update in the "manually download the update" section. You can then select the appropriate version based on your system and install it.
+ This can be done by heading over to the [Microsoft security updates](https://www.microsoft.com/en-us/wdsi/defenderupdates) page and finding the required update in the "manually download the update" section. You can then select the appropriate version based on your system and install it.
 
- You can also use the Powershell utility to install the update manually. We have discussed the[different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
+ You can also use the Powershell utility to install the update manually. We have discussed the [different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
 
 ## 4\. Reset Windows Security
 
@@ -99,9 +99,9 @@ Here is how you can reset the Windows Security app:
 
  In case you have a third party installed on the system, it might be interfering with the processes of Windows Defender, preventing it from updating or functioning properly.
 
- If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses[how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
+ If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses [how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
 
- If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
+ If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some [best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
 
 ## Get Windows Defender Up and Running Again
 
@@ -122,3 +122,27 @@ Here is how you can reset the Windows Security app:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/precise-methods-to-address-windows-activation-failure-code-0x803f700f/"><u>Precise Methods to Address Windows Activation Failure Code 0X803F700f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-printer-disconnection-in-windows-10-and-11-systems/"><u>Fast Track Printer Disconnection in Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-picks-optimal-pomodoro-timers-tailored-for-windows-users/"><u>Top Picks: Optimal Pomodoro Timers Tailored For Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719307808288-tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-disabled-volume-snapshots/"><u>Restoring Functionality to Disabled Volume Snapshots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-empty-directory-alert-on-windows-11/"><u>Overcoming Empty Directory Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-smooth-asana-operations-on-pcs/"><u>Restoring Smooth Asana Operations on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-flickering-screens-in-windows-11/"><u>How to Mend Flickering Screens in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-simple-steps-for-overcoming-windows-onedrive-glitches/"><u>5 Simple Steps for Overcoming Windows OneDrive Glitches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-storytelling-screenplays-that-transcend-genres/"><u>[New] 2024 Approved  Top Storytelling  Screenplays that Transcend Genres</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-artisans-crafting-marvel-fantasy-landscapes/"><u>[Updated] Artisans Crafting Marvel Fantasy Landscapes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uniting-social-networks-sharing-tiktok-on-facebook-for-2024/"><u>[New] Uniting Social Networks  Sharing TikTok on Facebook for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-sound-fades-within-logic-pro-settings/"><u>In 2024, Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-screencasting-with-top-10-apps-reviewed-for-2024/"><u>[New] Streamlined Screencasting with Top 10 Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-online-presence-with-linked-fb-stories/"><u>[Updated] 2024 Approved  Optimize Your Online Presence with Linked FB Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-transform-your-reddit-presence-with-these-tactics/"><u>[New] 2024 Approved  Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-cloud-animators-handbook-stop-motion-software-features-guidelines-and-alternatives-explored/"><u>New In 2024, The Cloud Animators Handbook Stop Motion Software Features, Guidelines, and Alternatives Explored</u></a></li>
+</ul></div>

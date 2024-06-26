@@ -1,7 +1,7 @@
 ---
 title: Efficiently Linking Drives on New Windows Version
-date: 2024-06-22 19:23:55
-updated: 2024-06-24 12:32:39
+date: 2024-06-25T16:21:06.877Z
+updated: 2024-06-26T16:21:06.877Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 ## Configure Network Discovery in Windows
 
- Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
+ Windows has a feature called [network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
 
  This allows you to share any file or folder with other devices on the same network. Before mapping a network drive, make sure that network discovery is enabled on your computer.
 
@@ -44,7 +44,7 @@ Follow the sets below to enable network discovery on Windows:
 
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
- Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
+ Therefore, it's crucial to ensure that you have a strong password and [customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -75,13 +75,12 @@ Follow these instructions to map a drive using Windows PowerShell:
 1. Open the Start menu and type**PowerShell** into the search bar.
 2. Select the best match and choose**Run as administrator.**
 3. In the PowerShell window, type the following command, replacing**DRIVE** with the drive letter you want to use and**\\** **\\ServerName\\SharedFolder** with the path to the shared folder:  
-New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder  
-![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
+New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
- Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+ Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some [useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -89,12 +88,11 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
 So, follow these simple instructions:
 
-1. Open[Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open [Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type the command line given below, but replace**DRIVE** with any drive letter and**\\\\ServerName\\SharedFolder** with the shared folder's path:  
 net use DRIVE \\ServerName\SharedFolder
 3. If the shared folder requires a username and password to access, you can add the /user parameter to the command, followed by a username and password in the format**username** and**pass** . For example:  
-net use DRIVE \\ServerName\SharedFolder /user:username pass  
-![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
+net use DRIVE \\ServerName\SharedFolder /user:username pass ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
@@ -133,3 +131,22 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80070141-making-unreachable-devices-connectable/"><u>Eliminating Error Code 0X80070141: Making Unreachable Devices Connectable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-3-innovative-ways-for-windows-hardware-id-access/"><u>Exploring 3 Innovative Ways for Windows Hardware ID Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-typing-solutions-for-windows-pcs-7-must-dos/"><u>Speedy Typing Solutions for Windows PCs (#7 Must-Dos)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-net-speeds-unlock-efficient-adapter-checking/"><u>Navigate Net Speeds: Unlock Efficient Adapter Checking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-fixes-for-unstartable-windows-services/"><u>Implementing Fixes for Unstartable Windows Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-installation-on-unsupported-hardware/"><u>Tackling Windows 11 Installation on Unsupported Hardware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-cheapest-deals-on-top-tier-gopros/"><u>[New] Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-c32-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia C32 Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-artisans-guide-to-flawless-skype-calls-capture-and-storage-for-2024/"><u>The Artisan's Guide to Flawless Skype Calls Capture and Storage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-selling-vr-games-on-oculus-devices/"><u>2024 Approved  Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-zero-30-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/using-srt-audio-on-windows-and-macos-devices/"><u>Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro</u></a></li>
+</ul></div>

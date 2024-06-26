@@ -1,7 +1,7 @@
 ---
 title: Fixing Mail Alert Failures with 9 Practical Tips for Windows Users
-date: 2024-06-23 22:11:11
-updated: 2024-06-24 12:39:46
+date: 2024-06-25T16:17:38.582Z
+updated: 2024-06-26T16:17:38.582Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ To access notification settings in the Mail app:
 
 ## 2\. Enable Mail App Notifications From Windows Settings
 
- Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned[how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
+ Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
 
  To enable Mail app notifications from Windows Settings, do the following:
 
@@ -100,7 +100,7 @@ Once removed, restart the Mail app and add your account again.
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
- If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
+ If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
 ## 7\. Disable Battery Saver Mode
 
@@ -116,7 +116,7 @@ Once removed, restart the Mail app and add your account again.
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
 
-1. Right-click on the**Start icon** or press**Win + X** to open the[Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+1. Right-click on the**Start icon** or press**Win + X** to open the [Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
 2. Select**Installed apps** from the menu.
 3. Scroll down to locate the Mail app on the list.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
@@ -152,3 +152,27 @@ Once removed, restart the Mail app and add your account again.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/command-your-windows-11-experience-with-nircmd-tips/"><u>Command Your Windows 11 Experience with NirCmd Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-stacked-icons-on-operating-system-ui/"><u>Disentangling Stacked Icons on Operating System UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-upcoming-changes-with-windows-11-version-22h2/"><u>Delving Into Upcoming Changes with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-transparent-taskbars-on-win11/"><u>Mastering the Art of Transparent Taskbars on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-inconsistent-windows-printers/"><u>Steps for Stabilizing Inconsistent Windows Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually With Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-outlooks-error-0x80040610-in-windows-systems/"><u>Overcoming Outlook's Error 0X80040610 in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-package-unopenable-issue-effectively/"><u>Steps to Tackle Windows Package Unopenable Issue Effectively</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-jokes-unveiled-3-pc-based-methods-for-2024/"><u>[Updated] Twitter Jokes Unveiled  3 PC-Based Methods for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-discover-the-best-video-editors-for-windows-11-free-trial-and-subscription-options-for-2024/"><u>New Discover the Best Video Editors for Windows 11 Free, Trial, and Subscription Options for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-blaze-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Blaze Pro 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-the-10-most-advanced-video-call-apps/"><u>[Updated] 2024 Approved  Ultimate Guide to the 10 Most Advanced Video Call Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/surfings-finest-high-quality-cam-companions-for-2024/"><u>Surfing's Finest  High-Quality Cam Companions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-luminances-hdr-accuracy-assessment/"><u>[Updated] Luminance's HDR Accuracy Assessment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-enhancing-streaming-quality-using-obs-plus-zoom/"><u>[Updated] 2024 Approved  Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unwind-the-mind-the-ultimate-chill-list-for-2024/"><u>Unwind the Mind  The Ultimate Chill List for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-often-do-youtubers-receive-income/"><u>[New] In 2024, How Often Do YouTubers Receive Income?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes"
-date: 2024-06-23 16:41:23
-updated: 2024-06-25 12:52:54
+date: 2024-06-25T16:38:16.001Z
+updated: 2024-06-26T16:38:16.001Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
 
- Run Command Prompt with elevated (administrative) rights. Our guide about[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+ Run Command Prompt with elevated (administrative) rights. Our guide about [running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
 
 `rmdir /s "folder path"`
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 ## 3\. Scan System Files With an SFC Scan
 
- Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
@@ -110,3 +110,24 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fortify-windows-11-security-integrating-firewalls-into-the-menubar-ui/"><u>Fortify Windows 11 Security: Integrating Firewalls Into the Menubar UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-windows-11-defense-enhanced-filter-options-via-context-menu/"><u>Upgrade Your Windows 11 Defense: Enhanced Filter Options via Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-find-and-purge-unused-windows-folders-for-a-streamlined-pc/"><u>Efficiently Find & Purge Unused Windows Folders for a Streamlined PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tip-how-to-turn-off-nvidia-ui/"><u>Tech Tip: How to Turn Off NVIDIA UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-aggregatorhostexe-windows-functionality-and-safety-concerns/"><u>Understanding AggregatorHost.exe: Windows' Functionality & Safety Concerns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-def5-barrier-tips-for-win11s-onedrive-errors/"><u>Breaking Down the DEF5 Barrier: Tips for Win11's OneDrive Errors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-decoding-the-mystery-of-youtube-shorts/"><u>[New] Decoding the Mystery of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-becoming-an-expert-at-yt-studio-navigation/"><u>[New] Becoming an Expert at YT Studio Navigation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-slow-mo-video-and-photography-apps-iosandroid-devices/"><u>2024 Approved  Premier Slow Mo Video & Photography Apps iOS/Android Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-instagram-stories-adding-and-sharing-custom-emojis-for-2024/"><u>[New] Perfecting Instagram Stories  Adding & Sharing Custom Emojis for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-f5-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco F5 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/pinpointing-the-perfect-stream-tagline-for-you-on-tiktok-for-2024/"><u>Pinpointing the Perfect Stream Tagline for You on TikTok for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unmasking-the-hype-fact-based-insights-into-instagrams-reels-for-2024/"><u>[Updated] Unmasking the Hype  Fact-Based Insights Into Instagram's Reels for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-consistency-in-action-inserting-logoswatermarks-into-videos-for-2024/"><u>Brand Consistency in Action  Inserting Logos/Watermarks Into Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-flipping-videos-in-final-cut-pro/"><u>New The Ultimate Guide to Flipping Videos in Final Cut Pro</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: What Do Numbers on Windows Updates Stand For?
-date: 2024-06-24 13:42:13
-updated: 2024-06-26 12:22:13
+date: 2024-06-25T16:44:17.811Z
+updated: 2024-06-26T16:44:17.811Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  Here are some of the popular update types that you often see being offered by Windows.
 
-### 1\. Quality Updates
-
-![installing optional updates on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/optional-updates.jpg)
+### 1\. Quality Updates ![installing optional updates on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/optional-updates.jpg)
 
  Quality updates, often known as cumulative updates, are the ones that you see in your Windows Settings app on a monthly basis. These frequent (but mandatory) updates are smaller in size and are typically released to address the latest performance issues and fix bugs.
 
@@ -36,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  Quality updates are generally categorized into four types; B, C, D, and out-of-band. Here is what every type does:
 
-* B updates - These are released on every second Tuesday of the month, known as[Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
+* B updates - These are released on every second Tuesday of the month, known as [Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
 * C updates - They are released in the third week of each month and typically include non-critical improvements. This may include fixes for a bug that is not a threat to the security of your system.
 * D updates - These are optional updates that are released in the fourth week of every month. They are typically used by Microsoft to receive feedback from the users on upcoming updates.
 * Out-of-band updates - These are emergency updates that do not follow a strict release schedule. They are released when a critical problem is discovered that needs to be fixed as soon as possible.
@@ -71,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 ![Driver updates in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-update.jpg)
 
- Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
+ Windows also gives you the option to [manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
 ## Understanding the Update Numbers
 
@@ -91,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
  This typically happens if the update you install is infected with bugs and vulnerabilities itself. The update can also conflict with the existing settings and configuration, leading to different issues and errors. In some cases, the updates you install can turn out to be incompatible with the hardware as well.
 
- If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
+ If you encounter problems after installation, you can [uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or [roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
 
 ## Making Sense of Update Names and Numbers
 
@@ -112,3 +110,27 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-customizing-the-desktop-menu/"><u>The Insider's Guide to Customizing the Desktop Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-directories-a-breeze-with-win11-essentials/"><u>Making Directories a Breeze with Win11 Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-shop-failure-x800704cf/"><u>Deciphering Windows Shop Failure X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-camera-issue-fixing-error-f429f/"><u>Overcoming Windows 11 Camera Issue: Fixing Error F429F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-using-windows-file-browsing-in-place-of-ls/"><u>Expert Tips for Using Windows File Browsing in Place of LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/challenging-the-status-quo-embracing-individuality-in-restricted-settings/"><u>Challenging the Status Quo: Embracing Individuality in Restricted Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-graphic-design-to-daily-use-ai-in-windows/"><u>From Graphic Design to Daily Use: AI in Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-troubleshooting-a-step-by-step-reset-guide/"><u>Final Cut Pro X Troubleshooting A Step-by-Step Reset Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-nubia-z50-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nubia Z50 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-11-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 11 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-preserving-the-pulse-of-internet-radio-waves/"><u>[New] In 2024, Preserving the Pulse of Internet Radio Waves</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-zoom-features-on-windows-11-pcs-for-2024/"><u>Unlocking Zoom Features on Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-navigating-the-synergy-between-soundtracks-and-photographic-frames/"><u>New Navigating the Synergy Between Soundtracks and Photographic Frames</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-updated-user-manual-for-navigating-facebook-for-2024/"><u>[Updated] The Updated User Manual for Navigating Facebook for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-10-virtual-reality-headgear-for-smartphones/"><u>[Updated] Best 10 Virtual Reality Headgear for Smartphones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-webcam-video-capture-using-vlc/"><u>Easy Webcam Video Capture Using VLC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-c67-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme C67 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>

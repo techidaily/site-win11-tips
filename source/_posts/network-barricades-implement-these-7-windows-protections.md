@@ -1,7 +1,7 @@
 ---
 title: "Network Barricades: Implement These 7 Windows Protections"
-date: 2024-06-23 11:34:31
-updated: 2024-06-24 12:54:19
+date: 2024-06-25T16:25:00.596Z
+updated: 2024-06-26T16:25:00.596Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,7 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  Weak antivirus protection can let any malware get an easy foothold on your PC, and from there, it's far too easy to obtain unauthorized access or take other malicious actions on your PC. [Enabling Windows Security](https://www.makeuseof.com/enable-windows-security-app-windows-10/) and setting up the best protection practices will be your best bet against such unauthorized action.
 
-## 4\. Use a Firewall
-
-![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
+## 4\. Use a Firewall ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
 
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
@@ -64,17 +62,13 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
 
-## 6\. Keep Your Windows Updated
-
-![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
+## 6\. Keep Your Windows Updated ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
 
  These regular updates are crucial to protect yourself from ever-evolving malware and hacks in the 21st century. So, make sure you have enabled automatic updates on your Windows, or at least [manually get your Windows updates regularly](https://www.makeuseof.com/update-windows-manually/).
 
-## 7\. Keep Aware of Social Engineering Tactics
-
-![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
+## 7\. Keep Aware of Social Engineering Tactics ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
@@ -93,3 +87,31 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
  Your Windows is a goldmine for all sorts of data and information. Indeed, in the wrong hands, it can make things very difficult for you. Putting in measures that save you from unauthorized access is therefore a necessity, not a privilege.
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/copilot-disappearance-in-ws11-quick-fixes-guide/"><u>Copilot Disappearance in WS11: Quick Fixes Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-non-installed-disk-on-your-win-11-pc/"><u>How to Restore a Non-Installed Disk on Your Win 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-detectable-windows-commands/"><u>Strategies for Fixing Non-Detectable Windows Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-gateway-how-to-enter-os-settings/"><u>The Gateway: How to Enter OS Settings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harmonic-highlights-the-right-song-for-your-ig-video/"><u>2024 Approved  Harmonic Highlights  The Right Song for Your IG Video</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-7-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 7 when Phone is Broken?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-art-of-captivating-tiktok-profile-pictures/"><u>[Updated] The Art of Captivating TikTok Profile Pictures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-split-videos-in-final-cut-pro/"><u>2024 Approved How to Split Videos in Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-diy-experts-approach-to-saving-web-radios/"><u>2024 Approved  The DIY Expert's Approach to Saving Web Radios</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-dominance-index-top-ten-royale-survival-games/"><u>[Updated] Dominance Index  Top Ten Royale Survival Games</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-cut-avi-files-like-a-pro-best-video-editors-for-all-platforms/"><u>Updated 2024 Approved Cut AVI Files Like a Pro Best Video Editors for All Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grasping-the-nuances-in-youtube-viewer-reactions/"><u>[New] Grasping the Nuances in YouTube Viewer Reactions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/cu/"><u>Cu</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

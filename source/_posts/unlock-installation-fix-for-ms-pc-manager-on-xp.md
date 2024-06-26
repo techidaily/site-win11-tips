@@ -1,7 +1,7 @@
 ---
 title: "Unlock Installation: Fix for MS PC Manager on XP"
-date: 2024-06-23 13:35:35
-updated: 2024-06-26 10:35:42
+date: 2024-06-25T16:58:43.329Z
+updated: 2024-06-26T16:58:43.329Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ## 1\. Restart Your Computer
 
- This is a common troubleshooting method, but it's essential for a reason. The reason that Microsoft PC Manager won't install on your system could be due to a temporary bug. Before you dive into the more advanced troubleshooting fixes, consider restarting y[our computer](https://www.makeuseof.com/windows-restart-methods/) (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) to put it back on a clean slate.
+ This is a common troubleshooting method, but it's essential for a reason. The reason that Microsoft PC Manager won't install on your system could be due to a temporary bug. Before you dive into the more advanced troubleshooting fixes, consider restarting y [our computer](https://www.makeuseof.com/windows-restart-methods/) (see [how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) to put it back on a clean slate.
 
  If you still can't install the application after a system restart, try the next solution on the list.
 
@@ -61,11 +61,9 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ![Program Compatibility Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatiblity-Troubleshooter.jpg)
 
- If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from[Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
+ If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from [Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
 
-## 4 . Clear the Temp Folder
-
-![Delete content of the Temp folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Temp-folder.jpg)
+## 4 . Clear the Temp Folder ![Delete content of the Temp folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Temp-folder.jpg)
 
  Programs and apps installed on your store temporary files in the Temp folder. But for various reasons, the Temp folder can get corrupted and cause the issue at hand.
 
@@ -101,9 +99,7 @@ To delete the Temp folder, follow the below instructions:
 3. Wait until the command is executed. Depending on your computer's health, the process can take up to 15 minutes. Sometimes the process will stick, but wait for it to complete.
 4. After the process is complete, type**sfc /scannow** and press**Enter** .
 
-## 7\. Reset Your Computer
-
-![Reset PC button in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Reset-PC-.jpg)
+## 7\. Reset Your Computer ![Reset PC button in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Reset-PC-.jpg)
 
  If you're still unable to install the Microsoft PC Manager, you can use the Windows Reset function. This will reinstall Windows, but it will keep all your personal files intact. Here's how to do it:
 
@@ -130,3 +126,22 @@ Next, follow the on-screen to complete the reset process.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/common-windows-11-22h2-issues-and-their-fixes/"><u>Common Windows 11 22H2 Issues and Their Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-disk-designations-c-and-d-varieties/"><u>Navigating Disk Designations: C and D Varieties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-dynamic-system-health-enhancement/"><u>Windows' Dynamic System Health Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-prime-video-text-barriers-on-windows-11/"><u>Overcoming Prime Video Text Barriers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amend-non-working-shortcuts-solve-f-keys-issue-on-windows-11/"><u>Amend: Non-Working Shortcuts - Solve F Keys Issue on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-pro-efficient-docx-to-pdf-conversion-made-simple/"><u>Win 11 Pro: Efficient DOCX to PDF Conversion Made Simple</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>2024 Approved  Achieving Broadcast Excellence  From Recordings to Livestreams on OBS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-short-form-video-rivals-can-likes-overtake-tiktoks-global-fanbase/"><u>2024 Approved  Short-Form Video Rivals  Can Likes Overtake TikTok’s Global Fanbase?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-get-top-quality-gifs-on-your-mac-instantly/"><u>[New] 2024 Approved  Get Top-Quality GIFs on Your Mac Instantly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere-for-2024/"><u>The Clone's Playbook  Secrets to Mirror Success on the TikTok Sphere for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid/"><u>In 2024, Photo Poetry  Top 10 Writing Tools for Image Capture on iOS/Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dailymotion-elites-in-snapchat-world-for-2024/"><u>Dailymotion Elites in Snapchat World for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Smart 8 | Dr.fone</u></a></li>
+</ul></div>

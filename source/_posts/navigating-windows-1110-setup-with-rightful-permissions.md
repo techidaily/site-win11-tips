@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11/10 Setup with Rightful Permissions
-date: 2024-06-23 12:39:18
-updated: 2024-06-25 12:24:31
+date: 2024-06-25T16:30:31.629Z
+updated: 2024-06-26T16:30:31.629Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  Alternatively, you can also apply this potential solution by manually creating the folder specified within the error message that doesn’t currently exist. Keep the error message open and create the last folder in the path. Then take ownership of the last folder in the installation path specified and click**Retry** within the error message.
 
- You can take ownership of a folder manually or by adding a new context menu option that does the job. This guide about[taking ownership of folders in Windows 11](https://www.makeuseof.com/windows-10-11-own-folder/) includes full instructions for both methods. It’s more straightforward to apply this potential solution by adding a**Take Ownership** option to the context menu with Winaero Tweaker.
+ You can take ownership of a folder manually or by adding a new context menu option that does the job. This guide about [taking ownership of folders in Windows 11](https://www.makeuseof.com/windows-10-11-own-folder/) includes full instructions for both methods. It’s more straightforward to apply this potential solution by adding a**Take Ownership** option to the context menu with Winaero Tweaker.
 
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ## 6\. Disable UAC Before Installing
 
- User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
+ User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  Clean booting means disabling all third-party apps and services that start with Windows. This troubleshooting method can prevent software conflicts by eliminating unneeded apps and services running in the background. In this case, a clean boot might disable an app or service that’s hindering the software installation process.
 
- We have a detailed guide on[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) explaining how you can disable the startup items with System Configuration and Task Manager. Select to restart your PC after you’ve set a clean boot configuration. Install the software you need after restarting to see if the clean booting has made any difference.
+ We have a detailed guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) explaining how you can disable the startup items with System Configuration and Task Manager. Select to restart your PC after you’ve set a clean boot configuration. Install the software you need after restarting to see if the clean booting has made any difference.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
  The “installer has insufficient privileges” has been reported to occur by users trying to install new versions of software already on their PCs.
 
- If there’s an older version of the software you can’t install already on your PC, then try uninstalling the preceding version first. This guide on[uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) includes various methods for removing programs.
+ If there’s an older version of the software you can’t install already on your PC, then try uninstalling the preceding version first. This guide on [uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) includes various methods for removing programs.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
@@ -131,3 +131,24 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/next-gen-teams-meeting-demands-efficiently/"><u>Next-Gen Teams Meeting Demands Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-cyber-voyage-checking-stable-connections-on-pc/"><u>Securing Your Cyber Voyage: Checking Stable Connections on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-solutions-at-fingertips-customizing-shortcuts-for-win-11-repairs/"><u>Speedy Solutions at Fingertips: Customizing Shortcuts for Win 11 Repairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortana-ends-new-windows-aid-emerges/"><u>Cortana Ends, New Windows Aid Emerges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-upgrade-in-a-flash-streamlining-windows-driver-updates/"><u>Audio Upgrade in a Flash: Streamlining Windows Driver Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-the-application-could-not-load-qt-plugin-error/"><u>Rectifying the 'Application Could Not Load Qt Plugin' Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>2024 Approved  From Camera Clicks to YouTube Views  Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boost-or-dial-down-youtube-audio-with-devices/"><u>[Updated] Boost or Dial Down YouTube Audio with Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-depth-review-of-audfreeplus-software/"><u>[Updated] In-Depth Review of AudFreePlus Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-resolve-stuck-obs-camera-feed-for-2024/"><u>Steps to Resolve Stuck OBS Camera Feed for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unraveling-popularity-myths-the-real-truth-about-instagram-reels/"><u>In 2024, Unraveling Popularity Myths  The Real Truth About Instagram Reels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maintaining-the-right-video-aspect-on-twitters/"><u>In 2024, Maintaining the Right Video Aspect on Twitters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcpx-audio-workflow-efficient-use-of-l-cuts-and-j-cuts/"><u>New In 2024, FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-below-is-a-list-of-top-5-free-wmv-splitters-which-can-help-you-split-your-frames-without-damaging-the-quality-of-your-video-for-2024/"><u>Updated Below Is a List of Top 5 Free WMV Splitters Which Can Help You Split Your Frames without Damaging the Quality of Your Video for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Realigning Windows 11'S File Order Preferences
-date: 2024-06-24 12:55:21
-updated: 2024-06-26 11:27:22
+date: 2024-06-25T16:54:49.840Z
+updated: 2024-06-26T16:54:49.840Z
 tags:
   - windows10
   - windows11
@@ -62,7 +62,7 @@ start explorer.exe`
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
 
-1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on[how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
+1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on [how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
@@ -72,12 +72,12 @@ start explorer.exe`
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
- The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
+ The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
 
  To reset folder view settings using the registry editor, do the following:
 
-1. Press**Win + R** on your keyboard to[open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
-2. Type**regedit** in the text box and press Enter. This will[open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Press**Win + R** on your keyboard to [open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Type**regedit** in the text box and press Enter. This will [open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 3. Navigate to the following location:  
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
@@ -106,3 +106,22 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-placement-comments-in-windows-explorer/"><u>Unveiling the Power of Placement Comments in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-disabled-windows-application/"><u>How to Enable Disabled Windows Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directives-for-managing-setup-service-state-in-windows/"><u>Directives for Managing Setup Service State in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/legacy-tech-lifeline-atlasos-revival-plan/"><u>Legacy Tech Lifeline: AtlasOS Revival Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-stop-motion-animation-on-the-cloud-a-step-by-step-guide-and-alternatives-for-2024/"><u>New Stop Motion Animation on the Cloud A Step-by-Step Guide and Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-time-saving-hacks-for-recording-instagram-stories/"><u>[New] 2024 Approved  Time-Saving Hacks for Recording Instagram Stories</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-essential-guide-to-recording-dynamic-digital-audio-broadcasts/"><u>2024 Approved The Essential Guide to Recording Dynamic Digital Audio Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>In 2024, Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-compre-written-guide-on-incorporating-markup-features-in-youtube/"><u>2024 Approved  Compre Written Guide on Incorporating Markup Features in YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-video-editor-how-to-edit-instagram-video/"><u>[Updated] 2024 Approved  Instagram Video Editor  How to Edit Instagram Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-techniques-for-quieting-breeze-induced-noise-in-multiplatform-videos/"><u>Updated 2024 Approved Techniques for Quieting Breeze-Induced Noise in Multiplatform Videos</u></a></li>
+</ul></div>

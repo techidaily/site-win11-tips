@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Shopping: Microsoft Store Error 0X80072F30 Cure"
-date: 2024-06-24 23:57:48
-updated: 2024-06-26 12:50:26
+date: 2024-06-25T16:10:53.115Z
+updated: 2024-06-26T16:10:53.115Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
 
-1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e[ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
+1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
+5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the [World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
 7. Also, make sure the time zone is set right by disabling the**Set time zone automatically** option and choosing an option on the**Time Zone** drop-down menu.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
 ## 5\. Turn Off Any Active Proxy Server Settings
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
 
  Even if you’re positive you’ve never enabled such a feature, check the proxy server setting like this:
 
@@ -137,3 +137,27 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/sync-success-reestablishing-obs-studio-server-connection-in-win/"><u>Sync Success: Reestablishing OBS Studio Server Connection in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-0xc0000001-on-windows-os/"><u>Steps to Solve 0XC0000001 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-upcoming-license-expiration-error-in-w10w11/"><u>Addressing Upcoming License Expiration Error in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restoring-functionality-fix-media-on-win11/"><u>Mastering the Art of Restoring Functionality: Fix Media on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-window-11-interface-for-maximum-efficiency-and-satisfaction/"><u>Tailor Your Window 11 Interface for Maximum Efficiency and Satisfaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-linking-devices-a-nearby-share-walkthrough/"><u>Effortlessly Linking Devices: A Nearby Share Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-end-task-control-for-window-management/"><u>Utilizing End Task Control for Window Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-integration-of-apple-maps-on-pcs/"><u>Deciphering the Integration of Apple Maps on PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-photo-storage-sites-for-2024/"><u>Top Photo Storage Sites for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-amplify-your-music-experience-with-youtubes-playlist-guide/"><u>[New] Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-variations-in-windows-movie-maker-clones/"><u>2024 Approved  Variations in Windows Movie Maker Clones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/integrated-iptv-accessibility-for-2024/"><u>Integrated IPTV Accessibility for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-getting-comfy-with-video-chats-in-instagrams-ecosystem/"><u>[New] 2024 Approved  Getting Comfy with Video Chats in Instagram's Ecosystem</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-v-purse-messages-recovery-recover-deleted-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>Honor V Purse Messages Recovery - Recover Deleted Messages from Honor V Purse</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-tranquility-tools-suite-comprehensive-noise-reduction-app-for-smooth-backgrounds-on-android-and-iphone/"><u>New In 2024, Tranquility Tools Suite Comprehensive Noise Reduction App for Smooth Backgrounds on Android and iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/"><u>New Gamer Era Starts  DJI’s Mavic Air Versus Spark Battle</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>2024 Approved  5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>[Updated] 2024 Approved  Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
+</ul></div>

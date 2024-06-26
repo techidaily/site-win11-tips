@@ -1,7 +1,7 @@
 ---
 title: "Mastering Folder Access: Inserting Into Window's 11 Context Menu"
-date: 2024-06-23 12:32:31
-updated: 2024-06-24 12:34:48
+date: 2024-06-25T16:50:06.598Z
+updated: 2024-06-26T16:50:06.598Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
 
-1. First, open the[MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
+1. First, open the [MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
 2. Click the**Download Completely Free** button.
 3. Next, click File Explorer’s shortcut on Windows 11’s taskbar; and navigate to the directory where the**MyFolders\_Installer.exe** setup file was downloaded.
 4. Double-click**MyFolders\_Installer.exe** to view the MyFolders setup window.
@@ -58,14 +58,14 @@ Once your PC has restarted:
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
- Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
+ Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the [best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
 
  You can extract Right Click Context Menu Adder’s archive with 7-Zip like this:
 
-1. Open the[7-Zip File Manager](https://www.7-zip.org/) download page.
+1. Open the [7-Zip File Manager](https://www.7-zip.org/) download page.
 2. Select the**Download** option for 7-Zip’s 64-bit Windows version, and then double-click the**7z2201-x64.exe** setup file within the folder that includes it.
 3. Click**Install** within the 7-Zip setup window.
-4. Open the[Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
+4. Open the [Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
 5. Click**Download** to view the two location options.
 6. Select the**External Mirror** or**Softpedia Secure Download (US)** option. The US option is better for users in North America.
 7. Then launch the 7-Zip software.
@@ -78,7 +78,7 @@ Once your PC has restarted:
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
 
-1. Use one of the many[ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Use one of the many [ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Open the extracted Right Click Context Menu Adder folder.
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
@@ -124,3 +124,23 @@ Once your PC has restarted:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-screen-quiet-disable-win11-folders/"><u>Mastering Screen Quiet: Disable Win11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-creating-efficient-sefx-packages-in-win11/"><u>Proven Methods: Creating Efficient SEFx Packages in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-service-management-for-optimized-windows-11/"><u>Strategic Service Management for Optimized Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-variance-in-procedures-for-local-and-remote-windows-reinstallations/"><u>Analyzing the Variance in Procedures for Local and Remote Windows Reinstallations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-windows-iscsi-initiator-accessibility/"><u>Uncovering the Secrets of Windows iSCSI Initiator Accessibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-another-program-uses-device-auditory-fault/"><u>Tackling 'Another Program Uses Device' Auditory Fault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-narzo-n53-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme Narzo N53 Phone Screen?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fabricate-funny-face-filters-giphy-style/"><u>Fabricate Funny Face Filters  Giphy Style</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-potential-innovative-strategies-for-better-insta-content/"><u>[New] 2024 Approved  Unlocking Potential  Innovative Strategies for Better Insta Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-social-media-landscape-facebook-daily-use/"><u>[New] 2024 Approved  Navigating Social Media Landscape  Facebook Daily Use</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954181103-updated-in-2024-how-to-share-youtube-video-on-zoom/"><u>Updated In 2024, | How to Share YouTube Video on Zoom?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-3-approaches-to-big-head-makeover-in-tiktok-videos/"><u>Top 3 Approaches to Big Head Makeover in TikTok Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-ordinary-interviews-into-impactful-experiences/"><u>2024 Approved  Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
+</ul></div>

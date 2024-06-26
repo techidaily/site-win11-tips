@@ -1,7 +1,7 @@
 ---
 title: "Address: Stuck Function Keys on Windows 11 Desktop"
-date: 2024-06-23 18:37:25
-updated: 2024-06-25 10:24:54
+date: 2024-06-25T16:56:05.156Z
+updated: 2024-06-26T16:56:05.156Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 1. In the **Start** menu search bar, search for **command prompt** and select the **Best match**.
 2. Type **msdt.exe -id DeviceDiagnostic**.
-3. Press **Enter**. This will bring up the Hardware and Devices troubleshooter. On its window, click **Next** to start the troubleshooting process
-
-![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
+3. Press **Enter**. This will bring up the Hardware and Devices troubleshooter. On its window, click **Next** to start the troubleshooting process ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -97,3 +95,34 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
  The Function keys give you a faster and easier way to control several hardware features. Using the Fn keys you can adjust the screen brightness, control the speaker volume, or turn on and off airplane mode, among many functions.
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unraveling-server-execution-failed-in-wmp/"><u>Unraveling 'Server Execution Failed' In WMP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-address-translation-win1110-edition-explained/"><u>Navigating Network Address Translation: Win11/10 Edition Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-surface-laptop-go-3-gains-processor-yet-fails-to-shine/"><u>Microsoft's Surface Laptop Go 3 Gains Processor, Yet Fails to Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/four-steps-for-pausing-windows-update/"><u>Four Steps for Pausing Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-environment-with-portable-utility-icons/"><u>Streamlining Windows Environment with Portable Utility Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-safety-invest-heavily-in-research-to-develop-advanced-safety-features-that-reduce-potential-risks-associated-with-drone-operations-such-as-collis31/"><u>Prioritize Safety: Invest Heavily in Research to Develop Advanced Safety Features that Reduce Potential Risks Associated with Drone Operations, Such as Collision Avoidance Technology, Redundant System Architectures, and Thorough Pre-Flight Checks.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notable-nights-of-non-opening-notepad-your-solution-guide-for-windows-users/"><u>Notable Nights of Non-Opening Notepad: Your Solution Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-role-of-windows-11-in-software-installation-harmony/"><u>The Role of Windows 11 in Software Installation Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-ignoring-soon-expiring-licenses-alerts-in-windows/"><u>Quick Fix for Ignoring Soon Expiring Licenses Alerts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-ragnarok-overcoming-x-script-woes/"><u>Restoring Ragnarok: Overcoming X-Script Woes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-generating-a-signature-tiktok-keyphrase/"><u>2024 Approved  Generating a Signature TikTok Keyphrase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-approaches-to-macos-subtitles-editing-for-2024/"><u>Innovative Approaches to macOS Subtitles Editing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlined-methods-for-documenting-overwatch-engagements/"><u>Streamlined Methods for Documenting Overwatch Engagements</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 15 Pro Max and iPad?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-dynamic-video-collages-in-2024/"><u>New How to Make Dynamic Video Collages, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-best-microphones-for-action-cameras/"><u>[New] 10 Best Microphones for Action Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-guide-to-gathering-creative-themes-using-google-trends-for-2024/"><u>[Updated] A Guide to Gathering Creative Themes Using Google Trends for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-showmore-screen-recorder-review-2023/"><u>2024 Approved  ShowMore Screen Recorder Review 2023</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-best-10-animated-dp-for-whatsapp/"><u>New 2024 Approved Best 10 Animated DP for WhatsApp</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlined-mac-imagery-unveiling-the-top-5-quick-and-effective-methods-for-2024/"><u>[Updated] Streamlined Mac Imagery  Unveiling the Top 5 Quick & Effective Methods for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

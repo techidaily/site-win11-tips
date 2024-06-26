@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Approach to Suspending Windows 11 Protection Systems
-date: 2024-06-24 23:21:39
-updated: 2024-06-26 10:39:21
+date: 2024-06-25T16:24:47.134Z
+updated: 2024-06-26T16:24:47.134Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 ![Disabling Tamper Protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tamper-protection.jpg)
 5. Click**Yes** to the UAC that crops up.
 
- Now it's time to open the Registry Editor. Check out[how to open the Registry Editor on Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) for steps on how to do this.
+ Now it's time to open the Registry Editor. Check out [how to open the Registry Editor on Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) for steps on how to do this.
 
 1. When the Registry Editor opens, navigate to the following location:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender`
@@ -99,7 +99,7 @@ Restart your computer for the changes to take effect.
 
 1. To begin with,[download Autoruns](https://download.sysinternals.com/files/Autoruns.zip) on your computer.
 2. Extract the downloaded file on your computer.
-3. Next, boot your computer in safe mode (see[how to boot in safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) ) and then open the extracted Autoruns folder.
+3. Next, boot your computer in safe mode (see [how to boot in safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) ) and then open the extracted Autoruns folder.
 4. Double-click on the**Autoruns64** file and then choose**Run** from the prompt that crops up.  
 ![Run option for Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option.jpg)
 5. Click**Agree** in the**Autoruns Licence Agreement window** .
@@ -130,3 +130,23 @@ Restart your computer for the changes to take effect.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/update-with-ease-a-guide-for-surface-computer-owners/"><u>Update with Ease: A Guide for Surface Computer Owners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-access-control-constructing-your-windows-personal-pins/"><u>Cutting-Edge Access Control: Constructing Your Windows Personal Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-navigator-placement-of-this-pc-icons/"><u>Customizing Windows Navigator: Placement of 'This PC' Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-prolonged-shutdown-during-active-windows-10-applications/"><u>Workaround for Prolonged Shutdown During Active Windows 10 Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-fatal-0xf0831-malfunction/"><u>Bypassing Windows 11'S Fatal 0XF0831 Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-universal-video-editing-solutions-35-options-for-every-device-and-os/"><u>Updated Universal Video Editing Solutions 35 Options for Every Device and OS</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/historical-stop-motion-masterpieces-15-essential-viewing-for-2024/"><u>Historical Stop-Motion Masterpieces  #15 Essential Viewing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-discover-the-10-leading-free-video-call-apps-iosandroid/"><u>In 2024, Discover The 10 Leading Free Video Call Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-10-facelift-tech-for-iphones-and-android-phones/"><u>Best 10 Facelift Tech for iPhones and Android Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024s-elite-video-capturing-technology/"><u>2024'S Elite Video Capturing Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-enhance-video-quality-on-tiktok-a-guide-to-intriguing-bgs/"><u>In 2024, Enhance Video Quality on TikTok  A Guide to Intriguing BGs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-confirming-youtube-ad-revenue-accrual/"><u>[Updated] In 2024, Confirming YouTube Ad Revenue Accrual</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>

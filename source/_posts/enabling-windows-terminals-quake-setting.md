@@ -1,7 +1,7 @@
 ---
 title: Enabling Windows Terminal's Quake Setting
-date: 2024-06-22 22:55:39
-updated: 2024-06-24 11:12:21
+date: 2024-06-25T16:23:08.872Z
+updated: 2024-06-26T16:23:08.872Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ Here's how to enable and use Quake mode in Windows Terminal.
 
  The name Quake mode refers to the similar-looking terminal window you could open in the iD Software game, Quake.
 
- If you don't know what Quake is, why not check out some[classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
+ If you don't know what Quake is, why not check out some [classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
 
 ## How to Open Windows Terminal in Quake Mode
 
@@ -44,7 +44,7 @@ There are two ways to open the Windows Terminal in Quake mode.
 
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
 
- If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+ If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open [Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ## Hiding and Restoring the Terminal Window
 
@@ -66,7 +66,7 @@ To reveal the window again, press the same keyboard shortcut.
 
  If you don't see a peek preview, you can right-click on the terminal icon in the Taskbar and select**Close Window** .
 
- If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
+ If the [Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 ## Start Windows Terminal in Quake Mode at Logon
 
@@ -82,7 +82,7 @@ To reveal the window again, press the same keyboard shortcut.
 
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
- If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
+ If you have [disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
 
 ## Using the Windows Terminal's Quake Mode
 
@@ -103,3 +103,24 @@ To reveal the window again, press the same keyboard shortcut.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-sorry-there-is-a-problem-with-the-onedrive-servers-error-on-windows/"><u>6 Ways to Fix the “Sorry, There Is a Problem With the OneDrive Servers” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-unavailable-windows-updates-in-windows/"><u>Restoring Unavailable Windows Updates in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-incorrect-windows-duo-software-setup/"><u>Steps to Rectify Incorrect Windows Duo Software Setup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-guide-insta-video-edits-and-borders/"><u>2024 Approved  Step-By-Step Guide  Insta Video Edits & Borders</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2010-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2010 - How to get it back</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2013-file-stellar-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2013 File? | Stellar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-the-best-youtube-thumbnails-the-free-guide-for-2024/"><u>[New] How to Get the Best YouTube Thumbnails  The Free Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>[Updated] YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-live-stream-tech-showdown-soft-vs-hardscape-winners/"><u>[Updated] Live Stream Tech Showdown  Soft vs Hardscape Winners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-filmora-editing-traits-for-fan-loyalty/"><u>Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-camon-20-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Camon 20 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+</ul></div>

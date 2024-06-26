@@ -1,7 +1,7 @@
 ---
 title: "Bringing Back Your Game: Fixing LoL Connection Failure"
-date: 2024-06-21 22:16:13
-updated: 2024-06-24 12:51:41
+date: 2024-06-25T17:01:36.998Z
+updated: 2024-06-26T17:01:36.998Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
 
-1. Go to the[Riot Games Server Status website](https://status.riotgames.com/) .
+1. Go to the [Riot Games Server Status website](https://status.riotgames.com/) .
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
 ## 2\. Rule Out Internet Issues
 
- If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
+ If Riot servers are fully active, your internet might be the problem. Test your internet speed using [free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
 
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
@@ -69,9 +69,7 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
 Proceed to the next step if the above checks and fixes do not help.
 
-## 3\. Connect to a Different Network
-
-![WiFi symbol seen on a smartphone next to a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secure-smartphone-hotspot.jpg)
+## 3\. Connect to a Different Network ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
@@ -83,7 +81,7 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Due to League of Legends' online nature, tens of requests are communicated between your device and Riot servers every second. Wide-scale communications can cause Windows Defender's firewall or your antivirus to consider this activity harmful and block the connection after a certain number of requests.
 
- To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on[whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
+ To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on [whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
 
  You will need to whitelist the EXE file, so here is the path to the executable:
 
@@ -104,9 +102,9 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ## 6\. Report the Problem to Riot Games
 
- Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
+ Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the [League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
- If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
+ If the support team asks about logs, run the [Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 ## Fix the League of Legends Disconnecting Issue
 
@@ -127,3 +125,23 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/ways-to-streamline-win11s-print-management-max-52-chars/"><u>Ways to Streamline Win11’s Print Management (Max 52 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quiet-quandaries-winning-back-volume-from-vexed-keyboard/"><u>Quiet Quandaries: Winning Back Volume From Vexed Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-tips-for-a-win11-masterpiece/"><u>Transform Your Desktop: Tips for a Win11 Masterpiece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-7-steps-to-missing-windows-add-ons/"><u>Enhancing User Experience: 7 Steps to Missing Windows Add-Ons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-surface-laptop-go-3-gains-processor-yet-fails-to-shine/"><u>Microsoft's Surface Laptop Go 3 Gains Processor, Yet Fails to Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-program-space-allocation/"><u>Optimizing Your PC's Program Space Allocation</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 using macOS finder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-visualizer-vs-studio-monitors-for-2024/"><u>[New] Visualizer Vs Studio Monitors for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-supercharge-your-edits-top-10-fcpx-plugins-to-save-time-and-boost-creativity-for-2024/"><u>New Supercharge Your Edits Top 10 FCPX Plugins to Save Time and Boost Creativity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>In 2024, Timeless Thread Triumphs  Reddit’s All-Time Fave List (Top 10)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-motivational-moments-the-ultimate-list-for-insta/"><u>2024 Approved  Motivational Moments  The Ultimate List for Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faithful-chimes-how-to-personalize-them/"><u>[Updated] Faithful Chimes - How to Personalize Them</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-transition-adopting-windows-11/"><u>Seamless Transition  Adopting Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-success-in-win11-meetings-with-advanced-zooming-techniques-for-2024/"><u>Secure Success in Win11 Meetings with Advanced Zooming Techniques for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-start-zooming-into-success-with-win11/"><u>2024 Approved  Quick Start  Zooming Into Success with Win11</u></a></li>
+</ul></div>

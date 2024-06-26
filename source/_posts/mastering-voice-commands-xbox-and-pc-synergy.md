@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Commands: Xbox & PC Synergy"
-date: 2024-06-25 23:20:54
-updated: 2024-06-26 12:29:42
+date: 2024-06-25T17:09:05.166Z
+updated: 2024-06-26T17:09:05.166Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  The Recording Audio troubleshooter can be helpful for fixing many microphone-related issues in Windows. So, maybe it will help some users fix this Xbox app microphone issue. You can open the Recording Audio troubleshooter from the Control Panel in both Windows 11/10 like this:
 
-1. Open Run (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for methods) and type in**Control Panel** in its**Open** box.
+1. Open Run (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for methods) and type in**Control Panel** in its**Open** box.
 2. Select**OK** to open a Control Panel window.
 3. If you’re in the category view, click**Large icons** on the**View by** menu.  
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/large-icons-option.jpg)
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  Windows has microphone permission settings that need to be enabled for the Xbox app to pick up sound. So, make sure microphone access is allowed for the Xbox app. This is how you can enable microphone access for the Xbox app on Windows:
 
-1. To open Settings, press the**Windows** logo and**I** keyboard keys simultaneously. Check out[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways.
+1. To open Settings, press the**Windows** logo and**I** keyboard keys simultaneously. Check out [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways.
 2. Click the**Privacy** Settings**category** or**tab** .
 3. Select**Microphone** to view mic app options.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
 ## 6\. Reset the Xbox App
 
- The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
+ The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our [how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
 
@@ -105,11 +105,11 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
 ## 8\. Reinstall the Xbox App
 
- The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+ The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in [how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
- After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
+ After uninstalling the Xbox app, open its [Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -129,3 +129,24 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-end-task-control-for-window-management/"><u>Utilizing End Task Control for Window Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-bypassing-windows-11-sign-in-errors/"><u>Strategies for Bypassing Windows 11 Sign-In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-taskbar-for-optimal-datetime-view/"><u>Tailoring Windows 11 Taskbar for Optimal Date/Time View</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-background-apps-in-windows-11/"><u>How to Disable Background Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-disk-designations-c-and-d-varieties/"><u>Navigating Disk Designations: C and D Varieties</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-retrieving-cortana-history-from-windows/"><u>Step-by-Step: Retrieving Cortana History From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-with-apple-maps-from-a-pc/"><u>Steering with Apple Maps From a PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-best-high-quality-discord-music-bots-you-should-try/"><u>In 2024, Best High-Quality Discord Music Bots You Should Try</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs/"><u>[Updated] How to Capture and Share Your Favorite Pics on Social Platforms with OBS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-decoding-vimeos-variety-of-subscription-plans-and-their-advantages/"><u>[Updated] Decoding Vimeo's Variety of Subscription Plans and Their Advantages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-audio-clip-converter-direct-to-mp3-mode/"><u>[Updated] In 2024, FB Audio Clip Converter  Direct to MP3 Mode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed-for-2024/"><u>Transform Valorant Gameplay  Top-Ranked, Costless Voice Alterer Revealed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-windows-videophone-apps-the-ultimate-7-1/"><u>[Updated] In 2024, Windows Videophone Apps  The Ultimate #7-#1</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>How to Mix Melodies & Text  PowerPoints Unleashed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-guide-adding-videos/"><u>[Updated] 2024 Approved  Twitter's Guide  Adding Videos</u></a></li>
+</ul></div>

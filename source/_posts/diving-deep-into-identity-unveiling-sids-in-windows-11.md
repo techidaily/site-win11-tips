@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Identity: Unveiling SIDs in Windows 11"
-date: 2024-06-21 10:18:33
-updated: 2024-06-24 11:20:38
+date: 2024-06-25T16:23:07.012Z
+updated: 2024-06-26T16:23:07.012Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,7 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 1. Press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **cmd** in the text box and press the **Ctrl + Shift + Enter** keys to open Command Prompt.
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Now, type the following command to view the SID of the currently logged-in user account:  
-whoami /user  
-![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
+whoami /user ![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
 4. You will see the currently logged-in user’s name and the corresponding SID. You can directly select and copy the text from the Command Prompt window. But if you want to export the details to a text file for future use, you can do so by entering the following command:  
 whoami /user > C:\SID.txt
 5. The above command will create a text file named **SID** in the **C** drive. You can open it with Notepad or any other text editor app.
@@ -47,13 +46,11 @@ whoami /user > C:\SID.txt
 wmic useraccount get name,sid
 3. The above command will display the user name and the corresponding SID of all the user accounts. In our instance, it shows three local accounts (a,b, and t), and the administrator, guest, default account, and WDAGUtility account.
 4. You can export all this data into a text file on the D drive by executing the following command:  
-wmic useraccount get name,sid > D:\SID.txt  
-![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
+wmic useraccount get name,sid > D:\SID.txt ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
 5. If you want to get the details of a specific user account on your PC, the syntax of the command is:  
 wmic useraccount where name="USER" get sid
 6. Replace the **USER** part of the command with an actual username. In our case, the command becomes:  
-wmic useraccount where name="a" get sid  
-![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
+wmic useraccount where name="a" get sid ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
 7. Close the Command Prompt window.
 
 ## 3\. Using a PowerShell Cmdlet
@@ -65,8 +62,7 @@ wmic useraccount where name="a" get sid
 1. Press **Win + R** to launch the Run dialog box. Type **powershell** in the text box and press the **Ctrl + Shift + Enter** keys to open PowerShell.
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Type the following command and press the Enter key:  
-Get-WmiObject win32_useraccount | Select name,sid  
-![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
+Get-WmiObject win32_useraccount | Select name,sid ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
@@ -112,3 +108,33 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  The rest of the methods will display the SID of one or all the users on your PC. Lastly, create a batch file to display the SIDs of all users whenever you need it.
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/data-defense-on-windows-top-rated-encryption-applications-153-chars/"><u>Data Defense on Windows: Top-Rated Encryption Applications (153 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-hiding-zips-within-computer-photos/"><u>Sneaky Storage Solutions: Hiding ZIPs Within Computer Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-0x8007007e-error-code/"><u>How to Fix the Windows 0X8007007E Error Code</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-smooth-windows-11-display-transitions/"><u>Steps for Smooth Windows 11 Display Transitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-no-wi-fi-in-windows-network/"><u>Breaking Down No Wi-Fi in Windows Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-playback-lags-a-guide-for-chromium-users/"><u>Overcoming Playback Lags: A Guide for Chromium Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-setup-for-bings-ai-assistance-in-windows-11-search-shortcuts/"><u>Instant Setup for Bing's AI Assistance in Windows 11 Search Shortcuts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-iphone-user-guide-to-hdr-image-creation-for-2024/"><u>[New] IPhone User Guide to HDR Image Creation for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ringtone-revolution-transforming-in-app-music-to-personal-anthems/"><u>New 2024 Approved The Ringtone Revolution Transforming In-App Music to Personal Anthems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-3-simple-options-for-recording-video-games-for-2024/"><u>Updated 3 Simple Options for Recording Video Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful-in-2024/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful, In 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-pros-of-posting-to-tiktok-from-your-personal-computer-or-mac-for-2024/"><u>[New] Pros of Posting to TikTok From Your Personal Computer or MAC for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-x5-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco X5 Fingerprint Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-easy-to-understand-copywriting-tactics-for-fb-campaigns/"><u>[New] In 2024, Easy-to-Understand Copywriting Tactics for FB Campaigns</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>2024 Approved  20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Meizu 21? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

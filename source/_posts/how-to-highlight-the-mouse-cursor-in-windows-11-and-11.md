@@ -1,7 +1,7 @@
 ---
 title: How to Highlight the Mouse Cursor in Windows 11 & 11
-date: 2024-06-24 22:12:54
-updated: 2024-06-26 12:25:38
+date: 2024-06-25T16:08:45.645Z
+updated: 2024-06-26T16:08:45.645Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
 
-1. Use**Win + I** to open up Settings (see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
+1. Use**Win + I** to open up Settings (see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
 2. Select**Bluetooth & devices** in Windows 11’s Settings app. You’ll need to select the**Devices** category in Windows 10.
 3. Click**Mouse** to view settings for that device type.
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  If you would prefer to add a permanent color highlight to the cursor, check out the Mouse Pointer Highlight app. That freely available adds a transparent color circle to the cursor. This is how you can highlight the cursor with Mouse Pointer Highlight:
 
-1. Open the[Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
+1. Open the [Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
 2. Then click**Get in Store** app to bring up a dialog for opening Microsoft Store.
 3. Press that dialog’s**Open Microsoft Store** option.
 4. Then click Mouse Pointer Highlight’s**Install** button.
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 ## How to Highlight the Cursor With PowerToys
 
- PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
+ PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our [best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
 
  PowerToys includes a**Mouse utilities** tab from which you can enable a color highlight circle for your cursor. You can set mouse cursor highlighting with PowerToys like this:
 
-1. Open the[Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
+1. Open the [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
 2. Click**Get in Store** and the Open Microsoft Store options.
 3. Select**Install** to add PowerToys to your app library.
 4. Now open PowerToys, which you’ll find on your Start menu’s app list.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
 
-1. Open the[Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
+1. Open the [Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
@@ -123,3 +123,26 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-grades-with-these-top-8-windows-study-hacks/"><u>Skyrocket Grades with These Top 8 Windows Study Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11-with-an-older-windows-7-product-key/"><u>Launching Windows 11 with an Older Windows 7 Product Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-explore-conceal-and-reveal-folders/"><u>Streamlining Windows Explore: Conceal and Reveal Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-hidden-search-bar-in-win11s-task-manager/"><u>Revealing the Hidden Search Bar in Win11's Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-performance-essential-strategies-with-windows-11/"><u>Skyrocket Your Performance: Essential Strategies with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assess-power-demands-in-windows-based-personal-computers/"><u>Assess Power Demands in Windows-Based Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-turn-off-defender-firewall/"><u>Step-by-Step: How to Turn Off Defender Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-the-windows-11-touchpad-guide/"><u>Navigating with Ease: The Windows 11 Touchpad Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-hidden-wins-must-use-secrets-in-windows-11/"><u>Uncovering Hidden Wins: Must-Use Secrets in Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recovering-individual-snap-secrets/"><u>[New] In 2024, Recovering Individual Snap Secrets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-your-creativity-convert-youtube-clips-into-dynamic-gifs-for-2024/"><u>Channel Your Creativity  Convert YouTube Clips Into Dynamic Gifs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-why-your-posts-turn-upside-down-in-insta/"><u>Understanding Why Your Posts Turn Upside Down in Insta</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-videopad-video-editor-a-thorough-review-and-comparison-with-other-options/"><u>In 2024, Videopad Video Editor A Thorough Review and Comparison with Other Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-full-potential-of-powerdirector-24/"><u>2024 Approved  Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frugal-cloud-cradle-for-copious-file-collection/"><u>[Updated] Frugal Cloud Cradle for Copious File Collection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-video-looper-apps-for-windows-and-mac-top-picks/"><u>In 2024, Free Video Looper Apps for Windows and Mac Top Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/up-to-date-tips-for-purchasing-top-360-imagers/"><u>Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transform-your-social-media-impact-through-effective-live-broadcasts/"><u>[Updated] 2024 Approved  Transform Your Social Media Impact Through Effective Live Broadcasts</u></a></li>
+</ul></div>

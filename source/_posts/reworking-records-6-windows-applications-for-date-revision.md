@@ -1,7 +1,7 @@
 ---
 title: "Reworking Records: 6 Windows Applications for Date Revision"
-date: 2024-06-22 19:28:18
-updated: 2024-06-24 10:44:16
+date: 2024-06-25T16:39:31.732Z
+updated: 2024-06-26T16:39:31.732Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,7 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  So, let’s check out some of the best apps that can help you change the created/modified date on Windows.
 
-## 1\. TimeStamp Changer
-
-![TimeStamp Changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/timestamp-changer-app.jpg)
+## 1\. TimeStamp Changer ![TimeStamp Changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/timestamp-changer-app.jpg)
 
  TimeStamp Changer is a lightweight and easy-to-use app with a minimalist user interface. To use the tool, navigate to the**File** tab and click**Add** . From there, select either the**File** or**Folder** option. Alternatively, you can add your files by dragging and dropping them onto the tool.
 
@@ -32,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  And if you need some assistance along the way, simply navigate to the**Help** tab.
 
-**Download** : TimeStamp Changer for[Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
+**Download** : TimeStamp Changer for [Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
 
-## 2\. BulkFileChanger
-
-![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
+## 2\. BulkFileChanger ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
 
  BulkFileChanger is another lightweight app that doesn’t require any installation. Simply download the tool and run the relevant executable (.exe) file.
 
@@ -44,13 +40,11 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Once you've uploaded a file or folder, click on it. From there, navigate to the**Actions** tab and then select**Change Time/Attributes** . Alternatively, press**F6** .
 
- Tick the**Created** ,**Modified** , or**Accessed** box and then[change the date and time](https://www.makeuseof.com/windows-11-change-date-time/) to your liking. When you finish, press the**Save Settings** button at the bottom.
+ Tick the**Created** ,**Modified** , or**Accessed** box and then [change the date and time](https://www.makeuseof.com/windows-11-change-date-time/) to your liking. When you finish, press the**Save Settings** button at the bottom.
 
-**Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
+**Download** : BulkFileChanger for [Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
-## 3\. Attribute Changer
-
-![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
+## 3\. Attribute Changer ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
 
  Attribute Changer is a bit different from the other tools, but it’s a bit convenient. It allows you to change the date and time of your files through File Explorer’s context menu.
 
@@ -58,11 +52,9 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Tick the**Modify date and time stamps** box. Next, tick the relevant boxes next to the**Created** ,**Modified** , and**Accessed** options. From there, set your preferred date and time for each option. Finally, press**Apply** and then press**OK** to save these changes.
 
-**Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
+**Download** : Attribute Changer for [Windows](https://www.petges.lu/download/) (Free)
 
-## 4\. NewFileTime
-
-![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
+## 4\. NewFileTime ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -72,23 +64,19 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Want your files to be a certain number of days older or younger than their current created/modified date? Click the**be older** or**be younger** tabs and then enter the relevant numbers in the**Days** boxes.
 
-**Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
+**Download** : NewFileTime for [Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
 
-## 5\. AttributeMagic
-
-![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
+## 5\. AttributeMagic ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
- What's interesting is that this tool has sections that[display your file extensions on Windows](https://www.makeuseof.com/ways-to-make-windows-10-show-file-extensions/) alongside its name. Having all this information at your disposal can help you ensure that you’re editing the correct file.
+ What's interesting is that this tool has sections that [display your file extensions on Windows](https://www.makeuseof.com/ways-to-make-windows-10-show-file-extensions/) alongside its name. Having all this information at your disposal can help you ensure that you’re editing the correct file.
 
  To change the file date and time, scroll to the**Date/Time** section and select the relevant options. Finally, press the**Apply** button in the bottom-left corner.
 
-**Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
+**Download** : AttributeMagic for [Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
-## 6\. File & Folder Tools
-
-![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
+## 6\. File & Folder Tools ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
 
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
@@ -96,11 +84,9 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Navigate to the**NEW DateTime** box and tick the relevant boxes next to**Last Created** ,**Last Modified** , and**Last Accessed** . From there, select your preferred date and time, and then click the**CHANGE DATETIME** button.
 
-**Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
+**Download** : File & Folder Tools for [Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
 
-## 7\. Bulk Rename Utility
-
-![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
+## 7\. Bulk Rename Utility ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
@@ -110,19 +96,17 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Navigate to the**Special** tab and select**Change File Timestamps** . Finally, set your preferred date and time, and then press the**OK** button.
 
-**Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
+**Download** : Bulk Rename Utility for [Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
-## 8\. Advanced Renamer
+## 8\. Advanced Renamer ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
-![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
-
- Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
+ Advanced Renamer is another tool whose main purpose is to help you easily [rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
  To use this tool, drag and drop a file onto the middle pane of Advanced Renamer. Next, click the**Add method** button in the top-left corner of the screen and select the**Timestamp** option.
 
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
-**Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
+**Download** : Advanced Renamer for [Windows](https://www.advancedrenamer.com/download) (Free)
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -145,3 +129,24 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-elusive-link-finding-missing-launcher/"><u>Re-Establishing Elusive Link: Finding Missing Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-git-operations-github-desktop-and-windows-11-explained/"><u>Simplifying Git Operations: GitHub Desktop and Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-software-aid-the-best-windows-apps-that-facilitate-mac-switch/"><u>Crucial Software Aid: The Best Windows Apps That Facilitate MAC Switch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-fixing-microsoft-store-error-0x80073cf3-in-win11/"><u>Guidelines for Fixing Microsoft Store Error 0X80073CF3 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-typical-directory-display-order-in-win11/"><u>Reviving Typical Directory Display Order in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-sharex-insight-reviews-and-competing-choices/"><u>[Updated] In 2024, The ShareX Insight  Reviews & Competing Choices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exploring-the-reasons-behind-blue-icons-in-facebooks-chat-communication/"><u>[New] 2024 Approved  Exploring the Reasons Behind Blue Icons in Facebook’s Chat Communication</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-n3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find N3 Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-level-acid-review-and-beyond-comparisons-for-2024/"><u>Pro-Level ACID Review and Beyond Comparisons for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nokia-c300-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nokia C300 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-adobe-premiere-rush-alternatives-updated-2023/"><u>Updated The Ultimate Guide to Adobe Premiere Rush Alternatives (Updated 2023)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Moto E13 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Reviving Your PUBG Saved Data in Windows 11/10
-date: 2024-06-23 22:28:30
-updated: 2024-06-26 12:23:51
+date: 2024-06-25T16:17:03.918Z
+updated: 2024-06-26T16:17:03.918Z
 tags:
   - windows10
   - windows11
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
  One of the most widely confirmed solutions for PUBG not saving game settings is to delete its GameUserSettings.ini file. Deleting that configuration file will reset it, which often fixes PUBG not saving settings. Applying this potential resolution has worked for lots of players, and it could be the same for you. This is how you can delete that GameUserSettings.ini file:
 
 1. Bring up the Run command app, which you can quickly access with the Windows logo key + R hotkey.
-2. Type**%appdata%** inside Run and press**Enter** to[open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) in the AppData folder.
+2. Type**%appdata%** inside Run and press**Enter** to [open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) in the AppData folder.
 3. Click AppData in Explorer’s address bar to view that directory.  
 ![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
 4. Open the**Local** subfolder within the**AppData** directory.
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
 ![The Verify Files option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/verify-files-option.jpg)
 
- Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
+ Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our [guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
 
 ## 3\. Disable Controlled Folder Access
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
- Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
+ Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for [uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
 
 ## Tweak PUBG’s Game Settings Again
 
@@ -100,3 +100,27 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-affected-device-access-post-error-code-22/"><u>How to Reset Affected Device Access Post-Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-the-malfunction-of-windows-delete-operation/"><u>Reversing the Malfunction of Windows Delete Operation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-usb-health-in-windows-a-troubleshooting-checklist/"><u>Restoring USB Health in Windows: A Troubleshooting Checklist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-admin-username-on-windows-11-step-by-step-guide/"><u>Altering Admin Username on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-wattage-of-your-windows-pc-setup/"><u>Discovering the Wattage of Your Windows PC Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-typing-pace-in-windows-11-overcome-keyboard-latency/"><u>Boost Your Typing Pace in Windows 11: Overcome Keyboard Latency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-continuity-of-settings-with-nvidia-control-panel-in-windows-11/"><u>Ensuring Continuity of Settings with NVidia Control Panel in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-clis-for-efficient-task-management-windows-11/"><u>Integrating CLIs for Efficient Task Management (Windows 11)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-zooming-silence-mastering-the-art-of-muting-sound-on-devices-for-2024/"><u>New Zooming Silence Mastering the Art of Muting Sound on Devices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-analysis-which-editing-tool-trumps-the-other-filmora-or-democreator/"><u>Expert Analysis  Which Editing Tool Trumps the Other, Filmora or Democreator?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-m14-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy M14 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-a-step-by-step-approach-to-google-voice-recordings-for-2024/"><u>[New] A Step-by-Step Approach to Google Voice Recordings for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-10plus-best-easy-video-joiner-alternatives/"><u>Updated 2024 Approved 10+ Best Easy Video Joiner Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-gaming-pros-choice-of-5-microphones/"><u>[New] YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-15-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 15 Smoothly</u></a></li>
+</ul></div>

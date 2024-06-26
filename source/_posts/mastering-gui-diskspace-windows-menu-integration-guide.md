@@ -1,7 +1,7 @@
 ---
 title: "Mastering GUI Diskspace: Windows Menu Integration Guide"
-date: 2024-06-23 18:42:36
-updated: 2024-06-26 10:36:39
+date: 2024-06-25T16:44:47.033Z
+updated: 2024-06-26T16:44:47.033Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
 
-1. First, open this[RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
+1. First, open this [RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
 2. Click**Download Now** to view location options for downloading the software.
 3. Select**Secure Download (US)** or**External mirror 1** depending on preference.
 4. Press**Win + E** to open File Explorer ([see how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for more methods) and double-click**RidNacs-2.03-Setup.exe** to open the app’s installer.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
 
-1. Open the[Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
+1. Open the [Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
@@ -100,3 +100,24 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-participating-in-the-windows-11-trials/"><u>Secrets of Participating in the Windows 11 Trials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-window-lock-out-duration-in-windows/"><u>Customize Window Lock-Out Duration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-activity-lock/"><u>How to Adjust Windows Activity Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-the-annoyance-of-a-never-ending-update-loop/"><u>Avoid the Annoyance of a Never-Ending Update Loop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-flashing-display-issues-on-windows-11/"><u>Quick Fix for Flashing Display Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-deleted-history-uncovered-your-guide-to-online-video-retrieval-for-2024/"><u>[Updated] Deleted History Uncovered  Your Guide to Online Video Retrieval for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-video-content-for-a-fanbase-boom-for-2024/"><u>[New] Elevating Your Video Content for a Fanbase Boom for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-serene-editing-cutting-down-on-audio-distractions-using-premiere-pros-latest-features/"><u>Updated Serene Editing Cutting Down on Audio Distractions Using Premiere Pros Latest Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-path-to-iconic-mosaics-a-photography-guide-for-2024/"><u>The Path to Iconic Mosaics  A Photography Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-networks-for-non-friendly-online-discussions-safety-features-and-fun-factor/"><u>Updated In 2024, Essential Networks for Non-Friendly Online Discussions Safety, Features, and Fun Factor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-12-best-self-contained-video-making-software/"><u>[New] 12 Best Self-Contained Video Making Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-start-mastering-ez-grabbers-downloading-and-usage/"><u>[Updated] 2024 Approved  Quick Start  Mastering EZ Grabber's Downloading & Usage</u></a></li>
+</ul></div>

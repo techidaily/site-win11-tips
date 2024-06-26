@@ -1,7 +1,7 @@
 ---
 title: "Reestablishing Access: Rectifying Unreachable EA Services"
-date: 2024-06-24 14:47:31
-updated: 2024-06-25 11:34:43
+date: 2024-06-25T16:53:56.188Z
+updated: 2024-06-26T16:53:56.188Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Occasionally, EA servers go down during maintenance or when facing technical problems. As such, before you do any troubleshooting, first ensure that the EA servers are actually up and running. Follow these steps to check that:
 
-1. Go to the[official EA Help website](https://help.ea.com/en/?r=1) .
+1. Go to the [official EA Help website](https://help.ea.com/en/?r=1) .
 2. Navigate to the**Games** menu in the top-left corner of the screen, find the game giving you the error, and click on it.  
 ![Select a Game From Games Menu to Check Its Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-a-game-from-games-menu-to-check-its-status-on-ea-website.jpg)
 3. Wait a few seconds and click on the**Server Status** link on the right side of the screen.  
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Your device needs to be connected to a reliable internet connection to connect to EA servers successfully. Before investigating the issue further, check whether the internet is even connected.
 
- If it is, check the stability of your internet connection. Try any of the[best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
+ If it is, check the stability of your internet connection. Try any of the [best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
 
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  EA can temporarily suspend or permanently ban your account if you violate the terms of the User Agreement you signed when you created it. Once the ban has been imposed, you can't use many game features, which include online gaming.
 
- To check if you have been banned, visit the[EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
+ To check if you have been banned, visit the [EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
 
 ![Click on My Ban History From Accounts Menu on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-my-ban-history-from-accounts-menu-on-ea-website.jpg)
 
- If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the[EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
+ If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the [EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
 
 ![EA Website Showing No Ban History of an Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ea-website-showing-no-ban-history-on-a-account.jpg)
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  A bad DNS server can cause internet connectivity issues. If you've never changed the DNS on your device, you're probably using the one assigned by your ISP. So, try changing it to see if it fixes the problem.
 
- Check out[how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
+ Check out [how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
 
  We recommend switching to Google DNS (8.8.8.8, 8.8.4.4) because it's more stable and offers faster response times. However, you can choose any DNS server that you prefer.
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
 
- If things don't look right, check out[how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
+ If things don't look right, check out [how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
 
 ## Get Connected to EA's Servers Again
 
@@ -121,3 +121,26 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-keystroke-combinations-on-pcs/"><u>Fixing Unwanted Keystroke Combinations on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-screen-unresponsive-error-on-windows-11/"><u>Overcoming 'Screen Unresponsive' Error on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-workings-of-windows-odbc-tools/"><u>Insight Into the Workings of Windows ODBC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-camera-saving-errors/"><u>Guiding Through Windows Camera Saving Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconnecting-lost-window-pans-in-windows-11/"><u>Reconnecting Lost Window Pans in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-installer-errors-in-windows-environment/"><u>Overcoming uTorrent Installer Errors in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-with-these-fixes-for-windows-update/"><u>Smooth Sailing with These Fixes for Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-usb-drive-errors-windows-tips/"><u>Eliminating USB Drive Errors: Windows Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-operational-obs-cam-after-fix/"><u>2024 Approved  Operational OBS Cam After Fix</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-free-ai-video-generators-with-innovativeadvanced-algorithms/"><u>New Best 10 Free AI Video Generators with Innovative/Advanced Algorithms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-twin-screens-archive-capture/"><u>In 2024, Twin Screens Archive Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-zoom-with-youtube-live/"><u>In 2024, Unlocking the Full Potential of Zoom with YouTube Live</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-fine-tuning-tone-in-audacity-keeping-the-quality-intact-while-changing-pitch/"><u>New In 2024, Fine-Tuning Tone in Audacity Keeping the Quality Intact While Changing Pitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-look-into-magix-graphic-designer/"><u>A Look Into MAGIX Graphic Designer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deep-dive-the-economy-and-impact-of-online-stars/"><u>[New] 2024 Approved  Deep Dive  The Economy and Impact of Online Stars</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-video-previews-a-compreayer-approach-for-youtube-for-2024/"><u>Elevating Video Previews  A Compreayer Approach for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-digital-dynamics-mastering-youtube-video-distribution-on-facebook/"><u>[Updated] Digital Dynamics  Mastering YouTube Video Distribution on Facebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 12 5G Phone Password Using Emergency Call</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Hidden Paths of Window Menus on PC
-date: 2024-06-24 11:30:35
-updated: 2024-06-26 12:15:18
+date: 2024-06-25T16:31:15.635Z
+updated: 2024-06-26T16:31:15.635Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,34 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-subnet-configurations-in-windows-11/"><u>Alter Subnet Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-upcoming-license-expiration-error-in-w10w11/"><u>Addressing Upcoming License Expiration Error in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-management-follies-steering-clear-of-windows-11-errors/"><u>File Management Follies: Steering Clear of Windows 11 Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnections-windows-and-printers/"><u>Overcoming Disconnections: Windows & Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-discrepancies-in-computers-processor-utilization/"><u>Resolving Discrepancies in Computers' Processor Utilization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resynchronize-google-drive-on-desktop-os/"><u>Essential Steps to Resynchronize Google Drive on Desktop OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-wont-start-spotify-on-windows-1011-platforms/"><u>Curing Won't Start Spotify on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-20-key-cmd-commands-a-primer/"><u>Mastering 20 Key CMD Commands: A Primer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-free-youtube-intro-makers/"><u>2024 Approved  Best Free YouTube Intro Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-achieve-financial-stardom-strategies-for-youtube-success-on-fb/"><u>[Updated] 2024 Approved  Achieve Financial Stardom  Strategies for YouTube Success on FB</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>[New] 2024 Approved  From Novice to Viral Video  Top 30 Anime Inspiration Ideas</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-digital-identity-start-a-youtube-channel-today/"><u>In 2024, Building Your Digital Identity  Start a YouTube Channel Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unique-stories-crafting-powerful-yt-narratives/"><u>[Updated] In 2024, Unique Stories  Crafting Powerful YT Narratives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-frameworks-exclusive-list-of-top-cameras/"><u>2024 Approved  Future Frameworks  Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlimited-hd-videostreaming-on-your-device/"><u>[New] 2024 Approved  Unlimited HD Videostreaming on Your Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-10-premium-platforms-for-high-definition-video-wallpaper-acquisition/"><u>New 2024 Approved Top 10 Premium Platforms for High-Definition Video Wallpaper Acquisition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-androids-premier-sound-editing-tools-a-top-10-list-that-doesnt-feature-audacity/"><u>Updated 2024 Approved Exploring Androids Premier Sound Editing Tools A Top-10 List that Doesnt Feature Audacity</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

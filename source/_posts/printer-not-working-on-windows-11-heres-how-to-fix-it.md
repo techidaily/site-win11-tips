@@ -1,7 +1,7 @@
 ---
 title: Printer Not Working on Windows 11? Here's How to Fix It
-date: 2024-06-23 12:46:30
-updated: 2024-06-24 12:37:42
+date: 2024-06-25T16:53:01.735Z
+updated: 2024-06-26T16:53:01.735Z
 tags:
   - windows10
   - windows11
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 * Turn off your printer and turn it back on again.
 * Unplug the printer from its power source and reconnect it.
 * If you have a wired printer, make sure it's properly connected and that the cable connecting it to your device is in good condition.
-* Connect the printer to a different USB port to rule out possible port issues. If a USB port issue turns out to be the root cause of the problem, follow the instructions in our guide on[how to diagnose and fix USB port issues](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
+* Connect the printer to a different USB port to rule out possible port issues. If a USB port issue turns out to be the root cause of the problem, follow the instructions in our guide on [how to diagnose and fix USB port issues](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 * If you have a wireless printer, ensure it is properly paired with your device. You can also disconnect it once and repair it again to make sure there are no temporary glitches.
 * If you have multiple printers connected to your device, unplug them all except the one you intend to use.
 * If your office printer isn't working correctly, make sure it isn't already connected to more devices than it's allowed to.
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 1. Right-click**Microsoft Print to PDF** and select**Properties** from the drop-down menu.
 2. Go to the**Details** panel.
 3. Select**Device instance path** from the drop-down list under**Property** and then copy the**Value** that appears.
-4. Go to the[DriverPack database](https://driverpack.io/en/catalog) .
+4. Go to the [DriverPack database](https://driverpack.io/en/catalog) .
 5. Paste the copied value in the search box, download a suitable driver and then install it.
 
 ## 3\. Restart the Print Spooler Service
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
- If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
+ If you have never disabled the firewall before, check out our guide on [how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
 ## 6\. Check for New Windows Updates
 
@@ -159,3 +159,27 @@ To go back to a restore point:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mastering-customization-user-dir-names-in-w11/"><u>Mastering Customization: User Dir Names in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-advanced-shortcuts-into-windows-explorer-menus/"><u>Integrating Advanced Shortcuts Into Windows Explorer Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wins-update-failure-on-win11-v22h2/"><u>Troubleshooting Wins Update Failure on Win11 V22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-barriers-how-to-successfully-install-java/"><u>Overcoming Barriers: How to Successfully Install Java</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-applying-apple-maps-to-windows/"><u>Step-by-Step Guide: Applying Apple Maps to Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-networking-essential-pre-call-tests-for-webcamsmics/"><u>Navigating Networking: Essential Pre-Call Tests for Webcams/Mics</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-google-meet-green-screen/"><u>Updated In 2024, How to Google Meet Green Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-20-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 20 Pro Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-core-interface-youtube-studio-explained-for-2024/"><u>The Core Interface  YouTube Studio Explained for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-free-video-editing-software-for-newbies/"><u>New 2024 Approved Top-Rated Free Video Editing Software for Newbies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-complete-inshot-editors-handbook-to-smoothness/"><u>[Updated] In 2024, The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-pova-5-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Pova 5 Pro online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-strategy-with-these-20-marketing-terms/"><u>2024 Approved  Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-online-video-editing-essentials-download-edit-and-publish-like-a-pro/"><u>Updated In 2024, Online Video Editing Essentials Download, Edit, and Publish Like a Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-your-youtube-videography-with-powerful-wm-maker-skills/"><u>In 2024, Tailoring Your YouTube Videography with Powerful WM Maker Skills</u></a></li>
+</ul></div>

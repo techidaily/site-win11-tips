@@ -1,7 +1,7 @@
 ---
 title: "Easy-to-Follow Pathway: Accessing WordPad on PCs"
-date: 2024-06-22 21:27:46
-updated: 2024-06-24 10:14:15
+date: 2024-06-25T17:00:42.049Z
+updated: 2024-06-26T17:00:42.049Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ To open WordPad using the search tool, follow these steps:
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
 
-1. Open Windows File Explorer (see[how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see [how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type the following and press**Enter** :  
 `C:\Program Files\Windows NT\Accessories\wordpad.exe`
 
@@ -85,7 +85,7 @@ To open WordPad using the Control Panel, follow these steps:
 
 To do this, follow these steps:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "cmd" to open Command Prompt, and "powershell" for Windows PowerShell.
 3. Now press**Ctrl + Shift + Enter** on your keyboard.
 4. If UAC prompts on the screen, click**Yes** to grant privileges.
@@ -149,3 +149,22 @@ To open WordPad using the Start menu, follow these steps:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-surface-computer-firmware-update-manual/"><u>The Ultimate Surface Computer Firmware Update Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-and-apply-techniques-for-lockunlock-fn-button/"><u>Learn & Apply Techniques for Lock/Unlock Fn Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cloak-the-ctrl-secure-settings-in-win-1011/"><u>Cloak the CTRL - Secure Settings in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-11-integrity-through-activation-verification/"><u>Assessing Windows 11 Integrity Through Activation Verification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stick-notes-to-app-windows-in-windows-1110/"><u>How to Stick Notes to App Windows in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-scheduling-in-windows-11-calendar/"><u>Streamlining Scheduling in Windows 11 Calendar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-seamlessly-post-vimeo-to-instagram/"><u>[Updated] 2024 Approved  Seamlessly Post Vimeo to Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-beginners-handbook-to-harnessing-the-power-of-movie-maker-in-windows-11/"><u>[New] A Beginner's Handbook to Harnessing the Power of Movie Maker in Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>Unlocking Creative Potential  Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-windows-10s-most-popular-free-video-trimming-tools-for-2024/"><u>Updated Windows 10S Most Popular Free Video Trimming Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elite-list-of-best-videocall-services-without-cost/"><u>In 2024, Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-6s-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 6s When Its Locked Within Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-htc-u23-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On HTC U23 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-transform-your-video-chats-using-zooms-filters/"><u>[New] Transform Your Video Chats Using Zoom's Filters</u></a></li>
+</ul></div>

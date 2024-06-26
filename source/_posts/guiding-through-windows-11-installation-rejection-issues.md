@@ -1,7 +1,7 @@
 ---
 title: Guiding Through Windows 11 Installation Rejection Issues
-date: 2024-06-22 13:15:20
-updated: 2024-06-24 10:20:42
+date: 2024-06-25T16:06:09.870Z
+updated: 2024-06-26T16:06:09.870Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ Additionally, you may also see the following error:
 
 ## What Are the System Requirements to Install Windows 11?
 
- Interestingly, the official[Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
+ Interestingly, the official [Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
 
  The following are the system requirements to install and run Windows 11:
 
@@ -45,7 +45,7 @@ Additionally, you may also see the following error:
 * System firmware that supports UEFI, Secure Boot capable
 * Trusted Platform Module (TPM) 1.2/2.0.
 
- Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the[PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
+ Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the [PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
@@ -55,7 +55,7 @@ Additionally, you may also see the following error:
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
- In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+ In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can [learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -71,14 +71,12 @@ Additionally, you may also see the following error:
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
-## 1\. Enable Secure Boot in Windows 10
-
-![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
+## 1\. Enable Secure Boot in Windows 10 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 1. Close all the open Windows and save your work. Then shut down your PC.
-2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on[how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
+2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on [how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
 3. In the BIOS setup utility, use the arrow keys to open the**Boot** tab. Highlight**Boot Mode** and check if it is set to**Legacy** .
 4. To change the Boot Mode, press Enter while the**Boot Mode** is highlighted.
 5. Choose**UEFI** from the options. Use the Up and Down arrow keys to select UEFI, and hit Enter to select the option.
@@ -107,7 +105,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Note that your system must support at least TPM 1.2 for this workaround to work.
 
- Note that editing your Windows Registry involves risk. Make sure to[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
+ Note that editing your Windows Registry involves risk. Make sure to [create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor.**
@@ -121,7 +119,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 7. In the Value data field, type**1** and click**OK** to save the changes.
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
- If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
+ If the issue persists, read our guide to [bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
 
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
 
@@ -152,3 +150,23 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/chrome-compatibility-with-windows-11-explained/"><u>Chrome Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-security-running-as-administrator/"><u>Navigating Windows Security: Running As Administrator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-cloud-storage-onedrive-login-on-windows/"><u>Master Your Cloud Storage: OneDrive Login on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-online-gaming-prevent-lol-disconnections-in-windows/"><u>Secure Online Gaming: Prevent LoL Disconnections in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-utorrent-installer-errors-in-windows-environment/"><u>Overcoming uTorrent Installer Errors in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unveiling-the-enthralling-realm-of-animated-entertainment-on-tiktok/"><u>[Updated] Unveiling the Enthralling Realm of Animated Entertainment on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-basic-approach-tweaking-clownfish-tones-in-windoze/"><u>2024 Approved  Basic Approach  Tweaking Clownfish Tones in Windoze</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-backtrack-your-youtube-queue-swiftly-and-sweetly/"><u>[Updated] 2024 Approved  Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-chuckle-hour-on-tiktok-joke-and-riddle-roundup-for-laughter-lovers-for-2024/"><u>[Updated] Chuckle Hour on TikTok  Joke & Riddle Roundup for Laughter Lovers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-forum-film-facsimile/"><u>In 2024, Fb Forum Film Facsimile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-insider-writers-on-popular-tiktok-wallpapers/"><u>[Updated] In 2024, Insider' Writers on Popular TikTok Wallpapers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-countdown-best-zombie-games-ranked/"><u>[New] In 2024, The Ultimate Countdown  Best Zombie Games Ranked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elite-remote-meeting-apps-beyond-zoom-for-2024/"><u>Elite Remote Meeting Apps  Beyond Zoom for 2024</u></a></li>
+</ul></div>

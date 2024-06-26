@@ -1,7 +1,7 @@
 ---
 title: Taming Windows Chrome Blackouts
-date: 2024-06-23 11:52:16
-updated: 2024-06-24 11:19:57
+date: 2024-06-25T17:00:21.019Z
+updated: 2024-06-26T17:00:21.019Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
  To resize the Chrome window, click the**Restore Down** icon in the top right corner. Then, move your mouse cursor over the edge of the window and click and hold the left mouse button. Drag the window to the size you want and see if that fixes the issue.
 
- Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
+ Another option is to restart the browser. This will force Google Chrome to reload its graphical interface on your computer and fix the black screen issue. To close Google Chrome on Windows, open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more information). In the**Processes** tab, right-click on**Google Chrome** , and select**End task** from the context menu.
 
 ![Force Close Chrome Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/force-close-chrome-using-task-manager.jpg)
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ## 2\. Disable Hardware Acceleration
 
- When you enable[hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
+ When you enable [hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
 
  Several users on the forums reported fixing Google Chrome black screen issue by simply disabling the hardware acceleration feature. You can also give this method a shot.
 
@@ -96,7 +96,7 @@ To disable extensions in Google Chrome:
 4. Select the**Reset settings** option to confirm.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-google-chrome.jpg)
 
- Check out[how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
+ Check out [how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
 ## 6\. Reinstall Google Chrome
 
@@ -110,9 +110,9 @@ To uninstall Google Chrome on your Windows computer, use these steps.
 ![Uninstall Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-google-chrome.jpg)
 4. Follow the on-screen instructions to uninstall Google Chrome.
 
- After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on[how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
+ After completing the above steps, make sure you remove any residual Chrome files from your computer. If you need help with that, check our guide on [how to eradicate leftovers from uninstalled software in Windows 10 & 11](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) and follow the steps outlined there.
 
- Once you've done that, use another browser to[visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
+ Once you've done that, use another browser to [visit Google Chrome's official website](https://www.google.com/intl/en%5Fin/chrome/) to download the Google Chrome installation file and install the browser on your computer.
 
 ## Start Using Google Chrome Again
 
@@ -135,3 +135,24 @@ To uninstall Google Chrome on your Windows computer, use these steps.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-cmd-guru-understand-these-20-crucial-commands/"><u>Become a CMD Guru: Understand These 20 Crucial Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-restart-printers-automatic-service-in-win/"><u>Methods to Restart Printer's Automatic Service in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-problems-with-saving-windows-volume-configurations/"><u>Overcoming Problems with Saving Window's Volume Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-your-windows-11-administrative-credentials/"><u>Efficiently Manage Your Windows 11 Administrative Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-ai-enhance-windows-11-usability/"><u>How Does AI Enhance Windows 11 Usability?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-non-functioning-intel-unison-issues-in-windows-11/"><u>Navigating Through Non-Functioning Intel Unison Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-hashtag-bites-10-viral-recipes-on-tiktok/"><u>[New] 2024 Approved  Hashtag Bites  10 Viral Recipes on TikTok</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oneplus-11r-by-drfone-android/"><u>Full Guide to Unlock Your OnePlus 11R</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>In 2024, Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-screen-recorder-for-mp4-files/"><u>2024 Approved  Advanced Screen Recorder for MP4 Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-zooms-filters-for-clear-premium-calls/"><u>2024 Approved  Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-want-to-learn-how-to-trim-videos-with-kapwing-video-trimmer-this-guide-will-explain-everything-you-need-to-know-to-trim-video-kapwing-to-rem/"><u>Updated In 2024, Want to Learn How to Trim Videos with Kapwing Video Trimmer? This Guide Will Explain Everything You Need to Know to Trim Video Kapwing to Remove Unnecessary Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-get-ultimate-premium-quality-discord-icons-at-no-charge/"><u>[New] 2024 Approved  Get Ultimate, Premium-Quality Discord Icons at NO Charge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tricks-to-download-twitter-videos-and-turn-into-mp3-files/"><u>[Updated] Tricks to Download Twitter Videos and Turn Into MP3 Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-game-on-unbeatable-business-simulations-for-the-year-for-2024/"><u>[Updated] Game On! - Unbeatable Business Simulations for the Year for 2024</u></a></li>
+</ul></div>

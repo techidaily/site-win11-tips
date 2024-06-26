@@ -1,7 +1,7 @@
 ---
 title: Boosting Windows 11 Visuality with App Sizing
-date: 2024-06-21 21:24:54
-updated: 2024-06-24 10:43:23
+date: 2024-06-25T16:08:27.802Z
+updated: 2024-06-26T16:08:27.802Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  AutoSizer is a lightweight freeware app you can utilize on most Windows platforms. That software enables you to set program windows to open at specified width and height values with its**Resize** action option. Or you can select alternative**Maximize** ,**Minimize** , or**Restore** action options in that app. This is how you can set preset sizes for software windows with AutoSizer:
 
-1. Open the[AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
+1. Open the [AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
 2. Click the**Download AutoSizer** link on that page and download the file.
 3. Double-click**assetup.exe** to open it.
 4. Go through the AutoSizer setup wizard to install the software.
@@ -49,17 +49,17 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
- And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ And if you're a big fan of hotkeys, be sure to check out [how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
 
- Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
+ Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
 
  WinSize2 enables you to save preset window sizes and positions by pressing a hotkey. Admittedly, WinSize2 isn’t especially user-friendly, but it’s a handy app when you get to grips with it. You can set preset sizes for windows with WinSize2 like this:
 
-1. Bring up the[WinSize2](https://winsize2.sourceforge.net/en/) website.
+1. Bring up the [WinSize2](https://winsize2.sourceforge.net/en/) website.
 2. Click the**Download WinSize 2** link.
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
@@ -111,3 +111,23 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/speed-spectrum-mastering-windows-network-adapter-assessment-methods/"><u>Speed Spectrum: Mastering Windows' Network Adapter Assessment Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-mail-tips-for-resolving-html-code-displays-in-emails/"><u>Fixing Windows 11 Mail: Tips for Resolving HTML Code Displays in Emails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-yuzu-fps-on-pc-systems/"><u>Enhancing Yuzu FPS on PC Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-background-operations-with-edge-in-win11/"><u>Ensuring Smooth Background Operations with Edge in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failures-from-windows-memory-tool/"><u>How To Rectify Failures From Windows Memory Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-demanded-assets-error-in-windows-1011-environments/"><u>Overcoming Demanded Assets Error in Windows 10/11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-for-eliminating-windows-temp-files/"><u>Expert Advice for Eliminating Windows' Temp Files</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-sync-up-with-tiktok-live-the-strategy-for-participation/"><u>[New] 2024 Approved  Sync Up with TikTok Live  The Strategy for Participation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-best-zero-cost-image-editors-online/"><u>[Updated] Ultimate Guide  Best Zero-Cost Image Editors Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/"><u>[Updated] Steps to Instagram Verification & Fan Growth in Under 150 Characters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sparking-social-media-stories-facebook-fame-techniques/"><u>Sparking Social Media Stories  Facebook Fame Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>2024 Approved  Edit Like a Pro  10 Must-Know Tips for Newbies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-the-moment-an-examination-of-camstudio/"><u>[Updated] Capture the Moment  An Examination of CamStudio</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-2022-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE (2022) Properly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-cinematic-experiences-exploring-top-6-genres/"><u>2024 Approved  Captivating Cinematic Experiences  Exploring Top 6 Genres</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-best-screen-recorders-with-no-lag/"><u>[New] In 2024, Top 8 Best Screen Recorders with No Lag</u></a></li>
+</ul></div>

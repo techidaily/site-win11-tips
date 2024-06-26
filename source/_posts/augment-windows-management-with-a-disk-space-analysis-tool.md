@@ -1,7 +1,7 @@
 ---
 title: Augment Windows Management with a Disk Space Analysis Tool
-date: 2024-06-22 15:13:23
-updated: 2024-06-24 11:44:43
+date: 2024-06-25T16:54:18.868Z
+updated: 2024-06-26T16:54:18.868Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
 
-1. First, open this[RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
+1. First, open this [RidNacs](https://www.softpedia.com/get/System/Hard-Disk-Utils/RidNacs.shtml) download page.
 2. Click**Download Now** to view location options for downloading the software.
 3. Select**Secure Download (US)** or**External mirror 1** depending on preference.
 4. Press**Win + E** to open File Explorer ([see how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for more methods) and double-click**RidNacs-2.03-Setup.exe** to open the app’s installer.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
 
-1. Open the[Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
+1. Open the [Disk Savvy](https://www.disksavvy.com/downloads.html) download page.
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
@@ -100,3 +100,24 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/1719364670351-create-a-gratis-local-gptclone-with-gpt4all-for-windows/"><u>Create a Gratis, Local GPTClone with GPT4All for Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-software-windows-best-photo-arrangers-reviewed/"><u>Winning Software: Windows' Best Photo Arrangers Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/virtualbox-v70-upgrade-guide-win11-edition-walkthrough/"><u>VirtualBox v7.0 Upgrade Guide – Win11 Edition Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-windows-subsystem-enhance-linux-presence/"><u>Does Windows Subsystem Enhance Linux Presence?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrive-error-resolution-guide-for-windows-enthusiasts/"><u>OneDrive Error Resolution Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-network-error-in-windows-11-systems/"><u>Remedying Steam Network Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-resource-usage-in-windows-modules-installer/"><u>Lowering Resource Usage in Windows Modules Installer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-grammarly-a-dead-service-on-your-desktop/"><u>Reactivating Grammarly, a Dead Service on Your Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-10-best-cartoon-video-makers-online-and-desktop-solution/"><u>New 2024 Approved 10 Best Cartoon Video Makers (Online and Desktop Solution)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-maximize-communication-video-conferencing-tips-for-android/"><u>In 2024, Maximize Communication  Video Conferencing Tips for Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation-for-2024/"><u>[Updated] Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>2024 Approved  A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/remove-filmora-stamp-a-comprehensive-guide-for-free-and-paid-users-for-2024/"><u>Remove Filmora Stamp A Comprehensive Guide for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-elite-software-solutions-capturing-every-discord-moment/"><u>In 2024, Elite Software Solutions  Capturing Every Discord Moment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola has been deleted</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-become-an-instagram-influencer-a-complete-guide/"><u>[Updated] How to Become an Instagram Influencer  A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[New] Visual Brand Integration  Embedding Watermarks and Logos Into Youtube Media</u></a></li>
+</ul></div>

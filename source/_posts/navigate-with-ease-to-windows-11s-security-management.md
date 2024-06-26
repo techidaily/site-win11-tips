@@ -1,7 +1,7 @@
 ---
 title: Navigate with Ease to Windows 11’S Security Management
-date: 2024-06-24 13:56:44
-updated: 2024-06-25 10:48:34
+date: 2024-06-25T16:54:43.354Z
+updated: 2024-06-26T16:54:43.354Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To access the Authorization Manager, follow these steps:
 
  Another way to open the Authorization Manager in Windows is through the Run dialog box. Here's how to do it:
 
-1. Press**Win + R** on your keyboard to[open the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type azman.msc and press**Enter** to launch the Authorization Manager.
 
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
@@ -62,7 +62,7 @@ To access the Authorization Manager, follow these steps:
 
  Task Manager is a great way to manage your computer's performance and troubleshoot any issues. Besides this, it also provides quick access to the Authorization Manager. Here's how:
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager. Check out[how to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
+1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager. Check out [how to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
 2. Click**Run new task** at the top of Task Manager.  
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
@@ -71,7 +71,7 @@ To access the Authorization Manager, follow these steps:
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
 
- To[create a desktop shortcut on Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) , do the following:
+ To [create a desktop shortcut on Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) , do the following:
 
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)
@@ -100,3 +100,24 @@ C:\WINDOWS\system32\azman.msc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-core-variations-between-exe-and-msi-formats/"><u>Analyzing the Core Variations Between EXE and Msi Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-for-repairing-nonfunctional-itunes-on-windows/"><u>Efficient Methods for Repairing Nonfunctional iTunes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-and-apply-techniques-for-lockunlock-fn-button/"><u>Learn & Apply Techniques for Lock/Unlock Fn Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convergence-of-ios-and-windows-using-apple-maps-effectively/"><u>Convergence of iOS and Windows: Using Apple Maps Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-virtual-collaboration-with-zoom-and-win11-tools-for-2024/"><u>Leveraging Virtual Collaboration with Zoom & Win11 Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-saving-your-favorite-screened-events/"><u>Expert Tips for Saving Your Favorite Screened Events</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-digital-footprint-the-ultimate-screen-recording-manual/"><u>[New] 2024 Approved  Streamline Your Digital Footprint  The Ultimate Screen Recording Manual</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube/"><u>New The Ultimate Guide on How to Promoting Music Videos on YouTube</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-examination-of-cambridge-sound-technologies-cxu-equipment/"><u>New 2024 Approved Examination of Cambridge Sound Technologies CXU Equipment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-cams-face-off-gopro-hero5-black-and-garmin-virb-ultra-30/"><u>In 2024, Pro Cams Face-Off  GoPro Hero5 Black and Garmin VIRB Ultra 30</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-imovie-to-pro-finding-the-best-movie-maker-software-for-your-mac-for-2024/"><u>Updated From iMovie to Pro Finding the Best Movie Maker Software for Your Mac for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-crafting-cinematic-lyrics-with-advanced-afx-templates/"><u>Updated Crafting Cinematic Lyrics with Advanced AFX Templates</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-quick-guide-reversing-an-unintended-tiktok-refresh/"><u>In 2024, Quick Guide  Reversing an Unintended TikTok Refresh</u></a></li>
+</ul></div>

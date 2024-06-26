@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Creating Self-Extracting FX in Win11"
-date: 2024-06-23 20:36:35
-updated: 2024-06-26 10:27:45
+date: 2024-06-25T16:45:51.895Z
+updated: 2024-06-26T16:45:51.895Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,9 @@ Now we can get started using IExpress Wizard:
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
- 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
+ 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to [encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
 
-1. Go to[the 7-Zip](https://www.7-zip.org/download.html) download page.
+1. Go to [the 7-Zip](https://www.7-zip.org/download.html) download page.
 2. Install Z-Zip on your PC.
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.
@@ -114,3 +114,26 @@ Testing the SFX File With 7-ZIP
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-for-windows-1011-search-that-fails-to-display-output/"><u>Troubleshooting for Windows 10/11 Search that Fails to Display Output</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11s-resolution-settings/"><u>Adjusting Windows 11'S Resolution Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-server-hiccups-in-ms-store-win-1011/"><u>Navigating Through Server Hiccups in MS Store, Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-virtualbox-usb-connection-issue-on-windows-devices/"><u>Overcoming VirtualBox USB Connection Issue on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/envisioning-the-ideal-user-experience-in-windows-11/"><u>Envisioning the Ideal User Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reenergizing-your-dead-wireless-hotspot-in-windows-11/"><u>Reenergizing Your Dead Wireless Hotspot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pure-potential-upgrade-with-minimalist-win11/"><u>Pure Potential: Upgrade with Minimalist Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tap-into-divine-interface-capabilities-in-windows-11/"><u>Tap Into Divine Interface Capabilities in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reignite-the-gaming-revolution-integrate-trophies-and-awards-using-retroarch/"><u>Reignite the Gaming Revolution - Integrate Trophies and Awards Using Retroarch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swift-solutions-shifting-ios-media-files/"><u>Swift Solutions  Shifting iOS Media Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-your-phone-for-virtual-world-explorations-for-2024/"><u>Harnessing Your Phone for Virtual World Explorations for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-master-the-art-of-sowing-and-cultivation-in-valheim/"><u>2024 Approved  Master the Art of Sowing and Cultivation in Valheim</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vlogging-vs-micro-video-which-outperforms-in-2024-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video  Which Outperforms, In 2024 YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-list-android-3d-viewing-tools-for-2024/"><u>A-List Android 3D Viewing Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>The way to get back lost data from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g73-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G73 5G Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-camon-30-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Camon 30 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lighten-up-your-digital-presence-kapwing-maker/"><u>2024 Approved  Lighten Up Your Digital Presence - Kapwing Maker</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mp4-auditory-unlocking-nine-pathways-to-seamless-sound-extraction-in-the-upcoming-year-for-2024/"><u>New MP4 Auditory Unlocking Nine Pathways to Seamless Sound Extraction in the Upcoming Year for 2024</u></a></li>
+</ul></div>

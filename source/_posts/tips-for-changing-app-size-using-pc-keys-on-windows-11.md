@@ -1,7 +1,7 @@
 ---
 title: Tips for Changing App Size Using PC Keys on Windows 11
-date: 2024-06-23 11:22:45
-updated: 2024-06-24 11:16:55
+date: 2024-06-25T17:12:07.582Z
+updated: 2024-06-26T17:12:07.582Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  Sizer is a handy freeware program with which you can set up hotkeys that resize software windows to specific dimensions. This is how to resize software windows by creating keyboard shortcuts with Sizer:
 
-1. Open[Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
+1. Open [Sizer’s](https://www.softpedia.com/get/System/OS-Enhancements/Sizer.shtml) Softpedia download page.
 2. Click**Download Now** \>**Softpedia Mirror (US)** options.
 3. Sizer’s setup file will be in the folder your browser is configured to download to. Press your keyboard’s**Win** +**E** keys to view File Explorer, and go to the folder that includes the Sizer setup wizard.
 4. Double-click the**sizer4\_dev556.msi** file.
@@ -73,11 +73,11 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
- Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
+ Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
  If you want to create a hotkey for a window size not included on the**Menu** tab, click the**Add Size** button; input alternative dimension values in the**Width** and**Height** boxes. Enter a title for the keyboard hotkey in the**Description** box. Then set a hotkey for the window size as instructed for steps 10 to 13 above.
 
- Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on[BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
+ Sizer’s macro feature enables users to set up more complex scripts for resizing windows. You can set one up by clicking the**Add Macro** button. However, you’ll need to enter Sizer expressions to create a macro. The Sizer Railroad Diagrams page on [BrianApps](http://www.brianapps.net/sizer4/rail.html) provides further details about the syntax for that program's macro expressions.
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ If you're really enjoying using hotkeys, check out [how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -111,3 +111,26 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/mending-the-corrupted-file-issue-in-windows-11-os-error-0x80070570/"><u>Mending the Corrupted File Issue in Windows 11 OS (Error 0X80070570)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-overcoming-defender-engine-outage-in-5-steps/"><u>Essential Methods: Overcoming Defender Engine Outage in 5 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-verify-errors-for-third-party-windows-apps/"><u>Circumventing Verify Errors for Third-Party Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-failed-file-creation-on-11-camera-app/"><u>Bypassing Failed File Creation on 11 Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-writing-rights-denied-on-windows-devices/"><u>Remedying Writing Rights Denied on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-file-lockdowns-access-restoration-on-pcs/"><u>Reversing File Lockdowns: Access Restoration on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-date-changes-on-windows-pcs/"><u>Steps to Prevent Date Changes on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-win-credits-to-microsoft-logins/"><u>Directing WIN Credits to MICROSOFT LOGINS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-office-365-issue-code-30015-26/"><u>Correcting Office 365 Issue: Code 30015-26</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-secrets-of-sound-regulation-mastering-audio-levels-in-davinci-resolve-for-2024/"><u>The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-masterclass-in-creating-compelling-fb-video-marketing-campaigns-for-2024/"><u>[New] Masterclass in Creating Compelling FB Video Marketing Campaigns for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-understanding-twitters-new-video-format-codes/"><u>[New] In 2024, Understanding Twitter's New Video Format Codes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preeminent-online-spaces-enhancing-youtube-traffic-for-2024/"><u>Preeminent Online Spaces Enhancing YouTube Traffic for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/radial-magic-transforming-ordinary-photos-into-art/"><u>Radial Magic  Transforming Ordinary Photos Into Art</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>In 2024, Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-tutorial-tracker/"><u>[New] 2024 Approved  Trending Tutorial Tracker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-f5-pro-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to F5 Pro 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-high-performance-game-mice-and-keyboards-for-gamers/"><u>[New] Affordable High-Performance Game Mice and Keyboards for Gamers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor 70 Lite 5G</u></a></li>
+</ul></div>

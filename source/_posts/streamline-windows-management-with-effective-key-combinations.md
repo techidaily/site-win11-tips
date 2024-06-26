@@ -1,7 +1,7 @@
 ---
 title: Streamline Windows Management with Effective Key Combinations
-date: 2024-06-25 16:22:13
-updated: 2024-06-26 11:12:36
+date: 2024-06-25T16:27:00.459Z
+updated: 2024-06-26T16:27:00.459Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Redo is to do an action that you have undone on your PC; it's the opposite of undo. For example, if you decide that you really don't need the image file you had first deleted and then brought back using undo, you can redo the action and delete the image file again.
 
- If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn[how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
+ If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn [how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+ If you like using your keyboard to perform actions, be sure to check out [how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
@@ -81,3 +81,24 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unraveling-typical-windows-rainmeter-setbacks-and-how-to-overcome-them/"><u>Unraveling Typical Windows Rainmeter Setbacks and How to Overcome Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-troubleshooting-the-windows-camera-app/"><u>A Complete Guide to Troubleshooting the Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-s-mode-a-safe-choice-for-beginners/"><u>Windows 11 S Mode: A Safe Choice for Beginners?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-address-translation-win1110-edition-explained/"><u>Navigating Network Address Translation: Win11/10 Edition Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-key-clues-suggesting-windows-reboot-required/"><u>3 Key Clues Suggesting Windows Reboot Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-non-admin-account-permissions-in-windows/"><u>Fine-Tuning Non-Admin Account Permissions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-token-access-failure-errors/"><u>Understanding and Solving Token Access Failure Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-edthemes-in-windows-11/"><u>Implementing EdThemes in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-xs-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone XS Max Without Apple ID Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-independent-analysis-unveiling-the-mysteries-of-3dr/"><u>[Updated] Independent Analysis  Unveiling the Mysteries of '3DR'</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-rise-of-short-vids-can-likes-outperform-tiktoks-hits/"><u>[New] In 2024, The Rise of Short Vids  Can Likes Outperform TikTok's Hits?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone | Stellar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g84-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G84 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-perfect-quick-and-efficient-video-editing-keyboard-shortcuts-in-filmora/"><u>New In 2024, How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-the-industry-standard-for-a-reason/"><u>Updated In 2024, Final Cut Pro The Industry Standard for a Reason</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-is-magix-samplitude-setting-the-benchmark-in-digital-music-production/"><u>Updated Is MAGIX Samplitude Setting the Benchmark in Digital Music Production?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-aria-elimination-kit-compose-one-of-a-kind-background-scores/"><u>New Aria Elimination Kit Compose One-of-a-Kind Background Scores</u></a></li>
+</ul></div>

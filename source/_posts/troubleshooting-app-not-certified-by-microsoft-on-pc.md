@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'App Not Certified by Microsoft' On PC
-date: 2024-06-23 19:52:36
-updated: 2024-06-24 12:54:18
+date: 2024-06-25T17:01:17.984Z
+updated: 2024-06-26T17:01:17.984Z
 tags:
   - windows10
   - windows11
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
  Therefore, you should turn off this feature to remove any restrictions. To turn it off, follow these steps:
 
-1. Open the Local Group Policy Editor. To do this, check out[how to open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) if you're not using Windows Home edition, and learn [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you are.
+1. Open the Local Group Policy Editor. To do this, check out [how to open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) if you're not using Windows Home edition, and learn [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you are.
 2. Navigate to **Computer Configuration > Administrative Templates > Windows Components > Windows Defender SmartScreen > Explorer**.  
 ![Go to Explorer Folder by Navigating to the Path in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-go-to-explorer-folder-by-navigating-to-the-path-in-windows-local-group-policy-editor.jpg)
 3. Open the policy for **Configure App Install Control**.
@@ -116,3 +116,31 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
  Have you encountered the error"the app you're trying to install isn't a Microsoft-verified app"while installing an app? The error occurs if you have configured your system to only install apps from the Microsoft Store. You could have set this permission on purpose, or it might have been set by default.
 
  Other than that, a corrupted Microsoft Store cache, installing an app from an unofficial source, and enabling Windows S mode can also cause the error. Below, you will find a few checks and fixes you should apply to resolve the error and install the app successfully.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-antiquity-embellishing-old-games-with-retroarch-awards/"><u>Upgrade the Antiquity - Embellishing Old Games With Retroarch Awards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-mouse-movement-how-to-stop-acceleration/"><u>Master Your Mouse Movement: How to Stop Acceleration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unsuccessful-nvidia-connect-attempts-in-windows-11/"><u>Resolving Unsuccessful Nvidia Connect Attempts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-the-8-most-common-mistakes-for-beginners-to-skip/"><u>Navigating Windows 11: The 8 Most Common Mistakes for Beginners to Skip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-correct-xbox-mic-issues-in-os/"><u>Guidelines to Correct Xbox Mic Issues in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-ultimate-toolkit-to-counteract-bsod-on-win10/"><u>Your Ultimate Toolkit to Counteract BSOD on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-strategies-against-locked-out-windows-pin/"><u>Immediate Strategies Against Locked-Out Windows PIN</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Galaxy A05 Phone Forgot Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/leveraging-youtubes-cc-options-for-video-production/"><u>Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-auto-tracking-camera-mount/"><u>In 2024, Best Auto Tracking Camera Mount</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-easy-cartoon-making-top-10-online-and-offline-solutions/"><u>New In 2024, Easy Cartoon Making Top 10 Online and Offline Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expanding-reach-fb-live-on-broadcast-networks-for-2024/"><u>[Updated] Expanding Reach  FB Live on Broadcast Networks for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-visual-language-of-live-videos-on-youtube/"><u>[New] In 2024, Decoding the Visual Language of Live Videos on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unboxing-unveiled-enhancing-customer-experiences/"><u>2024 Approved  Unboxing Unveiled  Enhancing Customer Experiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-to-structuring-youtube-content-with-separate-chapters/"><u>In 2024, Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-direct-from-mobile-how-to-upload-videos-on-twit/"><u>[Updated] Direct From Mobile  How to Upload Videos on Twit</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

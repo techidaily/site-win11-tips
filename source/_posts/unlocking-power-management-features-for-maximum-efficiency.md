@@ -1,7 +1,7 @@
 ---
 title: Unlocking Power Management Features for Maximum Efficiency
-date: 2024-06-23 20:29:35
-updated: 2024-06-25 12:23:57
+date: 2024-06-25T16:35:15.707Z
+updated: 2024-06-26T16:35:15.707Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ## 1\. How to Enable or Disable Battery Saver Mode Using Quick Settings
 
- The[Quick Settings panel in Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/) provides access to frequently used features such as Wi-Fi, Bluetooth, Airplane Mode, and others. You can also access this panel to turn the battery saver mode on or off quickly.
+ The [Quick Settings panel in Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/) provides access to frequently used features such as Wi-Fi, Bluetooth, Airplane Mode, and others. You can also access this panel to turn the battery saver mode on or off quickly.
 
  Simply press**Win + A** to open the Quick Settings panel, and then click the**Battery saver** icon to enable or disable it.
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Although the Settings app is the most commonly used method for configuring the battery saver mode in Windows, it's not the only option available. You can also use a command-line tool like Command Prompt or Windows PowerShell to configure the battery saver mode to turn on automatically. Here are the steps for the same.
 
-1. Use one of the[many ways to open Command Prompt or PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/) on your PC.
+1. Use one of the [many ways to open Command Prompt or PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/) on your PC.
 2. Type the following command in the console and press**Enter** .  
 `powercfg /setdcvalueindex scheme_current sub_energysaver esbattthreshold <BatteryPercentage>`
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Configure the Battery Saver Mode to Turn On Automatically Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-the-battery-saver-mode-to-turn-on-automatically-using-command-prompt.jpg)
 
- While PowerShell and Windows Terminal may look similar, they act very differently. Check our detailed guide to learn[the differences between PowerShell and Windows Terminal](https://www.makeuseof.com/windows-terminal-vs-powershell/) .
+ While PowerShell and Windows Terminal may look similar, they act very differently. Check our detailed guide to learn [the differences between PowerShell and Windows Terminal](https://www.makeuseof.com/windows-terminal-vs-powershell/) .
 
 ## Easily Enable or Disable Battery Saver Mode on Windows
 
@@ -87,3 +87,26 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/explore-netstat-on-windows-11-a-guide-to-tracking-data-flow/"><u>Explore Netstat on Windows 11: A Guide to Tracking Data Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insight-into-hardware-allocated-memory-in-windows/"><u>An Insight Into Hardware-Allocated Memory in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rethinking-default-browsing-in-newest-windows-os/"><u>Rethinking Default Browsing in Newest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-visuals-applying-microsoft-store-themes-in-windows/"><u>Reimagining Visuals: Applying Microsoft Store Themes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-windows-application-net-error-message/"><u>Correcting the Windows Application .NET Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-pc-essential-free-tools-for-win11-users/"><u>Mastering Your PC: Essential Free Tools for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stops-repeated-edge-icons-on-workspace/"><u>Stops Repeated Edge Icons on Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-x-fold-2-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo X Fold 2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g34-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G34 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-crafting-the-perfect-soundtrack-for-your-vimeo-content/"><u>[New] In 2024, Crafting the Perfect Soundtrack for Your Vimeo Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-identify-stomach-gas-acoustics-recording/"><u>New In 2024, Identify Stomach Gas Acoustics Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/harness-iphones-potential-for-breathtaking-hdr-images/"><u>Harness iPhone's Potential for Breathtaking HDR Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>In 2024, Optimal Online Presence  Streamlined Background Settings in Zoom & Google Meets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-top-tier-face-off-hero5-b-and-sessions/"><u>[New] GoPro's Top Tier Face-Off  Hero5 B & Sessions</u></a></li>
+</ul></div>

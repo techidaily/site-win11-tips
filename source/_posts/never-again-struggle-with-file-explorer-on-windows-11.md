@@ -1,7 +1,7 @@
 ---
 title: Never Again Struggle with File Explorer on Windows 11
-date: 2024-06-22 22:32:34
-updated: 2024-06-25 12:40:10
+date: 2024-06-25T17:01:04.927Z
+updated: 2024-06-26T17:01:04.927Z
 tags:
   - windows10
   - windows11
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
- We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+ We have a detailed guide on [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
 
 * **Run an SFC Scan:** [Performing an SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow Windows to examine your PC for corrupt or damaged system files and repair them.
-* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
-* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can [use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
+* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -109,3 +109,24 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-power-management-options/"><u>Exploring Windows' Power Management Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-roblox-frame-rates-on-windows-systems/"><u>Boosting Roblox Frame Rates on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-start-guide-initiating-screen-capture-on-win-11/"><u>Quick Start Guide: Initiating Screen Capture on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-remedies-for-server-miss-on-pc-apex-(156-chars/"><u>Essential Remedies for Server Miss on PC Apex (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-app-engagement-in-modern-window-os/"><u>Speedy App Engagement in Modern Window OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobes-secrets-ms-store-version-acquisition/"><u>Unlocking Adobe's Secrets: MS Store Version Acquisition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-view-count-on-youtube-two-hacks/"><u>In 2024, Skyrocketing View Count on YouTube (Two Hacks)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplicity-in-skewing-photographic-content/"><u>[New] Simplicity in Skewing Photographic Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] In 2024, Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-vertical-vs-horizontal-on-facebook-videos/"><u>[Updated] In 2024, Navigating Vertical vs Horizontal on Facebook Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-generator-for-2024/"><u>New What Is an AI Video Generator for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcast-scriptwriting-made-easy-techniques-and-illustrative-templates-for-2024/"><u>Podcast Scriptwriting Made Easy  Techniques and Illustrative Templates for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>No Fuss, Full Fun  Exploring iFunny's Meme Treasure</u></a></li>
+</ul></div>
