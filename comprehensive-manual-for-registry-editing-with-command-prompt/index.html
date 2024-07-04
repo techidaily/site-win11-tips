@@ -38,8 +38,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg">
-<meta property="article:published_time" content="2024-06-25T08:15:35.509Z">
-<meta property="article:modified_time" content="2024-06-26T08:15:35.509Z">
+<meta property="article:published_time" content="2024-07-03T04:38:48.173Z">
+<meta property="article:modified_time" content="2024-07-04T04:38:48.173Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -607,7 +607,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4283</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4944</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -660,15 +660,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 16:15:35</span>
-        <span class="mobile">2024-06-25 16:15:35</span>
+        <span class="desktop">2024-07-03 12:38:48</span>
+        <span class="mobile">2024-07-03 12:38:48</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 16:15:35</span>
-            <span class="mobile">2024-06-26 16:15:35</span>
+            <span class="desktop">2024-07-04 12:38:48</span>
+            <span class="mobile">2024-07-04 12:38:48</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -734,12 +734,13 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Comprehensive-Manual-for-Registry-Editing-with-Command-Prompt"><a href="#Comprehensive-Manual-for-Registry-Editing-with-Command-Prompt" class="headerlink" title="Comprehensive Manual for Registry Editing with Command Prompt"></a>Comprehensive Manual for Registry Editing with Command Prompt</h2><p> The Registry Editor is the first thing Windows users bring up when it comes to editing the Windows Registry. However, if you don’t want to deal with a distracting GUI and too many clicks, there’s a simpler-looking tool you can use: the Command Prompt.</p>
 <p> Although using it takes a little more know-how than the Registry Editor, our guide should be able to get you started.</p>
-<h2 id="How-to-View-the-List-of-Registry-Commands-in-Command-Prompt"><a href="#How-to-View-the-List-of-Registry-Commands-in-Command-Prompt" class="headerlink" title="How to View the List of Registry Commands in Command Prompt "></a>How to View the List of Registry Commands in Command Prompt <img  
+<h2 id="How-to-View-the-List-of-Registry-Commands-in-Command-Prompt"><a href="#How-to-View-the-List-of-Registry-Commands-in-Command-Prompt" class="headerlink" title="How to View the List of Registry Commands in Command Prompt"></a>How to View the List of Registry Commands in Command Prompt</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg"
                       alt="the command to view all reg commands"
-                ></h2><p> There aren’t a lot of commands when it comes to editing the registry using Command Line. To view them all, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >open Command Prompt as an administrator <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and run the below command in Command Prompt:</p>
+                ></p>
+<p> There aren’t a lot of commands when it comes to editing the registry using Command Line. To view them all, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >open Command Prompt as an administrator <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and run the below command in Command Prompt:</p>
 <p><code>reg /?</code></p>
 <p> Command Prompt will then list the commands, such as <strong>reg add</strong>, <strong>reg delete</strong>, <strong>reg copy</strong>, and <strong>reg save</strong>.</p>
 <p><img  
@@ -766,12 +767,13 @@
 <p> Deleting the key is simple as well, as you just need to replace <strong>add</strong> with <strong>delete</strong> in the above example. Here’s how:</p>
 <p><code>reg delete HKLM\SOFTWARE\MyNewKey /f</code></p>
 <p> Now the <strong>MySubKey</strong> key will disappear in the Registry Editor.</p>
-<h2 id="How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry"><a href="#How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry" class="headerlink" title="How to Add, Modify, and Delete Values in the Windows Registry "></a>How to Add, Modify, and Delete Values in the Windows Registry <img  
+<h2 id="How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry"><a href="#How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry" class="headerlink" title="How to Add, Modify, and Delete Values in the Windows Registry"></a>How to Add, Modify, and Delete Values in the Windows Registry</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg"
                       alt="adding a value to Windows registry in Command Prompt"
-                ></h2><p> To add or modify a value key in the registry using Command Prompt, you’ll still use the <strong>reg add</strong> command like above. However, this time, you’ll also have to specify the following parameters: value (<strong>&#x2F;v</strong>), value type (<strong>&#x2F;t</strong>), and value data (<strong>&#x2F;d</strong>). Here’s an example of what the command would like:</p>
+                ></p>
+<p> To add or modify a value key in the registry using Command Prompt, you’ll still use the <strong>reg add</strong> command like above. However, this time, you’ll also have to specify the following parameters: value (<strong>&#x2F;v</strong>), value type (<strong>&#x2F;t</strong>), and value data (<strong>&#x2F;d</strong>). Here’s an example of what the command would like:</p>
 <p><code>reg add HKLM\SOFTWARE\MyNewKey /v MyValue /t REG_DWORD /d &quot;1&quot; /f</code></p>
 <p> Once you run the command, you will be able to find the value in the Registry Editor. And if the key doesn’t exist, Command Prompt will create it.</p>
 <p> The Windows Registry uses several value types, and here’s a table of the common ones:</p>
@@ -814,48 +816,53 @@
 <p> To delete the value, you just need to use the <strong>reg delete</strong> command while specifying the path to the key, and the name of the value. Here’s an example of deleting the value we created earlier:</p>
 <p><code>reg delete HKLM\SOFTWARE\MyNewKey /v MyValue /f</code></p>
 <p> After running the above command successfully, the value should disappear from the Registry Editor.</p>
-<h2 id="How-to-Copy-Registry-Entries-From-One-Key-to-Another"><a href="#How-to-Copy-Registry-Entries-From-One-Key-to-Another" class="headerlink" title="How to Copy Registry Entries From One Key to Another "></a>How to Copy Registry Entries From One Key to Another <img  
+<h2 id="How-to-Copy-Registry-Entries-From-One-Key-to-Another"><a href="#How-to-Copy-Registry-Entries-From-One-Key-to-Another" class="headerlink" title="How to Copy Registry Entries From One Key to Another"></a>How to Copy Registry Entries From One Key to Another</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg"
                       alt="transfering entries from one registry key to another in Command Prompt"
-                ></h2><p> Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the <strong>reg copy</strong> command while specifying the key you’re copying them from and the one you’re copying them to (keep in mind that both keys have to already exist before you run the command). Here’s an example:</p>
+                ></p>
+<p> Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the <strong>reg copy</strong> command while specifying the key you’re copying them from and the one you’re copying them to (keep in mind that both keys have to already exist before you run the command). Here’s an example:</p>
 <p><code>reg copy HKLM\SOFTWARE\MyNewKey1 HKLM\SOFTWARE\MyNewKey2 /s</code></p>
 <p> The <strong>&#x2F;s</strong> switch at the end tells Command Prompt that it should copy every subkey and value in the first key (<strong>MyNewKey1</strong>) into the second one (<strong>MyNewKey2</strong>).</p>
 <p> Unfortunately, there’s no way to copy specific values from one key to another. You’ll have to use the Registry Editor for that.</p>
-<h2 id="How-to-Import-Registry-Entries"><a href="#How-to-Import-Registry-Entries" class="headerlink" title="How to Import Registry Entries "></a>How to Import Registry Entries <img  
+<h2 id="How-to-Import-Registry-Entries"><a href="#How-to-Import-Registry-Entries" class="headerlink" title="How to Import Registry Entries"></a>How to Import Registry Entries</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg"
                       alt="importing a registry file in Command Prompt"
-                ></h2><p> If you have <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-registry-file-guide/" >created a Windows Registry file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or downloaded it elsewhere, you can import it into the registry using the <strong>reg import</strong> command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here’s an example:</p>
+                ></p>
+<p> If you have <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-registry-file-guide/" >created a Windows Registry file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or downloaded it elsewhere, you can import it into the registry using the <strong>reg import</strong> command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here’s an example:</p>
 <p><code>reg import C:\Users\CHIFUNDO\Desktop\MyRegFile.reg</code></p>
 <p> Once you run that command, the contents of the reg file will be merged with the registry.</p>
-<h2 id="How-to-Export-Registry-Entries"><a href="#How-to-Export-Registry-Entries" class="headerlink" title="How to Export Registry Entries "></a>How to Export Registry Entries <img  
+<h2 id="How-to-Export-Registry-Entries"><a href="#How-to-Export-Registry-Entries" class="headerlink" title="How to Export Registry Entries"></a>How to Export Registry Entries</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg"
                       alt="exproting a registry key in Command Prompt"
-                ></h2><p> You can export a key in the registry using the <strong>reg export</strong> command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here’s an example:</p>
+                ></p>
+<p> You can export a key in the registry using the <strong>reg export</strong> command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here’s an example:</p>
 <p><code>reg export &quot;HKLM\SOFTWARE\MyNewKey&quot; D:\Reg_Backup\CHIFUNDO\Desktop\MyRegFile.reg</code></p>
 <p> After you run the command successfully, check the location you entered, and you’ll find the key and its associated subkeys and values have been exported successfully. In our case, it will create a file called <strong>MyRegFile.reg</strong> and save it on the desktop.</p>
 <p> You can also export a specific value using the <strong>reg query</strong> command and include the key, value, and path to the registry file you want to export the value to. Here’s an example.</p>
 <p><code>reg query HKLM\SOFTWARE\MyNewKey /v MyValue &gt; C:\Users\CHIFUNDO\Desktop\MyRegFile.reg</code></p>
 <p> The resulting registry file will only contain the key and the specific value you exported.</p>
-<h2 id="How-to-Save-Registry-Entries"><a href="#How-to-Save-Registry-Entries" class="headerlink" title="How to Save Registry Entries "></a>How to Save Registry Entries <img  
+<h2 id="How-to-Save-Registry-Entries"><a href="#How-to-Save-Registry-Entries" class="headerlink" title="How to Save Registry Entries"></a>How to Save Registry Entries</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg"
                       alt="saving-a-key-to-a-registry-file-in-windows"
-                ></h2><p> If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the <strong>reg save</strong> command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here’s an example:</p>
+                ></p>
+<p> If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the <strong>reg save</strong> command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here’s an example:</p>
 <p><code>reg save HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv /y</code></p>
 <p> The <strong>&#x2F;y</strong> switch at the end of the command above overwrites the file you’re saving the key to without bringing up a prompt. When you open the file, you won’t be able to read the contents since it will be saved as a binary file.</p>
-<h2 id="How-to-Restore-Registry-Entries"><a href="#How-to-Restore-Registry-Entries" class="headerlink" title="How to Restore Registry Entries "></a>How to Restore Registry Entries <img  
+<h2 id="How-to-Restore-Registry-Entries"><a href="#How-to-Restore-Registry-Entries" class="headerlink" title="How to Restore Registry Entries"></a>How to Restore Registry Entries</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg"
                       alt="restoring-a-registry-key-in-command-prompt"
-                ></h2><p> So, let’s say something has happened to the keys and values within the <strong>MyNewKey2</strong> we saved in the previous section, you can use the backup file you created to restore it. You’ll need to use the <strong>reg restore</strong> command. Here’s how to run it:</p>
+                ></p>
+<p> So, let’s say something has happened to the keys and values within the <strong>MyNewKey2</strong> we saved in the previous section, you can use the backup file you created to restore it. You’ll need to use the <strong>reg restore</strong> command. Here’s how to run it:</p>
 <p><code>reg restore HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv</code></p>
 <p> Now the <strong>MyNewKey2</strong> key should return to the state it was in when you made the backup.</p>
 <h2 id="Tweak-the-Registry-Without-the-Registry-Editor"><a href="#Tweak-the-Registry-Without-the-Registry-Editor" class="headerlink" title="Tweak the Registry Without the Registry Editor"></a>Tweak the Registry Without the Registry Editor</h2><p> While Command Prompt can’t do everything the Registry Editor does, it does offer a quick way to edit the registry without opening the aforementioned tool. While using Command Prompt to tweak the registry is quite advanced, even if you’re the average user, you should be able to get by if you follow along closely.</p>
@@ -897,11 +904,11 @@
         <li><strong>Title:</strong> Comprehensive Manual for Registry Editing with Command Prompt</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 16:15:35</li>
+                :</strong> 2024-07-03 12:38:48</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 16:15:35
+                    :</strong> 2024-07-04 12:38:48
             </li>
         
         <li>
@@ -945,13 +952,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/dealing-with-cannot-access-source-file-in-win1110/"
+                        href="/3-ways-to-check-for-open-tcpip-ports-on-windows/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Dealing with Cannot Access Source File in Win11/10</span>
+                                <span class="post-nav-title-item">3 Ways to Check for Open TCP/IP Ports on Windows</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -961,10 +968,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/bypassing-windows-11s-fatal-0xf0831-malfunction/"
+                        href="/guide-to-reinstalling-microsoft-store-apps-on-windows-10-and-11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Bypassing Windows 11&#39;S Fatal 0XF0831 Malfunction</span>
+                                <span class="post-nav-title-item">Guide to Reinstalling Microsoft Store Apps on Windows 10 &amp; 11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -986,7 +993,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">Comprehensive Manual for Registry Editing with Command Prompt</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Comprehensive-Manual-for-Registry-Editing-with-Command-Prompt"><span class="nav-text">Comprehensive Manual for Registry Editing with Command Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-View-the-List-of-Registry-Commands-in-Command-Prompt"><span class="nav-text">How to View the List of Registry Commands in Command Prompt </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Add-and-Delete-Keys-in-the-Windows-Registry"><span class="nav-text">Add and Delete Keys in the Windows Registry</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry"><span class="nav-text">How to Add, Modify, and Delete Values in the Windows Registry </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Copy-Registry-Entries-From-One-Key-to-Another"><span class="nav-text">How to Copy Registry Entries From One Key to Another </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Import-Registry-Entries"><span class="nav-text">How to Import Registry Entries </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Export-Registry-Entries"><span class="nav-text">How to Export Registry Entries </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Save-Registry-Entries"><span class="nav-text">How to Save Registry Entries </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Restore-Registry-Entries"><span class="nav-text">How to Restore Registry Entries </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tweak-the-Registry-Without-the-Registry-Editor"><span class="nav-text">Tweak the Registry Without the Registry Editor</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Comprehensive-Manual-for-Registry-Editing-with-Command-Prompt"><span class="nav-text">Comprehensive Manual for Registry Editing with Command Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-View-the-List-of-Registry-Commands-in-Command-Prompt"><span class="nav-text">How to View the List of Registry Commands in Command Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Add-and-Delete-Keys-in-the-Windows-Registry"><span class="nav-text">Add and Delete Keys in the Windows Registry</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Add-Modify-and-Delete-Values-in-the-Windows-Registry"><span class="nav-text">How to Add, Modify, and Delete Values in the Windows Registry</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Copy-Registry-Entries-From-One-Key-to-Another"><span class="nav-text">How to Copy Registry Entries From One Key to Another</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Import-Registry-Entries"><span class="nav-text">How to Import Registry Entries</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Export-Registry-Entries"><span class="nav-text">How to Export Registry Entries</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Save-Registry-Entries"><span class="nav-text">How to Save Registry Entries</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Restore-Registry-Entries"><span class="nav-text">How to Restore Registry Entries</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tweak-the-Registry-Without-the-Registry-Editor"><span class="nav-text">Tweak the Registry Without the Registry Editor</span></a></li></ol>
 
     </div>
 </div>

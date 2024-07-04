@@ -34,8 +34,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg">
-<meta property="article:published_time" content="2024-06-25T08:39:01.638Z">
-<meta property="article:modified_time" content="2024-06-26T08:39:01.638Z">
+<meta property="article:published_time" content="2024-07-03T04:38:49.667Z">
+<meta property="article:modified_time" content="2024-07-04T04:38:49.667Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -603,7 +603,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4283</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4944</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -656,15 +656,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 16:39:01</span>
-        <span class="mobile">2024-06-25 16:39:01</span>
+        <span class="desktop">2024-07-03 12:38:49</span>
+        <span class="mobile">2024-07-03 12:38:49</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 16:39:01</span>
-            <span class="mobile">2024-06-26 16:39:01</span>
+            <span class="desktop">2024-07-04 12:38:49</span>
+            <span class="mobile">2024-07-04 12:38:49</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -730,12 +730,13 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="A-Practical-Approach-to-Setting-PowerShell-Policies"><a href="#A-Practical-Approach-to-Setting-PowerShell-Policies" class="headerlink" title="A Practical Approach to Setting PowerShell Policies"></a>A Practical Approach to Setting PowerShell Policies</h2><p> iPowerShell, by default, lets you run commands (cmdlets) via its console. To execute a script, you can create a notepad file with the script code, save it with a .ps1 file extension, and execute it via the PowerShell console. You can also directly paste the script onto the console for execution.</p>
 <p> However, if it’s your first time executing a script via PowerShell, you’ll encounter the “running script is disabled” error. By default, script execution on PowerShell is disabled as a security measure to prevent malicious scripts from running on your system. Here we show you the two ways to enable the scrip execution policy on Windows PowerShell.</p>
-<h2 id="How-to-Check-Your-Existing-Execution-Policy"><a href="#How-to-Check-Your-Existing-Execution-Policy" class="headerlink" title="How to Check Your Existing Execution Policy "></a>How to Check Your Existing Execution Policy <img  
+<h2 id="How-to-Check-Your-Existing-Execution-Policy"><a href="#How-to-Check-Your-Existing-Execution-Policy" class="headerlink" title="How to Check Your Existing Execution Policy"></a>How to Check Your Existing Execution Policy</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg"
                       alt="Powershell set execution policy undefined"
-                ></h2><p> You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.</p>
+                ></p>
+<p> You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.</p>
 <p>To get your current execution policy for the current user:</p>
 <ol>
 <li><a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-powershell-administrator/" >Open Windows PowerShell as administrator <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</li>
@@ -765,12 +766,13 @@
 <li>Once done, open PowerShell, type get<strong>executionpolicy,</strong> and press<strong>Enter</strong> . The execution policy for the current user is now set to<strong>RemoteSigned.</strong></li>
 <li>If you need to disable the execution policy, toggle the PowerShell switch and set it to<strong>Off</strong> .</li>
 </ol>
-<h2 id="How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell"><a href="#How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell" class="headerlink" title="How to Allow Scripts to Run in PowerShell using PowerShell "></a>How to Allow Scripts to Run in PowerShell using PowerShell <img  
+<h2 id="How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell"><a href="#How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell" class="headerlink" title="How to Allow Scripts to Run in PowerShell using PowerShell"></a>How to Allow Scripts to Run in PowerShell using PowerShell</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg"
                       alt="Powershell set execcution policy remotesigned"
-                ></h2><p> You can use a <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-powershell-commands-cmdlets/" >PowerShell cmdlet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.</p>
+                ></p>
+<p> You can use a <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-powershell-commands-cmdlets/" >PowerShell cmdlet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.</p>
 <p> Also, the Settings app can only enable or disable the RemoteSigned execution policy. Whereas PowerShell lets you set other policies and scopes as well.</p>
 <p>To change the execution policy using PowerShell:</p>
 <ol>
@@ -780,12 +782,13 @@
 <li>For example, to set the<strong>RemoteSigned</strong> execution policy for<strong>CurrentUser</strong> , use the following command:<br><code>Set-ExecutionPolicy RemoteSgined -Scope CurrentUser</code></li>
 <li>Replace<strong>CurrentUser</strong> in the above command with other users (Scope) as per your requirement.</li>
 </ol>
-<h2 id="How-to-Remove-Script-Execution-Policy-Using-PowerShell"><a href="#How-to-Remove-Script-Execution-Policy-Using-PowerShell" class="headerlink" title="How to Remove Script Execution Policy Using PowerShell "></a>How to Remove Script Execution Policy Using PowerShell <img  
+<h2 id="How-to-Remove-Script-Execution-Policy-Using-PowerShell"><a href="#How-to-Remove-Script-Execution-Policy-Using-PowerShell" class="headerlink" title="How to Remove Script Execution Policy Using PowerShell"></a>How to Remove Script Execution Policy Using PowerShell</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg"
                       alt="set-execution-policy-undefined"
-                ></h2><p> If you want to disable script execution, set the execution policy to<strong>Undefined</strong> using th<strong>e Set_ExecutionPolicy</strong> cmdlet. This is a default state and prevents PowerShell from executing any scripts.</p>
+                ></p>
+<p> If you want to disable script execution, set the execution policy to<strong>Undefined</strong> using th<strong>e Set_ExecutionPolicy</strong> cmdlet. This is a default state and prevents PowerShell from executing any scripts.</p>
 <p>To disable script execution using PowerShell:</p>
 <ol>
 <li>Open PowerShell with elevated permission.</li>
@@ -902,11 +905,11 @@
         <li><strong>Title:</strong> A Practical Approach to Setting PowerShell Policies</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 16:39:01</li>
+                :</strong> 2024-07-03 12:38:49</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 16:39:01
+                    :</strong> 2024-07-04 12:38:49
             </li>
         
         <li>
@@ -950,13 +953,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/accelerate-your-youtube-watch-on-chrome-windows/"
+                        href="/monetization-approaches-for-microsoft-and-windows-11/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Accelerate Your YouTube Watch on Chrome Windows</span>
+                                <span class="post-nav-title-item">Monetization Approaches for Microsoft &amp; Windows 11</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -966,10 +969,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/1719341208077-pause-on-snipwise-discover-fixes-today-here/"
+                        href="/essential-fixes-to-stop-windows-10-blue-screens/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Pause on SnipWise? Discover Fixes Today, Here</span>
+                                <span class="post-nav-title-item">Essential Fixes to Stop Windows 10 Blue Screens</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -991,7 +994,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">A Practical Approach to Setting PowerShell Policies</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#A-Practical-Approach-to-Setting-PowerShell-Policies"><span class="nav-text">A Practical Approach to Setting PowerShell Policies</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Check-Your-Existing-Execution-Policy"><span class="nav-text">How to Check Your Existing Execution Policy </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Enable-PowerShell-Execution-Policy-Using-the-Settings-App"><span class="nav-text">How to Enable PowerShell Execution Policy Using the Settings App</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell"><span class="nav-text">How to Allow Scripts to Run in PowerShell using PowerShell </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Remove-Script-Execution-Policy-Using-PowerShell"><span class="nav-text">How to Remove Script Execution Policy Using PowerShell </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Understanding-Execution-Policies-and-Scopes"><span class="nav-text">Understanding Execution Policies and Scopes</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Execution-Policy-Scope"><span class="nav-text">Execution Policy Scope</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Add-or-Remove-PowerShell-Script-Execution-Policy-on-Windows"><span class="nav-text">Add or Remove PowerShell Script Execution Policy on Windows</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#A-Practical-Approach-to-Setting-PowerShell-Policies"><span class="nav-text">A Practical Approach to Setting PowerShell Policies</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Check-Your-Existing-Execution-Policy"><span class="nav-text">How to Check Your Existing Execution Policy</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Enable-PowerShell-Execution-Policy-Using-the-Settings-App"><span class="nav-text">How to Enable PowerShell Execution Policy Using the Settings App</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Allow-Scripts-to-Run-in-PowerShell-using-PowerShell"><span class="nav-text">How to Allow Scripts to Run in PowerShell using PowerShell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Remove-Script-Execution-Policy-Using-PowerShell"><span class="nav-text">How to Remove Script Execution Policy Using PowerShell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Understanding-Execution-Policies-and-Scopes"><span class="nav-text">Understanding Execution Policies and Scopes</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Execution-Policy-Scope"><span class="nav-text">Execution Policy Scope</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Add-or-Remove-PowerShell-Script-Execution-Policy-on-Windows"><span class="nav-text">Add or Remove PowerShell Script Execution Policy on Windows</span></a></li></ol>
 
     </div>
 </div>

@@ -49,8 +49,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-Command-Prompt-Prompt-Command.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/systeminfocmd.png">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/driverquerycmd.png">
-<meta property="article:published_time" content="2024-06-25T08:23:13.538Z">
-<meta property="article:modified_time" content="2024-06-26T08:23:13.538Z">
+<meta property="article:published_time" content="2024-07-03T04:38:49.389Z">
+<meta property="article:modified_time" content="2024-07-04T04:38:49.389Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -618,7 +618,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4283</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4944</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -671,15 +671,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 16:23:13</span>
-        <span class="mobile">2024-06-25 16:23:13</span>
+        <span class="desktop">2024-07-03 12:38:49</span>
+        <span class="mobile">2024-07-03 12:38:49</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 16:23:13</span>
-            <span class="mobile">2024-06-26 16:23:13</span>
+            <span class="desktop">2024-07-04 12:38:49</span>
+            <span class="mobile">2024-07-04 12:38:49</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -754,71 +754,80 @@
 <p> That’s it. For additional ways to access the command prompt, how to run it with administrator privileges, and other tips and tricks, refer to our <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/" >beginners guide to the Windows command line <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> Curious about the Run command box? We have also compiled a list of <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/" >essential Windows Run commands <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for your convenience.</p>
 <h2 id="Windows-Command-Prompt-Commands"><a href="#Windows-Command-Prompt-Commands" class="headerlink" title="Windows Command Prompt Commands"></a>Windows Command Prompt Commands</h2><p> If you haven’t poked around inside Windows’ command line, you’re missing out. There are lots of handy tools you can use if you know the correct things to type.</p>
-<h3 id="1-Assoc"><a href="#1-Assoc" class="headerlink" title="1. Assoc "></a>1. Assoc <img  
+<h3 id="1-Assoc"><a href="#1-Assoc" class="headerlink" title="1. Assoc"></a>1. Assoc</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/assoccmd.png"
                       alt="Screenshot of Windows command prompt with assoccommand."
-                ></h3><p> Most files on Windows are associated with a specific program that is assigned to open the file by default. At times, remembering these associations can become confusing. You can remind yourself by entering the command <strong>assoc</strong> to display a full list of filename extensions and program associations.</p>
+                ></p>
+<p> Most files on Windows are associated with a specific program that is assigned to open the file by default. At times, remembering these associations can become confusing. You can remind yourself by entering the command <strong>assoc</strong> to display a full list of filename extensions and program associations.</p>
 <p> You can also extend the command to change file associations. For example, <strong>assoc .txt&#x3D;</strong> will change the file association for text files to whatever program you enter after the equal sign. The a<strong>ssoc</strong> command itself will reveal both the extension names and program names, which will help you properly use this command.</p>
 <p> In Windows 10, you can view a more user-friendly interface that also lets you change file type associations on the spot. Head to <strong>Settings (Windows + I) &gt; Apps &gt; Default apps &gt; Choose default app by file type</strong>.</p>
-<h3 id="2-Cipher"><a href="#2-Cipher" class="headerlink" title="2. Cipher "></a>2. Cipher <img  
+<h3 id="2-Cipher"><a href="#2-Cipher" class="headerlink" title="2. Cipher"></a>2. Cipher</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/ciphercmd.png"
                       alt="Cipher command in the Windows command prompt."
-                ></h3><p> Deleting files on a mechanical hard drive doesn’t really delete them at all. Instead, it marks the files as no longer accessible and the space they took up as free. The files remain recoverable until the system overwrites them with new data, which can take some time.</p>
+                ></p>
+<p> Deleting files on a mechanical hard drive doesn’t really delete them at all. Instead, it marks the files as no longer accessible and the space they took up as free. The files remain recoverable until the system overwrites them with new data, which can take some time.</p>
 <p> The cipher command, however, lets you wipe a directory on an NTFS-formatted volume by writing random data to it. To wipe your C drive, for example, you’d use the <strong>cipher &#x2F;w:d</strong> command, which will wipe free space on the drive. The command does not overwrite undeleted data, so you will not wipe out the files you need by running this command.</p>
 <p> When you run the cipher command by itself, it returns the encryption state of the current directory and the files it contains. Use <strong>cipher &#x2F;e:<filename></strong> to encrypt a file, <strong>cipher &#x2F;c:<filename></strong> to retrieve information about encrypted files, and <strong>cipher &#x2F;d:<filename></strong> to decrypt the selected file. Most of these commands are redundant with the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/bitlocker-drive-encryption-windows-10/" >Windows encryption tool BitLocker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h3 id="3-File-Compare"><a href="#3-File-Compare" class="headerlink" title="3. File Compare "></a>3. File Compare <img  
+<h3 id="3-File-Compare"><a href="#3-File-Compare" class="headerlink" title="3. File Compare"></a>3. File Compare</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/filecomparecmd.png"
                       alt="File compare command as seen in Windows command prompt."
-                ></h3><p> You can use this command to identify differences in text between two files. It’s particularly useful for writers and programmers trying to find small changes between two versions of a file. Simply type <strong>fc</strong> and then the directory path and file name of the two files you want to compare.</p>
+                ></p>
+<p> You can use this command to identify differences in text between two files. It’s particularly useful for writers and programmers trying to find small changes between two versions of a file. Simply type <strong>fc</strong> and then the directory path and file name of the two files you want to compare.</p>
 <p> You can also extend the command in several ways. Typing <strong>&#x2F;b</strong> compares only binary output, <strong>&#x2F;c</strong> disregards the case of text in the comparison, and <strong>&#x2F;l</strong> only compares ASCII text.</p>
 <p> So, for example, you could use the following:</p>
 <p><code>fc /l &quot;C:\Program Files (x86)\example1.doc&quot; &quot;C:\Program Files (x86)\example2.doc&quot;</code></p>
 <p> The above command compares ASCII text in two Word documents.</p>
-<h3 id="4-Ipconfig"><a href="#4-Ipconfig" class="headerlink" title="4. Ipconfig "></a>4. Ipconfig <img  
+<h3 id="4-Ipconfig"><a href="#4-Ipconfig" class="headerlink" title="4. Ipconfig"></a>4. Ipconfig</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/ipconfigcmd.png"
                       alt="Ipconfig command in Windows command prompt window."
-                ></h3><p> This command relays the IP address that your computer is currently using. However, if you’re behind a router (like most computers today), you’ll instead receive the local network address of the router.</p>
+                ></p>
+<p> This command relays the IP address that your computer is currently using. However, if you’re behind a router (like most computers today), you’ll instead receive the local network address of the router.</p>
 <p> Still, ipconfig is useful because of its extensions. <strong>ipconfig &#x2F;release</strong> followed by <strong>ipconfig &#x2F;renew</strong> can force your Windows PC into asking for a new IP address, which is useful if your computer claims one isn’t available. You can also use <strong>ipconfig &#x2F;flushdns</strong> to refresh your DNS address. These commands are great if the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/" >Windows network troubleshooter <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> chokes, which does happen on occasion.</p>
-<h3 id="5-Netstat"><a href="#5-Netstat" class="headerlink" title="5. Netstat "></a>5. Netstat <img  
+<h3 id="5-Netstat"><a href="#5-Netstat" class="headerlink" title="5. Netstat"></a>5. Netstat</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/netstatcmd.png"
                       alt="Netstat command run on Windows."
-                ></h3><p> Entering the command <strong>netstat -an</strong> will provide you with a list of currently open ports and related IP addresses. This command will also tell you what state the port is in; listening, established, or closed.</p>
+                ></p>
+<p> Entering the command <strong>netstat -an</strong> will provide you with a list of currently open ports and related IP addresses. This command will also tell you what state the port is in; listening, established, or closed.</p>
 <p> This is a great command for when you’re trying to troubleshoot devices connected to your PC or when you fear a Trojan infected your system and you’re trying to locate a malicious connection.</p>
-<h3 id="6-Ping"><a href="#6-Ping" class="headerlink" title="6. Ping "></a>6. Ping <img  
+<h3 id="6-Ping"><a href="#6-Ping" class="headerlink" title="6. Ping"></a>6. Ping</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/pingcmd.png"
                       alt="Ping command prompt window."
-                ></h3><p> Sometimes, you need to know whether packets are making it to a specific networked device. That’s where ping comes in handy.</p>
+                ></p>
+<p> Sometimes, you need to know whether packets are making it to a specific networked device. That’s where ping comes in handy.</p>
 <p> Typing <strong>ping</strong> followed by an IP address or web domain will send a series of test packets to the specified address. If they arrive and are returned, you know the device is capable of communicating with your PC; if it fails, you know that there’s something blocking communication between the device and your computer. This can help you decide if the root of the issue is an improper configuration or a failure of network hardware.</p>
-<h3 id="7-PathPing"><a href="#7-PathPing" class="headerlink" title="7. PathPing "></a>7. PathPing <img  
+<h3 id="7-PathPing"><a href="#7-PathPing" class="headerlink" title="7. PathPing"></a>7. PathPing</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/pathpingcmd.png"
                       alt="Windows command prompt with PathPing command."
-                ></h3><p> This is a more advanced version of ping that’s useful if there are multiple routers between your PC and the device you’re testing. Like ping, you use this command by typing <strong>pathping</strong> followed by the IP address, but unlike ping, pathping also relays some information about the route the test packets take.</p>
-<h3 id="8-Tracert"><a href="#8-Tracert" class="headerlink" title="8. Tracert "></a>8. Tracert <img  
+                ></p>
+<p> This is a more advanced version of ping that’s useful if there are multiple routers between your PC and the device you’re testing. Like ping, you use this command by typing <strong>pathping</strong> followed by the IP address, but unlike ping, pathping also relays some information about the route the test packets take.</p>
+<h3 id="8-Tracert"><a href="#8-Tracert" class="headerlink" title="8. Tracert"></a>8. Tracert</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/tracertcmd.png"
                       alt="Screenshot of Tracert command in Windows command prompt."
-                ></h3><p> The <strong>tracert</strong> command is similar to pathping. Once again, type <strong>tracert</strong> followed by the IP address or domain you’d like to trace. You’ll receive information about each step in the route between your PC and the target. Unlike pathping, however, tracert also tracks how much time (in milliseconds) each hop between servers or devices takes.</p>
-<h3 id="9-Powercfg"><a href="#9-Powercfg" class="headerlink" title="9. Powercfg "></a>9. Powercfg <img  
+                ></p>
+<p> The <strong>tracert</strong> command is similar to pathping. Once again, type <strong>tracert</strong> followed by the IP address or domain you’d like to trace. You’ll receive information about each step in the route between your PC and the target. Unlike pathping, however, tracert also tracks how much time (in milliseconds) each hop between servers or devices takes.</p>
+<h3 id="9-Powercfg"><a href="#9-Powercfg" class="headerlink" title="9. Powercfg"></a>9. Powercfg</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/powercfgacmd.png"
                       alt="Powercfg command on Windows 10."
-                ></h3><p> Powercfg is a very powerful command for managing and tracking how your computer uses energy. You can use the command <strong>powercfg hibernate on</strong> and <strong>powercfg hibernate off</strong> to manage hibernation, and you can also use the command <strong>powercfg &#x2F;a</strong> to view the power-saving states currently available on your PC.</p>
+                ></p>
+<p> Powercfg is a very powerful command for managing and tracking how your computer uses energy. You can use the command <strong>powercfg hibernate on</strong> and <strong>powercfg hibernate off</strong> to manage hibernation, and you can also use the command <strong>powercfg &#x2F;a</strong> to view the power-saving states currently available on your PC.</p>
 <p> Another useful command is <strong>powercfg &#x2F;devicequery s1_supported</strong>, which displays a list of devices on your computer that support connected standby. When enabled, you can use these devices to bring your computer out of standby, even remotely.</p>
 <p> You can enable this by selecting the device in <strong>Device Manager</strong>, opening its properties, going to the <strong>Power Management</strong> tab, and then checking the <strong>Allow this device to wake the computer</strong> box.</p>
 <p><strong>Powercfg &#x2F;lastwake</strong> will show you what device last woke your PC from a sleep state. You can use this command to troubleshoot your PC if it seems to wake from sleep at random.</p>
@@ -831,68 +840,76 @@
 <p> You can use the <strong>powercfg &#x2F;energy</strong> command to build a detailed power consumption report for your PC. The report saves to the directory indicated after the command finishes.</p>
 <p> This report will let you know of any system faults that might increase power consumption, like devices blocking certain sleep modes, or poorly configured to respond to your power management settings.</p>
 <p> Windows 8 added <strong>powercfg &#x2F;batteryreport</strong>, which provides a detailed analysis of battery use, if applicable. Normally output to your Windows user directory, the report provides details about the time and length of charge and discharge cycles, lifetime average battery life, and estimated battery capacity.</p>
-<h3 id="10-Shutdown"><a href="#10-Shutdown" class="headerlink" title="10. Shutdown "></a>10. Shutdown <img  
+<h3 id="10-Shutdown"><a href="#10-Shutdown" class="headerlink" title="10. Shutdown"></a>10. Shutdown</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/shutdowncmd.png"
                       alt="Shutdown command on Windows 10."
-                ></h3><p> Windows 8 introduced the shutdown command that, you guessed it, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/" >shuts down your computer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+                ></p>
+<p> Windows 8 introduced the shutdown command that, you guessed it, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/" >shuts down your computer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> This is, of course, redundant with the already easily accessed shutdown button, but what’s not redundant is the <strong>shutdown &#x2F;r &#x2F;o</strong> command, which restarts your PC and launches the Advanced Start Options menu, which is where you can access Safe Mode and Windows recovery utilities. This is useful if you want to restart your computer for troubleshooting purposes.</p>
-<h3 id="11-System-File-Checker"><a href="#11-System-File-Checker" class="headerlink" title="11. System File Checker "></a>11. System File Checker <img  
+<h3 id="11-System-File-Checker"><a href="#11-System-File-Checker" class="headerlink" title="11. System File Checker"></a>11. System File Checker</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/sfccmd.png"
                       alt="System File Checker sfc command options available on Windows 10."
-                ></h3><p> System File Checker is an <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/" >automatic scan and repair tool <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> that focuses on Windows system files.</p>
+                ></p>
+<p> System File Checker is an <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/" >automatic scan and repair tool <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> that focuses on Windows system files.</p>
 <p> You will need to run the command prompt with administrator privileges and enter the command <strong>sfc &#x2F;scannow</strong>. If SFC finds any corrupt or missing files, it will automatically replace them using cached copies kept by Windows for this purpose alone. The command can require a half-hour to run on older notebooks.</p>
-<h3 id="12-Tasklist"><a href="#12-Tasklist" class="headerlink" title="12. Tasklist "></a>12. Tasklist <img  
+<h3 id="12-Tasklist"><a href="#12-Tasklist" class="headerlink" title="12. Tasklist"></a>12. Tasklist</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/tasklistcmd.png"
                       alt="Tasklist command as shown in Windows command prompt window."
-                ></h3><p> You can use the <strong>tasklist</strong> command to provide a current list of all tasks running on your PC. Though somewhat redundant with Task Manager, the command may sometimes find tasks hidden from view in that utility.</p>
+                ></p>
+<p> You can use the <strong>tasklist</strong> command to provide a current list of all tasks running on your PC. Though somewhat redundant with Task Manager, the command may sometimes find tasks hidden from view in that utility.</p>
 <p> There’s also a wide range of modifiers. <strong>Tasklist -svc</strong> shows services related to each task, use <strong>tasklist -v</strong> to obtain more detail on each task, and <strong>tasklist -m</strong> will locate DLL files associated with active tasks. These commands are useful for advanced troubleshooting.</p>
 <p> Our reader Eric noted that you can “get the name of the executable associated with the particular process ID you’re interested in.” The command for that operation is <strong>tasklist | find [process id].</strong></p>
-<h3 id="13-Taskkill"><a href="#13-Taskkill" class="headerlink" title="13. Taskkill "></a>13. Taskkill <img  
+<h3 id="13-Taskkill"><a href="#13-Taskkill" class="headerlink" title="13. Taskkill"></a>13. Taskkill</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/taskkillcmd.png"
                       alt="Taskkill command options available on Windows 10."
-                ></h3><p> Tasks that appear in the <strong>tasklist</strong> command will have an executable and process ID (a four- or five-digit number) associated with them. You can force stop a program using <strong>taskkill -im</strong> followed by the executable’s name, or <strong>taskkill -pid</strong> followed by the process ID. Again, this is a bit redundant with Task Manager, but you can use it to kill otherwise unresponsive or hidden programs.</p>
-<h3 id="14-Chkdsk"><a href="#14-Chkdsk" class="headerlink" title="14. Chkdsk "></a>14. Chkdsk <img  
+                ></p>
+<p> Tasks that appear in the <strong>tasklist</strong> command will have an executable and process ID (a four- or five-digit number) associated with them. You can force stop a program using <strong>taskkill -im</strong> followed by the executable’s name, or <strong>taskkill -pid</strong> followed by the process ID. Again, this is a bit redundant with Task Manager, but you can use it to kill otherwise unresponsive or hidden programs.</p>
+<h3 id="14-Chkdsk"><a href="#14-Chkdsk" class="headerlink" title="14. Chkdsk"></a>14. Chkdsk</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/Windows-chckdsk-command.jpg"
                       alt="Running a chkdsk command to initiate a scan on Windows 10."
-                ></h3><p> Windows automatically marks your drive for a diagnostic chkdsk scan when symptoms indicate that a local drive has bad sectors, lost clusters, or other logical or physical errors.</p>
+                ></p>
+<p> Windows automatically marks your drive for a diagnostic chkdsk scan when symptoms indicate that a local drive has bad sectors, lost clusters, or other logical or physical errors.</p>
 <p> If you suspect your hard drive is failing, you can manually initiate a scan. The most basic command is <strong>chkdsk c:</strong>, which will immediately scan the C: drive, without a need to restart the computer. If you add parameters like &#x2F;f, &#x2F;r, &#x2F;x, or &#x2F;b, such as in <strong>chkdsk &#x2F;f &#x2F;r &#x2F;x &#x2F;b c:</strong>, <strong>chkdsk</strong> will also fix errors, recover data, dismount the drive, or clear the list of bad sectors, respectively. These actions require a reboot, as they can only run with Windows powered down.</p>
 <p> If you see <strong>chkdsk</strong> run at startup, let it do its thing. If it gets stuck, however, refer to our <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/" >chkdsk troubleshooting article <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h3 id="15-schtasks"><a href="#15-schtasks" class="headerlink" title="15. schtasks "></a>15. schtasks <img  
+<h3 id="15-schtasks"><a href="#15-schtasks" class="headerlink" title="15. schtasks"></a>15. schtasks</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/Windows-schtasks-command.jpg"
                       alt="Scheduling tasks using the Windows schtasks command prompt command."
-                ></h3><p><strong>Schtasks</strong> is your command prompt access to the Task Scheduler, one of many underrated Windows administrative tools. While you can use the GUI to manage your scheduled tasks, the command prompt lets you copy&amp;paste complex commands to set up multiple similar tasks without having to click through various options. Ultimately, it’s much easier to use, once you’ve committed key parameters to memory.</p>
+                ></p>
+<p><strong>Schtasks</strong> is your command prompt access to the Task Scheduler, one of many underrated Windows administrative tools. While you can use the GUI to manage your scheduled tasks, the command prompt lets you copy&amp;paste complex commands to set up multiple similar tasks without having to click through various options. Ultimately, it’s much easier to use, once you’ve committed key parameters to memory.</p>
 <p> For example, you could schedule your computer to reboot at 11pm every Friday:</p>
 <p><code>schtasks /create /sc weekly /d FRI /tn &quot;auto reboot computer weekly&quot; /st 23:00 /tr &quot;shutdown -r -f -t 10&quot;</code></p>
 <p> To complement your weekly reboot, you could schedule tasks to launch specific programs on startup:</p>
 <p><code>schtasks /create /sc onstart /tn &quot;launch Chrome on startup&quot; /tr &quot;C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe&quot;</code></p>
 <p> To duplicate the above command for different programs, just copy, paste, and modify it as needed.</p>
-<h3 id="16-Format"><a href="#16-Format" class="headerlink" title="16. Format "></a>16. Format <img  
+<h3 id="16-Format"><a href="#16-Format" class="headerlink" title="16. Format"></a>16. Format</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-Command-Prompt-Format.jpg"
                       alt="Windows Command Prompt showing the format command with various parameters."
-                ></h3><p> When you need to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/format-usb-drive/" >format a drive <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, you can either use the Windows File Explorer GUI or you can turn to the command prompt. You’ll need Administrator rights to use this command. Be sure you specify the volume you want to format, followed by the desired parameters.</p>
+                ></p>
+<p> When you need to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/format-usb-drive/" >format a drive <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, you can either use the Windows File Explorer GUI or you can turn to the command prompt. You’ll need Administrator rights to use this command. Be sure you specify the volume you want to format, followed by the desired parameters.</p>
 <p> The command below will quick-format the D drive with the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/exfat-better-different-fat32/" >exFAT file system <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, with an allocation unit size of 2048 bytes, and rename the volume to “label” (without the quotes).</p>
 <p><code>format D: /Q /FS:exFAT /A:2048 /V:label</code></p>
 <p> You can also use this command to dismount a volume (&#x2F;X) or, if it’s formatted with NTFS, make file compression the default setting (&#x2F;R). If you’re stuck, use format &#x2F;? to summon help.</p>
-<h3 id="17-prompt"><a href="#17-prompt" class="headerlink" title="17. prompt "></a>17. prompt <img  
+<h3 id="17-prompt"><a href="#17-prompt" class="headerlink" title="17. prompt"></a>17. prompt</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-Command-Prompt-Prompt-Command.jpg"
                       alt="The prompt command in action in the Windows command prompt."
-                ></h3><p> Would you like to customize your command prompt to include instructions or certain information? With the prompt command, you can!</p>
+                ></p>
+<p> Would you like to customize your command prompt to include instructions or certain information? With the prompt command, you can!</p>
 <p> Try this one:</p>
 <p><code>prompt Your wish is my command:</code></p>
 <p> You can add the current time, date, drive and path, Windows version number, and so much more.</p>
@@ -901,20 +918,22 @@
 <h3 id="18-cls"><a href="#18-cls" class="headerlink" title="18. cls"></a>18. cls</h3><p> Cluttered up your command prompt window trying out all the commands above? There’s one last command you need to know to clean it all up again.</p>
 <p><code>cls</code></p>
 <p> That’s all. Bet Marie Kondo didn’t know that one.</p>
-<h3 id="19-Systeminfo"><a href="#19-Systeminfo" class="headerlink" title="19. Systeminfo "></a>19. Systeminfo <img  
+<h3 id="19-Systeminfo"><a href="#19-Systeminfo" class="headerlink" title="19. Systeminfo"></a>19. Systeminfo</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/systeminfocmd.png"
                       alt="Systeminfo command as seen on Windows 10."
-                ></h3><p> This command will give you a detailed configuration overview of your computer. The list covers your operating system and hardware. For example, you can look up the original Windows installation date, the last boot time, your BIOS version, total and available memory, installed hotfixes, network card configurations, and more.</p>
+                ></p>
+<p> This command will give you a detailed configuration overview of your computer. The list covers your operating system and hardware. For example, you can look up the original Windows installation date, the last boot time, your BIOS version, total and available memory, installed hotfixes, network card configurations, and more.</p>
 <p> Use <strong>systeminfo &#x2F;s</strong> followed by the hostname of a computer on your local network, to remotely grab the information for that system. This may require additional syntax elements for the domain, user name, and password, like this:</p>
 <p><code>systeminfo /s [host_name] /u [domain]\[user_name] /p [user_password]</code></p>
-<h3 id="20-Driverquery"><a href="#20-Driverquery" class="headerlink" title="20. Driverquery "></a>20. Driverquery <img  
+<h3 id="20-Driverquery"><a href="#20-Driverquery" class="headerlink" title="20. Driverquery"></a>20. Driverquery</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/driverquerycmd.png"
                       alt="Windows command prompt showing driverquery command."
-                ></h3><p> Drivers remain among the most important software installed on a PC. Improperly configured, missing, or <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-pc-move-drivers-to-new-pc/" >old Windows drivers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> can cause all sorts of trouble, so it’s good to have access to a list of drivers on your PC.</p>
+                ></p>
+<p> Drivers remain among the most important software installed on a PC. Improperly configured, missing, or <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-pc-move-drivers-to-new-pc/" >old Windows drivers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> can cause all sorts of trouble, so it’s good to have access to a list of drivers on your PC.</p>
 <p> That’s exactly what the <strong>driverquery</strong> command does. You can extend it to <strong>driverquery -v</strong> to obtain more information, including the directory in which the driver is installed. Unfortunately, this command isn’t relevant post Windows 8 or Windows Server 2012.</p>
 <h2 id="Windows-8-Only-Recovery-Image"><a href="#Windows-8-Only-Recovery-Image" class="headerlink" title="Windows 8 Only: Recovery Image"></a>Windows 8 Only: Recovery Image</h2><p> Virtually all Windows 8&#x2F;8.1 computers ship from the factory with a recovery image, but the image may include bloatware you’d rather not have re-installed. Once you’ve uninstalled the software you can create a new image using the <strong>recimg</strong> command. Entering this command presents a very detailed explanation of how to use it.</p>
 <p> You must have administrator privileges to use the <strong>recimg</strong> command, and you can only access the custom recovery image you create via the Windows 8 <strong>refresh</strong> feature.</p>
@@ -957,11 +976,11 @@
         <li><strong>Title:</strong> Essential Windows Commands: Learn the Top 20 CMD Tricks</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 16:23:13</li>
+                :</strong> 2024-07-03 12:38:49</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 16:23:13
+                    :</strong> 2024-07-04 12:38:49
             </li>
         
         <li>
@@ -1005,13 +1024,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/exploring-differences-chkdsk-sfc-and-windows-fixes/"
+                        href="/enhance-system-performance-via-alomware-settings-utility/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Exploring Differences: CHKDSK, SFC, and Windows&#39; Fixes</span>
+                                <span class="post-nav-title-item">Enhance System Performance via AlomWare Settings Utility</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1021,10 +1040,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/essential-strategies-for-winning-with-the-windows-11-bar/"
+                        href="/addressing-windows-event-viewer-breakdowns/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Essential Strategies for Winning with the Windows 11 Bar</span>
+                                <span class="post-nav-title-item">Addressing Windows Event Viewer Breakdowns</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1046,7 +1065,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">Essential Windows Commands: Learn the Top 20 CMD Tricks</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Essential-Windows-Commands-Learn-the-Top-20-CMD-Tricks"><span class="nav-text">Essential Windows Commands: Learn the Top 20 CMD Tricks</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Access-the-Windows-Command-Prompt"><span class="nav-text">How to Access the Windows Command Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Windows-Command-Prompt-Commands"><span class="nav-text">Windows Command Prompt Commands</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Assoc"><span class="nav-text">1. Assoc </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cipher"><span class="nav-text">2. Cipher </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-File-Compare"><span class="nav-text">3. File Compare </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Ipconfig"><span class="nav-text">4. Ipconfig </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Netstat"><span class="nav-text">5. Netstat </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Ping"><span class="nav-text">6. Ping </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-PathPing"><span class="nav-text">7. PathPing </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-Tracert"><span class="nav-text">8. Tracert </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-Powercfg"><span class="nav-text">9. Powercfg </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-Shutdown"><span class="nav-text">10. Shutdown </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#11-System-File-Checker"><span class="nav-text">11. System File Checker </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#12-Tasklist"><span class="nav-text">12. Tasklist </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#13-Taskkill"><span class="nav-text">13. Taskkill </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#14-Chkdsk"><span class="nav-text">14. Chkdsk </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#15-schtasks"><span class="nav-text">15. schtasks </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#16-Format"><span class="nav-text">16. Format </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#17-prompt"><span class="nav-text">17. prompt </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#18-cls"><span class="nav-text">18. cls</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#19-Systeminfo"><span class="nav-text">19. Systeminfo </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#20-Driverquery"><span class="nav-text">20. Driverquery </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Windows-8-Only-Recovery-Image"><span class="nav-text">Windows 8 Only: Recovery Image</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Command-and-Conquer-Your-Windows-PC"><span class="nav-text">Command and Conquer Your Windows PC</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Essential-Windows-Commands-Learn-the-Top-20-CMD-Tricks"><span class="nav-text">Essential Windows Commands: Learn the Top 20 CMD Tricks</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Access-the-Windows-Command-Prompt"><span class="nav-text">How to Access the Windows Command Prompt</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Windows-Command-Prompt-Commands"><span class="nav-text">Windows Command Prompt Commands</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Assoc"><span class="nav-text">1. Assoc</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cipher"><span class="nav-text">2. Cipher</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-File-Compare"><span class="nav-text">3. File Compare</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Ipconfig"><span class="nav-text">4. Ipconfig</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Netstat"><span class="nav-text">5. Netstat</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Ping"><span class="nav-text">6. Ping</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-PathPing"><span class="nav-text">7. PathPing</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-Tracert"><span class="nav-text">8. Tracert</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-Powercfg"><span class="nav-text">9. Powercfg</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-Shutdown"><span class="nav-text">10. Shutdown</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#11-System-File-Checker"><span class="nav-text">11. System File Checker</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#12-Tasklist"><span class="nav-text">12. Tasklist</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#13-Taskkill"><span class="nav-text">13. Taskkill</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#14-Chkdsk"><span class="nav-text">14. Chkdsk</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#15-schtasks"><span class="nav-text">15. schtasks</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#16-Format"><span class="nav-text">16. Format</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#17-prompt"><span class="nav-text">17. prompt</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#18-cls"><span class="nav-text">18. cls</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#19-Systeminfo"><span class="nav-text">19. Systeminfo</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#20-Driverquery"><span class="nav-text">20. Driverquery</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Windows-8-Only-Recovery-Image"><span class="nav-text">Windows 8 Only: Recovery Image</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Command-and-Conquer-Your-Windows-PC"><span class="nav-text">Command and Conquer Your Windows PC</span></a></li></ol>
 
     </div>
 </div>
