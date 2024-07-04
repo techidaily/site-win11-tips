@@ -1,0 +1,167 @@
+---
+title: "Sync Success: Reestablishing OBS Studio Server Connection in Win"
+date: 2024-06-25T16:17:08.510Z
+updated: 2024-06-26T16:17:08.510Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Sync Success: Reestablishing OBS Studio Server Connection in Win"
+excerpt: "This Article Describes Sync Success: Reestablishing OBS Studio Server Connection in Win"
+keywords: OBS Connect Win,Sync OBS Studio,OBS Link Restore,OBS Win Fix,Studio Server Reconnect,OBS Session Sync,OBS Studio Reset
+thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedca30e5d0f04cb4a458929e39.jpg
+---
+
+## Sync Success: Reestablishing OBS Studio Server Connection in Win
+
+ OBS Studio is a perfect choice if you're looking for an app to record or stream your screen. This free open-source application has plenty of configuration options that give you more control than other similar apps.
+
+ However, misconfigured in-app settings, outdated OS, and Windows Firewall are a few reasons why OBS Studio shows "Failed to connect to server" error. If you've run into the same problem, go through the listed solutions to resolve it quickly.
+
+## What Causes "Failed to Connect to Server" Error in OBS Studio?
+
+ The "Failed to connect to server" is among the most common errors you will come across while streaming or recording in OBS studio. Some of the common culprits behind this error are:
+
+1. You're using an incorrect software version.
+2. Windows Firewall is interfering and blocking the important services of the OBS Studio.
+3. You're running OBS Studio without administrative privileges.
+4. The in-app settings are not compatible with your network settings.
+
+ Having identified the reasons behind the issue, let's get into fixes that helped others users troubleshoot the problem.
+
+## 1\. Try Performing Basic Repairs
+
+ The first thing you must do to troubleshoot the problem is to restart OBS Studio. The best way is to close all the OBS Studio-related processes from the Task Manager. Then, start OBS Studio again and check if the problem continues.
+
+ OBS Studio is available for both 32 and 64-bit computers. While you can install the 64-bit version on a 32-bit computer, it will create different issues if you try to run it.
+
+ Therefore, you must check the Windows version of your computer and install OBS Studio accordingly. To check the Windows version, follow the below instructions:
+
+1. Open the**Settings menu** by pressing the**Win** **\+ I** hotkeys.
+2. Head towards**System** \>**About.**  
+![System About page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/System-Type.jpg)
+
+ Under the**Device specifications** section, check the value next to the**System type.**
+
+ The error message can also appear if you try to run OBS Studio without administrative privileges. To fix this, right-click the OBS Studio executable file and choose the**Run as administrator** option.
+
+ Lack of administrative privileges will cause different issues now and then. To avoid this, you must configure OBS Studio to always run as an administrator. Here's how to do it:
+
+1. Right-click on the OBS Studio executable file and choose**Properties.**
+2. Switch to the**Compatibility** tab and check the**Run this program as an administrator** option.
+3. Click**Apply** \>**OK** to save the changes.
+
+That's it. Launch OBS Studio and check if the problem persists.
+
+ If you are also running one of [the best OBS Studio alternatives](https://www.makeuseof.com/best-obs-studio-live-streaming-alternatives/) on your PC, it can result in a software conflict. To stop this from happening, close all these apps and their background processes. You can also uninstall them if you use them sparingly.
+
+## 2\. Change the "Bind to IP" Option
+
+ The "Failed to connect to server" error is likely to appear if the Bind to IP option is not correctly configured in OBS Studio. To fix this, you will have to change this option to the network connection name with the IP address. Here's how to do it:
+
+1. Launch OBS Studio and choose**Settings** under the Controls section.
+2. Select the**Advanced option** in the left panel.
+3. Click the**drop-down** icon next to the**Bind to IP** option. It'll be under the**Network** section.
+4. By default, this setting is set to**Default.** You'll have to choose the option that shows your connection name along with the IP address.  
+![Bind to IP option in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Bind-to-IP.jpg)
+5. Check the**Dynamically change bitrate to manage congestion** option.
+6. Click**Apply** \>**OK** to save the changes.
+
+Relaunch OBS Studio and check for the problem.
+
+## 3\. Switch to a Different Stream Server
+
+ The error can appear if your current streaming server is overloaded. The solution, in this case, is to switch to a different stream server. You can do this by following the below steps:
+
+1. Open Settings in OBS Studio.
+2. Select the**Stream** option in the left panel.
+3. Click the**drop-down icon** next to**Server,** and select a different server from the menu that crops up.  
+![Different Server of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Different-Server.jpg)
+4. Click**Apply** \>**OK.**
+
+## 4\. Check for Corruption Within the OBS Installation
+
+ OBS Studio's files can get corrupted for various reasons, which can cause problems like this one. In this situation, you can do an integrity check to scan your OBS installation for corruption and redownload the broken and missing files.
+
+1. Open OBS Studio and click the**Help** option at the top.
+2. Choose the**Check File Integrity** option from the menu that crops up.  
+![Check File Integrity of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-File-Integrity.jpg)
+3. Click**Yes** to confirm your selection, and then click**Yes** again to the UAC that appears.
+
+ Wait until the process is complete. After that, relaunch OBS Studio and check if the issue continues.
+
+## 5\. Update OBS Studio
+
+ You can also try updating OBS Studio to fix the error. To do so, launch OBS Studio, click**Help** , and then select**Check for updates** . If any updates are available, they will be downloaded automatically.
+
+## 6\. Allow OBS Studio through Windows Firewall
+
+ If OBS Studio is blocked under the Windows Firewall setting, you are likely to see "Failed to connect to server" error. You'll have to allow OBS Studio in the Windows Firewall settings as a solution. Here's how to do it:
+
+1. Launch the Start Menu; type**Allow an app through Windows Firewall** and press Enter.
+2. Click the**Change Settings** button.
+3. In the**Allowed apps and** **features** section, scroll down and locate the OBS Studio.
+4. Check both the**Private** and**Public** boxes.
+5. Click OK.
+
+ That's it. You will have to restart your computer (see [the different ways to restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
+
+## 7\. Change the MTU Size
+
+ If you're still facing the issue, you can try lowering the MTU (Maximum Transmission Unit) size. You can do this by following the below instructions:
+
+1. Open PowerShell as an administrator by pressing**Win + S** , typing "PowerShell", then right-clicking the search result and selecting**Run as administrator** .
+2. Type the following command, and press**Enter** :  
+`netsh int ipv4 show subinterface`
+3. Note the name of your connection in the**interface** column.  
+![MTU Size in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/MTU-Size.jpg)
+4. Type the following command and press Enter.  
+`netsh inteface ipv4 set subinterface <Your connection name> mtu=1400 store=persistent`
+
+ The MTU size is now changed. Launch OBS Studio and check for the problem again.
+
+## OBS Studio "Failed to Connect to Server" Error Fixed
+
+ OBS Studio is everyone's first choice to stream online, and there is a good reason behind it. But sometimes, misconfigured in-app settings can cause various issues, including the "Failed to connect to server" error. Fortunately, you can quickly troubleshoot this error by following the above fixes.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-error-while-opening-sound-device-issue-in-windows-10-and-11/"><u>How to Fix Audacity’s “Error While Opening Sound Device” Issue in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-obscured-network-visibility-in-windows/"><u>Curing Obscured Network Visibility in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ephemeral-approach-to-suspending-windows-11-protection-systems/"><u>Ephemeral Approach to Suspending Windows 11 Protection Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-dims-handbook-for-windows-11-repair/"><u>The Complete DIMS Handbook for Windows 11 Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/legacy-tech-lifeline-atlasos-revival-plan/"><u>Legacy Tech Lifeline: AtlasOS Revival Plan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-pc-bottleneck-analyzers/"><u>Real-Time PC Bottleneck Analyzers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-how-youtube-processes-videos-after-they-are-uploaded-for-2024/"><u>Understanding How YouTube Processes Videos After They Are Uploaded for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extracting-youtube-songs-safely-a-free-guide-explored/"><u>[Updated] 2024 Approved  Extracting YouTube Songs Safely  A Free Guide Explored</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-waht-is-ai-pixel-art-generator/"><u>In 2024, Waht Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>2024 Approved  Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-inside-look-everything-about-discord-stickers-for-2024/"><u>[Updated] Inside Look  Everything About Discord Stickers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[New] In 2024, Revolutionize YouTube Uploads  Speed-Enhancing Render Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[Updated] In 2024, How to Turn YouTube Shorts Into a Money Machine  Key Requirements & Income Potential</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-lifeguard-a-quick-guide-for-saving-vids-from-fbs-waves-for-2024/"><u>[Updated] Digital Lifeguard  A Quick Guide for Saving Vids From FB's Waves for 2024</u></a></li>
+</ul></div>

@@ -1,0 +1,137 @@
+---
+title: Regain Command - Gain Admin Status
+date: 2024-06-25T16:09:00.265Z
+updated: 2024-06-26T16:09:00.265Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Regain Command - Gain Admin Status
+excerpt: This Article Describes Regain Command - Gain Admin Status
+keywords: Regain Admin Access,Acquire Admin Privileges,Gain Administrative Rights,Elevate User Status,Secure Admin Access,Obtain High Privileges,Escalate User Permissions
+thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1aca47c82b58449d867a0d4a44.jpg
+---
+
+## Regain Command - Gain Admin Status
+
+ Administrator accounts offer extensive control over the system, granting the ability to manage settings, install software, and access critical system files. However, occasionally, users may encounter issues when attempting to switch from their standard user account to an admin account.
+
+ Below, we explore various effective fixes to resolve this problem permanently.
+
+## 1\. Modify the User Account Control (UAC) Settings
+
+ User Account Control (UAC) is a security feature that prevents users from making unauthorized changes to the computer. It typically appears as a dialog box, prompting you to confirm the action by clicking the "Yes" or "No" option.
+
+ In the case of this specific error, you might be facing the issue because of misconfigured or incorrect UAC settings. Here is how you can ensure UAC is enabled and set to a suitable level:
+
+1. Press the **Win** \+ **R** keys together to open Run.
+2. Type "control" in the text field and click **Enter**.
+3. In the following window, navigate to **System and Security** \> **Security and Maintenance**.
+4. Choose **Change User Account Control settings**.
+5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
+![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
+
+ Once done, close the Command Prompt and check if the issue is resolved.
+
+## 2\. Activate the Built-In Administrator Account ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
+
+ Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
+
+ Here's how to activate the built-in Administrator account:
+
+1. Press the **Win** \+ **R** keys to open Run.
+2. Type "cmd" in Run and press the **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
+3. Click **Yes** in the following dialog.
+4. Once you are in the Command Prompt, type the command below and hit **Enter** to execute it:  
+net user administrator /active:yes
+5. After the command executes successfully, you should see a message in Command Prompt confirming it. If you want to set a password for this administrator account, execute the following command:  
+​​​​​​​net user administrator *
+6. Follow the prompts to set a new password.
+
+ Alternatively, you can also use the Local Users and Groups management console to make these changes. Here is how you can do that:
+
+1. Open Run by pressing **Win** \+ **R** keys together.
+2. Type "lusrmgr.msc" in Run and click **Enter**.
+3. In the left pane, expand **Users** and right-click on **Administrator**.
+4. Choose **Properties** from the context menu.
+5. Uncheck the **Account is disabled** option and click **OK**.  
+![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
+
+ This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
+
+## 3\. Make the Changes in Safe Mode
+
+ It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
+
+ To determine if this is the cause of the issue, you can [boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/). Safe Mode launches the system with minimal drivers and programs, disabling any background processes that may be contributing to the problem. In this diagnostic state, you should be able to switch to the administrator account if such processes were previously causing the obstruction.
+
+ Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
+
+## 4\. Disable Your Antivirus Program ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+ If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
+
+ In this case, you can try to temporarily disable your security program and see if that helps you switch to an administrator account. You can do this by right-clicking on your antivirus icon in the taskbar and choosing the **Shields Control** \> **Disable until the computer is restarted** option.
+
+ If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
+
+## 5\. Create a New Administrator Account
+
+## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
+
+ This will help with any corruption issues in the current account, as well as help you determine if the permission-related problems were user-specific. It is, however, important to note that you will require admin access to the system to proceed with the steps in this method, so you must enable the built-in administrator account beforehand.
+
+ Once that is done, here is how you can proceed:
+
+1. Open the Settings app by pressing the **Win** \+ **I** keys together.
+2. Choose **Accounts** from the left pane and click on **Other users**.
+3. Hit the **Add account** button for **Add other users** in the following window.  
+![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
+4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
+5. In the next dialog, enter details like the username and password for the new account.
+6. Click **Next**.
+7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
+![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
+8. Expand the Account type dropdown and choose **Administrator** from the menu.
+9. Click **OK** to save the changes.
+
+ You can now log into the new administrator account and begin using it.
+
+## Enjoy Administrative Access to Your Windows System
+
+ The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
+
+ Below, we explore various effective fixes to resolve this problem permanently.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-running-task-manager-as-admin-on-win11/"><u>Elevate Your Computer Experience: Running Task Manager as Admin on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-the-ultimate-start-menu-guide/"><u>Mastering Windows 11: The Ultimate Start Menu Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-window-11-notebook-space-you-love/"><u>Creating a Window 11 Notebook Space You Love</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-power-indicators-ensure-a-full-charge-with-windows-11-alerts/"><u>Proactive Power Indicators: Ensure a Full Charge with Windows 11 Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lowering-cpu-intensity-in-gaming-windows/"><u>Solutions for Lowering CPU Intensity in Gaming Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-isdonedll-complications-quickly/"><u>Solving Windows ISDone.dll Complications Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-voice-your-message-on-discord-tts-essentials/"><u>[Updated] 2024 Approved  Voice Your Message on Discord  TTS Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dreaded-drawing-dynamo/"><u>Dreaded Drawing Dynamo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-the-secrets-of-top-notch-video-capture-techniques/"><u>[New] In 2024, Unlock the Secrets of Top-Notch Video Capture Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-smart-eco-friendly-screen-tech-compilation-for-2024/"><u>[New] Smart, Eco-Friendly Screen Tech Compilation for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pioneering-digital-maestros-a-comprehensive-list-of-ais-finest-composers/"><u>New Pioneering Digital Maestros A Comprehensive List of AIs Finest Composers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-undisclosed-browsing-of-fb-stories/"><u>[Updated] Undisclosed Browsing of FB Stories</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-gopro-quik-and-its-pc-counterparts/"><u>New The Ultimate Guide to GoPro Quik and Its PC Counterparts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-balancing-act-camera-gimbals-for-drones/"><u>In 2024, Balancing Act  Camera Gimbals for Drones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capturing-life-with-iphones-dual-function-capability-for-2024/"><u>[New] Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
