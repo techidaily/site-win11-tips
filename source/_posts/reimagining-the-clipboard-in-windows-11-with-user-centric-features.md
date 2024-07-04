@@ -1,7 +1,7 @@
 ---
 title: Reimagining the Clipboard in Windows 11 with User-Centric Features
-date: 2024-06-25T16:16:58.790Z
-updated: 2024-06-26T16:16:58.790Z
+date: 2024-07-03T12:38:47.973Z
+updated: 2024-07-04T12:38:47.973Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  However, after using it for some time, you will realize that it's by no means perfect. Here are some of the capabilities Microsoft can introduce to make it perfect.
 
-## 1\. Pinned Items Should Show Up at the Top ![Screenshot showing pinned items in Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinned-items.jpg)
+## 1\. Pinned Items Should Show Up at the Top
+![Screenshot showing pinned items in Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinned-items.jpg)
 
  Windows 11's clipboard history allows you to pin copied items to make them stand out from the rest. However, the pinned items might get lost in the crowd if you keep copying text and images. You must then scroll to the bottom of the clipboard history window to find the pinned items.
 
@@ -42,7 +43,8 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  Windows 11 clipboard history should have the ability to allow users to search through it to make looking up copied items easier.
 
-## 3\. The Ability to Resize the Clipboard History Window ![Screenshot showing Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-resize.jpg)
+## 3\. The Ability to Resize the Clipboard History Window
+![Screenshot showing Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-resize.jpg)
 
  If you press **Win + V** on your keyboard, your PC will display the clipboard history window on the screen. However, the window is smaller than it should be for many people. The clipboard history window can get small when you use a large display, causing difficulty spotting the copied items.
 
@@ -52,7 +54,8 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  While opening the clipboard history in Windows 10 and 11 is already easy, it will be even more accessible if it gets pinned on the taskbar. This can be helpful if you are facing issues with keyboard switches (check out [fixes for keyboard switch not working on Windows](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/)), as pinning the clipboard history to the taskbar gives you an alternative way to access all the copied items.
 
-## 5\. Add Paste as Plain Text in Clipboard History ![Screenshot showing copy as text in Windows 11 Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-paste-as-plain-texxt.jpg)
+## 5\. Add Paste as Plain Text in Clipboard History
+![Screenshot showing copy as text in Windows 11 Clipboard history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clipboard-paste-as-plain-texxt.jpg)
 
  If you copy a piece of formatted text, the clipboard history on Windows will not allow you to paste it as plain text. You will have to change its formatting after pasting, which takes time and is not how many of us would want it to be.
 

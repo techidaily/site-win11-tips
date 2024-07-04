@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Correcting Windows Error Code: 0X80071A90"
-date: 2024-06-25T16:27:08.779Z
-updated: 2024-06-26T16:27:08.779Z
+date: 2024-07-03T12:38:48.602Z
+updated: 2024-07-04T12:38:48.602Z
 tags:
   - windows10
   - windows11
@@ -73,13 +73,15 @@ Follow these steps to proceed:
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
-### Update Windows ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
+### Update Windows
+![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to [install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
-### Check the System for Corruption Errors ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+### Check the System for Corruption Errors
+![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 

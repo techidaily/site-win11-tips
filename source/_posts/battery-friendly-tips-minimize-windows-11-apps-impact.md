@@ -1,7 +1,7 @@
 ---
 title: "Battery-Friendly Tips: Minimize Windows 11 Apps' Impact"
-date: 2024-06-25T16:10:09.923Z
-updated: 2024-06-26T16:10:09.923Z
+date: 2024-07-03T12:38:47.247Z
+updated: 2024-07-04T12:38:47.247Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  This News and Interests issue occurs due to a potential memory leak and can make your computer run slow. So, if you want to make your computer run fast again, follow these steps to fix the News and Interests high memory usage problem.
 
-## 1\. Install Windows Update Hotfix ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
+## 1\. Install Windows Update Hotfix
+![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
 
@@ -46,7 +47,8 @@ To install a Windows 11 update:
 
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
-### Disable News and Interests on Windows 11 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
+### Disable News and Interests on Windows 11
+![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
 
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can [disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
@@ -96,7 +98,8 @@ To disable the news feed feature using Windows Registry:
 4. Type**0** in the**Value data** field and click**OK** to save the changes.
 5. Close the Registry Editor and restart your computer to apply the changes.
 
-## 5\. Add and Disable EnableFeeds Using PowerShell ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
+## 5\. Add and Disable EnableFeeds Using PowerShell
+![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 

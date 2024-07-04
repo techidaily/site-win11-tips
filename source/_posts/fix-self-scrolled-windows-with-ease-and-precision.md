@@ -1,7 +1,7 @@
 ---
 title: Fix Self-Scrolled Windows with Ease and Precision
-date: 2024-06-25T17:05:18.241Z
-updated: 2024-06-26T17:05:18.241Z
+date: 2024-07-03T12:38:49.916Z
+updated: 2024-07-04T12:38:49.916Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/d2b7e4746fe693895b4178e4d3a3d7272df65f201
 
 If the above basic checks don't help, apply the remaining fixes.
 
-### 2\. Check for Hardware Issues ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
+### 2\. Check for Hardware Issues
+![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
@@ -70,7 +71,8 @@ If the above basic checks don't help, apply the remaining fixes.
 
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
-### 3\. Check for Touchpad Issues ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
+### 3\. Check for Touchpad Issues
+![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
 
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 

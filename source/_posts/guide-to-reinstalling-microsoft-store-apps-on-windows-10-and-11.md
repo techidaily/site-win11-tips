@@ -1,7 +1,7 @@
 ---
 title: Guide to Reinstalling Microsoft Store Apps on Windows 10 & 11
-date: 2024-06-25T16:36:32.743Z
-updated: 2024-06-26T16:36:32.743Z
+date: 2024-07-03T12:38:48.144Z
+updated: 2024-07-04T12:38:48.144Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  You can use a PowerShell cmdlet to perform this action. Here we show how you can re-register apps for individual or all accounts on Windows.
 
-## How to Re-Register Microsoft Store Apps for Current Users ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
+## How to Re-Register Microsoft Store Apps for Current Users
+![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
 
  If the [Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
 
@@ -35,7 +36,8 @@ To re-register Microsoft Store apps for the current user:
 
  During the process, you may see some errors highlighted in red. It is due to PowerShell trying to reinstall existing apps on Windows. So, ignore the error and wait for the process to complete.
 
-## How to Re-Register Microsoft Store Apps for All Users ![re register microsoft store apps all users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-microsoft-store-apps-all-users.jpg)
+## How to Re-Register Microsoft Store Apps for All Users
+![re register microsoft store apps all users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-microsoft-store-apps-all-users.jpg)
 
  If you need to re-register the built-in Windows apps for all users, you’ll need to tweak the above PowerShell cmdlet a little to include the -AllUsers parameter. This would allow the cmdlet to search through all user accounts on the system and install and re-register the Microsoft Store apps.
 

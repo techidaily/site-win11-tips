@@ -1,7 +1,7 @@
 ---
 title: Tackling High CPU Usage in Dropbox on Windows PCs
-date: 2024-06-25T16:50:28.879Z
-updated: 2024-06-26T16:50:28.879Z
+date: 2024-07-03T12:38:49.224Z
+updated: 2024-07-04T12:38:49.224Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,8 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  If you’re using Windows Security, check our guide to [temporarily disable Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/). Alternatively, if you’re using a third-party security application, simply right-click on its icon in the system tray area and select **Disable** from the menu that appears.
 
-## 3\. Close Any Other Active File Management Apps ![End Task option in Task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-task.jpg)
+## 3\. Close Any Other Active File Management Apps
+![End Task option in Task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-task.jpg)
 
  Oftentimes, similar applications, like Google Drive or OneDrive, can interfere with Dropbox, leading to excessive CPU resource consumption. You can fix this by [closing all conflicting applications in the background on Windows](https://www.makeuseof.com/windows-11-disable-background-apps/).
 
@@ -57,7 +58,8 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
  In order to use the syncing feature of Dropbox, your computer must have a file system that supports extended attributes. If this feature is absent, Dropbox will persistently encounter sync failures, resulting in increased CPU usage. To resolve this issue, relocate your Dropbox folder to a hard drive [formatted with the NTFS file system](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
 
-## 5\. Reinstall Dropbox ![Dropbox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox.jpg)
+## 5\. Reinstall Dropbox
+![Dropbox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox.jpg)
 
  If you are still facing the problem, it is likely related to an issue with the Dropbox installation files. In such cases, the best solution is to reinstall Dropbox.
 

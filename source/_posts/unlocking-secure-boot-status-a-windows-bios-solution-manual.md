@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secure Boot Status: A Windows BIOS Solution Manual"
-date: 2024-06-25T17:09:30.523Z
-updated: 2024-06-26T17:09:30.523Z
+date: 2024-07-03T12:38:47.964Z
+updated: 2024-07-04T12:38:47.964Z
 tags:
   - windows10
   - windows11
@@ -75,7 +75,8 @@ To restore BIOS Security settings to factory defaults:
 6. Press**F10** to save the changes and exit**BIOS** .
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
-## 4\. Update BIOS ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
+## 4\. Update BIOS
+![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
@@ -97,7 +98,8 @@ To restore BIOS Security settings to factory defaults:
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
-## 5\. Load the BIOS Defaults Settings ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
+## 5\. Load the BIOS Defaults Settings
+![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 

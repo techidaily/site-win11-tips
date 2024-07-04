@@ -1,7 +1,7 @@
 ---
 title: "Peering Into ftdibus.sys: An Analysis of Windows' Memory Controls"
-date: 2024-06-25T16:34:55.011Z
-updated: 2024-06-26T16:34:55.011Z
+date: 2024-07-03T12:38:49.288Z
+updated: 2024-07-04T12:38:49.288Z
 tags:
   - windows10
   - windows11
@@ -65,7 +65,8 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
  In case you do not need the driver on your system at all, it is best to uninstall it. For that, right-click on the driver in the Device Manager and choose **Uninstall device**. Follow the on-screen prompts to complete the process and perform a system restart to complete the changes.
 
-## 3\. Restore Your System ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
+## 3\. Restore Your System
+![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
  If you suspect that recent changes to your system might have caused this issue, you have the option to [utilize the built-in system restore tool](https://www.makeuseof.com/use-system-restore-windows/) in Windows to undo those changes.
 

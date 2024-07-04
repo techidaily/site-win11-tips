@@ -1,0 +1,96 @@
+---
+title: "Addressing File Extraction Failure: Fix for Error 1152 in Win"
+date: 2024-07-03T12:38:58.141Z
+updated: 2024-07-04T12:38:58.141Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Addressing File Extraction Failure: Fix for Error 1152 in Win"
+excerpt: "This Article Describes Addressing File Extraction Failure: Fix for Error 1152 in Win"
+keywords: WinErrorFix1152,ExtractFilesWinError,SolveError1152Win,Fix1152ExtractionFail,ErrorSolutionWindows,WinFileCorruption,CorrectingWin1152
+thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg
+---
+
+## Addressing File Extraction Failure: Fix for Error 1152 in Win
+
+ Error 1152 is an issue some users report occurring when trying to install certain Windows software packages. This InstallShield error has the following message, “1152: Error extracting files to the temporary location.” That error halts the installation of software.
+
+ The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
+
+## 1\. Download the Affected Installation File Again
+
+ This error can feasibly occur because of an issue with the downloaded installer file. Download process errors can corrupt files. So, try downloading the same setup file again, preferably from a different website source if you can. Then right-click the new installer file and select to run it with administrative rights.
+
+## 2\. Set Full Control Permissions for the Temp Folder
+
+ Setting full control permissions for the Temp folder has fixed error 1552 for many users. That highlights error 1152 occurs because the Temp folder has insufficient permissions. You can address such a potential cause by adjusting permission settings for the Temp folder like this:
+
+1. Go to "C:\\Windows" in File Explorer, then right-click on the **temp** directory in the Windows folder and select **Properties**.
+2. ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option5.jpg)
+3. Select **Security** within the tab bar.
+4. Click on the **Edit** button to view a permission window.  
+![The Edit button on the temp Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button.jpg)
+5. Next, click **Add** to bring up an object name selection window.  
+![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-or-groups-window.jpg)
+
+1. Type **everyone** inside the object name box, then click **Check Names**.
+2. Select **OK** to add the **Everyone** group.
+3. Click **Everyone** within the Permission for Temp window.
+4. Select the **Full control** permission checkbox.  
+![Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-checkbox.jpg)
+5. Apply and OK out of all windows.
+6. It’s also recommended to repeat those steps for the Temp folder in the local directory. You can reach that folder at the following path:  
+`C:\Users\<user folder>\AppData\Local`
+
+ If the **Security** tab says you need read permissions, click **Advanced** \> **Change**. Input **Everyone** in the group user box, as instructed above, select **System** on the Advanced Security window, and press the **Add** button. That will bring up another Select User or Group window in which you must input **Everyone** again. Then select the **Full control** checkbox from there.
+
+## 3\. Clear the Temporary Files Folder
+
+ Corrupted data in the Temp folder is also a known cause of error 1152\. You can address such a cause by clearing the data in that folder. There are a few ways you can do that, but erasing data in that folder with the Disk Cleanup tool is recommended.
+
+ Our guide on [deleting temporary files on Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes instructions for erasing data in the Temp folder with Disk Cleanup and other methods.
+
+![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
+
+## 4\. Perform a Clean Boot
+
+ Performing a clean boot means restarting Windows 11/10 without any third-party background apps and services enabled. This is a recommended troubleshooting method for error 1152 because it could eliminate background items conflicting with your software installation. You might then be able to install the software as required after the clean boot.
+
+ First, you must configure a clean boot by disabling third-party background items with Task Manager and System Configuration (MSConfig). To do that, follow the instructions in our [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) guide. Then restart your PC with the third-party items disabled and try running the affected installer file.
+
+![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
+
+## Install the Windows Software You Need Again
+
+ There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
+
+ The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-the-ultimate-win11-mouse-properties-guide/"><u>Dive Deep: The Ultimate Win11 Mouse Properties Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-check-for-open-tcpip-ports-on-windows/"><u>3 Ways to Check for Open TCP/IP Ports on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-school-explorer-revival-strategies/"><u>Old-School Explorer Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-technical-exploration-of-high-dynamic-range-on-windows-11-platforms/"><u>The Technical Exploration of High Dynamic Range on Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intro-to-digital-art-accessing-microsoft-paint-in-windows-11/"><u>Intro to Digital Art: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365826035-resolve-camera-woes-in-windows-heres-how/"><u>Resolve Camera Woes in Windows, Here’s How!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-updater-problem-code-0x8019/"><u>Overcoming Updater Problem: Code 0X8019</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-c51-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme C51? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-discovering-the-ultimate-2023-rock-anthems-a-must-list-experience-for-2024/"><u>New Discovering the Ultimate 2023 Rock Anthems - A Must-List Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionizing-tv-viewership-with-streamed-fb-events/"><u>[New] Revolutionizing TV Viewership with Streamed FB Events</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-audio-tuning-apps-mobiledesktop-edition-for-2024/"><u>Advanced Audio Tuning Apps  Mobile/Desktop Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-the-future-pivotal-changes-to-fb-advertising-post-2023/"><u>2024 Approved  Decoding the Future  Pivotal Changes to FB Advertising Post-2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-master-the-art-of-social-media-analytics-understanding-ig-data/"><u>[New] 2024 Approved  Master the Art of Social Media Analytics  Understanding IG Data</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

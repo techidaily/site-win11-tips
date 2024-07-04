@@ -1,7 +1,7 @@
 ---
 title: Correcting Spooler Not Running Issue in Microsoft OS
-date: 2024-06-25T17:01:41.785Z
-updated: 2024-06-26T17:01:41.785Z
+date: 2024-07-03T12:38:47.282Z
+updated: 2024-07-04T12:38:47.282Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,8 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 6. Select the printer you want to troubleshoot and click **Next**.
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
-## 2\. Restart Print Spooler Service ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
+## 2\. Restart Print Spooler Service
+![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
 
  You can check and rerun the print spooler service in the Services snap-in to fix the print spooler service is not running error. Here's how to do it:
 
@@ -113,7 +114,8 @@ C:\Windows\System32\spool\PRINTERS
 
  If you use your printer frequently, disabling Windows Defender Firewall is not a feasible solution. You’ll need to investigate the issue further to allow the connection through the Firewall.
 
-## 6\. Update Your Printer Driver ![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
+## 6\. Update Your Printer Driver
+![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
 
  Outdated or corrupted [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) can cause your connected device to malfunction. Try updating your printer driver to see if that helps resolve the error. You can update the generic printer driver using the Device Manager. Here’s how to do it.
 

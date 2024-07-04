@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows Event Viewer Breakdowns
-date: 2024-06-25T17:05:04.921Z
-updated: 2024-06-26T17:05:04.921Z
+date: 2024-07-03T12:38:49.341Z
+updated: 2024-07-04T12:38:49.341Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-## 1\. Restart the Windows Event Log Service ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
+## 1\. Restart the Windows Event Log Service
+![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
 
  You can restart the Windows Event Viewer log service to fix temporary issues with the app. Use the Services snap-in to stop and restart the service and check for any improvements.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 4. Select **Restart** and wait for the service to restart.
 5. Close the Services snap-in and try to relaunch Event Viewer to see if the issue is resolved.
 
-## 2\. Install the Latest Windows Updates ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
+## 2\. Install the Latest Windows Updates
+![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
 

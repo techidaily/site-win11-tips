@@ -1,0 +1,119 @@
+---
+title: "Overcoming Windows Obstacles: Simple, Effective Solutions!"
+date: 2024-07-03T12:49:13.186Z
+updated: 2024-07-04T12:49:13.186Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Overcoming Windows Obstacles: Simple, Effective Solutions!"
+excerpt: "This Article Describes Overcoming Windows Obstacles: Simple, Effective Solutions!"
+keywords: Overcome Windows Issues,Simplify PC Troubleshooting,Efficient Windows Fixes,Tackle Windows Errors,Optimize Windows Performance,Quick Windows Repair,Enhance Windows Stability
+thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11e8e4a458198601a87eb9beb.jpg
+---
+
+## Overcoming Windows Obstacles: Simple, Effective Solutions
+
+ You've encountered a problem with your Windows PC and don't know where to look for help. Luckily, there are so many ways to get help with Windows issues that it can sometimes be a breeze to find a solution.
+
+ In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
+
+## 1\. Use Windows Search With Bing Chat
+
+ Microsoft has improved the Windows Search tool tremendously over the years. As long as you know [how to use Windows Search](https://www.makeuseof.com/windows-search-use-guide/), it's easy to find the app, program, file, or resource you need.
+
+ Furthermore, with the integration of Bing Chat into Windows Search, you can get even more results from the web to help you solve a wide variety of issues with the help of AI. Here's how:
+
+1. Click on the Bing Chat button on the right side of the Search bar.  
+![the-bing-chat-icon-in-windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-bing-chat-icon-in-windows-search.jpg)
+2. This will open a Microsoft Edge tab with Bing Chat open. To use it, enter what you need help with in the search box at the bottom, and then hit the **Enter** key on your keyboard.  
+![bing-chat-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-in-edge.jpg)
+3. The AI will take a moment to look for a solution, and if it finds one, it will display the steps you need to take to solve your problem. You just need to try them out and see if they work out for you.  
+![bing-chat-results-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-results-in-edge.jpg)
+
+ After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
+
+## 2\. Use the Get Help App
+
+ Just as the name suggests, the Get Help app is all about assisting you with issues on your Windows computer. Basically, all you have to do is launch it, ask it a question, and the app will look for a solution for you.
+
+ Here's how you can use the Get Help app on Windows:
+
+1. Press **Win + S** to bring up Windows Search.
+2. Type **get help** in the Search box and click on the **Get Help** app in the search results to launch it.  
+![launching-the-get-help-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-get-help-app-through-windows-search.jpg)
+3. In the text box, type the help you need (make sure it's 80 characters or less) and hit the **Enter** key on your keyboard.  
+![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
+4. The app will search for self-help articles online and display the steps or information you need to solve the problem you're experiencing.  
+![search-results-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/search-results-in-the-get-help-app-on-windows.jpg)
+
+ If the Get Help app doesn't have a solution, there's another app you can use.
+
+## 3\. Use the Quick Assist App
+
+ When it comes to getting help, the Quick Assist app allows you to find a knowledgeable person who can offer remote assistance. The helper can then do a wide range of things, including taking control of your computer to directly fix the issue or annotating parts of your screen to help you figure it out.
+
+ For the app to work, the helper has to give you a security code (you don't just want anyone connecting to your computer). Once you enter the code into the Quick Assist app, you will be able to share your computer's screen with them. Here's how:
+
+1. Press **Win + S** to bring up Windows Search.
+2. Type **quick assist** in the Search box and click on the **Quick Assist** app in the results to launch it.  
+![launching-the-quick-assist-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-quick-assist-app-through-windows-search.jpg)
+3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
+![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
+
+ Once the helper is able to connect to your PC, you can sit back and let them do their thing.
+
+## 4\. Use the Built-In Windows Troubleshooters
+
+ Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) so you know which ones to use.
+
+## 5\. Get Help Online
+
+ If you can't solve the problem within Windows, perhaps the online world can help. A quick way to go about it is to simply type your problem on Google and see what articles come up with solutions.
+
+ Another thing you can do is use the Microsoft Support website. Here's how:
+
+1. Go to the [Microsoft Support page](https://support.microsoft.com/contactus?ContactUsExperienceEntryPointAssetId=S.HP.windows) and, in the **Select the product you need help with** section, click on **Windows**.  
+![the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-support-page.jpg)
+2. In the pop-up, click **Get Home support** to access the self-help tool.  
+![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
+3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
+![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
+
+ If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
+
+## Get Help When Solving Problems on Windows
+
+ Your computer and the World Wide Web are full of ways to help you fix problems on Windows, and you can find them if you know where to look. Of course, there are more ways than these to get help with Windows problems. However, with these methods under your tool belt, you hopefully won't have to look far when you encounter issues.
+
+ In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/a-clearer-journey-the-art-of-annotating-folders-on-windows-11/"><u>A Clearer Journey: The Art of Annotating Folders on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-administrator-security-configs/"><u>Steps to Tackle Windows Administrator Security Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-early-access-the-way-into-windows-11-beta/"><u>Gain Early Access: The Way Into Windows 11 Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-overcoming-windows-run-time-errors/"><u>Unraveling the Mystery: Overcoming Windows 'Run-Time Errors'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-the-ultimate-alternatives-to-native-software/"><u>Win 11: The Ultimate Alternatives to Native Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-and-correction-of-windows-error-0xc00000f/"><u>Avoidance and Correction of Windows Error: 0Xc00000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-control-windows-11-shutdown-with-open-filestasks/"><u>How to Control Windows 11 Shutdown with Open Files/Tasks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-sound-clarity-in-media-paid-vs-free-software-solutions/"><u>[New] In 2024, Sound Clarity in Media - Paid Vs. Free Software Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>[New] Universe Explorer  Top Ranking of Best Free MMORPG Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-revolutionary-audio-alteration-for-enhanced-pubg-experience/"><u>[Updated] 2024 Approved  Revolutionary Audio Alteration for Enhanced PUBG Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-non-zoom-remote-work-solutions-for-pc-and-mobile-for-2024/"><u>[Updated] Leading Non-Zoom Remote Work Solutions for PC & Mobile for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima/"><u>[Updated] Clan Combat Chronicles  Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-vimeo-video-speed/"><u>Elevating Vimeo Video Speed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-fixes-to-keep-your-photos-app-fixed-on-win-11/"><u>2024 Approved  Quick Fixes to Keep Your Photos App Fixed on Win 11</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

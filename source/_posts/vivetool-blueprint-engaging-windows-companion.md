@@ -1,7 +1,7 @@
 ---
 title: "ViveTool Blueprint: Engaging Windows Companion"
-date: 2024-06-25T16:17:18.628Z
-updated: 2024-06-26T16:17:18.628Z
+date: 2024-07-03T12:38:47.520Z
+updated: 2024-07-04T12:38:47.520Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
-## How to Enable Windows Copilot Using ViveTool ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
+## How to Enable Windows Copilot Using ViveTool
+![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
 

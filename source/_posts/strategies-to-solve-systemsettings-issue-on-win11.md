@@ -1,7 +1,7 @@
 ---
 title: Strategies to Solve SystemSettings Issue on Win11
-date: 2024-06-25T16:39:37.281Z
-updated: 2024-06-26T16:39:37.281Z
+date: 2024-07-03T12:38:49.635Z
+updated: 2024-07-04T12:38:49.635Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,8 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
  To disable the Windows Security app, check our guide on [temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11\. However, if you're using a third-party antivirus program, check its user manual to know about its disabling process.
 
-## 4\. Create a New User Account ![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
+## 4\. Create a New User Account
+![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
 
  Creating a new user account is another solution to fix the SystemSettings.exe system error. This approach is particularly helpful if the issue is being caused by corruption in your current account.
 

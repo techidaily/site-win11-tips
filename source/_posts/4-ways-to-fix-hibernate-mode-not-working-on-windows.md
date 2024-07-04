@@ -1,0 +1,104 @@
+---
+title: 4 Ways to Fix Hibernate Mode Not Working on Windows
+date: 2024-07-03T12:45:27.000Z
+updated: 2024-07-04T12:45:27.000Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes 4 Ways to Fix Hibernate Mode Not Working on Windows
+excerpt: This Article Describes 4 Ways to Fix Hibernate Mode Not Working on Windows
+keywords: Hibernate Fix for Windows,Windows Hibernate Issues,Resolving Hibernation Errors,Troubleshoot Windows Sleep Mode,Hibernation Mode Failure,Fix Windows Power Saving Problems,Overcoming Hibernate Freeze on PCs
+thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601ed8967bdbaf6f2fda50fa89.jpg
+---
+
+## 4 Ways to Fix Hibernate Mode Not Working on Windows
+
+ Hibernate mode on Windows is a useful feature that allows you to save your session, power down your computer, and then resume your work exactly where you left off. However, there may be instances when your Windows PC fails to hibernate upon your command, resulting in your PC remaining powered on.
+
+ If you face the same problem, don’t fret. Below, we’ve listed some effective solutions that will help fix the problem in no time.
+
+## 1\. Run the Power Troubleshooter
+
+ Running the built-in troubleshooters on Windows is the most effective way to fix common system-level issues. In this case, you can run the Power troubleshooter and see if that gets hibernate mode to work again. Here's how.
+
+1. Press **Win + I** to open the Settings app.
+2. Click on **Troubleshoot**.
+3. Select **Other troubleshooters**.
+4. Click the **Run** button next to **Power**.  
+![Power Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/power-troubleshooter-on-windows.jpg)
+
+ Allow the troubleshooter to scan your system for any issues and resolve them. Then, try using the hibernate option again and see if it works.
+
+## 2\. Disable Fast Startup
+
+ Fast Startup is a useful feature that helps you [avoid slow boot times on your Windows computer](https://www.makeuseof.com/tag/windows-10-slow-boot-issues/). However, it can occasionally disrupt the functionality of hibernate mode and cause problems. You can try disabling this feature to see if that helps.
+
+1. Press **Win + R** to open Run.
+2. Type **control** in the box and click **OK** to open the Control Panel.
+3. Click on **Power Options**.
+4. Click on **Choose what the power buttons do** from the left sidebar.
+5. Click the **Change settings that are currently unavailable** link.
+6. Select **Yes** when the User Account Control (UAC) prompt appears.
+7. Uncheck the **Turn on fast startup (recommended)** option.
+8. Click the **Save changes** button to apply the changes.  
+![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
+
+ Restart your PC after this and check if the issue is still there.
+
+## 3\. Reset Your Power Plan
+
+ If disabling fast startup doesn’t help, it's possible that there is a problem with your existing power plan settings. In that case, you can reset your power plan on Windows to its default settings and start afresh. To do so, use these steps:
+
+1. Use one of the many [ways to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
+2. Type the following command in the console and press **Enter**.  
+`powercfg -restoredefaultschemes`  
+![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
+
+ After completing the above steps, try using hibernate mode one more time.
+
+## 4\. Try Basic Fixes to Resolve Hibernation Problems on Windows
+
+ If the above fixes prove ineffective, you can try some generic Windows fixes to resolve issues with hibernate mode.
+
+* **Scan for Malware:** The presence of malware can result in a wide range of system issues, including the one discussed here. To overrule this possibility, you can try [using Microsoft Defender’s offline scan to find and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/).
+* **Update Drivers:** Outdated or incompatible device drivers can also prevent the hibernate mode from working correctly on Windows. Hence, it's a good idea to [replace the outdated Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) using Device Manager and see if that helps.
+* **Install Windows Updates:** Keeping your Windows PC updated to the most recent version allows you to benefit from the latest bug fixes and improvements. If the issue with hibernate mode is caused by a bug, [installing Windows updates](https://www.makeuseof.com/windows-11-install-updates/) should help.
+
+## Hibernate Your Windows PC Without Problems
+
+ Hibernating your Windows PC can be useful if you are not going to be using it for an extended period of time. With any luck, one of the above tips should help fix the underlying problem and get the hibernate mode to work again.
+
+ Although hibernating your PC is an excellent way to save power, there are other options available to conserve energy. For example, you can put your Windows computer to sleep or make use of the "hybrid sleep" feature as an alternative method for power conservation.
+
+ If you face the same problem, don’t fret. Below, we’ve listed some effective solutions that will help fix the problem in no time.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unlock-installation-fix-for-ms-pc-manager-on-xp/"><u>Unlock Installation: Fix for MS PC Manager on XP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swivel-your-snaps-with-these-6-steps-for-windows-11-users/"><u>Swivel Your Snaps with These 6 Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-correcting-stuck-batch-files-on-windows/"><u>Comprehensively Correcting Stuck Batch Files on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-notepad-not-opening-on-windows/"><u>7 Ways to Fix Notepad Not Opening on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-non-functioning-reading-aloud-in-word-2016plus/"><u>Quick Guide to Reviving Non-Functioning Reading Aloud in Word 2016+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-amd-gpu-software-on-pcs/"><u>Restoring Functionality to AMD GPU Software on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-setup-a-closer-look/"><u>Windows 11 Setup: A Closer Look</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/choose-from-the-finest-7-android-browsers-without-ads-for-2024/"><u>Choose From the Finest 7 Android Browsers Without Ads for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-video-longevity-saving-snaps-on-android-and-mac-for-2024/"><u>[Updated] Maximizing Video Longevity  Saving Snaps on Android & Mac for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cost-free-creative-twitter-videos-to-gif-magic/"><u>[Updated] 2024 Approved  Cost-Free Creative  Twitter Videos to Gif Magic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scoping-out-spots-where-to-meet-youtube-brand-deals/"><u>[Updated] Scoping Out Spots  Where to Meet YouTube Brand Deals</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-elevating-your-tiktok-identity-in-under-10-steps/"><u>[Updated] Elevating Your TikTok Identity in Under 10 Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-chromebook-screen-capture-simplified-into-four-methods/"><u>[New] Chromebook Screen Capture  Simplified Into Four Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>2024 Approved  In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-phantom-v-fold-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Phantom V Fold FRP</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

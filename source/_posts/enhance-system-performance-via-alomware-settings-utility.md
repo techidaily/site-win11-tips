@@ -1,7 +1,7 @@
 ---
 title: Enhance System Performance via AlomWare Settings Utility
-date: 2024-06-25T16:10:19.521Z
-updated: 2024-06-26T16:10:19.521Z
+date: 2024-07-03T12:38:49.438Z
+updated: 2024-07-04T12:38:49.438Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  While AlomWare is designed with Windows power users in mind, it also comes with some tools to make your life easier, even if you're an average user. Here are some of the essentials that come with AlomWare.
 
-### Calendar ![AlomWare Toolbox calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-calendar.jpg)
+### Calendar
+![AlomWare Toolbox calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-calendar.jpg)
 
  The AlomWare Toolbox features a calendar where you can set reminders on your computer. Unlike these [calendars that sync across all your devices](https://www.makeuseof.com/best-calendar-apps-sync-all-devices/), the AlomWare calendar only keeps the reminders on the device installed.
 
@@ -42,23 +43,27 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  It's also easy to set a reminder on the calendar, and each recorded reminder appears under Current, Arrived, or Missed tab, along with how many days are left until the reminder arrives or when it was due if it's already past.
 
-### Notes ![AlomWare Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-notes.jpg)
+### Notes
+![AlomWare Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-notes.jpg)
 
  The Notes tab features a notepad-like interface that lets you keep whatever text you need. You can save as many notes as you want and then use the letters above it to filter them according to their first letter.
 
  Alternatively, you can click on **(click here to filter)** to search for specific text in your notes or use the **yyyy-mm-dd** date format to search your notes by date written.
 
-### Clipboard ![AlomWare clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clipboard.jpg)
+### Clipboard
+![AlomWare clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clipboard.jpg)
 
  The AlomWare Clipboard works just [like Windows 11's clipboard history](https://www.makeuseof.com/windows-11-turn-on-clipboard-history/). However, it separates the items that you copied into two tabs—one for text and another for images. This makes it easier to find what you copied.
 
  Furthermore, AlomWare adds more tools to its clipboard. It lets you lock or pin any item you copied and save it as a different file altogether. You can also use its built-in optical character recognition to extract text from a photo—no need to [use OCR apps to convert images to text](https://www.makeuseof.com/tag/top-5-free-ocr-software-tools-to-convert-your-images-into-text-nb/).
 
-### Screenshots ![AlomWare Toolbox screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-screenshots.jpg)
+### Screenshots
+![AlomWare Toolbox screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-screenshots.jpg)
 
  Screenshots are traditionally saved on the clipboard or to the Pictures > Screenshots folder. But with the AlomWare Toolbar, all your screenshots are saved to the app's Screenshots tab. This makes it easy to find all the screenshots you've made and ensures that you won't miss them, even after you've restarted your computer.
 
-### Files ![AlomWare batch rename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-batch-rename.jpg)
+### Files
+![AlomWare batch rename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-batch-rename.jpg)
 
  AlomWare Tools offers four major file functions: single-file backups with versioning, file search, multiple file rename, and folder monitoring. These features make it easier to manage files, including ensuring you don't accidentally overwrite an important file and keeping track of any changes made to a particular folder.
 
@@ -66,7 +71,8 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  Although AlomWare has several nifty basic features, its advanced capabilities make it stand out. These features can save you a lot of time by automating your Windows PC's most mundane and repetitive tasks.
 
-### Automation ![AlomWare automation options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-automation-options.jpg)
+### Automation
+![AlomWare automation options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-automation-options.jpg)
 
  You can [create a Windows Batch File command to automate repetitive tasks](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/), but it could be complicated. That's why most users don't bother making one, as it could lead to more problems and would make you just want to do it yourself manually.
 
@@ -76,17 +82,20 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
  You can also create your own automation with several steps from scratch. But if you find that too complicated, you can use the **Create an action with a wizard** button to make it easier.
 
-### States ![AlomWare states](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-states.jpg)
+### States
+![AlomWare states](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-states.jpg)
 
  States is also another feature perfect for office-based professionals. If you use the same set of apps daily and already have a fixed place for them on your screen, you can save that as a PC State on AlomWare Tools. You can then launch it from the app, and your computer will enter into your set configuration, opening all the apps you need and placing them exactly where you want them on the monitor.
 
-## The AlomWare Power Menu ![AlomWare Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-power-menu.jpg)
+## The AlomWare Power Menu
+![AlomWare Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-power-menu.jpg)
 
  Aside from the features inside the app, AlomWare also gives you extra capabilities via the AlomWare Power Menu. You can activate this feature by middle-clicking on an open app's upper-right. You'll see several features from there like **Keep locked here**, **Minimize to tray**, **Roll up to title**, and more.
 
  You can even set where an app will open on your monitor every time by choosing **Opening state > Open like this (position, size, transparency, etc)**. With this feature, AlomWare gives you many useful options to use your computer just how you like it.
 
-## "Reboot" Your PC Without Turning It Off ![AlomWare Clean Slate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clean-slate.jpg)
+## "Reboot" Your PC Without Turning It Off
+![AlomWare Clean Slate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clean-slate.jpg)
 
  One other interesting feature that AlomWare offers is Clean Slate, located under the States tab. Clean Slate technically reboots your computer by closing all open windows and apps. It also has several options, like ending specific processes, setting all processes to normal priority, and clearing the recent documents list.
 

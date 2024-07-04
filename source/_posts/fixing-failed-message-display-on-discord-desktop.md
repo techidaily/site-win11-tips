@@ -1,7 +1,7 @@
 ---
 title: Fixing Failed Message Display on Discord Desktop
-date: 2024-06-25T16:41:07.536Z
-updated: 2024-06-26T16:41:07.536Z
+date: 2024-07-03T12:38:50.042Z
+updated: 2024-07-04T12:38:50.042Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,15 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  In this article, we will demonstrate how to troubleshoot the error and make your messages accessible again.
 
-## 1\. Make Sure Discord Isn't Down ![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
+## 1\. Make Sure Discord Isn't Down
+![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
 
  Before you start tweaking any settings, ensure Discord isn't down first. Check the [Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
-## 2\. Rule Out Any Internet Issues ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
+## 2\. Rule Out Any Internet Issues
+![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
 
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
@@ -38,7 +40,8 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
 
-## 4\. Switch Your Network Connection ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
+## 4\. Switch Your Network Connection
+![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
 
@@ -79,7 +82,8 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Unfortunately, the API ban is based on your IP address, not your account. As such, making a new account won't get around the ban.
 
-## 9\. Enable or Disable a VPN ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
+## 9\. Enable or Disable a VPN
+![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
 
  If you encounter the error when accessing Discord for the first time from a new location, Discord might be blocked in that area. Likewise, you may encounter the error under discussion if your IP address is banned by Discord.
 
@@ -108,7 +112,8 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
-## 12\. Switch to a Different Discord Client ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
+## 12\. Switch to a Different Discord Client
+![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1)
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 

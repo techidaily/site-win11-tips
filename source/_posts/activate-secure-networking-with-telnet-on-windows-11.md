@@ -1,0 +1,133 @@
+---
+title: Activate Secure Networking with Telnet on Windows 11
+date: 2024-07-03T12:49:35.026Z
+updated: 2024-07-04T12:49:35.026Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Activate Secure Networking with Telnet on Windows 11
+excerpt: This Article Describes Activate Secure Networking with Telnet on Windows 11
+keywords: Windows 11 Telnet Security,Secure Telnet Connectivity,Enhance Win 11 Net Safety,Activate Win 11 Networking,Telnet Secure Protocols Windows,Networking with Win Telnet Safe,Optimize Win 11 Telnet Security
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
+---
+
+## Activate Secure Networking with Telnet on Windows 11
+
+ Despite the vulnerability issues, Telnet is still used as a client-server protocol by Windows users. It is primarily used for initial network hardware configuration, remote access, port testing and forwarding, and other tasks that don't involve sensitive information transfer.
+
+ You can enable Telnet on Windows 10 and 11 computers via Command Prompt or the Graphics User Interface (GUI) tool. Here we show you the many ways to enable Telnet on your Windows computer.
+
+## 1\. Enable Telnet on Windows Using Control Panel
+
+ You can enable Telnet Client using the Classic Control Panel. Since it is an optional feature, you can enable it using the Windows Optional Feature dialog. You can use it [add or remove other users' optional features on Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) .
+
+To enable Telnet Client using Control Panel:
+
+1. Press**Win + R** to open**Run** .
+2. Type**control** and click**OK** to open**Control Panel.**
+3. In Control Panel, Click on**Uninstall a Program** under**Programs and Features.**  
+![turn windows features on or off control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off-control-panel.jpg)
+4. In the left pane, click on the**Turn Windows feature on or off.**  
+![enable telnet client windows features dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-windows-features-dialog.jpg)
+5. In the Windows Features dialog, scroll down and select**Telnet Client.**
+6. Click**OK** and wait for the feature to install. Once installed, restart your PC to apply the changes and enable the feature.
+
+If you need to disable Telnet:
+
+1. Open the**Windows Features** dialog and unselect**Telnet Client.**
+2. Click**OK** and wait for the feature to uninstall.
+3. Click on**Restart** now to reboot your PC and apply the changes.
+
+## 2\. Enable Telnet Client Using Windows PowerShell
+
+![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
+
+ You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
+
+To enable Telnet using Windows PowerShell:
+
+1. Press**Win + X** to open the**WinX** menu.
+2. Click on**Windows Terminal(Admin)** and click**Yes** to open the terminal app as administrator. If you are using Windows 10, type**PowerShell** in**Windows Search** and open**Windows PowerShell** administrator.
+3. In the PowerShell window, type the following command and press**Enter** to enable Telnet:  
+`Enable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
+4. This process may take several minutes, so wait for it to complete and return a status report. If successful, you’ll see the result as**Online:True.**
+5. If you want to disable Telnet Client, use the following command instead:  
+`Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
+6. Close PowerShell and restart your PC.
+
+## 3\. Install Telnet Client Using Command Prompt
+
+![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+
+ If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
+
+Follow these steps to install Telnet using Command Prompt:
+
+1. Press the**Win** key and type**cmd** .
+2. Right-click on**Command Prompt** and select**Run as administrator.**
+3. In the Command Prompt window, type the following command and press**Enter** :  
+`dism /online /Enable-Feature /FeatureName:TelnetClient`
+4. Command Prompt will start enabling the feature and display the operation completed successfully message.
+5. If you need to disable Telnet, type the following command and press**Enter** :  
+`dism /Online /Disable-Feature /FeatureName:TelnetClient`
+6. Wait for the success message.
+7. Type**exit** and press**Enter** to close Command Prompt.
+
+## How to Check the Telnet Client Status on Your PC
+
+![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
+
+ You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
+
+1. Launch Command Prompt as administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
+2. In the Command Prompt window, type**Telnet** and press**Enter** .
+3. A new CMD with Microsoft Telnet will open.
+
+## All the Ways to Enable Telnet On Your Windows 11 Computer
+
+ Telnet is a built-in remote access utility that you can use to troubleshoot firewall and network issues. While it is still part of Windows, system administrators now prefer the more secure SSH protocol to access computers over an unsecured network.
+
+ The major disadvantage of Telnet is that it is not secure and prone to a man-in-the-middle attack. If not for particular situations, switch to a more secure network protocol such as SSH and Mosh with better password and public key authentication.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-blue-screens-resulting-from-wins-intruder-exception/"><u>Quick Fixes for Blue Screens Resulting From Win's Intruder Exception</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382132283-boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-instant-uninstalling-via-windows-shortcuts/"><u>The Guide to Instant Uninstalling via Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-win1011-blue-screen-crash-issue/"><u>Addressing Win10/11 Blue Screen Crash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-complications-caused-by-latest-windows-updates/"><u>Resolving Complications Caused by Latest Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-file-access-dilemnas-on-windows-os/"><u>Addressing File Access Dilemnas on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-gmail-to-outlook-on-windows-a-step-by-step-guide/"><u>Converting Gmail To Outlook on Windows – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-no-cost-voice-altering-app-for-valorant-enthusiasts/"><u>[Updated] Best No-Cost Voice Altering App for Valorant Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-the-art-of-ps3-gaming-footage-collection-for-2024/"><u>[New] Unlocking the Art of PS3 Gaming Footage Collection for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>New In 2024, Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-critical-approaches-to-documenting-youtube-live-video/"><u>[New] Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y78-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y78 5G Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chaos-to-order-youtube-playlists-unveiled/"><u>[Updated] In 2024, From Chaos to Order  YouTube Playlists Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-sneak-peek-snapcapture-unseen-image-capturing-tactics/"><u>[Updated] In 2024, Sneak Peek SnapCapture  Unseen Image Capturing Tactics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-tiktok-voice-alteration-steps/"><u>In 2024, The Ultimate TikTok Voice Alteration Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-a-comprehensive-approach-to-mastering-the-art-of-instagram-reels/"><u>[New] In 2024, A Comprehensive Approach to Mastering the Art of Instagram Reels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter-for-2024/"><u>The Ultimate Amazon Prime Series  Most Liked & Watched on Twitter for 2024</u></a></li>
+</ul></div>

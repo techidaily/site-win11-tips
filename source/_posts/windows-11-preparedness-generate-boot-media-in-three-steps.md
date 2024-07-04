@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Preparedness: Generate Boot Media in Three Steps"
-date: 2024-06-25T16:23:38.213Z
-updated: 2024-06-26T16:23:38.213Z
+date: 2024-07-03T12:38:49.829Z
+updated: 2024-07-04T12:38:49.829Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,8 @@ thumbnail: https://thmb.techidaily.com/8f5cadb41c029899508ca6efd6723f50f45c76c59
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
 
-## 1\. How to Create a Windows 11 Bootable USB Using Rufus ![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
+## 1\. How to Create a Windows 11 Bootable USB Using Rufus
+![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
 
  Rufus is an open-source utility to format and create a bootable USB flash drive for the Windows operating system. It's a lightweight utility and offers a few more customization options compared to Microsoft's in-house media creation tool.
 

@@ -1,7 +1,7 @@
 ---
 title: The Basics of Windows Canary and Its Benefits
-date: 2024-06-25T17:04:02.219Z
-updated: 2024-06-26T17:04:02.219Z
+date: 2024-07-03T12:38:48.767Z
+updated: 2024-07-04T12:38:48.767Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  It is also important to note that not all changes that Microsoft introduces in Canary will appear in future Windows releases. Also, Canary builds will have distinct build numbers, which will be higher than the Dev, Beta, and Release Preview Channels. If you enroll in Canary, you will start getting 25000 series builds in the coming days.
 
-## How to Enroll Your PC in the Canary Channel ![Windows Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-insider-program-edit.jpg)
+## How to Enroll Your PC in the Canary Channel
+![Windows Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-insider-program-edit.jpg)
 
  Microsoft will migrate all Dev Channel Insiders to the new Canary Channel. If you are a Dev Channel Insider, you will receive an email from the Windows Insider Program team notifying you about the migration. But if you are not a Windows Insider and want to enroll in the new Canary Channel, you need to follow these steps:
 

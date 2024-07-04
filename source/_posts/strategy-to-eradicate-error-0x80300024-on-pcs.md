@@ -1,7 +1,7 @@
 ---
 title: Strategy to Eradicate Error 0X80300024 on PCs
-date: 2024-06-25T16:59:22.545Z
-updated: 2024-06-26T16:59:22.545Z
+date: 2024-07-03T12:38:48.715Z
+updated: 2024-07-04T12:38:48.715Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  These common issues can lead to the error, but there may be other causes as well. However, the following fixes should help you resolve the problem easily, regardless of the underlying cause.
 
-## 1\. Start With These Preliminary Fixes ![various hard drives connected to device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ssd-connected-1.jpg)
+## 1\. Start With These Preliminary Fixes
+![various hard drives connected to device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ssd-connected-1.jpg)
 
  Before we move on to any complex troubleshooting methods, we recommend starting with these basic, yet effective solutions:
 
@@ -43,7 +44,8 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  These fixes will help you rule out the common hardware issues that might be causing the problem. If none of these help, move to the next solutions below.
 
-## 2\. Modify the Boot Order ![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
+## 2\. Modify the Boot Order
+![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
 
  If the target drive is not prioritized as the first boot device, the installation process may attempt to boot from another drive, which can lead to installation issues. If this scenario is applicable, ensuring that the target drive is at the top of the boot order can allow the system to initiate the setup process smoothly, reducing the chances of encountering the 0x80300024 error.
 

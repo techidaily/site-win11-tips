@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes to Stop Windows 10 Blue Screens
-date: 2024-06-25T16:36:26.731Z
-updated: 2024-06-26T16:36:26.731Z
+date: 2024-07-03T12:38:49.648Z
+updated: 2024-07-04T12:38:49.648Z
 tags:
   - windows10
   - windows11
@@ -102,7 +102,8 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  Confirm your system restore, then you can start the process. This will take a few moments, then you'll be back to your system like it was at the time. If you don't get blue screens after this, your problem was likely software-related.
 
-## 6\. Scan for Malware ![malwarebytes version 4.30 antimalware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/malwarebytes-version-4.30-antimalware.png)
+## 6\. Scan for Malware
+![malwarebytes version 4.30 antimalware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/malwarebytes-version-4.30-antimalware.png)
 
  Malware can damage your Windows system files and result in a blue screen. You should run a scan for infection to rule out anything like this.
 
@@ -114,7 +115,8 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  We've shown [how to test your PC for hardware failure](https://www.makeuseof.com/tag/how-to-test-your-pc-for-failing-hardware/) . Use those tools to test your system and replace anything that you find is faulty.
 
-## 8\. Run an SFC Scan ![Running SFC in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Running-SFC-in-Command-Prompt.png)
+## 8\. Run an SFC Scan
+![Running SFC in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Running-SFC-in-Command-Prompt.png)
 
  Windows includes a command line tool called**SFC** (System File Checker). Running it checks for damaged Windows system files and attempts to fix them. Doing so may solve your blue screen issue.
 
@@ -138,7 +140,8 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  Follow our instructions on [how to fix blue screen errors with WinDbg and BlueScreenView](https://www.makeuseof.com/tag/solve-blue-screen-errors/) for help using a few of these tools.
 
-## 11\. Reinstall Windows ![Windows 10 Recovery Refresh](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Recovery-Refresh.png)
+## 11\. Reinstall Windows
+![Windows 10 Recovery Refresh](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Recovery-Refresh.png)
 
  If all else fails, you'll need to reinstall Windows on your computer. At this point, you've ruled out drivers, hardware, malware, and software issues, so there must be some deeper underlying problem on your system.
 

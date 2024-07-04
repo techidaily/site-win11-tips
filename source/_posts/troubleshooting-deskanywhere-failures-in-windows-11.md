@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting DeskAnywhere Failures in WIndows 11
-date: 2024-06-25T16:55:55.417Z
-updated: 2024-06-26T16:55:55.417Z
+date: 2024-07-03T12:38:49.606Z
+updated: 2024-07-04T12:38:49.606Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
  After the restart, open the AnyDesk app and check if the problem continues.
 
-## 2\. Check the AnyDesk App Server Status ![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
+## 2\. Check the AnyDesk App Server Status
+![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
 
  Like any other online service, AnyDesk can experience server outages anytime. When the servers are down, you won't be able to use or open the app at all.
 

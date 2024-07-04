@@ -1,7 +1,7 @@
 ---
 title: Guiding You Through Lost Ethernet Connection Fixes
-date: 2024-06-25T16:46:27.730Z
-updated: 2024-06-26T16:46:27.730Z
+date: 2024-07-03T12:38:49.850Z
+updated: 2024-07-04T12:38:49.850Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
-## 3\. Troubleshoot Your Ethernet Connection ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
+## 3\. Troubleshoot Your Ethernet Connection
+![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
@@ -74,7 +75,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  After that, restart your device once to ensure the changes take effect.
 
-## 6\. Change Your DNS Settings and Flush the DNS Cache ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
+## 6\. Change Your DNS Settings and Flush the DNS Cache
+![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
 
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
@@ -82,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
-## 7\. Reset the Network Settings ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
+## 7\. Reset the Network Settings
+![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 

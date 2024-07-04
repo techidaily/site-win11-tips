@@ -1,7 +1,7 @@
 ---
 title: Overcoming the 'Cannot Continue' Error in AMD Installation
-date: 2024-06-25T16:52:58.969Z
-updated: 2024-06-26T16:52:58.969Z
+date: 2024-07-03T12:38:48.657Z
+updated: 2024-07-04T12:38:48.657Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
  This error can occur if the Windows firewall or third-party antivirus program blocks the AMD installer. To fix the issue, temporarily disable your firewall or run a compatible version of the installer. Here are a few ways to fix the AMD error 195 on Windows.
 
-## 1\. Update Your Antivirus or Disable It Temporarily ![quit malwarebytes windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/quit-malwarebytes-windows.jpg)
+## 1\. Update Your Antivirus or Disable It Temporarily
+![quit malwarebytes windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/quit-malwarebytes-windows.jpg)
 
  Antivirus conflict is the most common reason for the AMD 195 error. An outdated antivirus definition may block the installer from running on your computer due to a false positive.
 
@@ -44,7 +45,8 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
  If the issue persists, run the installer after disabling both Windows Defender and Windows Firewall. Make sure to re-enable the services after installing AMD Radeon software.
 
-## 3\. Install the AMD Software Driver Manually ![download amd radeon software driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-amd-radeon-software-driver-manually.jpg)
+## 3\. Install the AMD Software Driver Manually
+![download amd radeon software driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-amd-radeon-software-driver-manually.jpg)
 
  If the auto detector tool is not working, you can manually install AMD Radeon Adrenalin Edition drivers from the website. Follow these steps to download AMD drivers manually:
 
@@ -55,7 +57,8 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 5. Click**Download** to save the installer to your local drive.
 6. Run the**MBSetup.exe** file and follow the on-screen instructions to complete the installation. If the offline installer doesn’t work, check for compatibility issues and, if necessary, install an older version of the driver to fix the error.
 
-## 4\. Install an Older Version of AMD Software ![radeon software update graphics driver version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-software-update-graphics-driver.jpg)
+## 4\. Install an Older Version of AMD Software
+![radeon software update graphics driver version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-software-update-graphics-driver.jpg)
 
  Sometimes, the AMD error 195 may be triggered due to a buggy installer or incompatibility issues. To fix the problem, try to install the older version of the software.
 

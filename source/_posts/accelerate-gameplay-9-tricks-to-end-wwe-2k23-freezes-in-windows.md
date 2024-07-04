@@ -1,0 +1,171 @@
+---
+title: "Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows"
+date: 2024-07-03T12:43:46.625Z
+updated: 2024-07-04T12:43:46.625Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows"
+excerpt: "This Article Describes Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows"
+keywords: WWE 2K23 Quick Fix,End Freeze WoW 2K,Overcome WWE Stuttering,No Wins, Stop Lag,WWE Game Speed Up,Battle Lag Fixes 2K,Avoid WWE Crashing
+thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6dcddada5b81adefe0c805246.JPG
+---
+
+## Accelerate Gameplay: 9 Tricks to End WWE 2K23 Freezes in Windows
+
+ It is common for PC games to encounter performance issues, and WWE 2K23 is no exception. Several users have reported that this game is crashing on their Windows 11 PC, causing great frustration.
+
+ Unfortunately, this issue can occur for various reasons, such as compatibility issues, outdated drivers, or misconfigured in-game settings. So, if your copy of WWE 2K23 keeps crashing, here's how to fix it.
+
+## Why Is WWE 2K23 Crashing on Windows 11?
+
+ WWE 2K23 has impressive graphics, old and new superstars, and mind-boggling moves. Unfortunately, there are a few reasons why it can crash on Windows 11:
+
+1. If your system doesn't fulfill the minimum requirement to run the game
+2. If your system cannot handle the in-game graphics settings you've set
+3. System-level issues, such as an outdated graphics driver or corrupted game files
+
+Knowing some of the main causes, let's dive into the solutions.
+
+## 1\. Confirm That WWE 2K23 Is Compatible With Your Computer
+
+ The first thing you should check is your hardware. Does it have enough power to run WWE 2K23? There are the minimum requirements you need to run WWE 2K23 on your computer:
+
+* Windows 10 64-bit OS
+* Intel Core i5 - 3550 / AMD FX 8150
+* 8GB RAM
+* GeForce GTX 1060 or Radeon RX 480 GPU
+* DirectX Version 12
+* 80GB of free space
+
+ None of the solutions below will work if your computer fails to fulfill any of the above requirements. You'll have to upgrade your computer to fix the crashing issue.
+
+## 2\. Edit WWE 2K23's Graphical Settings
+
+![Graphics Settings of WWE 2k23](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/graphics-settings.jpg)
+
+ To run a game without any FPS or crashing issues, properly optimize its settings. Below are the best WWE 2K23 settings to fix its crashing problem and boost FPS.
+
+* **Texture Quality** \- Standard
+* **Windowed Mode** \- No
+* **VSYNC** \- No
+* **ActionCamera FPS** \- 60
+* **Model Quality** \- Standard
+* **Shadows** \- Off
+* **Shader Quality** \- Medium
+* **Anti-Alias** \- FXAA
+* **Reflections** \- Off
+* **Dynamic** **Upscaling** \- Linear
+* **Depth of field** \- Off
+* **Motion Blur** \- Off
+
+ With these visual settings, you'll reduce the load spent on fancy graphical effects, and make the game run more smoothly instead.
+
+## 3\. Close Memory-Consuming Applications
+
+ Another thing you must check whenever facing a crashing issue is the amount of memory your system is using. If many memory-consuming applications run in the background, the computer will fail to offer enough resources to WWE 2K23, resulting in crashes.
+
+ To resolve this, close all the memory-consuming applications from the background. Here's how to do that:
+
+1. Press the**Ctrl + Shift + Esc** hotkeys to open the**Task Manager** .
+2. In the**Memory** column, look for applications consuming the maximum system memory, right-click on them, and choose**End** **Task** .  
+![End Task option in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-task.jpg)
+
+ By ending unnecessary apps, you free up some system memory to help the game run.
+
+## 4\. Force WWE 2K23 to Use Dedicated Graphics
+
+ Many computers have both an integrated and a dedicated GPU. But sometimes, the game mistakenly uses the onboard graphics (which doesn't have enough power to run the game properly) instead of the dedicated card. This may cause low frames or a complete game crash.
+
+ The solution is to manually tell your computer to [use the dedicated graphics card](https://www.makeuseof.com/how-to-set-default-gpu/) [for your game](http://www.makeuseof.com/how-to-set-default-gpu/) . Once you're on a dedicated graphics card, check if the problem is fixed. If not, try the next solution.
+
+## 5\. Update Everything
+
+ Along with the WWE 2K23 crashing issue, are you facing many other problems with your computer lately? If yes, it might be time to update your GPU drivers and operating system.
+
+ To update your operating system,[open the Windows**Settings app**](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and choose**Windows Update** from the left sidebar. Then, click the**Check for Updates** option in the right pane and allow Windows to look for any available update.
+
+![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
+
+ After updating Windows, you must also [update your graphics card driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . Updating the graphics driver will improve your system's overall performance and eliminate any corruption that might be responsible for the problem at hand.
+
+## 6\. Enable Game Mode
+
+ Game Mode is an interesting Windows feature that helps you get better gaming performance on your system. When you enable this mode, Windows disables all unnecessary notifications and services. It also changes system resource priority as you launch the game.
+
+ To enable game mode, choose**Gaming** in the Settings app and click the**Game Mode** option. Then, enable the toggle next to**Game Mode.**
+
+![Game Mode option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-mode.jpg)
+
+ Along with enabling this mode, you can do many other things to [improve your laptop's gaming performance](https://www.makeuseof.com/tag/5-ways-improve-laptop-gaming-performance/) .
+
+## 7\. Temporarily Disable Windows Security
+
+ Your security app ensures your system remains free from viruses and other malware attacks. It does so by blocking malicious applications from running on your computer. But sometimes, it can block trusted apps and games like WWE 2K23 and cause them to crash.
+
+ In this case, the solution is to disable your computer's security app and then launch the game and check for the issue. If you're using Windows Security, check our guide on [temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
+
+![Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/real-time-protection.jpg)
+
+ To disable a third-party security program, right-click on its icon in the system tray and choose**Disable** from the context menu. However, if the security program icon is not in the system tray, check out its support pages for the disabling process.
+
+## 8\. Remove Corruption From the Game's Files
+
+ WWE 2K23 might crash on Windows 11 if its files are missing or corrupted. You can remove the corruption and download the missing files by [verifying the integrity and repairing the game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+
+ When you verify the game files' integrity, Steam will compare WWE 2K23 files on your computer with those on its servers. It'll automatically replace those files with their counterparts if it finds any corruption.
+
+ After completing the process, restart the Steam client and check if the problem continues.
+
+## 9\. Reinstall WWE 2K23
+
+ If verifying the game files wasn't helpful and you're still struggling with the crashing issue, then you are left with no option other than reinstalling the game.
+
+ To reinstall WWE 2K23, launch the Steam client and go to the**Library** section. Then, right-click on WWE 2K23, hover the cursor to**Manage,** and choose**Uninstall.** After the uninstallation process is complete, reinstall the game.
+
+## You've Fixed WWE 2K23 Crashing
+
+ WWE 2K23 is 2023's version of the annual series. However, like any other game, it isn't free from issues. If WWE 2K23 crashes on your computer, try the above solutions to troubleshoot the problem.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719307808288-tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-automate-microsoft-to-do-with-ifttt/"><u>How to Automate Microsoft To Do With IFTTT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-amd-gpu-software-on-pcs/"><u>Restoring Functionality to AMD GPU Software on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-frozen-windows-update-pause/"><u>Eliminate Frozen Windows Update Pause</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-lowering-cpu-intensity-in-gaming-windows/"><u>Solutions for Lowering CPU Intensity in Gaming Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-solutions-for-we-encountered-an-error-during-oculus-install/"><u>Step-By Step Solutions for We Encountered an Error During Oculus Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-stop-windows-from-launching-spotify/"><u>Guide to Stop Windows From Launching Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-win-11-a-guide/"><u>Maximizing Cursor Visibility on Win 11: A Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715701216752-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-instructions-for-fb-live-broadcasts/"><u>2024 Approved  Step-by-Step Instructions for FB Live Broadcasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-capture-your-gaming-moments-3-easy-recording-options/"><u>2024 Approved Capture Your Gaming Moments 3 Easy Recording Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-g2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo G2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-wizardry-for-bending-photos/"><u>[Updated] Photoshop Wizardry for Bending Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>[Updated] In 2024, A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-your-selection-of-affordable-iosandroid-live-streamers/"><u>In 2024, Your Selection of Affordable iOS/Android Live Streamers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-screen-replayer-for-high-impact-youtubing-experience/"><u>2024 Approved  Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-multi-background-streaming-the-green-screen-way-for-2024/"><u>Mastering Multi-Background Streaming  The Green Screen Way for 2024</u></a></li>
+</ul></div>

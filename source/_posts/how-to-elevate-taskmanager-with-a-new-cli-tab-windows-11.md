@@ -1,7 +1,7 @@
 ---
 title: How to Elevate TaskManager with a New CLI Tab (Windows 11)
-date: 2024-06-25T16:57:13.522Z
-updated: 2024-06-26T16:57:13.522Z
+date: 2024-07-03T12:38:49.556Z
+updated: 2024-07-04T12:38:49.556Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  If you wish to view the command line in the Task Manager, you've come to the right place. This article provides step-by-step instructions on how to add the command line tab to the Windows 11 Task Manager.
 
-## Why You Should Add a Command Line Tab to the Task Manager ![Command Line tab in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-line-tab.jpg)
+## Why You Should Add a Command Line Tab to the Task Manager
+![Command Line tab in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-line-tab.jpg)
 
  The Processes tab in Task Manager displays a list of all running processes. However, by default, it does not show the command line arguments used by those processes.
 

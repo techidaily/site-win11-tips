@@ -1,7 +1,7 @@
 ---
 title: Demystifying the Operation of Microsoft's 'Phone Link' App
-date: 2024-06-25T16:39:06.275Z
-updated: 2024-06-26T16:39:06.275Z
+date: 2024-07-03T12:38:47.498Z
+updated: 2024-07-04T12:38:47.498Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,8 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 * **Android**: The phone and the Windows PC must be on the same Wi-Fi network to use Phone Link. You can additionally connect with Bluetooth for extra features like calling. The minimum specification required is Android 7.0 or above.
 * **iOS**: An iPhone can only connect through Bluetooth, so ensure that Bluetooth is switched on, and the iPhone is within range. Your iPhone should be running at least iOS 14 or above.
 
-## How to Set Up Phone Link With Windows ![Screenshot of the Phone Link set up screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_set_up.jpg)
+## How to Set Up Phone Link With Windows
+![Screenshot of the Phone Link set up screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_set_up.jpg)
 
  You'll have to choose between pairing an Android or an iPhone. To pair your PC with your phone, install the companion app for Android or iOS. Download and install either [Link to Windows for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2008631/https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en%5FUS) or [Link to Windows for iOS](https://apps.apple.com/us/app/link-to-windows/id6443686328) from the Google Play Store or Apple Store respectively. Then, launch Phone Link on your PC or locate it from Search on the Windows 11 taskbar.
 
@@ -60,7 +61,8 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  Next, you'll be prompted to grant some system permissions on your device. Allow or disallow to manage what you would like to sync—however, the handshake works best with full permissions. Also, not granting full permissions or enabling Battery saver mode on your phone can cause [syncing errors with Phone Link](https://www.makeuseof.com/how-to-fix-phone-link-app-not-working-windows-11/).
 
-## The Basic Features of the Phone Link App ![Screenshot of the Phone Link photos screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_photos.jpg)
+## The Basic Features of the Phone Link App
+![Screenshot of the Phone Link photos screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_photos.jpg)
 
  Assuming you're connected with Bluetooth or Wi-Fi, Phone Link has these core features:
 

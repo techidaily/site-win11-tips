@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Operation Failed: 0X0000011B Errors"
-date: 2024-06-25T16:11:51.047Z
-updated: 2024-06-26T16:11:51.047Z
+date: 2024-07-03T12:38:47.353Z
+updated: 2024-07-04T12:38:47.353Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,8 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
-## 2\. Install All the Pending Windows Updates ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
+## 2\. Install All the Pending Windows Updates
+![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 

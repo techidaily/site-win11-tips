@@ -1,7 +1,7 @@
 ---
 title: Winning Strategies for Efficient WSL 2 on Windows
-date: 2024-06-25T16:35:21.245Z
-updated: 2024-06-26T16:35:21.245Z
+date: 2024-07-03T12:38:47.323Z
+updated: 2024-07-04T12:38:47.323Z
 tags:
   - windows10
   - windows11
@@ -56,7 +56,8 @@ Here are some of the other important WSL 2 benefits for developers:
 
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the [best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
-## 2\. Integrate Visual Studio Code ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
+## 2\. Integrate Visual Studio Code
+![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
@@ -76,7 +77,8 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-## 5\. Run Containers With Docker ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
+## 5\. Run Containers With Docker
+![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 

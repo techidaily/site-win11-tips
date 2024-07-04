@@ -1,7 +1,7 @@
 ---
 title: "Security Scare: Can You Trust Your Biometric Lock on Windows?"
-date: 2024-06-25T16:21:38.075Z
-updated: 2024-06-26T16:21:38.075Z
+date: 2024-07-03T12:38:48.522Z
+updated: 2024-07-04T12:38:48.522Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,8 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  While these hacks may sound scary, they'll be challenging to perform against actual targets. The hacker will likely have to steal the device to perform these hacks, which would undoubtedly alert the previous owner.
 
-## How to Stay Safe From Fingerprint Hacking ![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
+## How to Stay Safe From Fingerprint Hacking
+![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
 
  As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there's an extremely low chance that these attacks will personally target you.
 

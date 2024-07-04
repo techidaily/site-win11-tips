@@ -1,7 +1,7 @@
 ---
 title: Fixing Unresponsive Files Downloads in Windows 11 (5)
-date: 2024-06-25T16:06:06.176Z
-updated: 2024-06-26T16:06:06.176Z
+date: 2024-07-03T12:38:49.628Z
+updated: 2024-07-04T12:38:49.628Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,8 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
-## 2\. Run the SFC and DISM Command-Line Tools ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
+## 2\. Run the SFC and DISM Command-Line Tools
+![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 

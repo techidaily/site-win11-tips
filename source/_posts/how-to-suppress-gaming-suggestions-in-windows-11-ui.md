@@ -1,7 +1,7 @@
 ---
 title: How to Suppress Gaming Suggestions in Windows 11 UI
-date: 2024-06-25T16:28:25.527Z
-updated: 2024-06-26T16:28:25.527Z
+date: 2024-07-03T12:38:49.216Z
+updated: 2024-07-04T12:38:49.216Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,8 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 
  Luckily, there's a way to disable this feature.
 
-## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
+## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations
+![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
 
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
 

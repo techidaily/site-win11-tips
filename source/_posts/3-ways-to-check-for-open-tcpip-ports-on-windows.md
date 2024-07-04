@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Check for Open TCP/IP Ports on Windows
-date: 2024-06-25T16:54:17.024Z
-updated: 2024-06-26T16:54:17.024Z
+date: 2024-07-03T12:38:48.186Z
+updated: 2024-07-04T12:38:48.186Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  Let's now explore the various ways to check active TCP/IP ports.
 
-## 1\. Check the Open TCP/IP Ports and Their Process Names Using the Command Prompt ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+## 1\. Check the Open TCP/IP Ports and Their Process Names Using the Command Prompt
+![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
  When checking the TCP/IP ports that are open, you might also want to discover some additional information.
 
@@ -54,7 +55,8 @@ netstat -ab
 
  For example, you might see the “\[svchost.exe\]” process name under one of the TCP ports.
 
-## 2\. Check the Open TCP/IP Ports and the Process Identifiers Using the Command Prompt ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
+## 2\. Check the Open TCP/IP Ports and the Process Identifiers Using the Command Prompt
+![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
 
  In some instances, you might want to check out the TCP/IP ports along with their Process Identifiers (the unique numbers that identify processes). This method could be useful if you can’t find the process names using the previous method.
 
@@ -84,7 +86,8 @@ netstat -aon
 
  If you’re a fan of third-party apps, here are some tools that can help you check active TCP/IP ports on your device.
 
-### TCPView ![The TCPView Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcpview-tool.jpg)
+### TCPView
+![The TCPView Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcpview-tool.jpg)
 
  The TCPView app shows a detailed list of all the [TCP and UDP (User Datagram Protocol) ports](https://www.makeuseof.com/what-are-tcp-and-udp-ports/). It also shows you the Process Name, Process IDs (PIDs), the Local Address, the Remote Address, the Local Port, the Remote Port, and more.
 
@@ -98,7 +101,8 @@ netstat -aon
 
 **Download**: TCPView for [Windows](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) (Free)
 
-### CurrPorts ![The CurrPorts Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-currports-tool.jpg)
+### CurrPorts
+![The CurrPorts Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-currports-tool.jpg)
 
  CurrPorts almost looks similar to TCPView, but it has a couple of additional tabs that display critical information. For example, this tool also shows you the Process Path (file path), the Product Name, the File Description, and the File Version (for apps).
 
@@ -114,7 +118,8 @@ netstat -aon
 
 **Download**: CurrPorts for [Windows](https://www.nirsoft.net/utils/cports.html) (Free)
 
-### TCP Monitor Plus ![The TCP Monitor Plus Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcp-monitor-plus-tool.jpg)
+### TCP Monitor Plus
+![The TCP Monitor Plus Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-tcp-monitor-plus-tool.jpg)
 
  TCP Monitor Plus comprises 11 tabs that you can use for various purposes. But in this case, we’ll focus on the Session Monitor tab because that’s where the TCP/IP information is located.
 

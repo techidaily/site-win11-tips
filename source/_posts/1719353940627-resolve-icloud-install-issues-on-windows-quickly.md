@@ -1,0 +1,121 @@
+---
+title: Resolve iCloud Install Issues on Windows Quickly!
+date: 2024-07-03T12:48:11.635Z
+updated: 2024-07-04T12:48:11.635Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Resolve iCloud Install Issues on Windows Quickly!
+excerpt: This Article Describes Resolve iCloud Install Issues on Windows Quickly!
+keywords: Fix iCloud on PC,Solve Cloud Install,Quick iCloud Setup,Resolve Cloud Errors,Windows iCloud Troubleshoot,Fast Cloud Installation,Diagnose iCloud Issues
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
+---
+
+## Resolve iCloud Install Issues on Windows Quickly
+
+ The iCloud app for Windows makes it easy to access and sync your photos, files, calendars, contacts, passwords, and more on your Windows PC. If you use both Apple and Windows devices, it makes sense to get the iCloud app. But what if Windows doesn't allow you to download or install the iCloud app?
+
+ If you’re irked by a similar issue yourself, here are some solutions that should help.
+
+## 1\. Install the Media Feature Pack
+
+ One unusual reason why you might be unable to install iCloud is if Windows Media Player is missing or disabled on your PC. In that case, you might get the error message "Your computer is missing media features" while installing iCloud.
+
+ To fix this, simply click the **Download** button when the “Install Media Feature Pack to use iCloud” dialog appears, and then follow the on-screen prompts to finish the installation process. After that, you should be able to install iCloud on your PC.
+
+![iCloud Installation Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-installation-error.jpg)
+
+## 2\. Turn On Media Features
+
+ The iCloud app relies on Windows Media Player to play audio and video files on your computer. If you have previously disabled Media Features on your PC, iCloud won't install unless you re-enable them.
+
+ To turn on Media Features on Windows:
+
+1. Press **Win + S** to open the search menu.
+2. Type **control panel** in the box and press **Enter**.
+3. Click on **Programs and Features**.
+4. Click the **Turn Windows features on or off** link in the left pane.
+5. Tick the checkboxes next to **Media Features** and **Windows Media Player**.
+6. Click **OK** to save changes.  
+![Enable Media Features on Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-media-features-on-windows-pc.jpg)
+
+[Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after completing the above steps, and then try to install iCloud again.
+
+## 3\. Remove the Previous Version of iCloud
+
+ Another reason why you may have trouble installing iCloud from the Microsoft Store is if an older version of the app is already available on your PC. If that’s the case, you will need to remove the previous version of iCloud to fix the issue. Here’s how you can go about it.
+
+1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
+2. Type **appwiz.cpl** and press **Enter**.
+3. In the Programs and Features window, locate and select **iCloud**.
+4. Click the **Change** button at the top.
+5. Select **Remove** and click **Next**.  
+![Uninstall iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-icloud-on-windows.jpg)
+
+ Once removed, you should be able to download and install the iCloud app from the Microsoft Store.
+
+## 4\. Run the Program Install and Uninstall Troubleshooter
+
+ Microsoft offers several useful [troubleshooters for fixing common issues with your Windows](https://www.makeuseof.com/windows-11-troubleshooters/) computer. In this case, you can run the Program Install and Uninstall troubleshooter to fix any problems that may have been [preventing Windows from installing](https://www.makeuseof.com/tag/block-users-installing-software-windows-computer/) iCloud.
+
+ Since the Program Install and Uninstall troubleshooter doesn't come pre-installed, you will need to download it first. Here are the steps you can follow.
+
+1. Download the [Program Install and Uninstall troubleshooter](https://download.microsoft.com/download/7/E/9/7E9188C0-2511-4B01-8B4E-0A641EC2F600/MicrosoftProgram%5FInstall%5Fand%5FUninstall.meta.diagcab) on your PC.
+2. Double-click the troubleshooter file to run it.
+3. Click on **Next**.
+4. Select the **Installing** option.
+5. Select **iCloud** from the list and click **Next**.  
+![Run Program Install and Uninstall Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-program-install-and-uninstall-troubleshooter-on-windows.jpg)
+
+ Allow the troubleshooter to do its thing and see if you can install iCloud after that.
+
+## 5\. Download and Run the iCloud Installer
+
+ Using the Microsoft Store is not the only way to install the iCloud app on your PC. If the above solutions don't help, you can try downloading the iCloud installer and running it manually. To do so, use these steps:
+
+1. Download the [iCloud installer](http://updates-http.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe) from Apple’s website.
+2. Right-click on the installer file and select **Run as administrator**.
+3. Accept the terms in the license agreement and click **Install**.  
+![Install iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-icloud-on-windows.jpg)
+
+ Wait for the installer to run and install the iCloud app on your PC.
+
+## Start Using iCloud on Your Windows Computer
+
+ Going through the solutions above should help fix any problems and allow you to download and install the iCloud app on your Windows 10 or 11 PC. Following that, you should be able to use services such as iCloud Photos and Drive on your Windows PC.
+
+ If you’re irked by a similar issue yourself, here are some solutions that should help.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-games-launcher-handling-lost-security-code-issues-on-pc/"><u>Epic Games Launcher: Handling Lost Security Code Issues on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-intrusions-top-7-windows-safeguarding-methods/"><u>Preventing Intrusions: Top 7 Windows Safeguarding Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-task-tracking-in-project-management/"><u>Master the Art of Task Tracking in Project Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-system-insights-step-by-step/"><u>Accessing Windows System Insights Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-how-to-resolve-windows-11s-nvidia-cp-issue/"><u>Quick Guide: How to Resolve Windows 11'S Nvidia CP Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-files-when-maximizing-space-in-windows/"><u>Safeguard Files When Maximizing Space in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/character-discovery-windows-11-pathway/"><u>Character Discovery: Windows 11 Pathway</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-the-promise-of-next-generation-in-the-upcoming-moment/"><u>Windows 11: The Promise of Next Generation in the Upcoming Moment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>[Updated] 2024 Approved  Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pros-and-tips-building-realistic-3d-text-in-photos-for-2024/"><u>Pros and Tips  Building Realistic 3D Text in PHOTOS for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/essential-list-of-the-best-audio-capture-tools-for-songs/"><u>Essential List of the Best Audio Capture Tools for Songs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-lossless-conversion-video-to-mp3-without-compromise/"><u>Updated The Art of Lossless Conversion Video to MP3 without Compromise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/battle-of-the-titans-gopro-hero5-black-vs-session/"><u>Battle of the Titans  GoPro Hero5 Black VS Session</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] Master the NFT Market  Leading Generators for Digital Masters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-spark-go-2024-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Spark Go (2024) Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>[New] Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-a79-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo A79 5G Location | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-magix-photo-editors-features/"><u>Delving Into MAGIX Photo Editor's Features</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

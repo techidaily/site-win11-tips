@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Event Viewer Usability
-date: 2024-06-25T16:17:54.289Z
-updated: 2024-06-26T16:17:54.289Z
+date: 2024-07-03T12:38:48.748Z
+updated: 2024-07-04T12:38:48.748Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-## 1\. Restart the Windows Event Log Service ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
+## 1\. Restart the Windows Event Log Service
+![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
 
  You can restart the Windows Event Viewer log service to fix temporary issues with the app. Use the Services snap-in to stop and restart the service and check for any improvements.
 
@@ -32,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 4. Select **Restart** and wait for the service to restart.
 5. Close the Services snap-in and try to relaunch Event Viewer to see if the issue is resolved.
 
-## 2\. Install the Latest Windows Updates ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
+## 2\. Install the Latest Windows Updates
+![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
 

@@ -1,7 +1,7 @@
 ---
 title: Conquering the Task of Installing GMaps on Windows
-date: 2024-06-25T16:38:14.130Z
-updated: 2024-06-26T16:38:14.130Z
+date: 2024-07-03T12:38:48.295Z
+updated: 2024-07-04T12:38:48.295Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  You can now launch and use Google Maps like any desktop app on your system. It shows your timeline, recent and saved items, and contributions and supports location sharing.
 
-### How to Uninstall Google Maps Added via Edge ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
+### How to Uninstall Google Maps Added via Edge
+![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
 
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
@@ -59,7 +60,8 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
-### How to Uninstall a Google Maps Shortcut Added via Chrome ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
+### How to Uninstall a Google Maps Shortcut Added via Chrome
+![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 

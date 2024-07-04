@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Commands to Access PC Health Stats
-date: 2024-06-25T16:35:57.684Z
-updated: 2024-06-26T16:35:57.684Z
+date: 2024-07-03T12:38:47.834Z
+updated: 2024-07-04T12:38:47.834Z
 tags:
   - windows10
   - windows11
@@ -122,7 +122,8 @@ Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
-## 9\. Use the Command Prompt or PowerShell ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+## 9\. Use the Command Prompt or PowerShell
+![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
@@ -134,7 +135,8 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
-## 10\. Use a System Information Desktop Shortcut ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+## 10\. Use a System Information Desktop Shortcut
+![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 

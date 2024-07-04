@@ -1,7 +1,7 @@
 ---
 title: Tackling Unusual WSL Error 4294967295 on PCs
-date: 2024-06-25T16:26:12.467Z
-updated: 2024-06-26T16:26:12.467Z
+date: 2024-07-03T12:38:47.774Z
+updated: 2024-07-04T12:38:47.774Z
 tags:
   - windows10
   - windows11
@@ -65,7 +65,8 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 6. Click on **Reset now**.
 7. Finally, restart your computer and upon reboot, check if the issue is resolved.
 
-## 4\. Temporary Disable Your Antivirus Software ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
+## 4\. Temporary Disable Your Antivirus Software
+![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
  Sometimes, your antivirus program may interfere with the WSL network traffic and cause an error.
 

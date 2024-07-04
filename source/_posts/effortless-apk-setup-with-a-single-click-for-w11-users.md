@@ -1,7 +1,7 @@
 ---
 title: Effortless APK Setup with a Single Click for W11 Users
-date: 2024-06-25T16:14:42.688Z
-updated: 2024-06-26T16:14:42.688Z
+date: 2024-07-03T12:38:48.456Z
+updated: 2024-07-04T12:38:48.456Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,15 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
  Let's have a look at how to set it so that it works exactly like that.
 
-## How to Download WSA-QuickInstall ![screenshot of the wsa quickinstall files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_files.jpg)
+## How to Download WSA-QuickInstall
+![screenshot of the wsa quickinstall files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_files.jpg)
 
  WSA-QuickInstall is what we'll use to achieve a more seamless APK install process. This simple app is found on [the WSA-QuickInstall GitHub page](https://github.com/officialnochill/WSA-QUICKINSTALL) . All you need to do is extract it somewhere you'll remember, and you're ready to move on.
 
  WSA-QuickInstall can be falsely identified as a threat by Windows Defender. You may need to [add an exception to Windows Defender](https://www.makeuseof.com/windows-11-security-exclusions/) in order to use the app.
 
-## How to Set Up WSA-QuickInstall ![screenshot of wsa quickinstall drag and drop functionality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_drag_and_drop.jpg)
+## How to Set Up WSA-QuickInstall
+![screenshot of wsa quickinstall drag and drop functionality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_drag_and_drop.jpg)
 
  Setting up WSA-QuickInstall is easy. Once extracted, you'll have two files and a folder. Keep them all together, but pay attention to**install.exe** , as this will be the executable that we use to actually sideload and install the apps.
 
@@ -36,7 +38,8 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
  That's all good and well, but how do we enable the seamless double-click install functionality?
 
-## How to Set Up the Default Program for APK Files ![screenshot of changing default program in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_change_default_program.jpg)
+## How to Set Up the Default Program for APK Files
+![screenshot of changing default program in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_wsa_quickinstall_change_default_program.jpg)
 
  First, make sure you have an APK file handy to install. Then, follow these steps:
 

@@ -1,7 +1,7 @@
 ---
 title: Solutions to Unrecoverable Windows Errors
-date: 2024-06-25T16:31:25.895Z
-updated: 2024-06-26T16:31:25.895Z
+date: 2024-07-03T12:38:47.813Z
+updated: 2024-07-04T12:38:47.813Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,8 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 
  If none of the above checks resolve the error, apply the remaining fixes.
 
-## 2\. Use the Microsoft Store App Until the Issue Is Resolved ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
+## 2\. Use the Microsoft Store App Until the Issue Is Resolved
+![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
 
  Roblox users have reported that the error under discussion only affects those who attempt to join Roblox experiences from the web, not Roblox's Microsoft Store app. Because of this, if you have encountered a crash when joining an experience through the Roblox website, download Roblox's app from the [Microsoft Store](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and join the experience through it.
 

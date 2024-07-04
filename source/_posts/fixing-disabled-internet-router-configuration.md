@@ -1,7 +1,7 @@
 ---
 title: Fixing Disabled Internet Router Configuration
-date: 2024-06-25T17:09:49.506Z
-updated: 2024-06-26T17:09:49.506Z
+date: 2024-07-03T12:38:47.303Z
+updated: 2024-07-04T12:38:47.303Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,8 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
-## 2\. Verify if the IP Address Is Correct ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
+## 2\. Verify if the IP Address Is Correct
+![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
 
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
@@ -87,7 +88,8 @@ To find your Default Gateway IP address for the router:
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-## 5\. Disable Invisibility on Any LAN VPNs ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
+## 5\. Disable Invisibility on Any LAN VPNs
+![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
 

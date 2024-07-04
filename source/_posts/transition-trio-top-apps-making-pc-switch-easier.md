@@ -1,7 +1,7 @@
 ---
 title: "Transition Trio: Top Apps Making PC Switch Easier"
-date: 2024-06-25T16:38:52.851Z
-updated: 2024-06-26T16:38:52.851Z
+date: 2024-07-03T12:38:48.037Z
+updated: 2024-07-04T12:38:48.037Z
 tags:
   - windows10
   - windows11
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
  Switching from one operating system to another isn’t as difficult as it used to be, but what you miss are the little things. The apps on this list helped make my move from macOS to Windows much more comfortable.
 
-## 1  Flow Launcher ![Triggering the Shutdown command in the Flow Launcher app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/triggering-the-shutdown-command-in-the-flow-launcher-app.png)
+## 1  Flow Launcher
+![Triggering the Shutdown command in the Flow Launcher app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/triggering-the-shutdown-command-in-the-flow-launcher-app.png)
 
  The Windows start menu got much more useful in Windows 10 than it had been in previous versions. The bad news was that the start menu took a step backwards in Windows 11, at least for certain workflows.
 
@@ -30,7 +31,8 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 **Download**: [Flow Launcher](https://www.flowlauncher.com/) (Free)
 
-## 2  Ditto Clipboard Manager ![Ditto Clipboard Manager for Windows showing clipboard entries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ditto-clipboard-manager-for-windows-showing-clipboard-entries.png)
+## 2  Ditto Clipboard Manager
+![Ditto Clipboard Manager for Windows showing clipboard entries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ditto-clipboard-manager-for-windows-showing-clipboard-entries.png)
 
  There is a fairly powerful clipboard manager built into Windows 11\. Simply press the **Windows key + V** key combination, and you pull up a history of everything you’ve copied recently. For most people, this works perfectly.
 
@@ -38,7 +40,8 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 **Download**: [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io) (Free)
 
-## 3  AutoText ![AutoText main window showing the default snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/autotext-main-window-showing-the-default-snippets.png)
+## 3  AutoText
+![AutoText main window showing the default snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/autotext-main-window-showing-the-default-snippets.png)
 
  There are plenty of apps available to expand snippets into larger text fragments or even full-blown paragraphs. If all you need is some minor snippets expanded, the text replacement built into macOS is fairly powerful. This is less true of Windows.
 
@@ -48,7 +51,8 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 **Download:**[AutoText](https://www.jitbit.com/autotext/) (Free, $22.95 commercial)
 
-## 4  f.lux ![f.lux Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/f-lux-settings-window.png)
+## 4  f.lux
+![f.lux Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/f-lux-settings-window.png)
 
  Windows 11 has built-in [screen tinting features it calls Night Light](https://www.howtogeek.com/796092/how-to-enable-night-light-on-windows-11/) to make your screen easier on your eyes at night. Unfortunately, unlike similar offerings from mobile operating systems and macOS, you can’t do much to customize this feature.
 
@@ -60,7 +64,8 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 **Download**: [f.lux](https://justgetflux.com) (free)
 
-## 5  PowerToys Awake ![Using PowerToys Awake on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-powertoys-awake-on-windows-11.png)
+## 5  PowerToys Awake
+![Using PowerToys Awake on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-powertoys-awake-on-windows-11.png)
 
  Windows (and, to be fair, most other operating systems) can be very aggressive about dimming and shutting off the display. If you’re on a laptop and looking to save battery life, this can be handy. Assuming you’re sitting or standing at a desk most of the day, this can quickly get annoying.
 

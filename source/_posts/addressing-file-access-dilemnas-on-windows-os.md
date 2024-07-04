@@ -1,0 +1,106 @@
+---
+title: Addressing File Access Dilemnas on Windows OS
+date: 2024-07-03T12:46:15.141Z
+updated: 2024-07-04T12:46:15.141Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Addressing File Access Dilemnas on Windows OS
+excerpt: This Article Describes Addressing File Access Dilemnas on Windows OS
+keywords: Windows File Permissions,OS File Security,Windows Access Issues,File Ownership Windows,File Access Windows Errors,Access Rights Windows,WinOS File Conflicts
+thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d7588b0ef8db354da07eb1bf.jpg
+---
+
+## Addressing File Access Dilemnas on Windows OS
+
+ Users often need to copy (or transfer) files to or from external drives connected to Windows PCs. However, some users can’t do so because of an error that says, “Can’t read from the source file or disk.”
+
+ This Windows error message can sometimes pop up when users try to copy certain files from or to external USB drives. As such, here is how you can fix the “Cannot read from the source file or disk” error.
+
+## 1\. Check if the File Names Include Unsupported Characters
+
+ Unsupported file name characters can cause the “Cannot read from the source file” error. Mac computers enable users to save files with characters like ?, <, >, :, \*, /, \\, |, and “. However, Windows 11 and 10 don’t support any of those characters for file names. Thus, users can’t copy files from external drives that include those characters onto a Windows PC.
+
+ So, check if any files you’re trying to copy from an external drive include those characters. If you find any that do, right-click the files and select **Rename**. Then delete all unsupported characters from their file names. Or remove all kinds of special characters.
+
+![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option-1.jpg)
+
+## 2\. Run a Check Disk Scan
+
+ Running a Check Disk scan is a widely confirmed fix for the “Cannot read from the source file” error. That highlights this error is often caused by bad disk sectors on drives. Running a Check Disk scan via the Command Prompt for the drive that includes the files will usually remedy such a cause. Our [how to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) article tells you how to apply this potential fix.
+
+![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-chkdsk-command2.jpg)
+
+## 3\. Try a Different USB Cable or Port for External Drives
+
+ Another possible cause for the “Cannot read from the source file or disk” error is that there’s an issue with your USB cable or a port on your PC. So, connect your external drive to a different USB port to see if that makes a difference. If you have an alternative USB cable available, try connecting the drive to your PC with it.
+
+## 4\. Compress the Files You’re Trying to Copy Into a ZIP Folder
+
+ Some users have been able to fix the “Cannot read from the source file or disk” error by compressing the files they need to copy into ZIP archives. Doing so will reduce the overall size of one or more files to copy. You can set up a ZIP archive before copy files onto a drive by following the instructions in our article about [creating ZIP files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/).
+
+![The Send to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-send-to-option.jpg)
+
+## 5\. Check the Permissions for the Affected Files
+
+ You might need to fix the “Cannot read from the source file or disk” because one of the files you’re trying to copy doesn’t have full control permissions set. You can check and fix permissions for affected files as follows:
+
+1. First, bring up Explorer (press**Win + E**) and navigate to the folder that includes the files you need to copy.
+2. Right-click a file you need to copy and select **Properties**.
+3. Then select **Edit** on the **Security** tab.  
+![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-edit-button.jpg)
+4. Next, select the checkbox labeled **Full control** with the **Allow** column.  
+![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-full-control-checkbox.jpg)
+5. Press **Apply** to save the file’s permission settings.
+6. Click **OK** to exit.
+
+ If you can’t see your account username within the Group box, you’ll need to add it. To do so, click **Add** on the **Security** tab to bring up a Select Users or Group window; then click **Advanced** \> **Find now** to select your user account. Click **OK** to add the selected account.
+
+![The Find now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-find-now-option.jpg)
+
+## How to Access Files on Mac-Formatted Drives With Third-Party Software
+
+ The “Can’t read from the source file” error can also occur because of file system incompatibility on source drives. For example, Mac-formatted HFS or APFS drives aren’t compatible with Windows PCs.
+
+ You can check the file system of any connected drive by right-clicking it in File Explorer and selecting **Properties**. Then check the File system detail on the General tab. NTFS and FAT32 file systems are fine for Windows, but HFS and APFS aren’t.
+
+![The File system detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-file-system-detail.jpg)
+
+ If you’re trying to copy files from Mac-formatted drives, you can access them with third-party software. Software packages like MacDrive, UFS Explorer, and Paragon HFS+ enable users to access files on Mac-formatted drives on Windows PCs. Our article about [reading Mac-formatted drives on Windows](https://www.makeuseof.com/tag/4-ways-read-mac-formatted-drive-windows/) provides details on how to apply this potential resolution.
+
+## Copy Files Between Drives on Your Windows PC Again
+
+ Applying those solutions will usually resolve the “Cannot read from the source file” error on Windows. Then you can copy all the files you need between your Windows PC and external drives.
+
+ One other resolution for this error recommended by some users is to utilize data recovery software. Such software provides another way to copy or transfer files from one drive to another. Stellar Data Recovery, Recuva, MiniTool Data Recovery, and Disk Drill are among the best data recovery software to utilize for that purpose.
+
+ This Windows error message can sometimes pop up when users try to copy certain files from or to external USB drives. As such, here is how you can fix the “Cannot read from the source file or disk” error.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-windows-11-interface-with-these-tips/"><u>Revitalize Your Windows 11 Interface with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-accessibility-of-displays-in-nvidia-software/"><u>Tips for Restoring Accessibility of Displays in Nvidia Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11s-0x8004def5-glitches/"><u>Swift Solutions for Windows 11'S 0X8004DEF5 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-glitches-steps-to-fix-error-0x00000001-in-xbox-game-pass-for-windows-11/"><u>Overcoming Fatal Glitches: Steps to Fix Error 0X00000001 in Xbox Game Pass for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ad-ds-printer-fails-in-win-1011/"><u>Resolving AD DS Printer Fails in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-meaning-behind-windows-patch-ids/"><u>Unveiling the Meaning Behind Window's Patch IDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-storage-without-overwriting-data/"><u>Elevate Windows Storage Without Overwriting Data</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-the-power-of-motion-blur-elevate-your-video-editing-skills-in-fcp/"><u>2024 Approved The Power of Motion Blur Elevate Your Video Editing Skills in FCP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-baffled-by-blank-screens-on-a6400/"><u>[New] 2024 Approved  Baffled by Blank Screens on A6400</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-vids-deep-dive-a-comprehensive-handbook/"><u>[New] 2024 Approved  Twitter Vids Deep Dive  A Comprehensive Handbook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/"><u>[New] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online-Download YouTube Thumbnail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pin-to-playlist-the-ultimate-guide-to-downloading-videos/"><u>[Updated] Pin-to-Playlist  The Ultimate Guide to Downloading Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-pathway-to-pristine-soundscapes-techniques-for-eradicating-background-distractions-via-internet-services/"><u>Updated The Pathway to Pristine Soundscapes Techniques for Eradicating Background Distractions Via Internet Services</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-8-best-free-tiktok-video-editing-appswebsite-on-mac/"><u>In 2024, 8 Best Free TikTok Video Editing Apps/Website on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

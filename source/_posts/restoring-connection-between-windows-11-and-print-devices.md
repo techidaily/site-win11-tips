@@ -1,7 +1,7 @@
 ---
 title: Restoring Connection Between Windows 11 and Print Devices
-date: 2024-06-25T16:30:39.112Z
-updated: 2024-06-26T16:30:39.112Z
+date: 2024-07-03T12:38:48.971Z
+updated: 2024-07-04T12:38:48.971Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,8 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  In most cases, a simple restart should fix any connection issues with your printer. However, if this doesn't get your job done, there are plenty of other ways.
 
-## 2\. Check All the Connected Cables ![A Network Printer Back Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-Network-Printer-Cable.jpg)
+## 2\. Check All the Connected Cables
+![A Network Printer Back Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-Network-Printer-Cable.jpg)
 
  Turn off your printer and disconnect it from the power source. Now, make sure to check all the connected cables of your printer. If any cable is loose, you've got to connect it properly to avoid connection issues. Also, if the cables are damaged or cut, the only resort is replacing them.
 

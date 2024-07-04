@@ -1,7 +1,7 @@
 ---
 title: "Mastering Connectivity: Fixing LoL Drops in Windows"
-date: 2024-06-25T16:25:55.676Z
-updated: 2024-06-26T16:25:55.676Z
+date: 2024-07-03T12:38:47.764Z
+updated: 2024-07-04T12:38:47.764Z
 tags:
   - windows10
   - windows11
@@ -69,7 +69,8 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
 Proceed to the next step if the above checks and fixes do not help.
 
-## 3\. Connect to a Different Network ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
+## 3\. Connect to a Different Network
+![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 

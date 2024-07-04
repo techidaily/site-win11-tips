@@ -1,7 +1,7 @@
 ---
 title: "Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced!"
-date: 2024-06-25T16:45:13.934Z
-updated: 2024-06-26T16:45:13.934Z
+date: 2024-07-03T12:38:49.445Z
+updated: 2024-07-04T12:38:49.445Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,8 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  At the Ignite 2023 event, Microsoft announced the Windows App for the iPhone, iPad, Mac, and PC. The simply named app allows users to connect to Windows 365, Azure Virtual Desktop, Microsoft Dev Box, and remote PCs from anywhere with an internet connection. The app is now available for Public Preview.
 
-## Windows Is Now a Remote Desktop App for Other Devices ![Windows App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-app-overview.png)
+## Windows Is Now a Remote Desktop App for Other Devices
+![Windows App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-app-overview.png)
 
 Image: [Microsoft](https://learn.microsoft.com/en-us/windows-app/overview)
 

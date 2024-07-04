@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Gaming: Picking the Perfect Install Drive"
-date: 2024-06-25T16:42:21.126Z
-updated: 2024-06-26T16:42:21.126Z
+date: 2024-07-03T12:38:48.467Z
+updated: 2024-07-04T12:38:48.467Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
  Such situations usually arise due to corruption in the Xbox app or misconfigured registry settings. Fortunately, it's very easy to troubleshoot this problem. Here are some fixes to try when you can't choose a drive to install games on the Xbox app.
 
-## 1\. Restart the Computer ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
+## 1\. Restart the Computer
+![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
  You might fail to change the installation drive in the Xbox app due to a temporary system glitch or bug. Luckily, you can quickly eliminate such bugs and glitches by restarting your computer.
 
@@ -51,7 +52,8 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
  That's it! Restart your computer and check if the problem continues.
 
-## 4\. Restart Important Xbox Services ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
+## 4\. Restart Important Xbox Services
+![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 

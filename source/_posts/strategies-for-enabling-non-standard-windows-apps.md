@@ -1,7 +1,7 @@
 ---
 title: Strategies for Enabling Non-Standard Windows Apps
-date: 2024-06-25T16:41:26.496Z
-updated: 2024-06-26T16:41:26.496Z
+date: 2024-07-03T12:38:48.213Z
+updated: 2024-07-04T12:38:48.213Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,8 @@ To enable Developer Mode on Windows 11:
 
  Once the developer is enabled, you can use PowerShell to sideload a Msixbundle or AppxPackage on your Windows computer.
 
-## 1\. Install the Msixbundle App Files Using PowerShell ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
+## 1\. Install the Msixbundle App Files Using PowerShell
+![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
 
  You can use [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to sideload and install msix files on your Windows computer. This should also work if you are trying to sideload an app that is not Store signed.
 
@@ -57,7 +58,8 @@ Follow these steps to sideload msix files using PowerShell.
 6. Next, press**Enter** and wait as PowerShell installs the app.
 7. Once installed, type exit and press Enter to close Command Prompt.
 
-## 2\. Install Msixbundle Apps Using the App Installer ![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
+## 2\. Install Msixbundle Apps Using the App Installer
+![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
 
  App Installer is an official app package installer for Windows 10\. It lets you install msixbundle and appxpackage with a double click. Useful if you don't want to deal with Windows PowerShell and associated commands.
 
