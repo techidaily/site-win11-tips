@@ -1,7 +1,7 @@
 ---
 title: Auto Shutdown Mastery for Idle PCs in W10/W11
-date: 2024-06-25T17:09:34.226Z
-updated: 2024-06-26T17:09:34.226Z
+date: 2024-07-12T17:42:56.413Z
+updated: 2024-07-13T17:42:56.413Z
 tags:
   - windows10
   - windows11
@@ -69,7 +69,8 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 5. In both the **time** **fields**, enter the same time. For example, if you enter 10 minutes, the Task Scheduler will wait for the system to be idle for 10 minutes before triggering the Shut down task. You can choose anywhere from a few minutes to two hours.
 6. Click **OK** to save the changes.
 
-## How to Stop an Automatic Shutdown via Task Scheduler ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
+## How to Stop an Automatic Shutdown via Task Scheduler
+![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
 
@@ -180,7 +181,8 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 5. In both the **time** **fields**, enter the same time. For example, if you enter 10 minutes, the Task Scheduler will wait for the system to be idle for 10 minutes before triggering the Shut down task. You can choose anywhere from a few minutes to two hours.
 6. Click **OK** to save the changes.
 
-## How to Stop an Automatic Shutdown via Task Scheduler ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
+## How to Stop an Automatic Shutdown via Task Scheduler
+![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
 
@@ -291,7 +293,8 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 5. In both the **time** **fields**, enter the same time. For example, if you enter 10 minutes, the Task Scheduler will wait for the system to be idle for 10 minutes before triggering the Shut down task. You can choose anywhere from a few minutes to two hours.
 6. Click **OK** to save the changes.
 
-## How to Stop an Automatic Shutdown via Task Scheduler ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
+## How to Stop an Automatic Shutdown via Task Scheduler
+![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
 
@@ -402,7 +405,8 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 5. In both the **time** **fields**, enter the same time. For example, if you enter 10 minutes, the Task Scheduler will wait for the system to be idle for 10 minutes before triggering the Shut down task. You can choose anywhere from a few minutes to two hours.
 6. Click **OK** to save the changes.
 
-## How to Stop an Automatic Shutdown via Task Scheduler ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
+## How to Stop an Automatic Shutdown via Task Scheduler
+![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
 
@@ -483,3 +487,42 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x00000001-barrier-in-game-access/"><u>Overcoming the 0X00000001 Barrier in Game Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-navigate-windows-system-restore-functions/"><u>Simplified Steps to Navigate Windows' System Restore Functions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-understanding-vlcs-screen-recording-features/"><u>In 2024, Understanding VLC's Screen Recording Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-gpos-a-step-by-step-guide-for-windows-users/"><u>Revamping GPOs: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-backup-with-windows-11/"><u>Streamlining File Backup with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-your-input-cannot-be-opened-error-in-windows-vlc/"><u>Rectify 'Your Input Cannot Be Opened' Error in Windows, VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-beginners-roadmap-to-google-maps-on-pc/"><u>The Beginner's Roadmap to Google Maps on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-startup-success-for-windows-index-service/"><u>Strategies to Trigger Startup Success for Windows Index Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-t2-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo T2 Pro 5G Phone Screen?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-advanced-software-options-for-distilling-pure-auditory-experiences/"><u>Updated In 2024, Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-change-easily-altering-nat-settings-in-win1110/"><u>Navigating the Change: Easily Altering NAT Settings in Win11/10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eak-playtime-power-yts-top-10-by-view-count/"><u>[New] Peak Playtime Power  YT's Top 10 by View Count</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-anime-inspired-dance-routines-top-20-tiktok-trends/"><u>[Updated] 2024 Approved  Anime-Inspired Dance Routines  Top 20 TikTok Trends</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-audience-anticipation-crafting-captivating-video-content-on-social-media-for-2024/"><u>[Updated] Audience Anticipation  Crafting Captivating Video Content on Social Media for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-pink-screens-in-windows-systems/"><u>Quick Fixes for Pink Screens in Windows Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-mobile-captions-ios-and-androids-leading-helpers/"><u>In 2024, Mastering Mobile Captions  IOS & Android's Leading Helpers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/personalize-your-channel-with-free-pics/"><u>Personalize Your Channel With Free Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-console-management-with-admin-rights/"><u>Mastering Windows Console Management with Admin Rights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-online-gaming-prevent-lol-disconnections-in-windows/"><u>Secure Online Gaming: Prevent LoL Disconnections in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-steam-network-via-dns-cleanup/"><u>Streamlining Your Steam Network via DNS Cleanup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strikes-winning-warfare-without-lag-in-star-wars-bf2/"><u>Swift Strikes: Winning Warfare Without Lag in Star Wars BF2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-save-locations-windows-xp78-errors/"><u>Overcoming Save Locations: Windows XP/7/8 Errors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-hd-video-made-easy-a-beginners-guide-to-pixel-size-and-quality/"><u>Updated 2024 Approved HD Video Made Easy A Beginners Guide to Pixel Size and Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-bypass-windows-admin-installation-restriction-error/"><u>Steps to Bypass Windows 'Admin Installation Restriction' Error</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/voice-capture-simplified-the-no-fuss-tutorial-for-perfect-mac-audio-recordings-for-2024/"><u>Voice Capture Simplified The No-Fuss Tutorial for Perfect Mac Audio Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-errors-a-guide-to-fs-repair-in-win11/"><u>Mending Errors: A Guide to FS Repair in Win11</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tame-noisy-keys-regaining-control-over-sound-on-your-pc/"><u>Tame Noisy Keys: Regaining Control Over Sound on Your PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-6-cost-free-closers-for-your-youtube-video/"><u>[New] 2024 Approved  6 Cost-Free Closers for Your YouTube Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-flashing-display-issues-on-windows-11/"><u>Quick Fix for Flashing Display Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-effortless-transition-in-windows-terminals-attention-mode/"><u>Quick Fix: Effortless Transition in Windows Terminal’s Attention Mode</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 mini to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-memory-use-on-win-11-os/"><u>Revamping Memory Use on Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quiet-quandaries-winning-back-volume-from-vexed-keyboard/"><u>Quiet Quandaries: Winning Back Volume From Vexed Keyboard</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10"
-date: 2024-06-25T16:40:20.280Z
-updated: 2024-06-26T16:40:20.280Z
+date: 2024-07-12T17:09:05.125Z
+updated: 2024-07-13T17:09:05.125Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  Note that Microsoft offers two versions (Home and Work) of the Teams app. Due to differences in versions, some fixes below may not apply to the Teams (Work or School) version and vice versa.
 
-## 1\. End the Microsoft Teams Process in Task Manager ![end microsoft teams process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/end-microsoft-teams-process.png)
+## 1\. End the Microsoft Teams Process in Task Manager
+![end microsoft teams process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/end-microsoft-teams-process.png)
 
  You can kill and restart the Microsoft Teams process in Task Manager to fix crashing issues due to a temporary glitch. Here's how to do it:
 
@@ -49,7 +50,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 5. Next, open the **System Tray** and check if the Microsoft **Teams** icon exists. If yes, right-click on the **Teams** icon and select **Quit**.
 6. Relaunch the app and sign in. Check for any improvements.
 
-## 3\. Clear Microsoft Teams Cache ![delete microosft teams cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/delete-microosft-teams-cache.jpg)
+## 3\. Clear Microsoft Teams Cache
+![delete microosft teams cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/delete-microosft-teams-cache.jpg)
 
  Clearing Microsoft Teams cache from the AppData folder can quickly fix the crashing problem. Clearing the cache will fix issues triggered due to corrupted app cache. For this to work, you must be using the Teams (School or Work) version of the app.
 
@@ -81,7 +83,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 6. Scroll down to the **Reset** section and click on **Repair**. Windows will start repairing the app and show a checkmark after the repair is complete.
 7. Close the **Settings** page and launch Microsoft Teams to see if the crashing problem is resolved.
 
-## 5\. Reset the Microsoft Teams App ![reset microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-microsoft-teams.png)
+## 5\. Reset the Microsoft Teams App
+![reset microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-microsoft-teams.png)
 
  Like other Windows apps, Microsoft Teams uses cache space to store temporary files to improve the load time and user experience. But when not used properly or corrupted, it can cause the app to malfunction.
 
@@ -98,7 +101,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  The reset process will restore the app to its factory default deleting all the data, including cache. However, it will also delete any saved login credentials. So, you will need to log in again to use the app. Once done, you can [effortlessly manage your teams on Microsoft Teams](https://www.makeuseof.com/best-ways-manage-team-microsoft-teams/).
 
-## 6\. Update the Microsoft Teams App ![Microsoft teams settings update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Microsoft-teams-settings-update.png)
+## 6\. Update the Microsoft Teams App
+![Microsoft teams settings update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Microsoft-teams-settings-update.png)
 
  Newer updates often include bug fixes and performance improvements. While Microsoft Teams auto-updates every two weeks, you can manually check for a newer update in the app settings.
 
@@ -129,7 +133,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  With the new changes in place, launch Microsoft Teams to see if the crashing problem is resolved. If the issue persists, use a different Windows version in compatibility mode to see if that helps resolve the issue.
 
-## 8\. Update the Display Adapter Driver ![update driver display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/update-driver-display-adapter.png)
+## 8\. Update the Display Adapter Driver
+![update driver display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/update-driver-display-adapter.png)
 
  Incompatible Intel HD graphics drivers are another known cause for the Microsoft Teams crashing issue. If you have the Intel HD graphics installed, update it using the Device Manager to fix the problem.
 
@@ -143,7 +148,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  If no update is found, go to [Intel's Drivers & Software page](https://www.intel.com/content/www/us/en/download-center/home.html). Open the **Graphics** section and download the latest version of the drivers available for your processor. Also, refer to our guide on how to [update graphics drivers in Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to know the different ways you can install the latest GPU drivers for your computer.
 
-## 9\. Disable the Display Adapter Driver ![disable intel hd display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-intel-hd-display-adapter.png)
+## 9\. Disable the Display Adapter Driver
+![disable intel hd display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-intel-hd-display-adapter.png)
 
  If updating the display driver did not help, uninstall the graphics driver to see if that helps you resolve the error. When uninstalled, Windows will use the generic display driver, but it will help you determine the cause of the problem.
 
@@ -154,7 +160,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 3. Right-click on the **Intel HD Graphics** device driver and select **Disable device.** Click **Yes** to confirm the action.
 4. Next, right-click on the display adapter and select **Enable**.
 
-## 10\. Reinstall Microsoft Teams ![uninstall Microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-Microsoft-teams.png)
+## 10\. Reinstall Microsoft Teams
+![uninstall Microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-Microsoft-teams.png)
 
  As a last resort, you can reinstall the Microsoft Teams app to fix the crashing problems. A quick reinstall can help you fix problems caused due to app file corruption and other reasons.
 
@@ -167,7 +174,8 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 5. Select your Windows version and click the **Download** button.
 6. Run the download package and install the app.
 
-## 11\. Run the System File Checker Tool ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/run-system-file-checker.png)
+## 11\. Run the System File Checker Tool
+![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/run-system-file-checker.png)
 
  If Microsoft Teams fails to launch, you can run the System File Checker tool. It will scan the system for file corruption and restore the corrupted system files. This is helpful if the system-related issues are preventing the app from launching.
 
@@ -196,3 +204,37 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-track-analyze-improve-top-motion-tracking-apps-for-athletes-and-more/"><u>2024 Approved Track, Analyze, Improve Top Motion Tracking Apps for Athletes and More</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-the-art-of-html-formatting-and-styling/"><u>[Updated] Mastering the Art of HTML Formatting and Styling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-microsoft-project-keyboard-shortcuts/"><u>A Complete Guide to Microsoft Project Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-key-steps-to-reinstall-missing-optional-windows-features/"><u>7 Key Steps to Reinstall Missing Optional Windows Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/action-plan-conquering-error-0x800700e1-in-windows-11-systems/"><u>Action Plan: Conquering Error 0X800700E1 in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-strategies-to-extend-your-hard-drives-lifespan/"><u>6 Strategies to Extend Your Hard Drive's Lifespan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719315730924-avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-fingerprint-authentication-in-windows-11/"><u>Activating Fingerprint Authentication in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-guide-to-chromakey-and-background-separation/"><u>2024 Approved  Swift Guide to Chromakey and Background Separation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-winget-not-working-on-windows-11/"><u>8 Ways to Fix Winget Not Working on Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/culinary-waves-tiktoks-most-shared-meals-for-2024/"><u>Culinary Waves  TikTok's Most Shared Meals for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-wattpad-stars-moments-on-snapchat/"><u>In 2024, Wattpad Stars Moments on Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-assessing-free2x-recording-software-quality/"><u>[New] In 2024, Assessing Free2X Recording Software Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-high-scores-with-fc-mascot-for-zero-cost/"><u>Achieve High Scores with FC Mascot for Zero Cost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel P55</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-advanced-fcp-features/"><u>[Updated] Comprehensive Guide to Advanced FCP Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-edge-headsets-for-drone-vr-use/"><u>[Updated] Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-youtube-star-status-becoming-a-self-assured-vlogger/"><u>Unlock YouTube Star Status  Becoming a Self-Assured Vlogger</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-obs-studios-failed-to-connect-to-server-error-in-windows/"><u>7 Ways to Fix OBS Studio's Failed to Connect to Server Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719301459575-the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719276634403-microsoft-to-do-not-sync-here-are-easy-solutions/"><u>Microsoft To-Do Not Sync? Here Are Easy Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-razers-in-the-synapse-interface-of-win-11/"><u>Addressing Absence of Razers in the Synapse Interface of Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719364066200-microsofts-helpers-quick-fixes-for-window-woes/"><u>Microsoft's Helpers: Quick Fixes for Window Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-administrative-control-settings-in-windows-11-devices/"><u>Addressing Administrative Control Settings in Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-issues-with-googles-nearby-sharing-on-desktop-pc/"><u>Addressing Issues with Google's Nearby Sharing on Desktop PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-audio-magic-the-gradual-introduction-with-audition/"><u>In 2024, Unveiling Audio Magic  The Gradual Introduction with Audition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-zero-x-in-the-mail-application-of-windows/"><u>Addressing Error Code Zero X in the Mail Application of Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719367958537-adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-single-board-computers-that-run-windows/"><u>4 Single-Board Computers That Run Windows</u></a></li>
+</ul></div>

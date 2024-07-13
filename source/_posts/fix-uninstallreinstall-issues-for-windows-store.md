@@ -1,7 +1,7 @@
 ---
 title: Fix Uninstall/Reinstall Issues for Windows Store
-date: 2024-06-25T16:58:12.519Z
-updated: 2024-06-26T16:58:12.519Z
+date: 2024-07-12T17:29:47.838Z
+updated: 2024-07-13T17:29:47.838Z
 tags:
   - windows10
   - windows11
@@ -56,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
  This way, you install any pending updates for the apps installed through Microsoft Store.
 
-## 4\. Run an SFC and DISM Scan ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+## 4\. Run an SFC and DISM Scan
+![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
  If Microsoft Store still can't install an app after updating it, you might be dealing with corrupted system files. In this case, you should launch Command Prompt with administrative rights and run an SFC and DISM scan.
 
@@ -98,3 +99,44 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/perfecting-selectivity-enable-checkbox-file-option-in-win11/"><u>Perfecting Selectivity: Enable Checkbox File Option in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-your-chatgpt-experience-windows-guide/"><u>Start Your ChatGPT Experience: Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-waves-in-windows-unlocking-vivetools-secrets/"><u>Navigating New Waves in Windows: Unlocking ViVeTool's Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-the-process-solving-hidden-logins-on-windows-11/"><u>Reboot the Process: Solving Hidden Logins on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-network-router-page-on-windows/"><u>Methods to Revive Network Router Page on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-innovating-color-grading-with-new-lut-techniques/"><u>[New] 2024 Approved  Innovating Color Grading with New LUT Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tinytake-screen-recorder-review/"><u>TinyTake Screen Recorder Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-pin-removal-switch-in-windows-11/"><u>Unlocking Hidden Pin Removal Switch in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-setup-failure-windows-11-edition/"><u>Resolving GeForce Experience Setup Failure, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unidentified-window-second-screen/"><u>Resolving Unidentified Window Second Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-methodology-for-windows-update-reset/"><u>Stepwise Methodology for Windows Update Reset</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-similarities-and-divergences-in-triller-and-tiktok-max-156-chars/"><u>Unveiling Similarities & Divergences in Triller and TikTok (Max 156 Chars)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-integration-in-modern-windows-11/"><u>Telnet Integration in Modern Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-grades-with-these-top-8-windows-study-hacks/"><u>Skyrocket Grades with These Top 8 Windows Study Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-epic-data-preservation-techniques/"><u>The Essentials of Epic Data Preservation Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-soloists-guide-to-captivating-audiences/"><u>[New] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-keyboard-shortcuts-next-to-power-icon/"><u>Tailoring Windows 11: Keyboard Shortcuts Next to Power Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-windows-11-interface-with-these-tips/"><u>Revitalize Your Windows 11 Interface with These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8024800c-in-windows-update/"><u>Steps to Resolve 0X8024800C in Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-win11-space-to-perfection/"><u>Tailoring Your Win11 Space to Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-minecraft-glitches-with-these-fixes/"><u>Stop Minecraft Glitches with These Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-random-letter-reveal-intro/"><u>In 2024, How to Make Random Letter Reveal Intro?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-valorant-microphone-failures-on-windows-10/"><u>Overcoming Valorant Microphone Failures on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-conquering-win-errors/"><u>The Ultimate Guide to Conquering Win Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-video-platform-differences-twitch-vs-youtube/"><u>Exploring Video Platform Differences  Twitch Vs YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-monitoring-integrating-system-resource-data-in-systray/"><u>Streamline Monitoring: Integrating System Resource Data in SysTray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-unseen-resurrect-off-screen-windows-in-win1011/"><u>Unlock the Unseen: Resurrect Off-Screen Windows in Win10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-soundtracks-top-10-microphones/"><u>2024 Approved  Perfecting Soundtracks  Top 10 Microphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-phone-call-basics-with-intel-unison/"><u>Mastering Windows 11: Phone Call Basics with Intel Unison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-comics-an-intuitive-approach-for-win11-users/"><u>Navigating Comics: An Intuitive Approach for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
+</ul></div>

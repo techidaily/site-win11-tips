@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Editing the Windows Registry via Terminal
-date: 2024-06-25T16:17:36.737Z
-updated: 2024-06-26T16:17:36.737Z
+date: 2024-07-12T16:42:48.084Z
+updated: 2024-07-13T16:42:48.084Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Although using it takes a little more know-how than the Registry Editor, our guide should be able to get you started.
 
-## How to View the List of Registry Commands in Command Prompt ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
+## How to View the List of Registry Commands in Command Prompt
+![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
 
  There aren't a lot of commands when it comes to editing the registry using Command Line. To view them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and run the below command in Command Prompt:
 
@@ -58,7 +59,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Now the **MySubKey** key will disappear in the Registry Editor.
 
-## How to Add, Modify, and Delete Values in the Windows Registry ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
+## How to Add, Modify, and Delete Values in the Windows Registry
+![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
 
@@ -84,7 +86,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
-## How to Copy Registry Entries From One Key to Another ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
+## How to Copy Registry Entries From One Key to Another
+![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
 
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
@@ -94,7 +97,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Unfortunately, there's no way to copy specific values from one key to another. You'll have to use the Registry Editor for that.
 
-## How to Import Registry Entries ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
+## How to Import Registry Entries
+![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
 
@@ -102,7 +106,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  Once you run that command, the contents of the reg file will be merged with the registry.
 
-## How to Export Registry Entries ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
+## How to Export Registry Entries
+![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -116,7 +121,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  The resulting registry file will only contain the key and the specific value you exported.
 
-## How to Save Registry Entries ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
+## How to Save Registry Entries
+![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
 
  If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the **reg save** command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here's an example:
 
@@ -124,7 +130,8 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
-## How to Restore Registry Entries ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
+## How to Restore Registry Entries
+![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -148,3 +155,47 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/tackling-unreachable-mb-status-on-windows-11-systems/"><u>Tackling Unreachable MB Status on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness-for-2024/"><u>[Updated] Pioneering Techniques to Improve Your FB Video Ad Effectiveness for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-techniques-for-analyzing-drive-space-using-diskusage-commands/"><u>The Essential Techniques for Analyzing Drive Space Using DiskUsage Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-system-cooling-policy-in-pcs/"><u>Reinstating Absent System Cooling Policy in PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-methods-for-launching-wordpad-in-windows/"><u>Simplified Methods for Launching WordPad in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-puzzle-9-techniques-for-flawless-powerpoint-prints-in-windows/"><u>Solving the Puzzle: 9 Techniques for Flawless PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>Transform Your Gaming Experience  KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-examining-vlc-for-screen-capture-for-2024/"><u>[New] Examining VLC for Screen Capture for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-chrome-profiles-issues-on-windows-devices/"><u>Resolving Chrome Profiles Issues on Windows Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ply-your-channels-subscribers-quickly/"><u>Multiply Your Channel's Subscribers Quickly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-pc-gaming-capturing-your-adventures-on-win10/"><u>[New] Mastering PC Gaming  Capturing Your Adventures on Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-lcd-panels-simplified-guide/"><u>Switching LCD Panels Simplified Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-approaches-to-youtube-teaser-trailblazing/"><u>[New] Innovative Approaches to YouTube Teaser Trailblazing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unlock-prime-deal-revealed/"><u>Windows 11 Unlock: Prime Deal Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-efficiency-crafted-keybinds-for-snippet-pasting-in-windows-11/"><u>Unleashing Efficiency: Crafted Keybinds for Snippet Pasting in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-huawei-nova-y71-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Huawei Nova Y71? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-cmd-interface-a-step-by-step-process/"><u>Tailoring CMD Interface: A Step-by-Step Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-best-video-effect-sites-that-never-charges-you/"><u>2024 Approved  5 Best Video Effect Sites That Never Charges You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-ragnarok-overcoming-x-script-woes/"><u>Restoring Ragnarok: Overcoming X-Script Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-revitalize-stuck-and-slow-downloads-in-windows-directory/"><u>Steps to Revitalize Stuck and Slow Downloads in Windows Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-better-words-best-windows-software-for-scribes/"><u>Unlock Better Words: Best Windows Software for Scribes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chip-synchrony-the-new-era-of-fluid-video-editing-experience-for-2024/"><u>Chip Synchrony  The New Era of Fluid Video Editing Experience for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-content-restricted-in-windows-steam/"><u>Unraveling Content Restricted in Windows Steam</u></a></li>
+<li><a href="https://facebook.techidaily.com/beware-potential-data-misuse-on-your-devices/"><u>Beware! Potential Data Misuse on Your Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-embellishing-system-tray-with-weather-icons-in-windows-11/"><u>The Complete Guide to Embellishing System Tray with Weather Icons in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-command-over-youtubes-video-playback-speed/"><u>[New] In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-synergy-integrating-linktree-into-your-tiktok-profile/"><u>[Updated] Achieving Synergy  Integrating Linktree Into Your TikTok Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-guide-to-earning/"><u>[New] Sourav Joshi's Guide to Earning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-steps-just-admin-command-prompt-anytime-now/"><u>Skip Steps, Just Admin Command Prompt Anytime Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-a-frozen-system-interface/"><u>Resuscitating a Frozen System Interface</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-soundstage-narratives-for-radio/"><u>2024 Approved  Prime Soundstage Narratives for Radio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ace-tools-for-screen-capture-games-only-for-2024/"><u>[New] Ace Tools for Screen Capture, Games Only for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>2024 Approved  Vimeo Video Snippets  Turn Into Dynamic, Shareable GIFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-potential-of-your-computers-shortcut-keys-for-size-adjustment-on-win11/"><u>Unleash the Potential of Your Computer's Shortcut Keys for Size Adjustment on Win11</u></a></li>
+</ul></div>

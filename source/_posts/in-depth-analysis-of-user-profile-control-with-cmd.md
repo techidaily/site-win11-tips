@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of User Profile Control with CMD
-date: 2024-06-25T16:06:53.502Z
-updated: 2024-06-26T16:06:53.502Z
+date: 2024-07-12T16:30:23.606Z
+updated: 2024-07-13T16:30:23.606Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-## 1\. List All User Accounts ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
+## 1\. List All User Accounts
+![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
 
  Before you start managing user accounts with **net user**, it helps to know all the user accounts on your computer. To list them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/), enter the below command, and hit the **Enter** key to run it:
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
-## 2\. Show All the Information of a User Account ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+## 2\. Show All the Information of a User Account
+![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -56,7 +58,8 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Now net user will remove the account from the computer.
 
-## 4\. Enable and Disable a User Account ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
+## 4\. Enable and Disable a User Account
+![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -96,7 +99,8 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Now Jack can go back to logging in whenever he wants.
 
-## 7\. Set User Account Expiry Date ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
+## 7\. Set User Account Expiry Date
+![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
@@ -122,7 +126,8 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
 
-## 10\. Set a Password Policy for Users ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
+## 10\. Set a Password Policy for Users
+![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
@@ -162,3 +167,54 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-quietude-quest-a-complete-users-guide-to-online-auditory-sanitization/"><u>In 2024, Quietude Quest A Complete Users Guide to Online Auditory Sanitization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365974672-ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-speedy-pointers-curtailing-acceleration-on-windows-11/"><u>Say Goodbye to Speedy Pointers: Curtailing Acceleration on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-empty-directory-alert-on-windows-11/"><u>Overcoming Empty Directory Alert on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-win-1011s-top-screencasting-applications-unveiled/"><u>[New] In 2024, Win 10/11'S Top Screencasting Applications Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-uninstall-restrictions-on-win-11/"><u>Troubleshooting: Overcoming Uninstall Restrictions on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-speed-up-system-restart-with-windows-11/"><u>Tricks to Speed Up System Restart with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-photo-import-discrepancies-between-ios-and-windows-11/"><u>Remedying Photo Import Discrepancies Between iOS and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-explained-is-it-safe-on-windows-7xp/"><u>YourPhone.exe Explained - Is It Safe on Windows 7/XP?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-the-ultimate-start-menu-guide/"><u>Mastering Windows 11: The Ultimate Start Menu Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-win11-wi-fi-accessibility-with-9-steps/"><u>Securing Win11 Wi-Fi Accessibility with 9 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-to-windows-updates-on-windows-108/"><u>Regaining Access to Windows Updates on Windows 10/8</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-10-male-to-female-voice-changer-apps/"><u>Updated In 2024, Top 10 Male to Female Voice Changer Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pixel-pilgrimage-journey-through-one-thousand-channels/"><u>[New] Pixel Pilgrimage  Journey Through One Thousand Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/space-saving-savvy-master-windows-11s-minimalist-method/"><u>Space-Saving Savvy: Master Windows 11'S Minimalist Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-displaying-searches-in-win-1011-os/"><u>Strategies for Fixing Non-Displaying Searches in Win 10/11 OS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-software-showcase-photoplusmusic-capture-tools/"><u>[Updated] Selective Software Showcase  Photo+Music Capture Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-missing-component-alert-in-windows-1011/"><u>Overcoming the Missing Component Alert in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-dns-strategies-for-windows-11-enthusiasts/"><u>Tailor-Made DNS Strategies for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-copilot-key-what-does-it-mean-for-your-windows-11-pc/"><u>Microsoft's Copilot Key: What Does It Mean For Your Windows 11 PC?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-audio-not-installed-issues-in-windows-os/"><u>Resolving 'Audio Not Installed' Issues in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-your-pcs-dns-with-ease-in-windows-11/"><u>Revitalizing Your PC's DNS with Ease in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-invalid-network-path/"><u>Overcoming Windows' Invalid Network Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-devices-on-the-frontline-top-5-ways-to-confirm-availability/"><u>Windows 11 Devices on the Frontline: Top 5 Ways to Confirm Availability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-ceasing-random-windows-key-activation/"><u>Strategies for Ceasing Random Windows Key Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-keyboard-errors-for-functional-shortcuts-in-windows-11/"><u>Resolve: Keyboard Errors for Functional Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-steam-must-be-running-to-play-this-game-error-in-windows-11/"><u>7 Ways to Fix the Steam Must Be Running to Play This Game Error in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-efficient-media-transformation-with-actionable-steps-from-xml/"><u>In 2024, Efficient Media Transformation with Actionable Steps From XML</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-sound-with-new-windows-audio-drivers/"><u>Streamline Your PC Sound with New Windows Audio Drivers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-hilarity-unleashed-top-7-amusing-youtube-channel-skits/"><u>2024 Approved  Hilarity Unleashed  Top 7 Amusing YouTube Channel Skits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-manipulating-the-windows-11-registry-to-unlock-themes/"><u>The Art of Manipulating the Windows 11 Registry to Unlock Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y78plus-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y78+ Phone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-kinemaster-editors-roadmap-for-flawless-transitions-for-2024/"><u>A Kinemaster Editor's Roadmap for Flawless Transitions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-stunning-iphone-hdr-results/"><u>In 2024, Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-understanding-its-windows-purpose/"><u>What Is Pagefile.sys? Understanding Its Windows Purpose</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>[Updated] In 2024, The Dynamic Duo  YouTube & Instagram Story Collaboration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-sudden-screen-loss-during-win-games/"><u>Techniques to Overcome Sudden Screen Loss During WIN Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-transition-website-to-desktop-compatibility/"><u>Seamless Transition: Website to Desktop Compatibility</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-building-your-brand-with-a-patchwork-of-top-tier-tiktoks/"><u>[Updated] 2024 Approved  Building Your Brand with a Patchwork of Top-Tier TikToks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-and-streamlining-the-microsoft-store-in-win11/"><u>Unblocking and Streamlining the Microsoft Store in Win11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers-for-2024/"><u>[Updated] Discovering Your Perfect VR Experience  Should You Choose Mobile Freedom or Connectivity with Tethers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games-for-2024/"><u>Beyond the Screen  Advanced Techniques in Logging Virtual Reality Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-your-windows-display-hurdles-easily/"><u>Resolve Your Window's Display Hurdles Easily</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-comprehensive-review-top-tier-gender-shifting-audio-alterations-for-windowsmac-users/"><u>Updated Comprehensive Review Top-Tier Gender-Shifting Audio Alterations for Windows/Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-lockout-count-after-sign-in-failures/"><u>Resetting Windows Lockout Count After Sign-In Failures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-non-udemy-platforms-for-personalized-e-learning/"><u>[New] Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
+</ul></div>

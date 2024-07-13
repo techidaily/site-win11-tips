@@ -1,7 +1,7 @@
 ---
 title: Streamlining System Operations via Terminal Commands
-date: 2024-06-25T16:32:29.054Z
-updated: 2024-06-26T16:32:29.054Z
+date: 2024-07-12T16:59:56.241Z
+updated: 2024-07-13T16:59:56.241Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-## 1\. List All User Accounts ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
+## 1\. List All User Accounts
+![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
 
  Before you start managing user accounts with **net user**, it helps to know all the user accounts on your computer. To list them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/), enter the below command, and hit the **Enter** key to run it:
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
-## 2\. Show All the Information of a User Account ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+## 2\. Show All the Information of a User Account
+![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -56,7 +58,8 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Now net user will remove the account from the computer.
 
-## 4\. Enable and Disable a User Account ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
+## 4\. Enable and Disable a User Account
+![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -96,7 +99,8 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Now Jack can go back to logging in whenever he wants.
 
-## 7\. Set User Account Expiry Date ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
+## 7\. Set User Account Expiry Date
+![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
@@ -122,7 +126,8 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
 
-## 10\. Set a Password Policy for Users ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
+## 10\. Set a Password Policy for Users
+![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
@@ -162,3 +167,66 @@ thumbnail: https://thmb.techidaily.com/0d1e6d469f4667c3d31e2ee564e25a93a1f4e0a18
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unseen-navigators-of-fb-moments/"><u>[Updated] 2024 Approved  Unseen Navigators of FB Moments</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-hypervisor-on-windows-sandbox/"><u>Addressing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719358270699-reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-efficiency-program-troubleshooting-tool-inclusion/"><u>Adding Efficiency: Program Troubleshooting Tool Inclusion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-snippet-analysis-at-a-glance/"><u>2024 Approved  Micro Snippet Analysis at a Glance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-stalled-downloads-with-qbittorrent-fixes/"><u>Accelerating Stalled Downloads with qBittorrent Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-closer-look-at-why-pcs-take-the-lead-over-macs-9/"><u>A Closer Look at Why PCs Take the Lead over Macs (#9)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-office-tasks-with-windows-command-shortcuts/"><u>Accelerate Office Tasks with Windows Command Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-crucial-windows-apps-making-mac-to-windows-swap-a-breeze/"><u>5 Crucial Windows Apps Making Mac to Windows Swap a Breeze</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-s23-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel S23.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719332049172-swiftly-addressing-windows-faults-with-easy-fixes/"><u>Swiftly Addressing Windows Faults with Easy Fixes!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-5-methods-to-make-a-fake-facetime-call-video/"><u>Updated 5 Methods to Make a Fake Facetime Call Video</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-apex-of-hd-technology-leading-recorder-brands-decoded/"><u>[Updated] 2024 Approved  Apex of HD Technology  Leading Recorder Brands Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-remedies-for-vmware-stop-at-boot-on-windows-11/"><u>8 Remedies for VMware Stop at Boot on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11-privileges-and-permissions-panel/"><u>Activating Windows 11 Privileges and Permissions Panel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrate-and-play-srt-files-on-windowsmacos/"><u>Integrate and Play SRT Files on Windows/macOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-content-creating-engaging-loop-videos-for-ig/"><u>[Updated] Enhance Your Content  Creating Engaging Loop Videos for IG</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thumbnail-size-mastery-for-higher-traffic-videos/"><u>2024 Approved  Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719320045015-clean-and-tailor-your-w11-desktop-now/"><u>Clean & Tailor Your W11 Desktop, Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-solutions-for-streamlining-windows-display-issues/"><u>5 Solutions for Streamlining Windows Display Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-the-art-of-backward-movies-on-snapchat/"><u>[Updated] Mastering the Art of Backward Movies on Snapchat</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>In 2024, Prolific Photography & Video App Selection  IPhone vs Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-command-attention-elevating-your-page-to-the-social-summit/"><u>[Updated] 2024 Approved  Command Attention  Elevating Your Page to the Social Summit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-cluttered-symbol-groups-on-windows-shell/"><u>Addressing Cluttered Symbol Groups on Windows Shell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-glitch-nvidias-x0001-on-windows-w11/"><u>Addressing Glitch: Nvidia's X0001 on Windows W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719338143984-revitalizing-your-chrome-browser-on-the-latest-os-win11/"><u>Revitalizing Your Chrome Browser on the Latest OS (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-restore-missing-windows-time-service/"><u>6 Ways to Restore Missing Windows Time Service</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>In 2024, Screen Savvy  Secure Your Captures - Chromebook's Top 4 Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-design-gif-for-sharing/"><u>[Updated] 2024 Approved  Design Gif for Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381461685-unlock-hidden-features-in-windows-snipping-tool-for-flawless-screen-shots/"><u>Unlock Hidden Features in Windows Snipping Tool for Flawless Screen Shots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-10-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 10 & 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-external-light-for-cozy-interior-spaces/"><u>[Updated] Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-full-screen-display-overcoming-windows-overscan/"><u>Achieve Seamless Full-Screen Display: Overcoming Windows Overscan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-streamlined-guide-to-resolving-roblox-error-code-262/"><u>A Streamlined Guide to Resolving Roblox Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/20-tactics-for-disabling-windows-11/"><u>20 Tactics for Disabling Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/find-out-what-ray-tracing-is-in-after-effects-how-it-works-and-learn-about-ray-traced-3d-settings-with-simple-instructions-for-2024/"><u>Find Out What Ray Tracing Is in After Effects, How It Works, and Learn About Ray-Traced 3D Settings with Simple Instructions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-video-editing-software-face-off-sony-vegas-vs-adobe-premiere-pro-2023-edition/"><u>New In 2024, Video Editing Software Face-Off Sony Vegas vs Adobe Premiere Pro 2023 Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-youtube-livestreams-webcam-selection-mastery/"><u>[Updated] In 2024, Enhance YouTube Livestreams  Webcam Selection Mastery</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a23-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A23 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-breakthrough-personalities-on-tiktok-a-guide-for-motivation/"><u>[New] In 2024, Breakthrough Personalities on TikTok  A Guide for Motivation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[New] Perfecting Your Dialogue  A Google Meet Strategy for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-android-apps-that-youd-actually-want-to-install-on-windows-11/"><u>6 Android Apps That You’d Actually Want to Install on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-bridging-platform-gaps-youtube-shorts-to-mp4-transformation/"><u>2024 Approved  Bridging Platform Gaps  YouTube Shorts to MP4 Transformation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-a-virtual-reality-device-a-basic-overview/"><u>[Updated] Inside a Virtual Reality Device  A Basic Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-practical-solutions-for-gpeditmsc-not-found-crisis/"><u>3 Practical Solutions for Gpedit.msc Not Found Crisis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-the-most-reliable-free-srt-translation-services-for-2024/"><u>[New] Exploring the Most Reliable Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-optimal-audio-changer-tools-for-vtubers/"><u>[New] Guide to Optimal Audio Changer Tools for VTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-visuals-in-webcams/"><u>Addressing Absence of Visuals in Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-fix-13-solutions-for-windows-system-repair/"><u>A Quick Fix: 13 Solutions for Windows System Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363856500-unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-x80049dd3-for-smooth-typing-on-windows-11/"><u>Addressing Error X80049DD3 for Smooth Typing on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-pcs-problems-4-top-pct-strategies/"><u>Ace Your PC's Problems: 4 Top PCT Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-using-microsofts-bluetooth-app/"><u>A Step-by-Step Guide to Using Microsoft's Bluetooth App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-t2x-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo T2x 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-index-view-options/"><u>Accessing Windows Index View Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Displaying Caps Lock & Numeric Status on Taskbar Tray of Win11
-date: 2024-06-25T16:43:35.209Z
-updated: 2024-06-26T16:43:35.209Z
+date: 2024-07-12T17:12:52.768Z
+updated: 2024-07-13T17:12:52.768Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,74 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/triumph-over-windows-11-theme-lockdown-a-registry-approach/"><u>Triumph Over Windows 11 Theme Lockdown: A Registry Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-usb-drive-problems-for-efficient-data-handling/"><u>Solving USB Drive Problems for Efficient Data Handling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-onedrive-connection-problems-in-os-versions/"><u>Fixing OneDrive Connection Problems in OS Versions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New 2024 Approved A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-fatal-0xf0831-malfunction/"><u>Bypassing Windows 11'S Fatal 0XF0831 Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-modify-mouses-double-click-speed/"><u>Ultimate Guide to Modify Mouse's Double-Click Speed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-analyzing-instagram-de-followings/"><u>[New] Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-launching-apps-on-windows-11/"><u>Efficiently Launching Apps on Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-formula-for-a-high-ranking-online-persona/"><u>The Formula for a High-Ranking Online Persona</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-social-presence-with-customized-instagram-voices/"><u>[Updated] 2024 Approved  Elevate Your Social Presence with Customized Instagram Voices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-communication-making-calls-on-windows-11-with-unison-app/"><u>Elevate Communication: Making Calls on Windows 11 with Unison App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-manual-for-registry-editing-with-command-prompt/"><u>Comprehensive Manual for Registry Editing with Command Prompt</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/7-pulse-pounding-workouts-that-gain-traction-on-social-media/"><u>7 Pulse-Pounding Workouts That Gain Traction on Social Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-tips-for-high-quality-zoom-podcast-sessions/"><u>Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-on-windows-1011-our-selection-of-the-top-5plus-productivity-boosters/"><u>Excel on Windows 10/11: Our Selection of the Top 5+ Productivity Boosters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-2023s-ultimate-selection-of-complimentary-video-soundtracks/"><u>In 2024, 2023S Ultimate Selection of Complimentary Video Soundtracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-photoshopping-on-windows-11/"><u>Troubleshooting Tips for Photoshopping on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-humor-with-9gag-your-personal-meme-making-manual/"><u>In 2024, Tailoring Humor with 9GAG  Your Personal Meme Making Manual</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>New How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-window-updates-blocked-by-error-2e/"><u>Fix Window Updates Blocked by Error 2E</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clear-sound-conference-experience-via-skype/"><u>[New] In 2024, Clear Sound Conference Experience via Skype</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-music-merger-for-captivating-social-media-vids-for-2024/"><u>[New] Mastering the Music Merger for Captivating Social Media Vids for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-transform-your-photos-into-engaging-mac-slideshows-with-ezvid-for-2024/"><u>New Transform Your Photos Into Engaging Mac Slideshows with Ezvid for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-screen-recording-snapshots-on-mobile/"><u>[Updated] In 2024, Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-ranked-hd-screen-capturing-tools/"><u>Top-Ranked HD Screen Capturing Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearer-audio-aesthetics-removing-distractions-with-imovie-on-macos/"><u>New Clearer Audio Aesthetics Removing Distractions with iMovie on macOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia/"><u>Deciphering Screen Recorders  Bandicam or Camtasia?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scrutinizing-the-utility-of-windows-11-interface-components/"><u>Scrutinizing the Utility of Windows 11 Interface Components</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-synergies-how-to-choose-ideal-youtube-duosgroups-for-2024/"><u>Leveraging Synergies  How to Choose Ideal YouTube Duos/Groups for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-art-of-transcribing-audio-to-text/"><u>In 2024, The Art of Transcribing Audio to Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>[New] The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/historic-footprints-in-tech-rediscovering-7-old-world-windows-aspects/"><u>Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-early-access-the-way-into-windows-11-beta/"><u>Gain Early Access: The Way Into Windows 11 Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-solutions-at-fingertips-customizing-shortcuts-for-win-11-repairs/"><u>Speedy Solutions at Fingertips: Customizing Shortcuts for Win 11 Repairs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-cannot-access-source-file-in-win1110/"><u>Dealing with Cannot Access Source File in Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-against-unexpected-scroll-behavior-in-os/"><u>Safeguard Against Unexpected Scroll Behavior in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719204825676-fix-the-unresponsive-shift-on-your-pc-now/"><u>Fix the Unresponsive Shift on Your PC Now!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/screen-based-linguistic-strategies-unveiled/"><u>Screen-Based Linguistic Strategies Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-powertoys-for-faster-copy-pasting/"><u>Dive Into PowerToys for Faster Copy-Pasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-network-configurations-in-windows-os/"><u>Unlock the Power of Network Configurations in Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-x9a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor X9a 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-high-dpi-screen-resolution-problems-on-pcs/"><u>Tackling High DPI Screen Resolution Problems on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-activate-folder-restrictions-in-windows/"><u>Step-by-Step Guide to Activate Folder Restrictions in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionize-your-recordings-with-cutting-edge-techniques/"><u>[Updated] Revolutionize Your Recordings with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-0xc0000001-on-windows-os/"><u>Steps to Solve 0XC0000001 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-elite-windows-apps-for-data-security-149-chars/"><u>7 Elite Windows Apps for Data Security (149 Chars)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-epic-tiktok-success-the-virality-formula-for-2024/"><u>[New] Epic TikTok Success  The Virality Formula for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-making-money-with-vimeo-monetization/"><u>[New] 2024 Approved  The Ultimate Guide to Making Money with Vimeo Monetization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-window-success-with-smart-key-purchasing-tactics/"><u>Unlocking Window Success with Smart Key Purchasing Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobe-reader-microsoft-store-approach/"><u>Unlocking Adobe Reader: Microsoft Store Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11-speed-start-up-enhancement-techniques/"><u>Unleash Windows 11 Speed: Start-Up Enhancement Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-m4r-conversion-basics-dont-miss-these-crucial-steps-for-2024/"><u>New M4R Conversion Basics Dont Miss These Crucial Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-replace-vanished-facebook-watch-icon-for-2024/"><u>[New] Replace Vanished Facebook Watch Icon for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-instructions-downloading-and-installing-msixbundle-packages/"><u>Step-by-Step Instructions: Downloading & Installing MSixbundle Packages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-effortless-edits-crafting-new-folders-on-windows-11/"><u>Explore Effortless Edits: Crafting New Folders on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-stop-nvidia-graphic-boost-features/"><u>Guide to Stop NVIDIA Graphic Boost Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resolved-gpu-issues-in-latest-laptop-model/"><u>Win11 Resolved GPU Issues in Latest Laptop Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-risks-in-windows-11-service-deactivation/"><u>Understanding Risks in Windows 11 Service Deactivation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/best-free-mac-apps-for-professional-tiktok-cuts/"><u>Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delight-in-top-tier-windows-features-via-ms-store-apps/"><u>Delight in Top-Tier Windows Features via MS Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-gear-for-youtube-novices/"><u>Prime Gear for YouTube Novices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-neo-5-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme GT Neo 5?</u></a></li>
+</ul></div>

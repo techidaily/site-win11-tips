@@ -1,7 +1,7 @@
 ---
 title: Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus
-date: 2024-06-25T16:46:16.487Z
-updated: 2024-06-26T16:46:16.487Z
+date: 2024-07-12T17:16:00.302Z
+updated: 2024-07-13T17:16:00.302Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7d
 * TPM (Trusted Platform Module),
 * and a Microsoft account for the initial device setup.
 
-## The Hardware You Need to Create a Windows 11 To Go Drive ![Photo showing a SSD connected to a USB to SATA adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-photo-showing-a-ssd-connected-to-a-usb-to-sata-adapter.jpg)
+## The Hardware You Need to Create a Windows 11 To Go Drive
+![Photo showing a SSD connected to a USB to SATA adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-photo-showing-a-ssd-connected-to-a-usb-to-sata-adapter.jpg)
 
  Portable versions of Windows run over the USB interface. You need a USB 3.0 to SATA adapter and an SSD. One end of the adapter will connect to the USB 3.0 on your computer, and the SSD will be at the other end. Quite simple.
 
@@ -145,17 +146,20 @@ Close
 
  Windows 11 on a USB drive will work well, exactly as it would on an internal drive, provided the disk speeds are up to the mark. As such, it's a good idea to ensure you're using the right ports and drives to ensure the quickest experience possible.
 
-### SSDs Are Always a Better Choice ![Photo showing a Hard Disk and a SSD and to prefer a SSD to HDD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/22-photo-showing-a-hard-disk-and-a-ssd-and-to-prefer-a-ssd-to-hdd.jpg)
+### SSDs Are Always a Better Choice
+![Photo showing a Hard Disk and a SSD and to prefer a SSD to HDD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/22-photo-showing-a-hard-disk-and-a-ssd-and-to-prefer-a-ssd-to-hdd.jpg)
 
  Solid state drives (SSD) have no moving parts in them. This makes them very fast compared to hard disks (HDD) which use spinning disks.
 
  Operating systems use plenty of small files, and SSDs shine at the read/write speed of these files. Hard disks, in contrast, need more time to seek the files. This is shown via the access time of each drive; SSDs take 1ms, and hard disks take 20ms. As such, you should always choose an SSD to store your operating system if you can.
 
-### USB 3.0 Is 10 Times Faster Than 2.0 ![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
+### USB 3.0 Is 10 Times Faster Than 2.0
+![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
 
  USB 3.0 read/writes at 5Gbps compared to USB 2.0 which can do only 480Mbps. So, you should use a USB 3.0 to SATA adapter.
 
-### Use the USB 3.0 Port on Your Computer ![Photo showing a USB 2.0 port and a USB 3.0 port and to prefer USB 3.0 to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/24-photo-showing-a-usb-2-0-port-and-a-usb-3-0-port-and-to-prefer-usb-3-0-to-usb-2-0.jpg)
+### Use the USB 3.0 Port on Your Computer
+![Photo showing a USB 2.0 port and a USB 3.0 port and to prefer USB 3.0 to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/24-photo-showing-a-usb-2-0-port-and-a-usb-3-0-port-and-to-prefer-usb-3-0-to-usb-2-0.jpg)
 
  Identify the 3.0 port on your computer. It is usually blue. You can also use USB-C ports which usually are USB 3.0 or above.
 
@@ -181,3 +185,39 @@ Close
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>2024 Approved  Gold Medal Glory  Olympic Speed Skating Short Track Highlights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-maximize-learning-mac-methods-to-document-lectures/"><u>[New] In 2024, Maximize Learning  Mac Methods to Document Lectures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-error-in-windows-setup/"><u>Eliminating Not Found Error in Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-correcting-invalid-captcha-on-steam/"><u>Guide to Correcting Invalid CAPTCHA on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fractured-fort-knox-continue-current-cybersecurity/"><u>Fractured Fort Knox? Continue Current Cybersecurity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-troubleshooting-steps-for-internal-error-on-windows-1111-pro/"><u>Essential Troubleshooting Steps for Internal Error on Windows 11/11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-identifying-devices-with-windows-tools/"><u>In-Depth Analysis: Identifying Devices with Windows Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s18e-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18e Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-extract-to-temp-folder-error-1152-on-win/"><u>Fixing 'Extract to Temp Folder Error 1152' On Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-ms-defender-block-on-other-av-tools/"><u>How to Circumvent MS Defender Block on Other AV Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-virtual-memory-in-windows-11-for-maximum-performance/"><u>Fine-Tuning Virtual Memory in Windows 11 for Maximum Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>2024 Approved  Pro Capture, Not Just Point-and-Shoot  Mastering the Hero5 Black</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-past-windows-decor-three-methods/"><u>Erase Past Windows Decor: Three Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-automating-dns-client-service-configuration/"><u>Guide to Automating DNS Client Service Configuration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-7-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 7 After iOS Update? | Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-tutorial-for-iphone-voice-memo/"><u>[New] The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/icloud-on-windows-common-fixes-for-download-problems/"><u>ICloud on Windows: Common Fixes for Download Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-unfreeze-steam-and-resume-gaming-on-windows-11/"><u>How To Swiftly Unfreeze Steam and Resume Gaming on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-timing-for-virality-in-video-content-sharing/"><u>[Updated] Strategic Timing for Virality in Video Content Sharing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-building-your-brand-with-a-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved  Building Your Brand with a Sports YouTube Chain on macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-editing-text-via-snipping-tool/"><u>Expert Guide: Editing Text via Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-remedies-for-server-miss-on-pc-apex-(156-chars/"><u>Essential Remedies for Server Miss on PC Apex (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-zero-error-in-windows-sandbox-missing-hypervisor-solution/"><u>Fixing Zero Error in Windows Sandbox - Missing Hypervisor Solution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-insiders-tips-for-choosing-best-webinars/"><u>[Updated] 2024 Approved  Insider's Tips for Choosing Best Webinars</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-vimeos-share-options-for-2024/"><u>[Updated] Navigating Vimeo's Share Options for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-essential-iphone-screen-recording-manual/"><u>[New] In 2024, The Essential iPhone Screen Recording Manual</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-cloud-stop-motion-creation-tips-tricks-and-top-software-picks/"><u>2024 Approved Cloud Stop Motion Creation Tips, Tricks, and Top Software Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-command-prompt-integrating-folders-into-context-menu/"><u>Elevate Your Command Prompt: Integrating Folders Into Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-admin-level-command-prompt-in-windows-11-pro/"><u>Initiating Admin-Level Command Prompt in Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-task-automation-tackling-scheduler-issues/"><u>Enhance Task Automation: Tackling Scheduler Issues</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Clear the Microsoft Defender Protection History on Windows 10 & 11
-date: 2024-07-03T12:41:07.942Z
-updated: 2024-07-04T12:41:07.942Z
+date: 2024-07-12T17:49:19.875Z
+updated: 2024-07-13T17:49:19.875Z
 tags:
   - windows10
   - windows11
@@ -113,3 +113,45 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pinnacle-20-anime-songs-to-start-with/"><u>[New] In 2024, Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shaded-world-of-microsofts-simple-scribbler/"><u>The Shaded World of Microsoft's Simple Scribbler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-application-launch-failure-the-0xc000003e-error-on-windows-11/"><u>Solving Application Launch Failure: The 0XC000003E Error on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-m4r-converter-crash-course-everything-you-need-to-know-first/"><u>In 2024, The M4R Converter Crash Course Everything You Need to Know First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/suspending-windows-update-activations/"><u>Suspending Windows Update Activations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-photo-gallery-functions-on-windows-pc/"><u>Unlocking Photo Gallery Functions on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-expert-guide-to-opening-credential-vaults/"><u>The Expert Guide to Opening Credential Vaults</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlight-prime-iphone-gif-apps-to-try/"><u>In 2024, Highlight  Prime iPhone GIF Apps to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switch-viewing-direction-on-windows-device/"><u>Switch Viewing Direction on Windows Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-language-access-using-keyboard-shortcuts-for-translation-on-windows/"><u>Quick Language Access: Using Keyboard Shortcuts for Translation on Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-flawlesshd-webrecorder-software/"><u>[Updated] FlawlessHD WebRecorder Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-vibrance-grading-secrets-in-ps-for-2024/"><u>Unleashing Vibrance  Grading Secrets in PS for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-stuck-grammarly-service-on-pcs/"><u>Reactivating Stuck Grammarly Service on PCs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-learn-how-to-control-video-speed-on-snapchat-effectively/"><u>[New] In 2024, Learn How to Control Video Speed on Snapchat Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-windows-on-steam-deck-made-simple/"><u>Setting Up Windows on Steam Deck Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shades-of-twilight-harnessing-ms-paints-dark-theme/"><u>Shades of Twilight: Harnessing MS Paint's Dark Theme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-video-driver-in-windows-1110/"><u>Solutions for Unresponsive Video Driver in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-low-usb-controller-space/"><u>Strategies to Combat Low USB Controller Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-approach-for-verifying-your-age-on-tiktok/"><u>[Updated] Step-by-Step Approach for Verifying Your Age on TikTok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-google-viewerscape-vs-samsung-virtual-world-for-2024/"><u>[Updated] Google Viewerscape Vs. Samsung Virtual World for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-ensuring-reliable-intel-wireless-networks-in-windows/"><u>Techniques: Ensuring Reliable Intel Wireless Networks in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-expert-strategies-in-fb-video-promotion/"><u>[New] Expert Strategies in FB Video Promotion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners/"><u>New In 2024, Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-audio-normalization-with-davinci-resolve-an-in-depth-tutorial/"><u>New 2024 Approved Mastering Audio Normalization with DaVinci Resolve An In-Depth Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-skyrims-x-script-on-pc/"><u>Troubleshooting Skyrim's X-Script on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-7-plus-how-to-unlock-a-disabled-apple-iphone-7-plus-by-drfone-ios/"><u>Disabled Apple iPhone 7 Plus How to Unlock a Disabled Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[New] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-dialogue-and-appraise/"><u>[New] 2024 Approved  Capture Dialogue & Appraise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-top-tier-nvidia-drivers-focusing-on-purpose/"><u>Selecting Top-Tier Nvidia Drivers - Focusing on Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncluttered-desktop-organize-and-personalize-win11/"><u>Uncluttered Desktop: Organize and Personalize Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bargain-bin-of-the-clouds-spacious-file-staging-area/"><u>[Updated] Bargain Bin of the Clouds  Spacious File Staging Area</u></a></li>
+</ul></div>

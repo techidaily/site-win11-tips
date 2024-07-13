@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Depths: Noteworthy Alterations in Windows 11'S Interface"
-date: 2024-06-25T17:03:28.525Z
-updated: 2024-06-26T17:03:28.525Z
+date: 2024-07-12T17:35:51.363Z
+updated: 2024-07-13T17:35:51.363Z
 tags:
   - windows10
   - windows11
@@ -70,7 +70,8 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
-## 7\. Built-In File Archive Support ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
+## 7\. Built-In File Archive Support
+![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
@@ -88,3 +89,44 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-which-mp3-converter-is-right-for-your-mac/"><u>Updated 2024 Approved Which MP3 Converter Is Right for Your Mac?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-reel-to-share-creating-perfect-vt-videos-in-fcpx/"><u>2024 Approved  From Reel to Share  Creating Perfect VT Videos in FCPX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/momentum-builds-with-windows-11s-upcoming-feature-unveil/"><u>Momentum Builds with Windows 11’S Upcoming Feature Unveil</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>In 2024, Instagram's Secret  Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-secrets-of-finding-exclusive-youtube-design-archives/"><u>[Updated] Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screencast-o-matic-review/"><u>[New] Screencast-O-Matic Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-blocking-self-starting-windows-store/"><u>Strategies for Blocking Self-Starting Windows Store</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-10-best-listed-playlists-on-spotify/"><u>2024 Approved  10 Best-Listed Playlists on Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tip-how-to-turn-off-nvidia-ui/"><u>Tech Tip: How to Turn Off NVIDIA UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-onedrive-errors-on-windows-effective-fixes/"><u>Tackling OneDrive Errors on Windows: Effective Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/advanced-tools-for-efficient-language-learning/"><u>Advanced Tools for Efficient Language Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-cutting-the-fat-in-windows-11/"><u>The Ultimate Guide to Cutting the Fat in Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-an-in-depth-analysis-of-waveedits-latest-features/"><u>New An In-Depth Analysis of WaveEdits Latest Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-headset-microphone-blockage/"><u>Unblocking Windows Headset Microphone Blockage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-library-accessibility-on-win-11-pcs/"><u>Troubleshooting Steam Library Accessibility on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-windows-print-management-interface/"><u>Understanding the Role of Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soundscapes-enhancing-photography-online-for-2024/"><u>Soundscapes Enhancing Photography Online for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 15 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-views-into-audience-with-effective-fb-videos/"><u>[Updated] In 2024, Transforming Views Into Audience with Effective FB Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-faulty-troubleshooters-in-windows-os/"><u>Reinvigorating Faulty Troubleshooters in Windows OS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-guide-to-auditory-separation-from-visual-media-the-2023-methodology-for-2024/"><u>New Ultimate Guide to Auditory Separation From Visual Media The 2023 Methodology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-hidden-search-bar-in-win11s-task-manager/"><u>Revealing the Hidden Search Bar in Win11's Task Manager</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-best-start-streamlined-tools-for-novice-game-editors-for-2024/"><u>[Updated] The Best Start  Streamlined Tools for Novice Game Editors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-multiscreen-woes/"><u>Understanding Windows Multiscreen Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-banishing-the-persistent-pink-error-on-windows/"><u>The Ultimate Guide to Banishing the Persistent Pink Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-mouse-response-time-on-windows-devices/"><u>Optimizing Mouse Response Time on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hyper-v-setup-process-for-windows-11-home-edition/"><u>Navigating the Hyper-V Setup Process for Windows 11 Home Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swivel-your-snaps-with-these-6-steps-for-windows-11-users/"><u>Swivel Your Snaps with These 6 Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-roblox-error-262-instantly/"><u>Overcoming Roblox Error 262 Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-running-sfc-on-windows/"><u>Understanding and Running SFC on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-engineering-the-taskbar-key-steps-to-better-windows-11-ux/"><u>Re-Engineering the Taskbar: Key Steps to Better Windows 11 UX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-access-regulation-for-everyday-windows-pcs/"><u>Mastering User Access Regulation for Everyday Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x800704cf-error-in-win11-marketplace/"><u>Overcoming 0X800704CF Error in Win11 Marketplace</u></a></li>
+</ul></div>

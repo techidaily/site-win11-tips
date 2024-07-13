@@ -1,7 +1,7 @@
 ---
 title: Strategies for Ceasing Random Windows Key Activation
-date: 2024-06-25T16:36:57.642Z
-updated: 2024-06-26T16:36:57.642Z
+date: 2024-07-12T17:05:08.739Z
+updated: 2024-07-13T17:05:08.739Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,8 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  While we are unsure of what causes the issue, and there’s much less information on what the **Win + Alt** key combo does, it is an easy fix to resolve this problem.
 
-## 2\. Turn Off Sticky and Filter Keys ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
+## 2\. Turn Off Sticky and Filter Keys
+![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
@@ -52,7 +53,8 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 4. Next, click the **Run** button for the **Keyboard** option.
 5. As the troubleshooter dialog opens, follow the on-screen instructions and apply any recommended fixes.
 
-## 4\. Reinstall the Keyboard Drivers ![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
+## 4\. Reinstall the Keyboard Drivers
+![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
 
  A corrupt driver may cause the keyboard to malfunction. To fix the issue, you can uninstall the driver from Device Manager. Upon restart, Windows will automatically detect the connected keyboard and install the necessary drivers.
 
@@ -140,3 +142,36 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-broadcasting-tweeted-videos-to-facebook-friends-for-2024/"><u>[Updated] Broadcasting Tweeted Videos to Facebook Friends for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-your-onedrive-save-point-on-windows-10/"><u>Altering Your OneDrive Save Point on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-command-center-for-app-and-browser-authority/"><u>Windows Command Center for App and Browser Authority</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-drag-recover-lost-functionality-fast/"><u>Win11 Drag: Recover Lost Functionality Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-your-worldwide-address-through-cmd-windows/"><u>Unmasking Your Worldwide Address Through CMD, Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-is-active-the-premier-choice-for-tech-enthusiasts-for-2024/"><u>[New] Is Active the Premier Choice for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-obstacles-for-secure-memory-settings-in-new-windows-11/"><u>Clearing Obstacles for Secure Memory Settings in New Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-storm-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Storm 5GFRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-tips-for-a-win11-masterpiece/"><u>Transform Your Desktop: Tips for a Win11 Masterpiece</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-11-and-11/"><u>4 Ways to Open Disk Management in Windows 11 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-down-excessive-cpu-usage-in-windows-hosts/"><u>Trimming Down Excessive CPU Usage in Windows Hosts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-have-10-fcp-plug-ins-for-professionals/"><u>Must-Have 10 FCP Plug-Ins for Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-admin-restrictions-on-windows-safety-settings/"><u>Bypassing Admin Restrictions on Windows Safety Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-microsofts-phone-link-application-functionality/"><u>Decoding Microsoft's Phone Link Application Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-introduction-to-soft-starting-sounds-in-audition/"><u>[Updated] Introduction to Soft-Starting Sounds in Audition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-changes-essential-windows-programs-for-editing-file-dates/"><u>Timely Changes: Essential Windows Programs for Editing File Dates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-apps-facilitating-the-switch-from-macos-to-windows/"><u>The Ultimate List of Apps Facilitating the Switch From MACOS to WINDOWS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-error-0x80131500-on-microsoft-shop/"><u>Unlocking Error #0X80131500 on Microsoft Shop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visual-search-enhancements-in-windows-11-file-explorer/"><u>Visual Search Enhancements in Windows 11 File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-store-clearing-error-code-x80072f30/"><u>Troubleshoot Windows Store: Clearing Error Code X80072F30</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-msvcr120-deficiency-windows-wise/"><u>Tips for Troubleshooting Msvcr120 Deficiency Windows-Wise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-auto-time-zone-switches-in-microsofts-operating-system/"><u>Bypassing Auto Time Zone Switches in Microsoft's Operating System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortlessly-install-lenovo-z50-70-patches/"><u>Effortlessly Install Lenovo Z50-70 Patches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tech-gems-best-desktops-revealed-for-2024/"><u>Ultimate Tech Gems - Best Desktops Revealed for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/stepwise-approach-for-professional-screen-recordings-in-adobe-captive/"><u>Stepwise Approach for Professional Screen Recordings in Adobe Captive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-tyranny-of-inconsistent-colors-in-windows/"><u>Taming the Tyranny of Inconsistent Colors in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-next-gen-coding-is-av1-superior-to-vp9-in-2024/"><u>[New] Exploring Next-Gen Coding  Is AV1 Superior to VP9, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-telnet-on-windows-11-systems/"><u>Unlocking Telnet on Windows 11 Systems</u></a></li>
+</ul></div>

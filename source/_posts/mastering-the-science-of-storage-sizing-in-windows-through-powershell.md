@@ -1,7 +1,7 @@
 ---
 title: Mastering the Science of Storage Sizing in Windows Through Powershell
-date: 2024-06-25T17:01:00.250Z
-updated: 2024-06-26T17:01:00.250Z
+date: 2024-07-12T17:33:00.980Z
+updated: 2024-07-13T17:33:00.980Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-## How to Calculate a Folder's Size Using PowerShell on Windows ![powershell cmdlet to view folder size bytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-bytes.jpg)
+## How to Calculate a Folder's Size Using PowerShell on Windows
+![powershell cmdlet to view folder size bytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-bytes.jpg)
 
  To calculate a folder's size, you'll need to use the two PowerShell cmdlets, Get-ChildItem and Measure-Object, followed by the Length property and Sum parameter.
 
@@ -60,7 +61,8 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.
 
-## How to Get the Subfolder Size Using PowerShell ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
+## How to Get the Subfolder Size Using PowerShell
+![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
 
@@ -70,7 +72,8 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
-## How to Get the Subfolder Size in a Table Format Using PowerShell ![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
+## How to Get the Subfolder Size in a Table Format Using PowerShell
+![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
 
  If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.
 
@@ -114,3 +117,43 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-1011s-trouble-solving-capabilities/"><u>Enhancing Windows 10/11'S Trouble-Solving Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resetting-windows-11-applications/"><u>Guide to Resetting Windows 11 Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shopping-highlights-editing-steps-for-hauls-and-collections/"><u>2024 Approved  Shopping Highlights  Editing Steps for Hauls & Collections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-overcoming-defender-engine-outage-in-5-steps/"><u>Essential Methods: Overcoming Defender Engine Outage in 5 Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnections-windows-and-printers/"><u>Overcoming Disconnections: Windows & Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[Updated] In 2024, Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-dism-failure-0x800f082f/"><u>Mastering the Art of Rectifying DISM Failure: 0X800F082F</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-meizu-21-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Meizu 21 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-microphone-errors-during-valorant-matches/"><u>Eliminating Microphone Errors During Valorant Matches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[New] An All-Inclusive Subtitle Handbook  From Basics to Advanced Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-mac-accessory-visionplussound-capturing/"><u>Cutting-Edge Mac Accessory  Vision+Sound Capturing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-personalized-cost-free-epilogue-soundscape-creation/"><u>2024 Approved  Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-your-guide-to-repairing-windows-software-glitches/"><u>Immediate Actions: Your Guide to Repairing Windows Software Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-game-capture-denial-due-to-low-specs/"><u>Fixing Windows Game Capture Denial Due to Low Specs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-search-11-key-strategies/"><u>Master Your Windows Search: 11 Key Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-cannot-continue-error-in-amd-installation/"><u>Overcoming the 'Cannot Continue' Error in AMD Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-non-installed-disk-on-your-win-11-pc/"><u>How to Restore a Non-Installed Disk on Your Win 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-no-lags-smoother-youtube-videos-on-windows/"><u>Navigate No Lags: Smoother YouTube Videos on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-12-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 12 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-instagram-music-lawfare-summary/"><u>[New] Instagram Music Lawfare Summary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-locate-the-lurking-lost-disk/"><u>How to Locate the Lurking Lost Disk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedite-your-browser-eliminating-youtube-stalls-in-chrome/"><u>Expedite Your Browser: Eliminating YouTube Stalls in Chrome</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-premium-online-tools-for-high-quality-music-editing-for-2024/"><u>New The Ultimate Guide Premium Online Tools for High-Quality Music Editing for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>New 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-your-inner-world-accessing-windows-hidden-char-personality-screen/"><u>Gateway to Your Inner World: Accessing Windows' Hidden Char Personality Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-unlocking-stuck-battlenet-login/"><u>Expert Guide to Unlocking Stuck Battle.net Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-10-pricing-with-smart-key-acquisition/"><u>Mastering Windows 10 Pricing with Smart Key Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-differences-between-exe-and-msi-files/"><u>Exploring the Differences Between EXE & MSI Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-check-for-updates-in-system-context-menu/"><u>Integrating Check for Updates in System Context Menu</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-reworking-your-online-identity-comprehensive-tiktok-username-change-protocols/"><u>In 2024, Reworking Your Online Identity  Comprehensive TikTok Username Change Protocols</u></a></li>
+</ul></div>

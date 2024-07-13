@@ -1,7 +1,7 @@
 ---
 title: Adding Num, Caps Lock Signifiers in Win11 SystemTray
-date: 2024-07-03T12:48:28.016Z
-updated: 2024-07-04T12:48:28.016Z
+date: 2024-07-12T17:56:41.702Z
+updated: 2024-07-13T17:56:41.702Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,45 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/7-innovative-methods-to-improve-your-windows-update-process/"><u>7 Innovative Methods to Improve Your Windows Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/security-scare-can-you-trust-your-biometric-lock-on-windows/"><u>Security Scare: Can You Trust Your Biometric Lock on Windows?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>[Updated] Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-integrate-twitter-and-snapchat-posting-tweets-as-snaps/"><u>[Updated] In 2024, Integrate Twitter & Snapchat  Posting Tweets as Snaps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masters-choice-10-leading-photo-backdrop-swap-tools/"><u>[Updated] Master's Choice  10 Leading Photo Backdrop Swap Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-shopping-crash-error-x800704cf/"><u>Tackling Win11's Shopping Crash: Error X800704CF</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-adventure-in-search-of-upbeat-and-funny-sounds/"><u>Updated In 2024, Adventure in Search of Upbeat and Funny Sounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-become-a-pro-with-our-instagram-story-insights/"><u>[New] Become a Pro with Our Instagram Story Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-solution-for-your-windows-photo-app/"><u>A Step-by-Step Solution for Your Windows Photo App</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills-for-2024/"><u>New DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-shortcut-for-seamless-sticky-note-entry/"><u>Win11's Shortcut for Seamless Sticky Note Entry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-start-screen-links-in-win11s-options/"><u>Adjusting Start Screen Links in Win11's Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-streamline-win11s-print-management-max-52-chars/"><u>Ways to Streamline Win11’s Print Management (Max 52 Chars)</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-free-best-anime-streaming-sites-to-download-anime/"><u>Updated FREE Best Anime Streaming Sites to Download Anime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-next-chapter-begins-with-moment-22h2s-features/"><u>Windows 11'S Next Chapter Begins With Moment #22H2's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>[New] Finding Your Ideal Display  UltraWide vs UHD 4K Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-correcting-code-0x0000004e-in-os/"><u>Techniques for Correcting Code 0X0000004E in OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mac-display-recorder-tips-and-tricks/"><u>[Updated] 2024 Approved  Mac Display Recorder Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-game-pass-error-code-0x00000001-on-windows-os/"><u>Troubleshooting Xbox Game Pass Error Code 0X00000001 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-icon-order-in-windows/"><u>Tips for Restoring Icon Order in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorate-dull-volume-options-in-disk-management-tool/"><u>Reinvigorate Dull Volume Options in Disk Management Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-no-powershell-found-on-your-windows-device/"><u>Remedies for No PowerShell Found on Your Windows Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-video-flipper-tools-rotate-your-videos-online/"><u>Updated 2024 Approved Free Video Flipper Tools Rotate Your Videos Online</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-task-manager-unresponsiveness/"><u>Overcoming Windows Task Manager Unresponsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-steam-disk-write-failures-effectively/"><u>Tackling Windows Steam Disk Write Failures Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>[Updated] In 2024, Captivating Your Audience  YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-with-ease-a-guide-for-surface-computer-owners/"><u>Update with Ease: A Guide for Surface Computer Owners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-microsoft-store-crash-code-error-0x80072efd/"><u>Swift Fixes for Microsoft Store Crash Code Error 0X80072EFD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-with-top-3d-painting-shortcuts/"><u>Streamline Your Workflow with Top 3D Painting Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-uninstall-guide-enhancing-your-workflow-in-windows/"><u>The Ultimate Uninstall Guide: Enhancing Your Workflow in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>In 2024, Beyond the Screen  Jaunt VR's Spectacular World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vpn-connections-failed-on-windows/"><u>Troubleshooting VPN Connections Failed on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlooks-failing-notification-system-a-user-friendly-approach/"><u>Troubleshooting Outlook's Failing Notification System: A User-Friendly Approach</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-rise-and-fall-a-comparative-study-on-tiktok-and-snaps-popularity/"><u>In 2024, The Rise and Fall  A Comparative Study on TikTok and Snap’s Popularity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-backward-image-hunt-on-the-worlds-largest-social-site/"><u>In 2024, Navigating Backward Image Hunt on the World's Largest Social Site</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfect-your-game-with-these-top-7-stardew-valley-modifications/"><u>[Updated] Perfect Your Game with These Top 7 Stardew Valley Modifications</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Enable Photo Viewer Window"
-date: 2024-06-25T16:14:18.615Z
-updated: 2024-06-26T16:14:18.615Z
+date: 2024-07-12T16:38:58.044Z
+updated: 2024-07-13T16:38:58.044Z
 tags:
   - windows10
   - windows11
@@ -110,3 +110,51 @@ To remove a folder from Gallery, repeat the following steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-3-innovative-methods-for-large-head-effects-in-tiktok-videos/"><u>2024 Approved  3 Innovative Methods for Large Head Effects in TikTok Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-introduction-of-wondershare-virbo/"><u>2024 Approved Introduction of Wondershare Virbo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-mechanism-for-windows-error-x80780119-images/"><u>Fix Mechanism for Windows Error X80780119 Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-shortcuts-for-microsoft-store-uwp/"><u>Mastering Windows Shortcuts for Microsoft Store UWP</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of/"><u>Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-facebook-seo-top-ten-must-knows/"><u>[Updated] 2024 Approved  Mastering the Art of Facebook SEO  Top Ten Must-Knows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-suppress-mechanism-for-windows-11-dings/"><u>Quick Suppress Mechanism for Windows 11 Dings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-1110s-recurring-error-with-audacity/"><u>Remedying Windows 11/10'S Recurring Error with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-rectifying-image-importer-issues-with-ios-on-windows-11-pcs/"><u>Mastery Guide: Rectifying Image Importer Issues with iOS on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sleep-cycles-in-windows-systems/"><u>Mastering Sleep Cycles in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-powershell-for-windows-account-management/"><u>Navigating PowerShell for Windows Account Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-trigger-or-suppress-windows-file-dialogs/"><u>How to Trigger or Suppress Windows File Dialogs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-showdown-leading-tools-and-apowersofts-stance-for-2024/"><u>Screen Recorder Showdown  Leading Tools and Apowersoft's Stance for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-application-initiation-setbacks-due-to-qt-plugin-missing/"><u>Mitigating Application Initiation Setbacks Due to Qt Plugin Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-onedrive-overcoming-delayed-folder-upload-errors/"><u>Mastering Windows OneDrive: Overcoming Delayed Folder Upload Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-meizu-21-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Meizu 21 Prowith/without a PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tailoring-social-interaction-the-art-of-snapchat-pins/"><u>[New] Tailoring Social Interaction  The Art of Snapchat Pins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-windows-package-manager-on-windows-11/"><u>How to Use the Windows Package Manager on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-print-discrepancies-in-microsoft-powerpoint-on-windows-systems/"><u>Fixing Print Discrepancies in Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktoks-15-stars-spurring-you-onwards/"><u>[Updated] TikTok's 15 Stars Spurring You Onwards</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-engage-audiences-with-these-top-20-tiktok-caption-strategies/"><u>[Updated] In 2024, Engage Audiences with These Top 20 TikTok Caption Strategies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-split-wmv-videos-for-free-top-5-tools-of-the-year/"><u>New In 2024, Split WMV Videos for Free Top 5 Tools of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-camera-not-detected-error-on-win11/"><u>Remedy for “Camera Not Detected” Error on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-computer-organization-auto-delete-in-windows-made-easy/"><u>Master Computer Organization: Auto-Delete in Windows Made Easy</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-skyrim-experience-cutting-down-x-script-errors/"><u>Seamless Skyrim Experience: Cutting Down X-Script Errors</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-ai-avatar-videos-wondershare-virbo-online/"><u>Updated In 2024, Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-disconnection-in-windows-11/"><u>Mastering User Disconnection in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/riding-out-the-storm-conquering-xbox-app-glitches-on-win11/"><u>Riding Out the Storm: Conquering Xbox App Glitches on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-the-most-of-windows-11s-enhanced-bar/"><u>Make the Most of Windows 11'S Enhanced Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-pc-bottleneck-analyzers/"><u>Real-Time PC Bottleneck Analyzers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-lost-screen-symbols-in-win-11/"><u>Regain Your Lost Screen Symbols in Win 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-stickies-across-computers/"><u>Maximizing Windows 11 Stickies Across Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>2024 Approved  Building Blocks for Movie Making  YouTube's Framework & More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ephemeral-clip-creator-for-2024/"><u>[New] Ephemeral Clip Creator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printer-error-0x8000ffff-in-windows/"><u>How to Fix the Printer Error 0X8000ffff in Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10-best-audio-editor-windows-mac/"><u>New In 2024, 10 Best Audio Editor Windows, Mac</u></a></li>
+</ul></div>

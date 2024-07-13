@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Efficiency: Essential 7 Strategies in Windows 11 (38)"
-date: 2024-06-25T16:43:49.526Z
-updated: 2024-06-26T16:43:49.526Z
+date: 2024-07-12T17:13:08.931Z
+updated: 2024-07-13T17:13:08.931Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
 
-## 1\. Get Rid of Unnecessary Programs and Bloatware ![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
+## 1\. Get Rid of Unnecessary Programs and Bloatware
+![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
 
  To make Windows apps easier to locate, it is sensible to first get rid of unnecessary software and [remove bloatware from your PC](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/). This will make searching for apps easier, and it will benefit your memory usage.
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
 
-## 2\. Pin Programs to the Taskbar ![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
+## 2\. Pin Programs to the Taskbar
+![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
 
  The Windows taskbar offers a superfast way to open apps without having to navigate to the desktop. Windows 11 offers an easy method to [pin almost anything to the taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), so you can access your favorite programs with the click of a button.
 
@@ -41,19 +43,22 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
-## 3\. Create Desktop Shortcuts ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
+## 3\. Create Desktop Shortcuts
+![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
 
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
 
-## 4\. Use the Run Dialog ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
+## 4\. Use the Run Dialog
+![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
 
  Not all apps are easy to find, especially if you’re a developer. The Run dialogue is a powerful tool to locate programs that are harder to find on your Windows 11 device.
 
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
-## 5\. Create Custom Keyboard Shortcuts ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
+## 5\. Create Custom Keyboard Shortcuts
+![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
 
  One of the less-known methods to open Windows apps quicker is by creating custom keyboard shortcuts. By using these shortcuts, you can open a program instantly from any location.
 
@@ -69,7 +74,8 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
-## 6\. Utilize the Quick Access Menu ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
+## 6\. Utilize the Quick Access Menu
+![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
 
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
@@ -82,7 +88,8 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
 
-## 7\. Switch Between Apps Faster ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
+## 7\. Switch Between Apps Faster
+![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
 
  If you’re dealing with an overflow of open windows and need a better way to transition between apps, you’ll find this next tip helpful.
 
@@ -106,3 +113,44 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/navigating-packages-on-pc-the-choco-way-or-wm-approach/"><u>Navigating Packages on PC: The Choco Way or WM Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unseen-windows-11-desktop-themes/"><u>Top Unseen Windows 11 Desktop Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-graphics-performance-on-hogwarts-learning-platform/"><u>Strategies to Improve Graphics Performance on Hogwarts Learning Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-snipbox-bugs-immediate-steps-for-resolution/"><u>Fix SnipBox Bugs: Immediate Steps for Resolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-freemacos-the-ultimate-screen-logger/"><u>[Updated] FreeMacOS  The Ultimate Screen Logger</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-development-workflow-a-guide-to-wpm-in-windows-os/"><u>Streamlining Development Workflow: A Guide to WPM in Windows OS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-tips-for-cutting-down-ambient-noise-and-reverberation-in-audio-tracks/"><u>New 2024 Approved Tips for Cutting Down Ambient Noise and Reverberation in Audio Tracks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-strategies-for-enhancing-vm-efficiency-in-windows/"><u>Top 6 Strategies for Enhancing VM Efficiency in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-productivity-with-both-wireless-and-cable-connections-on-windows/"><u>Maximizing Productivity with Both Wireless and Cable Connections on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-taskbar-for-optimal-datetime-view/"><u>Tailoring Windows 11 Taskbar for Optimal Date/Time View</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y02t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y02T Phone without Google Account?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-restart-setting-windows-1011-to-turn-off-idly/"><u>Instant Restart: Setting Windows 10/11 to Turn Off Idly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-youtube-videos-a-chrome-fix-guide/"><u>Streamlining YouTube Videos: A Chrome Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-simplification-how-to-defrag-a-drive-with-win11/"><u>System Simplification: How to Defrag a Drive with Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-outlook-cannot-be-opened-issue-on-windows-desktop/"><u>Solving Outlook Cannot Be Opened Issue on Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-functionality-with-these-8-bubbleui-upgrades/"><u>Maximize Functionality with These 8 BubbleUI Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-transitions-with-windows-11-task-switching/"><u>Smooth Transitions with Windows 11 Task Switching</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-say-goodbye-to-format-issues-the-top-12-audio-converters-for-easy-conversion/"><u>Updated In 2024, Say Goodbye to Format Issues The Top 12 Audio Converters for Easy Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>[Updated] Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-notetaking-with-simple-windows-hacks/"><u>Professional Notetaking with Simple Windows Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[New] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-server-hiccups-in-ms-store-win-1011/"><u>Navigating Through Server Hiccups in MS Store, Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-paths-to-windows-help-and-hands-on-center/"><u>The Easy Paths To Windows Help and Hands-On Center</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/professional-acid-pro-analysis-and-substitutes-for-2024/"><u>Professional ACID Pro Analysis and Substitutes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-exchange-protecting-files-during-cross-network-moves/"><u>Stealthy Exchange: Protecting Files During Cross-Network Moves</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-mspm-errors-windows-based-fixes-required/"><u>Halt MSPM Errors, Windows-Based Fixes Required</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-ultimate-guide-to-b2b-video-marketing/"><u>New The Ultimate Guide to B2B Video Marketing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-battlenet-game-transfers-on-win-pc/"><u>Speeding Up Battle.net Game Transfers on Win-PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snipcam-issues-quick-solutions-for-troubleshooting/"><u>SnipCam Issues: Quick Solutions for Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-overcoming-org-managed-configurations-in-windows-11/"><u>Guidelines for Overcoming Org-Managed Configurations in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/googles-revolutionary-approach-to-speech-interpretation-for-2024/"><u>Google's Revolutionary Approach to Speech Interpretation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-reducing-system-resource-utilization-by-services/"><u>Strategies for Reducing System Resource Utilization by Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tips-for-overcoming-server-notifications-on-pc-apex-(156-chars/"><u>Top Tips for Overcoming Server Notifications on PC Apex (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-participating-in-the-windows-11-trials/"><u>Secrets of Participating in the Windows 11 Trials</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Copy-Pasting Issues Across Chrome, Edge, & Firefox on Win
-date: 2024-06-25T16:50:30.784Z
-updated: 2024-06-26T16:50:30.784Z
+date: 2024-07-12T17:20:53.182Z
+updated: 2024-07-13T17:20:53.182Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,8 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
-## 3\. Check for Problems With Your Keyboard ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+## 3\. Check for Problems With Your Keyboard
+![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -55,13 +56,15 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
 
-## 5\. Check Your Security Settings ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
+## 5\. Check Your Security Settings
+![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
-## 6\. Clear the Clipboard Cache and History ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
+## 6\. Clear the Clipboard Cache and History
+![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
@@ -113,3 +116,55 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimizing-call-recording-on-facetime-platforms/"><u>[Updated] In 2024, Optimizing Call Recording on FaceTime Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-desktop-arrangement-including-this-pc-icons/"><u>Efficient Desktop Arrangement: Including 'This PC' Icons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/metaverses-versus-omniverse-unveiled/"><u>Metaverses Versus Omniverse Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-server-disruptions-and-ms-store-issues-on-windows-11-and-11/"><u>Remedy for Server Disruptions and MS Store Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-discord-install-failure/"><u>Overcoming Windows 11 Discord Install Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-the-limits-of-solid-state-drives-on-windows-with-ssdfresh/"><u>Pushing the Limits of Solid State Drives on Windows with SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-invalid-profiles-in-windows-operating-systems/"><u>Steps to Correct Invalid Profiles in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/face-off-frenzy-legendary-sj6-versus-yis-prodigy-4k/"><u>Face-Off Frenzy  Legendary SJ6 Versus Yi's Prodigy 4K</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-re-listing-bluetooth-on-windows-pc/"><u>Strategies for Re-Listing Bluetooth on Windows PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy  Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-engagement-and-traffic-with-these-top-video-marketing-moves/"><u>[Updated] 2024 Approved  Boost Engagement and Traffic with These Top Video Marketing Moves</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-old-pcs-with-windows-11-version-22h2/"><u>Ignite Old PCs with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-your-adventure-in-av1/"><u>2024 Approved  Initiating Your Adventure in AV1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-nullified-network-visibility-in-windows/"><u>Navigating Through Nullified Network Visibility in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification-for-2024/"><u>Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-essential-badge-cleansers-androidiphone-edition/"><u>[Updated] 2024 Approved  Essential Badge Cleansers  Android/iPhone Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/collaboration-techniques-in-video-making-viewership-up/"><u>Collaboration Techniques in Video Making, Viewership Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-restoring-lost-sync-credentials-effectively/"><u>Microsoft To-Do: Restoring Lost Sync Credentials Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-storage-disks-in-windows-os/"><u>Deciphering Storage Disks in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-missed-specification-alert-on-windows-11/"><u>Silence Missed Specification Alert on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/coders-showdown-which-codec-will-dominate-video-quality/"><u>Coders' Showdown  Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-life-as-a-digital-creator-venturing-into-the-vtuber-world/"><u>2024 Approved  Life as a Digital Creator – Venturing Into the VTuber World</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-s17e-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo S17e Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-in-windows/"><u>Mastering Map Integration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/does-quick-subscribe-strategy-boost-audience-growth-in-2024/"><u>Does Quick-Subscribe Strategy Boost Audience Growth, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-bloodthirsty-horror-your-ultimate-8-zombie-game-compilation-for-2024/"><u>[Updated] Bloodthirsty Horror  Your Ultimate 8 Zombie Game Compilation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-low-performance-pitfalls-intel-gpu-resolution/"><u>Steering Clear of Low-Performance Pitfalls: Intel GPU Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-onedrive-errors-an-easy-guide/"><u>Overcoming Windows OneDrive Errors: An Easy Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-imovie-not-available-on-android-no-problem-here-are-the-top-10-alternatives/"><u>Updated In 2024, IMovie Not Available on Android? No Problem! Here Are the Top 10 Alternatives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unlocking-the-power-of-capturing-facetime-calls/"><u>[Updated] 2024 Approved  Unlocking the Power of Capturing FaceTime Calls</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Guide to Reinstalling Microsoft Store Apps
-date: 2024-06-25T17:01:49.320Z
-updated: 2024-06-26T17:01:49.320Z
+date: 2024-07-12T17:33:57.151Z
+updated: 2024-07-13T17:33:57.151Z
 tags:
   - windows10
   - windows11
@@ -56,7 +56,8 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  This way, you install any pending updates for the apps installed through Microsoft Store.
 
-## 4\. Run an SFC and DISM Scan ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+## 4\. Run an SFC and DISM Scan
+![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
  If Microsoft Store still can't install an app after updating it, you might be dealing with corrupted system files. In this case, you should launch Command Prompt with administrative rights and run an SFC and DISM scan.
 
@@ -98,3 +99,40 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-windows-keyboard-entry/"><u>Addressing Non-Operational Windows Keyboard Entry</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transforming-ideas-into-viral-video-hits-on-youtube/"><u>[New] 2024 Approved  Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-compute-with-essential-wintoy-tech/"><u>Accelerate Your Compute with Essential WinToy Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-new-features-the-moment-4-update-added-to-windows-11/"><u>7 New Features the Moment 4 Update Added to Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-fb-chronicles-with-complimentary-extension-tools/"><u>2024 Approved  Elevate Your FB Chronicles with Complimentary Extension Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[New] Extending the Frame  In-Depth SloMo App Assessment, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-misaligned-windows-thx-listening-experience/"><u>Addressing Misaligned Windows THX Listening Experience</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-90-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 90 GT Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719300675775-localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719296840588-end-of-year-sale-windows-10-starting-at-an-insanely-low-612/"><u>End of Year Sale: Windows 10, Starting at an Insanely Low $6.12!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719278644350-briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-frozen-windows-guard-in-windows-11/"><u>Addressing Frozen Windows Guard in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-plan-for-installing-win11-version-22h2-updater/"><u>A Step-by-Step Plan for Installing WIN11 Version 22H2 Updater</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-ram-problems-in-windows-systems-using-vmware/"><u>Addressing RAM Problems in Windows Systems Using VMware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac/"><u>[New] 2024 Approved  From Playback to Printout  Top Five Methods of Documenting Minecraft on a Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-issue-of-battlenet-not-opening-windows/"><u>Addressing the Issue of Battle.net Not Opening Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-the-art-of-audio-modulation-speed-and-pitch-online-guide/"><u>Updated In 2024, Mastering the Art of Audio Modulation Speed & Pitch Online Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-superior-features-added-to-windows-11-feb-update/"><u>9 Superior Features Added to Windows 11, Feb Update</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/a-comprehensive-guide-for-free-video-translator-downloading/"><u>A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-clips-captured-a-no-cost-screencasting-tutorial/"><u>2024 Approved  YouTube Clips, Captured  A No-Cost Screencasting Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absent-file-application-linkages-in-win10/"><u>Addressing Absent File Application Linkages in Win10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-edge-40-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Edge 40?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-missing-rockalldlldll-problem/"><u>Addressing the 'Missing Rockalldll.dll' Problem</u></a></li>
+<li><a href="https://facebook.techidaily.com/achieve-optimal-engagement-5-free-tactics-for-fb-post-scheduling/"><u>Achieve Optimal Engagement: 5 Free Tactics for FB Post Scheduling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-unified-sticky-note-syncing-on-win11/"><u>Addressing Non-Unified Sticky Note Syncing on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-organizing-your-w11-space/"><u>A Step by Step Approach to Organizing Your W11 Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-recognizing-and-addressing-uninstalled-disk-issue-win-11-style/"><u>A Practical Guide to Recognizing & Addressing 'Uninstalled Disk' Issue, Win 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-perfection-in-window-management-via-alomware/"><u>Achieving Perfection in Window Management via AlomWare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-steam-contact-issues-on-win11/"><u>A Step-by-Step Guide to Fixing Steam Contact Issues on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-empty-pages-in-the-explorer-bar/"><u>Addressing Empty Pages in the Explorer Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-incorrect-side-by-side-setup-on-windows-os/"><u>Addressing 'Incorrect Side-by-Side Setup' On Windows OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-charting-the-evolutionary-trajectory-of-mixed-reality/"><u>[New] Charting the Evolutionary Trajectory of Mixed Reality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-spooler-service-error-on-windows-systems/"><u>Addressing Spooler Service Error on Windows Systems</u></a></li>
+</ul></div>

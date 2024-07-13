@@ -1,7 +1,7 @@
 ---
 title: "Convenient Ways: Downloading, Setting Up & Running MSIX Extensions on Windows"
-date: 2024-06-25T16:23:00.480Z
-updated: 2024-06-26T16:23:00.480Z
+date: 2024-07-12T16:49:02.185Z
+updated: 2024-07-13T16:49:02.185Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,8 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
  You can download the appx or msix package from the app developer’s website, GitHub, or directly from the Microsoft Store server using third-party utilities. Here we show how to download appx/appxbundle and msixbundle package files from Microsoft Store and install them on your Windows computer.
 
-## 1\. How to Download Appx/AppxBundle Files Using Adguard ![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
+## 1\. How to Download Appx/AppxBundle Files Using Adguard
+![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
 
  Adguard is a third-party web service and an online link generator for Microsoft Store. It makes it easy to download appx and appxbundle files from the Microsoft Store for sideloading them on your Windows computer.
 
@@ -70,7 +71,8 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  In an ideal situation, you can double-click on the app file package to install it on your Windows computer. However, if that does not work, you can sideload the apps using PowerShell and the official App Installer. Here are the three ways to install the appxbundle and msixbundle file packages on Windows 10 and 11.
 
-### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
+### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File
+![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
@@ -79,7 +81,8 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like [this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
-### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
+### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
+![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
@@ -93,7 +96,8 @@ To install App Installer:
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
 
-### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
+### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
+![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
 
  You can use Windows PowerShell to sideload Microsoft Store app on Windows. This is an efficient way to sideload apps on multiple computers or when you get an error while running the msixbundle or other package files.
 
@@ -136,3 +140,55 @@ To enable Developer Mode on Windows 11 ![enable developer mode windows 11](https
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/solving-the-puzzle-9-techniques-for-flawless-powerpoint-prints-in-windows/"><u>Solving the Puzzle: 9 Techniques for Flawless PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-embellishing-system-tray-with-weather-icons-in-windows-11/"><u>The Complete Guide to Embellishing System Tray with Weather Icons in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-youtube-visibility-with-tubebuddy/"><u>[New] Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2023s-guide-to-android-nine-essential-digital-audio-workstations-for-creative-beats/"><u>New 2023S Guide to Android Nine Essential Digital Audio Workstations for Creative Beats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-entering-virtual-realms-with-lgs-vr-technology/"><u>[Updated] Entering Virtual Realms with LG's VR Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-content-restricted-in-windows-steam/"><u>Unraveling Content Restricted in Windows Steam</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-foundations-of-effective-youtube-broadcasting/"><u>The Foundations of Effective YouTube Broadcasting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unlock-prime-deal-revealed/"><u>Windows 11 Unlock: Prime Deal Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-desktop-drawing-tips-and-tricks-compilation/"><u>Windows Desktop Drawing: Tips & Tricks Compilation</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tip-addressing-winscomrsvc-system-crashes/"><u>Quick Tip: Addressing WinscomrsVc System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-the-task-of-installing-gmaps-on-windows/"><u>Conquering the Task of Installing GMaps on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-better-words-best-windows-software-for-scribes/"><u>Unlock Better Words: Best Windows Software for Scribes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-effortlessly-blur-images-captured-by-iphones-4-methods/"><u>How to Effortlessly Blur Images Captured by iPhones (4 Methods)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determine-disk-technology-in-windows-1011/"><u>Determine Disk Technology in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unreachable-mb-status-on-windows-11-systems/"><u>Tackling Unreachable MB Status on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>2024 Approved  Expertise Unlocked  Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381834367-cep-library-integration/"><u>CEP Library Integration:</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-definitive-step-by-step-process-to-download-your-favorite-spotify-songs-safely/"><u>Updated In 2024, The Definitive Step-by-Step Process to Download Your Favorite Spotify Songs Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-cmd-interface-a-step-by-step-process/"><u>Tailoring CMD Interface: A Step-by-Step Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-your-windows-11-experience-with-nircmd-tips/"><u>Command Your Windows 11 Experience with NirCmd Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-tactics-removing-onedrive-in-file-explorer-window/"><u>Avoidance Tactics: Removing OneDrive in File Explorer Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-erratic-print-device-in-os/"><u>Troubleshooting Erratic Print Device in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-windows-11-key-combinations-for-screenshot-taking/"><u>Discover Windows 11 Key Combinations for Screenshot Taking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-windows-security-pin-made-simple/"><u>Changing Windows Security PIN Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-not-empty-assertion-a-practical-guide-to-x80070091-fixes/"><u>Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-proper-mac-photo-tips-identifying-and-comparing-the-top-5-techniques-for-2024/"><u>[New] Proper Mac Photo Tips  Identifying and Comparing The Top 5 Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-crashing-drivers-on-modern-windows-oses/"><u>Tackling Crashing Drivers on Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284663391-version-compatibility/"><u>Version Compatibility:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-virtual-machine-security-with-vboxs-secure-boot-toggle/"><u>Boost Virtual Machine Security with VBox's Secure Boot Toggle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-using-and-revoking-windows-terminal-focus/"><u>A Practical Approach to Using & Revoking Windows Terminal Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-ps1-win-strategies-with-duckstation/"><u>Unveiling PS1 Win Strategies with Duckstation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-inactive-windows-11-wi-fi-hotspot/"><u>Breathing Life Into Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-potential-of-your-computers-shortcut-keys-for-size-adjustment-on-win11/"><u>Unleash the Potential of Your Computer's Shortcut Keys for Size Adjustment on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-techniques-for-analyzing-drive-space-using-diskusage-commands/"><u>The Essential Techniques for Analyzing Drive Space Using DiskUsage Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-efficiency-crafted-keybinds-for-snippet-pasting-in-windows-11/"><u>Unleashing Efficiency: Crafted Keybinds for Snippet Pasting in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-a25-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A25 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-steps-just-admin-command-prompt-anytime-now/"><u>Skip Steps, Just Admin Command Prompt Anytime Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-revitalize-stuck-and-slow-downloads-in-windows-directory/"><u>Steps to Revitalize Stuck and Slow Downloads in Windows Directory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-methods-for-launching-wordpad-in-windows/"><u>Simplified Methods for Launching WordPad in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[Updated] Building Your Brand with Brilliant Educational Videos  A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-failed-to-launch-lunar-client-windows-message/"><u>Circumventing the Failed to Launch: Lunar Client Windows Message</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-picture-editor-tutorial/"><u>2024 Approved  The Ultimate Picture Editor Tutorial</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>Audiovisual Power  Evaluating Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-lcd-panels-simplified-guide/"><u>Switching LCD Panels Simplified Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-privilege-needed-blue-screen-windows-fix-guide/"><u>Bypassing 'Privilege Needed' Blue Screen: Windows Fix Guide</u></a></li>
+</ul></div>

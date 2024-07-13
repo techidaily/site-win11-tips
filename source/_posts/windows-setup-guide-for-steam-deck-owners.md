@@ -1,7 +1,7 @@
 ---
 title: Windows Setup Guide for Steam Deck Owners
-date: 2024-06-25T16:43:25.026Z
-updated: 2024-06-26T16:43:25.026Z
+date: 2024-07-12T17:12:40.557Z
+updated: 2024-07-13T17:12:40.557Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,8 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -59,7 +60,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on **Releases**. Scroll down to **Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the **amd64.iso** download file.
 
@@ -71,7 +73,8 @@ Jhet Borja/MUO
 
  Head to the **Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select **Windows 11 (multi-edition ISO)**. Click on **Download**, then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -209,7 +212,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -221,7 +225,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4\.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -229,7 +234,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -279,3 +285,59 @@ Jhet Borja/MakeUseOf
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-eradicate-wow-error-132-in-1011/"><u>Winning Strategies: Eradicate WoW Error 132 in 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-admin-denial-in-cmd-window-on-windows-10/"><u>Fixing Admin Denial in CMD Window on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-pro-efficient-docx-to-pdf-conversion-made-simple/"><u>Win 11 Pro: Efficient DOCX to PDF Conversion Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-macos-usability-through-windows-apps/"><u>Boosting macOS Usability Through Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-repairing-razer-synapse-fixes-for-modern-oses/"><u>Swift Repairing: Razer Synapse Fixes for Modern OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-salvage-dormant-wsreset-service-on-windows/"><u>Steps to Salvage Dormant WSReset Service on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-terminal-and-powershell-identifying-what-sets-them-aside/"><u>Windows Terminal and PowerShell: Identifying What Sets Them Aside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-ui-to-prompt-users-for-system-updates/"><u>Tailoring the Windows 11 UI to Prompt Users for System Updates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-fb-video-ad-techniques-the-20-best-tactics-for-2024/"><u>Essential FB Video Ad Techniques  The 20 Best Tactics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-library-no-sync-error-solution/"><u>Tackling Steam Library: No Sync Error Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-depths-of-wacatacbml-signature-and-defense-for-windows-users/"><u>Exploring the Depths of Wacatac.B!ml: Signature & Defense for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-update-processes-windows-os-explored/"><u>Dissecting Update Processes: Windows OS Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-censored-windows-11-theme-options-with-registry/"><u>Unveiling Censored Windows 11 Theme Options with Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-top-windows-platforms-for-ndsswitch-players/"><u>Cutting Edge: Top Windows Platforms for NDS/Switch Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-of-brightness-managers-for-windows-multiscreen-professionals/"><u>The Ultimate List of Brightness Managers For Windows Multiscreen Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-your-program-visibility-win11-style/"><u>Fine-Tuning Your Program Visibility: Win11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-an-educational-ambiance-for-windows/"><u>Creating an Educational Ambiance for Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-user-feedback-with-instagram-story-questions-for-2024/"><u>[Updated] Leveraging User Feedback with Instagram Story Questions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y78plus-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y78+ online without jailbreak</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-sizing-up-your-video-how-aspect-ratio-choices-affect-engagement/"><u>Updated Sizing Up Your Video How Aspect Ratio Choices Affect Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-win11-written-in-devhomes-script/"><u>Deciphering Win11' Written in DevHome's Script</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-text-manipulators-boosting-affects-craft/"><u>2024 Approved  Top 10 Text Manipulators Boosting Affects Craft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-steam-goals-a-complete-walkthrough/"><u>Clearing Steam Goals: A Complete Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-disk-potential-masterful-techniques-in-w10w11/"><u>Unlocking Disk Potential: Masterful Techniques in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-storage-repositioning-in-onedrive-for-win-11/"><u>Tailor-Made Storage Repositioning in OneDrive for Win 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastery-in-making-stunning-discord-pfps-with-minimal-effort-for-2024/"><u>[New] Mastery in Making Stunning Discord Pfps with Minimal Effort for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-whatsapp-status-video-design-software/"><u>New 2024 Approved WhatsApp Status Video Design Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-activatingdeactivating-touch-typing-on-windows/"><u>Tips for Activating/Deactivating Touch Typing on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-access-to-hardware-spaces-via-win-1011-disks/"><u>Efficient Access to Hardware Spaces via Win 10/11 Disks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-approach-automated-password-addition-into-windows-texts/"><u>Streamlined Approach: Automated Password Addition Into Windows Texts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-control-running-task-manager-with-admin-rights-in-win11/"><u>Enhance Control: Running Task Manager with Admin Rights in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-in-win10win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-bypass-chatbot-assistance-in-win-11-key-gen/"><u>Why Bypass Chatbot Assistance in Win 11 Key Gen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-composing-the-unseen-score-trailer-music-magic/"><u>2024 Approved  Composing the Unseen Score  Trailer Music Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content-for-2024/"><u>Unlocking the Power of Thumbnails  Creating Visual Appeal for YouTube Content for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/battery-friendly-tips-minimize-windows-11-apps-impact/"><u>Battery-Friendly Tips: Minimize Windows 11 Apps' Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audacity-error-code-9999-in-windows-1110/"><u>How to Fix the Audacity Error Code 9999 in Windows 11/10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/capturing-attention-from-content-creation-to-commerce-for-2024/"><u>Capturing Attention  From Content Creation to Commerce for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-speech-detection-with-windows/"><u>Streamlining Speech Detection with Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-10-innovations-in-social-media-tiktok-advertising/"><u>[New] Top 10 Innovations in Social Media TikTok Advertising</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workarounds-for-static-energy-controls-on-windows-11/"><u>Workarounds for Static Energy Controls on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[New] From Zero to Hero  Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[New] Everyday Online Chronicles  A Handy Tip for Digging Up FB's Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-system-performance-via-alomware-settings-utility/"><u>Enhance System Performance via AlomWare Settings Utility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-easy-steps-for-sharing-your-xbox-playtime/"><u>[New] 2024 Approved  Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-procuring-immersive-dragon-roar-soundscape/"><u>In 2024, Procuring Immersive Dragon Roar Soundscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-desktop-experience-with-winbubbles-best-practices/"><u>Tailor Your Desktop Experience with WinBubble's Best Practices</u></a></li>
+</ul></div>

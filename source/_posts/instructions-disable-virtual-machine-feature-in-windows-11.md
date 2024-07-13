@@ -1,7 +1,7 @@
 ---
 title: "Instructions: Disable Virtual Machine Feature in Windows 11"
-date: 2024-06-25T16:57:18.145Z
-updated: 2024-06-26T16:57:18.145Z
+date: 2024-07-12T17:28:45.247Z
+updated: 2024-07-13T17:28:45.247Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  You may also need to disable other hypervisor-dependent features, including Device Guard, Credential Guard, and memory integrity feature part of Core Isolation in Windows Security.
 
-## How to Check if Hyper-V Is Running on Windows 11 ![System information hyper has been detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/system-information-hyper-has-been-detected.jpg)
+## How to Check if Hyper-V Is Running on Windows 11
+![System information hyper has been detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/system-information-hyper-has-been-detected.jpg)
 
  You can access the System Information app to determine if the Hyper-V virtualization is running. This is useful if you need to verify the Hyper-V hypervisor status after or before disabling it.
 
@@ -71,7 +72,8 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 5. Windows will uninstall Hyper-V and other features from your system.
 6. Once done, restart your PC to apply the changes.
 
-## 2\. How to Disable Hyper-V Using BCDEDIT ![Disable Hyper-V command prompt BCDedit tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt-bcdedit-tool.jpg)
+## 2\. How to Disable Hyper-V Using BCDEDIT
+![Disable Hyper-V command prompt BCDedit tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt-bcdedit-tool.jpg)
 
  You can disable Hyper-V in boot configuration using the BCDEdit tool. This is useful if you only want to deactivate Hyper-V and not uninstall it completely.
 
@@ -88,7 +90,8 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  Additionally, you can use the BCDEdit tool to perform other advanced tasks, such as [deleting the old boot menu options](https://www.makeuseof.com/tag/delete-boot-menu-options-windows/) and [adding a safe mode shortcut to the Windows 11 boot menu](https://www.makeuseof.com/windows-11-add-safe-mode-boot-menu/).
 
-## 3\. How to Uninstall Hyper-V Using the Command Prompt ![disable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt.jpg)
+## 3\. How to Uninstall Hyper-V Using the Command Prompt
+![disable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt.jpg)
 
  If the Windows Features dialog fails to remove Hyper-V, you can use the Command Prompt to disable the hypervisor. Here's how to do it:
 
@@ -100,7 +103,8 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  After the restart, you can run your games and other hypervisors without the error. If not, open the Windows Features dialog, disable the **Virtual Machine Platform** and **Windows Hypervisor Platform** options, and restart your PC to turn off Hyper-V Hypervisor.
 
-## 4\. How to Disable Hyper-V Using PowerShell ![Powershell disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/powershell-disable-hyper-v.jpg)
+## 4\. How to Disable Hyper-V Using PowerShell
+![Powershell disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/powershell-disable-hyper-v.jpg)
 
  If you prefer PowerShell, use the WindowsOptionalFeature cmdlet to disable Hyper-V in Windows 11\. To do this, [launch PowerShell with admin privileges](https://www.makeuseof.com/windows-open-command-prompt-powershell/) and execute the command. Here's how to do it:
 
@@ -194,3 +198,64 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-11-experience-advanced-run-configuration/"><u>Empower Your Windows 11 Experience: Advanced Run Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-greyed-out-unlock-pin-function-in-windows-11/"><u>Overcoming Greyed Out Unlock Pin Function in Windows 11</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-what-is-still-motion-animation-and-how-does-it-work-in-2024/"><u>New What Is Still Motion Animation and How Does It Work, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>[Updated] Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-funnyframeforge-picfunnyfactory/"><u>[Updated] FunnyFrameForge  PicFunnyFactory</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-window-management-feature-in-windows-11-end-task/"><u>How to Engage Window Management Feature in Windows 11 (End Task)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-instagram-the-essential-guide-to-mastering-reels/"><u>[Updated] In 2024, Navigating Instagram  The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-evolved-tecnos-lighter-more-vibrant-gadgets-at-ifa/"><u>Tech Evolved: Tecno's Lighter, More Vibrant Gadgets at IFA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-amend-out-of-memory-issues-in-hogwarts-adventures/"><u>Strategies to Amend Out of Memory Issues in Hogwarts Adventures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-11-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus 11 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-view-count-prime-hashtags-strategy-for-2024/"><u>[Updated] Elevate View Count  Prime Hashtags Strategy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>Unveiling Elite Choices  A Guide to HDR Cameras</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-steps-to-add-subtitles-in-canva/"><u>Updated In 2024, Steps to Add Subtitles in Canva</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-chrome-freeze-and-blank-screens/"><u>Fixing the Chrome Freeze and Blank Screens</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-7-talking-photo-ai-you-must-try-online-and-download/"><u>Updated 2024 Approved Best 7 Talking Photo AI You Must Try (Online & Download)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-homescreen-activation-in-windows-11/"><u>Troubleshooting Homescreen Activation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snowy-seasonings-sharing-apps-from-microsofts-marketplace/"><u>Snowy Seasonings: Sharing Apps From Microsoft's Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-work-with-multiple-displays-in-win11/"><u>Elevate Your Work with Multiple Displays in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-fixing-lol-drops-in-windows/"><u>Mastering Connectivity: Fixing LoL Drops in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-go-viral-on-youtube-with-minimal-effort/"><u>How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-block-windows-from-default-cmos-access-on-start/"><u>How to Block Windows From Default CMOS Access on Start</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-huawei-p60-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Huawei P60 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-savings-with-w11-pro-key-access-prime-deals/"><u>Elevate Savings with W11 Pro Key: Access Prime Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-suppression-of-windows-11-notifications/"><u>Immediate Suppression of Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-discords-performance-on-your-windows-pc/"><u>Improving Discord's Performance on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-administrator-privileges-denial-in-cmd-prompt/"><u>Solving Administrator Privileges Denial in Cmd Prompt</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50iplus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X50i+ Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-insufficient-access-during-uninstall/"><u>Steps to Overcome Insufficient Access During Uninstall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-storage-without-overwriting-data/"><u>Elevate Windows Storage Without Overwriting Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-frustrations-installation-fixes-for-missing-windows-upgrades/"><u>No More Frustrations! Installation Fixes for Missing Windows Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-connections-how-to-clear-dns-in-steam-settings/"><u>Streamline Connections: How to Clear DNS in Steam Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sound-to-sight-choosing-between-audio-and-video-media/"><u>2024 Approved  From Sound to Sight  Choosing Between Audio and Video Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-internal-portaudio-error-in-windows-10-and-11/"><u>How to Fix Audacity’s Internal PortAudio Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-games-troubleshooting-on-pc-focus-on-login-issues/"><u>Epic Games Troubleshooting on PC: Focus on Login Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windowtop-calculator-stays-on-top/"><u>Ensuring Windowtop Calculator Stays on Top</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jolt-from-hibernation-freeze-on-your-pc/"><u>Jolt From Hibernation Freeze on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-lock-windows-safescreen-state-against-user-change/"><u>How to Lock Windows SafeScreen State Against User Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-of-lock-screen-delay-on-pcs/"><u>Regaining Control of Lock Screen Delay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-taskbar-notifications-in-windows/"><u>Fixing Missing Taskbar Notifications in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quelling-irregular-beats-soundcard-irq-solutions/"><u>Quelling Irregular Beats: Soundcard IRQ Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-archived-footage-boost-video-quality-using-madvr-on-windows/"><u>Reimagine Archived Footage: Boost Video Quality Using MadVR on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-dolby-atmos-installation-in-windows-1111/"><u>Seamless Dolby Atmos Installation in Windows 11/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023-ultimate-guide-sj7s-4k-star-cam-reviews-for-2024/"><u>2023 Ultimate Guide  SJ7's 4K Star Cam Reviews for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unusual-wsl-error-4294967295-on-pcs/"><u>Tackling Unusual WSL Error 4294967295 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-from-s-mode-essential-tips-for-windows-1011/"><u>Transitioning From S Mode: Essential Tips for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-wobbling-keyboard-arrows-in-windows-environments/"><u>Revive Wobbling Keyboard Arrows in Windows Environments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-5-methods-capturing-facebook-stories-on-devices/"><u>[New] Top 5 Methods  Capturing Facebook Stories on Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
+</ul></div>

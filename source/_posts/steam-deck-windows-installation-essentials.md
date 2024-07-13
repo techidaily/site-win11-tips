@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck: Windows Installation Essentials"
-date: 2024-06-25T16:06:29.881Z
-updated: 2024-06-26T16:06:29.881Z
+date: 2024-07-12T16:29:56.998Z
+updated: 2024-07-13T16:29:56.998Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,8 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-## Why You Should Install Windows on Your Steam Deck ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+## Why You Should Install Windows on Your Steam Deck
+![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
 Jhet Borja/MUO
 
@@ -59,7 +60,8 @@ Jhet Borja/MUO
 
  Head to [Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on **Releases**. Scroll down to **Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
-### GNOME Partition Editor (GParted) ISO ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
+### GNOME Partition Editor (GParted) ISO
+![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the **amd64.iso** download file.
 
@@ -71,7 +73,8 @@ Jhet Borja/MUO
 
  Head to the **Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select **Windows 11 (multi-edition ISO)**. Click on **Download**, then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
-### Windows Drivers for Steam Deck ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+### Windows Drivers for Steam Deck
+![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -209,7 +212,8 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-### The Windows 0x80300001 Error ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
+### The Windows 0x80300001 Error
+![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
 
 Jhet Borja/MUO
 
@@ -221,7 +225,8 @@ Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4\.
 
-### Windows Cannot Install Drivers ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
+### Windows Cannot Install Drivers
+![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 Jhet Borja/MUO
 
@@ -229,7 +234,8 @@ Jhet Borja/MUO
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
-### You Can’t Find SteamOS in the Boot Manager ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+### You Can’t Find SteamOS in the Boot Manager
+![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
 
 Jhet Borja/MUO
 
@@ -279,3 +285,53 @@ Jhet Borja/MakeUseOf
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/streamline-connections-how-to-clear-dns-in-steam-settings/"><u>Streamline Connections: How to Clear DNS in Steam Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagine-archived-footage-boost-video-quality-using-madvr-on-windows/"><u>Reimagine Archived Footage: Boost Video Quality Using MadVR on Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamline-your-collection-easy-downloads-of-vimeo-video-files-mp4/"><u>In 2024, Streamline Your Collection  Easy Downloads of Vimeo Video Files (MP4)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-lock-windows-safescreen-state-against-user-change/"><u>How to Lock Windows SafeScreen State Against User Change</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-videos-understanding-time-constraints/"><u>Mastering Instagram Videos  Understanding Time Constraints</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-window-management-feature-in-windows-11-end-task/"><u>How to Engage Window Management Feature in Windows 11 (End Task)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-iphone-hdr-photo-perfection-for-2024/"><u>The Art of iPhone HDR Photo Perfection for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-insufficient-access-during-uninstall/"><u>Steps to Overcome Insufficient Access During Uninstall</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-gt-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme GT 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-understanding-bandicam-key-facts-revealed/"><u>2024 Approved  Understanding Bandicam - Key Facts Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-audacitys-internal-portaudio-error-in-windows-10-and-11/"><u>How to Fix Audacity’s Internal PortAudio Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quelling-irregular-beats-soundcard-irq-solutions/"><u>Quelling Irregular Beats: Soundcard IRQ Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-administrator-privileges-denial-in-cmd-prompt/"><u>Solving Administrator Privileges Denial in Cmd Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-amend-out-of-memory-issues-in-hogwarts-adventures/"><u>Strategies to Amend Out of Memory Issues in Hogwarts Adventures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-master-the-art-of-video-editing-in-obs-studio/"><u>[Updated] Master the Art of Video Editing in OBS Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-chrome-freeze-and-blank-screens/"><u>Fixing the Chrome Freeze and Blank Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-correction-of-error-1132-in-windows-11/"><u>Mastering the Correction of Error 1132 in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snowy-seasonings-sharing-apps-from-microsofts-marketplace/"><u>Snowy Seasonings: Sharing Apps From Microsoft's Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-wobbling-keyboard-arrows-in-windows-environments/"><u>Revive Wobbling Keyboard Arrows in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>2024 Approved  Quick Reference  How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jolt-from-hibernation-freeze-on-your-pc/"><u>Jolt From Hibernation Freeze on Your PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alert-over-opengl-driver-error-resolved-by-nvidias-effort/"><u>Alert Over: OpenGL Driver Error Resolved by Nvidia's Effort</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-suppression-of-windows-11-notifications/"><u>Immediate Suppression of Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x80d03801/"><u>Mastering the Resolution of Error 0X80D03801</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-of-the-best-top-webcam-recording-tools-for-windows-10-for-2024/"><u>New Best of the Best Top Webcam Recording Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-clarity-premium-handheld-stabilizers-selection/"><u>Cinematic Clarity  Premium Handheld Stabilizers Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-your-netflix-video-flow-pc-and-mobile/"><u>[Updated] How to Control Your Netflix Video Flow  PC & Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-greyed-out-unlock-pin-function-in-windows-11/"><u>Overcoming Greyed Out Unlock Pin Function in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-connectivity-fixing-lol-drops-in-windows/"><u>Mastering Connectivity: Fixing LoL Drops in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-block-windows-from-default-cmos-access-on-start/"><u>How to Block Windows From Default CMOS Access on Start</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fix-blurry-facebook-videos-in-smartphones-and-chromebooks/"><u>[Updated] Fix Blurry Facebook Videos in Smartphones & Chromebooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-dolby-atmos-installation-in-windows-1111/"><u>Seamless Dolby Atmos Installation in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unusual-wsl-error-4294967295-on-pcs/"><u>Tackling Unusual WSL Error 4294967295 on PCs</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-make-creative-animation-videos/"><u>In 2024, Make Creative Animation Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-frustrations-installation-fixes-for-missing-windows-upgrades/"><u>No More Frustrations! Installation Fixes for Missing Windows Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-punpixel-producer/"><u>2024 Approved  PunPixel Producer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-discords-performance-on-your-windows-pc/"><u>Improving Discord's Performance on Your Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-of-lock-screen-delay-on-pcs/"><u>Regaining Control of Lock Screen Delay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exitingmycam-entry-to-exceptionalcameras-for-2024/"><u>[New] ExitingMyCam  Entry to ExceptionalCameras for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-dangerous-depths-top-10-roguelite-showdowns/"><u>[Updated] Dangerous Depths  Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-legacy-in-pixels-iphone-x-memories-photography/"><u>In 2024, Legacy in Pixels  IPhone X Memories Photography</u></a></li>
+</ul></div>

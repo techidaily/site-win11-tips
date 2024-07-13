@@ -1,7 +1,7 @@
 ---
 title: "Bridging Network Gaps: Win 10 & 11' Written for Telnet Users"
-date: 2024-06-25T16:59:41.452Z
-updated: 2024-06-26T16:59:41.452Z
+date: 2024-07-12T17:31:30.756Z
+updated: 2024-07-13T17:31:30.756Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,8 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
-## 2\. Enable Telnet Client Using Windows PowerShell ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
+## 2\. Enable Telnet Client Using Windows PowerShell
+![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
 
@@ -56,7 +57,8 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
-## 3\. Install Telnet Client Using Command Prompt ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+## 3\. Install Telnet Client Using Command Prompt
+![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -72,7 +74,8 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-## How to Check the Telnet Client Status on Your PC ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
+## How to Check the Telnet Client Status on Your PC
+![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
@@ -103,3 +106,38 @@ Follow these steps to install Telnet using Command Prompt:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/unblocking-chrome-on-a-windows-desktop/"><u>Unblocking Chrome on a Windows Desktop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-srt-editing-a-comprehensive-mac-guide/"><u>Mastering SRT Editing  A Comprehensive Mac Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-error-code-0x80070570-for-corrupted-items/"><u>Steps to Resolve Windows Error Code 0X80070570 for Corrupted Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-glitches-to-ensure-smooth-gameplay-on-windows-11/"><u>Tackling Steam Glitches to Ensure Smooth Gameplay on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-a2plus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi A2+ Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-a-neat-system-restart-in-windows-11/"><u>The Essential Guide to a Neat System Restart in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-laptop-or-desktops-past/"><u>Unraveling Windows Laptop or Desktop's Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-environment-with-portable-utility-icons/"><u>Streamlining Windows Environment with Portable Utility Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-streamlining-with-new-folder-placement/"><u>Step-by-Step Guide to Streamlining with New Folder Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-0x887a0006-device-hang-fixes/"><u>Resolving Error Code 0X887A0006: Device Hang Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-constant-edge-activity-in-windows-11/"><u>Understanding Constant Edge Activity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-a-closer-look-at-their-differences/"><u>Terminal Vs. PowerShell: A Closer Look at Their Differences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-a34-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy A34 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhinge-your-onedrive-link-from-microsoft-profile-in-windows/"><u>Unhinge Your OneDrive Link From Microsoft Profile in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-installation-privilege-denial-problem/"><u>Solving Windows Installation Privilege Denial Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blanking-and-flashing-windows-11-screen/"><u>Stop Blanking and Flashing Windows 11 Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-zte-axon-40-lite-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best ZTE Axon 40 Lite Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-realism-refined-how-to-use-motion-blur-in-faces-using-picsart/"><u>[New] Realism Refined  How to Use Motion Blur in Faces Using Picsart</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-purposes-/"><u>Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-live-service-disruptions-on-pcs/"><u>Troubleshooting Xbox Live Service Disruptions on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snipmagic-disrupted-methods-to-reset-and-revive/"><u>SnipMagic Disrupted? Methods to Reset and Revive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-windows-minimizing-glitches/"><u>Strategies to Combat Windows Minimizing Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-beginners-handbook-to-free-chessboard-soccer-management/"><u>The Complete Beginner’s Handbook to Free Chessboard Soccer Management</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevating-your-instagram-highlights-with-exquisite-photography/"><u>Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-faster-file-transfers-with-utorrent-on-win-computers/"><u>Unlock Faster File Transfers with uTorrent on Win Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-standing-out-in-a-crowd-the-finest-thumbnail-font-options/"><u>In 2024, Standing Out in a Crowd  The Finest Thumbnail Font Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-the-way-you-search-on-windows-11/"><u>Revamp the Way You Search on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-11-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 11 Pro Smoothly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stifling-windows-restart-requests/"><u>Stifling Windows Restart Requests</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-blaze-2-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Blaze 2 Pro</u></a></li>
+</ul></div>

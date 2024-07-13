@@ -1,7 +1,7 @@
 ---
 title: Step-By Step Solutions for We Encountered an Error During Oculus Install
-date: 2024-06-25T16:34:12.253Z
-updated: 2024-06-26T16:34:12.253Z
+date: 2024-07-12T17:01:55.861Z
+updated: 2024-07-13T17:01:55.861Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,13 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
-## 2\. Run the Oculus Installer File With Administrative Rights ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
+## 2\. Run the Oculus Installer File With Administrative Rights
+![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
-## 3\. Deselect the Use Proxy Server Checkbox ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
+## 3\. Deselect the Use Proxy Server Checkbox
+![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
@@ -40,7 +42,8 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
-## 5\. Turn Off the Windows Firewall ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
+## 5\. Turn Off the Windows Firewall
+![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
@@ -87,3 +90,38 @@ C:\Users\<User Folder>\AppData`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/eliminate-cortana-assistance-feature/"><u>Eliminate Cortana Assistance Feature</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>Updated 2024 Approved A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-stop-windows-from-launching-spotify/"><u>Guide to Stop Windows From Launching Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-malware-scanners-cpuram-demands/"><u>How to Minimize Malware Scanner's CPU/RAM Demands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-multiple-display-devices-in-windows-11/"><u>How to Configure Multiple Display Devices in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-there-are-no-more-files-error-on-windows-10-and-11/"><u>How to Fix the “There Are No More Files” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-intelligence-microsofts-new-ai-helper-for-windows-11-taskbar/"><u>Integrating Intelligence: Microsoft's New AI Helper for Windows 11 Taskbar</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-the-visionary-vanguard-high-subscribers/"><u>In 2024, In the Visionary Vanguard  High Subscribers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-digital-video-trailer-development-solutions-for-2024/"><u>New Digital Video Trailer Development Solutions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-media-creator-tool-errors-winerror-0x8007043c/"><u>How to Solve Media Creator Tool Errors: WinError 0X8007043C</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expertly-curated-5-best-android-screen-capture-options/"><u>Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-online-archives-for-graffiti-fonts/"><u>2024 Approved  Elite Online Archives for Graffiti Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-locate-the-lost-feature-in-windows-11/"><u>Enhance Your Experience: Locate the Lost Feature in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-recognized-hdd-problems-in-a-step-by-step-windows-11-process/"><u>Fixing Non-Recognized HDD Problems in a Step-by-Step Windows 11 Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-utorrent-installation-hiccups-in-windows-78/"><u>Handling uTorrent Installation Hiccups in Windows 7/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-error-code-31-in-windows-os/"><u>Mastering the Art of Fixing Error Code 31 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-crash-of-windows-update-error-x712/"><u>Fixing the Crash of Windows Update Error X712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-install-unsupported-windows-packages/"><u>Guidelines to Install Unsupported Windows Packages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-flushed-to-functional-8-steps-for-desktop-color-correction/"><u>From Flushed to Functional: 8 Steps for Desktop Color Correction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-hyper-v-in-windows-11/"><u>How to Enable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-camcorder-tech-for-shooting-sports/"><u>Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-recordings-best-no-fee-windows-editors/"><u>Master Your Recordings: Best No-Fee Windows Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-utility-windows-reliability-and-performance-monitors/"><u>Examining Utility: Windows' Reliability & Performance Monitors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-review-comparing-screen-recorders-for-professionals/"><u>[New] The Ultimate Review  Comparing Screen Recorders for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-listenleaders-pursuing-better-podcasts/"><u>[New] ListenLeaders  Pursuing Better Podcasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>2024 Approved  Grandview Media  Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-and-mending-error-code-0x8007251d-a-guide/"><u>Explaining and Mending Error Code 0X8007251d: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-phone-call-basics-with-intel-unison/"><u>Mastering Windows 11: Phone Call Basics with Intel Unison</u></a></li>
+</ul></div>

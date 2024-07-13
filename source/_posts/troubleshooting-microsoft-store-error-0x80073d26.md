@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Microsoft Store Error 0X80073D26
-date: 2024-06-25T17:01:19.846Z
-updated: 2024-06-26T17:01:19.846Z
+date: 2024-07-12T17:33:23.424Z
+updated: 2024-07-13T17:33:23.424Z
 tags:
   - windows10
   - windows11
@@ -77,17 +77,20 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
 
-### Repair System Files ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
+### Repair System Files
+![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
-### Set Windows to Clean Boot ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
+### Set Windows to Clean Boot
+![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
-### Reinstall the Microsoft Store ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
+### Reinstall the Microsoft Store
+![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -119,3 +122,49 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Oppo Reno 9A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-your-game-fixing-lol-connection-failure/"><u>Bringing Back Your Game: Fixing LoL Connection Failure</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-images-androidandiphones-top-10-freeware-overlays/"><u>Enhance Images  Android&iPhone's Top 10 Freeware Overlays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-text-hotkeys-setup-for-custom-snip-tapping-in-win11/"><u>Advanced Text Hotkeys Setup for Custom Snip Tapping in Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audiophiles-guide-to-mac-voice-recorders-the-cream-of-the-crop/"><u>Audiophile's Guide to Mac Voice Recorders  The Cream of the Crop</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-streamline-your-video-collection-best-mp4-tag-editors-for-2024/"><u>New Streamline Your Video Collection Best MP4 Tag Editors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>2024 Approved  Amplify Your Voice on Twitter  Top Video Uploading Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boost-your-income-with-effective-vimeo-monetization-techniques/"><u>[Updated] In 2024, Boost Your Income with Effective Vimeo Monetization Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[New] Pro's Verdict  4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-common-nvidia-geforce-error-x0001-on-w10w11/"><u>Addressing Common Nvidia GeForce Error X0001 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-pc-data-collection-using-everywhereapp/"><u>Accelerated PC Data Collection Using EverywhereApp</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-the-power-of-pause-tips-for-instas-next-viral-slow-motion-reels/"><u>Unleash the Power of Pause  Tips for Insta's Next Viral Slow-Motion Reels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-and-fixing-closed-caption-failures-in-windows-11/"><u>Avoiding and Fixing Closed Caption Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-5-different-animation-styles-a-simple-but-complete-guide/"><u>In 2024, 5 Different Animation Styles A Simple but Complete Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-clicks-big-grins-the-kinemaster-way/"><u>[New] In 2024, Quick Clicks, Big Grins  The KineMaster Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hidden-recycling-bin-icon-on-windows-11/"><u>Activating Hidden Recycling Bin Icon on Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-elite-set-precision-tiktok-extractor-tools-watermark-free/"><u>In 2024, Elite Set  Precision TikTok Extractor Tools (Watermark-Free)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-note-12-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi Note 12 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-alternative-text-to-enhance-your-fb-profile/"><u>Leveraging Alternative Text to Enhance Your Fb Profile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/altered-realities-image-warping-insights/"><u>Altered Realities  Image Warping Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-speech-file-extract-and-critical-assessment/"><u>[New] 2024 Approved  Speech File Extract & Critical Assessment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-storage-disks-in-windows-os/"><u>Deciphering Storage Disks in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-desktop-arrangement-including-this-pc-icons/"><u>Efficient Desktop Arrangement: Including 'This PC' Icons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-to-smooth-volume-increase/"><u>In 2024, Quick Start to Smooth Volume Increase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-notch-meme-editing-suite/"><u>[New] Top-Notch Meme Editing Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-remedying-0x80072af9-issues/"><u>Breaking Down and Remedying 0X80072AF9 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deception-secrets-to-identifying-genuine-windows-store-apps/"><u>Beware Deception: Secrets to Identifying Genuine Windows Store Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-stand-out-on-discord-choosing-striking-banners-and-profile-graphics/"><u>[Updated] In 2024, Stand Out on Discord  Choosing Striking Banners & Profile Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-craft-stellar-youtube-thumbnails-with-these-8-software-alternatives/"><u>[Updated] 2024 Approved  Craft Stellar YouTube Thumbnails with These 8 Software Alternatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024s-superior-camera-gear-roundup/"><u>2024'S Superior Camera Gear Roundup</u></a></li>
+</ul></div>

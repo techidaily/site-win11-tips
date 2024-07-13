@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'This PC Can't Run' Post-Windows 11 Setup
-date: 2024-06-25T16:18:51.920Z
-updated: 2024-06-26T16:18:51.920Z
+date: 2024-07-12T16:44:15.991Z
+updated: 2024-07-13T16:44:15.991Z
 tags:
   - windows10
   - windows11
@@ -71,7 +71,8 @@ Additionally, you may also see the following error:
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
-## 1\. Enable Secure Boot in Windows 10 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
+## 1\. Enable Secure Boot in Windows 10
+![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
@@ -152,3 +153,70 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essence-of-timelessness-instagrams-slow-motion-guide-for-2024/"><u>[New] The Essence of Timelessness  Instagram's Slow-Motion Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streaming-success-recorded-google-chats/"><u>In 2024, Streaming Success  Recorded Google Chats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-windows-in-minutes-with-handy-shorthand/"><u>Ace Windows in Minutes with Handy Shorthand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-handy-windows-10-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 10 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-reverse-rewind-repeat-a-beginners-guide-to-tiktok-video-editing-for-2024/"><u>Updated Reverse, Rewind, Repeat A Beginners Guide to TikTok Video Editing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-github-desktop-in-windows-1011/"><u>A Comprehensive Guide to GitHub Desktop in Windows 10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-review-of-the-latest-picsart-updates/"><u>[New] A Comprehensive Review of the Latest PicsArt Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-harmony-with-googles-cross-platform-tool/"><u>Achieving Harmony with Google's Cross-Platform Tool</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-boosting-visibility-on-tiktok-with-smart-hashtags/"><u>[New] In 2024, Boosting Visibility on TikTok with Smart Hashtags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-alter-program-dimensions-using-pc-keys/"><u>A Step-by-Step Guide to Alter Program Dimensions Using PC Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-strategies-to-extend-your-hard-drives-lifespan/"><u>6 Strategies to Extend Your Hard Drive's Lifespan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719315730924-avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-the-art-of-sourcing-quiet-melodic-tunes-for-2024/"><u>New Mastering the Art of Sourcing Quiet, Melodic Tunes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-pc-interaction-with-comprehensible-win11-navkeys/"><u>Accelerate PC Interaction with Comprehensible Win11 NavKeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-zero-x-in-the-mail-application-of-windows/"><u>Addressing Error Code Zero X in the Mail Application of Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/action-plan-conquering-error-0x800700e1-in-windows-11-systems/"><u>Action Plan: Conquering Error 0X800700E1 in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-fix-a-grayed-out-screen-saver-settings-on-windows/"><u>4 Ways to Fix a Grayed Out Screen Saver Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-straightforward-steps-to-find-windows-ram-details/"><u>5 Straightforward Steps to Find Windows RAM Details</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-essential-guide-to-4-premium-fullscreen-software/"><u>[Updated] The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c67-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C67 4G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-printer-speedy-solutions/"><u>Accelerating Windows Printer: Speedy Solutions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-create-snapchat-lenses-easily-2-methods/"><u>In 2024, How to Create Snapchat Lenses Easily  2 Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-blue-band-promise-made-easy-snapping-strategies/"><u>The Blue Band Promise Made Easy  Snapping Strategies</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/legends-awakened-a-library-of-mythical-creatures-sounds-for-2024/"><u>Legends Awakened A Library of Mythical Creatures Sounds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fantasy-in-full-view-vr-cinemascape/"><u>[Updated] Fantasy in Full View  VR Cinemascape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-charting-tracks-on-spotify/"><u>In 2024, Top Charting Tracks on Spotify</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-flawless-frame-capturer-kit/"><u>[New] In 2024, Flawless Frame Capturer Kit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-winget-not-working-on-windows-11/"><u>8 Ways to Fix Winget Not Working on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719367958537-adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-aggregate-video-chat-and-multi-user-platforms/"><u>Best Aggregate Video Chat & Multi-User Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-issues-with-googles-nearby-sharing-on-desktop-pc/"><u>Addressing Issues with Google's Nearby Sharing on Desktop PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-compare-and-contrast-leading-online-and-desktop-gif-tools/"><u>In 2024, Compare & Contrast  Leading Online & Desktop GIF Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-12-vlogger-friendly-cameras-unveiled/"><u>[Updated] Top 12 Vlogger-Friendly Cameras Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blueprint-for-a-thriving-portfolio-in-graphics/"><u>Blueprint for a Thriving Portfolio in Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-administrative-control-settings-in-windows-11-devices/"><u>Addressing Administrative Control Settings in Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-obs-studios-failed-to-connect-to-server-error-in-windows/"><u>7 Ways to Fix OBS Studio's Failed to Connect to Server Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-razers-in-the-synapse-interface-of-win-11/"><u>Addressing Absence of Razers in the Synapse Interface of Win 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>2024 Approved Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719364066200-microsofts-helpers-quick-fixes-for-window-woes/"><u>Microsoft's Helpers: Quick Fixes for Window Woes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-creative-edge-filmmakers-blueprint-for-captivating-anime-subscribers-filmora/"><u>In 2024, The Creative Edge  Filmmaker's Blueprint for Captivating Anime Subscribers (Filmora)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-operational-utorrent-installer-on-pcs/"><u>Addressing Non-Operational uTorrent Installer on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266023156-zero-cost-local-gpt-clones-gpt4alls-window-solution/"><u>Zero-Cost Local GPT Clones: GPT4All's Window Solution.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719266840560-prevent-unwanted-updates-on-your-pc-today/"><u>Prevent Unwanted Updates on Your PC Today!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-compositing-using-blending-modes/"><u>[Updated] Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c12-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C12</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-queries-with-everythingapp/"><u>Accelerate Your PC Queries with EverythingApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-open-the-print-management-tool-in-windows-11/"><u>9 Ways to Open the Print Management Tool in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-and-amending-system-call-failures-in-modern-windows/"><u>Addressing and Amending System Call Failures in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customize-win11-mouse-controls/"><u>A Guide to Customize Win11 Mouse Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ways-to-clear-the-microsoft-defender-protection-history-on-windows-10-and-11/"><u>4 Ways to Clear the Microsoft Defender Protection History on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-checksum-error-in-winrar/"><u>6 Ways to Fix the Checksum Error in WinRAR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/abort-windows-over-the-top-contrast-mode/"><u>Abort Windows' Over-the-Top Contrast Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-renovated-widget-display-tool-for-windows-11/"><u>Accessing Renovated Widget Display Tool for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-shadow-copy-procedures/"><u>Addressing Failed Shadow Copy Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-windows-11-home-hub-guide/"><u>Activate Windows 11 Home Hub: Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-your-path-to-success-in-youtubes-earnings-system/"><u>2024 Approved  Charting Your Path to Success in YouTube's Earnings System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-locate-elusive-gpeditmsc-on-pc/"><u>7 Ways to Locate Elusive 'Gpedit.msc' On PC</u></a></li>
+</ul></div>

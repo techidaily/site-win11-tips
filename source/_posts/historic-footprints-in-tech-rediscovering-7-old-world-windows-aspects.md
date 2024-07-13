@@ -1,7 +1,7 @@
 ---
 title: "Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects"
-date: 2024-06-25T16:15:47.502Z
-updated: 2024-06-26T16:15:47.502Z
+date: 2024-07-12T16:40:41.288Z
+updated: 2024-07-13T16:40:41.288Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  Here are some ancient Windows features you can still find and use in Windows 11\. Some have been hanging around, unchanged, since the late 80s.
 
-## 1\. Command Prompt ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
+## 1\. Command Prompt
+![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
 
  The Command Prompt, or cmd.exe, was the default command-line tool in Windows. It was first introduced over 35 years ago, way back in 1987, with the Windows NT version introduced in 1993\. Although its look has much improved over the years, it is essentially the same tool that appeared in Windows XP.
 
@@ -28,7 +29,8 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  Check out our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-## 2\. The Run Dialog ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
+## 2\. The Run Dialog
+![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -36,19 +38,22 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  Be sure to check out the [essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-## 3\. Disk Management ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
+## 3\. Disk Management
+![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
 
  There are several powerful [Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
-## 4\. The Control Panel ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
+## 4\. The Control Panel
+![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
 
  The Control Panel has been a part of the OS since Windows 1.0\. But it was in Windows XP that it became close to how it remains today, with better navigation and section icons. It began to be depreciated more than 10 years ago in Windows 8\. This depreciation accelerated in Windows 10 with the introduction of the modern Settings app. Maybe Windows 12 will finally have a single location for all user settings.
 
-## 5\. Disk Clean-up ![The Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-cleanup.jpg)
+## 5\. Disk Clean-up
+![The Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-cleanup.jpg)
 
  Windows 11 added several options for cleaning up your storage to the main settings app. The ability to remove temporary files, optimization files, thumbnails, and other detritus is all there. All of these were previously deleted through Disk Clean-up, seemingly making it redundant. And yet Disk Clean-up is still a part of the OS.
 
@@ -58,7 +63,8 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  If you're running out of storage on your Windows computer, check out [how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
 
-## 6\. The Character Map ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
+## 6\. The Character Map
+![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
 
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
 
@@ -66,7 +72,8 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  The fact that the Character Map has never been particularly easy or intuitive to use adds further confusion. If it is no longer needed, get rid of it. If it's still used, improve it. It doesn't strike us as challenging to update, but perhaps it's just at the bottom of Microsoft's to-do list.
 
-## 7\. File Explorer ![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
+## 7\. File Explorer
+![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
 
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
 
@@ -93,3 +100,42 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-apps-to-transform-vtuber-speech-patterns/"><u>2024 Approved  Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-with-style-customizing-themes-for-an-improved-win11-experience/"><u>Decorate with Style: Customizing Themes for an Improved Win11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-management-follies-steering-clear-of-windows-11-errors/"><u>File Management Follies: Steering Clear of Windows 11 Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-play-your-favorite-oldschool-pc-games-with-dosbox-x/"><u>How to Play Your Favorite Oldschool PC Games With DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-down-compilation-times-with-android-studio-tweaks-on-windows/"><u>Drive Down Compilation Times with Android Studio Tweaks on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-pathway-to-create-high-quality-audio-cds-from-mp3-files-using-imgburn-windows/"><u>Easy Pathway to Create High Quality Audio Cds From MP3 Files Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-proficiency-decoding-errors-in-windows-through-advanced-troubleshooting-techniques/"><u>Command Line Proficiency: Decoding Errors in Windows Through Advanced Troubleshooting Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-guide-to-leveraging-videos-in-social-media-ads-for-2024/"><u>[New] Essential Guide to Leveraging Videos in Social Media Ads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-stuck-exe-files-on-windows-platform/"><u>Easing Up Stuck EXE Files on Windows Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-more-value-black-friday-offers-at-612-win10/"><u>Get More Value: Black Friday Offers at $6.12 Win10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/which-screencasting-tool-takes-the-lead-bandicam-vs-camtasia/"><u>Which Screencasting Tool Takes the Lead? - Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-iphones-calendar-into-windows-os/"><u>Automating iPhone's Calendar Into Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo V30 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-leveraging-desktop-for-maximum-tiktok-exposure-for-2024/"><u>[Updated] Leveraging Desktop for Maximum TikTok Exposure for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-breaking-boundaries-on-twittersphere-new-hits/"><u>[New] 2024 Approved  Breaking Boundaries on Twittersphere  New Hits</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-smart-8-hd-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-offline-lsa-message-in-windows-os/"><u>Fixing the Offline LSA Message in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-widget-notifications-on-windows-11/"><u>How to Manage Widget Notifications on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-oculus-quest-to-function-in-windows-vr/"><u>Customizing Oculus Quest to Function in Windows VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-stuck-windows-enter-mechanism/"><u>Addressing Stuck Windows 'Enter' Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-windows-error-0xc00000f-efficiently/"><u>Expert Tips to Resolve Windows Error 0Xc00000f Efficiently</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-format-to-format-the-12-best-audio-converters-for-a-smooth-transition-for-2024/"><u>New From Format to Format The 12 Best Audio Converters for a Smooth Transition for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dial-up-decibels-the-top-4-programs-to-increase-volume-on-windows/"><u>Dial Up Decibels: The Top 4 Programs to Increase Volume on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-the-login-loop-in-windows-1011/"><u>Hacking the Login Loop in Windows 10/11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/empower-your-win11-experience-with-expert-led-zoom-insights-for-2024/"><u>Empower Your Win11 Experience with Expert-Led Zoom Insights for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-straightforward-screen-capture-program/"><u>[New] Straightforward Screen Capture Program</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-guide-to-zero-cost-win-media-tools/"><u>Explore the Ultimate Guide to Zero-Cost Win Media Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-component-services-access-in-windows-11/"><u>Demystifying Component Services Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-disabled-volume-adjustment-on-windows/"><u>Correct Disabled Volume Adjustment on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excellent-windows-apps-transforming-videos/"><u>Excellent Windows Apps Transforming Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-windows-11-language-line-from-status-bar/"><u>Hide Windows 11 Language Line From Status Bar</u></a></li>
+</ul></div>

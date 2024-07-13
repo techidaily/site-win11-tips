@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Defender's Error 0X80004004
-date: 2024-06-25T16:55:54.493Z
-updated: 2024-06-26T16:55:54.493Z
+date: 2024-07-12T17:27:08.684Z
+updated: 2024-07-13T17:27:08.684Z
 tags:
   - windows10
   - windows11
@@ -74,7 +74,8 @@ Here is how you can do that:
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can [run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
-### Install the Update Manually ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
+### Install the Update Manually
+![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on [the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
@@ -106,3 +107,52 @@ Here is how you can do that:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-awful-chrome-glitches-on-microsoft-os/"><u>Fixing Awful Chrome Glitches on Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-profits-via-windows-11-pro-key-offers/"><u>Elevate Profits via Windows 11 Pro Key Offers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-old-pcs-with-windows-11-version-22h2/"><u>Ignite Old PCs with Windows 11 Version 22H2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-14-pro-max-5-ways-to-get-into-a-locked-iphone-14-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 14 Pro Max? 5 Ways to get into a Locked iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-recover-faulty-windows-file-organizer/"><u>Methods to Recover Faulty Windows File Organizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-christmas-vistas-with-window-artistry/"><u>Captivating Christmas Vistas with Window Artistry</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beyond-the-home-page-top-27-competitors-to-youtubes-dominance-for-2024/"><u>Beyond the Home Page  Top 27 Competitors to YouTube's Dominance for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ideal-web-microphone-solutions/"><u>[New] In 2024, Ideal Web Microphone Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-become-a-video-virtuoso-on-tiktok-by-leveraging-template-artistry/"><u>In 2024, Become a Video Virtuoso on TikTok by Leveraging Template Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-remedying-0x80072af9-issues/"><u>Breaking Down and Remedying 0X80072AF9 Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-nullified-network-visibility-in-windows/"><u>Navigating Through Nullified Network Visibility in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-review-by-inclusive-experts/"><u>2024 Approved  Comprehensive Review by Inclusive Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-the-spectacular-features-of-dells-p2715q-display/"><u>[Updated] Breaking Down the Spectacular Features of Dell's P2715Q Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-solution-for-0x80072af9-issue/"><u>Mastering Solution for 0X80072AF9 Issue</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-tools-to-download-your-favorite-pinterest-videos-for-nothing-for-2024/"><u>Leading Tools to Download Your Favorite Pinterest Videos for Nothing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-disabling-onedrive-icon-on-windows-11-explore/"><u>Strategies for Disabling OneDrive Icon on Windows 11 Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-to-do-restoring-lost-sync-credentials-effectively/"><u>Microsoft To-Do: Restoring Lost Sync Credentials Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-spooler-not-running-issue-in-microsoft-os/"><u>Correcting Spooler Not Running Issue in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>[Updated] A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-your-game-fixing-lol-connection-failure/"><u>Bringing Back Your Game: Fixing LoL Connection Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-storage-disks-in-windows-os/"><u>Deciphering Storage Disks in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-in-windows/"><u>Mastering Map Integration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-functional-read-aloud-in-office-suite-word/"><u>Fixing Non-Functional Read Aloud in Office Suite (Word)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implications-of-removing-windows-11-taskbar-chat-on-your-usage-experience/"><u>Implications of Removing Window's 11 Taskbar Chat on Your Usage Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-best-of-both-worlds-free-paid-film-apps-for-iphones-for-2024/"><u>[New] Best of Both Worlds  Free, Paid Film Apps for iPhones for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>[Updated] In 2024, IPhone Video Editors  Cameo Vs. FilmoraGo Showdown</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>2024 Approved  SDR Upgrade Manual  Unveiling the Secrets of HDR Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-discord-install-failure/"><u>Overcoming Windows 11 Discord Install Failure</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-key-elements-of-a-high-impact-tiktok-promotion/"><u>In 2024, The Key Elements of a High-Impact TikTok Promotion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-group-policies-in-windows-via-tripartite-lens/"><u>Exploring Group Policies in Windows via Tripartite Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-desktop-arrangement-including-this-pc-icons/"><u>Efficient Desktop Arrangement: Including 'This PC' Icons</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unmatched-clarity-our-choice-of-the-top-10-camera-lenses-for-2024/"><u>[New] Unmatched Clarity  Our Choice of the Top 10 Camera Lenses for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-network-drive-management-with-ease-and-security-win11/"><u>Master Network Drive Management with Ease and Security (Win11)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-xiaomi-redmi-k70-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-windows-outlook-conditional-rules/"><u>Overcoming Unresponsive Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: The Complete DIMS Handbook for Windows 11 Repair
-date: 2024-06-25T16:13:34.852Z
-updated: 2024-06-26T16:13:34.852Z
+date: 2024-07-12T16:38:07.514Z
+updated: 2024-07-13T16:38:07.514Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,8 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
  If the image is repairable, you can use the RestoreHealth command to use Windows Update to fix any corruption. However, for a non-repairable image, you may need to perform a clean install to fix your computer.
 
-## Perform an Advanced System Image Scan with the ScanHealth Command ![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
+## Perform an Advanced System Image Scan with the ScanHealth Command
+![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
 
  You can use the DISM ScanHealth command to perform an advanced scan of your Windows 11 system image. This will check your system for component store corruption and save the report to a log file.
 
@@ -60,7 +61,8 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 3. This process may take some time to complete. Once done, it will report any issues with the component store.
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
 
-## Run the DISM RestoreHealth Command to Repair the Windows System Image ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
+## Run the DISM RestoreHealth Command to Repair the Windows System Image
+![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
 
  The DISM RestoreHealth command uses Windows Update to provide the necessary files to fix file corruption and repair the Windows 11 system image. However, you must be connected to the internet so that the DISM tool can download and restore the files needed to perform a repair.
 
@@ -87,7 +89,8 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 4. In the above command, replace the placeholder **:I** with your installation media drive letter. Also, the **LimitAccess** command is an optional parameter that restricts DISM access to the specified source and prevents it from using **Windows Update** as a repair source.
 5. Once the process is complete, you can close Command Prompt and run the **System File Checker** utility to complete the repair process.
 
-## Repair Your Windows Installation Using the System File Checker (SFC) Utility ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+## Repair Your Windows Installation Using the System File Checker (SFC) Utility
+![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
 
  Once you have successfully repaired your Windows 11 system image using the DISM RestoreHealth command, run the System File Checker (SFC) utility. It will scan your Windows installation for system file corruption and fix them automatically.
 
@@ -117,3 +120,56 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-fixing-steam-contact-issues-on-win11/"><u>A Step-by-Step Guide to Fixing Steam Contact Issues on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11-widget-bar-features/"><u>Activating Windows 11 Widget Bar Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-exclusive-access-to-premium-playlists-on-mobile-devices/"><u>[Updated] Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-spark-go-2023-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Spark Go (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>In 2024, A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi A2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719298161302-overcoming-grayed-out-screensaver-in-win-os-top-fixes/"><u>Overcoming Grayed-Out Screensaver in Win OS: Top Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-the-most-ignored-yet-crucial-windows-11-features/"><u>A Guide to the Most Ignored Yet Crucial Windows 11 Features</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-imageintensifymax7-boosting-pixels-magnificently/"><u>2024 Approved  ImageIntensifyMax7  Boosting Pixels Magnificently</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos/"><u>Updated The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-up-to-date-guide-to-social-media-aspect-ratio/"><u>2024 Approved Up-to-Date Guide to Social Media Aspect Ratio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-faulty-volume-adjustment-sliders/"><u>Addressing Faulty Volume Adjustment Sliders</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secure-your-tiktok-memories-gallery-transfer-for-phones/"><u>[Updated] In 2024, Secure Your TikTok Memories  Gallery Transfer for Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[New] 2024 Approved  The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-access-boosting-morning-routine-and-note-openings/"><u>Accelerated Access: Boosting Morning Routine & Note Openings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-frozen-windows-guard-in-windows-11/"><u>Addressing Frozen Windows Guard in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tricks-to-correct-your-pcs-pink-screen-misstep/"><u>5 Tricks to Correct Your PC's Pink Screen Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719275215540-reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-adventures-which-camera-reigns-supreme-gopro-vs-virb/"><u>Capturing Adventures  Which Camera Reigns Supreme? GoPro Vs. VIRB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>[Updated] In 2024, Video Revenue Generation on Facebook  Tactics for Financial Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-battery-health-monitoring-set-up-full-charge-indicators-in-win11/"><u>Accelerating Battery Health Monitoring: Set Up Full Charge Indicators in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-establish-java-development-kit-in-windows-11/"><u>A Complete Walkthrough to Establish Java Development Kit in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-xr-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone XR Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activation-procedure-for-windows-photo-viewer-in-win11/"><u>Activation Procedure for Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719306931208-opening-troubled-chrome-remediation-tips-for-win11-users-here/"><u>Opening Troubled Chrome: Remediation Tips for Win11 Users Here.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719370071964-resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-missing-rockalldlldll-problem/"><u>Addressing the 'Missing Rockalldll.dll' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719278644350-briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-handy-tutorial-to-combat-xfffeeee-in-windows/"><u>A Handy Tutorial to Combat XFFFEEEE in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>[Updated] How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laugh-ledger-pinpointing-prime-meme-generators/"><u>[Updated] Laugh Ledger  Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-potential-androidandioss-top-free-overlay-tools-guide-for-2024/"><u>Unlock Potential  Android&iOS's Top Free Overlay Tools Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-beginners-path-to-mastering-mouse-controls-on-win11/"><u>A Beginner's Path to Mastering Mouse Controls on Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-practices-for-designing-an-engaging-youtube-teaser/"><u>[New] Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steams-offline-content-servers-problem-in-windows/"><u>Addressing Steam's Offline Content Servers Problem in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-quick-ways-to-disable-usb-selective-suspend-in-windows-11/"><u>3 Quick Ways to Disable USB Selective Suspend in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-visual-journey-through-pc-games-snapping-the-best/"><u>[New] In 2024, A Visual Journey Through PC Games - Snapping the Best</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme GT 5 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360119482-revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-your-footage-techniques-for-exceptional-instagram-videos-for-2024/"><u>[New] Transform Your Footage  Techniques for Exceptional Instagram Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284654722-software-environment-setup/"><u>Software Environment Setup:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11s-fast-assist-procedure/"><u>Activating Windows 11’S Fast Assist Procedure</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-active-presenter-8-review-is-it-the-best-screen-recorder/"><u>In 2024, Active Presenter 8 Review  Is It The Best Screen Recorder?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-improvement-for-intel-uhd520/"><u>Quick Improvement for Intel UHD520</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tips-to-tell-if-your-pc-needs-restarting/"><u>5 Tips to Tell if Your PC Needs Restarting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-manual-for-ws11s-software-reset/"><u>A Step-By-Step Manual for WS11's Software Reset</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-optimum-ssd-speed-on-windows-via-ssdfresh/"><u>Achieve Optimum SSD Speed on Windows via SSDFresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guidetosettingupdarkinterfaceonwinnotepad/"><u>A GuideToSettingUpDarkInterfaceOnWinNotepad</u></a></li>
+</ul></div>

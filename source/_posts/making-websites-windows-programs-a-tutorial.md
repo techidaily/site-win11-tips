@@ -1,7 +1,7 @@
 ---
 title: "Making Websites Windows Programs: A Tutorial"
-date: 2024-06-25T16:55:29.098Z
-updated: 2024-06-26T16:55:29.098Z
+date: 2024-07-12T17:26:39.277Z
+updated: 2024-07-13T17:26:39.277Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,8 @@ To install a website and app using Microsoft Edge:
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
 
-### Uninstall An App in Microsoft Edge ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
+### Uninstall An App in Microsoft Edge
+![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also [remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
@@ -111,7 +112,8 @@ To install a website as an app using WebCatalog:
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
 
-## 4\. Convert Websites to Windows Apps Using Web2Desk ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
+## 4\. Convert Websites to Windows Apps Using Web2Desk
+![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
 
@@ -152,3 +154,51 @@ To create a desktop app using Web2Desk:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-snipping-tool-with-a-simple-key-combo-on-win-11/"><u>Activating Snipping Tool with a Simple Key Combo on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-of-altering-window-11-admin-identity/"><u>Unveiling the Process of Altering Window 11 Admin Identity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-improving-windows-11s-trouble-resolution-tools/"><u>Bridging Gaps: Improving Windows 11'S Trouble Resolution Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-creating-auditory-immersion-with-canvas-soundscape-tools/"><u>In 2024, Creating Auditory Immersion with Canva's Soundscape Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-30-awesome-tiktok-inspired-finds-on-amazon-dont-miss-them-for-2024/"><u>[New] 30 Awesome TikTok-Inspired Finds on Amazon – Don’t Miss Them for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-9-irritating-windows-11-layouts/"><u>Unraveling 9 Irritating Windows 11 Layouts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-strategies-uncovering-the-veiled-elements-of-social-media/"><u>[New] Insta Strategies  Uncovering the Veiled Elements of Social Media</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-quick-win-strategies-for-replying-on-discord-platforms/"><u>[Updated] In 2024, Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-success-starting-windows-and-accessing-notepad-quickly/"><u>Sync Success: Starting Windows and Accessing Notepad Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-creativity-best-animation-software-for-students-and-teachers/"><u>New Unleash Creativity Best Animation Software for Students and Teachers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[New] Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-store-mishaps-cure-0x80072f30-glitches/"><u>Tackling Windows Store Mishaps: Cure 0X80072F30 Glitches</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-loop-video-in-canva/"><u>New In 2024, How to Loop Video in Canva</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sketch-serious-snickers/"><u>2024 Approved  Sketch Serious Snickers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ascertain-hdd-or-ssd-through-windows-settings/"><u>Ascertain HDD or SSD Through Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/complete-guide-to-disabling-the-windows-subsystem/"><u>Complete Guide to Disabling the Windows Subsystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-your-windows-11s-application-arcade/"><u>Effortless Entry Into Your Windows 11'S Application Arcade</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-editing-software-15-best-gopro-video-editors/"><u>In 2024, GoPro Editing Software  15 Best GoPro Video Editors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/brighten-up-your-videos-implementing-neons-on-thumbnails-for-2024/"><u>Brighten Up Your Videos  Implementing Neons on Thumbnails for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-keybinds-for-snippet-copy-and-paste/"><u>Tailored Keybinds for Snippet Copy & Paste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-cost-free-windows-audio-cleaners/"><u>Top 5 Cost-Free Windows Audio Cleaners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cybersecurity-insight-key-windows-activities-that-could-conceal-threats/"><u>Cybersecurity Insight: Key Windows Activities That Could Conceal Threats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-xr-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone XR Space | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapshot-superiority-choosing-the-best-10-cameras/"><u>In 2024, Snapshot Superiority  Choosing the Best 10 Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-examining-splitcam-top-video-recorder/"><u>2024 Approved  Examining SplitCam  Top Video Recorder?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-broadcasting-best-practices-twitch-facebook-integration/"><u>[Updated] 2024 Approved  Broadcasting Best Practices  Twitch-Facebook Integration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expertly-ranked-online-capturing-software-for-2024/"><u>Expertly Ranked Online Capturing Software for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-history-on-windows-runs/"><u>Addressing Missing History on Windows Runs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/achieving-large-head-aesthetics-on-tiktok-step-by-step-3-techniques-for-2024/"><u>Achieving Large-Head Aesthetics on TikTok  Step by Step (3 Techniques) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-management-active-periods-not-permanent-disruptions/"><u>Efficient Window Management: Active Periods, Not Permanent Disruptions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-13-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Data From iCloud | Dr.fone</u></a></li>
+</ul></div>

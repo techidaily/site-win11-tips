@@ -1,7 +1,7 @@
 ---
 title: 10 Command Prompt Wonders You Didn’t Know
-date: 2024-06-25T16:05:49.949Z
-updated: 2024-06-26T16:05:49.949Z
+date: 2024-07-12T16:29:12.564Z
+updated: 2024-07-13T16:29:12.564Z
 tags:
   - windows10
   - windows11
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  Command Prompt holds almost endless possibilities, and it's doubtful many know the full extent of what a few lines of code can accomplish. Whether you're a Command Prompt expert or you just like to pull it up to show off, here are 5 fun or interesting things you can see in Command Prompt, right now.
 
-## 1\. Customize Your Look ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+## 1\. Customize Your Look
+![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -30,7 +31,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
-## 2\. Watch Star Wars on Command Prompt ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+## 2\. Watch Star Wars on Command Prompt
+![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -47,7 +49,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-## 3\. More Telnet Fun: Command Prompt Aquarium ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
+## 3\. More Telnet Fun: Command Prompt Aquarium
+![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
@@ -57,7 +60,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
-## 4\. Change the Window Title ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
+## 4\. Change the Window Title
+![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -77,7 +81,8 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
-## 6\. Shut Down Your Computer Without the Mouse or Power Button ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
+## 6\. Shut Down Your Computer Without the Mouse or Power Button
+![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
@@ -99,3 +104,47 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-moving-windows-11-folders-with-tabs/"><u>Maximizing Efficiency: Moving Windows 11 Folders with Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-changes-to-user-profiles-in-w11-os/"><u>Directing Changes to User Profiles in W11 OS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-capturing-snapshots-transferring-from-snapchat-to-device-storage-for-2024/"><u>[New] Capturing Snapshots  Transferring From Snapchat to Device Storage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-steps-to-wipe-your-drives-partitions-in-windows/"><u>4 Easy Steps to Wipe Your Drive's Partitions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-winvpn-error-remote-computer-not-reachable/"><u>Quick Guide: WinVPN Error Remote Computer Not Reachable</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/open-windows-dialogue-the-freedomgpt-way/"><u>Open Windows Dialogue: The FreedomGPT Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-failure-error-0x8024800c/"><u>Resolving Windows Update Failure (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-directx-downloads-issue-in-os/"><u>Mending DirectX Downloads Issue in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-usb-health-in-windows-a-troubleshooting-checklist/"><u>Restoring USB Health in Windows: A Troubleshooting Checklist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-and-configuring-your-win11-screensavers/"><u>Crafting and Configuring Your Win11 Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-yellow-discoloration-in-windows-laptop-screens/"><u>Resolving Yellow Discoloration in Windows Laptop Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-comprehensive-itunes-update-upload-youtube-videos-guide/"><u>[New] In 2024, Comprehensive iTunes Update  Upload YouTube Videos Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-amplify-vram-in-windows-os/"><u>Strategies to Amplify VRAM in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-settings-unveiled/"><u>Windows 11 Settings Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-stalled-google-nearby-share-on-pc/"><u>Unveiling Fixes for Stalled Google Nearby Share on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-techniques-for-scrubbing-windows-safety-files/"><u>Simplified Techniques for Scrubbing Windows' Safety Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-files-save-path-problem-easy-fix-guide/"><u>Windows Files' Save Path Problem: Easy Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-strategies-for-overcoming-file-access-barriers-in-windows/"><u>Comprehensive Strategies for Overcoming File Access Barriers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-geforce-now-error-xc0f1103f-in-windows-11/"><u>Overcoming GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-upgrade-efficiency-over-entertainment/"><u>Windows 11 Upgrade: Efficiency Over Entertainment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gimbal-guide-to-elevate-dslrmirrorless-footage-for-2024/"><u>Gimbal Guide to Elevate DSLR/Mirrorless Footage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-a-local-and-free-chatgpt-clone-on-your-windows-pc-with-gpt4all/"><u>Run a Local and Free ChatGPT Clone on Your Windows PC With GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-dxgierror-with-device-reattachment/"><u>Combat DXGI_ERROR with Device Reattachment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-esd-to-iso-transformation-on-windows-pcs/"><u>Step-by-Step ESD to ISO Transformation on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-program-installation-on-windows-11/"><u>Mastering Program Installation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-labyrinth-a-guide-to-windows-11s-services/"><u>Navigating the Labyrinth: A Guide to Windows 11'S Services</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/shaping-public-perception-5-essentials-for-instagram-marketing-mavericks-for-2024/"><u>Shaping Public Perception  5 Essentials for Instagram Marketing Mavericks for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Smart 8 Plus Phone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-accelerate-your-videos-a-quicktime-player-guide/"><u>New In 2024, Accelerate Your Videos A QuickTime Player Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stepwise-approach-to-exceptional-gopro-footage/"><u>Stepwise Approach to Exceptional GoPro Footage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-could-not-be-registered-error-a-windows-photos-guide/"><u>Addressing 'Could Not Be Registered' Error: A Windows Photos Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-insight-into-vk-russias-social-network-explained/"><u>The Insight Into VK: Russia's Social Network Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-optimal-performance-kali-on-windows/"><u>Achieve Optimal Performance: Kali on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-writability-enabledisable-ntfs-compression/"><u>Unlocking Windows 11' Writability: Enable/Disable NTFS Compression</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-mp3-conversion-windows-and-imgburn-a-guide-to-creating-professional-audio-cds/"><u>Streamlining MP3 Conversion: Windows & ImgBurn - A Guide to Creating Professional Audio CDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-of-error-80080300-a-guide-to-enhanced-teamwork-on-windows/"><u>Breaking Barriers of Error 80080300: A Guide to Enhanced Teamwork on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>From Rookie to Pro  Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokes-in-photos-your-path-to-memeloreality/"><u>In 2024, Jokes in Photos  Your Path to Memeloreality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-cycle-begins-without-maintenance-updates-to-windows-xp781/"><u>A New Cycle Begins Without Maintenance Updates to Windows XP/7/8.1</u></a></li>
+</ul></div>

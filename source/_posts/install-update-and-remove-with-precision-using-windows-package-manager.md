@@ -1,7 +1,7 @@
 ---
 title: Install, Update & Remove with Precision Using Windows Package Manager
-date: 2024-06-25T16:16:50.486Z
-updated: 2024-06-26T16:16:50.486Z
+date: 2024-07-12T16:41:55.106Z
+updated: 2024-07-13T16:41:55.106Z
 tags:
   - windows10
   - windows11
@@ -110,7 +110,8 @@ For example, to search for zipping programs, you can type:
 
 `winget list`
 
-### 4\. How to View Application Details ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
+### 4\. How to View Application Details
+![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
  To look into the installation details and software version of a specific app, you can use the following command:
 
@@ -137,3 +138,44 @@ For example, to search for zipping programs, you can type:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-empty-directory-mistake-code-0x80070091-guide/"><u>Clearing Up Empty Directory Mistake: Code 0X80070091 Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-14-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 14 Pro Safe and Legal</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-note-50-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme Note 50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-environment-with-portable-utility-icons/"><u>Streamlining Windows Environment with Portable Utility Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-task-automation-tackling-scheduler-issues/"><u>Enhance Task Automation: Tackling Scheduler Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>[Updated] Simplified Access  How to Dive Into YouTube Comment Threads</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-t2x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo T2x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-glitches-to-ensure-smooth-gameplay-on-windows-11/"><u>Tackling Steam Glitches to Ensure Smooth Gameplay on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-smile-spectrum-ranking-jokes-from-reddit-and-twitter/"><u>[Updated] Smile Spectrum  Ranking Jokes From Reddit & Twitter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-most-compelling-free-ae-design-samples-for-2024/"><u>The Most Compelling Free AE Design Samples for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-error-in-windows-setup/"><u>Eliminating Not Found Error in Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-chrome-on-a-windows-desktop/"><u>Unblocking Chrome on a Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-screen-radiance-on-windows-11-practical-fixes/"><u>Elevate Screen Radiance on Windows 11: Practical Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blanking-and-flashing-windows-11-screen/"><u>Stop Blanking and Flashing Windows 11 Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unhinge-your-onedrive-link-from-microsoft-profile-in-windows/"><u>Unhinge Your OneDrive Link From Microsoft Profile in Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-free-video-repeaters-top-picks-for-you/"><u>2024 Approved Free Video Repeaters Top Picks for You</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-visual-narratives-with-youtube-studios-editing-suite/"><u>In 2024, Crafting Visual Narratives with YouTube Studio's Editing Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-faster-file-transfers-with-utorrent-on-win-computers/"><u>Unlock Faster File Transfers with uTorrent on Win Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-a-closer-look-at-their-differences/"><u>Terminal Vs. PowerShell: A Closer Look at Their Differences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[New] In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-command-prompt-integrating-folders-into-context-menu/"><u>Elevate Your Command Prompt: Integrating Folders Into Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-xbox-live-service-disruptions-on-pcs/"><u>Troubleshooting Xbox Live Service Disruptions on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-laptop-or-desktops-past/"><u>Unraveling Windows Laptop or Desktop's Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-workflow-paste-and-mouse-jump-techniques/"><u>Accelerate Workflow: Paste & Mouse Jump Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critical-steps-for-a-complete-operating-system-wipe/"><u>Critical Steps for a Complete Operating System Wipe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-software-disposal-adding-context-menu-shortcuts-to-win-1011/"><u>Efficient Software Disposal: Adding Context Menu Shortcuts to Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-seamless-execution-of-power-users-commands/"><u>Enabling Seamless Execution of Power Users Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-windows-minimizing-glitches/"><u>Strategies to Combat Windows Minimizing Glitches</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-a-neat-system-restart-in-windows-11/"><u>The Essential Guide to a Neat System Restart in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-constant-edge-activity-in-windows-11/"><u>Understanding Constant Edge Activity in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-of-intels-wi-fi-6d-driver-in-os/"><u>Addressing Failure of Intel's Wi-Fi 6D Driver in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-files-directories-for-game-access/"><u>Winning at Files: Directories for Game Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-beginners-handbook-to-free-chessboard-soccer-management/"><u>The Complete Beginner’s Handbook to Free Chessboard Soccer Management</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-jokes-whos-winning-on-the-meme-front/"><u>Viral Jokes  Who's Winning on the Meme Front?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-of-free-online-face-generators-for-fun-and-creativity/"><u>New In 2024, The Ultimate List of Free Online Face Generators for Fun and Creativity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-bluetooth-issue-here-are-9-quick-cures-to-restore-your-link/"><u>Win 11'S Bluetooth Issue? Here Are 9 Quick Cures to Restore Your Link</u></a></li>
+</ul></div>

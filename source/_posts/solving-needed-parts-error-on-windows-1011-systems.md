@@ -1,7 +1,7 @@
 ---
 title: Solving Needed Parts Error on Windows 10/11 Systems
-date: 2024-06-25T16:34:11.320Z
-updated: 2024-06-26T16:34:11.320Z
+date: 2024-07-12T17:01:54.809Z
+updated: 2024-07-13T17:01:54.809Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-## 1\. Check for and Install Any Pending Windows Updates ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
+## 1\. Check for and Install Any Pending Windows Updates
+![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
@@ -67,13 +68,15 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
-## 5\. Repair .NET Framework Components ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+## 5\. Repair .NET Framework Components
+![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
-## 6\. Verify the Affected Game Within Your Game Launcher ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
+## 6\. Verify the Affected Game Within Your Game Launcher
+![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
@@ -107,3 +110,50 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wows-fatal-issue-in-windows-1111/"><u>Troubleshooting WoW's Fatal Issue in Windows 11/11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-skaldic-odyssey-ragnarok-awakens/"><u>[Updated] The Skaldic Odyssey  Ragnarök Awakens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-method-for-deleting-steam-dns-from-windows-os/"><u>Efficient Method for Deleting Steam DNS From Windows OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-soundscapes-from-social-media-videos-for-2024/"><u>[Updated] Soundscapes From Social Media Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workspace-tackling-screen-lag-in-windows/"><u>Streamline Your Workspace: Tackling Screen Lag in Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-steps-to-dissociate-audio-elements-in-video-projects-with-adobe-premiere-pro-for-2024/"><u>New Steps to Dissociate Audio Elements in Video Projects with Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-typing-solutions-for-windows-pcs-7-must-dos/"><u>Speedy Typing Solutions for Windows PCs (#7 Must-Dos)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-free-and-open-source-premiere-pro-alternatives-for-linux/"><u>2024 Approved 10 Free and Open-Source Premiere Pro Alternatives for Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-customize-windows-11-and-11-with-winbubble/"><u>8 Ways to Customize Windows 11 and 11 With WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-user-rights-configuration-in-terminal/"><u>Troubleshooting User Rights Configuration in Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-best-practices-for-ping-commands/"><u>Understanding Windows: Best Practices for Ping Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-excess-usage-enhancing-efficiency-for-news-in-windows-1011/"><u>Slash Excess Usage: Enhancing Efficiency for News in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-bypassing-tpm-with-rufus/"><u>Unlocking Windows 11: Bypassing TPM with Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-handling-widget-notifications-win-11-style/"><u>Efficiently Handling Widget Notifications Win 11 Style</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[New] 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-up-sync-automatic-windows-entry-with-sticky-notes/"><u>Start-Up Sync: Automatic Windows Entry with Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-your-online-storage-onedrive-and-microsoft-ids/"><u>Separate Your Online Storage: OneDrive & Microsoft IDs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>In 2024, Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-directory-size-a-powershell-approach/"><u>Dissecting Directory Size: A PowerShell Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-your-battlenet-downloads-win-pc-style/"><u>Boosting Your Battle.net Downloads, Win-PC Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disabled-user-sign-in-on-windows/"><u>Troubleshooting Disabled User Sign-In on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-copy-pasting-issues-across-chrome-edge-and-firefox-on-win/"><u>Troubleshooting Copy-Pasting Issues Across Chrome, Edge, & Firefox on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-third-party-vendors-from-defender-constraints/"><u>Unshackling Third-Party Vendors From Defender Constraints</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-secret-to-reversing-tiktok-videos-insider-tips-and-tricks-2023-edition/"><u>The Secret to Reversing TikTok Videos Insider Tips and Tricks 2023 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unmasking-dormant-folders-in-the-windows-11-ui/"><u>Unmasking Dormant Folders in the Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-high-cpu-usage-in-dropbox-on-windows-pcs/"><u>Tackling High CPU Usage in Dropbox on Windows PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/commercial-free-android-vision-capturer-for-2024/"><u>Commercial-Free Android Vision Capturer for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-default-cmd-settings-with-ease/"><u>Altering Default CMD Settings with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-full-exploration-screenflow-v4-on-the-mac-platform/"><u>[New] 2024 Approved  Full Exploration  ScreenFlow v4 on the Mac Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tips-to-safeguard-sticky-notes-on-pc/"><u>Winning Tips to Safeguard Sticky Notes on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-procedure-for-gpu-detection-in-windows-11/"><u>Speedy Procedure for GPU Detection in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/video-quality-debate-the-pros-of-30-vs-60-fps/"><u>Video Quality Debate  The Pros of 30 Vs. 60 Fps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-youtube-thumbnails-sizing-designing-and-converting-for-2024/"><u>New The Ultimate Guide to YouTube Thumbnails Sizing, Designing, and Converting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-repairing-white-screen-on-store/"><u>Tips and Tricks for Repairing White Screen on Store</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-filming-timelapse-on-ios-devices/"><u>[Updated] 2024 Approved  The Essential Guide to Filming Timelapse on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-key-steps-to-restore-mail-alert-functionality-in-windows/"><u>9 Key Steps to Restore Mail Alert Functionality in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-slow-motion-in-instagram-reels-for-2024/"><u>The Art of Slow Motion in Instagram Reels for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-insta-exiting-a-step-by-step-guide/"><u>[New] Mastering Insta Exiting  A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-14-plus-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Plus SIM Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevated-operations-consistent-admin-mode-for-terminal/"><u>Elevated Operations: Consistent Admin Mode for Terminal</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-audience-choice-great-movies-not-on-the-main-list/"><u>[Updated] Audience Choice  Great Movies Not on the Main List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-to-record-clear-sound-in-windows-11/"><u>Simple Steps to Record Clear Sound in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveil-your-pcs-true-wired-capability-through-win11-connectivity-tweaks/"><u>Unveil Your PC’s True Wired Capability Through Win11 Connectivity Tweaks</u></a></li>
+</ul></div>

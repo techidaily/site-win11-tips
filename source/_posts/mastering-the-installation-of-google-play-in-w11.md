@@ -1,7 +1,7 @@
 ---
 title: Mastering the Installation of Google Play in W11
-date: 2024-06-25T16:50:07.553Z
-updated: 2024-06-26T16:50:07.553Z
+date: 2024-07-12T17:20:26.866Z
+updated: 2024-07-13T17:20:26.866Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,8 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Note that this process requires installing third-party modified files and packages and involves potential risks. Before proceeding,[create a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) or [recovery drive](http://www.makeuseof.com/create-recovery-drive-system-repair-disc-windows-10/) . These recovery options can help you undo the changes or repair the system if something goes wrong.
 
-## Step 1: Uninstall Android Subsystem for Android ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
+## Step 1: Uninstall Android Subsystem for Android
+![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
 
@@ -46,7 +47,8 @@ To uninstall WSA:
 4. Locate and click on**Windows Subsystem for Android** under**App list** .
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
 
-## Step 2: Enable Developer Mode in Windows 11 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+## Step 2: Enable Developer Mode in Windows 11
+![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -57,7 +59,8 @@ To enable Developer Mode:
 3. In the right pane, click on**For Developers.**
 4. Toggle the switch for**Developer Mode** and set it to**On** . Click**Yes** to confirm the action.
 
-## Step 3: Enable Virtual Machine to Run Android Apps ![enable windows hypervisor platform windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-windows-hypervisor-platform-windows-11.png)
+## Step 3: Enable Virtual Machine to Run Android Apps
+![enable windows hypervisor platform windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-windows-hypervisor-platform-windows-11.png)
 
  You need to [enable and configure Virtual Machine Platform and Windows Hypervisor Platform](https://www.makeuseof.com/windows-11-enable-hyper-v/) to run Windows Subsystem for Android on Windows 11\. Skip this step if you have installed WSA previously.
 
@@ -189,3 +192,61 @@ To enable Developer mode on Windows Subsystem for Android:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/in-depth-analysis-process-sorting-and-theme-customization-in-windows-11/"><u>In-Depth Analysis: Process Sorting and Theme Customization in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bending-images-photoshops-simplest-alterations-for-2024/"><u>Bending Images  Photoshop's Simplest Alterations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-grades-with-these-top-8-windows-study-hacks/"><u>Skyrocket Grades with These Top 8 Windows Study Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-correcting-severe-browser-js-problem-in-discord/"><u>Strategies for Correcting Severe Browser JS Problem in Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-waves-in-windows-unlocking-vivetools-secrets/"><u>Navigating New Waves in Windows: Unlocking ViVeTool's Secrets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-tips-for-ppt-video-production/"><u>[New] In 2024, Essential Tips for PPT Video Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-intelligence-microsofts-new-ai-helper-for-windows-11-taskbar/"><u>Integrating Intelligence: Microsoft's New AI Helper for Windows 11 Taskbar</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-extract-the-beat-from-any-song-using-online-tools/"><u>In 2024, How to Extract the Beat From Any Song Using Online Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-correction-resetting-folders-on-a-ws11-pc/"><u>Immediate Correction: Resetting Folders on a WS11 PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/storytellers-sanctum-summit-selections/"><u>Storytellers Sanctum – Summit Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-methodology-for-windows-update-reset/"><u>Stepwise Methodology for Windows Update Reset</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-this-article-aims-to-show-you-how-to-export-videos-in-filmora/"><u>New This Article Aims to Show You How to Export Videos in Filmora</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discovering-synergistic-partnerships-on-youtube-platforms/"><u>2024 Approved  Discovering Synergistic Partnerships on YouTube Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-network-router-page-on-windows/"><u>Methods to Revive Network Router Page on Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/a-guide-to-the-premier-8-sounds-for-youtube-launches-and-introduction-scenes-for-2024/"><u>A Guide to the Premier 8 Sounds for YouTube Launches and Introduction Scenes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-minimize-malware-scanners-cpuram-demands/"><u>How to Minimize Malware Scanner's CPU/RAM Demands</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revive-your-iphone-ipad-and-macs-airdrop-functionality-with-quick-tips/"><u>Revive Your iPhone, iPad & Mac's Airdrop Functionality with Quick Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-phone-call-basics-with-intel-unison/"><u>Mastering Windows 11: Phone Call Basics with Intel Unison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-your-chatgpt-experience-windows-guide/"><u>Start Your ChatGPT Experience: Windows Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-webcams-on-windows-10-top-applications-reviewed/"><u>[Updated] In 2024, Best Webcams on Windows  10 Top Applications Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-windows-11-interface-with-these-tips/"><u>Revitalize Your Windows 11 Interface with These Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-both-webcam-and-monitor-live-feed/"><u>In 2024, Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-win11-space-to-perfection/"><u>Tailoring Your Win11 Space to Perfection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-valorant-microphone-failures-on-windows-10/"><u>Overcoming Valorant Microphone Failures on Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-win10s-elite-screen-capture-selection/"><u>[New] Win10's Elite Screen Capture Selection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-k11-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo K11 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/achieve-xbox-broadcast-excellence-on-facebook-for-2024/"><u>Achieve Xbox Broadcast Excellence on Facebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-recordings-best-no-fee-windows-editors/"><u>Master Your Recordings: Best No-Fee Windows Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-accelerate-your-videos-a-quicktime-player-guide-for-windows-and-mac/"><u>Updated 2024 Approved Accelerate Your Videos A QuickTime Player Guide for Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8024800c-in-windows-update/"><u>Steps to Resolve 0X8024800C in Windows Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia 105 Classic to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-comics-an-intuitive-approach-for-win11-users/"><u>Navigating Comics: An Intuitive Approach for Win11 Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-add-pro-level-effects-to-your-videos-in-3-easy-steps-with-fcp-x/"><u>Updated 2024 Approved Add Pro-Level Effects to Your Videos in 3 Easy Steps with FCP X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-selectivity-enable-checkbox-file-option-in-win11/"><u>Perfecting Selectivity: Enable Checkbox File Option in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-monitoring-integrating-system-resource-data-in-systray/"><u>Streamline Monitoring: Integrating System Resource Data in SysTray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unidentified-window-second-screen/"><u>Resolving Unidentified Window Second Screen</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-fb-mystery-vanishing-youtubefacebook-videos/"><u>In 2024, Deciphering FB Mystery  Vanishing YouTube/Facebook Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-windows-11-parental-control-measures/"><u>Implementing Windows 11 Parental Control Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-keyboard-shortcuts-next-to-power-icon/"><u>Tailoring Windows 11: Keyboard Shortcuts Next to Power Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-there-are-no-more-files-error-on-windows-10-and-11/"><u>How to Fix the “There Are No More Files” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-setup-failure-windows-11-edition/"><u>Resolving GeForce Experience Setup Failure, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-the-process-solving-hidden-logins-on-windows-11/"><u>Reboot the Process: Solving Hidden Logins on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-media-creator-tool-errors-winerror-0x8007043c/"><u>How to Solve Media Creator Tool Errors: WinError 0X8007043C</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-strategies-for-memorable-youtube-closings/"><u>In 2024, Essential Strategies for Memorable YouTube Closings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-minecraft-glitches-with-these-fixes/"><u>Stop Minecraft Glitches with These Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-overlay-photos-on-computer-desktop-and-online/"><u>[Updated] In 2024, How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzzwords-the-leading-edits-without-vimeo-for-2024/"><u>[New] Beyond the Buzzwords  The Leading Edits Without Vimeo for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-blockage-issue-on-win11/"><u>Resolving Microsoft Store Blockage Issue on Win11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-reference-green-screen-basics/"><u>In 2024, Rapid Reference  Green Screen Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-hyper-v-in-windows-11/"><u>How to Enable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-error-code-31-in-windows-os/"><u>Mastering the Art of Fixing Error Code 31 in Windows OS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-deliciousness-tiktoks-most-shared-snacks/"><u>[Updated] In 2024, Discovering Deliciousness  TikTok's Most Shared Snacks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-essential-free-tiktok-cutting-tools-for-mac-computers/"><u>[Updated] In 2024, Essential Free TikTok Cutting Tools for Mac Computers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Lsass Unable to Locate Components Error
-date: 2024-06-25T17:10:18.330Z
-updated: 2024-06-26T17:10:18.330Z
+date: 2024-07-12T17:43:47.736Z
+updated: 2024-07-13T17:43:47.736Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,8 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
  The file that is missing or corrupted could be a system file or a DLL (Dynamic Link Library) file. The lsass.exe process depends on these files to function properly. In this guide, we will show you how to troubleshoot the lsass.exe unable to locate component error in Windows for good.
 
-## 1\. Perform an SFC Scan ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
+## 1\. Perform an SFC Scan
+![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
 
  As we mentioned above, the "lsass.exe unable to locate component" error can occur due to the corruption or absence of a specific file that the lsass.exe process relies upon.
 
@@ -49,7 +50,8 @@ ren oleaut32.dll oleaut32.old
 8. Finally, type "exit" in the Command Prompt and close the utility.
 9. Once done, remove the bootable installation CD or USB and restart your computer. Upon reboot, you can now check if the problem is fixed.
 
-## 3\. Perform a System Restore ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
+## 3\. Perform a System Restore
+![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
  ​​​​​​​
 
@@ -77,3 +79,41 @@ ren oleaut32.dll oleaut32.old
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-portals-to-nintendo-switch-gaming/"><u>Essential Windows Portals to Nintendo Switch Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-setup-for-gpt/"><u>Navigating Through Windows Setup for GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11-determine-software-harmony/"><u>How Does Windows 11 Determine Software Harmony?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-mobile-links-android-and-windows-compatible-tools/"><u>Key Mobile Links: Android & Windows Compatible Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-login-lock-ups-with-rust-and-windows/"><u>Navigating Through Steam Login Lock-Ups with Rust & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tricks-to-jumpstart-a-nonfunctional-terminal/"><u>Essential Tricks to Jumpstart a Nonfunctional Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-live-feed-rates-on-task-monitor-win-11/"><u>Improve Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-guide-to-data-resurrection-fixing-deleted-and-corrupted-disk-partitions/"><u>Expert Guide to Data Resurrection: Fixing Deleted and Corrupted Disk Partitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-overheat-during-intense-play/"><u>Minimizing Overheat During Intense Play</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-steps-for-saving-your-macs-desktop/"><u>2024 Approved  Quick Steps for Saving Your Mac's Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-high-dynamic-range-effects-in-adobes-realm-for-2024/"><u>Mastering High Dynamic Range Effects in Adobe's Realm for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-c210-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia C210 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivate-creativity-best-video-concepts-for-viewers-for-2024/"><u>[Updated] Cultivate Creativity  Best Video Concepts for Viewers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-gentle-volume-reduction-in-audacity/"><u>Creating Gentle Volume Reduction in Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a79-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A79 5G Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-in-windows-os/"><u>Fixing Steam Interface Error in Windows OS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[Updated] 2024 Approved  Harvesting Hits and Heads  How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-windows-11-home-settings/"><u>Navigating to Windows 11 Home Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-failed-security-codes-in-epic-games-launcher-on-windows-pcs/"><u>Fixes for Failed Security Codes in Epic Games Launcher on Windows PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-srt-mastery-free-and-best-websites-in-top-8-lists/"><u>[Updated] SRT Mastery  Free & Best Websites in Top 8 Lists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-cant-stop-your-generic-volume-device-error/"><u>How to Fix the “Windows Can’t Stop Your Generic Volume Device” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/peak-performance-selective-software-secrets-for-speedy-wins/"><u>Peak Performance: Selective Software Secrets for Speedy Wins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-in-use-resource-error-in-windows-oses-149-chars/"><u>Overcoming In-Use Resource Error in Windows OSes (149 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-hdr-capabilities/"><u>Mastering Windows 11'S HDR Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-double-click-with-these-simple-windows-adjustments/"><u>Optimize Your Double-Click with These Simple Windows Adjustments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-mend-windows-disk-read-problems/"><u>Guide to Mend Windows Disk Read Problems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-full-spectrum-insight-into-nero-audiowaveeditor/"><u>In 2024, Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-increase-followers-on-facebook-10-effective-ways/"><u>2024 Approved  How to Increase Followers on Facebook (10 Effective Ways )</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-simple-fixes-for-your-non-operational-windows-notepad/"><u>Five Simple Fixes for Your Non-Operational Windows Notepad</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>2024 Approved  Speedy Tutorial  Crafting YouTube Image Thumbnails From Scratch</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-curtail-pc-sound-enhancement-effects/"><u>How To Curtail PC Sound Enhancement Effects</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y17s-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y17s to Protect Your Individual Information</u></a></li>
+</ul></div>

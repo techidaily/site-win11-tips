@@ -1,7 +1,7 @@
 ---
 title: Correcting Error Code 0X887A0006 for Graphics
-date: 2024-06-25T17:06:02.917Z
-updated: 2024-06-26T17:06:02.917Z
+date: 2024-07-12T17:38:51.682Z
+updated: 2024-07-13T17:38:51.682Z
 tags:
   - windows10
   - windows11
@@ -151,7 +151,8 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 6. Enter **0** in TdrLevel’s **Value** box, and select **OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-## 11\. Reinstall the Game That's Crashing ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
+## 11\. Reinstall the Game That's Crashing
+![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
 
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can [back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
@@ -171,3 +172,42 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-uploading-original-posts-again/"><u>[New] Techniques for Uploading Original Posts Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[Updated] Smooth Sailing with Instagram  Fixes for Frustrations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-find-feature-in-windows-11-taskbar-activation-guide/"><u>Instant Find Feature in Windows 11 Taskbar – Activation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-speed-up-epic-games-launcher-downloads-on-windows/"><u>How to Speed Up Epic Games Launcher Downloads on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printmanagementmsc-not-found-error-on-windows/"><u>How to Fix the Printmanagement.msc Not Found Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-efficient-task-management-in-ms-project/"><u>Quick and Efficient Task Management in MS Project</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-switch-nat-settings-in-windows-oses/"><u>How to Effortlessly Switch NAT Settings in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-craft-of-simultaneous-unzipping-with-windows-tools/"><u>Master the Craft of Simultaneous Unzipping with Windows Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selecting-your-perfect-mp4-device/"><u>Selecting Your Perfect MP4 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-windows-users-to-fix-f429f-camera-app-hurdle/"><u>Guiding Windows Users to Fix F429F Camera App Hurdle</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-gt-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 GT to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6s-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6s After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-data-flow-from-non-responsive-usb-devices-win-os/"><u>Restoring Data Flow From Non-Responsive USB Devices (Win OS)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860390417-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>2024 Approved  Internal Screen Recording  Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failures-from-windows-memory-tool/"><u>How To Rectify Failures From Windows Memory Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-0x800713f-mail-glitch/"><u>Resolving Windows' 0X800713F Mail Glitch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recognizing-unseen-sd-card-fix-for-windows-explorer/"><u>Recognizing Unseen SD Card: Fix for Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-primary-app-uses-computer-audio-devices/"><u>Resolving Non-Primary App Uses Computer Audio Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-imagery-pro-level-tips-for-spectacular-photos/"><u>[Updated] Illuminating Imagery  Pro-Level Tips for Spectacular Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-14-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interacting-with-network-drives-from-smartphones/"><u>Interacting with Network Drives From Smartphones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>In 2024, Harmonizing Hue and Shade  The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harmonize-your-content-a-guide-to-musical-instagrams/"><u>Harmonize Your Content  A Guide to Musical Instagrams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-youtube-shorts-lacking-in-sight/"><u>[New] In 2024, Fixed  YouTube Shorts Lacking in Sight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-daily-productivity-the-top-6-apps-for-windows-11-users/"><u>Mastering Daily Productivity: The Top 6 Apps For Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-complexities-of-multimonitor-setup-in-windows-11/"><u>Navigating The Complexities of Multimonitor Setup in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-directdraw-issues-on-windows-11-and-11-pros/"><u>Overcoming DirectDraw Issues on Windows 11 & 11 Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
+</ul></div>

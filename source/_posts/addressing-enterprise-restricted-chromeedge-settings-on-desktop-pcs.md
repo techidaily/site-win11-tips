@@ -1,7 +1,7 @@
 ---
 title: Addressing Enterprise-Restricted Chrome/Edge Settings on Desktop PCs
-date: 2024-06-25T16:51:41.343Z
-updated: 2024-06-26T16:51:41.343Z
+date: 2024-07-12T17:22:12.678Z
+updated: 2024-07-13T17:22:12.678Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,8 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
-## 1\. Check Your Antivirus Settings ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
+## 1\. Check Your Antivirus Settings
+![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
 
@@ -77,7 +78,8 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
-## 4\. Reset Chrome and Edge ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
+## 4\. Reset Chrome and Edge
+![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -99,7 +101,8 @@ To reset Microsoft Edge:
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
-## 5\. Run MalwareBytes AdwCleaner ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
+## 5\. Run MalwareBytes AdwCleaner
+![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -111,7 +114,8 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
-## 6\. Perform a Windows Reset ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
+## 6\. Perform a Windows Reset
+![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -146,3 +150,54 @@ To perform a Windows system reset:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-roblox-system-crashes/"><u>Steps to Rectify Roblox System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-subnet-tweak-for-experienced-users-win11/"><u>Effortless Subnet Tweak for Experienced Users, Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-for-sims-4-video-gaming-for-2024/"><u>Essential Tips for Sims 4 Video Gaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/envisioning-the-ideal-user-experience-in-windows-11/"><u>Envisioning the Ideal User Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-clear-the-focus-wallpaper-icon-on-windows-11/"><u>How to Clear the Focus Wallpaper Icon on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-hidden-options-mastery-of-lost-control-configurations/"><u>Explore Hidden Options: Mastery of Lost Control Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tools-unveiled-for-the-curious-newbie/"><u>Windows Tools Unveiled for the Curious Newbie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-to-run-this-install-net-error-in-windows/"><u>Troubleshooting To Run This, Install .NET Error in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-turn-off-default-recommended-podcast-listings-in-spotify-for-2024/"><u>How to Turn Off Default Recommended Podcast Listings in Spotify for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparative-study-twitch-and-youtube-in-streaming-land/"><u>[New] Comparative Study  Twitch & YouTube in Streaming Land</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-windows-notification-for-updates/"><u>Ceasing Windows Notification for Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-how-to-for-customizing-windows-11-with-widgets/"><u>A Comprehensive How-To for Customizing Windows 11 with Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-introduction-to-windows-exepe-file-formats/"><u>An Introduction to Windows EXE/PE File Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-printer-busy-message-in-win11/"><u>Eliminating Printer Busy Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-accessibility-issues-of-purchased-software-on-ms-marketplace/"><u>Unlocking Accessibility Issues of Purchased Software on MS Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-sound-system-malfunctions/"><u>Tackling Windows Sound System Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-the-haste-of-edges-tabs-in-w11/"><u>Halt the Haste of Edge's Tabs in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-pressing-prtscn-launch-snipping-tool-steps-to-halt/"><u>Can Pressing PrtScn Launch Snipping Tool? Steps to Halt</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/podcast-recorder-quality-check/"><u>Podcast Recorder Quality Check</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-the-best-fileshare-apps-on-a-windows-laptop/"><u>Exclusive Guide to the Best Fileshare Apps on a Windows Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817588692-flash-free-visual-experience-now/"><u>Flash-Free Visual Experience Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-premium-banners-no-cost-just-click/"><u>In 2024, Get Premium Banners - No Cost, Just Click</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-print-management-service-absence-in-windows/"><u>Steps to Resolve 'Print Management' Service Absence in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-microsoft-visual-cplusplus-redistributable-used-for/"><u>What Is the Microsoft Visual C++ Redistributable Used For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-approaches-to-adjacent-and-distinct-windows-partition-merging/"><u>Cutting-Edge Approaches to Adjacent and Distinct Windows Partition Merging</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-top-ranked-collage-assemblers-unveiled/"><u>Android’s Top-Ranked Collage Assemblers Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-examine-excel-data-in-notepad/"><u>How to Examine Excel Data in Notepad</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-10-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-file-access-fixing-onedrive-glitches/"><u>Uninterrupted File Access: Fixing OneDrive Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploiting-windows-11s-error-diagnostic-solutions/"><u>Exploiting Windows 11'S Error Diagnostic Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>[New] 2024 Approved  Boosting Collaboration  Mastering Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-your-onedrive-on-a-windows-machine/"><u>How To Unlock Your OneDrive on a Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-strategies-against-locked-out-windows-pin/"><u>Immediate Strategies Against Locked-Out Windows PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-updating-windows-in-isolation/"><u>The Art of Updating Windows in Isolation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-10-free-slideshow-designs-for-easy-presentations/"><u>[New] Top 10 Free Slideshow Designs for Easy Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-network-adapter-error-31-quickly/"><u>Addressing Windows Network Adapter Error 31 Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-shopping-experience-fixing-error-0x80072f30/"><u>Streamlining Your Shopping Experience: Fixing Error 0X80072F30</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-terminal-usage-make-it-primary-choice/"><u>Elevate Your Terminal Usage: Make It Primary Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-applying-windows-11s-auto-hdr/"><u>Understanding and Applying Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
+</ul></div>

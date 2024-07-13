@@ -1,7 +1,7 @@
 ---
 title: Mastering the Win 11 Gaming Landscape with These FPS Counters
-date: 2024-06-25T16:42:02.158Z
-updated: 2024-06-26T16:42:02.158Z
+date: 2024-07-12T17:11:03.825Z
+updated: 2024-07-13T17:11:03.825Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,8 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
  Here are the best FPS counters to track framerates in games on your Windows 11 computer.
 
-## 1\. FRAPS ![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
+## 1\. FRAPS
+![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
 
  FRAPS is all you need if you want to benchmark your computer for framerates. It is a classic FPS counter application that works on almost all the editions of the Windows OS and is free to use.
 
@@ -34,7 +35,8 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 **Download** :[FRAPS](https://fraps.com/) (Free)
 
-## 2\. NZXT Cam ![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
+## 2\. NZXT Cam
+![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
 
  NZXT Cam is a system performance management utility with some useful features. For example, it features a nice little overlay feature that you can activate with the Ctrl + O hotkey. When enabled, it shows FPS count, CPU, GPU, and RAM utilization. Furthermore, you can configure network and system time information as well.
 
@@ -46,7 +48,8 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 **Download** :[NZXT Cam](https://nzxt.com/software/cam) (Free)
 
-## 3\. Nvidia GeForce Experience Performance Overlay ![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
+## 3\. Nvidia GeForce Experience Performance Overlay
+![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
 
  If you have Nvidia graphics, you don’t need to use a third-party FPS counter app. Nvidia’s GeForce Experience features a**Performance Overlay** to system performance as an overlay.
 
@@ -63,7 +66,8 @@ To enable Performance overlay:
 
 **Download** :[Nvidia GeForce Experience](https://www.nvidia.com/en-in/geforce/geforce-experience/download/) (Free)
 
-## 4\. FPS Monitor ![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
+## 4\. FPS Monitor
+![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
 
  If you need to benchmark a little more than just framerates, FPS Monitor will fit the bill perfectly. It tracks your computer’s hardware state and displays the information in-game as an overlay.
 
@@ -77,7 +81,8 @@ To enable Performance overlay:
 
 **Download** :[FPS Monitor](https://fpsmon.com/en/) (Premium)
 
-## 5\. Steam’s FPS Counter ![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
+## 5\. Steam’s FPS Counter
+![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
 
  Steam has a built-in FPS counter that is disabled by default. You can enable the framerate counter to measure performance for the games launched on Steam.
 
@@ -91,7 +96,8 @@ To enable the FPS counter on Steam:
 5. Click**OK** to save the changes.
 6. Next time you launch a game on Steam, you’ll notice a green-color FPS title appearing at your preferred location on your screen.
 
-## 6\. Razer Cortex ![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
+## 6\. Razer Cortex
+![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
 
  Razer Cortex is a [game FPS booster tool for Windows](https://www.makeuseof.com/best-fps-boosters-windows-10/) to optimize games for better performance. It also features a nifty In-Game overlay. You can use it to show FPS count, system time, and playtime as an overlay.
 
@@ -135,3 +141,58 @@ To enable Razer Cortex overlay:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/exploring-alternatives-when-bitlocker-disappears-on-pcs/"><u>Exploring Alternatives When BitLocker Disappears on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-steams-domain-name-system-on-windows-systems/"><u>Purging Steam's Domain Name System on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-utilizing-widgets-in-windows-11/"><u>Accessing and Utilizing Widgets in Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-harmonize-happily-bite-sized-beats-converter-karaoke-edition-no-cost-needed/"><u>New In 2024, Harmonize Happily Bite-Sized Beats Converter, Karaoke Edition - No Cost Needed!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-mobile-app-positions-in-windows-ui/"><u>Mastery Over Mobile App Positions in Windows UI</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>[Updated] Perfect Virtual Screens  Choosing Best Meet Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-system-details-ip-and-mac-with-ps-on-windows/"><u>Discovering System Details: IP & MAC with PS on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g24-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenges-of-windows-11-licensing-expiration/"><u>Overcoming the Challenges of Windows 11 Licensing Expiration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-win-workflow-selecting-the-best-productivity-tools-for-windows-11/"><u>Pro-Win Workflow: Selecting the Best Productivity Tools for Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-core-ethos-universal-youtube-guidelines/"><u>[New] Core Ethos  Universal YouTube Guidelines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-snap-uac-dialogues/"><u>A Step-by-Step Guide to Snap UAC Dialogues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-access-the-fastest-way-to-snipping-tool-win-11/"><u>Instant Access: The Fastest Way to Snipping Tool Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixed-bluetooth-pairing-error-in-win-os/"><u>Quick Guide to Fixed: Bluetooth Pairing Error in Win OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-top-video-editing-apps-for-pc-gopro-quik-and-more/"><u>2024 Approved Top Video Editing Apps for PC GoPro Quik and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-video-drivers-errors/"><u>Mastering the Art of Fixing Video Drivers Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-for-leveraging-the-power-of-windows-11-calendar/"><u>Pro Tips for Leveraging the Power of Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unsuccessful-onedrive-operations-on-os/"><u>Combatting Unsuccessful OneDrive Operations on OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-wi-fi-connection-speed-in-windows-11-with-these-tips/"><u>Enhance Wi-Fi Connection Speed in Windows 11 With These Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-visibility-unveiling-windows-11s-system-tray-and-hidden-items/"><u>Maximizing Visibility: Unveiling Windows 11'S System Tray & Hidden Items</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>[New] Optimize Your Storage Without Spending a Penny  Best 30 Clouds with 1TB Included</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-screen-record-facetime-calls/"><u>[Updated] How to Screen Record FaceTime Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-deal-with-imminent-license-expiry-on-your-pc/"><u>How to Deal with Imminent License Expiry on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-machine-prepared-to-run-newest-windows-os/"><u>Is Your Machine Prepared to Run Newest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-loading-device-drivers-on-windows-11/"><u>Fixing Non-Loading Device Drivers on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-xs-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone XS Max Properly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-your-perfect-reading-experience-notepad-customization-in-windows-11/"><u>Creating Your Perfect Reading Experience: Notepad Customization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterpiece-ahead-initiating-mspaint-windows-11-style/"><u>Masterpiece Ahead: Initiating MSPaint, Windows 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shift-whats-updated-in-windows-11/"><u>Navigating the Shift: What's Updated in Windows 11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solidify-the-save-feature-on-nvidias-windows-control-center/"><u>How to Solidify the Save Feature on NVidia's Windows Control Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-as-a-windows-vr-device/"><u>Adapting Oculus Quest 2 as a Windows VR Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-win-11-a-guide/"><u>Maximizing Cursor Visibility on Win 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-experience-our-criteria-for-best-free-drivers/"><u>Boost Your Windows Experience: Our Criteria for Best Free Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brilliant-obsidian-structure-for-clear-notes/"><u>Brilliant Obsidian Structure for Clear Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-rendering-cutting-down-lag-time/"><u>Enhancing Real-Time Rendering: Cutting Down Lag Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-spotify-app-on-windows-11-pcs/"><u>Fixing Non-Responsive Spotify App on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-fixing-windows-updater-issue-0xca00a009/"><u>Diagnosing and Fixing Windows Updater Issue: 0XCA00A009</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-achieve-success-in-twitch-top-5-livestream-strategies-for-2024/"><u>[New] Achieve Success in Twitch  Top 5 Livestream Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-highpoint-masterpiece-suite/"><u>[New] Highpoint Masterpiece Suite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-boot-routine-secrets/"><u>Breaking Down Windows Boot Routine Secrets</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-the-best-video-animation-apps-for-mobile-devices-2024-edition/"><u>New The Best of the Best Video Animation Apps for Mobile Devices (2024 Edition)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/two-channel-strategy-successful-audience-engagement-with-youtube-and-twitch/"><u>Two-Channel Strategy  Successful Audience Engagement with Youtube & Twitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-desktop-icon-chaos-in-windows/"><u>Avoid Desktop Icon Chaos in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-screen-direction-with-windows-settings/"><u>Change Screen Direction with Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-issues-fixing-mb-service-disconnect-in-windows-11/"><u>Overcoming Unreachable Issues: Fixing MB Service Disconnect in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-context-menu-quick-uninstall-in-win-1110/"><u>Mastering Context Menu: Quick Uninstall in Win 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-outlooks-non-synchronization-in-windows-os/"><u>How to Rectify Outlook's Non-Synchronization in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-java-vm-not-found-issue-on-windows-devices/"><u>Fixing Java VM Not Found Issue on Windows Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora/"><u>[Updated] 2024 Approved  Streamlining Virtual Collaborations  A Comprehensive Scheduling & Recording Manual for Slack + Filmora</u></a></li>
+</ul></div>

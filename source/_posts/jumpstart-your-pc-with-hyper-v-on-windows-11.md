@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Your PC with Hyper-V on Windows 11
-date: 2024-06-25T16:44:43.797Z
-updated: 2024-06-26T16:44:43.797Z
+date: 2024-07-12T17:14:12.236Z
+updated: 2024-07-13T17:14:12.236Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,8 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-## Prerequisites to Enable Hyper-V on Windows 11 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
+## Prerequisites to Enable Hyper-V on Windows 11
+![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
 
  Hyper-V is available as an optional feature on Windows 11 Pro, Enterprise, and Education. To check your edition of Windows, go to **Settings > System > About**. Then, check the **Windows specifications** section to find your Windows edition.
 
@@ -62,7 +63,8 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-## 1\. Turn On Hyper-V in Windows 11 Via Control Panel ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
+![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -76,7 +78,8 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
-## 2\. Add Hyper-V to Windows 11 Using Command Prompt ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
+## 2\. Add Hyper-V to Windows 11 Using Command Prompt
+![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
@@ -90,7 +93,8 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
 
-## 3\. Enable Hyper-V Using PowerShell ![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
+## 3\. Enable Hyper-V Using PowerShell
+![enable hyper v windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-11-powershell.png)
 
  If you prefer Windows PowerShell over Command Prompt, you can also enable Hyper-V using the shell application.
 
@@ -116,7 +120,8 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
-## How to Configure Hyper-V Settings ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
+## How to Configure Hyper-V Settings
+![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
 
@@ -146,3 +151,50 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/complete-guide-to-disabling-the-windows-subsystem/"><u>Complete Guide to Disabling the Windows Subsystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-constant-windows-printer-selection/"><u>Guidelines for Constant Windows Printer Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-ai-enhance-windows-11-usability/"><u>How Does AI Enhance Windows 11 Usability?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-diskusage-for-in-depth-drive-space-examination/"><u>Harnessing the Potential of DiskUsage for In-Depth Drive Space Examination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-snipping-tool-with-a-simple-key-combo-on-win-11/"><u>Activating Snipping Tool with a Simple Key Combo on Win 11</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-guide-to-perfect-everyday-tiktok-footage-expert-advice/"><u>[Updated] Guide to Perfect Everyday TikTok Footage  Expert Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-lowering-windows-acoustic-amplifiers/"><u>Guide to Lowering Windows Acoustic Amplifiers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleashing-instagram-success-through-precision-metrics-monitoring/"><u>[New] 2024 Approved  Unleashing Instagram Success Through Precision Metrics Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/focusing-gpo-application-one-user-approach-for-windows-1111/"><u>Focusing GPO Application: One-User Approach for Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-non-booting-windows-hiberflattening/"><u>Cure for Non-Booting Windows HiberFlattening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-improving-windows-11s-trouble-resolution-tools/"><u>Bridging Gaps: Improving Windows 11'S Trouble Resolution Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-your-xbox-one-zooming-journey-for-2024/"><u>The Ultimate Checklist for Your Xbox One Zooming Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-opengl-error-3-nvidia-solutions-win1011/"><u>Eliminating OpenGL Error 3: Nvidia Solutions (Win10/11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-moving-top-rated-motion-tracking-apps-for-mobile-for-2024/"><u>New Get Moving Top-Rated Motion Tracking Apps for Mobile for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-c33-2023-by-drfone-android/"><u>Full Guide to Unlock Your Realme C33 2023</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-access-your-allotment-from-the-725-million-facebook-award/"><u>How to Access Your Allotment From the $725 Million Facebook Award</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-management-active-periods-not-permanent-disruptions/"><u>Efficient Window Management: Active Periods, Not Permanent Disruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cybersecurity-insight-key-windows-activities-that-could-conceal-threats/"><u>Cybersecurity Insight: Key Windows Activities That Could Conceal Threats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/evaluating-the-tech-behind-your-memories-the-mycam-cam-reviewed/"><u>Evaluating the Tech Behind Your Memories  The MyCam Cam Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-cost-free-windows-audio-cleaners/"><u>Top 5 Cost-Free Windows Audio Cleaners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-flawed-windows-safety-features-in-win-11/"><u>Fixing Flawed Windows Safety Features in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-9-irritating-windows-11-layouts/"><u>Unraveling 9 Irritating Windows 11 Layouts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/optimize-online-presence-video-embellishment-with-logos-and-watermarks/"><u>Optimize Online Presence  Video Embellishment with Logos and Watermarks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ascertain-hdd-or-ssd-through-windows-settings/"><u>Ascertain HDD or SSD Through Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-the-windows-11-taskbar-teams-chat-removal-will-impact-you/"><u>How the Windows 11 Taskbar Teams Chat Removal Will Impact You</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brilliant-backdrops-using-light-to-enchant-audiences/"><u>Brilliant Backdrops  Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-directx-setup-couldnt-download-the-file-error-on-windows/"><u>How to Fix the “DirectX Setup Couldn’t Download the File” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-of-altering-window-11-admin-identity/"><u>Unveiling the Process of Altering Window 11 Admin Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-history-on-windows-runs/"><u>Addressing Missing History on Windows Runs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-advanced-audio-engineers-pioneering-speech-generation-technology-for-2024/"><u>Updated Advanced Audio Engineers Pioneering Speech Generation Technology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-10-innovations-in-social-media-tiktok-advertising/"><u>[New] In 2024, Top 10 Innovations in Social Media TikTok Advertising</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-sony-xperia-10-v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Sony Xperia 10 V Activity | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-decode-and-clear-windows-10s-activity-archive/"><u>How to Decode and Clear Windows 10'S Activity Archive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-excellent-facial-editors-for-smartphones/"><u>10 Excellent Facial Editors for Smartphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-entry-into-your-windows-11s-application-arcade/"><u>Effortless Entry Into Your Windows 11'S Application Arcade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
+</ul></div>

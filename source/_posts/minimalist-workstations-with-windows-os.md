@@ -1,7 +1,7 @@
 ---
 title: Minimalist Workstations with Windows OS
-date: 2024-06-25T16:57:21.849Z
-updated: 2024-06-26T16:57:21.849Z
+date: 2024-07-12T17:28:49.492Z
+updated: 2024-07-13T17:28:49.492Z
 tags:
   - windows10
   - windows11
@@ -64,7 +64,8 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
 | **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
 
-## 2. Khadas Edge2 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
+## 2. Khadas Edge2
+![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
 
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
@@ -83,7 +84,8 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Other Features** | 3 x MIPI CSI connectors, 2 x MIPI DSI connectors, 2 x 30-pin GPIO expansion header                             |
 | **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
 
-## 3. Hackboard 2 SBC ![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
+## 3. Hackboard 2 SBC
+![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
 
  The [Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
 
@@ -118,7 +120,8 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 | **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
-## Honorable Mention: Raspberry Pi 4 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
+## Honorable Mention: Raspberry Pi 4
+![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
 
  While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the [Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to [install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
 
@@ -154,3 +157,54 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-youtubes-regular-income-mechanism-for-2024/"><u>[Updated] Exploring YouTube's Regular Income Mechanism for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-resource-building-shortcuts-for-microsofts-uwp-apps-in-windows-11/"><u>The Ultimate Resource: Building Shortcuts for Microsoft's UWP Apps in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xs-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone XS without Face ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-lsassexe-component-not-found-error-in-windows/"><u>Addressing lsass.exe Component Not Found Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-compliance-with-insider-editions/"><u>Ensuring Compliance with Insider Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-msresourceappnametext-glitch-win11-style/"><u>Fixing 'MsResource:AppName/Text Glitch', Win11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-smooth-operator-install-in-windows-realm/"><u>Achieve Smooth Operator Install in Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-explorer-tooltips-with-auto-update-notifications/"><u>Amplifying Explorer Tooltips with Auto-Update Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-movie-makers-for-windows-10-free-and-paid/"><u>Updated Best Movie Makers for Windows 10 Free and Paid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-virtualboxs-0x80004005-failure-message/"><u>Resolving Virtualbox's 0X80004005 Failure Message</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-a05s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy A05s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-run-windows-media-player/"><u>Easy Steps to Run Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-desktop-portable-tools-in-win11-menu/"><u>Streamline Your Desktop: Portable Tools in Win11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/self-guided-inspector-writes-secure-your-computer-from-spyware/"><u>Self-Guided Inspector' Writes: Secure Your Computer From Spyware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-typical-directory-display-order-in-win11/"><u>Reviving Typical Directory Display Order in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-secrets-to-swiftly-concluding-a-troubled-update-process/"><u>5 Secrets to Swiftly Concluding a Troubled Update Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-customizing-fn-key-functions/"><u>Win 10/11: Customizing Fn Key Functions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-effortless-mac-pics-with-no-cost/"><u>In 2024, Effortless Mac Pics with No Cost</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-creative-content-the-top-50plus-tiktok-tags-for-2024/"><u>Elevate Your Creative Content  The Top 50+ TikTok Tags for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unsuccessful-onedrive-operations-in-windows-10-and-11/"><u>Fixing Unsuccessful OneDrive Operations in Windows 10 & 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-registry-tweaks-in-windows-terminal/"><u>The Ultimate Guide to Registry Tweaks in Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-ignoring-restricted-feature-on-windows-software/"><u>Tips for Ignoring Restricted Feature on Windows Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-supercharged-strategies-to-locate-online-ids/"><u>2024 Approved  Supercharged Strategies to Locate Online ID's</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-stuck-scrollbar-and-freezing-pages-in-microsoft-excel-on-windows/"><u>Stop Stuck Scrollbar & Freezing Pages in Microsoft Excel on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-hidden-disk-space-with-windows-1011s-deletion-automation/"><u>Unlock Hidden Disk Space with Windows 10/11'S Deletion Automation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mechanics-behind-failed-usb-attachment-in-virtualbox/"><u>Decoding the Mechanics Behind Failed USB Attachment in VirtualBox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-installer-mishaps-a-win11-blueprint/"><u>Unraveling & Correcting Installer Mishaps: A Win11 Blueprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-convert-cr2-images-to-windows-friendly-jpg-format/"><u>Swiftly Convert CR2 Images to Windows-Friendly JPG Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-windows-error-exception-breakpoint-encountered/"><u>Steps to Solve Windows Error: Exception Breakpoint Encountered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-hello-5-ways-to-tackle-fingerprint-problems/"><u>Unlock Windows Hello: 5 Ways to Tackle Fingerprint Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-running-task-manager-as-admin-on-win11/"><u>Elevate Your Computer Experience: Running Task Manager as Admin on Win11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-practice-animation-series-for-2024/"><u>[New] Best Practice Animation Series for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-normal-display-on-microsoft-store/"><u>Restoring Normal Display on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-mistakes-to-sidestep-on-your-first-day-with-windows-11/"><u>Crucial Mistakes to Sidestep on Your First Day with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/becoming-a-storage-strategy-expert-with-windows-diskusage-commands-mastery/"><u>Becoming a Storage Strategy Expert with Windows' DiskUsage Commands Mastery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>[New] Navigating the Maze  FB Messengers - A Video Downloading Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/single-point-protection-the-benefits-of-a-solo-antivirus-on-windows/"><u>Single-Point Protection: The Benefits of a Solo Antivirus on Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-14-pro-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 14 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-disabled-troubleshooters-in-modern-windows/"><u>Resolving Disabled Troubleshooters in Modern Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hanneling-musical-charm-crafting-custom-playlists-on-youtube/"><u>[New] Channeling Musical Charm  Crafting Custom Playlists on Youtube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance</u></a></li>
+</ul></div>

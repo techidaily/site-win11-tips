@@ -1,7 +1,7 @@
 ---
 title: Dismantling Barriers to Running PowerShell Scripts in Windows
-date: 2024-06-25T16:31:00.248Z
-updated: 2024-06-26T16:31:00.248Z
+date: 2024-07-12T16:58:12.866Z
+updated: 2024-07-13T16:58:12.866Z
 tags:
   - windows10
   - windows11
@@ -109,7 +109,8 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  When you finish, close PowerShell and then restart your device.
 
-## 3\. Change the Execution Policy Via the Local Group Policy Editor ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+## 3\. Change the Execution Policy Via the Local Group Policy Editor
+![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -129,7 +130,8 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  From there, click **Apply** and then click **OK** to save these changes.
 
-## 4\. Change the Execution Policy Using the Registry Editor ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+## 4\. Change the Execution Policy Using the Registry Editor
+![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -175,3 +177,42 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/from-red-to-ready-8-methods-to-mend-your-monochrome-misstep/"><u>From Red to Ready: 8 Methods to Mend Your Monochrome Misstep</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-files-fix-incessant-file-explorer-opens/"><u>Halt Files: Fix Incessant File Explorer Opens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-steam-must-be-running-to-play-this-game-error-in-windows-11/"><u>7 Ways to Fix the Steam Must Be Running to Play This Game Error in Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-traffic-ethically-youtubes-best-practices-for-2024/"><u>Elevate Your Traffic Ethically  YouTube's Best Practices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-nokia-c210-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C210 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-understanding-its-windows-purpose/"><u>What Is Pagefile.sys? Understanding Its Windows Purpose</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-should-i-use-audio-ducking-to-help-sound-better-for-2024/"><u>New Should I Use Audio Ducking to Help Sound Better for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-action-cameras-front-faced-views-available/"><u>Leading Action Cameras  Front-Faced Views Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-11-blackout-with-easy-tips-and-tricks/"><u>Bypass Windows 11 Blackout with Easy Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365974672-ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-cleanup-integrating-uninstall-shortcuts-into-wins-interface/"><u>Convenient Cleanup: Integrating Uninstall Shortcuts Into Win's Interface</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-audio-integration-on-reels-for-2024/"><u>The Ultimate Guide to Audio Integration on Reels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-uninstall-restrictions-on-win-11/"><u>Troubleshooting: Overcoming Uninstall Restrictions on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-and-streamlining-the-microsoft-store-in-win11/"><u>Unblocking and Streamlining the Microsoft Store in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-inkjet-print-issues-in-win-10-pc/"><u>Resolving InkJet Print Issues in Win 10 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-devices-on-the-frontline-top-5-ways-to-confirm-availability/"><u>Windows 11 Devices on the Frontline: Top 5 Ways to Confirm Availability</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11s-resolution-settings/"><u>Adjusting Windows 11'S Resolution Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accurate-timekeeping-at-your-fingertips-winning-windows-timers/"><u>Accurate Timekeeping at Your Fingertips: Winning Windows Timers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-speed-up-system-restart-with-windows-11/"><u>Tricks to Speed Up System Restart with Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-money-mastery-made-simple-reddits-13-best-income-streams/"><u>In 2024, Money Mastery Made Simple  Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-entry-point-issues-on-windows-systems/"><u>Bypassing Entry Point Issues on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-hyper-v-enablement-in-win11/"><u>Essential Guide to Hyper-V Enablement in Win11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discover-the-pathway-earning-your-place-as-a-validated-disco-partner-for-2024/"><u>Discover the Pathway  Earning Your Place as a Validated Disco Partner for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-upcoming-license-expiration-error-in-w10w11/"><u>Addressing Upcoming License Expiration Error in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-failed-operations-code-0x0000011b-fixes/"><u>Eliminating 'Failed' Operations: Code 0X0000011B Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-explained-is-it-safe-on-windows-7xp/"><u>YourPhone.exe Explained - Is It Safe on Windows 7/XP?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-choice-best-10-free-cross-device-photo-enhancement-software/"><u>2024 Approved  Expert's Choice  Best 10 Free, Cross-Device Photo Enhancement Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/profile-pictures-download-for-free-for-2024/"><u>Profile Pictures - Download for FREE for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-s24plus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy S24+ Easily?</u></a></li>
+</ul></div>
