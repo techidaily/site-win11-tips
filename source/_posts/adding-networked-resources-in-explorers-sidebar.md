@@ -94,29 +94,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-a-nonfunctional-nvidia-cp-on-windows-11/"><u>How to Reactivate a Nonfunctional Nvidia CP on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-gmaps-integration-process-in-windows/"><u>Navigating the GMaps Integration Process in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reenergizing-your-dead-wireless-hotspot-in-windows-11/"><u>Reenergizing Your Dead Wireless Hotspot in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveil-windows-potential-get-the-outlook-preview-installed/"><u>Unveil Windows' Potential: Get the Outlook Preview Installed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-an-exception-breakpoint-has-been-reached-error-on-windows/"><u>How to Fix the “An Exception Breakpoint Has Been Reached” Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0xc00000f-in-windows-pcs/"><u>Understanding and Resolving Error 0Xc00000f in Windows PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s24-ultra-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S24 Ultra Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-lightning-fast-windowed-gallery-viewer-alert/"><u>[New] In 2024, Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-razr-40-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Razr 40 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/clearing-the-air-understanding-digital-audio-workstations/"><u>Clearing the Air Understanding Digital Audio Workstations</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-8-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 8 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-for-effortless-youtube-video-uploads-via-ios/"><u>[New] Expert Tips for Effortless YouTube Video Uploads via iOS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a56s-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A56s 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

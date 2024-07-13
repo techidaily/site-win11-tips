@@ -66,24 +66,7 @@ thumbnail: https://thmb.techidaily.com/5a94426a32501655e657a3254c012c85eb00e68b9
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-close-examination-of-9-key-factors-that-advantage-pcs/"><u>A Close Examination of 9 Key Factors That Advantage PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-websites-windows-programs-a-tutorial/"><u>Making Websites Windows Programs: A Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejoining-fall-guys-fixing-connectivity-issues-on-pc/"><u>Rejoining Fall Guys: Fixing Connectivity Issues on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-troubleshooting-tips-to-ease-team-communication-errors-on-w11/"><u>Transformative Troubleshooting Tips to Ease Team Communication Errors on W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-bluescreen-mastery-through-11-fixes/"><u>Unraveling Windows 11 Bluescreen: Mastery Through 11 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-code-0x800f0831-the-key-to-smooth-windows/"><u>Decoding Code 0X800F0831: The Key to Smooth Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-techniques-for-saving-mobile-gameplay/"><u>[Updated] 2024 Approved  Essential Techniques for Saving Mobile Gameplay</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-footage-to-film-mastering-the-art-of-cinematic-editing-in-final-cut-pro-x/"><u>New In 2024, From Footage to Film Mastering the Art of Cinematic Editing in Final Cut Pro X</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[New] In 2024, Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>2024 Approved  Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-zoom-screen-recorders/"><u>[New] The Ultimate Guide to Zoom Screen Recorders</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-easiest-way-to-make-mac-slideshows-and-home-videos-ezvid-guide-for-2024/"><u>The Easiest Way to Make Mac Slideshows and Home Videos Ezvid Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-clarity-enjoy-convenience-with-our-top-5-recorder-recommendations/"><u>In 2024, Capture Clarity, Enjoy Convenience with Our Top 5 Recorder Recommendations</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

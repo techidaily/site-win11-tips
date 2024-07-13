@@ -73,26 +73,7 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-interface-adding-portable-software-to-w11/"><u>Optimize Your Interface: Adding Portable Software to W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-code-0xc0000005-on-windows-pc/"><u>How to Fix the Error Code 0Xc0000005 on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-file-backup-with-windows-11/"><u>Streamlining File Backup with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fn-key-techniques-for-efficient-windows-use/"><u>Fn Key Techniques for Efficient Windows Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-explorer-3-ways-to-access-directories-on-windows-pcs/"><u>Game Explorer: 3 Ways to Access Directories on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-visual-identity-top-6-sources-for-youtube-icons-and-logos/"><u>Mastering Visual Identity  Top 6 Sources for YouTube Icons & Logos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-beauteous-journey-mastering-beauty-on-youtube/"><u>[Updated] The Beauteous Journey  Mastering Beauty on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-childhood-wings-5-best-drone-companions/"><u>2024 Approved  Childhood Wings  5 Best Drone Companions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Pro? Complete Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unveiling-the-2024-landscape-for-fb-advertising-success/"><u>Unveiling the 2024 Landscape for FB Advertising Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters/"><u>[New] Chrome OS Vocal Personalization Guide  Review of the Best Speech Converters</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-meizu-21-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Meizu 21 to Roku | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transformative-audio-techniques-srt-conversion-mastery/"><u>[New] Transformative Audio Techniques  SRT Conversion Mastery</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-photobook-to-film-the-guide-for-digitizing-classic-photographs/"><u>[New] In 2024, Photobook to Film  The Guide for Digitizing Classic Photographs</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -94,26 +94,7 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lost-in-5ghz-revive-your-connection-with-these-fixes-for-windows-11/"><u>Lost in 5GHz? Revive Your Connection with These Fixes for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-stuck-windows-enter-mechanism/"><u>Addressing Stuck Windows 'Enter' Mechanism</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-the-corrupted-file-issue-in-windows-11-os-error-0x80070570/"><u>Mending the Corrupted File Issue in Windows 11 OS (Error 0X80070570)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-security-clean-up-clearing-the-old-protection-data/"><u>Windows Security Clean-Up: Clearing the Old Protection Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-subsystem-with-5-crucial-techniques/"><u>Enhancing Windows Subsystem with 5 Crucial Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-virtualbox-usb-connection-issue-on-windows-devices/"><u>Overcoming VirtualBox USB Connection Issue on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/suspending-windows-update-activations/"><u>Suspending Windows Update Activations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-redefining-efficiency-the-latest-in-windows-10-tech/"><u>[Updated] Redefining Efficiency  The Latest in Windows 10 Tech</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-videoharvester-fb-groups/"><u>2024 Approved  VideoHarvester  FB Groups</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-13t-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-a-beginners-guide-to-mac-movie-maker-software/"><u>Unleash Your Creativity A Beginners Guide to Mac Movie Maker Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rising-stars-guide-essential-hashtags-to-increase-your-insta-presence/"><u>[New] 2024 Approved  Rising Stars Guide  Essential Hashtags to Increase Your Insta Presence</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-step-by-step-to-free-digital-sound-logging-the-audacity-way/"><u>In 2024, Step-by-Step to Free Digital Sound Logging The Audacity Way</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>In 2024, Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sprint-time-strategies-comprehensive-guide-to-quick-audible-clarity-restoration-for-2024/"><u>Updated Sprint-Time Strategies Comprehensive Guide to Quick Audible Clarity Restoration for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

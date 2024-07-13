@@ -106,26 +106,7 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/quick-remedies-for-non-functional-windows-alt-codes-49-characters/"><u>Quick Remedies for Non-Functional Windows Alt Codes (49 Characters)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-internal-rdp-problems-on-windows-os/"><u>Eliminating Internal RDP Problems on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-deal-with-imminent-license-expiry-on-your-pc/"><u>How to Deal with Imminent License Expiry on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-launch-chrome-in-your-newest-windows-11-pc/"><u>How to Launch Chrome in Your Newest Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypass-try-now-bluetooth-hurdle-on-pcs-and-tablets/"><u>Bypass 'Try Now' Bluetooth Hurdle on PCs & Tablets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-starters-manual-to-mastering-screen-clarity/"><u>[Updated] Starter's Manual to Mastering Screen Clarity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-2023-bandicam-insight-and-tips-for-2024/"><u>[Updated] The Complete 2023 Bandicam Insight & Tips for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-conquer-the-blackened-canvas-of-youtube-for-2024/"><u>[Updated] Conquer the Blackened Canvas of YouTube for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-broadcast-your-google-meet-directly-to-youtubes-stage/"><u>[Updated] Broadcast Your Google Meet Directly to YouTube's Stage</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-a-spooky-shadow-effect/"><u>2024 Approved How to Add a Spooky Shadow Effect</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/6-best-gopro-helmet-mounts-and-how-to-use-them/"><u>6 Best GoPro Helmet Mounts and How to Use Them</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/sonic-skills-mac-recording-tips-for-2024/"><u>Sonic Skills  Mac Recording Tips for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-fix-techniques-for-social-media-collaborative-art/"><u>[New] Quick-Fix Techniques for Social Media Collaborative Art</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

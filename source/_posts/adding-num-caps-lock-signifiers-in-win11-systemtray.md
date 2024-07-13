@@ -103,28 +103,7 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/crucial-aspects-of-revamping-your-windows-setup/"><u>Crucial Aspects of Revamping Your Windows Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-experience-with-windows-11-widgets/"><u>Elevate Your Desktop Experience with Windows 11 Widgets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/brilliant-obsidian-structure-for-clear-notes/"><u>Brilliant Obsidian Structure for Clear Notes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-copilot-key-what-does-it-mean-for-your-windows-11-pc/"><u>Microsoft's Copilot Key: What Does It Mean For Your Windows 11 PC?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-read-only-mode-a-guide-for-windows-users/"><u>Disabling Read-Only Mode: A Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-fixing-excel-notation-on-notepad/"><u>Guide: Fixing Excel Notation on Notepad</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-tips-for-maximizing-your-facebook-story-impact-for-2024/"><u>Essential Tips for Maximizing Your Facebook Story Impact for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-caption-creation-process-for-compelling-facebook-media/"><u>[New] 2024 Approved  The Ultimate Caption Creation Process for Compelling Facebook Media</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/professional-picture-taking-within-microsoft-teams-for-2024/"><u>Professional Picture Taking Within Microsoft Teams for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamline-screen-capture-on-google-chat/"><u>[Updated] 2024 Approved  Streamline Screen Capture on Google Chat</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-spectacular-gopro-time-lapses-made-easy/"><u>Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unleash-your-fb-ad-potential-with-these-20-free-editing-solutions/"><u>[New] 2024 Approved  Unleash Your Fb Ad Potential with These 20 Free Editing Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-mogul-with-maximum-gross-income/"><u>[Updated] YouTube Mogul with Maximum Gross Income</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevate-your-earning-game-youtube-on-facebook-revenue-strategies/"><u>[Updated] 2024 Approved  Elevate Your Earning Game  YouTube on Facebook Revenue Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-digital-vaults-best-cloud-platforms-for-future-success/"><u>[New] Mastering Digital Vaults  Best Cloud Platforms for Future Success</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-problem-solving-guide-expert-solutions/"><u>Updated FCPX Problem-Solving Guide Expert Solutions</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

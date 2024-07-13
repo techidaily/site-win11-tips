@@ -71,29 +71,7 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/restoring-normalcy-show-startups-on-task-manager/"><u>Restoring Normalcy: Show Startups on Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-iomap64-syscall-failures-on-windows-pcs/"><u>Essential Fixes for IOMap64 Syscall Failures on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sorting-perfection-windows-software-that-shines/"><u>Sorting Perfection: Windows Software That Shines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenate-your-machine-windows-11s-bloatware-hack/"><u>Rejuvenate Your Machine: Windows 11'S Bloatware Hack</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-excel-essential-productivity-software-for-professionals-on-windows/"><u>Efficiently Excel: Essential Productivity Software for Professionals on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undetectable-disk-hiding-methods-in-windows-10-and-11/"><u>Undetectable Disk Hiding Methods in Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-methods-overcoming-defender-engine-outage-in-5-steps/"><u>Essential Methods: Overcoming Defender Engine Outage in 5 Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unhinge-your-onedrive-link-from-microsoft-profile-in-windows/"><u>Unhinge Your OneDrive Link From Microsoft Profile in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-share-failures-on-geforce-experience-for-w10w11/"><u>Tackling Share Failures on GeForce Experience for W10/W11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-your-minecraft-recording-with-these-hacks-for-2024/"><u>[New] Perfect Your Minecraft Recording with These Hacks for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-examination-of-lg-27ud68-display-tech/"><u>2024 Approved  A Comprehensive Examination of LG 27UD68 Display Tech</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-quieting-the-gusts-innovative-approaches-for-wind-noise-reduction-in-acoustic-files/"><u>New In 2024, Quieting the Gusts Innovative Approaches for Wind Noise Reduction in Acoustic Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-freezing-fun-at-the-beijing-olympics-2022/"><u>In 2024, Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://animation-videos.techidaily.com/2024-approved-10-great-apps-for-turning-funny-animated-images-into-comics/"><u>2024 Approved 10 Great Apps for Turning Funny Animated Images Into Comics</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-maximize-your-reach-optimal-twitter-video-aspect-ratio-uncovered/"><u>In 2024, Maximize Your Reach Optimal Twitter Video Aspect Ratio Uncovered</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastery-start-essence-of-storyline-development/"><u>In 2024, Mastery Start  Essence of Storyline Development</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-exposing-the-accelerating-path-of-8-youtube-content-creators/"><u>In 2024, Exposing the Accelerating Path of 8 YouTube Content Creators</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-play-7t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor Play 7T?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>[New] 2024 Approved  Photoshop HDR Mastery  From Basics to Advanced Strategies</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -94,28 +94,7 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/swiftly-recover-icon-positions-in-windows-10/"><u>Swiftly Recover Icon Positions in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-rockalldlldll-disappearance-issue-windows/"><u>Rectifying Rockalldll.dll Disappearance Issue (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-samsung-dex-connect-galaxy-and-pc-seamlessly/"><u>Mastering Samsung DeX: Connect Galaxy & PC Seamlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-proxy-settings-glitch/"><u>Quick Fix for Windows Proxy Settings Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/counteracting-shutdownrestart-blockage-due-to-deceptive-apps-in-windows/"><u>Counteracting Shutdown/Restart Blockage Due to Deceptive Apps in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-annoyance-of-a-never-ending-update-loop/"><u>Avoid the Annoyance of a Never-Ending Update Loop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-disabling-discords-auto-checkup-at-startup/"><u>Strategies for Disabling Discord's Auto-Checkup at Startup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-messages-failed-to-load-error-on-discord-for-windows/"><u>How to Fix the Messages Failed to Load Error on Discord for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-lost-wireless-ties-with-these-10-windows-10-tweaks/"><u>Reclaiming Lost Wireless Ties with These 10 Windows 10 Tweaks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-building-a-professional-online-brand-as-a-game-vlogger-for-2024/"><u>[Updated] Building a Professional Online Brand as a Game Vlogger for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/audio-conversion-made-simple-our-top-12-picks/"><u>Audio Conversion Made Simple Our Top 12 Picks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-14-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 14 Plus?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-creative-freedom-the-best-9-online-editors-for-beginners-for-2024/"><u>[New] Creative Freedom  The Best 9 Online Editors for Beginners for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[Updated] Navigating and Mastering Instagram Filters  A 2023 Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>2024 Approved  Rise Above  Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-10-leading-free-online-daw-platforms-you-must-check-out-for-2024/"><u>Updated The 10 Leading Free Online DAW Platforms You Must Check Out for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/"><u>DIY Split-Screen Video Tutorials for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-sound-in-visual-storytelling-on-instagram/"><u>[New] The Art of Sound in Visual Storytelling on Instagram</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-revolutionize-your-feed-with-these-10-insta-tools/"><u>In 2024, Revolutionize Your Feed with These 10 Insta-Tools</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

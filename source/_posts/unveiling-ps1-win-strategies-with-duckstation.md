@@ -155,25 +155,4 @@ Duckstation's installation differs depending on the platform:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-rectify-cant-add-your-folder-now-in-onedrive/"><u>Essential Steps to Rectify 'Can't Add Your Folder Now' In OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modern-standby-uncovering-its-defects-and-criticisms/"><u>Modern Standby: Uncovering Its Defects and Criticisms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-snapping-in-depth-guide-to-powertoy-window-layouts/"><u>Master the Art of Snapping: In-Depth Guide to PowerToy Window Layouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-the-nvidia-geforce-connection-hurdle-in-win-11/"><u>Bypassing the Nvidia GeForce Connection Hurdle in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073d26/"><u>Troubleshooting Microsoft Store Error 0X80073D26</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-13-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-expert-review-of-avs-video-editor-the-good-the-bad-and-the-ugly/"><u>New In 2024, Expert Review of AVS Video Editor The Good, the Bad, and the Ugly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ace-google-call-best-screen-saver-bgs-list-for-2024/"><u>Ace Google Call  Best Screen Saver BGs List for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-xcover-7-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy XCover 7 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 12 5G Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-beginners-pathway-to-leveraging-facebook-statistics/"><u>[Updated] 2024 Approved  The Beginner's Pathway to Leveraging Facebook Statistics</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-made-easy-for-kids-top-free-and-paid-apps/"><u>Updated In 2024, Video Editing Made Easy for Kids Top Free and Paid Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/in-2024-top-10-free-online-video-invitation-creators/"><u>In 2024, Top 10 Free Online Video Invitation Creators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-beats-in-pictures-the-insta-storytelling-wave-for-2024/"><u>[New] Beats in Pictures  The Insta Storytelling Wave for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>[Updated] Visual Storytelling at Its Finest  YouTube Trailers Through Filmora's Lens</u></a></li>
-</ul></div>
+

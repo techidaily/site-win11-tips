@@ -94,29 +94,7 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/eliminating-additional-views-in-win-11s-context-menu/"><u>Eliminating Additional Views in Win 11'S Context Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-automating-dns-client-service-configuration/"><u>Guide to Automating DNS Client Service Configuration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-empty-directory-mistake-code-0x80070091-guide/"><u>Clearing Up Empty Directory Mistake: Code 0X80070091 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-how-to-reinstall-java-correctly/"><u>Unlocking Windows: How to Reinstall Java Correctly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disk-errors-with-advanced-windows-tools/"><u>Fixing Disk Errors with Advanced Windows Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-shaded-world-of-microsofts-simple-scribbler/"><u>The Shaded World of Microsoft's Simple Scribbler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-temp-files-in-windows-11/"><u>How to Safeguard Your Temp Files in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-microphone-issues-live-recording-fixes-in-obs-w11/"><u>Troubleshooting Microphone Issues: Live Recording Fixes in OBS, W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-5-best-torrent-clients-for-windows/"><u>The 5 Best Torrent Clients for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-boosting-virtualbox-version-70-on-windows-11/"><u>Step-by-Step Guide: Boosting VirtualBox Version 7.0 on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 mini Properly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-5-ios-friendly-fb-videos-optimal-downloading-apps/"><u>[Updated] 5 iOS-Friendly FB Videos  Optimal Downloading Apps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-journey-through-japan-using-snapchats-anime-filters/"><u>[New] A Journey Through Japan  Using Snapchat’s Anime Filters</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-of-the-incredible-tools-hidden-under-final-cut-pro-x-we-bring-final-cut-pro-l-cuts-and-j-cuts-in-todays-article-learn-what-is-a-j-cut-in-final-cut-p/"><u>Updated Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-f15-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy F15 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-v30-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo V30 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-windows-video-editing-apps-the-best-imovie-substitutes-for-2024/"><u>New Windows Video Editing Apps The Best iMovie Substitutes for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-90-gt-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 90 GT FRP</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-selections-top-rated-mac-video-recording-apps/"><u>2024 Approved  Elite Selections  Top-Rated Mac Video Recording Apps</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

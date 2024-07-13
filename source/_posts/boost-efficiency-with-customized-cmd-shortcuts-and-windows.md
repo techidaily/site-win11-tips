@@ -139,25 +139,7 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/tailored-tools-focused-uninstall-strategies-for-windows-1011/"><u>Tailored Tools: Focused Uninstall Strategies for Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-no-powershell-found-on-your-windows-device/"><u>Remedies for No PowerShell Found on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cpu-gen-identification-using-eight-proven-windows-methods/"><u>CPU Gen Identification Using Eight Proven Windows Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-game-launch-freezes-steps-to-mend-windows-11-steam/"><u>Troubleshooting Game Launch Freezes: Steps to Mend Windows 11 Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/organize-windows-icons-harmoniously/"><u>Organize Windows Icons Harmoniously</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approaches-to-addressing-critical-app-issues/"><u>Approaches to Addressing Critical App Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-old-school-giggles-unpacking-goofy-movie/"><u>In 2024, Old School Giggles  Unpacking 'Goofy Movie'</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-insights-into-magix-acid-pro-and-alternatives/"><u>[New] Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-art-of-captivation-discovering-the-most-effective-20-tiktok-caption-techniques/"><u>[New] The Art of Captivation  Discovering the Most Effective 20 TikTok Caption Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-seamless-text-overlay-the-key-to-interactive-instagram-media/"><u>[Updated] In 2024, Seamless Text Overlay  The Key to Interactive Instagram Media</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-send-a-wave-of-happiness-steps-to-sending-gifs-in-snapchat/"><u>[Updated] Send a Wave of Happiness  Steps to Sending Gifs in Snapchat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi 13T Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-best-free-and-paid-online-vertical-video-editors-for-2024/"><u>The Best Free and Paid Online Vertical Video Editors for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/slow-mo-to-fast-mo-10-best-free-video-speed-editor-apps-for-ios-and-android/"><u>Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-smooth-download-of-unmarked-tiktok-content/"><u>[Updated] Smooth Download of Unmarked TikTok Content</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

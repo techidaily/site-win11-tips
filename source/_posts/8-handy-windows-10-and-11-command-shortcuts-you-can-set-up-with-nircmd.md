@@ -139,25 +139,7 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/dive-into-the-depth-of-complete-screenshots-via-windows-snipping-tool/"><u>Dive Into the Depth of Complete Screenshots via Windows' Snipping Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11s-cloud-storage-functionality/"><u>Streamlining Windows 11'S Cloud Storage Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-original-terminals-in-win11/"><u>Regaining Original Terminals in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/map-screenshot-archives-in-windows/"><u>Map Screenshot Archives in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-define-your-own-idle-time/"><u>Windows: Define Your Own Idle Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-3-windows-group-policy-approaches/"><u>Navigating 3 Windows Group Policy Approaches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-obs-studios-failed-to-connect-to-server-error-in-windows/"><u>7 Ways to Fix OBS Studio's Failed to Connect to Server Error in Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-digital-content-broadcast-via-microsoft-streamer/"><u>[New] Digital Content Broadcast via Microsoft Streamer</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-by-step-iphone-360-degrees-and-fb-sharing/"><u>In 2024, Step-by-Step  IPhone, 360 Degrees, & FB Sharing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elite-console-emulation-top-5-ps3-options-for-2024/"><u>[New] Elite Console Emulation  Top 5 PS3 Options for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-video-brightness-adjustment-software-online-and-offline/"><u>2024 Approved Top Video Brightness Adjustment Software Online and Offline</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-record-clips-using-your-camera-and-edit-them-using-wondershare-filmora-to-make-a-loop-video-a-complete-guide-for-beginners/"><u>2024 Approved How to Record Clips Using Your Camera and Edit Them Using Wondershare Filmora to Make a Loop Video? A Complete Guide for Beginners</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>[New] How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-online-sharing-with-these-top-18-webcam-devices/"><u>In 2024, Revolutionize Online Sharing with These Top 18 Webcam Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook-for-2024/"><u>Connect & Entertain  Stream Xbox Games on the World's Stage - Facebook for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

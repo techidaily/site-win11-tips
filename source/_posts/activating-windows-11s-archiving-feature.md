@@ -80,29 +80,7 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/secure-downloads-for-windows-top-10-choices-revealed/"><u>Secure Downloads for Windows: Top 10 Choices Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-online-gaming-prevent-lol-disconnections-in-windows/"><u>Secure Online Gaming: Prevent LoL Disconnections in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-printer-settings-the-easy-way-in-win11-max-50-chars/"><u>Guide to Printer Settings: The Easy Way in Win11 (Max 50 Chars)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-deactivated-rulesets-in-outlookwindows/"><u>Troubleshooting Deactivated Rulesets in Outlook/Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-missing-taskbar-notifications-in-windows/"><u>Fixing Missing Taskbar Notifications in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-of-win11s-disconnected-5g-wi-fi/"><u>Tackling the Mystery of Win11's Disconnected 5G Wi-Fi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-personalized-lock-patterns-on-windows-11/"><u>Mastering Personalized Lock Patterns on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-file-stewardship-streamlining-googledrive-and-dropbox-via-windows-c/"><u>Swift File Stewardship: Streamlining GoogleDrive & Dropbox via Windows C</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-aggregatorhostexe-on-windows-exploring-its-functionality-and-safety/"><u>What Is AggregatorHost.exe on Windows? Exploring Its Functionality and Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-interface-clarity-displaying-this-pc-icon/"><u>Optimizing Interface Clarity: Displaying 'This PC' Icon</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-ultimate-7-private-film-access-tools/"><u>[Updated] In 2024, Ultimate 7 Private Film Access Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-graphics-selection-for-high-definition-videography/"><u>[Updated] 2024 Approved  Top Graphics Selection for High-Definition Videography</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-direct-download-and-mp3-creation-for-streaming-video-files/"><u>2024 Approved  Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-a2plus-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi A2+ FRP Bypass</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms/"><u>2024 Approved  Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-action-to-archive-a-guide-to-top-screen-recording-tools/"><u>[New] In 2024, Action to Archive  A Guide to Top Screen Recording Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-correct-video-brightness-issues-with-these-top-rated-editors/"><u>Updated 2024 Approved Correct Video Brightness Issues with These Top-Rated Editors</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-guide-to-volume-manipulation-in-audacity/"><u>Updated 2024 Approved The Essential Guide to Volume Manipulation in Audacity</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/is-my-friends-account-invisible-potential-block/"><u>Is My Friend's Account Invisible? Potential Block</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[Updated] 2024 Approved  Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

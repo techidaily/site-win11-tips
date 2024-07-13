@@ -73,24 +73,7 @@ thumbnail: https://thmb.techidaily.com/0e797ac9495f1912f56b8317309a2339c9d64cc11
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-perfection-in-window-management-via-alomware/"><u>Achieving Perfection in Window Management via AlomWare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-mend-flickering-screens-in-windows-11/"><u>How to Mend Flickering Screens in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-reset-folder-view-settings-to-default-in-windows-11/"><u>3 Ways to Reset Folder View Settings to Default in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-know-how-to-convert-youtube-sbv-subtitles-to-srt-format-here-is-an-ultimate-guide-about-it/"><u>Do You Want to Know How to Convert YouTube SBV Subtitles to SRT Format? Here Is an Ultimate Guide About It</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-windows-movie-maker-substitutes/"><u>New 2024 Approved The Ultimate List of Windows Movie Maker Substitutes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-achieving-high-quality-gopro-videos/"><u>[New] Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-new-youtube-earnings-landscape-for-2024/"><u>[Updated] Navigating the New YouTube Earnings Landscape for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras/"><u>[New] How to Shoot IGTV Videos With Smartphone/DLSR Cameras?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-secrets-to-attractive-profile-videos/"><u>2024 Approved  The Secrets to Attractive Profile Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia G22 | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

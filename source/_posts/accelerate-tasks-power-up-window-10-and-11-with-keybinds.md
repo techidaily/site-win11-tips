@@ -139,28 +139,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-synchronized-note-taking-in-windows-11/"><u>The Art of Synchronized Note-Taking in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secrets-to-turn-off-lurking-apps-in-window-11/"><u>Secrets to Turn Off Lurking Apps in Window 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x80070570-file-corruption-in-windows-11/"><u>Troubleshooting Code 0X80070570 File Corruption in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-network-disruption-unraveling-0x800704b3-code/"><u>Fixing Network Disruption - Unraveling 0X800704B3 Code</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-obs-studio-not-launching-on-windows/"><u>How to Fix OBS Studio Not Launching on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-connect-airpods-to-windows-machines/"><u>Effortlessly Connect AirPods to Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-xfffffddd-print-error-in-xp/"><u>Overcoming the Challenge: XFFFFFDDD Print Error in XP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-remedying-full-screen-troubles-in-sonic-games/"><u>Understanding and Remedying Full-Screen Troubles in Sonic Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-choose-from-the-finest-7-android-browsers-without-ads/"><u>[Updated] 2024 Approved  Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[New] 2024 Approved  Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco C65 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>[Updated] Transformative Tech  Upgrading Phones for a VR Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-apeaksofts-screen-tech-revolution-2023-review/"><u>[New] Apeaksoft's Screen Tech Revolution  2023 Review</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[New] In 2024, Crafting Your Perfect YouTube Playlists  A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2019-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2019 Cannot Access the File Error | Stellar</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-building-a-solid-base-for-higher-instagram-video-view-counts/"><u>2024 Approved  Building a Solid Base for Higher Instagram Video View Counts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterclass-in-personal-4k-editor-pc-assembly/"><u>2024 Approved  Masterclass in Personal 4K Editor PC Assembly</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

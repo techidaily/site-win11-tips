@@ -73,25 +73,7 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-pubg-saved-data-in-windows-1110/"><u>Reviving Your PUBG Saved Data in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-windows-sandbox-no-hypervisor-was-found-0xc0351000-error/"><u>How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rapid-launcher-loading/"><u>Mastering the Art of Rapid Launcher Loading</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-with-apple-maps-from-a-pc/"><u>Steering with Apple Maps From a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quickly-remove-bloatware-from-windows-11/"><u>How to Quickly Remove Bloatware From Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-pc-chips-identifying-gen-through-windows-8-ways/"><u>Navigating the World of PC Chips – Identifying Gen Through Windows (8 Ways)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-schedule-breakdown-quickly/"><u>Troubleshoot Windows Schedule Breakdown Quickly</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-free-sound-effects-for-youtubers/"><u>[New] In 2024, Download Free Sound Effects for YouTubers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reviving-your-stream-tackling-facebook-live-glitches/"><u>[Updated] In 2024, Reviving Your Stream  Tackling Facebook Live Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-narzo-n55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Narzo N55 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionizing-iphone-photography-with-hdr-techniques/"><u>Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-improve-your-work-efficiency-leveraging-snap-photography-techniques-for-2024/"><u>[New] Improve Your Work Efficiency  Leveraging Snap Photography Techniques for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones-for-2024/"><u>Transforming Everyday Alerts  How to Create Customizable Tones on Android Phones for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-for-viral-talent/"><u>In 2024, Masterclass for Viral Talent</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

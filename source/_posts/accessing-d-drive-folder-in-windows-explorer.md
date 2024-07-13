@@ -94,26 +94,7 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-an-exception-breakpoint-has-been-reached-error-on-windows/"><u>How to Fix the “An Exception Breakpoint Has Been Reached” Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-the-hurdles-of-xbox-game-pass-error-code-0-essential-tips-for-windows-11-users/"><u>Avoiding the Hurdles of Xbox Game Pass Error Code 0: Essential Tips for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapt-calc-app-for-night-time-viewing-dark-mode-tutorial/"><u>Adapt Calc App for Night-Time Viewing: Dark Mode Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-excel-essential-productivity-software-for-professionals-on-windows/"><u>Efficiently Excel: Essential Productivity Software for Professionals on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-email-setup-connecting-your-gmail-to-outlook-windows/"><u>Simplifying Email Setup: Connecting Your Gmail to Outlook Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immediate-color-correction-with-canons-paired-luts-for-2024/"><u>Immediate Color Correction with Canon's Paired LUTs for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-foodie-fads-the-tiktok-treat-that-took-over/"><u>2024 Approved  Foodie Fads  The #Tiktok Treat that Took Over</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-recording-the-next-level-of-play/"><u>2024 Approved  Recording the Next Level of Play</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/"><u>In 2024, Picture-to-Motion Transformation with Music Elements</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-photoshop-sway-decrease-pivotal-or-superfluous/"><u>[Updated] 2024 Approved  Photoshop Sway Decrease  Pivotal or Superfluous?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-x-creating-stunning-titles-for-your-videos/"><u>New In 2024, Final Cut Pro X Creating Stunning Titles for Your Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-internet-locales-that-promote-in-person-friendships-for-2024/"><u>The Ultimate List of Internet Locales That Promote In-Person Friendships for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[Updated] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-photo-editing-apps-ranked-by-quality-on-windowsmac/"><u>Free Photo Editing Apps Ranked by Quality on Windows/Mac</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
