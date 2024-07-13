@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="WinStorageSizeOptimization,PowerShellStorageSizing,StoragePlanningPSWindows,StorageEfficiencyPS,PSStorageConfigWin,SizingScriptsWindowsPowerShell,OptimalStoragePowershell">
     
     <meta name="author" content="Richard">
     <!-- preconnect -->
@@ -35,8 +34,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-ise-start-menu.jpg">
-<meta property="article:published_time" content="2024-06-25T09:01:00.250Z">
-<meta property="article:modified_time" content="2024-06-26T09:01:00.250Z">
+<meta property="article:published_time" content="2024-07-12T09:33:00.980Z">
+<meta property="article:modified_time" content="2024-07-13T09:33:00.980Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -604,7 +603,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4944</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">5481</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -657,15 +656,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 17:01</span>
-        <span class="mobile">2024-06-25 17:01</span>
+        <span class="desktop">2024-07-12 17:33</span>
+        <span class="mobile">2024-07-12 17:33</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 17:01</span>
-            <span class="mobile">2024-06-26 17:01</span>
+            <span class="desktop">2024-07-13 17:33</span>
+            <span class="mobile">2024-07-13 17:33</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -731,12 +730,13 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Mastering-the-Science-of-Storage-Sizing-in-Windows-Through-Powershell"><a href="#Mastering-the-Science-of-Storage-Sizing-in-Windows-Through-Powershell" class="headerlink" title="Mastering the Science of Storage Sizing in Windows Through Powershell"></a>Mastering the Science of Storage Sizing in Windows Through Powershell</h2><p> If you want to investigate which folders are taking up your storage space, you can check the folder’s size to determine what’s hogging your drive. Checking folder size is also helpful if you need to move a large folder to a USB drive or cloud storage. An easy way to do this on Windows is to use File Explorer and open the folder Properties dialog.</p>
 <p> File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.</p>
-<h2 id="How-to-Calculate-a-Folder’s-Size-Using-PowerShell-on-Windows"><a href="#How-to-Calculate-a-Folder’s-Size-Using-PowerShell-on-Windows" class="headerlink" title="How to Calculate a Folder’s Size Using PowerShell on Windows "></a>How to Calculate a Folder’s Size Using PowerShell on Windows <img  
+<h2 id="How-to-Calculate-a-Folder’s-Size-Using-PowerShell-on-Windows"><a href="#How-to-Calculate-a-Folder’s-Size-Using-PowerShell-on-Windows" class="headerlink" title="How to Calculate a Folder’s Size Using PowerShell on Windows"></a>How to Calculate a Folder’s Size Using PowerShell on Windows</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-bytes.jpg"
                       alt="powershell cmdlet to view folder size bytes"
-                ></h2><p> To calculate a folder’s size, you’ll need to use the two PowerShell cmdlets, Get-ChildItem and Measure-Object, followed by the Length property and Sum parameter.</p>
+                ></p>
+<p> To calculate a folder’s size, you’ll need to use the two PowerShell cmdlets, Get-ChildItem and Measure-Object, followed by the Length property and Sum parameter.</p>
 <p> The cmdlet Get-ChildItem lets you retrieve information from a specified directory and its sub-directories. The Measure-Object cmdlet and the associated properties and parameters calculate the sum of the length property for the items returned by the Get-ChildItem (alias ‘cgi’) cmdlet.</p>
 <p> If you are new to PowerShell, you may want to read our explainer on <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-powershell-commands-cmdlets/" >essential PowerShell cmdlets <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to understand the basics of PowerShell.</p>
 <p> Now that you are familiar with the PowerShell commands, here is how to use them to get any folder size.</p>
@@ -768,21 +768,23 @@
                 ></p>
 <p><code>(gci E:\download *.jpg | measure Length -s).sum / 1Mb</code></p>
 <p> Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.</p>
-<h2 id="How-to-Get-the-Subfolder-Size-Using-PowerShell"><a href="#How-to-Get-the-Subfolder-Size-Using-PowerShell" class="headerlink" title="How to Get the Subfolder Size Using PowerShell "></a>How to Get the Subfolder Size Using PowerShell <img  
+<h2 id="How-to-Get-the-Subfolder-Size-Using-PowerShell"><a href="#How-to-Get-the-Subfolder-Size-Using-PowerShell" class="headerlink" title="How to Get the Subfolder Size Using PowerShell"></a>How to Get the Subfolder Size Using PowerShell</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg"
                       alt="powershell cmdlet to view folder subfolder size"
-                ></h2><p> The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you’ll need to add the <strong>-Recurse</strong> parameter to the above command. In addition, we’ll use the -force parameter to access hidden and system files.</p>
+                ></p>
+<p> The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you’ll need to add the <strong>-Recurse</strong> parameter to the above command. In addition, we’ll use the -force parameter to access hidden and system files.</p>
 <p> For example, to get the total size of your C:\Users directory and its subdirectories, including the hidden files, the PowerShell command will look something like this:</p>
 <p><code>((gci -force c:\Users -Recurse -ErrorAction SilentlyContinue| measure Length -s).sum / 1Gb)</code></p>
 <p> The output in this instance shows 54 GB approx. as the total size of the c:\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.</p>
-<h2 id="How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell"><a href="#How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell" class="headerlink" title="How to Get the Subfolder Size in a Table Format Using PowerShell "></a>How to Get the Subfolder Size in a Table Format Using PowerShell <img  
+<h2 id="How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell"><a href="#How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell" class="headerlink" title="How to Get the Subfolder Size in a Table Format Using PowerShell"></a>How to Get the Subfolder Size in a Table Format Using PowerShell</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg"
                       alt="windows powershell ISE script folder size view"
-                ></h2><p> If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.</p>
+                ></p>
+<p> If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.</p>
 <p> To run this script, you can use PowerShell ISE. Here’s how to do it:</p>
 <ol>
 <li>Press the <strong>Win key</strong> and type <strong>PowerShell ISE</strong>. Click on <strong>Windows PowerShell ISE</strong> from the search result.<br><img  
@@ -800,33 +802,51 @@
 <h2 id="Get-the-Folder-and-Subfolder-Size-Using-PowerShell"><a href="#Get-the-Folder-and-Subfolder-Size-Using-PowerShell" class="headerlink" title="Get the Folder and Subfolder Size Using PowerShell"></a>Get the Folder and Subfolder Size Using PowerShell</h2><p> File Explorer on Windows can help you calculate the size of any folder and file. However, if you work with multiple large folders or in an organization with hundreds of computers to manage, using PowerShell can help you get things done faster.</p>
 <p> That said, if you prefer a more GUI-based solution, consider using a disk analyzer tool. These tools can help you visualize the system’s file structure and show a report detailing the contents taking up most space on your system.</p>
 <p> File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/decrypting-windows-108-error-messages-locations/"><u>Decrypting Windows 10/8 Error Messages Locations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-6-excellent-tools-for-controlling-windows-screen-luminosity/"><u>Unveiling the 6 Excellent Tools for Controlling Windows Screen Luminosity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-as-a-windows-vr-device/"><u>Adapting Oculus Quest 2 as a Windows VR Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-routines-to-reactivate-window-explorer/"><u>Easy Routines to Reactivate Window Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-automate-microsoft-to-do-with-ifttt/"><u>How to Automate Microsoft To Do With IFTTT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/where-are-windows-photo-repositories/"><u>Where Are Window's Photo Repositories?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-google-pixel-8-pro-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Google Pixel 8 Pro.</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro, Apples New iPhone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS without Passcode or Face ID</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-k70-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi K70 without App | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/get-noticed-on-tiktok-understanding-aspect-ratio/"><u>Get Noticed on TikTok Understanding Aspect Ratio</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/in-2024-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>In 2024, The Anticipated Shifts in Social Media Marketing  FB Ad Trends of '24</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-in-2024-diy-filmmaking-for-youtube-personalities/"><u>[Updated] In 2024, DIY Filmmaking for YouTube Personalities</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-12-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 12 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins></p>
+      data-full-width-responsive="true"></ins><br><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-1011s-trouble-solving-capabilities/"><u>Enhancing Windows 10/11'S Trouble-Solving Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resetting-windows-11-applications/"><u>Guide to Resetting Windows 11 Applications</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/2024-approved-shopping-highlights-editing-steps-for-hauls-and-collections/"><u>2024 Approved  Shopping Highlights  Editing Steps for Hauls & Collections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-methods-overcoming-defender-engine-outage-in-5-steps/"><u>Essential Methods: Overcoming Defender Engine Outage in 5 Steps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-collaboration-on-a-sleeker-platform/"><u>Enhanced Collaboration on a Sleeker Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disconnections-windows-and-printers/"><u>Overcoming Disconnections: Windows & Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-top-7-secure-windows-applications-153-chars/"><u>Exclusive Guide to Top 7 Secure Windows Applications (153 Chars)</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[Updated] In 2024, Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rectifying-dism-failure-0x800f082f/"><u>Mastering the Art of Rectifying DISM Failure: 0X800F082F</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/9-solutions-to-fix-meizu-21-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Meizu 21 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-microphone-errors-during-valorant-matches/"><u>Eliminating Microphone Errors During Valorant Matches</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[New] An All-Inclusive Subtitle Handbook  From Basics to Advanced Tips</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/cutting-edge-mac-accessory-visionplussound-capturing/"><u>Cutting-Edge Mac Accessory  Vision+Sound Capturing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/2024-approved-personalized-cost-free-epilogue-soundscape-creation/"><u>2024 Approved  Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-your-guide-to-repairing-windows-software-glitches/"><u>Immediate Actions: Your Guide to Repairing Windows Software Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-game-capture-denial-due-to-low-specs/"><u>Fixing Windows Game Capture Denial Due to Low Specs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-search-11-key-strategies/"><u>Master Your Windows Search: 11 Key Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-cannot-continue-error-in-amd-installation/"><u>Overcoming the 'Cannot Continue' Error in AMD Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-a-non-installed-disk-on-your-win-11-pc/"><u>How to Restore a Non-Installed Disk on Your Win 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-failure-lockout-period-on-sign-in-errors/"><u>Personalizing Failure Lockout Period on Sign In Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-no-lags-smoother-youtube-videos-on-windows/"><u>Navigate No Lags: Smoother YouTube Videos on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/how-to-do-oneplus-12-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 12 Screen Sharing | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/new-instagram-music-lawfare-summary/"><u>[New] Instagram Music Lawfare Summary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-locate-the-lurking-lost-disk/"><u>How to Locate the Lurking Lost Disk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expedite-your-browser-eliminating-youtube-stalls-in-chrome/"><u>Expedite Your Browser: Eliminating YouTube Stalls in Chrome</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-premium-online-tools-for-high-quality-music-editing-for-2024/"><u>New The Ultimate Guide Premium Online Tools for High-Quality Music Editing for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-apps.techidaily.com/new-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>New 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gateway-to-your-inner-world-accessing-windows-hidden-char-personality-screen/"><u>Gateway to Your Inner World: Accessing Windows' Hidden Char Personality Screen</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-unlocking-stuck-battlenet-login/"><u>Expert Guide to Unlocking Stuck Battle.net Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-10-pricing-with-smart-key-acquisition/"><u>Mastering Windows 10 Pricing with Smart Key Acquisition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-differences-between-exe-and-msi-files/"><u>Exploring the Differences Between EXE & MSI Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-check-for-updates-in-system-context-menu/"><u>Integrating Check for Updates in System Context Menu</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/in-2024-reworking-your-online-identity-comprehensive-tiktok-username-change-protocols/"><u>In 2024, Reworking Your Online Identity  Comprehensive TikTok Username Change Protocols</u></a></li>
+</ul></div>
 
         </div>
 
@@ -837,11 +857,11 @@
         <li><strong>Title:</strong> Mastering the Science of Storage Sizing in Windows Through Powershell</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 17:01:00</li>
+                :</strong> 2024-07-12 17:33:00</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 17:01:00
+                    :</strong> 2024-07-13 17:33:00
             </li>
         
         <li>
@@ -926,7 +946,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">Mastering the Science of Storage Sizing in Windows Through Powershell</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Mastering-the-Science-of-Storage-Sizing-in-Windows-Through-Powershell"><span class="nav-text">Mastering the Science of Storage Sizing in Windows Through Powershell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Calculate-a-Folder%E2%80%99s-Size-Using-PowerShell-on-Windows"><span class="nav-text">How to Calculate a Folder’s Size Using PowerShell on Windows </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Get-the-Subfolder-Size-Using-PowerShell"><span class="nav-text">How to Get the Subfolder Size Using PowerShell </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell"><span class="nav-text">How to Get the Subfolder Size in a Table Format Using PowerShell </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Get-the-Folder-and-Subfolder-Size-Using-PowerShell"><span class="nav-text">Get the Folder and Subfolder Size Using PowerShell</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Mastering-the-Science-of-Storage-Sizing-in-Windows-Through-Powershell"><span class="nav-text">Mastering the Science of Storage Sizing in Windows Through Powershell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Calculate-a-Folder%E2%80%99s-Size-Using-PowerShell-on-Windows"><span class="nav-text">How to Calculate a Folder’s Size Using PowerShell on Windows</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Get-the-Subfolder-Size-Using-PowerShell"><span class="nav-text">How to Get the Subfolder Size Using PowerShell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-Get-the-Subfolder-Size-in-a-Table-Format-Using-PowerShell"><span class="nav-text">How to Get the Subfolder Size in a Table Format Using PowerShell</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Get-the-Folder-and-Subfolder-Size-Using-PowerShell"><span class="nav-text">Get the Folder and Subfolder Size Using PowerShell</span></a></li></ol>
 
     </div>
 </div>
@@ -939,7 +959,7 @@
                 
 
 		<!-- add seo affiliate products -->
-<a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" style="aspect-ratio: auto 728 / 90;" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 
             </div>
 

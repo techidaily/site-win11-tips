@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="PowerShell Troubleshoot,Fixing PS Errors,Script Enablement Help,PowerShell Issue Resolution,Correcting PSH Errors,Script Fixes for PowerShell,PowerShell Error Management">
     
     <meta name="author" content="Richard">
     <!-- preconnect -->
@@ -36,8 +35,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg">
-<meta property="article:published_time" content="2024-06-25T08:49:37.582Z">
-<meta property="article:modified_time" content="2024-06-26T08:49:37.582Z">
+<meta property="article:published_time" content="2024-07-12T09:19:53.096Z">
+<meta property="article:modified_time" content="2024-07-13T09:19:53.096Z">
 <meta property="article:author" content="Richard">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -605,7 +604,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4944</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">5481</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -658,15 +657,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 16:49:37</span>
-        <span class="mobile">2024-06-25 16:49:37</span>
+        <span class="desktop">2024-07-12 17:19:53</span>
+        <span class="mobile">2024-07-12 17:19:53</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 16:49:37</span>
-            <span class="mobile">2024-06-26 16:49:37</span>
+            <span class="desktop">2024-07-13 17:19:53</span>
+            <span class="mobile">2024-07-13 17:19:53</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -800,12 +799,13 @@
 <p> And to change the execution policy to “ByPass” for all users, type the following command and press <strong>Enter</strong>:</p>
 <p><code>Set-ExecutionPolicy ByPass -Scope LocalMachine</code></p>
 <p> When you finish, close PowerShell and then restart your device.</p>
-<h2 id="3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor"><a href="#3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor" class="headerlink" title="3. Change the Execution Policy Via the Local Group Policy Editor "></a>3. Change the Execution Policy Via the Local Group Policy Editor <img  
+<h2 id="3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor"><a href="#3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor" class="headerlink" title="3. Change the Execution Policy Via the Local Group Policy Editor"></a>3. Change the Execution Policy Via the Local Group Policy Editor</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg"
                       alt="A lady using a Windows PC while holding a cup"
-                ></h2><p> The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.</p>
+                ></p>
+<p> The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.</p>
 <p> Remember, the main aim is to change the execution policy such that you’ll be able to run your PowerShell scrips without a hassle. And by so doing, you’ll get rid of the “running scripts is disabled” error on PowerShell.</p>
 <p> Here’s how to change the execution policy in the LGPE:</p>
 <ol>
@@ -822,12 +822,13 @@
 <p> Check the <strong>Enabled</strong> box. From there, click the <strong>Execution Policy</strong> drop-down menu and select <strong>Allow local scripts and remote signed scripts</strong>. This option is similar to the “RemoteSigned” option that we discovered earlier.</p>
 <p> If you want to run all scripts without restrictions, pick the <strong>Allow all scripts</strong> option from the “Execution Policy” drop-down menu.</p>
 <p> From there, click <strong>Apply</strong> and then click <strong>OK</strong> to save these changes.</p>
-<h2 id="4-Change-the-Execution-Policy-Using-the-Registry-Editor"><a href="#4-Change-the-Execution-Policy-Using-the-Registry-Editor" class="headerlink" title="4. Change the Execution Policy Using the Registry Editor "></a>4. Change the Execution Policy Using the Registry Editor <img  
+<h2 id="4-Change-the-Execution-Policy-Using-the-Registry-Editor"><a href="#4-Change-the-Execution-Policy-Using-the-Registry-Editor" class="headerlink" title="4. Change the Execution Policy Using the Registry Editor"></a>4. Change the Execution Policy Using the Registry Editor</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg"
                       alt="A lady using her Windows PC while sitting on bed"
-                ></h2><p> If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.</p>
+                ></p>
+<p> If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.</p>
 <p> Now, here’s how to change the execution policy via the Registry Editor:</p>
 <ol>
 <li>Press <strong>Win + R</strong> to open the Run command dialog box.</li>
@@ -855,35 +856,64 @@
 <p> Now, does PowerShell often give you other issues? Well, there are more solutions that can help you out.</p>
 <p> Wondering what causes this issue and how you can resolve it? We’ll take you through the easy methods that can help you tackle this issue once and for all.</p>
 <p> Let’s dive in!</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tricks-to-jumpstart-a-nonfunctional-terminal/"><u>Essential Tricks to Jumpstart a Nonfunctional Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/designing-the-ui-for-windows-11s-self-update-checker/"><u>Designing the UI for Windows 11'S Self-Update Checker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-fingerprint-recognition-in-windows-11/"><u>Integrating Fingerprint Recognition in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-telnet-activation-on-latest-windows-systems/"><u>Secure Telnet Activation on Latest Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-with-leading-winning-apps-for-windows/"><u>Supercharge with Leading Winning Apps for Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/new-sleek-60-second-fades/"><u>[New] Sleek 60-Second Fades</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/best-obs-settings-for-low-end-pcs/"><u>Best OBS Settings for Low-End PCs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-creator.techidaily.com/best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android-for-2024/"><u>Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-voice-clone.techidaily.com/material-preparation-virbo-ai-live-stream/"><u>Material Preparation | Virbo AI Live Stream</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/capture-and-save-memories-webcam-recordings-in-vlc-format/"><u>Capture & Save Memories  Webcam Recordings in VLC Format</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/new-steps-to-add-motion-blur-to-face-with-picsart/"><u>[New] Steps to Add Motion Blur to Face with Picsart</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/in-2024-borrow-premium-image-footage-via-top-rated-4-youtube-channels/"><u>In 2024, Borrow Premium Image Footage via Top-Rated 4 YouTube Channels</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/in-2024-the-leading-list-for-best-vector-resources/"><u>In 2024, The Leading List for Best Vector Resources</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/new-100-safe-audio-download-techniques-from-youtube-for-2024/"><u>[New] 100%% Safe Audio Download Techniques From YouTube for 2024</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins></p>
+      data-full-width-responsive="true"></ins><br><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/organize-windows-icons-harmoniously/"><u>Organize Windows Icons Harmoniously</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-challenging-c0000022-failure-in-windows/"><u>Navigating Through the Challenging C0000022 Failure in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-tools.techidaily.com/updated-2024-approved-split-trim-and-merge-avi-videos-top-video-cutting-tools-reviewed/"><u>Updated 2024 Approved Split, Trim, and Merge AVI Videos Top Video Cutting Tools Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-chrome-profiles-issues-on-windows-devices/"><u>Resolving Chrome Profiles Issues on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-hyper-v-feature-from-windows-11-builds/"><u>Removing Hyper-V Feature From Windows 11 Builds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-dive-into-your-pcs-core-settings/"><u>Quick Dive Into Your PC's Core Settings</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/how-to-embed-a-youtube-playlist-on-a-website/"><u>How to Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resuscitating-a-frozen-system-interface/"><u>Resuscitating a Frozen System Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-red-to-ready-8-methods-to-mend-your-monochrome-misstep/"><u>From Red to Ready: 8 Methods to Mend Your Monochrome Misstep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-automatic-windows-11-reboots/"><u>How to Halt Automatic Windows 11 Reboots</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/updated-2024-approved-from-basic-to-bold-customizing-your-discord-image/"><u>[Updated] 2024 Approved  From Basic to Bold  Customizing Your Discord Image</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-do-not-have-sufficient-access-to-uninstall-error-in-windows-11-and-11/"><u>How to Fix the “Do Not Have Sufficient Access to Uninstall” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-server-slip-solutions-for-microsoft-store-errors/"><u>Mastering Server Slip Solutions for Microsoft Store Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-the-widgets-toolbar-in-windows-11/"><u>How to Enable the Widgets Toolbar in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/top-5-motorola-moto-g14-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G14 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/mastering-the-art-of-youtubing-avoiding-the-top-8-newbie-errors-for-2024/"><u>Mastering the Art of YouTubing  Avoiding the Top 8 Newbie Errors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighter-browsing-experience-on-the-desktop-top-7-test-results/"><u>Lighter Browsing Experience on the Desktop: Top 7 Test Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-windows-horizon-surpassing-11s-achievements/"><u>Next Windows Horizon: Surpassing 11'S Achievements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-store-error-0x80072f17-on-windows/"><u>How to Fix Microsoft Store Error 0X80072F17 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-absent-system-cooling-policy-in-pcs/"><u>Reinstating Absent System Cooling Policy in PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-files-fix-incessant-file-explorer-opens/"><u>Halt Files: Fix Incessant File Explorer Opens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-ragnarok-overcoming-x-script-woes/"><u>Restoring Ragnarok: Overcoming X-Script Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-file-explorer-top-troubleshooting-for-win11/"><u>Revive Your File Explorer: Top Troubleshooting for Win11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-viewsplit-diagnostics/"><u>[Updated] ViewSplit Diagnostics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-failed-operations-code-0x0000011b-fixes/"><u>Eliminating 'Failed' Operations: Code 0X0000011B Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-sudden-win-device-disconnections/"><u>Essential Fixes for Sudden Win Device Disconnections</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-factory-reset-oneplus-12r-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12R without Losing Data | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/capture-like-a-pro-gopro-model-comparison-guide-for-2024/"><u>Capture Like a Pro  Gopro Model Comparison Guide for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors-for-2024/"><u>Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/updated-best-iphone-selfie-gear-the-ultimate-compilation-8/"><u>[Updated] Best iPhone Selfie Gear - The Ultimate Compilation (#8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-unfoldable-folders-in-win1110-on-double-clicks/"><u>How to Overcome Unfoldable Folders in Win11/10 on Double-Clicks</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-editing-for-kids-free-and-paid-apps/"><u>Updated In 2024, The Ultimate Guide to Video Editing for Kids Free and Paid Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-transcription-with-whisper-voice-to-text-guide/"><u>Instant Transcription with Whisper: Voice to Text Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-pc-invalid-name-issue-on-windows-11/"><u>Overcoming PC Invalid Name Issue on Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-ai-editor.techidaily.com/new-2024-approved-facebook-video-cover-dimensions-a-guide-to-getting-it-right/"><u>New 2024 Approved Facebook Video Cover Dimensions A Guide to Getting It Right</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/new-in-2024-from-live-to-recorded-using-obs-for-games/"><u>[New] In 2024, From Live to Recorded  Using OBS for Games</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>[Updated] Get Laughter in Minutes  Install and Revel in iFunny's Meme World</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-eye-catching-fb-ad-content-for-2024/"><u>[New] Mastering the Art of Eye-Catching FB Ad Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-programs-syncing-your-windows-pc-with-android/"><u>Perfect Programs: Syncing Your Windows PC with Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-hyper-v-enablement-in-win11/"><u>Essential Guide to Hyper-V Enablement in Win11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-update-failure-problem-error-code-0x80070003/"><u>Navigating Through Windows' Update Failure Problem (Error Code: 0X80070003)</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/updated-in-2024-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>[Updated] In 2024, Syncopate Screen  A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-nord-n30-se-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Nord N30 SE Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-low-power-mode-options/"><u>Navigating Through Windows' Low-Power Mode Options</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-determine-your-pcs-ram-specifications/"><u>Quick Tips: Determine Your PC's RAM Specifications</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://animation-videos.techidaily.com/new-secrets-to-make-2d-game-animation/"><u>New Secrets to Make 2D Game Animation</u></a></li>
+</ul></div>
 
         </div>
 
@@ -894,11 +924,11 @@
         <li><strong>Title:</strong> Troubleshooting PowerShell Errors with Script Enablement Fixes</li>
         <li><strong>Author:</strong> Richard</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 16:49:37</li>
+                :</strong> 2024-07-12 17:19:53</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 16:49:37
+                    :</strong> 2024-07-13 17:19:53
             </li>
         
         <li>
@@ -983,7 +1013,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">Troubleshooting PowerShell Errors with Script Enablement Fixes</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Troubleshooting-PowerShell-Errors-with-Script-Enablement-Fixes"><span class="nav-text">Troubleshooting PowerShell Errors with Script Enablement Fixes</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-Run-PowerShell-in-Administrator-Mode"><span class="nav-text">1. Run PowerShell in Administrator Mode</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Change-the-Execution-Policy-in-PowerShell"><span class="nav-text">2. Change the Execution Policy in PowerShell</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#What-Is-the-Execution-Policy-and-How-Does-It-Work"><span class="nav-text">What Is the Execution Policy, and How Does It Work?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-to-Change-the-Execution-Policy-to-%E2%80%9CUnrestricted%E2%80%9D"><span class="nav-text">How to Change the Execution Policy to “Unrestricted”</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-to-Change-the-Execution-Policy-to-%E2%80%9CByPass%E2%80%9D"><span class="nav-text">How to Change the Execution Policy to “ByPass”</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor"><span class="nav-text">3. Change the Execution Policy Via the Local Group Policy Editor </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-Change-the-Execution-Policy-Using-the-Registry-Editor"><span class="nav-text">4. Change the Execution Policy Using the Registry Editor </span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Run-Your-PowerShell-Scripts-Without-Any-Restrictions"><span class="nav-text">Run Your PowerShell Scripts Without Any Restrictions</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Troubleshooting-PowerShell-Errors-with-Script-Enablement-Fixes"><span class="nav-text">Troubleshooting PowerShell Errors with Script Enablement Fixes</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-Run-PowerShell-in-Administrator-Mode"><span class="nav-text">1. Run PowerShell in Administrator Mode</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Change-the-Execution-Policy-in-PowerShell"><span class="nav-text">2. Change the Execution Policy in PowerShell</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#What-Is-the-Execution-Policy-and-How-Does-It-Work"><span class="nav-text">What Is the Execution Policy, and How Does It Work?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-to-Change-the-Execution-Policy-to-%E2%80%9CUnrestricted%E2%80%9D"><span class="nav-text">How to Change the Execution Policy to “Unrestricted”</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-to-Change-the-Execution-Policy-to-%E2%80%9CByPass%E2%80%9D"><span class="nav-text">How to Change the Execution Policy to “ByPass”</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Change-the-Execution-Policy-Via-the-Local-Group-Policy-Editor"><span class="nav-text">3. Change the Execution Policy Via the Local Group Policy Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-Change-the-Execution-Policy-Using-the-Registry-Editor"><span class="nav-text">4. Change the Execution Policy Using the Registry Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Run-Your-PowerShell-Scripts-Without-Any-Restrictions"><span class="nav-text">Run Your PowerShell Scripts Without Any Restrictions</span></a></li></ol>
 
     </div>
 </div>
@@ -996,7 +1026,7 @@
                 
 
 		<!-- add seo affiliate products -->
-<a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" style="aspect-ratio: auto 728 / 90;" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 
             </div>
 
