@@ -1,0 +1,208 @@
+---
+title: "Break Free From Issues: Restoring Windows Family Security"
+date: 2024-07-29T08:13:10.508Z
+updated: 2024-07-30T08:13:10.508Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Break Free From Issues: Restoring Windows Family Security"
+excerpt: "This Article Describes Break Free From Issues: Restoring Windows Family Security"
+keywords: Windows Security Revival,Safe Windows Update,Family PC Safety,Secure Windows Fixes,Trusted Windows Care,Proven Windows Protection,Renewed Windows Shield
+thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png
+---
+
+## Break Free From Issues: Restoring Windows Family Security
+
+ Windows Family Safety is a powerful tool that helps you monitor your family's computer usage. But like any software, it can experience technical issues that may prevent it from working correctly.
+
+ So, how do you repair the Family Safety tool when it malfunctions? Here's how to get it working again.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Why Is the Windows Family Feature Malfunctioning?
+
+ Here are some common reasons why the Windows Family Safety feature may not work properly:
+
+* **Incorrect Configuration or Connection Issues**: The Family Safety feature relies on specific settings and configurations to function correctly. So, it will likely malfunction if you don't configure its settings properly. In some instances, the tool could malfunction due to network connectivity issues, such as a weak Wi-Fi signal.
+* **Computer or App Update Problems**: Sometimes, the Family Safety feature may malfunction simply because your PC needs to be updated. For instance, maybe your current Windows version doesn’t support some of the tool’s latest features. In some cases, the Family Safety feature itself might need to be updated.
+* **Software Conflicts**: Certain third-party apps or security software can interfere with the proper functioning of the Family Safety feature.
+* **Synchronization Issues**: There are times when you might want to use the Family Safety feature on multiple devices. However, you may run into problems if you've disabled the sync settings.
+
+ Now, let’s explore how you can fix the Family Safety feature when it gives you issues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Check Your Connection and Configure the Family Safety Settings
+
+ To resolve the issue at hand, check your connection and ensure that it’s stable. If you suspect that there are issues, try [troubleshooting your network connectivity problems](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/).
+
+ If the issue persists, then configure the Family Safety settings through these steps:
+
+1. Sign in to your Microsoft account and visit the [Microsoft Family Safety login page](https://account.microsoft.com/family).
+2. Sign in to your Family Safety account and then click the **settings icon** in the top-right corner.
+3. Scroll down and click the **Manage parental consent** option. Follow the on-screen instructions and configure the settings to your liking.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+![Clicking the Manage parental consent option on the Microsoft Family Safety tool-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-manage-parental-consent-option-on-the-microsoft-family-safety-tool-1.jpg)
+
+ After making the adjustments, test the Family Safety settings by logging into a family member's account or using a separate test account. Ensure that the configured restrictions and limitations are working as intended.
+
+ If that doesn’t help, follow these steps:
+
+1. Sign in to your Family Safety account as per the previous steps.
+2. Scroll down to the **Your Features** section.
+3. Select any of the options on the list. Microsoft will open a new page where you can learn more about that particular feature and how to configure it.
+
+![Selecting an option in the Your Features section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-an-option-in-the-your-features-section.jpg)
+
+ To ensure that the Family Safety tool works properly, consider using the "Activity Reporting" feature. This will allow you to receive regular updates on your PC’s web browsing history and app usage. And by receiving these regular updates, you can rest assured knowing that the Family Safety feature is working as expected.
+
+## 2\. Update the Family Safety Feature (or Update Your Device)
+
+ If you’re using the Family Safety app, you need to ensure you've downloaded the latest version. And if you suspect the app is outdated, go ahead and update it from the Microsoft Store.
+
+ If updating the tool doesn’t help, then try reinstalling it through these steps:
+
+1. Press **Win + X** to open the Quick Access menu.
+2. Select the **Apps and Features** option.
+3. Scroll down, right-click on the **Family Safety** feature, and then select **Uninstall**. Follow the on-screen steps to finalize the process.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+![Clicking the Uninstall button on the Family Safety feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-uninstall-button-on-the-family-safety-feature.jpg)
+
+ From there, restart your device and then reinstall the Family Safety feature from the Microsoft Store.
+
+ But if you suspect that the problem comes from your computer, then it might be worth [updating your Windows PC](https://www.makeuseof.com/update-windows-manually/). This will ensure your device has the latest features that allow you to run various apps seamlessly, including the Family Safety feature.
+
+## 3\. Troubleshoot Software Conflicts
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+
+ If you’re still struggling to resolve the issue, then it’s likely that the error stems from conflicting software or security tools. In this case, temporarily disabling such tools could help.
+
+ Let’s explore this in a bit more detail:
+
+* **Identify Potential Conflicting Software**: Take note of any third-party software or security tools installed on your device. These can include antivirus programs, firewalls, or parental control apps.
+* **Temporarily Disable Conflicting Software**: Access the settings of the conflicting software and look for options to temporarily disable the software’s features. This may involve disabling real-time protection or any other functions that could interfere with the Family Safety feature.
+* **Test the Family Safety Feature**: After disabling the conflicting software, test the Family Safety feature to see if it works as expected.
+* **Re-Enable Your Third-Party Software**: To identify the specific conflicting software, re-enable your third-party apps (one at a time) while testing the Family Safety feature. This will help you pinpoint the software causing the problem.
+* **Update or Replace Conflicting Software**: If you identify specific software that's causing issues, consider updating it. Alternatively, replace it with another tool that doesn’t interfere with the Family Safety feature.
+
+## 4\. Enable the "Sync Settings" Feature
+
+ What if you encounter issues on other devices and not on your PC? In this case, you’re likely dealing with synchronization issues. This means the Family Safety feature isn't applying the same settings across the other devices.
+
+ So, enabling the "sync settings" feature should do the trick! Here's how you can do it:
+
+1. Sign in to your Microsoft account.
+2. Press **Win + I** to open the system settings. You can also check out the [different ways to access the Windows settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/).
+3. Click the **Accounts** option.
+4. Select the **Sync your settings** option on the left.
+5. Turn on the **Sync settings** button on the right.
+
+![Turning on the Sync settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turning-on-the-sync-settings-button.jpg)
+
+ Finally, close the settings windows and restart your device to save these changes.
+
+## 5\. Create a New Microsoft Family Safety Account
+
+ If all else fails, then you might want to consider creating a new account. This should help in case the issue stems from your current profile.
+
+ Now, here's how to create a new Microsoft Family Safety account:
+
+1. Visit the [Microsoft Family Safety website](https://account.microsoft.com/family).
+2. Click the **Get started for free** button to create a new user account.
+
+ Alternatively, add a new organizer (profile) to your existing Microsoft Family Safety account. Here are the steps to do it:
+
+1. Sign in to your Family Safety account.
+2. Click the **Add a family member** section.
+3. Enter the email of the profile you want to add, and then click **Next**.
+4. Click the **Organizer** section and then click **Next**. This will ensure that your new profile can edit the settings for all the synced accounts.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Clicking the Organizer section on the Family Safety feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-organizer-section-on-the-family-safety-feature.jpg)
+
+## Create a Safe Digital Environment With Microsoft Family Safety
+
+ The Microsoft Family Safety tool is reliable when it comes to monitoring family members’ online activities across various devices. It empowers you to establish appropriate digital boundaries and promote healthy online habits.
+
+ If the tool decides to malfunction, go ahead and repair it using any of the tips we’ve covered. From there, be sure to learn more about it and discover some of its tricks.
+
+ So, how do you repair the Family Safety tool when it malfunctions? Here's how to get it working again.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-beat-the-beast-instagram-video-troubleshooting-guide/"><u>[New] Beat the Beast  Instagram Video Troubleshooting Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-virtual-engagement-with-snap-capabilities-in-meet-for-2024/"><u>[New] Elevate Your Virtual Engagement with Snap Capabilities in Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pinterest-pin-square-advice-for-2024/"><u>[New] Pinterest Pin Square Advice for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-game-footage-secrets-of-the-skilled-videographer/"><u>[Updated] 2024 Approved  In-Game Footage  Secrets of the Skilled Videographer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[Updated] Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-get-motivated-by-the-20-of-the-best-background-music-for-exercise/"><u>[Updated] Get Motivated by the 20 of the Best Background Music for Exercise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[Updated] In 2024, Analyzing Youtube AdRevenue  Average Payments by Thousands of Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-fading-technique-on-soundtracks-in-audacity-for-2024/"><u>[Updated] Mastering the Fading Technique on Soundtracks in Audacity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>[Updated] The Pathway to Aural Brilliance  Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-key-clues-suggesting-windows-reboot-required/"><u>3 Key Clues Suggesting Windows Reboot Required</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-8-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 8 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-productivity-the-essentials-of-using-flow-launcher/"><u>Accelerate Productivity: The Essentials of Using Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-3-fix-for-windows-10-nvidia-opengl/"><u>Addressing Error 3: Fix for Windows 10 Nvidia OpenGL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-task-managers-dynamic-speed-in-windows-11/"><u>Boost Task Manager's Dynamic Speed in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-file-access-failures-in-microsoft-office-outlook/"><u>Correcting File Access Failures in Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-11s-advanced-setup/"><u>Decoding Windows 11'S Advanced Setup</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-ace-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Ace 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-workflow-advanced-filters-and-theme-changes-in-task-manager-windows-11/"><u>Elevate Your Workflow: Advanced Filters & Theme Changes in Task Manager (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-error-unresponsive-audio-device-stopped/"><u>Eradicating Windows Error: Unresponsive Audio Device Stopped</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-remedying-directdraw-disruptions-in-win1011/"><u>Expert Guide: Remedying DirectDraw Disruptions in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-print-spooler-service-is-not-running-error-in-windows/"><u>How to Fix “The Print Spooler Service Is Not Running” Error in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-11ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone XS to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-platform-guide-to-best-value-zero-cost-live-broadcast-technology/"><u>In 2024, All Platform Guide to Best Value, Zero-Cost Live Broadcast Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus 11 5G Device SIM</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6s Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-platform-color-consistency/"><u>Mastering Cross-Platform Color Consistency</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-gifs-your-step-by-step-meme-making-journey-for-2024/"><u>Mastering GIFs  Your Step-by-Step Meme Making Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalized-lock-patterns-on-windows-11/"><u>Mastering Personalized Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-flawed-icons-and-menu-items-on-win-1011/"><u>Mastery Over Flawed Icons and Menu Items on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-compression-errors-a-guide-to-fixed-zip-files-in-windows-11/"><u>Overcoming Compression Errors: A Guide to Fixed ZIP Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-display-configurations-on-nvidia/"><u>Overcoming Missing Display Configurations on Nvidia</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-image-previews-top-4-win-friendly-viewers/"><u>Perfecting Image Previews: Top 4 Win-Friendly Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ms-teams-error-80080300-on-windows-11-a-guide/"><u>Resolving MS Teams Error 80080300 on Windows 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-windows-headset-mic-functionality/"><u>Restore Your Windows Headset Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-screen-organization-multi-window-mastery-with-win1110/"><u>Simplified Screen Organization: Multi-Window Mastery with Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-the-steps-msoffice-installation-on-windows-11/"><u>Simplifying the Steps: MSOffice Installation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-alter-file-extensions-on-windows/"><u>Step by Step: How to Alter File Extensions on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-via-terminal-commands/"><u>Streamlining System Operations via Terminal Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-remedy-six-steps-to-resurrect-lost-panes/"><u>The Ultimate Windows 11 Remedy: Six Steps to Resurrect Lost Panes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-travelled-titles-tamed-the-power-of-retroarcs-visual-shapers/"><u>Time-Travelled Titles Tamed: The Power of RetroArc's Visual Shapers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

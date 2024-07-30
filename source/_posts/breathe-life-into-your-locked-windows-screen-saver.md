@@ -1,0 +1,257 @@
+---
+title: Breathe Life Into Your Locked Windows Screen Saver
+date: 2024-07-29T08:14:03.143Z
+updated: 2024-07-30T08:14:03.143Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Breathe Life Into Your Locked Windows Screen Saver
+excerpt: This Article Describes Breathe Life Into Your Locked Windows Screen Saver
+keywords: Screen Saver Lifters,Revitalize Locked Screens,Window Saver Enhancers,Dynamic Screen Fixes,Reactive Locked Display,Innovative Locked Views,Brighten Stuck Windows
+thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501806692c9cb150d9959d92bc.jpg
+---
+
+## Breathe Life Into Your Locked Windows Screen Saver
+
+ Just when you’re about to change the screen saver on your Windows device, the system settings start malfunctioning. You realize that the screen saver settings are grayed out—making it hard for you to change your current screen saver.
+
+ Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
+
+## 1\. Use the Local Group Policy Editor
+
+ The “grayed out screen saver settings” error might be caused by issues that stem from the Local Group Policy Editor (LGPE). So, the best way to tackle the problem is to make some changes in the LGPE.
+
+ However, bear in mind that the LGE is only available on Windows Pro, Enterprise, and Education editions. If you’re using the Home edition, then check out tips on how to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
+
+ Let’s now explore how to use the LGPE to resolve the issue at hand:
+
+1. Press **Win + R** to open the Run command dialog box.
+2. Type **gpedit.msc** and press **Enter** to open the LGPE.
+3. Navigate to **User Configuration > Administrative Templates > Control Panel > Personalization**.
+4. Double-click on the **Enable screen saver** option on the right-hand side.
+
+![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
+
+ Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
+
+ But then how would enabling the “screen saver” option resolve the “grayed out screen saver settings” error?
+
+ As per the description in the LGPE, enabling the “screen saver” option enables the “Screen Saver” section in the Screen Saver Settings window. Simply put, this means enabling this option will ensure that the "screen saver settings" section isn't grayed out.
+
+ Now, let’s explore how to enable another LGPE feature to tackle the “grayed out screen saver settings” error:
+
+1. Open the **LGPE** and navigate to the **Personalization** folder as per the previous steps.
+2. Double-click on the **Force specific screen saver** option on the right-hand side.
+
+![Clicking the Force specific screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-force-specific-screen-saver-option.jpg)
+
+ Check the **Disabled** box, click **Apply**, and then click **OK**.
+
+ So, how does disabling the “Force specific screen saver” option help?
+
+ When the “Force specific screen saver” option is enabled, the drop-down list of screen savers in the "Windows Screen Saver" dialog will be grayed out. This means you won’t be able to change your screen saver, but you may still be able to configure other related settings
+
+ So, by disabling the “Force specific screen saver” feature, the "screen saver" drop-down menu in the Screen Saver Settings window won't be grayed out.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Use the Registry Editor
+
+![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+
+ Now, we’ll show you how to get rid of the “grayed out screen saver settings” error using the Registry Editor. But if you tweak the wrong Registry keys by mistake, your device might end up crashing. That’s why we always recommend that you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before editing its keys.
+
+ Let’s now check out how this tool can help you resolve the issue at hand:
+
+1. Press **Win + R** to open the Run command dialog box.
+2. Type **Regedit** and press **Enter** to open the Registry Editor.
+3. Copy-paste the following command into the address bar and press **Enter**:
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
+
+ Next, click the **Control Panel** key (folder) from the options within the "Windows" key.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
+
+ If the "Control Panel" key is missing, here’s how you can create it:
+
+1. Right-click on the **Windows** folder (key) in the LGPE and select **New > Key**.
+2. Name the key **Control Panel** and press **Enter**.
+
+ Once you’re inside the "Control Panel" key, navigate to the right-hand side and locate the **ScreenSaveActive** option.
+
+![Clicking the ScreenSaveActive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-screensaveactive-option.jpg)
+
+ If this value is missing, create it through these steps:
+
+1. Right-click on a blank space and select **New > DWORD (32-bit) Value**.
+2. Name the value as **ScreenSaveActive** and press **Enter**.
+
+ The “ScreenSaveActive” option in the Registry Editor performs the same function as the “Enable screen saver” option in the LGPE. Remember, enabling the “Enable screen saver option” in the LGPE ensures that the settings on the Screen Saver Settings window aren’t grayed out.
+
+ To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Change the Power Settings
+
+![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+
+ You might not be aware of this, but configuring the power settings usually has an effect on the other system settings.
+
+ For example, if you enable power-saving mode, then your device will pause some tasks in an effort to save power. But enabling some power-saving features might end up graying out some settings and tools.
+
+ Now, let's check out how to configure a few power settings to tackle the “grayed out screen saver settings” issue.
+
+### Change the Power Settings Via the Screen Saver Settings Window
+
+ Did you know that you can tweak the power settings directly from the Screen Saver Settings window? Here are the steps you need to follow:
+
+1. Type **Change screen saver** in the Start menu search bar and select the **Best match**. This should open the Screen Saver Settings window.
+2. Scroll down to the **Power management** section.
+3. Click the **Change power settings** option.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
+
+ Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
+
+ From there, follow these steps:
+
+1. Locate the **Turn off the display** and **Put computer to sleep** options.
+2. Click the drop-down menus next to these options and select **Never** for all the options.
+3. Click the **Save Changes** button.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Clicking the Save Changes button on the Edit plan settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-save-changes-button-on-the-edit-plan-settings-screen.jpg)
+
+ Next, configure the advanced power settings through these steps:
+
+1. Type **Change screen saver** in the Start menu search bar and select the **Best match**.
+2. Click the **Change power settings** option.
+3. Select the **Change advanced power settings** option in the "Edit Plan Settings" window. This will display the "Power Options" screen.
+
+ Expand the contents in the "Display" section and select **Never** for both the "On battery" and "Plugged in" options.
+
+![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
+
+ Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
+
+ Want to restore your power settings to their defaults at a later stage?
+
+ Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Change the Power Settings via the Control Panel
+
+ In some rare instances, you might not be able to access the power settings via the Screen Saver Settings window. So, this means you’d have to configure the power settings directly via the Control Panel.
+
+ Let's take you through the steps you should follow:
+
+1. Type **Control Panel** in the Start menu search bar and select the **Best match**. Alternatively, check out [the various ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/).
+2. Click the **View by** drop-down menu and select **Small icons**.
+3. Select **Power Options** from the menu items.
+4. Click **Change plan settings** from the options. This will take you to the "Edit Plan Settings" screen.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+![The Edit Plan Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-plan-settings-on-the-control-panel.jpg)
+
+ From there, you can edit all the necessary power settings using the tips we covered in the previous section.
+
+## 4\. Get Rid of System Corruption or Update Your PC
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
+
+ Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
+
+ And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
+
+## You've Successfully Restored Your Screen Saver Settings
+
+ There’s no denying that changing your screen saver regularly makes your PC look cool. But then being unable to change the screen saver settings is uncool.
+
+ If your screen saver settings are grayed out, then check out any of the methods we’ve covered. And once the problem is out of the way, be sure to start exploring some of the coolest, free Windows screensavers.
+
+ Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-incorporating-markers-a-step-by-step-videography-guide/"><u>[New] In 2024, Incorporating Markers  A Step-By-Step Videography Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimal-methods-to-source-stock-photography-and-visuals/"><u>[New] In 2024, Optimal Methods to Source Stock Photography and Visuals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-the-power-to-download-igtv-videos-effortlessly/"><u>[Updated] 2024 Approved  Unlock the Power to Download IGTV Videos Effortlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cadence-captors-embrace-free-online-tempo-apps-for-2024/"><u>[Updated] Cadence Captors – Embrace Free Online Tempo Apps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-your-pathway-to-youtubes-maker-land-for-2024/"><u>[Updated] Deciphering Your Pathway to YouTube's Maker Land for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-taskbar-icons-that-dont-pop-up/"><u>Correcting Taskbar Icons that Don't Pop Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0xc00d36b4-from-win11-devices/"><u>Eliminating Error 0XC00D36B4 From Win11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-organization-grouped-directories-at-a-glance-on-windows-11/"><u>Enhance File Organization - Grouped Directories at a Glance on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-vigilance-tracking-top-7-potential-infection-pathways/"><u>Essential Windows Vigilance: Tracking Top 7 Potential Infection Pathways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-upload-woes-overcoming-chromes-challenges-on-windows/"><u>File Upload Woes: Overcoming Chrome's Challenges on Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-a-tidy-desktop-unnecessary-windows-software-list/"><u>Get a Tidy Desktop: Unnecessary Windows Software List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/hack-the-system-avoid-video-ads-directly-on-fb-for-2024/"><u>Hack the System  Avoid Video Ads Directly on FB for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-apple-photo-imports-that-go-wrong-on-pcs-windows/"><u>How to Handle Apple Photo Imports That Go Wrong on PCs (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-the-key-differences-in-exe-and-msi-formats/"><u>Identifying the Key Differences in EXE & MSI Formats</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone SE (2020)? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>In 2024, From Mere Color to Spectacle  HDR vs SDR in Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-challenges-a-guide-to-fixing-your-manager-tool-in-windows-11/"><u>Navigating Challenges: A Guide to Fixing Your Manager Tool in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrive-error-resolution-guide-for-windows-enthusiasts/"><u>OneDrive Error Resolution Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-keyboard-functionality-embedding-commands-for-wordpad-into-context-bar/"><u>Optimizing Keyboard Functionality: Embedding Commands for Wordpad Into Context Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-net-core-not-installed-app-issue-in-windows/"><u>Overcoming .NET Core Not Installed App Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-operation-failure-in-windows-11-error-0x0000011b/"><u>Overcoming Operation Failure in Windows 11 (Error 0X0000011B)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-sudden-security-hurdles/"><u>Overcoming Windows 11'S Sudden Security Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powershell-command-for-extracting-ip-and-mac-addresses/"><u>PowerShell Command for Extracting IP & MAC Addresses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redressing-invisible-lan-windows-network-guide/"><u>Redressing Invisible LAN: Windows Network Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-speaker-functionality-in-computers-abruptly/"><u>Restore Speaker Functionality in Computers Abruptly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-pc-top-winners-from-microsofts-store/"><u>Revolutionize Your PC: Top Winners From Microsoft's Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-crafting-a-custom-uninstall-menu-for-win/"><u>Simplify Your System: Crafting a Custom Uninstall Menu for Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-git-operations-github-desktop-and-windows-11-explained/"><u>Simplifying Git Operations: GitHub Desktop and Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-subtle-art-of-windows-11s-user-information-extraction/"><u>The Subtle Art of Windows 11'S User Information Extraction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-top-10-to-11-screen-capturing-tools-for-every-mac-user/"><u>The Top 10 to 11 Screen Capturing Tools for Every Mac User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-grandmas-old-computer-for-better-use/"><u>Transform Your Grandma’s Old Computer for Better Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-eliminating-no-servers-found-in-apex-legends-(156-chars/"><u>Troubleshooting: Eliminating 'No Servers Found' In Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-fury-not-frustration-fixing-lag-in-sw-battlefront-2/"><u>Unleash Fury, Not Frustration: Fixing Lag in SW Battlefront 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-engage-telnet-securely/"><u>Windows 11: How to Engage Telnet Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-mail-troubleshooting-unraveling-the-zero-x-eight-oh-three-one-f-mystery/"><u>Windows Mail Troubleshooting: Unraveling the Zero X Eight Oh Three One F Mystery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

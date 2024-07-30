@@ -1,7 +1,7 @@
 ---
 title: Mastering Closed Caption Settings in Windows 11
-date: 2024-07-12T16:29:43.150Z
-updated: 2024-07-13T16:29:43.150Z
+date: 2024-07-29T08:07:28.660Z
+updated: 2024-07-30T08:07:28.660Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  To check if a video has Closed Captioning enabled, look for a **CC** or **Closed Captioning** button or icon on the video player controls. The location of the Closed Captioning button may vary depending on the video player you're using.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![CC option on a video player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cc-option-on-a-video-player.jpg)
 
  If you don't see a Closed Captioning button or icon, try right-clicking on the video player and selecting **Show Closed Captioning** or a similar option. If Closed Captioning is unavailable for the video you're watching, you won't see these options.
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  Once the toggle is turned on, you should see captions on videos with Closed Captioning enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 2\. Closed Captioning Is Not Syncing Properly in Windows 10
 
  Closed Captioning not syncing properly on your Windows 10 may be caused by different reasons, such as outdated drivers, incorrect settings, or a malfunctioning operating system.
@@ -48,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  If adjusting the video player settings doesn't resolve the issue, try updating your graphics drivers, as outdated drivers can cause issues with closed captioning sync. To update your graphics drivers, [open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) by pressing the **Win + X** key and selecting Device Manager. After that, Expand the **Display Adapters** category.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Display adapters category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-adapters-category.jpg)
 
  Right-click on your graphics card and select **Update driver.** Then, click **Search automatically for updated driver software** and follow the on-screen instructions to install the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Update Drivers Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-drivers-prompt.jpg)
 
  If none of the above steps resolve the issue, a bug in the operating system may have caused the problem. Microsoft regularly releases updates to fix bugs and improve the performance of Windows 10\.
@@ -65,12 +77,18 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  To adjust the closed captioning font and style, open the Settings app and select **Ease of Access.** Then, click the **Closed captions** option on the left-hand side.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adjusting the closed captioning font and style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adjusting-the-closed-captioning-font-and-style.jpg)
 
  Once you're in the caption settings, you can choose from several font and style options to customize the closed captions to your liking. You can change the caption color, transparency, size, and effects.
 
  After adjusting the font and style options to your liking, preview your changes by playing a video with closed captions. If you're happy with the changes, click **Save** to apply them to all future videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 4\. Closed Captioning Is Not Working in Windows 10 Presentations
 
  There are several reasons why Closed Captioning is not working on your Windows 10 presentation. For example, you may have incorrect settings in the presentation software or video player, outdated drivers, or a bug in the system.
@@ -108,3 +126,43 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-custom-youtube-video-speed-control-desktopmobile-for-2024/"><u>[Updated] Custom YouTube Video Speed Control (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-engagement-top-10-video-response-insights/"><u>[Updated] In 2024, Elevate Your Engagement  Top 10 Video Response Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop/"><u>[Updated] In 2024, Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-fcp-a-guide-to-obtaining-copy-without-cost/"><u>[Updated] In 2024, Unlocking FCP  A Guide to Obtaining Copy Without Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-lenslimits-how-to-manage-ig-picture-dimensions-for-2024/"><u>[Updated] LensLimits  How to Manage IG Picture Dimensions for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-engaging-openers-perfecting-podcast-intro-techniques/"><u>2024 Approved  Engaging Openers  Perfecting Podcast Intro Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-the-art-of-archiving-with-these-13-key-techniques/"><u>2024 Approved  Master the Art of Archiving with These 13 Key Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-introduction-to-windows-exepe-file-formats/"><u>An Introduction to Windows EXE/PE File Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-pressing-prtscn-launch-snipping-tool-steps-to-halt/"><u>Can Pressing PrtScn Launch Snipping Tool? Steps to Halt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-approaches-to-adjacent-and-distinct-windows-partition-merging/"><u>Cutting-Edge Approaches to Adjacent and Distinct Windows Partition Merging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-subnet-tweak-for-experienced-users-win11/"><u>Effortless Subnet Tweak for Experienced Users, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-terminal-usage-make-it-primary-choice/"><u>Elevate Your Terminal Usage: Make It Primary Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/envisioning-the-ideal-user-experience-in-windows-11/"><u>Envisioning the Ideal User Experience in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-huawei-p60-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Huawei P60 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-11-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 11 If Youve Tried Everything</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y200-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y200 to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unlock-your-onedrive-on-a-windows-machine/"><u>How To Unlock Your OneDrive on a Windows Machine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-13-pro-max-5-ways-to-get-into-a-locked-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 13 Pro Max? 5 Ways to get into a Locked iPhone 13 Pro Max</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tech-bites-the-future-of-screen-capture-apps/"><u>In 2024, Tech Bites  The Future of Screen Capture Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>In 2024, The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-forward-in-windows-video-management-integrate-tdarrs-distributed-capabilities/"><u>Leap Forward in Windows Video Management: Integrate Tdarr's Distributed Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-files-disabling-read-only-status/"><u>Manipulating Windows Files: Disabling Read-Only Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-epic-launcher-sign-in-on-pc/"><u>Mastering the Art of Epic Launcher Sign-In on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multiple-routes-for-opening-utilities-on-windows-systems/"><u>Multiple Routes for Opening Utilities on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hazards-of-cheap-windows-key-purchases/"><u>Navigating the Hazards of Cheap Windows Key Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-11-search-top-5-expert-methods/"><u>Optimize Your Windows 11 Search: Top 5 Expert Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-discord-launch-and-update-check-with-windows-startup/"><u>Preventing Discord Launch and Update Check with Windows Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-error-0xa00f425d-in-windows-camera/"><u>Steps to Eliminate Error 0xA00F425D in Windows Camera</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-running-imessage-on-windows/"><u>Uncovering the Secrets of Running iMessage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-ways-for-swift-epic-game-loading/"><u>Unveiling Windows Ways for Swift Epic Game Loading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
+</ul></div>
