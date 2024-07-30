@@ -80,62 +80,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-unmarked-path-your-guide-to-tiktok-video-download/"><u>[New] Unmarked Path  Your Guide to TikTok Video Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-disruptions-securing-winnet-for-peace-of-mind/"><u>Avoid Disruptions: Securing WinNet for Peace of Mind</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-common-pitfalls-of-roblox-error-262/"><u>Avoiding Common Pitfalls of Roblox Error 262</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-the-worst-javascript-failures-while-using-discord-in-win-oses/"><u>Avoiding the Worst JavaScript Failures While Using Discord in Win OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-ancient-tech-upgrade-with-atlasos/"><u>Boost Ancient Tech: Upgrade with AtlasOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/automated-password-inclusion-in-windows-file-management/"><u>Automated Password Inclusion in Windows File Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blueprint-to-rule-winos-apps-browsers/"><u>Blueprint to Rule WinOS Apps, Browsers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/5-essential-steps-to-create-viral-titles-online/"><u>5 Essential Steps to Create Viral Titles Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-a-blank-desktop-win-11-icon-fixes/"><u>Avoid a Blank Desktop: Win 11 Icon Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-edges-app-guard-with-enhanced-graphics/"><u>Boosting Edge's App Guard with Enhanced Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-fps-measurement-software-for-windows-11-users/"><u>Best FPS Measurement Software for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/antivirus-alert-7-significant-windows-functions-under-scrutiny/"><u>Antivirus Alert: 7 Significant Windows Functions Under Scrutiny</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-lockout-interval-after-unsuccessful-windows-sign-in/"><u>Adjusting Lockout Interval After Unsuccessful Windows Sign In</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-gaming-tuning-amd-radeon-settings/"><u>Boost Your Gaming: Tuning AMD Radeon Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-clockdate-display-in-window-11-interface/"><u>Adjust Clock/Date Display in Window 11 Interface</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensively-unveiling-the-syma-x5c-your-first-drones-matchmaker/"><u>2024 Approved  Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-windows-efficiency-embrace-adaptive-tiling/"><u>Amplify Windows Efficiency: Embrace Adaptive Tiling</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-home-entertainment-tv-or-projection-for-4k/"><u>2024 Approved  The Future of Home Entertainment  TV or Projection for 4K?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-guide-easy-to-install-vrecorder-for-2024/"><u>[New] Essential Guide  Easy-to-Install VRecorder for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-guide-to-component-services-on-windows-11/"><u>Beginner’s Guide to Component Services on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-net-speed-win-pc-download-acceleration-tips/"><u>Boosting Net Speed: Win-PC Download Acceleration Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-resources-windows-task-management/"><u>Balancing Resources: Windows Task Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/batch-processing-closure-for-busy-windows-users/"><u>Batch-Processing Closure for Busy Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-windows-capacity-securely-without-erasing-files/"><u>Boost Windows Capacity Securely without Erasing Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-the-100-quagmire-with-these-simple-solutions/"><u>Beat the 100%% Quagmire with These Simple Solutions</u></a></li>
-<li><a href="https://animation-videos.techidaily.com/a-beginners-guide-to-tell-you-what-3d-animation-is-for-2024/"><u>A Beginners Guide to Tell You What 3D Animation Is for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-snapchat-snaps-with-customizable-user-voices-for-2024/"><u>[Updated] Elevate Snapchat Snaps with Customizable User Voices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-steam-downloads-combatting-speedy-slowdowns/"><u>Boosting Steam Downloads: Combatting Speedy Slowdowns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-your-windows-11-activation-status/"><u>Assessing Your Windows 11 Activation Status</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-editing-setup-office-products-word-for-text-only-opened-attachments/"><u>Avoid Editing: Setup Office Products (Word) for Text Only Opened Attachments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-pc-safety-change-your-windows-11-password/"><u>Boost PC Safety: Change Your Windows 11 Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alt-tab-techniques-efficiently-arrange-your-open-windows-win1110/"><u>Alt-Tab Techniques: Efficiently Arrange Your Open Windows (Win11/10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/analyzing-revenue-flow-in-microsofts-windows-11-landscape/"><u>Analyzing Revenue Flow in Microsoft's Windows 11 Landscape</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/maximize-your-reach-ideal-aspect-ratios-for-linkedin-video-posts-for-2024/"><u>Maximize Your Reach Ideal Aspect Ratios for LinkedIn Video Posts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>In 2024, Perfect Your Profile  Easy Guide for Instagram Videos From Desktop</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-s23-ultra-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy S23 Ultra? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-video-recording-rumble-obs-versus-shadowreplay-for-2024/"><u>[Updated] Video Recording Rumble  OBS Versus ShadowReplay for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/decoding-the-world-of-discord-stickers-for-2024/"><u>Decoding the World of Discord Stickers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/backup-basics-cloning-without-external-help/"><u>Backup Basics: Cloning Without External Help</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/atlasos-makeover-new-life-for-vintage-pcs/"><u>AtlasOS Makeover: New Life for Vintage PCs</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitguard-compromised-continue-now-not-tomorrow/"><u>BitGuard Compromised: Continue Now, Not Tomorrow</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-ssd-performance-with-windows-and-ssd-fresh/"><u>Boosting SSD Performance with Windows & SSD Fresh</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/app-aesthetics-overshadowing-computational-efficiency-issues/"><u>App Aesthetics Overshadowing Computational Efficiency Issues</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits/"><u>[New] Revolutionizing Video Revenue  A Conducive Guide to Youtube Profits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-security-with-vbox-turn-onoff-secure-boot-and-tpm/"><u>Boost Security with VBox: Turn On/Off Secure Boot & TPM</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nubia-z50s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nubia Z50S Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v30-lite-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V30 Lite 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-leading-edge-top-10-advanced-vimeo-video-extraction-sites/"><u>[New] In 2024, Leading Edge  Top 10 Advanced Vimeo Video Extraction Sites</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-audio-enhancement-apps-for-youtubers-videos/"><u>[Updated] Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
