@@ -1,7 +1,7 @@
 ---
 title: Awaken Your Device – Finding & Fixing Muted Speaker Issues
-date: 2024-07-12T18:03:40.758Z
-updated: 2024-07-13T18:03:40.758Z
+date: 2024-08-08T10:57:51.172Z
+updated: 2024-08-09T10:57:51.172Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Don't panic, though, as we've done the heavy lifting for you. Here's how you can fix the sound on your PC if your speakers have stopped working.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Have You Muted the Audio?
 
  One of the easiest ways to end up with no audio on Windows speakers is to mute the sound accidentally. This can happen easily by just hitting the wrong button or keyboard shortcut. It can even happen by lowering the system volume too much.
@@ -30,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -64,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
 Audio should now play on your HDMI TV.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -82,6 +92,9 @@ Audio should now play on your HDMI TV.
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -90,12 +103,18 @@ Audio should now play on your HDMI TV.
 
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 7\. Check Your Monitor's Speakers
 
  Many monitors nowadays come with in-built speakers. Take a look at the speakers, and see if you're using such a monitor. You can then tweak the volume from the buttons on your monitor or the through the settings on your Windows.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -106,6 +125,9 @@ Audio should now play on your HDMI TV.
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -128,10 +150,16 @@ Audio should now play on your HDMI TV.
 3. Under the**Playback** tab, right-click the**Default Device** and select**Properties** .
 4. Finally, select either the**Disable all enhancements** or the**Disable** option in the Enhancements tab and select**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
  This will turn off all enhancements that could be the cause of your speakers not working.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -160,3 +188,57 @@ Audio should now play on your HDMI TV.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-webinar-recording-techniques/"><u>[New] 2024 Approved  Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>[Updated] In 2024, Phonesnapshot Protocols  Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-techniques-to-improve-focal-depth-in-online-platforms-for-2024/"><u>[Updated] Techniques to Improve Focal Depth in Online Platforms for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hacking-the-meme-game-master-kinemaster-skills/"><u>2024 Approved  Hacking the Meme Game  Master KineMaster Skills</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-add-video-to-text-for-free/"><u>2024 Approved  How to Add Video to Text for Free</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-dialogue-designer-space/"><u>2024 Approved  Prime Dialogue Designer Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/align-screen-horizons-uniformly/"><u>Align Screen Horizons Uniformly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/begin-the-stream-an-introduction-to-instagram-lives/"><u>Begin the Stream  An Introduction to Instagram Lives</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-15-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 15 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-meizu-21-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Meizu 21 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-code-0x0000004e-on-windows-os/"><u>Eliminating Code 0X0000004E on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-non-crashy-windows-user-experience/"><u>Ensure Non-Crashy Windows User Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-in-minutes-command-line-steps/"><u>Exploring Windows in Minutes: Command Line Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-youtube-playback-speed-delays-in-chrome/"><u>Fixing YouTube Playback Speed Delays in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/folders-and-files-in-the-spotlight-6-access-techniques/"><u>Folders and Files in the Spotlight: 6 Access Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-choose-and-set-your-favorite-command-prompt/"><u>How to Choose and Set Your Favorite Command Prompt</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone XS/iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gently-unveiled-scene/"><u>In 2024, Gently Unveiled Scene</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-se-2022-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone SE (2022)?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-pursuit-of-purposeful-downloads-from-windows-store/"><u>In Pursuit of Purposeful Downloads From Windows Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/joining-jpeg-worlds-with-ease-and-skill/"><u>Joining JPEG Worlds with Ease and Skill</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-luminance-adjustments-on-your-win11-device/"><u>Leveraging Luminance Adjustments on Your Win11 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macos-users-guide-effortlessly-syncing-airpods-with-macbook-air/"><u>MacOS Users Guide: Effortlessly Syncing AirPods with MacBook Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-netconfig-a-guide-to-connectivity/"><u>Mastering Window's NetConfig: A Guide to Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-windows-resolution-glitches/"><u>Overcoming Common Windows Resolution Glitches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-3-the-new-standard-for-action-video-recording-by-ion-for-2024/"><u>Pro 3 - The New Standard for Action Video Recording by ION for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-faulty-troubleshooters-in-windows-os/"><u>Reinvigorating Faulty Troubleshooters in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-voice-typing-problems-error-code-0x80049dd3-in-windows-11/"><u>Remedying Voice Typing Problems (Error Code: 0X80049DD3) in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-login-failure-x8004dec5-windows-issue/"><u>Resolving ONEDRIVE Login Failure: X.8004DEC5 Windows Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-your-muted-windows-start-button-icon/"><u>Resurrecting Your Muted Windows Start Button Icon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-creating-self-extracting-fx-in-win11/"><u>Step-by-Step: Creating Self-Extracting FX in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-moving-of-apps-within-the-windows-ui/"><u>Techniques to Halt Moving of Apps Within the Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-banishing-the-persistent-pink-error-on-windows/"><u>The Ultimate Guide to Banishing the Persistent Pink Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-stopping-unwanted-disk-filling/"><u>The Ultimate Guide to Stopping Unwanted Disk Filling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-soundcard-irq-errors-on-pc/"><u>Troubleshooting Soundcard IRQ Errors on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-headset-microphone-blockage/"><u>Unblocking Windows Headset Microphone Blockage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-role-of-windows-print-management-interface/"><u>Understanding the Role of Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-multiscreen-woes/"><u>Understanding Windows Multiscreen Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-the-difference-between-the-c-drive-and-the-d-drive/"><u>What's the Difference Between the C: Drive and the D: Drive?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+</ul></div>

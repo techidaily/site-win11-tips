@@ -1,7 +1,7 @@
 ---
 title: Boosting Efficiency in Win11 with Custom Cmd Commands
-date: 2024-07-12T18:08:02.108Z
-updated: 2024-07-13T18:08:02.108Z
+date: 2024-08-08T10:54:09.891Z
+updated: 2024-08-09T10:54:09.891Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 1. Open this [NirCmd download webpage](https://www.nirsoft.net/utils/nircmd2.html) in browser software.
 2. Then scroll right to the bottom of that page and click the **Download\_NirCmd\_64-bit** link there.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
@@ -51,12 +54,18 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
 
 1. Right-click on a NirCmd desktop shortcut to select **Properties**.
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
 4. Click **OK** to exit the shortcut’s properties window.
@@ -69,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
@@ -81,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 `nircmd.exe win center alltop`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
@@ -121,18 +137,27 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 `nircmd.exe win close class CabinetWClass`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
@@ -147,3 +172,41 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-download-twitter-videos-to-your-android-phone/"><u>[New] How to Download Twitter Videos to Your Android Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-packaging-perfection-strategies-for-stunning-first-touches/"><u>[Updated] Packaging Perfection  Strategies for Stunning First Touches</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-user-adjustments-to-windows-screensaver/"><u>Avoiding User Adjustments to Windows Screensaver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-calendar-the-windows-outlook-customization-journey/"><u>Bring Life to Your Calendar: The Windows Outlook Customization Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-no-alert-settings-for-windows-11-cameras/"><u>Circumventing No-Alert Settings for Windows 11 Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-keyspace-perfection-on-windows-11/"><u>Configuring Keyspace Perfection on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cpu-generation-inquiry-on-windows-8-efficient-approaches/"><u>CPU Generation Inquiry on Windows – 8 Efficient Approaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-dynamic-and-user-friendly-windows-interface/"><u>Create a Dynamic and User-Friendly Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-device-names-candd-a-clear-breakdown/"><u>Dissecting Device Names (C&D): A Clear Breakdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169699080-dive-into-immersive-gaming-bliss-no-extra-cost-required/"><u>Dive Into Immersive Gaming Bliss - No Extra Cost Required</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-s23-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy S23</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-open-mouse-settings-efficiently-in-win11/"><u>Essential Tips: Open Mouse Settings Efficiently in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/full-spectrum-assessment-dji-phantom-4-unveiled/"><u>Full Spectrum Assessment  DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-productivity-the-most-compelling-task-list-software-on-windows-11/"><u>Harnessing Productivity: The Most Compelling Task List Software on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode without Computer?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/humor-unleashed-top-meme-creator/"><u>Humor Unleashed  Top Meme Creator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-nubia-flip-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Nubia Flip 5GFRP Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>In 2024, The Best Aviation Start  Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-regain-normal-colors-of-microsoft-shop/"><u>Methods to Regain Normal Colors of Microsoft Shop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-troubleshooting-made-easy-fixing-the-ue4-madness-glitch/"><u>Outriders Troubleshooting Made Easy: Fixing the UE4 Madness Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-stopped-netflix-app-in-windows/"><u>Reviving the Stopped Netflix App in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-the-right-top-15-tripods-for-gopro-cameras/"><u>Selecting the Right Top 15 Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/seo-revolution-transforming-your-content-visibility/"><u>SEO Revolution  Transforming Your Content Visibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-locate-missing-ubisoft-game-launcher/"><u>Solutions to Locate Missing Ubisoft Game Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-inconsistent-windows-printers/"><u>Steps for Stabilizing Inconsistent Windows Printers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-7-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 7 Plus Activation Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-windows-11s-system32-folder-way/"><u>Uncover the Windows 11'S System32 Folder Way</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-resolving-microsoft-edges-exe-file-hang-ups-in-windows-os/"><u>Understanding and Resolving Microsoft Edge's Exe File Hang-Ups in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-youre-overlooking-with-low-priced-activation-keys/"><u>What You're Overlooking with Low-Priced Activation Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-mastering-delete-confirmation-options/"><u>Windows: Mastering Delete Confirmation Options</u></a></li>
+</ul></div>

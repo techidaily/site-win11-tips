@@ -1,7 +1,7 @@
 ---
 title: Addressing Unsolicited File Explorer Activity
-date: 2024-07-12T18:06:12.032Z
-updated: 2024-07-13T18:06:12.032Z
+date: 2024-08-08T10:55:43.123Z
+updated: 2024-08-09T10:55:43.123Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,11 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  If you are experiencing a similar issue on your Windows computer, this guide has some fixes that you need to try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 1\. Restart the Windows Explorer Process
 
  Windows Explorer is a system process that manages the graphical user interface for File Explorer. If this process experiences any issues while running, it could cause File Explorer to behave erratically on your computer.
@@ -29,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 1. Press**Win + X** or right-click on the Start icon to open the Power User menu.
 2. Select**Task Manager** from the list.
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
@@ -60,10 +68,17 @@ To run the System Maintenance troubleshooter on Windows:
 4. Select the**System and Security** option.
 5. Click on**System Maintenance** .
 6. Click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 5\. Check for Corrupted System Files
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
@@ -86,16 +101,25 @@ To run the System Maintenance troubleshooter on Windows:
 
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to [fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on [how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on [how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
@@ -117,3 +141,42 @@ To run the System Maintenance troubleshooter on Windows:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-breaking-barriers-twitter-to-facebook-posting-process/"><u>[New] In 2024, Breaking Barriers  Twitter-to-Facebook Posting Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>[Updated] How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-windows-11-a-step-by-step-upgrade-guide/"><u>[Updated] Mastering Windows 11  A Step-by-Step Upgrade Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-outro-checklist-for-youtube-success/"><u>[Updated] The Ultimate Outro Checklist for YouTube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>[Updated] Transforming Visuals  10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-key-strategies-for-managing-windows-connections-tool/"><u>10 Key Strategies for Managing Window's Connections Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-simplify-network-connection-configurations-in-winos/"><u>10 Ways to Simplify Network Connection Configurations in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/12-superfluous-windows-tools-you-can-live-without/"><u>12 Superfluous Windows Tools You Can Live Without</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-walkthrough-upgrading-surface-hardware/"><u>A Comprehensive Walkthrough: Upgrading Surface Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreran-guide-to-windows-11-widget-toolbar-usage/"><u>A Compreran Guide to Windows 11 Widget Toolbar Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-global-scripts-windows-font-acquisition-guide/"><u>Accessing Global Scripts: Windows Font Acquisition Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-high-scores-with-fc-mascot-for-zero-cost/"><u>Achieve High Scores with FC Mascot for Zero Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-advanced-protection-features-for-win-11s-edge-using-defender-aguard/"><u>Activate Advanced Protection Features for Win 11'S Edge Using Defender Aguard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-crash-code-0xc0000142-in-win11win7/"><u>Addressing Crash Code 0XC0000142 in WIN11/Win7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-camera-found-error-on-windows-11-os/"><u>Addressing No Camera Found Error on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-missing-rockalldlldll-problem/"><u>Addressing the 'Missing Rockalldll.dll' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-empty-display-of-system-startups/"><u>Addressing the Empty Display of System Startups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-issue-of-battlenet-not-opening-windows/"><u>Addressing the Issue of Battle.net Not Opening Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-black-remote-desktop-display/"><u>Addressing Window's Black Remote Desktop Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-adding-directories-to-context-menu/"><u>Advanced Windows Customization - Adding Directories to Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-blank-spaces-on-your-screen-icons-revival-guide/"><u>Avoid Blank Spaces on Your Screen: Icons Revival Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-pitfalls-with-microsoft-teams-how-to-conquer-error-80080300/"><u>Avoiding Pitfalls with Microsoft Teams: How to Conquer Error 80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-teamsters-crashes-on-windows-11-10/"><u>Avoiding Teamsters Crashes on Windows 11, 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328256303-bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-color-and-create-the-best-iphone-video-editing-apps-this-year-for-2024/"><u>Cut, Color, and Create The Best iPhone Video Editing Apps This Year for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719359918304-error-handling-strategies/"><u>Error Handling Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-view-access-for-groups-shared-stuff/"><u>Mastering View Access for Group's Shared Stuff</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-videos-with-top-10-free-srt-converters-for-2024/"><u>Revolutionize Your Videos with Top 10 Free SRT Converters for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snapshot-selection-unveiling-the-top-10-camera-lenses-for-2024/"><u>Snapshot Selection  Unveiling the Top 10 Camera Lenses for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719319856563-turbocharge-windows-11-boot-speed-heres-how/"><u>Turbocharge Windows 11 Boot Speed – Here’s How!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719305742826-windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-ultimate-checklist-for-channel-buying-success/"><u>Your Ultimate Checklist for Channel Buying Success</u></a></li>
+</ul></div>

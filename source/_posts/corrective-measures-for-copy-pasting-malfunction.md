@@ -1,0 +1,182 @@
+---
+title: Corrective Measures for Copy-Pasting Malfunction
+date: 2024-08-08T11:05:50.262Z
+updated: 2024-08-09T11:05:50.262Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Corrective Measures for Copy-Pasting Malfunction
+excerpt: This Article Describes Corrective Measures for Copy-Pasting Malfunction
+keywords: Fix Copy Errors,Stop Text Duplication,Avoid Plagiarism,Correct Pasting Issues,Prevent Copy Failures,Eliminate Repeats Mistakes,Stop Copy Glitches
+thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a78d3deb58b3600f2a5e9d7c1.jpg
+---
+
+## Corrective Measures for Copy-Pasting Malfunction
+
+ Are you unable to copy and paste text from a website in Chrome, Edge, Firefox, or any other browser? It usually occurs when a website disallows users from copying and pasting text from its pages.
+
+ Aside from that, misconfigured security settings, issues with the keyboard keys or copy-paste shortcut, interfering clipboard cache, and interruptions from browser extensions and third-party clipboard managers can all cause this issue.
+
+ Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Perform Some Preliminary Checks
+
+ Before tackling the complicated fixes, apply the following easy fixes first:
+
+* Restart your browser to rule out any temporary problems.
+* If you use third-party clipboard managers, disable or permanently delete them.
+* Open the website not allowing you to copy-paste in Incognito or Private mode.
+* Copy the text in smaller chunks instead of copying the entire page at once to see if the copy-paste function works.
+
+ If none of the above basic checks help, it's time to move on to the other fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Check How Widespread the Issue Is
+
+ Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
+
+ The issue is website-specific if you can copy and paste text from other websites but not from a particular website. If this is the case, try alternatives covered in our guide on [how to copy text when right-clicking is disabled on a website](https://www.makeuseof.com/copy-webpage-text-without-right-click/).
+
+ However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
+
+## 3\. Check for Problems With Your Keyboard
+
+![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+
+ The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
+
+ If you're unable to copy and paste text from outside the browser, too, there could be a problem with the shortcuts themselves or with your keyboard keys. In this case, follow our guides on [how to fix malfunctioning keyboard keys](https://www.makeuseof.com/fix-keyboard-keys-not-working-windows/) (and [keyboard shortcuts](https://www.makeuseof.com/ways-fix-keyboard-shortcuts-not-working-in-windows-10/)) to resolve the underlying problem.
+
+ However, if you can copy-paste text outside the browser but not within it, proceed to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Disable Other Active Applications
+
+ If another app already uses **CTRL + C** or **CTRL + V** as a hotkey for performing a specific action, pressing the shortcut in Chrome may not copy or paste the text due to a conflict from another app. Therefore, temporarily turn off any other apps currently running on your device to see if it resolves the issue.
+
+ If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Check Your Security Settings
+
+![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
+
+ Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
+
+ If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
+
+## 6\. Clear the Clipboard Cache and History
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
+
+ Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
+
+ Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
+
+ Turning off the mini menu that appears when selecting text in Microsoft Edge resolved the copy-paste issue for some users. This feature reportedly blocks copy-pasting. So, if you are experiencing the problem in Microsoft Edge, follow these steps to turn it off:
+
+1. Open Microsoft Edge.
+2. Click the **three horizontal dots** in the top-right corner and select **Settings**.
+3. Navigate to the **Appearance** tab on the left.
+4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
+![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Check for Browser Interference
+
+ If you fail to get copy-paste to work again, ensure that the browser interference is not causing this issue. You can rule out this possibility by applying these fixes:
+
+* [Clear the cache and cookies in Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/), [Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/), [Firefox](https://www.makeuseof.com/clear-cache-firefox/), or any other browser you use.
+* [Update your web browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to the latest version.
+* [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
+
+## Use Alternative Methods to Copy and Paste Text
+
+ If every other option fails, and you still can't copy-paste text normally, copy and paste text in your browser using the context menu. Though it isn't a quick way to copy and paste text, it is reasonably reliable and does the job most of the time.
+
+ Simply select the text you want to copy from a website, right-click on it and select **Copy** from the context menu. Then, go to the text editor of your choice, right-click again, and select **Paste** from the context menu.
+
+![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
+
+ If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
+
+## Copy-Paste Your Text Again Effortlessly
+
+ Copy-paste is one of those operations we perform almost constantly while surfing the internet. When it stops working, it's nothing short of a nightmare. Hopefully, by now, you have a clearer understanding of why the feature suddenly stops working in your browser and how to get it working again.
+
+ Do you know that you can copy-paste content in many different ways besides using the shortcut or context menu? If not, you might want to explore all the options.
+
+ Aside from that, misconfigured security settings, issues with the keyboard keys or copy-paste shortcut, interfering clipboard cache, and interruptions from browser extensions and third-party clipboard managers can all cause this issue.
+
+ Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-maximizing-engagement-from-tiktok-to-twitter/"><u>[New] Maximizing Engagement  From TikTok to Twitter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>[Updated] 2024 Approved  Precision in Photograph Preservation  Phone to Snapchat Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-your-online-realm-harnessing-youtube-insights-powerfully-for-2024/"><u>[Updated] Expand Your Online Realm  Harnessing YouTube Insights Powerfully for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-variants-of-windows-movie-maker-a-comprehensive-list/"><u>2024 Approved  Variants of Windows Movie Maker  A Comprehensive List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-methods-for-removing-a-disks-partition-in-windows/"><u>3 Methods for Removing a Disk's Partition in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-keys-to-windows-program-harmony/"><u>4 Keys to Windows Program Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-crucial-windows-apps-making-mac-to-windows-swap-a-breeze/"><u>5 Crucial Windows Apps Making Mac to Windows Swap a Breeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-to-fix-failed-security-codes-from-epic-games-on-windows/"><u>7 Strategies to Fix Failed Security Codes From Epic Games on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-superior-features-added-to-windows-11-feb-update/"><u>9 Superior Features Added to Windows 11, Feb Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-close-examination-of-9-key-factors-that-advantage-pcs/"><u>A Close Examination of 9 Key Factors That Advantage PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-assistance-top-tips-for-fixed-gameplay-on-pcs/"><u>Accelerated Assistance: Top Tips for Fixed Gameplay on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-zero-x-in-the-mail-application-of-windows/"><u>Addressing Error Code Zero X in the Mail Application of Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-errors-caused-by-organization-managed-features-on-windows-11/"><u>Addressing Errors Caused by Organization-Managed Features on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro-for-2024/"><u>Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aging-gracefully-upgrading-your-familys-old-computer/"><u>Aging Gracefully: Upgrading Your Family’s Old Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insider-look-at-microsofts-revolutionary-copilot-tool/"><u>An Insider Look at Microsoft's Revolutionary Copilot Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/anecdotal-insights-into-seamless-windows-11-setup/"><u>Anecdotal Insights Into Seamless Windows 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-capture-mastery-snipping-tools-latest-recording-features-explained-max-156/"><u>Audio-Visual Capture Mastery: Snipping Tool's Latest Recording Features Explained (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-overlapping-defenses-opt-for-a-singular-antivirus-on-windows/"><u>Avoid Overlapping Defenses: Opt for a Singular Antivirus on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/black-friday-bonanza-get-your-deal-612-for-eternal-windows-10/"><u>Black Friday Bonanza: Get Your Deal - $6.12 for Eternal Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-disk-space-how-to-use-windows-autodeleting-feature/"><u>Boost Disk Space: How to Use Windows' AutoDeleting Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-setting-up-shortcuts-for-windows-troubleshooters/"><u>Boost Efficiency: Setting Up Shortcuts for Windows Troubleshooters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-task-manager-admin-mode-on-windows-11/"><u>Boosting Task Manager: Admin Mode on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-8t-lock-screen-password-by-drfone-android/"><u>How To Change Honor Play 8T Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a15-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A15 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-gamers-manual-learn-xbox-one-screen-recording-for-2024/"><u>Pro Gamer's Manual  Learn Xbox One Screen Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-setup-secure-microsoft-wireless-mouse-5000-drivers-with-a-simple-download/"><u>Speedy Setup: Secure Microsoft Wireless Mouse 5000 Drivers with a Simple Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722852840066-step-by-step-guide-to-reversing-videos-on-snapchat-learn-how-today/"><u>Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-companion-for-creating-unique-metaverse-avatars-for-2024/"><u>The Ultimate Companion for Creating Unique Metaverse Avatars for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-picks-expert-recommended-8-convertors-from-sub-to-srt/"><u>Top Picks  Expert-Recommended 8 Convertors From Sub to Srt</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-spaceships-into-trees-youtubes-green-secrets-revealed-for-2024/"><u>Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328507288-uncomplicated-start-menus-say-no-to-ads/"><u>Uncomplicated Start Menus - Say No to Ads!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-image-curve-magic-in-ps-for-2024/"><u>Unlock Creative Potential  Image Curve Magic in PS for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

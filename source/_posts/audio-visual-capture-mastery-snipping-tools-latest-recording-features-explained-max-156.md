@@ -1,7 +1,7 @@
 ---
 title: "Audio-Visual Capture Mastery: Snipping Tool's Latest Recording Features Explained (Max 156)"
-date: 2024-07-12T18:07:30.803Z
-updated: 2024-07-13T18:07:30.803Z
+date: 2024-08-08T10:54:36.457Z
+updated: 2024-08-09T10:54:36.457Z
 tags:
   - windows10
   - windows11
@@ -18,10 +18,16 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  The Snipping Tool is the native screen capture and video recording tool in Windows 11\. And now, Microsoft is testing an audio capture feature along with video in the Windows Insider channel. We will discuss this feature in detail and how to enable it on your Windows 11 PC. Let’s begin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Snipping Tool Gets an Audio Recording Feature
 
  The Sniping Tool got a major facelift after getting video capture support in Windows 11\. After that came the [Text Actions feature](https://www.makeuseof.com/text-actions-snipping-tool-windows-11/) that can read text from screenshots, which is another useful add-on. You can already annotate the captured screenshots in the tool, so adding audio capture support makes it a complete package for users.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## How to Enable and Use the Audio Recording Feature in the Snipping Tool
 
  The Snipping Tool’s audio recording feature is limited to Windows Insider users at the time of writing. It is available for users enrolled in the Canary channel after a recent update, so you must first update your Windows PC to the latest available build and install it. Non-Insiders can use UUP Dump to [download the Windows Insider builds without enrolling in the program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -37,9 +43,16 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
 6. Then, click on the **Open Microphone privacy settings** option. Click on the **Yes** button to continue.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adjust mic settings in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/adjust-mic-settings-in-snipping-tool.jpg)
 7. Navigate to the **Let apps and access your microphone** section. Scroll down and find the **Snipping Tool** app in the list.
 8. Click on the toggle to allow the Snipping Tool to access the system’s microphone.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
 
@@ -63,9 +76,15 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 1. Open the Snipping Tool app.
 2. Navigate to the top right corner and click on the **see more** (ellipsis) icon, then select **Settings**. Scroll down to the **Screen recording** section.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Open Snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-snipping-tool-settings.jpg)
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
 
@@ -87,3 +106,49 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-cinematic-writing-of-the-decade/"><u>[New] Cinematic Writing of the Decade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-your-instagram-presence-with-long-videos/"><u>[New] In 2024, Enhancing Your Instagram Presence with Long Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-essential-guide-to-facebooks-latest-features-for-2024/"><u>[New] The Essential Guide to Facebook's Latest Features for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>[Updated] 2024 Approved  Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamed-screen-recorder-providers/"><u>[Updated] 2024 Approved  Streamed Screen Recorder Providers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-accessing-vintage-facebook-content-tips-for-all-devices/"><u>[Updated] Accessing Vintage Facebook Content  Tips for All Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-content-strategies-for-youtube-success-for-2024/"><u>[Updated] Elevate Your Content  Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-athletic-free-front-rows-for-relaxing/"><u>10 Athletic-Free Front Rows for Relaxing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chuckle-away-with-premium-complimentary-meme-templates/"><u>2024 Approved  Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-implementing-stunning-visual-effects-on-zoom-calls/"><u>2024 Approved  Implementing Stunning Visual Effects on Zoom Calls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/auditory-adaptability-for-ace-gamers-for-2024/"><u>Auditory Adaptability for Ace Gamers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-disk-space-safely-preserving-data-on-your-windows-11-local-drive-max-156-chars/"><u>Boost Your Disk Space Safely: Preserving Data on Your Windows 11 Local Drive (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719316562070-boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-blocks-to-get-divison-1-game-running-a-comprehensive-guide/"><u>Bypassing Blocks to Get Divison 1 Game Running : A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-7-steps-to-missing-windows-add-ons/"><u>Enhancing User Experience: 7 Steps to Missing Windows Add-Ons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-adding-portable-apps-menus/"><u>Enhancing Windows Interface: Adding Portable Apps Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-default-windows-backup-reset/"><u>Guiding Through Default Windows Backup Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-windows-oversight-on-apps-browsers/"><u>Harnessing Windows Oversight on Apps, Browsers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-view-this-file-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to View This File” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-system-stability-automatic-updates-plus-amd-video-replacement/"><u>Improve System Stability: Automatic Updates + AMD Video Replacement</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-13-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 13 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-reigning-over-tiktok-secrets-to-viral-success-in-advertising/"><u>In 2024, Reigning Over TikTok  Secrets to Viral Success in Advertising</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-to-peak-ssd-performance-win-and-fresh-methods/"><u>Leap to Peak SSD Performance: Win and Fresh Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gui-diskspace-windows-menu-integration-guide/"><u>Mastering GUI Diskspace: Windows Menu Integration Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-new-user-registration-on-twitter/"><u>Navigating New User Registration on Twitter</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-adobe-premiere-top-6-tricks-for-professional-grade-videos/"><u>New In 2024, Mastering Adobe Premiere Top 6 Tricks for Professional-Grade Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/past-keys-to-future-launches-utilizing-windows-7-for-windows-11-bootup/"><u>Past Keys to Future Launches: Utilizing Windows 7 for Windows 11 Bootup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-fixing-file-not-found-issues-in-windows-1110/"><u>Quick Remedy: Fixing 'File Not Found' Issues in Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-non-functional-mic-on-turtle-beach-elite-atlas-for-optimal-audio-experience/"><u>Resolving Non-Functional Mic on Turtle Beach Elite Atlas for Optimal Audio Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-operation-issues-on-modern-windows-pcs/"><u>Resolving Operation Issues on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-updater-roadblock-0x80073712/"><u>Resolving Updater Roadblock: 0X80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-installation-of-windows-chatgpt/"><u>Step-by-Step Installation of Windows ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-windows-exploration-without-the-use-of-ls/"><u>Streamlined Windows Exploration Without the Use of LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-windows-11s-notepad-with-copilot/"><u>Supercharge Windows 11’S Notepad With Copilot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-customizing-the-desktop-menu/"><u>The Insider's Guide to Customizing the Desktop Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-setting-up-window-sandbox/"><u>The Ultimate Guide to Setting up Window Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-evolves-spotlight-on-new-updates-capabilities/"><u>Windows 11 Evolves: Spotlight on New Updates' Capabilities</u></a></li>
+</ul></div>

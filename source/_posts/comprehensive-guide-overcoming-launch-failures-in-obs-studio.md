@@ -1,0 +1,183 @@
+---
+title: "Comprehensive Guide: Overcoming Launch Failures in OBS Studio"
+date: 2024-08-08T11:06:38.468Z
+updated: 2024-08-09T11:06:38.468Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Comprehensive Guide: Overcoming Launch Failures in OBS Studio"
+excerpt: "This Article Describes Comprehensive Guide: Overcoming Launch Failures in OBS Studio"
+keywords: OBS Studio Launch Tips,Fixing Launch Issues OBS,OBS Start Success Guide,Overcoming Studio Launch Errors,Streamline OBS Launch,Troubleshoot OBS Failure,Master OBS Studio Launch
+thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd59ad13bbdba2af26e7005b7.jpg
+---
+
+## Comprehensive Guide: Overcoming Launch Failures in OBS Studio
+
+ OBS Studio is a popular software for recording and streaming games. However, sometimes OBS Studio doesn’t start when users try to launch that software on Windows 10 or 11c PCs. You may or may not see an error message when OBS Studio doesn’t launch, but it doesn’t open either way.
+
+ Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## 1\. Run OBS Studio in Compatibility Mode
+
+ OBS Studio can sometimes fail to launch because of compatibility issues. Selecting to run OBS Studio in a special compatibility mode, which applies settings from an older Windows OS, is a possible resolution a few users have confirmed to work. So, try running OBS Studio in compatibility mode like this:
+
+1. Right-click an OBS Studio desktop shortcut and select **Properties**. Or right-click the **OBS Studio.exe** (application) file inside its installation folder and select the same context menu option.
+2. Click **Compatibility** in the tab bar.
+3. Select **Run this program in compatibility** **mode** and **Windows 8** on that setting’s drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-this-program-in-compatibility-mode2.jpg)
+4. Click **Apply** to set the selected compatibility option.
+5. Select **OK** to close the compatibility settings.
+6. Then run OSB Studio to see if it starts.
+
+ The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Set OBS Studio to Run as Administrator
+
+ Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
+
+## 3\. Set a Power Saving GPU Option for OBS Studio
+
+ Selecting a power-saving graphics performance for OBS Studio is a troubleshooting method that’s worked for some users. If your PC has two GPUs, this will mean setting the integrated graphics processor for OBS Studio. Follow the instructions in this [guide to choosing a preferred GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to select the **Power-saving** graphics preference option for OBS Studio.
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/power-saving-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Roll Back a Recent Graphics Driver Update
+
+ Some users have been able to fix OBS Studio not launching by rolling back recent graphics card driver updates. New graphics drivers can sometimes have bugs that cause issues. Our guide
+
+ on [how to roll back a driver on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) provides further details for applying this potential resolution.
+
+![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Update the Driver for Your PC’s Graphics Adapter
+
+ Updating a graphics driver may sound contradictory to the previous potential fix. However, OBS Studio issues often arise because of outdated graphics drivers. If you don’t have an option to roll back your graphics card’s driver, try updating it instead.
+
+ Our [how to update your graphics drives on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) article tells you about the different ways you can apply this potential solution.
+
+![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
+
+## 6\. Delete the OBS Studio Configuration Data Folder
+
+ Users have confirmed that erasing the OBS Studio data folder, or at least subfolders in it, can fix OBS not launching. The “Failed to initialize” OBS error message is one such launch issue users have fixed by applying this potential resolution. This is how you can delete the OBS Studio data folder:
+
+1. Right-click **Start** on the Windows taskbar to select the **Run** accessory shortcut on the Power User menu.
+2. Type **%appdata%** into the Run dialog.
+3. Select **OK** to access a Roaming directory within File Explorer.  
+![The OBS Studio data folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-folder.jpg)
+4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
+![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
+
+## 7\. Disable Superfluous Background Apps and Services
+
+ Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
+
+ There are a few ways you can disable background apps, but the best way to do it for fixing OBS Studio is to apply a clean boot. This will disable all third-party apps and services from automatically starting with Windows. To apply this troubleshooting method, check out our [how to perform a clean boot guide](https://www.makeuseof.com/clean-boot-windows-11/). Then restart Windows after setting a clean boot and try running OBS Studio.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
+
+ If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
+
+## 8\. Reinstall the OBS Studio Software
+
+ Software reinstallation is a troubleshooting method that can potentially fix many OBS Studio launch issues. Reinstall OBS Studio if nothing else kick-starts the software. Aside from refreshing all the OBS Studio files, reinstalling will also ensure you’re utilizing the latest OBS version.
+
+ You can remove OBS Studio with standard [methods for uninstalling software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Open this [OBS Studio download page](https://obsproject.com/) after you’ve uninstalled the software.
+
+ Click the **Windows** button there to download the setup wizard for OBS Studio. Double-click the **OBS-Studio-29.1.3-Full-Installer-x64.exe** file in the folder it downloaded to start the setup wizard and select to install OBS from there.
+
+![The Windows download button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/obs-studio-download-page.jpg)
+
+ Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## Get Recording and Streaming With OBS Studio Again
+
+ So, don’t dump OBS Studio too quickly when you can’t open it on your Windows PC. At least try applying the troubleshooting methods for fixing OBS Studio not launching above. They’ll probably kick-start OBS Studio for most users who need to fix that software not opening.
+
+ Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>[New] 2024 Approved  Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimize-youtube-submissions-for-extended-films/"><u>[New] In 2024, How to Optimize YouTube Submissions for Extended Films</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-identifying-top-video-capturing-tools-for-win11/"><u>[Updated] 2024 Approved  Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-by-step-finding-your-digital-filming-suite-on-youtube/"><u>[Updated] 2024 Approved  Step-by-Step  Finding Your Digital Filming Suite on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-editor-how-to-edit-instagram-videos-for-2024/"><u>[Updated] Instagram Video Editor  How to Edit Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonic-haven-best-dj-template-selections/"><u>2024 Approved  Harmonic Haven  Best DJ Template Selections</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-spark-20c-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Spark 20C? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-latency-windows-discord-tweaks-for-speed/"><u>Clearing Up Latency: Windows Discord Tweaks for Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-oculus-setup-issues-windows-11-and-10-solutions/"><u>Combat Oculus Setup Issues: Windows 11 & 10 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-directory-capacity-assessment-via-windows-powershell/"><u>Demystifying Directory Capacity Assessment via Windows PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-manage-your-windows-11-administrative-credentials/"><u>Efficiently Manage Your Windows 11 Administrative Credentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unbootable-windows-vms-via-vmware-in-win11/"><u>Eliminating Unbootable Windows VMs via VMware in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-editing-the-windows-registry-via-terminal/"><u>Essential Tips for Editing the Windows Registry via Terminal</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-14-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 14 Plus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A54 5G Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-controller-reviving-it-from-steams-oblivion/"><u>Master the Controller: Reviving It From Steam's Oblivion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-in-merging-movies-with-modern-education-for-2024/"><u>Masterclass in Merging Movies with Modern Education for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-steam-file-sync-failures-in-windows/"><u>Methods to Prevent Steam File Sync Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-style-adding-emoji-15-to-win11-setup/"><u>Navigate with Style: Adding Emoji 15 to Win11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-lock-screen-timing-windows/"><u>Overcoming Frozen Lock Screen Timing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unchangeable-power-configurations-in-windows-11/"><u>Overcoming Unchangeable Power Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-code-0x0000004e-problem/"><u>Overcoming Windows 11'S Code 0X0000004E Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-a-lasting-deletion-toolbar-on-windows-systems/"><u>Personalizing a Lasting Deletion Toolbar on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absence-of-critical-dll-mfc71u-on-pc/"><u>Resolving Absence of Critical DLL: Mfc71u on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-your-smart-tv-a-comprehhrenous-guide-to-samsung-tv-resets/"><u>Reviving Your Smart TV: A Comprehhrenous Guide to Samsung TV Resets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-skills-quickly-winning-techniques-from-windows-experts/"><u>Sharpen Skills Quickly: Winning Techniques From Windows Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-cure-the-msconfig-missing-gpeditmsc-bug/"><u>Solutions to Cure the Msconfig Missing Gpedit.msc Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-into-the-world-of-windows-11-home/"><u>Step Into the World of Windows 11 Home</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-roblox-system-crashes/"><u>Steps to Rectify Roblox System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-print-management-service-absence-in-windows/"><u>Steps to Resolve 'Print Management' Service Absence in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-shopping-experience-fixing-error-0x80072f30/"><u>Streamlining Your Shopping Experience: Fixing Error 0X80072F30</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/syncing-your-presence-in-real-time-tiktoks/"><u>Syncing Your Presence in Real-Time TikToks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tints-shades-and-tones-practical-application-in-art-for-2024/"><u>Tints, Shades & Tones  Practical Application in Art for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-applying-windows-11s-auto-hdr/"><u>Understanding and Applying Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-file-access-fixing-onedrive-glitches/"><u>Uninterrupted File Access: Fixing OneDrive Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

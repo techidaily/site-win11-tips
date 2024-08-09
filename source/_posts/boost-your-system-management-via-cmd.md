@@ -1,7 +1,7 @@
 ---
 title: Boost Your System Management via CMD
-date: 2024-07-12T18:08:31.346Z
-updated: 2024-07-13T18:08:31.346Z
+date: 2024-08-08T10:53:45.065Z
+updated: 2024-08-09T10:53:45.065Z
 tags:
   - windows10
   - windows11
@@ -27,11 +27,17 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 1. Press **Win + Q** on your keyboard to open Windows Search.
 2. Type "Command Prompt" into the search box.
 3. Select **Run as administrator** from the right pane.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 4. You may be prompted to confirm your identity; in that case, click **Yes**.
 
  Once you've done that, Command Prompt will open with administrative privileges. From there, you can enter any commands you like; just keep in mind that they will have full system access, so use them wisely!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Run Command Prompt as an Administrator Using the Run Dialog
 
  If you need to run Command Prompt as an administrator in Windows 11, you can do so by using the Run dialog box. The steps are as follows:
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
 
  If you're using the Command Prompt on a regular basis, there's a good chance you need to run it as an Administrator from time to time. Fortunately, Microsoft has made it easy to do this in Windows 11\.
@@ -51,10 +60,20 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
 1. Press the **Win + X** keys on your keyboard.
 2. Then select **Terminal (Admin)** from the menu that appears.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Run Command Prompt Via Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Via-Quick-Access-Menu.jpg)
 3. If you see a User Account Control message, click **Yes**.
 4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
 
  This is one of the most popular methods of opening almost every Windows program. To open a command prompt with admin access, follow these steps:
@@ -67,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 5. If UAC appears on the screen, click **Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
  Task Manager is a tool that every Windows user should know about. It's a great way to see what programs are running on your computer and how many resources they're using at the same time. If you ever need to run a command prompt as an administrator, you can do so by opening Task Manager.
@@ -89,6 +112,11 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
  There is an address bar in the File Explorer window that can be used to open Command Prompt as an administrator. In order to do this, follow these steps:
@@ -97,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 2. In File Explorer, browse to: **C:\\Windows\\System32**.
 3. Go to the search bar next to the address bar and search for "cmd".
 4. Once you find the executable file, right-click on it and select **Run as administrator**.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
 
@@ -118,6 +149,9 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
 
  If you're looking for a way to make your life a bit easier when it comes to using the Command Prompt, be sure to try out this method in Windows 11\.
@@ -141,6 +175,9 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 3. On the next screen, give a name to this shortcut and click **Finish**.
 4. Now right-click on the shortcut and select **Properties**.
 5. In the Shortcut tab, go to the **Shortcut key** field.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
 7. Make sure to check the **Run as administrator** box and click **OK**.
@@ -150,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
  This is an easy and fast way of opening the Command Prompt as an administrator without using the search box.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Run Elevated Command Prompts Like a Pro
 
  Running a command prompt is quite simple, but some tasks require elevated privileges. This guide will show you different methods for opening Command Prompt as an administrator without a hitch. So, check them out and let us know which method you find most useful.
@@ -166,3 +206,45 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>[New] 2024 Approved  Seamless Technique  Inserting a Direct URL Into TikTok Bio</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-your-ultimate-selfie-validation-handbook/"><u>[New] In 2024, Your Ultimate Selfie Validation Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-smoothly-view-youtube-videos-without-borders/"><u>[Updated] 2024 Approved  How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>[Updated] Becoming a YouTube Pro  The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[Updated] Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>2024 Approved  YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-boundaries-broken-five-methods-to-mend-security-shortfalls-in-win/"><u>Boot Boundaries Broken: Five Methods to Mend Security Shortfalls in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootstrapping-disk-backups-on-your-own/"><u>Bootstrapping Disk Backups on Your Own</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-resolving-connection-problems-for-mb-on-win-oses/"><u>Breaking Barriers: Resolving Connection Problems for MB on Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-formats-mastering-the-art-of-windows-esd-to-iso-conversion/"><u>Bridging Formats: Mastering the Art of Windows' ESD to ISO Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-android-and-windows-webcams/"><u>Bridging the Gap Between Android and Windows Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/briefly-sidestepping-windows-11-security-a-four-step-method/"><u>Briefly Sidestepping Windows 11 Security: A Four-Step Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-light-to-your-pc-top-5-techniques-for-a-working-backlight/"><u>Bring Light to Your PC: Top 5 Techniques for a Working Backlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-blue-screen-chaos-how-to-fix-0x8007045d-on-windows-11/"><u>Bypassing Blue Screen Chaos: How to Fix 0X8007045d on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-errors-on-windows-systems/"><u>Bypassing Permission Errors on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-uninstalling-print-devices-in-win-1011/"><u>Bypassing Restrictions: Uninstalling Print Devices in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-roadblocks-with-microsoft-teams-eradicating-error-code-80080300/"><u>Bypassing Roadblocks with Microsoft Teams: Eradicating Error Code 80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-steam-readwrite-errors-with-ease/"><u>Bypassing Steam Read/Write Errors with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-win11-audio-failure-code-0xc00d36b4/"><u>Bypassing Win11 Audio Failure Code 0xC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-task-sequence-error-0x8007000f/"><u>Bypassing Windows Task Sequence Error 0X8007000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-holiday-vistas-through-creative-panes/"><u>Captivating Holiday Vistas Through Creative Panes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-files-not-syncing-winning-windows-tactics-to-try-first/"><u>Chrome Files Not Syncing? Winning Windows Tactics to Try First</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cut-and-fold-your-way-to-stunning-collages/"><u>Cut & Fold Your Way to Stunning Collages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-online-seminar-tagline-creator-for-2024/"><u>Expert Online Seminar Tagline Creator for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-comprehensive-list-of-top-6-facebook-video-downloader-apps/"><u>In 2024, Comprehensive List of Top 6 Facebook Video Downloader Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-propel-your-digital-presence-past-the-thousand-mark/"><u>In 2024, Propel Your Digital Presence Past the Thousand Mark</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-f15-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy F15 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/live-stream-struggle-picking-your-platform-obs-or-twitch-for-2024/"><u>Live Stream Struggle  Picking Your Platform – OBS or Twitch for 2024</u></a></li>
+</ul></div>

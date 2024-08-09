@@ -1,7 +1,7 @@
 ---
 title: Boost Windows Flexibility with Additional Menus
-date: 2024-07-12T18:08:26.538Z
-updated: 2024-07-13T18:08:26.539Z
+date: 2024-08-08T10:53:48.787Z
+updated: 2024-08-09T10:53:48.787Z
 tags:
   - windows10
   - windows11
@@ -52,14 +52,23 @@ Now it's time to get SyMenu up and running:
 
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The SyMenu app suite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-suite.jpg)
 
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
@@ -70,6 +79,10 @@ Now it's time to get SyMenu up and running:
 
  If you're looking for apps to add to your repertoire, why not check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
@@ -85,6 +98,9 @@ Now it's time to get SyMenu up and running:
 2. Click**Browse** , select a folder on your USB stick, and press the**OK** button.
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
 
@@ -102,24 +118,40 @@ Now it's time to get SyMenu up and running:
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
  LiberKeys, like SyMenu, has portable apps you can download and add to the menu. Open the LiberKeys website, and select a program to add to the menu from there. Click the**Install on my LiberKey** option to add the portable software to the menu. You’ll see a new tab on the menu that includes all apps added to the menu from the software’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The portable app section of the LiberKey website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-website.jpg)
 
  To customize the menu, select**LiberKey Tools** \>**Configuration** . You can change the menu’s color scheme from the Color tab on the Configuration window. Choose a primary menu color on that tab, and select**Apply** to save it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
  If you're a student on the go, be sure to check out the [best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Make Your Portable Apps More Accessible on Windows
 
  A SyMenu or LiberKey software menu gives you an entirely new way to manage and launch portable apps on Windows PCs. You can make all your portable software more directly accessible from the system tray area with LiberKey and SyMenu. That menu will also be truly portable since you can utilize it from a USB stick on different PCs.
@@ -140,3 +172,61 @@ Now it's time to get SyMenu up and running:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-tv-and-fb-live-synergy/"><u>[New] 2024 Approved  The Ultimate Guide to TV and FB Live Synergy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-harnessing-potential-how-to-excel-on-spotify-ads/"><u>[New] Harnessing Potential  How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snickerspace-build-memes-that-make-people-smile/"><u>[New] SnickerSpace  Build Memes That Make People Smile</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastery-in-removing-online-video-post-comments/"><u>[Updated] 2024 Approved  Mastery in Removing Online Video Post-Comments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unleashing-the-potential-of-instavids-planning-for-success/"><u>[Updated] 2024 Approved  Unleashing the Potential of InstaVids  Planning for Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-bridging-the-gap-incorrancing-youtube-links-within-presentation-software-for-2024/"><u>[Updated] Bridging the Gap  Incorrancing YouTube Links Within Presentation Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-live-streaming-with-phone-webcams-and-filming-hacks-for-2024/"><u>[Updated] Elevate Your Live Streaming with Phone Webcams and Filming Hacks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-visualrecorder-your-yearly-guide-to-screen-captures/"><u>[Updated] In 2024, VisualRecorder  Your Yearly Guide to Screen Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>[Updated] Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-choice-top-12-non-time-restricted-recorders/"><u>2024 Approved  Expert Choice  Top 12 Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freeze-frame-creation-through-stabilized-capture/"><u>2024 Approved  Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>2024 Approved  Future of Animation Unveiled  Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-voice-to-text-review/"><u>2024 Approved  Voice to Text Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-apps-to-increase-the-volume-beyond-100-percent-in-windows/"><u>4 Apps to Increase the Volume Beyond 100 Percent in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-win-hardware-testing-with-these-premier-graphics-tools/"><u>Ace Win Hardware Testing with These Premier Graphics Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-file-locks-turn-off-read-only-windows-mode/"><u>Altering File Locks: Turn Off Read-Only Windows Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-the-digital-snare-spotting-invisible-threats/"><u>Avoid the Digital Snare: Spotting Invisible Threats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-saved-audio-configurations-winvolume-hacks/"><u>Bring Back Saved Audio Configurations: WinVolume Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-compatibility-with-windows-11-explained/"><u>Chrome Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-os-synergy-creating-a-linux-vm-inside-windows-using-hyper-v/"><u>Cross-OS Synergy: Creating a Linux VM Inside Windows Using Hyper-V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-wont-start-spotify-on-windows-1011-platforms/"><u>Curing Won't Start Spotify on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-code-effective-techniques-to-neutralize-wacatacbml/"><u>Deciphering the Code: Effective Techniques to Neutralize Wacatac.B!ml</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-performance-new-tech-in-microsoft-teams/"><u>Enhancing Performance: New Tech in Microsoft Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-reminders-before-overhauling-your-windows/"><u>Essential Reminders Before Overhauling Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-commands-learn-the-top-20-cmd-tricks/"><u>Essential Windows Commands: Learn the Top 20 CMD Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-installing-programs-despite-windows-admin-blocks/"><u>Guidelines for Installing Programs Despite Windows Admin Blocks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-xiaomi-redmi-k70-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-secure-your-windows-mixer-preferences-settings/"><u>How To Secure Your Windows Mixer Preferences Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-seamlessly-saving-your-screen-premium-choices-on-pc-and-mac/"><u>In 2024, Seamlessly Saving Your Screen  Premium Choices on PC & Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>In 2024, The Future in Your Hands  ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-srt-openedit-manual-for-mac-users/"><u>In 2024, Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-activating-controlled-folder-access-in-windows-11/"><u>Mastering Privacy: Activating Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-text-selection-in-windows-compatible-pdfs/"><u>Mastering Text Selection in Windows-Compatible PDFs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-adobe-after-effects-sound-design-incorporating-audio-into-your-animations-for-2024/"><u>New Adobe After Effects Sound Design Incorporating Audio Into Your Animations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepad-woes-on-pc-7-steps-to-reopen-the-favorite-text-editor/"><u>Notepad Woes on PC: 7 Steps to Reopen the Favorite Text Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-vlc-unrecognized-media-issue/"><u>Overcoming Windows VLC Unrecognized Media Issue</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-perfection-achieved-say-goodbye-to-ghosts/"><u>Print Perfection Achieved: Say Goodbye to Ghosts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rebooting-lost-connectivity-winos-strategies/"><u>Rebooting Lost Connectivity: WinOS Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-render-vintage-videos-with-windows-madvr/"><u>Revamp and Render Vintage Videos with Windows MadVR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-the-malfunction-of-windows-delete-operation/"><u>Reversing the Malfunction of Windows Delete Operation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-rockalldlldll-absence-in-windows-systems/"><u>Solving 'Rockalldll.dll' Absence in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-alert-stay-up-the-top-5-ways-to-monitor-win11-uptime/"><u>Stay Alert, Stay Up: The Top 5 Ways to Monitor Win11 Uptime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-printer-functionality-within-edge-guard/"><u>Triggering Printer Functionality Within Edge Guard</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-overcoming-windows-11-installation-hiccups-on-personal-computers/"><u>Troubleshooting Tips for Overcoming Windows 11 Installation Hiccups on Personal Computers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x7b-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X7b.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-runtime-brokers-in-computing/"><u>Unraveling the Mystery of Runtime Brokers in Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-preparedness-generate-boot-media-in-three-steps/"><u>Windows 11 Preparedness: Generate Boot Media in Three Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-playnite-integrating-virtual-game-archives/"><u>Winning Playnite: Integrating Virtual Game Archives</u></a></li>
+</ul></div>

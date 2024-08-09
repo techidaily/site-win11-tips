@@ -1,7 +1,7 @@
 ---
 title: "Advanced Shortcuts: Fast Paste of Set Text"
-date: 2024-07-12T18:08:18.797Z
-updated: 2024-07-13T18:08:18.797Z
+date: 2024-08-08T10:53:55.450Z
+updated: 2024-08-09T10:53:55.450Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,15 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 2. Click the**QuickTextPaste\_x64.zip** download link.
 3. Press the**Windows** logo +**E** keyboard buttons to open the file manager and go to the directory the QuickTextPaste ZIP downloaded.
 4. Follow the steps in this guide about [unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
  To set up some program hotkeys, input**run: <application file name>** within the**Add** text box. For example, input**run: msedge.exe** to set up an Edge hotkey. Select the key combination for running the software in the drop-down menus.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 4. Select**Macro** and the**Paste text** option.  
@@ -66,6 +78,18 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
@@ -87,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
  Custom hotkeys for pasting pre-defined text will certainly come in handy for filling out web forms and drafting letters or emails. You can set up custom keyboard shortcuts for pasting your name, postcode, phone number, email address, tax reference number, passwords, and much more with QuickTextPaste and HotkeyP. They’re good apps to utilize for creating software hotkeys as well.
@@ -107,3 +134,49 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-decoding-youtubes-algorithm-the-role-of-keyword-optimization/"><u>[New] 2024 Approved  Decoding YouTube's Algorithm  The Role of Keyword Optimization</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-utilizing-instagrams-inquiry-icon/"><u>[New] 2024 Approved  The Ultimate Guide to Utilizing Instagram's Inquiry Icon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uniting-zooms-power-with-facebook-live-streaming/"><u>[New] Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-whispered-words-web-hidden-voice-recorders-for-smartphones-for-2024/"><u>[New] Whispered Words Web  Hidden Voice Recorders for Smartphones for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-content-with-vimeo-on-instagram/"><u>[Updated] In 2024, Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expertise-guide-for-effective-text-overlays-on-images/"><u>2024 Approved  Expertise Guide for Effective Text Overlays on Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-video-magic-channel-creation-wizardry/"><u>2024 Approved  Harnessing Video Magic  Channel Creation Wizardry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-to-workspace-with-windows-1011/"><u>A Seamless Shift to Workspace with Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitfort-fractured-stay-the-course-before-change/"><u>BitFort Fractured: Stay the Course Before Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-bandwidth-methods-for-assessing-your-networks-velocity/"><u>Boost Bandwidth: Methods for Assessing Your Network's Velocity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-molds-changing-the-winadmin-access-paradigm/"><u>Breaking Molds: Changing the WinAdmin Access Paradigm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-windows-audio-amplification-feature/"><u>Cease Windows Audio Amplification Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compelling-case-for-continuing-with-windows-10-win10/"><u>Compelling Case for Continuing with Windows 10 (Win10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-memory-write-issues-in-windows/"><u>Confronting 'Memory Write' Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-route-to-recent-windows-documents/"><u>Direct Route to Recent Windows Documents</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-hacks-for-mac-enthusiasts-5-tips/"><u>Discover the Ultimate Gaming Hacks for Mac Enthusiasts (5 Tips)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-visuals-creating-a-cinematic-look-with-fcpx/"><u>Elevate Your Visuals Creating a Cinematic Look with FCPX</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experiencing-issues-with-the-ascent-on-computer-lets-fix-it/"><u>Experiencing Issues with The Ascent on Computer? Let's Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-printer-disconnection-in-windows-10-and-11-systems/"><u>Fast Track Printer Disconnection in Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-non-admin-account-permissions-in-windows/"><u>Fine-Tuning Non-Admin Account Permissions in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/flow-rate-varies-with-system-pressure-unlike-the-constant-output-of-displacement-pumps/"><u>Flow Rate Varies with System Pressure, Unlike the Constant Output of Displacement Pumps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-digging-through-youtube-conversations/"><u>In 2024, Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y78t-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y78t</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-pro-477dw-driver-software-compatible-with-windows-11108-free-download/"><u>Latest HP PageWide Pro 477DW Driver Software Compatible with Windows 11/10/8 – Free Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-your-pcs-health-report-efficiently/"><u>Navigate to Your PC’s Health Report Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-startup-folder-in-windows-os-quickly/"><u>Navigating to Startup Folder in Windows OS Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pure-potential-upgrade-with-minimalist-win11/"><u>Pure Potential: Upgrade with Minimalist Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-admin-workflow-a-fresh-perspective-on-windows-uac/"><u>Reimagining Admin Workflow: A Fresh Perspective on Windows UAC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-outlook-fails-in-windows-systems/"><u>Resolve Outlook Fails in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reactivate-apps-hindered-by-qt-plugin-issue/"><u>Steps to Reactivate Apps Hindered by Qt Plugin Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-anomalies-dealing-with-anydesk-issues-in-windows/"><u>Streamlining Anomalies: Dealing with AnyDesk Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-gateway-how-to-enter-os-settings/"><u>The Gateway: How to Enter OS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-store-error-with-xbox-games/"><u>Troubleshooting Windows Store Error with Xbox Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-wmp-failures/"><u>Understanding & Correcting WMP Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-normalcy-windows-11s-basic-user-reset-guide/"><u>Unleashing Normalcy: Windows 11'S Basic User Reset Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia G22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-accessibility-in-the-absence-of-built-in-browser/"><u>Web Accessibility in the Absence of Built-In Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-gaming-experience-boosted-by-solving-directdraw-errors/"><u>Windows 11 & 11 Gaming Experience Boosted by Solving DirectDraw Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-customization-top-20-settings-for-enhanced-performance/"><u>Windows 11 Customization: Top 20 Settings for Enhanced Performance</u></a></li>
+</ul></div>

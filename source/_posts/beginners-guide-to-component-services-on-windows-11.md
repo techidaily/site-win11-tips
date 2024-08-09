@@ -1,7 +1,7 @@
 ---
 title: Beginner’s Guide to Component Services on Windows 11
-date: 2024-07-12T18:02:25.302Z
-updated: 2024-07-13T18:02:25.302Z
+date: 2024-08-08T10:58:55.753Z
+updated: 2024-08-09T10:58:55.753Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  In this article, we will show you some quick ways to open Windows Component Services.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. How to Open Component Services via Windows Search
 
  Windows 11 has a powerful search feature that makes finding the tools and features you need quick and easy. You can also use this feature to quickly open Component Services and other tools and features in Windows devices. Here's how to do that:
@@ -29,12 +32,18 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 ![Open Components Services Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-search.jpg)
 3. The results list will include "Component Services." Just click it to open Component Services!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Open Component Services Using Run Command
 
  You can also launch this application using the Run dialog box. This saves time since you do not have to navigate menus and submenus. Here's how to do this:
 
 1. Press**Win + R** on your keyboard to open the Run dialog box.
 2. Once you are in the Run window, type**dcomcnfg** into the text field and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Open Components Services Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-run-command.jpg)
 
  The Component Services window will now appear on your screen. Here you will find the options to manage administrative tools such as Event Viewer, Services, and more.
@@ -46,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 1. Open the Start menu.
 2. Click**All apps** in the upper right corner.
 3. Scroll down and click**Windows Tools** at the bottom of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Open Components Services Using Windows Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-tools.jpg)
 4. Next, double-click on**Component Services** to open it.
 
@@ -58,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 The Component Services window should now open.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. How to Open Component Services Through Command Prompt
 
  If you’re someone who prefers using command-line methods, you can use Command Prompt to launch Component Services on your PC.
@@ -67,10 +82,20 @@ The Component Services window should now open.
 1. Press**Win + Q** on your keyboard and type "cmd" in the search field.
 2. Select**Command Prompt** from the list at the top.
 3. Once the Command Prompt window opens, type**dcomcnfg** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Open Components Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-command-prompt.jpg)
 
  This should open up the Component Services window for you to explore further. Now you can close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 6\. How to Open Component Services Using Windows PowerShell
 
  PowerShell is another command-line tool for managing Windows systems. It provides significant advantages over Command Prompt.
@@ -84,6 +109,9 @@ The Component Services window should now open.
 
 You should now be able to use the Component Services window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. How to Open Component Services Via Task Manager
 
  Task Manager is a powerful tool on Windows, useful for analyzing memory and CPU usage, as well as terminating problematic programs. However, you can also use this tool to access most of the applications on your Windows device.
@@ -93,6 +121,9 @@ You should now be able to use the Component Services window.
 1. Right-click on your Taskbar and select**Task Manager** . You can also press**Ctrl + Shift + Esc** on your keyboard to open it directly.
 2. Once you're in the Task Manager, click the**Run new task** button at the top of the window.
 3. Type**dcomcnfg** into the text box and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Open Components Services Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-task-manager.jpg)
 
 The Component Services tool should now be open and ready to use!
@@ -105,6 +136,9 @@ The Component Services tool should now be open and ready to use!
 
 1. Right-click on the blank area of your desktop and select**New > Shortcut** .
 2. In the "Create Shortcut" window, type**dcomcnfg.exe** and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Open Components Services With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-with-desktop-shortcut.jpg)
 3. Name your shortcut something like Component Services.
 4. Lastly, click**Finish** to save your changes.
@@ -160,3 +194,42 @@ Create a desktop shortcut for Component Services as explained above.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-beginners-guide-top-10-easy-to-fly-drones-for-2024/"><u>[Updated] Beginner's Guide  Top 10 Easy-to-Fly Drones for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>[Updated] In 2024, A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/12-superfluous-windows-tools-you-can-live-without/"><u>12 Superfluous Windows Tools You Can Live Without</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-12-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 12 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-century-of-change-the-windows-taskbar/"><u>A Century of Change: The Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-walkthrough-upgrading-surface-hardware/"><u>A Comprehensive Walkthrough: Upgrading Surface Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-guide-to-restoring-essential-features-of-photo-viewer-on-win11/"><u>A Quick Guide to Restoring Essential Features of Photo Viewer on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-and-annotate-comics-easily-on-win11/"><u>Access and Annotate Comics Easily on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-an-innovative-auto-refresh-check-option-to-the-windows-ui/"><u>Adding an Innovative Auto-Refresh Check Option to the Windows UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-efficiency-program-troubleshooting-tool-inclusion/"><u>Adding Efficiency: Program Troubleshooting Tool Inclusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-no-camera-found-error-on-windows-11-os/"><u>Addressing No Camera Found Error on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-missing-rockalldlldll-problem/"><u>Addressing the 'Missing Rockalldll.dll' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-empty-display-of-system-startups/"><u>Addressing the Empty Display of System Startups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-black-remote-desktop-display/"><u>Addressing Window's Black Remote Desktop Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-adding-directories-to-context-menu/"><u>Advanced Windows Customization - Adding Directories to Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ai-integration-windows-11s-next-chapter/"><u>AI Integration: Windows 11'S Next Chapter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-fn-key-behavior-for-efficiency/"><u>Altering Windows Fn Key Behavior for Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-efficiency-embrace-adaptive-tiling/"><u>Amplify Windows Efficiency: Embrace Adaptive Tiling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-and-ranking-video-codecs-for-windows-pcs/"><u>Analyzing and Ranking Video Codecs for Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-teamsters-crashes-on-windows-11-10/"><u>Avoiding Teamsters Crashes on Windows 11, 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bar-of-time-the-windows-taskbars-journey/"><u>Bar of Time: The Windows Taskbar's Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328256303-bargain-alert-key-enthusiasts-snag-612lifetime-windows-11-deal-today-only/"><u>Bargain Alert: Key Enthusiasts Snag $6.12/Lifetime Windows 11 Deal Today Only!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-default-shrinking-in-winos/"><u>Beating the Default Shrinking in WinOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-tools-for-win-soft-installation-chocolatey-or-wm/"><u>Best Tools for Win Soft Installation: Chocolatey or WM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-with-windows-11s-taskbar/"><u>Boosting Functionality with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delve-into-the-world-of-chatgpt-shared-links-a-comprehensive-breakdown/"><u>Delve Into the World of ChatGPT Shared Links: A Comprehensive Breakdown</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 6s?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-list-7-leading-generators-for-nft-artworks/"><u>In 2024, The Essential List  7 Leading Generators for NFT Artworks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719239834039-start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719319856563-turbocharge-windows-11-boot-speed-heres-how/"><u>Turbocharge Windows 11 Boot Speed – Here’s How!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-short-mastery-from-idea-to-final-product-for-2024/"><u>YouTube Short Mastery  From Idea to Final Product for 2024</u></a></li>
+</ul></div>

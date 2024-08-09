@@ -1,7 +1,7 @@
 ---
 title: Boost Performance with These 12 Unneeded Windows Programs
-date: 2024-07-12T18:07:41.931Z
-updated: 2024-07-13T18:07:41.931Z
+date: 2024-08-08T10:54:26.687Z
+updated: 2024-08-09T10:54:26.687Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  On Windows 11, click the three-dot button and choose**Uninstall** to remove a program. On Windows 10, just click the entry to show the**Uninstall** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 10 Uninstall Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Windows-10-Uninstall-Store-App.png)
 
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 2\. CCleaner
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of ccleaner 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/screenshot_of_cccleaner.jpg)
 
  CCleaner was once a trusted Windows app for cleaning junk, but its reputation went downhill after it was acquired by Avast. Past issues include forced updates without permission, data collection that enabled itself even if you disabled the function, and the software distributing malware unknowingly.
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 4\. uTorrent
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
 
  uTorrent was once considered the gold standard of torrenting software. However, it's had a host of issues over the years that make it untrustworthy now.
@@ -66,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  There's no reason to bother with uTorrent. We think [qBittorrent](https://www.qbittorrent.org/) is [the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Adobe Flash Player and Shockwave Player
 
  Adobe Flash Player is no longer supported by Adobe or browsers as of January 2021\. Though it's blocked in all modern browsers now, you should still uninstall local copies of Flash. This will keep you safe from any future security issues since Adobe isn't updating it anymore.
@@ -82,12 +94,18 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
 ## 7\. Microsoft Silverlight
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
 
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at [W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
  Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in [Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. All Toolbars and Junk Browser Extensions
 
  When you're wondering what else to uninstall from Windows 10 or 11, another obvious candidate is junk in your browser. While toolbars were once a far more prevalent problem, modern versions of Chrome and other browsers have thankfully fought back and mostly eradicated them. However,[spammy extensions are still in the wild](http://www.makeuseof.com/tag/chrome-extensions-uninstall-right-now/) .
@@ -110,14 +128,23 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 11\. Windows 10 and Windows 11 Bloatware
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our [Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our [overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 12\. WinRAR
 
  While having a file extraction and compression tool around is certainly useful, WinRAR is not the best choice for the job. The app has become a bit of a punchline due to its old-school "shareware" license. You can download a "trial" of WinRAR for free, which asks you to pay after using it for some time. However, the app never locks you out, even if you don't pay, so you can use it indefinitely.
@@ -147,3 +174,45 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[New] In 2024, Dodging Doubts  A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-screen-recording-steps-for-perfection/"><u>[New] In 2024, Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-audio-content-structuring-your-rss-feed/"><u>[New] Transforming Audio Content  Structuring Your RSS Feed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-do-screen-recording-on-iphone-easily/"><u>[Updated] In 2024, How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-obtain-free-licensed-tunes-for-your-games/"><u>[Updated] In 2024, How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-batch-installing-apps-using-winstall-in-windows-11/"><u>A Step-by-Step Approach to Batch Installing Apps Using Winstall in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-chrome-clock-error-ahead-or-behind-windows-edition/"><u>Adjusting Chrome Clock Error: Ahead or Behind? (Windows Edition)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-prose-with-these-5-pc-apps/"><u>Boost Your Prose with These 5 PC Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-path-to-successful-screen-startup-post-update/"><u>Clearing the Path to Successful Screen Startup Post-Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrease-overhead-memory-use-by-antivirus-programs/"><u>Decrease Overhead Memory Use by Antivirus Programs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/deep-into-duality-mastering-multi-video-watching-on-youtube-for-2024/"><u>Dive Deep Into Duality  Mastering Multi-Video Watching on YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-mobility-control-deactivation-win-11/"><u>Dive Into Mobility Control Deactivation (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-language-skills-quick-translate-via-windows-key-combinations/"><u>Elevate Language Skills: Quick Translate via Windows Key Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-note-taking-with-obsidians-artistic-touch/"><u>Elevate Note-Taking with Obsidian's Artistic Touch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-message-display-on-discord-desktop/"><u>Fixing Failed Message Display on Discord Desktop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-note-30i-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Note 30i to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-channel-earnings-the-step-by-step-famebit-guide-to-affiliates/"><u>In 2024, Boosting Channel Earnings  The Step-by-Step FameBit Guide to Affiliates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soft-shadows-on-smiles-introducing-motion-blur-to-faces-in-photos-with-picsart/"><u>In 2024, Soft Shadows on Smiles  Introducing Motion Blur to Faces in Photos with Picsart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-experts-gopro-buyers-companion/"><u>In 2024, The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-broadcast-choices-expert-tips-and-no10-insights/"><u>Mastering Broadcast Choices  Expert Tips and No.10 Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-hurdles-reviving-your-runmus-mic-during-gameplay/"><u>Overcoming Connectivity Hurdles: Reviving Your Runmus Mic During Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-window-11-mails-default-html-settings-for-clarity/"><u>Overhauling Window 11 Mail's Default HTML Settings for Clarity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-not-enough-memory-available-problem-windows-vmware/"><u>Remedies for 'Not Enough Memory Available' Problem (Windows VmWare)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-overlapping-app-images-in-os-interface/"><u>Removing Overlapping App Images in OS Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sorting-perfection-windows-software-that-shines/"><u>Sorting Perfection: Windows Software That Shines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-enabling-non-standard-windows-apps/"><u>Strategies for Enabling Non-Standard Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-gaming-how-to-fix-the-error-code-0x000-in-xbox-game-pass-on-windows-11/"><u>Streamlining Your Gaming: How to Fix the Error Code 0X000_ in Xbox Game Pass on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-of-win11s-disconnected-5g-wi-fi/"><u>Tackling the Mystery of Win11's Disconnected 5G Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-pcs-display-lock-settings/"><u>Tailor Your PC's Display Lock Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-clear-microsofts-watchdog-logs-on-windows/"><u>Techniques to Clear Microsoft's Watchdog Logs on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-windows-tips-top-20-cmd-commands/"><u>Transformative Windows Tips: Top 20 CMD Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-mending-exception-error-on-win-os/"><u>Understanding and Mending Exception Error on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-winservicesexe-deciphering-windows-process/"><u>Understanding WinServices.exe: Deciphering Windows Process</u></a></li>
+</ul></div>
