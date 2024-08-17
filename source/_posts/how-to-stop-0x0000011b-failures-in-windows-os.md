@@ -1,7 +1,7 @@
 ---
 title: How to Stop 0X0000011B Failures in Windows OS
-date: 2024-07-12T17:37:09.367Z
-updated: 2024-07-13T17:37:09.367Z
+date: 2024-08-16T01:30:33.471Z
+updated: 2024-08-17T01:30:33.471Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/e12cb801e0d6f6813ed277d29658e5821adadea3d
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Install All the Pending Windows Updates
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
 
@@ -52,6 +55,9 @@ To check and install Windows updates:
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 3\. Install the Printer Manually via the Local Port
 
  A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to [add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
@@ -66,6 +72,9 @@ To check and install Windows updates:
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Click the drop-down for**Type of port** and select**Local Port.**
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
@@ -80,6 +89,9 @@ To check and install Windows updates:
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
  The problematic security update included a security fix to patch the Printer Spooler Spoofing vulnerability dubbed CVE-2021-1678\. However, the new changes seem to have triggered the 0x0000011B operation failed error.
@@ -101,6 +113,9 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Close**Registry Editor** and restart your PC to apply the changes.
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
@@ -115,13 +130,22 @@ To uninstall Windows updates:
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open**Control Panel.**  
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Next, click on**Programs** .  
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fixing the 0x0000011b Printing Error on Windows
 
  This error has largely affected Windows 10 computers. To fix the issue, try to install all the pending Windows updates that may include a hotfix. You can also add the printer manually to a local port or edit the registry entry to disable the problematic setting. If nothing works, uninstalling the security update may be the last resort. However, doing so can put your computer at risk of print spooler spoofing vulnerability.
@@ -144,3 +168,42 @@ To uninstall Windows updates:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-integrating-zoom-seamlessly-with-tiktok-live-streams/"><u>[New] Integrating Zoom Seamlessly with TikTok Live Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashtag-mastery-enhancing-freefire-gameplay-videos/"><u>[Updated] 2024 Approved  Hashtag Mastery  Enhancing FreeFire Gameplay Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-brief-but-bold-short-videos-on-fb-for-2024/"><u>[Updated] Brief but Bold  Short Videos on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-transforming-vision-into-action-building-a-successful-fb-reel-channel-for-2024/"><u>[Updated] Transforming Vision Into Action  Building a Successful FB Reel Channel for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-editing-tips-and-tricks-for-shorter-videos-for-2024/"><u>[Updated] YouTube Editing  Tips and Tricks for Shorter Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cutting-edge-ipad-voice-recording-tools-3p/"><u>2024 Approved  Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigate-your-way-to-joining-google-live-video-sessions/"><u>2024 Approved  Navigate Your Way to Joining Google Live Video Sessions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-12-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 12 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-compromised-windows-defense-in-win-11/"><u>Correcting Compromised Windows Defense in Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-effective-filmmaking-5-top-free-video-tools-for-2024/"><u>Cost-Effective Filmmaking  5 Top Free Video Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-9-tricks-for-enhancing-windows-11s-sound-experience/"><u>Discover 9 Tricks for Enhancing Windows 11'S Sound Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-linux-setup-not-wsl/"><u>Efficient Linux Setup, Not WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-the-exception-breaking-point-message-in-windows/"><u>Handling the Exception Breaking Point Message in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-dialer-feature-win-11/"><u>How to Engage Dialer Feature Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swap-cr2-images-seamlessly-to-windows-jpgs/"><u>How to Swap CR2 Images Seamlessly to Windows JPGs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ice-and-elegance-the-2022-winter-olympics-in-china/"><u>Ice & Elegance  The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-points-preparing-for-a-full-system-reinstallation/"><u>Key Points: Preparing for a Full System Reinstallation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-manipulate-software-sizes-using-windows-11s-shortcut-keys/"><u>Learn to Manipulate Software Sizes Using Windows 11'S Shortcut Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-your-way-through-windowware-woes-8-tips-and-tricks/"><u>Navigating Your Way Through Windowware Woes: 8 Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dim-windows-11-screens-tips-inside/"><u>Overcoming Dim Windows 11 Screens - Tips Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathways-to-perfectly-understand-and-erase-your-windows-logs/"><u>Pathways to Perfectly Understand & Erase Your Windows Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-hidden-desktop-icons-on-windows-11/"><u>Restore Hidden Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-error-code-0x80041015-on-windows/"><u>Steps to Rectify Error Code 0X80041015 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-correction-winoss-parsing-error-0exc00ce556/"><u>Swift Correction: WinOSs Parsing Error 0eXC00CE556</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-disabling-method-for-windows-11-alerts/"><u>Swift Disabling Method for Windows 11 Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-turning-an-offline-printer-online/"><u>Tactics for Turning an Offline Printer Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-choice-selecting-quality-bittorrent-clients/"><u>The Best Choice: Selecting Quality BitTorrent Clients</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-paths-of-mouse-control-on-win11/"><u>The Unseen Paths of Mouse Control on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-mend-text-not-showing-up-on-discord-windows/"><u>Tips to Mend Text Not Showing Up on Discord Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-extra-potential-with-your-devices-via-a-90-degree-window-flip/"><u>Unlock Extra Potential with Your Devices via a 90-Degree Window Flip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-ical-functionality-on-windows-11-devices/"><u>Unlocking iCal Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-fixes-define-role-of-chkdsk-sfc-dism/"><u>Unraveling Windows Fixes: DEFINE Role of CHKDSK, SFC, DISM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-gear-future-functions-embrace-windows-11-with-to-go-and-rufus/"><u>Vintage Gear, Future Functions: Embrace Windows 11 with To Go and Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model.</u></a></li>
+</ul></div>

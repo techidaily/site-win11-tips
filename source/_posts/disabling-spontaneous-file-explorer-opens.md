@@ -1,7 +1,7 @@
 ---
 title: Disabling Spontaneous File Explorer Opens
-date: 2024-07-12T17:08:38.844Z
-updated: 2024-07-13T17:08:38.844Z
+date: 2024-08-16T01:57:41.429Z
+updated: 2024-08-17T01:57:41.429Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  We have a guide on [how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Clear File Explorer History
 
  Windows File Explorer saves all your searches and recent activities to improve your experience. If this data somehow gets corrupted, it could cause File Explorer to open by itself in Windows. If that’s the case, clearing File Explorer history should help. Here are the steps for the same.
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Run the System Maintenance Troubleshooter
 
  Windows periodically runs the System Maintenance troubleshooter on your computer to look for common maintenance issues. You can also run this tool manually if apps like File Explorer keep opening unexpectedly on your computer.
@@ -70,6 +76,11 @@ To run the System Maintenance troubleshooter on Windows:
 
  If you need help running these tools, check our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 6\. Scan for Malware
 
  Aside from corrupted system files, malware and viruses on your PC can also disrupt Windows processes and cause File Explorer to open at random. To overrule this possibility, you can run a full system scan on your computer using Microsoft Defender or a third-party antivirus program you trust. You could even [make use of Microsoft Defender's offline scan feature](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for a deep scrub.
@@ -83,9 +94,15 @@ To run the System Maintenance troubleshooter on Windows:
  Press**Win + I** to open the Settings app and navigate to the**Windows update** tab. Click the**Check for updates** button on your right.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to [fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on [how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
@@ -96,6 +113,9 @@ To run the System Maintenance troubleshooter on Windows:
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on [how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
@@ -119,3 +139,37 @@ To run the System Maintenance troubleshooter on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frontier-makers-of-harmonized-audio-visual-experiences/"><u>[New] 2024 Approved  Frontier Makers of Harmonized Audio-Visual Experiences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-making-multimedia-memories-with-picshot-tools/"><u>[New] Making Multimedia Memories with Picshot Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-steps-to-perfectly-plated-food-vids/"><u>[Updated] 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-best-animated-ideas-making-waves-on-tiktok/"><u>[Updated] The Best Animated Ideas Making Waves on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/browsing-lightly-identifying-minimal-resource-using-software-across-windowsmacoschromeos/"><u>Browsing Lightly: Identifying Minimal Resource-Using Software Across Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-opening-woes-resolved-fast-fixed-for-windows-11-users/"><u>Chrome Opening Woes Resolved: Fast Fixed for Windows 11 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-2020-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE (2020) with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-dissolving-ms-teams-error-80080300-on-win11-platform/"><u>Deciphering and Dissolving MS Teams Error 80080300 on Win11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-impressions-drawing-techniques-for-pc-screens/"><u>Digital Impressions: Drawing Techniques for PC Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditch-installation-struggles-preparations-before-vbox-on-pc/"><u>Ditch Installation Struggles: Preparations Before VBox on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-a-comprehensive-guide-to-os-settings/"><u>Dive Deep: A Comprehensive Guide to OS Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-internal-rdp-problems-on-windows-os/"><u>Eliminating Internal RDP Problems on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-managed-users-and-groups-in-win1110-homes/"><u>Enabling Managed Users and Groups in Win11/10 Homes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/francais-des-accueil-une-douceur-exprimee/"><u>Français Des Accueil: Une Douceur Exprimée</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-win11s-alarming-zero-error-alerts/"><u>How to Bypass Win11’s Alarming Zero Error Alerts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-extraordinary-12-tools-for-endless-screen-capture/"><u>In 2024, Extraordinary 12 Tools for Endless Screen Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-snowscape-highlights-cross-style-22/"><u>In 2024, Olympic Snowscape Highlights - Cross Style '22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-into-the-workings-of-windows-odbc-tools/"><u>Insight Into the Workings of Windows ODBC Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-utorrent-install-issues-on-a-windows-laptop/"><u>Navigating uTorrent Install Issues on a Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opera-installer-lockdown-try-these-window-tips/"><u>Opera Installer Lockdown? Try These Window Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-record-windows-uac-notifications/"><u>Quick Steps to Record Windows UAC Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-administrative-controls-on-windows-defense-measures/"><u>Reversing Administrative Controls on Windows Defense Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-tasks-with-these-8-best-rated-window-pomodoros/"><u>Streamline Your Tasks With These 8 Best-Rated Window Pomodoros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-budget-friendly-gaming-capture-software-revealed-for-2024/"><u>Top Budget-Friendly Gaming Capture Software Revealed for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-stable-internet-windows-edition-guide/"><u>Troubleshooting Stable Internet: Windows Edition Guide</u></a></li>
+</ul></div>

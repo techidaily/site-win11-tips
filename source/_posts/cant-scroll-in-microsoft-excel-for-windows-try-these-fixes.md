@@ -1,7 +1,7 @@
 ---
 title: Can't Scroll in Microsoft Excel for Windows? Try These Fixes
-date: 2024-07-12T16:38:26.172Z
-updated: 2024-07-13T16:38:26.172Z
+date: 2024-08-16T02:27:25.148Z
+updated: 2024-08-17T02:27:25.148Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,16 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 3. Click the **Freeze Panes** option.
 4. Select **Unfreeze Panes** from the resulting menu.  
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
  Following this, your Excel spreadsheet should scroll as expected.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
  Is your Microsoft Excel spreadsheet zooming in or out when you try to scroll through it? That could happen if you have enabled the "Zoom on roll with IntelliMouse" option in Excel. Here’s how to turn it off.
@@ -58,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Enable Scroll Bars
 
  You may have trouble scrolling through your spreadsheets if Excel does not display the horizontal and vertical scroll bars on your PC. Here’s how you can enable them.
@@ -69,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. AutoFit Row Height in Excel
 
  Several Excel users reported fixing the scrolling issue by formatting all the cells in the sheet with the AutoFit Row Height feature. You can also give this method a shot.
@@ -79,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 4. Select **Format > AutoFit Row Height**.  
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -87,9 +103,15 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Run the Office Repair Tool
 
  Microsoft offers a useful repair tool for resolving common issues with Office apps like Excel. So, if the above fixes prove ineffective, you can try fixing the scrolling issue in Excel by running the Office repair tool. Here’s how.
@@ -131,3 +153,68 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smartphone-accessories-for-making-videos/"><u>[New] In 2024, Smartphone Accessories for Making Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-your-screenplay-netflix-speed-controls/"><u>[New] Mastering Your Screenplay (Netflix) - Speed Controls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dual-stream-technique-for-massive-viewer-growth/"><u>[Updated] 2024 Approved  Dual-Stream Technique for Massive Viewer Growth</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-accelerate-the-performance-of-your-instagram-videos/"><u>[Updated] Accelerate the Performance of Your Instagram Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-closer-look-at-how-io-snaps-and-saves-your-display/"><u>[Updated] In 2024, A Closer Look at How Io Snaps and Saves Your Display</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[Updated] Social Sharing Simplified  Uploading Immersive Mobile Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-simplified-techniques-to-winrm-tool/"><u>10 Simplified Techniques to WinRM Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/11-speedy-techniques-for-windows-control-panel/"><u>11 Speedy Techniques for Window's Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024s-top-windows-gear-a-comprehensive-review-list/"><u>2024'S Top Windows Gear - A Comprehensive Review List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-to-spot-signs-for-windows-reset/"><u>4 Easy-to-Spot Signs for Windows Reset?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-keyboard-shortcuts-to-access-windows-ease-of-access/"><u>5 Keyboard Shortcuts to Access Windows Ease of Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-phased-out-features-in-current-windows-design/"><u>6 Phased-Out Features in Current Windows Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-indicators-when-a-pc-needs-a-clean-slate/"><u>7 Indicators: When a PC Needs a Clean Slate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-breakdown-of-mouse-customization-features-on-win11/"><u>A Complete Breakdown of Mouse Customization Features on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-guide-to-change-windows-11-administrator-name/"><u>A Comprehensive Guide to Change Windows 11 Administrator Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-deep-dive-into-windows-11s-core-deciphering-its-registry/"><u>A Deep Dive Into Windows 11'S Core: Deciphering Its Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-chromium-installation-in-windows-11/"><u>A Detailed Walkthrough of Chromium Installation in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-restoring-your-windows-11-media-softwares-health/"><u>A Guide to Restoring Your Windows 11 Media Software's Health</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-dawn-for-windows-embracing-ai-innovations/"><u>A New Dawn for Windows: Embracing AI Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-towards-improved-security-extending-pins-in-oses/"><u>A Step Towards Improved Security: Extending PINs in OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-alter-program-dimensions-using-pc-keys/"><u>A Step-by-Step Guide to Alter Program Dimensions Using PC Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-manual-for-ws11s-software-reset/"><u>A Step-By-Step Manual for WS11's Software Reset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-bilingual-capabilities-using-windows-shortcuts/"><u>Accelerate Your Bilingual Capabilities Using Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-full-screen-display-overcoming-windows-overscan/"><u>Achieve Seamless Full-Screen Display: Overcoming Windows Overscan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-windows-11-home-hub-guide/"><u>Activate Windows 11 Home Hub: Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activation-procedure-for-windows-photo-viewer-in-win11/"><u>Activation Procedure for Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-file-history-misconfiguration-in-windows/"><u>Addressing File History Misconfiguration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-glitches-in-windows-google-nearby-share-app/"><u>Addressing Glitches in Windows Google Nearby Share App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-incompatibility-between-windows-and-fingerprint-device/"><u>Addressing Incompatibility Between Windows and Fingerprint Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-nvidia-panel-errors-win1110-fixes/"><u>Addressing Nvidia Panel Errors: Win11/10 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-fix-steam-freeze-for-smooth-gaming/"><u>Addressing Windows 11: Fix Steam Freeze for Smooth Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382307115-addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-and-control-windows-screenshots-for-better-use/"><u>Adjust and Control Windows Screenshots for Better Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-old-directx-gaming-via-dxvk-powered-upgrades/"><u>Amplifying Old DirectX Gaming via DXVK-Powered Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-file-disposal-in-windows-for-efficiency-gains/"><u>Automate File Disposal in Windows for Efficiency Gains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/backup-basics-cloning-without-external-help/"><u>Backup Basics: Cloning Without External Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/baffle-the-shutdown-win11s-hidden-button-guide/"><u>Baffle the Shutdown: Win11's Hidden Button Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-resources-windows-task-management/"><u>Balancing Resources: Windows Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginning-the-media-playback-windows-media-player/"><u>Beginning the Media Playback: Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-pc-with-smooth-directx-downloads-and-upgrades/"><u>Boost Your PC with Smooth DirectX Downloads & Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-frame-rates-cutting-latency-roblox-tips-for-pcs/"><u>Boosting Frame Rates, Cutting Latency: Roblox Tips for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-and-visual-impact-of-win11-taskbar-icons/"><u>Boosting Functionality & Visual Impact of Win11 Taskbar Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-startup-efficiency-altering-boot-menu-delay/"><u>Boosting Startup Efficiency: Altering Boot Menu Delay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-y100a-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Y100A</u></a></li>
+<li><a href="https://common-error.techidaily.com/errtoomanyredirects-fixed-fast-solutions/"><u>ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-audacity-tricks-for-premium-audio-for-2024/"><u>Expert Audacity Tricks for Premium Audio for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-latest-geforce-drivers-gtx-1650/"><u>Get Latest GeForce Drivers – GTX 1650</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hacking-back-photo-viewing-in-windows-11-easily/"><u>Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-expert-techniques-for-video-magic/"><u>In 2024, Behind the Scenes  Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>In 2024, Bring Your Footage to Life  Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinterests-top-free-tools-effortless-video-downloads-online/"><u>In 2024, Pinterest’s Top Free Tools  Effortless Video Downloads Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-budget-friendly-gaming-mice-under-100/"><u>In 2024, Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ways-to-design-dungeons-and-dragons-characters-with-ai-leveraging-chatgpt-and-dall-e/"><u>Innovative Ways to Design Dungeons & Dragons Characters with AI: Leveraging ChatGPT & DALL-E</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/marketing-unboxed-approaches/"><u>Marketing Unboxed Approaches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363450902-mastering-the-art-of-total-windows-screen-capturing-with-these-4-tips/"><u>Mastering the Art of Total Windows Screen Capturing with These 4 Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/record-and-revel-samsungs-gamer-archive/"><u>Record & Revel  Samsung's Gamer Archive</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-app-manager-installation-and-activation-quick-and-simple-methods/"><u>Revo App Manager Installation & Activation - Quick and Simple Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-powerdirector-alternatives-for-android-and-ios/"><u>Unleash Your Creativity Top PowerDirector Alternatives for Android and iOS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-latest-apple-m4-chip-released-learn-about-its-features/"><u>Unveiling the Latest: Apple M4 Chip Released – Learn About Its Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco X5 | Dr.fone</u></a></li>
+</ul></div>

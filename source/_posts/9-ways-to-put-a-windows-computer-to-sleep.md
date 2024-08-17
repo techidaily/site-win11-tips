@@ -1,7 +1,7 @@
 ---
 title: 9 Ways to Put a Windows Computer to Sleep
-date: 2024-07-12T17:11:40.360Z
-updated: 2024-07-13T17:11:40.360Z
+date: 2024-08-16T01:54:36.599Z
+updated: 2024-08-17T01:54:36.599Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,22 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 1. Right-click the**Start icon** on the taskbar or use the**Win + X** keyboard shortcut to open the Power User menu.
 2. Select**Shut down or sign out > Sleep** .  
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 3\. Using the Sleep Key on Your Keyboard
 
  Many Windows laptops and computers come with a dedicated sleep key that allows you to enter sleep mode quickly. The exact location of this key can vary depending on the make and model of your computer.
 
  The sleep key is usually labeled with a**crescent moon** or a**Zz** icon. You can press that key while holding the**Function** or**Fn** key to put Windows into sleep mode.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Converting the Power Button Into a Sleep Button
 
  Is your keyboard lacking a dedicated sleep button? Why not use the power button on your desktop or laptop to put Windows to sleep? To do so, you’ll have to access your PC’s power settings and configure the Power key to function as a Sleep key. Here's how to do it.
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
  Now, when you press the physical Power button on your machine, your PC will fall asleep instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Use the Ctrl + Alt + Delete Menu
 
  Another way to put your Windows computer to sleep is through the Ctrl + Alt + Delete menu. To do so, use the following steps:
@@ -75,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 3. Use the drop-down menu to select**Sleep** and hit**OK** .  
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 7\. Use the Command Prompt or PowerShell
 
  Another way to put your Windows computer to sleep is via a command-line utility. For this to work, you’ll need to disable hibernation mode on your computer. Here’s how to do that.
@@ -92,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 As soon as you run the above command, your PC will enter sleep mode.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## 8\. Set Up Automatic Sleep Mode on Windows
 
  You can also configure your Windows computer to enter sleep mode automatically after a certain period of inactivity. Here are the steps for the same.
@@ -118,6 +140,9 @@ As soon as you run the above command, your PC will enter sleep mode.
 
  Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on [how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Many Ways to Put a Windows Computer to Sleep
 
  Whether you use the sleep option in the Start menu, a command-line method, or a keyboard shortcut, putting a Windows computer to sleep is fairly straightforward.
@@ -143,3 +168,54 @@ As soon as you run the above command, your PC will enter sleep mode.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-best-instagram-highlight-cover-makers-online-you-should-know/"><u>[New] 2024 Approved  Best Instagram Highlight Cover Makers Online You Should Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>[New] From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-non-microsoft-methods-for-game-session-recording-for-2024/"><u>[New] Non-Microsoft Methods for Game Session Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beyond-the-mic-advanced-strategies-for-professional-voice-over-work/"><u>[Updated] 2024 Approved  Beyond the Mic  Advanced Strategies for Professional Voice-Over Work</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems-for-2024/"><u>[Updated] A Compreenasional Approach to Earning Through Vimeo's Revenue Systems for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>[Updated] Masterful Sound Setup  Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-amplify-engagement-unique-ig-questions-for-lives/"><u>2024 Approved  Amplify Engagement  Unique IG Questions for Lives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-volume-on-bluetooth-headphonesspeakers-a-win11-guide/"><u>Boosting Volume on Bluetooth Headphones/Speakers: A Win11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-ram-virtual-memory-strategies/"><u>Boosting Windows 11 RAM: Virtual Memory Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breach-sign-in-blockage-steps-to-reunite-with-microsoft/"><u>Breach Sign-In Blockage: Steps to Reunite with Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-in-operating-systems-post-windows-11/"><u>Breaking Barriers in Operating Systems: Post-Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-windows-1011s-s-mode-bond-quickly/"><u>Breaking Windows 10/11’S S Mode Bond Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-stuck-windows-applications/"><u>Breathe Life Back Into Stuck Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-windows-services-manager-with-these-top-7-tricks/"><u>Breathe Life Into Your Windows Services Manager with These Top 7 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-network-prompts-for-seamless-connections/"><u>Bridging Gaps in Network Prompts for Seamless Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-of-lost-connectivity-in-windows/"><u>Bridging Gaps of Lost Connectivity in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-using-samsung-flow-for-device-synergy/"><u>Bridging Gaps: Using Samsung Flow for Device Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-generations-of-tech-moving-software-from-previous-windows/"><u>Bridging Generations of Tech: Moving Software From Previous Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-for-faulty-windows-batch-file-operations/"><u>Bridging the Gap for Faulty Windows Batch File Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-lost-ctrl-operability-with-these-tips-for-windows-11/"><u>Bring Back Lost Ctrl Operability with These Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-command-prompt-to-windows-11s-task-manager/"><u>Bring Command Prompt to Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-your-games-home-integrating-android-into-windows-11s-ecosystem/"><u>Bring Your Games Home: Integrating Android Into Windows 11'S Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-new-life-to-elders-pcs-windows-11-to-go-and-rufus-techniques/"><u>Bringing New Life to Elders PCs: Windows 11, To Go, and Rufus Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brisk-startups-in-win11-adjusting-boot-delay-period/"><u>Brisk Startups in Win11: Adjusting Boot Delay Period</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-genuineness-warning-in-adobe-software/"><u>Bypass Genuineness Warning in Adobe Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-content-unavailable-on-steam-client/"><u>Bypassing Content Unavailable on Steam Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-fatal-0x800f0831-in-winos/"><u>Bypassing Fatal 0X800F0831 in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-freeze-windows-update-savior-guide/"><u>Bypassing Freeze: Windows Update Savior Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-misleading-anti-virus-alerts-in-chrome-browser-for-pc-users/"><u>Bypassing Misleading Anti-Virus Alerts in Chrome Browser for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-denied-window-message/"><u>Bypassing Permission Denied Window Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-cant-add-your-folder-now-hiccup-in-windows-onedrive/"><u>Bypassing the 'Can't Add Your Folder Now' Hiccup in Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-update-failure-error-code-0x800f0845/"><u>Bypassing Update Failure - Error Code: 0X800F0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-cortana-on-windows-11/"><u>Ceasing Cortana on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/celestial-mastery-revealed-unlocking-god-mode-in-windows-11/"><u>Celestial Mastery Revealed: Unlocking God Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-display-axis-in-windows-interface/"><u>Change Display Axis in Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-windows-11-summary-sizes-efficiently/"><u>Changing Windows 11 Summary Sizes Efficiently</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-the-course-a-comprehensive-guide-to-youtube-teaser-vids/"><u>Charting the Course  A Comprehensive Guide to YouTube Teaser Vids</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-techniques-for-eliminating-unwanted-background-sounds-using-audacity/"><u>Effective Techniques for Eliminating Unwanted Background Sounds Using Audacity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Spark 10 Pro Phone Without Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-moneysmart-cumulus-storage-scaling-files-economically/"><u>In 2024, MoneySmart Cumulus Storage - Scaling Files Economically</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-cut-screenplay-snippet/"><u>In 2024, Quick-Cut Screenplay Snippet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/smarter-streaming-directly-connecting-obs-with-fb/"><u>Smarter Streaming  Directly Connecting OBS with FB</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-all-you-need-to-know-about-imovie-audio-editing/"><u>Updated All You Need to Know About iMovie Audio Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+</ul></div>

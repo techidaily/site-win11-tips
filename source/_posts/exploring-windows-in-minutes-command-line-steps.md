@@ -1,7 +1,7 @@
 ---
 title: "Exploring Windows in Minutes: Command Line Steps"
-date: 2024-07-12T17:14:56.387Z
-updated: 2024-07-13T17:14:56.387Z
+date: 2024-08-16T01:51:38.187Z
+updated: 2024-08-17T01:51:38.187Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 ![Opening the System Information tool using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 2\. Use File Explorer's Address Bar
 
  You can also use File Explorer's address bar to open various apps. In most cases, this tool comes in handy if the Start menu search bar isn't working.
@@ -68,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 ![Selecting the System Information tool on the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-System-Information-tool-on-the-Start-menu-items.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 5\. Use the System Settings
 
  You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
@@ -90,7 +97,13 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 3. Select**System** from the list.
 
 ![Selecting System from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-System-from-the-Control-Panel-menu-items.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Use the Task Manager
 
  You’ve likely used Task Manager before to close PC programs or analyze system performance. But did you know that this tool makes it easy for you to access various apps?
@@ -104,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 8\. Search for the System Information Tool in the System32 Folder
 
  You can easily open various apps by using the executable (.exe) files contained in the System32 folder.
@@ -117,13 +133,22 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 5. Locate and double-click on the**msinfo32** option to open the System information tool.
 
 ![Clicking the msinfo32 option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-msinfo32-option-in-the-System32-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Use the Command Prompt or PowerShell
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
@@ -135,6 +160,9 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. Use a System Information Desktop Shortcut
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
@@ -151,6 +179,13 @@ Want to make the System Information tool easily accessible?
 
  From now on, you can easily access the System Information app by clicking your desktop shortcut. And if you want to make things easier, you can pin your desktop shortcut to the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Access the Windows System Information Tool Using Your Favorite Method
 
  If you want to quickly find some information about your PC, then you should check out the System Information tool. And if this app gives you issues, you can check your Windows PC specs using other tools instead.
@@ -174,3 +209,52 @@ Want to make the System Information tool easily accessible?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>[New] In 2024, Spark Interest with Style  Mixing TikTok's Genius Techniques for Insta</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-igtv-videos-secure-downloading-techniques-for-computers-for-2024/"><u>[New] Unlocking IGTV Videos  Secure Downloading Techniques for Computers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-exploring-every-nook-and-cranny-of-stardew-valley-particularly-ginger-island/"><u>[Updated] 2024 Approved  Step-by-Step Guide  Exploring Every Nook and Cranny of Stardew Valley, Particularly Ginger Island</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-verdict-on-using-itop-for-screen-capture-in-2024/"><u>[Updated] The Verdict on Using ITop for Screen Capture, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[Updated] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-correcting-iphone-camera-focusing-errors-effectively/"><u>2024 Approved  Correcting iPhone Camera Focusing Errors Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-tips-convert-and-download-vimeo-hd-to-mp4/"><u>2024 Approved  Essential Tips  Convert and Download Vimeo HD to MP4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>2024 Approved  Navigating the World of Filmmaking  Best Cameras for Novices</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-gpt-and-bert-unveiling-key-distinctions-in-top-ai-languages/"><u>Comparing GPT and BERT: Unveiling Key Distinctions in Top AI Languages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-browse-images-using-windows-11-explorer/"><u>Efficiently Browse Images Using Windows 11 Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-management-engage-filters-with-checkbox-on-win11/"><u>Enhance File Management: Engage Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-in-action-how-to-fix-error-code-0x800700e9-on-your-xbox-game-pass-windows-11-device/"><u>Expertise in Action: How to Fix Error Code 0X800700E9 on Your Xbox Game Pass, Windows 11 Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722766007180-explore-the-leading-gaming-systems-of-2024-your-definitive-list/"><u>Explore the Leading Gaming Systems of 2024 - Your Definitive List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-broken-exe-file-execution-on-pcs/"><u>Fix Broken Exe File Execution on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-mechanism-for-windows-error-x80780119-images/"><u>Fix Mechanism for Windows Error X80780119 Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-print-discrepancies-in-microsoft-powerpoint-on-windows-systems/"><u>Fixing Print Discrepancies in Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-printer-error-0x8000ffff-in-windows/"><u>How to Fix the Printer Error 0X8000ffff in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-windows-package-manager-on-windows-11/"><u>How to Use the Windows Package Manager on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-delicious-diplomacy-popular-food-recipes-from-nations/"><u>In 2024, Delicious Diplomacy  Popular Food Recipes From Nations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-depth-guide-to-superior-windows-search-without-ls/"><u>In-Depth Guide to Superior Windows Search without LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-computer-organization-auto-delete-in-windows-made-easy/"><u>Master Computer Organization: Auto-Delete in Windows Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-code-fixes-microsoft-stores-0x800704cf-hurdle/"><u>Mastering Error Code Fixes: Microsoft Store's 0X800704CF Hurdle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-iphone-photography-enabling-and-using-your-phones-built-in-timer-function/"><u>Mastering iPhone Photography: Enabling and Using Your Phone’s Built-In Timer Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-disconnection-in-windows-11/"><u>Mastering User Disconnection in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-windows-telnet-a-step-by-step-guide/"><u>Mastering Windows Telnet: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-rectifying-image-importer-issues-with-ios-on-windows-11-pcs/"><u>Mastery Guide: Rectifying Image Importer Issues with iOS on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-stickies-across-computers/"><u>Maximizing Windows 11 Stickies Across Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-application-initiation-setbacks-due-to-qt-plugin-missing/"><u>Mitigating Application Initiation Setbacks Due to Qt Plugin Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-data-streams-with-netstat-on-microsofts-latest-windows/"><u>Navigating Data Streams with Netstat on Microsoft's Latest Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-powershell-for-windows-account-management/"><u>Navigating PowerShell for Windows Account Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-pc-bottleneck-analyzers/"><u>Real-Time PC Bottleneck Analyzers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-your-lost-screen-symbols-in-win-11/"><u>Regain Your Lost Screen Symbols in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-1110s-recurring-error-with-audacity/"><u>Remedying Windows 11/10'S Recurring Error with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-system-fatal-c0000022-error/"><u>Resolving Windows System Fatal C0000022 Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shush-windows-11-explore-tabs-step-by-step/"><u>Shush Windows 11 Explore Tabs: Step-by-Step</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/six-major-deterrents-preventing-windows-11-upgrade/"><u>Six Major Deterrents Preventing Windows 11 Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-targus-displays-drivers-in-multiple-versions-of-windows/"><u>Step-by-Step Guide to Updating Targus Displays' Drivers in Multiple Versions of Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y02t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y02T FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-dex-power-bridge-galaxy-and-windows-effortlessly/"><u>Unleashing DeX Power: Bridge Galaxy & Windows Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-peace-halt-unseen-operations/"><u>Win11 Peace: Halt Unseen Operations</u></a></li>
+</ul></div>

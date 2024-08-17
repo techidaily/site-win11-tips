@@ -1,7 +1,7 @@
 ---
 title: Strategies for Restarting Non-Responsive Resource Monitors in Windows 11
-date: 2024-07-12T17:28:04.703Z
-updated: 2024-07-13T17:28:04.703Z
+date: 2024-08-16T01:39:59.713Z
+updated: 2024-08-17T01:39:59.713Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ So, let's move on to the solution and fix this problem.
 
 ## 1\. Restart the Computer
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
@@ -48,6 +51,9 @@ To change the DPI scale to its default settings, follow these steps:
 3. Then click**Display** on the right.
 4. Under the**Scale & layout** section, click the drop-down menu next to the**Scale** option.  
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 5. Choose the recommended value.
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
@@ -62,6 +68,9 @@ To do this, follow these steps:
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on [running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
@@ -76,9 +85,19 @@ sfc /scannow
 2. From the left side of the Settings menu, click**Windows Update** .
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -105,6 +124,9 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -115,9 +137,15 @@ In such a case, you need to perform a clean boot as instructed below:
 2. Type**MSConfig** in the text box and hit Enter.
 3. Check the**Selective startup** box on the General tab.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Uncheck the**Load startup items** box.
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 6. Then click**Disable All** .
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
@@ -147,3 +175,59 @@ In such a case, you need to perform a clean boot as instructed below:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-beginners-guide-to-advanced-techniques-in-gopro-studio/"><u>[New] A Beginner's Guide to Advanced Techniques in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-carve-a-unique-meme-with-precision-today/"><u>[New] Carve a Unique Meme with Precision Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-fresh-windows-10-gaming-and-application-delights-for-2024/"><u>[New] Discover Fresh Windows 10 Gaming & Application Delights for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secrets-to-preserving-online-broadcasts-professionally-for-2024/"><u>[New] Secrets to Preserving Online Broadcasts Professionally for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-path-iphone-file-exchange/"><u>[Updated] 2024 Approved  Navigating the Path  IPhone File Exchange</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-instagram-posts-with-perfectly-sized-videos-for-2024/"><u>[Updated] Elevating Instagram Posts with Perfectly Sized Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-tips-for-uploading-content-on-twitter/"><u>[Updated] In 2024, Quick Tips for Uploading Content on Twitter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-compre-written-by-john-doe-phd-in-psychology-specializing-in-human-behavior-and-motivation-motivational-interviewing-for-2024/"><u>[Updated] The Compre Written By  John Doe, PhD in Psychology, Specializing in Human Behavior and Motivation (Motivational Interviewing) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>[Updated] Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>2024 Approved  The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-7-fps-experiences-of-the-decade/"><u>2024 Approved  Top 7 FPS Experiences of the Decade</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-mysteries-of-av1-vs-vp9/"><u>2024 Approved  Unraveling the Mysteries of AV1 Vs. VP9</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-technical-odyssey-embracing-hdr-in-windows-11-environments/"><u>A Technical Odyssey: Embracing HDR in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-device-to-windows-microphone-setup/"><u>Android Device to Windows Microphone Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-user-interface-add-psoft-tools-to-windows-11/"><u>Boosting User Interface: Add PSoft Tools to Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>Channel Charisma  Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-audio-subtitle-symphony-streamlining-prime-viewing-in-windows-11/"><u>Decoding Audio-Subtitle Symphony: Streamlining Prime Viewing in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-subsystem-with-5-crucial-techniques/"><u>Enhancing Windows Subsystem with 5 Crucial Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unlock-disks-in-w10-and-w11/"><u>Essential Steps to Unlock Disks in W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-vivetool-windows-gateway-to-new-and-emerging-tools/"><u>Exploring ViVeTool: Windows' Gateway to New & Emerging Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-app-install-issues-on-microsoft-store/"><u>Fixing App Install Issues on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-fatal-error-c0000022-in-windows/"><u>How to Fix the Fatal Error C0000022 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-internal-windows-error-during-remote-desktop-use/"><u>How to Handle Internal Windows Error During Remote Desktop Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-y100t-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo Y100t</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-and-permanently-discard-a-partition-on-windows-pc/"><u>How to Swiftly and Permanently Discard a Partition on Windows PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-narratives-vr-storytelling-breakthroughs-for-2024/"><u>Immersive Narratives  VR Storytelling Breakthroughs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-7-star-rated-apps-for-effortless-youtube-live-broadcast-from-iphone-and-android/"><u>In 2024, 7 Star-Rated Apps for Effortless YouTube LIVE Broadcast From iPhone and Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-adding-background-melodies-to-vimeo-filmography/"><u>In 2024, Adding Background Melodies to Vimeo Filmography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-excellent-ears-in-scholarly-spaces/"><u>In 2024, Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>In 2024, Journey to Audio Excellence  Mastering iOS-Based Recording Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-resource-usage-in-windows-modules-installer/"><u>Lowering Resource Usage in Windows Modules Installer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-speech-output-in-windows-environment/"><u>Mastering Speech Output in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-freeing-up-your-c-drive-space/"><u>Mastering the Art of Freeing Up Your C: Drive Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-efficiency-guide/"><u>Mastering Windows 11: Efficiency Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-failure-to-install-win11s-v22h2-update/"><u>Navigating Through Failure to Install Win11's V22H2 Update</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/next-gen-hd-video-recording-the-pinnacle-choices-for-2024/"><u>Next-Gen HD Video Recording  The Pinnacle Choices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nine-must-have-android-apps-for-windows-users/"><u>Nine Must-Have Android Apps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internet-unreachability-issue/"><u>Overcoming Internet Unreachability Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prevent-non-scrollability-of-ranges-in-excel-windows/"><u>Prevent Non-Scrollability of Ranges in Excel, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-modifying-windows-passcode/"><u>Quick Tips for Modifying Windows Passcode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-standard-power-profile/"><u>Restoring Windows' Standard Power Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0x80246007-on-windows-11-updates/"><u>Solving Error 0X80246007 on Windows 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-approach-to-bypassing-no-permission-on-pc/"><u>Step-by-Step Approach to Bypassing 'No Permission' On PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-guide-for-converting-cr2-images-to-windows-jpeg-files/"><u>Stepwise Guide for Converting CR2 Images to Windows JPEG Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-manage-disks-keyways-into-windows-11s-storage-manager/"><u>Swiftly Manage Disks: Keyways Into Windows 11'S Storage Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-windows-camera-problems-with-expert-tips/"><u>Tackle Windows Camera Problems with Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-xbox-apps-voice-issues-in-windows/"><u>Understanding Xbox App's Voice Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzipping-challenge-managing-multiple-compressed-files-in-a-snap/"><u>Unzipping Challenge: Managing Multiple Compressed Files in a Snap</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme Narzo 60 5G | Dr.fone</u></a></li>
+</ul></div>

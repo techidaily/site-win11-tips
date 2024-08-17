@@ -1,7 +1,7 @@
 ---
 title: Essential Guide for Microsoft PC Manager on W11
-date: 2024-07-12T17:26:30.251Z
-updated: 2024-07-13T17:26:30.251Z
+date: 2024-08-16T01:40:29.106Z
+updated: 2024-08-17T01:40:29.106Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. App installation will begin. It requires internet connectivity to download files from the server.
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
@@ -47,12 +50,18 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Configure and Use Microsoft PC Manager
 
  We covered the installation method in the above section. This section will highlight all the tools available in the app and how you can use them to improve your system’s performance.
 
  Microsoft PC Manager divides the tools into two sections. The first one is Cleanup tools and the second one is Security tools. When you launch the app, it always opens up the Cleanup tools list.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Cleanup Tools
 
 **Boost your PC’s Performance** is basically a memory management tool that ends all the unnecessary programs and cleans up the temporary files. The app displays the total memory in use currently and the space occupied by Temp files. Click on the**Boost** button to free up the memory and clear the temp files.
@@ -72,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
@@ -94,7 +106,13 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Free, Official Tool to Manage Your Windows PC
 
  Microsoft PC Manager is an impressive tool. It frees up memory and storage and manages system security all within one app. You will notice a few hiccups because it is the beta phase. One such issue is that it doesn’t switch to dark mode on Windows. It auto-starts every time you boot up Windows, but you can disable that using the app settings.
@@ -118,3 +136,58 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-decoding-the-maximum-number-of-videos-for-64128gb-drives-for-2024/"><u>[New] Decoding the Maximum Number of Videos for 64/128GB Drives for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-gamers-delight-selecting-the-top-10-hddsssds/"><u>[New] Gamer's Delight  Selecting the Top 10 HDDs/SSDs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-tweets-to-device-storage-android-and-iphone-gif-steps/"><u>[New] In 2024, From Tweets to Device Storage  Android & iPhone GIF Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>[New] In 2024, How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premium-5-video-capturing-web-devices/"><u>[New] In 2024, Premium 5 Video Capturing Web Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-scripting-summative-stories/"><u>[New] Scripting Summative Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>[Updated] Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unbox-t5-and-explore-its-action-filming-capabilities/"><u>[Updated] Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clearview-capture-watchlist/"><u>2024 Approved  ClearView Capture Watchlist</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-proven-techniques-to-enhance-engagement-and-interaction/"><u>2024 Approved  Proven Techniques to Enhance Engagement and Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-troubleshooting-the-windows-camera-app/"><u>A Complete Guide to Troubleshooting the Windows Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-assault-fixing-lags-for-pc-warriors/"><u>Ace Your Assault: Fixing Lags for PC Warriors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-movecopy-tasks-to-windows-explorers-context-menu/"><u>Adding Move/Copy Tasks to Windows Explorer's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-side-by-side-error-corrective-techniques-for-win10/"><u>Addressing Side-by-Side Error: Corrective Techniques for Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-windows-experience-our-criteria-for-best-free-drivers/"><u>Boost Your Windows Experience: Our Criteria for Best Free Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brilliant-obsidian-structure-for-clear-notes/"><u>Brilliant Obsidian Structure for Clear Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-microsoft-office-error-0x80041015-a-fix-guide/"><u>Conquering Microsoft Office Error 0X80041015: A Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-modern-interface-in-retro-machines-guide-to-windows-11-to-go-and-rufus/"><u>Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-your-perfect-reading-experience-notepad-customization-in-windows-11/"><u>Creating Your Perfect Reading Experience: Notepad Customization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-obscured-network-visibility-in-windows/"><u>Curing Obscured Network Visibility in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-network-with-python-driven-transfers/"><u>Empower Your Windows Network with Python-Driven Transfers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-breakdown-windows-saver-dynamics/"><u>Expert Breakdown: Windows Saver Dynamics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-pova-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Pova 5 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unrealcefsubprocess-high-cpu-and-ram-usage-on-windows/"><u>How to Fix the UnrealCEFSubprocess High CPU and RAM Usage on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-s23-ultra-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy S23 Ultra online without jailbreak</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g84-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G84 5G Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-13t-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi 13T Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-leading-25-icons-setting-social-trends-on-insta/"><u>In 2024, The Leading 25 Icons Setting Social Trends on Insta</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-update-canon-pixma-pro-9000-driver-installation-and-improvement-tools/"><u>Instant Update: Canon Pixma Pro-9000 Driver Installation & Improvement Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-registry-editor-access-control-in-win11/"><u>Mastering Registry Editor Access Control in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-cursor-visibility-on-win-11-a-guide/"><u>Maximizing Cursor Visibility on Win 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/momentum-builds-with-windows-11s-upcoming-feature-unveil/"><u>Momentum Builds with Windows 11’S Upcoming Feature Unveil</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hyper-v-setup-process-for-windows-11-home-edition/"><u>Navigating the Hyper-V Setup Process for Windows 11 Home Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x800704cf-error-in-win11-marketplace/"><u>Overcoming 0X800704CF Error in Win11 Marketplace</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/pacing-perfection-controlling-frame-rates-on-snapchat/"><u>Pacing Perfection  Controlling Frame Rates on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-hidden-search-bar-in-win11s-task-manager/"><u>Revealing the Hidden Search Bar in Win11's Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-workflow-why-the-latest-windows-outlook-matters/"><u>Revolutionize Your Workflow: Why the Latest Windows' Outlook Matters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swivel-your-snaps-with-these-6-steps-for-windows-11-users/"><u>Swivel Your Snaps with These 6 Steps for Windows 11 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syncing-images-pc-to-iphone-file-sharing-for-2024/"><u>Syncing Images  PC-to-iPhone File Sharing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-checklist-for-dolby-atmos-installation-in-windows/"><u>The Essential Checklist for Dolby Atmos Installation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-cutting-the-fat-in-windows-11/"><u>The Ultimate Guide to Cutting the Fat in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-library-accessibility-on-win-11-pcs/"><u>Troubleshooting Steam Library Accessibility on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-running-sfc-on-windows/"><u>Understanding and Running SFC on Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>Updated 2024 Approved Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-windows-11-defense-enhanced-filter-options-via-context-menu/"><u>Upgrade Your Windows 11 Defense: Enhanced Filter Options via Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-modern-standby-gets-a-bad-rap-in-windows/"><u>Why Modern Standby Gets a Bad Rap in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-design-your-own-unique-pin-pattern/"><u>Windows 10/11 Hack: Design Your Own Unique Pin Pattern</u></a></li>
+</ul></div>

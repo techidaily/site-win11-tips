@@ -1,7 +1,7 @@
 ---
 title: "Decoding Windows XPatch Puzzle: Error 0X80073712"
-date: 2024-07-12T16:54:06.967Z
-updated: 2024-07-13T16:54:06.967Z
+date: 2024-08-16T02:12:03.643Z
+updated: 2024-08-17T02:12:03.643Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -55,10 +58,16 @@ Repeat the following steps to start the necessary services:
 2. Services utility will launch on your system. Now locate the**Background Intelligent Transfer** service in the list.
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Run the Disk Cleanup Tool
 
  Disk Cleanup can wipe the delivery optimization files, old Windows update files as well as the Temp folder. If files in these locations are corrupted, they can interfere with the normal update process. Here’s how to run disk cleanup on Windows:
@@ -68,9 +77,29 @@ Repeat the following steps to start the necessary services:
 3. It will select the system drive (C) by default. Click on the**OK** button to continue.
 4. Select the checkboxes of files that you want the tool to clean up. Then, click on the**Clean up system files** button.  
 ![Disk Cleanup App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-cleanup-app-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Disk Cleanup will close and redirect you to pick the appropriate drive. Click on the**OK** button.
 6. Lastly, click on the**Delete files** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 5\. Rename the SoftwareDistribution Folder
 
  Windows update stores its content in the SoftwareDistribution folder. Since it is located inside the Windows folder in the C drive, you mustn’t delete it. Instead, you can rename the folder to force the update service to recreate the folder again.
@@ -80,6 +109,9 @@ Repeat the following steps:
 1. Open the Start menu and search CMD. Press Ctrl + Shift + Enter to open the command prompt with admin privileges.
 2. Type the following commands to stop all the Windows update-related services:  
  net stop wuauserv net stop cryptSvc net stop bits net stop msiserver ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
@@ -105,6 +137,15 @@ Retrace the following steps to delete the pending.xml file:
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
 
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -133,3 +174,68 @@ Retrace the following steps to delete the pending.xml file:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023s-best-fb-link-exporters-available-for-free-online-for-2024/"><u>[New] 2023'S Best FB Link Exporters - Available for FREE Online for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-adding-a-cinematic-touch-ken-burns-in-camtasa-9/"><u>[New] 2024 Approved  Adding a Cinematic Touch  Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-niconico-stars-in-snapchat-moments/"><u>[New] 2024 Approved  Niconico Stars in Snapchat Moments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pocket-friendly-pro-mics-for-youtube-enthusiasts/"><u>[New] 2024 Approved  Pocket-Friendly Pro Mics for YouTube Enthusiasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-foodie-fads-the-tiktok-treat-that-took-over/"><u>[New] Foodie Fads  The #Tiktok Treat that Took Over</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-instagram-storytelling-using-videos-effectively/"><u>[New] In 2024, Instagram Storytelling  Using Videos Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-precision-in-capturing-an-expert-obs-skype-guide/"><u>[New] In 2024, Precision in Capturing  An Expert OBS Skype Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-macos-sierra-choices-for-file-conversion/"><u>[New] Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-monetizing-video-content-8-essentials-for-novices/"><u>[New] Monetizing Video Content - 8 Essentials for Novices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-survival-of-the-undead-cutthroat-top-8-zombie-titles-for-2024/"><u>[New] Survival of the Undead  Cutthroat Top 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iral-video-evolution-youtubes-favorites-for-2024/"><u>[New] Viral Video Evolution  YouTube's Favorites for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-11-free-youtube-audio-rippers-to-download-audio-from-youtube/"><u>[Updated] 11 FREE YouTube Audio Rippers to Download Audio From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] 2024 Approved  Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-lifeguard-a-quick-guide-for-saving-vids-from-fbs-waves-for-2024/"><u>[Updated] Digital Lifeguard  A Quick Guide for Saving Vids From FB's Waves for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveil-your-videos-secrets-of-social-sharing-success/"><u>[Updated] Unveil Your Videos  Secrets of Social Sharing Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories/"><u>2024 Approved  Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-solo-show-survival-guide-to-staying-trendy/"><u>2024 Approved  The Solo Show Survival Guide to Staying Trendy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-outros-that-grow-your-channel-faster/"><u>2024 Approved  YouTube Outros that Grow Your Channel Faster</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-manual-for-individualized-keybindings-in-win11/"><u>A Detailed Manual for Individualized Keybindings in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-mouseclicklock-usability-on-windows-systems/"><u>Boosting MouseClickLock Usability on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-malware-scanners-hang-up-compute-resources/"><u>Can Malware Scanners Hang Up Compute Resources?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convergence-of-ios-and-windows-using-apple-maps-effectively/"><u>Convergence of iOS and Windows: Using Apple Maps Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-hdd-invisibility-glitches/"><u>Correcting HDD Invisibility Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-personalized-windows-11-interface-with-enlarged-icons/"><u>Crafting a Personalized Windows 11 Interface with Enlarged Icons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-for-changing-your-profile-icon-on-discord/"><u>Easy Steps for Changing Your Profile Icon on Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-web-access-via-win-os/"><u>Ensuring Seamless Web Access via Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-operation-fixing-windows-notepad-crashes/"><u>Ensuring Smooth Operation: Fixing Windows Notepad Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-value-not-available-issue-in-windows/"><u>Eradicating Value Not Available Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-customized-policies-to-a-singular-account-in-win-1011/"><u>Executing Customized Policies to a Singular Account in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-treasures-found-the-guide-to-recover-lost-features-in-windows-11/"><u>Hidden Treasures Found: The Guide to Recover Lost Features in Window’s 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-product-activation-failed-error-on-microsoft-office-apps-for-windows/"><u>How to Fix the Product Activation Failed Error on Microsoft Office Apps for Windows</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-value-for-money-top-6-budget-4k-projector-models/"><u>In 2024, Best Value for Money  Top 6 Budget 4K Projector Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-transfer-windows-11-auto-move-techniques/"><u>Mastering File Transfer: Windows 11 Auto-Move Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-yt-creator-hub-the-ultimate-playbook-for-2024/"><u>Mastering YT Creator Hub  The Ultimate Playbook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-the-minutes-windows-system-synchronized/"><u>Mend the Minutes: Windows System Synchronized</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-stuck-huion-pen-problems-in-a-flash-5-essential-troubleshooting-steps/"><u>Resolve Your Stuck Huion Pen Problems in a Flash: 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-a-non-responsive-mouse-on-windows-computers/"><u>Resurrecting a Non-Responsive Mouse on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-implementation-of-updater-in-win11-version-22h2/"><u>Seamless Implementation of Updater in WIN11 Version 22H2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-working-activation-codes-in-win11/"><u>Solutions for Non-Working Activation Codes in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-enabling-task-managers-quick-find-feature-on-win11/"><u>Step-by-Step Guide: Enabling Task Manager's Quick Find Feature on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-your-productivity-with-chatgpt-discovering-7-transformative-ways-for-better-workdays/"><u>Supercharge Your Productivity with ChatGPT: Discovering 7 Transformative Ways for Better Workdays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-mechanism-behind-windows-sound-graph-isolation/"><u>The Mechanism Behind Windows Sound Graph Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-controlling-sounds-on-windows-11/"><u>The Ultimate Guide to Controlling Sounds on Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-handbook-for-flawless-snapchat-boomers/"><u>The Ultimate Handbook for Flawless Snapchat Boomers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-mouse-gurus-autoclick-wonders-on-windows-pcs/"><u>Top 5 Mouse Gurus: Autoclick Wonders on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-wonders-of-torment-tides-of-numenera-an-immersive-experience-in-science-fiction-gaming/"><u>Unveiling the Wonders of 'Torment: Tides of Numenera': An Immersive Experience in Science Fiction Gaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/up-to-date-hp-officejet-pro-8610-printer-drivers-seamless-installation-across-windows-xp-to-windows-10/"><u>Up-to-Date HP Officejet Pro 8610 Printer Drivers: Seamless Installation Across Windows XP to Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+</ul></div>

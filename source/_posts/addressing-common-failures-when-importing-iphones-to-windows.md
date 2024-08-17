@@ -1,7 +1,7 @@
 ---
 title: Addressing Common Failures When Importing iPhones to Windows
-date: 2024-07-12T17:57:39.746Z
-updated: 2024-07-13T17:57:39.746Z
+date: 2024-08-16T01:10:30.702Z
+updated: 2024-08-17T01:10:30.702Z
 tags:
   - windows10
   - windows11
@@ -34,12 +34,24 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Bring up the Explorer file manager with the**Win + E** hotkey.
 3. Then right-click your iPhone in Explorer’s left sidebar to select an**Import pictures and videos** option.  
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**Review** radio button in the Import Pictures window that opens.
 5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 6. Choose some images to transfer and click the**Import** option.  
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Restart the Apple Mobile Device Service
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
@@ -47,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 1. Open Services on Windows. See [how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) if you need help.
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select**Automatic** if a different**Startup type** setting is set.
 4. Click**Stop** to halt the service.  
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
@@ -75,11 +90,17 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our [how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can access both those Photos troubleshooting options as outlined in our [guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
@@ -91,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 2. Then click the**Help & Settings** button.
 3. Select**Quit OneDrive** to close the app.  
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Open the Photos app and click the user account picture in it.
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
@@ -107,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Import Images From Your iPhone on Windows Again
 
  Many users have resolved the “Something went wrong” Photos error by applying some of the confirmed resolutions above. So, it’s most likely at least one of the above potential solutions will enable you to transfer images from your iPhone to Windows 10 or 11 PC again.
@@ -131,3 +158,44 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-make-every-xbox-moment-count-expert-recording-advice-for-2024/"><u>[New] Make Every Xbox Moment Count  Expert Recording Advice for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-next-level-hd-screen-recording-best-brands-showcased/"><u>[New] Next-Level HD Screen Recording  Best Brands Showcased</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swiftly-swap-songs-in-your-youtube-collection/"><u>[New] Swiftly Swap Songs in Your YouTube Collection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-when-order-falls-premium-lineup-of-best-zombie-games-for-2024/"><u>[New] When Order Falls  Premium Lineup of Best Zombie Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs/"><u>[Updated] 2024 Approved  Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-and-simple-instagram-plus-facebook-integration-tips/"><u>[Updated] In 2024, Quick & Simple  Instagram + Facebook Integration Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-retro-to-future-radeon-rebooted/"><u>[Updated] In 2024, Retro to Future  Radeon Rebooted</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[Updated] Mastering FFPM  A Guide to Firefox's PIP Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-techniques-to-stand-out-in-podcast-imagery/"><u>[Updated] Proven Techniques to Stand Out in Podcast Imagery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oneplus-nord-n30-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track OnePlus Nord N30 SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-games-reimagined-utilizing-retroarchs-shaders-effectively/"><u>Classic Games Reimagined: Utilizing RetroArch's Shaders Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-the-windows-11-crash-code-errors/"><u>Clearing Up the Windows 11 Crash Code Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-of-locating-and-using-component-services/"><u>Detailed Walkthrough of Locating and Using Component Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-pointer-accessibility-simple-steps-for-windows-users/"><u>Elevating Pointer Accessibility: Simple Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-visual-performance-the-ultimate-vram-boosters/"><u>Elevating Visual Performance: The Ultimate VRAM Boosters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-correcting-power-management-malfunctions-with-windows-drivers/"><u>Expert Advice on Correcting Power Management Malfunctions with Windows Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-customizing-windows-boot-settings/"><u>Expert Strategies for Customizing Windows Boot Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-mouse-features-10-easy-steps-in-win11/"><u>Explore Mouse Features: 10 Easy Steps in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-to-grips-with-powertoys-plain-text-methods/"><u>Get to Grips With PowerToys' Plain Text Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-non-signed-updates-in-w11w10/"><u>Guide to Rectify Non-Signed Updates in W11/W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-invalid-token-access-error-on-win10/"><u>How To Address the “Invalid Token Access” Error on Win10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y28-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y28 5G Is Unlocked</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-initiate-a-fresh-start-in-windows-11/"><u>How to Initiate a Fresh Start in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-recurring-image-importer-errors-with-ios-devices-on-w11/"><u>How to Resolve Recurring Image Importer Errors with iOS Devices on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-lost-renderer-issue-in-ow2-on-windows/"><u>Immediate Fixes for Lost Renderer Issue in OW2 on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-x50iplus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor X50i+ FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/migrating-your-torrent-tracking-moving-qbittorrent-efficiently/"><u>Migrating Your Torrent Tracking: Moving qBittorrent Efficiently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-gen-windows-os-crafted-with-artificial-intelligence/"><u>Next-Gen Windows OS Crafted with Artificial Intelligence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-os-setup-a-guide-to-installing-win11-in-vmware-17/"><u>Optimizing OS Setup: A Guide to Installing Win11 in VMWare 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-app-restrictions-for-store/"><u>Overcoming Windows 11 App Restrictions for Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-anydesk-quirks-for-a-smooth-windows-experience/"><u>Resolving AnyDesk Quirks for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-interruptexception-errors-in-windows-os/"><u>Resolving INTERRUPT_EXCEPTION Errors in Windows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-into-the-archive-old-stories-on-facebook/"><u>Step Into the Archive  Old Stories on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-11-photos-the-top-6-rescaling-methods/"><u>Transform Your Windows 11 Photos – The Top 6 Rescaling Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-usb-not-attached-error-in-virtualbox-on-windows-platform/"><u>Troubleshooting 'USB Not Attached' Error in VirtualBox on Windows Platform</u></a></li>
+</ul></div>

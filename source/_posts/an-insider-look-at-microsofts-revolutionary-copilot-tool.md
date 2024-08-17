@@ -1,7 +1,7 @@
 ---
 title: An Insider Look at Microsoft's Revolutionary Copilot Tool
-date: 2024-07-12T18:00:43.924Z
-updated: 2024-07-13T18:00:43.924Z
+date: 2024-08-16T01:07:34.360Z
+updated: 2024-08-17T01:07:34.360Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  You'll also find Copilot across Microsoft's Office apps. Copilot on Word lets you generate AI drafts; on PowerPoint, you can ask it to summarize your presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access Microsoft Copilot
 
  Accessing Microsoft Copilot is different depending on the app. We'll show you how to access Microsoft Copilot in all its forms.
@@ -50,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Once Windows 11 23H2 is installed, you can open Copilot either by pressing **Win + C** or by clicking the Copilot icon on the taskbar.
 
 ![The Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 
  If you don't see it, right-click the taskbar, click **Taskbar Settings**, then enable Copilot.
 
@@ -60,7 +67,14 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
 
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
@@ -73,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Some apps will have Copilot open the instant you boot it up. For example, if you open a new document on Word, Copilot will pop up and ask you if you want to generate a draft. In other apps, you need to poke it out of hiding from the ribbon.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are the Copilot Conversation Styles?
 
  When you open Copilot in an app other than Office, it will ask what conversational style you'd like Copilot to talk in. Choosing the right option depends on what kind of answer you'd like Copilot to give you:
@@ -90,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 ### Perform Research With Copilot
 
 ![An example of Copilot citing sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-source-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
 
@@ -103,15 +123,27 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
  Check out [how to use DALL-E 3 on Copilot (formerly Bing)](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ask Copilot to Write Code for You
 
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use Copilot's Integration With Microsoft Office
 
 ![Close Up Microsoft Office Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-up-cell-microsoft-icons.jpg)
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  [Unsplash](https://unsplash.com/photos/N3TVYJ6Wr1I)
 
@@ -134,3 +166,60 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[New] Behind the Screen  Samsung UE590 4K, FreeSync Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-game-changing-ps4-screen-recordings-using-obs/"><u>[Updated] 2024 Approved  Game-Changing PS4 Screen Recordings Using OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>[Updated] In 2024, Custom Soundtracks Simplified  Converting From Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-depth-look-at-bandicams-functionality-for-video-creation/"><u>[Updated] In-Depth Look at Bandicam's Functionality for Video Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-audacity-audio-inconsistency-in-windows-1111/"><u>Correcting Audacity Audio Inconsistency in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-peasy-double-click-android-files-in-win-11/"><u>Easy-Peasy: Double-Click Android Files in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-2023-microsoft-store-community-choice-winning-apps/"><u>Elevate Your Windows Experience With These 2023 Microsoft Store Community Choice Winning Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-intrusive-credential-prompts-on-windows-11-local-account/"><u>Eliminating Intrusive Credential Prompts on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-windows-recovery-toolkit/"><u>Essential Routes to Windows Recovery Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unidentified-hardware-errors-win-1110-tips/"><u>Fixing Unidentified Hardware Errors: Win 11/10 Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-pixel-processor-windowsmac-for-2024/"><u>Flawless Pixel Processor (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-creation-to-public-domain-google-podcast-upload-for-2024/"><u>From Creation to Public Domain  Google Podcast Upload for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a05-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A05 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-updating-or-repairing-wacom-pen-input-on-windows-11/"><u>Guide to Updating or Repairing Wacom Pen Input on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-narzo-n53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme Narzo N53 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-charting-the-course-through-facebooks-most-watched-vids/"><u>In 2024, Charting the Course Through Facebook's Most Watched Vids</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-12-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 12 iCloud Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-virtual-validation-subscribers-buttons-reward-system/"><u>In 2024, Virtual Validation  Subscribers, Buttons Reward System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inferno-captures-best-slow-motion-cameras/"><u>Inferno Captures  Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-start-your-android-devices-double-clicking-apks-on-win-11/"><u>Jump-Start Your Android Devices: Double-Clicking APKs on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-stalled-excel-workflow-on-windows-devices/"><u>Jumpstart Stalled Excel Workflow on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-silenced-speaker-tech-fix-at-hand/"><u>Jumpstart Your Silenced Speaker - Tech Fix at Hand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-saved-gamer-tactics-with-launcher-backups/"><u>Mastering Saved Gamer Tactics with Launcher Backups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rebooting-indexed-databases/"><u>Mastering the Art of Rebooting Indexed Databases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-power-menus-suppress-dim-screen/"><u>Mastering Windows Power Menus: Suppress Dim Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-conquer-format-missing-on-windows/"><u>Methods to Conquer Format Missing On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-excessive-load-by-dropbox-app-on-windows-computers/"><u>Mitigating Excessive Load by Dropbox App on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-issue-in-win-11/"><u>Mitigating Missing File Detection Issue in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-law-filter-features/"><u>Navigating Through Windows LAW Filter Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-package-access-issues-on-windows-1110-systems/"><u>Overcoming Package Access Issues on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-windows-exception-breakpoint-error/"><u>Overcoming the Challenge of Windows Exception Breakpoint Error</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo-for-2024/"><u>Picking Perfect  Your Path Through Basic, Plus & Pro in Vimeo for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-voice-transcription-whisper-desktop-expertise/"><u>Real-Time Voice Transcription: Whisper Desktop Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-browser-quick-fixes-to-unlock-chrome-on-win11/"><u>Reclaim Your Browser: Quick Fixes to Unlock Chrome on Win11.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-faded-boot-prompts-steps/"><u>Redesigning Faded Boot Prompts: Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-inactive-cleanup-tools-for-win11/"><u>Reinvigorating Inactive Cleanup Tools for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-erratic-mouse-movements-7-solutions/"><u>Resolving Erratic Mouse Movements: 7 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-phantom-device-mistake-in-windows-1011/"><u>Resolving Phantom Device Mistake in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-creativity-microsofts-surface-studio-2-insight/"><u>Revamping Creativity: Microsoft's Surface Studio 2 Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-windows-family-safety-solutions-for-malfunctions/"><u>Reviving Your Windows Family Safety: Solutions for Malfunctions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-itel-a05s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Itel A05s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x850f-a-great-value-for-your-money-in-a-65-4k-tv/"><u>Sony XBR65X850F – A Great Value for Your Money in a 65 4K TV!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-visibility-of-webcam-usage-on-win11/"><u>Steps to Enhance Visibility of Webcam Usage on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-token-misrepresentation-issues/"><u>Strategies for Fixing “Token Misrepresentation” Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-troublesome-downloads-in-windows-11-networks-2/"><u>Tackling Troublesome Downloads in Windows 11 Networks (2)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-misused-system-tokens-on-windows/"><u>Tips for Troubleshooting “Misused System Tokens” On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-top-9-reasons-why-a-pc-is-better-than-a-mac/"><u>Understanding Top 9 Reasons Why a PC Is Better than a Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-of-like-a-dragon-attain-limitless-riches-on-your-computer/"><u>Unlock the Secrets of 'Like A Dragon' - Attain Limitless Riches on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-renewal-methods-for-driver-replacement-and-update/"><u>Windows Renewal: Methods for Driver Replacement and Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-pairings-4-innovative-windows-webp-viewer-apps/"><u>Winning Pairings: 4 Innovative Windows WebP Viewer Apps</u></a></li>
+</ul></div>

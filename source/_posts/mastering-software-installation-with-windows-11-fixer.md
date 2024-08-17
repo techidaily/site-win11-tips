@@ -1,0 +1,180 @@
+---
+title: Mastering Software Installation with Windows 11 Fixer
+date: 2024-08-16T02:46:15.889Z
+updated: 2024-08-17T02:46:15.889Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Mastering Software Installation with Windows 11 Fixer
+excerpt: This Article Describes Mastering Software Installation with Windows 11 Fixer
+keywords: Win11InstallGuide,FixWindowsSoftware,SoftwareSetupTips,Win11FixTool,InstallWinEasy,SoftwarePatchWin11,WindowsInstallHacks
+thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce34f31fb21e5a5f2109ae3299.jpg
+---
+
+## Mastering Software Installation with Windows 11 Fixer
+
+ Are you running an old app on Windows 11 and experiencing problems? It could be because there’s a compatibility issue that is causing it to misbehave because the program might not support Windows 11.
+
+ Fortunately, there’s a tool you can use to get it working properly. It’s called the Program Compatibility Troubleshooter, and we’re going to tell you what it is and how to use it.
+
+## What Is the Program Compatibility Troubleshooter All About?
+
+ In a nutshell, the Program Compatibility Shooter is a tool on Windows that helps you fix an app that is experiencing compatibility issues. For instance, it can help if an app worked perfectly on Windows 8, but you find that it doesn’t work right (certain graphical elements are glitching out, for example) or is crashing on Windows 11.
+
+ Windows 11 has many troubleshooters, and you can read our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for a brief overview of each one.
+
+ With the Program Compatibility Troubleshooter, you run through a series of steps to help the tool identify a particular compatibility issue. And when you do, the tool applies the best settings to the program so it can run smoothly on Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Do I Launch the Program Compatibility Troubleshooter?
+
+ To open the Program Compatibility Troubleshooter, follow the steps below:
+
+1. Press**Win + I** to open the Settings app.
+2. You will automatically land on the System page, and if not, click**System** on the left side menu.
+3. On the right side of the System page, click on**Troubleshoot** .
+4. Scroll down and click on**Other troubleshooters** .  
+![the troubleshooting page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshoot-page-settings-windows-11.jpg)
+5. You’ll find the**Program Compatibility Troubleshooter** in the**Other** section, and to launch it, click the**Run** button next to it.  
+![the other troubleshooters page on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/other-troubleshooters-page-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ For more ways to fire up this tool, please read our guide on the[different ways to run the Program Compatibility Troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Pick a Program to Fix in the Program Compatibility Troubleshooter
+
+ After you launch the Program Compatibility Troubleshooter, it will search for all the programs that you can troubleshoot and list them for you. Select the program you want to fix, and then click**Next** . And if the program is not on the list, select**Not listed** and browse for it.
+
+![the screen to select a program in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-program.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ After the tool analyzes the program, it will ask you to select a troubleshooting option between**Try recommended settings** and**Troubleshoot program** .
+
+![the screen for selecting a troubleshooting option in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-troubleshooting-option.jpg)
+
+Let’s see what each of them does.
+
+## How to Troubleshoot Compatibility With the “Try recommended settings” Option
+
+ If you select**Try recommended settings** , Windows will apply the best compatibility settings to the selected program based on a previous version of Windows. However, you’ll need to click the**Test the program** button afterward to launch the app and make sure it’s working as expected. Then, click**Next** to proceed.
+
+![program-compatibility-troubleshooter-test-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-test-program.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You will then be asked if you want to save the applied settings. If they worked, click**Yes, save these settings for this program** . If not, click**No, try again using different settings** – this will be like selecting**Troubleshoot program** as your troubleshooting option.
+
+![program-compatibility-troubleshooter-save-settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-save-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+
+ Otherwise, click **No, report the problem to Microsoft and check online for a solution** .
+
+## How to Troubleshoot Compatibility With the “Troubleshoot Program” Option
+
+ If you select the**Troubleshooter program** option, you’ll be given a list of problems to choose from. Tick the ones you’re experiencing (you can select more than one), and then click on**Next** .
+
+![selecting a problem in the program compatibility troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-choose-problem.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ If you ticked **The program worked in earlier versions of Windows but won’t install or run now** , you’ll be required to pick an earlier version of Windows by clicking on the appropriate radio button. Then, click**Next** to apply the compatibility settings.
+
+![picking an older version of Windows in the Program Compatibility Troubleshooter-pick-old-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-old-windows.jpg)
+
+ If you ticked,**The program opens but doesn’t display correctly** when choosing a problem, you’ll need to pick the display problems you’re experiencing. Then, click**Next** to apply the compatibility settings, and, remember, you can pick more than one problem to give the tool more information on how to best optimize it.
+
+![program-compatibility-troubleshooter-pick-display-problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-display-problem.jpg)
+
+ If you ticked**The program requires additional permissions** , the compatibility settings will be applied immediately. And if you pick**I don’t see my problem on the list** , you’ll be taken to the screen where you have to pick an earlier version of Windows that the program last worked on.
+
+ Then, you need to click the**Test the program** button to see if the problem is gone. Afterward, click**Next** to proceed.
+
+ If the troubleshooter resolved the problem, click**Yes, save these settings for this program** on the next screen. If it didn’t, click**No, try again using different settings** to try other troubleshooting steps. If neither option applies to your situation, click **No, report the problem to Microsoft and check online for a solution** .
+
+## Get Rid of Program Compatibility Issues on Windows 11
+
+ Now that you have a good idea of what the Program Compatibility Troubleshooter is, you can use it to fix older apps that aren’t working right on Windows 11\. It’s much better than waiting for the app’s developers to update it, which might never happen if they stopped working on it.
+
+ This is just one of the many troubleshooters you can use on Windows 11\. And you can even set up shortcuts for them if you use them frequently.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music/"><u>[New] 2024 Approved  Streamline Your Audio Preferences  Moving Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-and-simple-instagram-plus-facebook-integration-tips-for-2024/"><u>[New] Quick & Simple  Instagram + Facebook Integration Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nderstanding-youtubes-earnings-structure-for-2024/"><u>[New] Understanding YouTube's Earnings Structure for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-online-film-editors/"><u>[Updated] 2024 Approved  Top 5 Online Film Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users-for-2024/"><u>[Updated] Free, Secure Video Calls  Top 10 Safe Apps for Android and iOS Users for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leveraging-snap-functions-boosting-virtual-interaction-during-meets/"><u>[Updated] In 2024, Leveraging Snap Functions  Boosting Virtual Interaction During Meets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-audio-file-conversion-from-srt-formats/"><u>2024 Approved  Mastering the Art of Audio File Conversion From SRT Formats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-premier-5-goggles-securing-victory-in-air-races/"><u>2024 Approved  Premier 5 Goggles  Securing Victory in Air Races</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-inactive-windows-11-wi-fi-hotspot/"><u>Breathing Life Into Your Inactive Windows 11 Wi-Fi Hotspot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-bluetooth-driver-downloads-for-enhanced-connectivity-in-windows-11-8-and-tldr7/"><u>Broadcom Bluetooth Driver Downloads for Enhanced Connectivity in Windows 11, 8 & Tldr;7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-life-in-stunning-form-with-iphones-essential-10-composition-guidelines-for-2024/"><u>Capture Life in Stunning Form with iPhone's Essential 10 Composition Guidelines for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719381834367-cep-library-integration/"><u>CEP Library Integration:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-windows-security-pin-made-simple/"><u>Changing Windows Security PIN Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-the-failed-to-launch-lunar-client-windows-message/"><u>Circumventing the Failed to Launch: Lunar Client Windows Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-the-task-of-installing-gmaps-on-windows/"><u>Conquering the Task of Installing GMaps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/determine-disk-technology-in-windows-1011/"><u>Determine Disk Technology in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-not-empty-assertion-a-practical-guide-to-x80070091-fixes/"><u>Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ensuring-seamless-video-file-functionality/"><u>Ensuring Seamless Video File Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-actions-and-activation-labels-in-dev-tools/"><u>Exploring Actions & Activation Labels in Dev Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-disparities-in-cloud-and-offline-windows-updates/"><u>Exploring Disparities in Cloud and Offline Windows Updates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-14-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 14 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-an-inactive-windows-11-license/"><u>How to Reactivate an Inactive Windows 11 License</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/impact-of-visual-client-reviews-on-business-image-for-2024/"><u>Impact of Visual Client Reviews on Business Image for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 13 mini How to Bypass?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-non-sport-spectacles-in-the-top-ten-front-rows/"><u>In 2024, Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-photographers-guide-mobile-for-high-angle-views/"><u>In 2024, The Photographer's Guide  Mobile for High-Angle Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrate-compatibility-troubleshoot-in-windows-clippy/"><u>Integrate Compatibility Troubleshoot in Windows Clippy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-windowed-app-relocations/"><u>Methods to Prevent Windowed App Relocations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-winscomrssvsvc-error-on-initial-startup/"><u>Mitigating WinscomrssvSvc Error on Initial Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-wi-fi-setup-woes-reconciling-missing-steps-in-prompts/"><u>Navigating Wi-Fi Setup Woes: Reconciling Missing Steps in Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-operating-systems-state-a-windows-1011-reboot-guide/"><u>Overhauling Your Operating System's State: A Windows 10/11 Reboot Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>Premium Picks  Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-hot-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Hot 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectify-restore-responsive-shortcut-keys-in-windows-11/"><u>Rectify: Restore Responsive Shortcut Keys in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rushing-past-stuck-warcraft-64-patches/"><u>Rushing Past Stuck Warcraft 6.4 Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safe-stepping-stones-on-windows-11-top-8-to-skip/"><u>Safe Stepping Stones on Windows 11: Top 8 To Skip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-old-files-enabling-the-autodelete-option-on-windows-11/"><u>Say Goodbye to Old Files: Enabling the Autodelete Option on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-switch-the-best-windows-apps-for-ex-mac-users/"><u>Smooth Switch: The Best Windows Apps for Ex-Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-rebuilding-windows-icons/"><u>Strategies for Rebuilding Windows Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-address-unsuccessful-onedrive-procedures/"><u>Strategies to Address Unsuccessful OneDrive Procedures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-moto-g04-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Moto G04 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-win11-ui-with-enlarged-icons/"><u>Transform Your Win11 UI with Enlarged Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-trio-top-apps-making-pc-switch-easier/"><u>Transition Trio: Top Apps Making PC Switch Easier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719284663391-version-compatibility/"><u>Version Compatibility:</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-customization-increasing-icon-dimensions-in-w11/"><u>Winning at Customization: Increasing Icon Dimensions in W11</u></a></li>
+</ul></div>

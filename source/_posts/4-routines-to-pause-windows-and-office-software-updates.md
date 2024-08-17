@@ -1,7 +1,7 @@
 ---
 title: 4 Routines to Pause Windows & Office Software Updates
-date: 2024-07-12T17:20:02.686Z
-updated: 2024-07-13T17:20:02.686Z
+date: 2024-08-16T01:46:24.859Z
+updated: 2024-08-17T01:46:24.859Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 4. Disable the toggle next to**Receive updates for other Microsoft products** .  
 ![Stop Automatic Office Updates Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Stop Automatic Office Updates Using One of Its Apps
 
  You can also opt out of automatic Office updates by using one of its apps, such as Word or Excel. Here’s how you can go about it.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 4. Click the**Update Options** drop-down menu in the Manage Account section and choose**Disable Updates** .
 5. Select**Yes** to confirm.  
 ![Stop Office Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-office-updates.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, your Office apps will not check for and install newer updates. Don't worry, you'll still be able to install updates manually.
 
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
 1. Open up your web browser and head over to Microsoft Download Center to [download the Administrative Template files (ADMX/ADML) for Office apps](https://www.microsoft.com/en-us/download/details.aspx?id=49030) .  
 ![Download Office Administrative Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-office-administrative-templates.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 2. Double-click the downloaded**EXE file** to run it.
 3. Accept the license terms and click the**Continue** button.
 4. The installer will prompt you for a location to extract the contents. Select an empty folder and hit**OK** .
@@ -61,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 7. Head to**C: > Windows > PolicyDefinitions** folder.
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 9. Return to the folder where you extracted the files and open the**admx** folder again.
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
@@ -73,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 3. Use the left pane to navigate to **Local Computer Policy > Computer Configuration > Administrative Templates > Microsoft Office 2016 > Updates** .
 4. Double-click the**Enable Automatic Updates** policy on your right.  
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Select the**Disabled** option.
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
@@ -109,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Stop Automatic Office Updates on Windows
 
  It is almost always preferable to keep your Office apps up to date so that you can benefit from new features and security updates. Hence, if you disable automatic Office updates for some reason, don’t forget to check for new updates manually every once in a while.
@@ -132,3 +151,44 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>[New] 2024 Approved  Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-w11-taskbar-functionality/"><u>Boosting W11 Taskbar Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-ram-virtual-memory-strategies/"><u>Boosting Windows 11 RAM: Virtual Memory Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breach-sign-in-blockage-steps-to-reunite-with-microsoft/"><u>Breach Sign-In Blockage: Steps to Reunite with Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-default-security-levels/"><u>Breaking Through Default Security Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-stuck-windows-applications/"><u>Breathe Life Back Into Stuck Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-windows-services-manager-with-these-top-7-tricks/"><u>Breathe Life Into Your Windows Services Manager with These Top 7 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-outdated-bios-features/"><u>Breathing Life Into Outdated BIOS Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-windows-11-troubleshooting-tools/"><u>Breathing Life Into Your Windows 11 Troubleshooting Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-between-androidios-and-windows-mic-functionality/"><u>Bridge Between Android/iOS and Windows Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-network-prompts-for-seamless-connections/"><u>Bridging Gaps in Network Prompts for Seamless Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-using-samsung-flow-for-device-synergy/"><u>Bridging Gaps: Using Samsung Flow for Device Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-generations-of-tech-moving-software-from-previous-windows/"><u>Bridging Generations of Tech: Moving Software From Previous Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-for-faulty-windows-batch-file-operations/"><u>Bridging the Gap for Faulty Windows Batch File Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-lost-ctrl-operability-with-these-tips-for-windows-11/"><u>Bring Back Lost Ctrl Operability with These Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-new-life-to-elders-pcs-windows-11-to-go-and-rufus-techniques/"><u>Bringing New Life to Elders PCs: Windows 11, To Go, and Rufus Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-wi-fi-anomalies-in-windows-10-using-these-simple-remedies/"><u>Bypass Wi-Fi Anomalies in Windows 10 Using These Simple Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-settings-app-failures-effectively/"><u>Bypass Windows Settings App Failures Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-fatal-0x800f0831-in-winos/"><u>Bypassing Fatal 0X800F0831 in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-microsoft-defender-firewall-on-windows-11/"><u>Bypassing Microsoft Defender Firewall on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-outlooks-error-0x80040610-your-step-by-step-guide/"><u>Bypassing Outlook's Error 0X80040610: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-cant-add-your-folder-now-hiccup-in-windows-onedrive/"><u>Bypassing the 'Can't Add Your Folder Now' Hiccup in Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-failed-install-error-in-discord-win-editions/"><u>Bypassing the Failed Install Error in Discord Win Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/celestial-mastery-revealed-unlocking-god-mode-in-windows-11/"><u>Celestial Mastery Revealed: Unlocking God Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-display-axis-in-windows-interface/"><u>Change Display Axis in Windows Interface</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/does-instant-subscription-strategy-improve-user-engagement-for-2024/"><u>Does Instant Subscription Strategy Improve User Engagement for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-steps-for-quality-live-cricket-viewing/"><u>Essential Steps for Quality Live Cricket Viewing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-freezing-points-to-inviting-landscapes/"><u>From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-speed-sd-accessory-for-sony-a7c-model/"><u>High-Speed SD Accessory for Sony A7C Model</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-audio-recording-excellence-with-audacity/"><u>In 2024, Pro Audio Recording Excellence with Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 11 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-find-x6-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Find X6? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-ultimate-playbook-for-nba-live-streams-15-tips/"><u>Your Ultimate Playbook for NBA Live Streams (15 Tips)</u></a></li>
+</ul></div>

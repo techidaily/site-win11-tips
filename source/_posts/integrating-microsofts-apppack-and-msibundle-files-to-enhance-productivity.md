@@ -1,7 +1,7 @@
 ---
 title: Integrating Microsoft's Apppack and MsiBundle Files to Enhance Productivity
-date: 2024-07-12T16:36:36.945Z
-updated: 2024-07-13T16:36:36.945Z
+date: 2024-08-16T02:29:39.949Z
+updated: 2024-08-17T02:29:39.949Z
 tags:
   - windows10
   - windows11
@@ -50,11 +50,17 @@ To generate a Microsoft Store app downloading link using Fiddler:
 1. Download and install the [Fidler Classic app](https://www.telerik.com/download/fiddler) . You’ll need to enter your email and territory to download the app.
 2. Open**Fiddler** , and click the**WinConfig** button in the top left corner. Click**Yes** if prompted by User Account Control.  
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 
 1. Next, launch**Microsoft Store,** search for the app you want to download, and click**Install** . Wait for the app to download and install completely. Fiddler will start capturing the traffic as the necessary files for the app download and install.
 2. Once the download is complete, open the**Fiddler** app and press**Ctrl + F** to open**Find** .
@@ -62,6 +68,9 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![fiddler find session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-find-session.jpg)
 4. If no entries are highlighted, open**Find (Ctrl+F)** and type**msixbundle, appx** or**appxbundle** in the**Find** field, and click on**Find Sessions** .  
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
@@ -81,6 +90,9 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like [this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
 
@@ -96,8 +108,14 @@ To install App Installer:
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
 ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use Windows PowerShell to sideload Microsoft Store app on Windows. This is an efficient way to sideload apps on multiple computers or when you get an error while running the msixbundle or other package files.
 
@@ -115,6 +133,10 @@ To install appx, msixbudnle, and appxbundle apps using PowerShell:
  In addition, if you want to install a non-Microsoft Store app file package, you may also need to enable Developer Mode to install UWP apps from third-party sources.
 
 To enable Developer Mode on Windows 11 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
@@ -142,3 +164,42 @@ To enable Developer Mode on Windows 11 ![enable developer mode windows 11](https
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-chrome-sketching-apps-for-every-aspiring-artist/"><u>[New] 2024 Approved  Essential Chrome Sketching Apps for Every Aspiring Artist</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-twitch-user-introduction-measurements-format-duration/"><u>[Updated] In 2024, Twitch User Introduction  Measurements, Format, Duration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-infusing-creative-edge-in-your-youtube-trailer-production/"><u>[Updated] Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-surveying-the-lack-of-diversity-s-vr-realm-for-2024/"><u>[Updated] Surveying the Lack of Diversity 'S VR Realm for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-guide-inserting-text-on-pcmac-photos/"><u>2024 Approved  Essential Guide  Inserting Text on PC/Mac Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveil-the-potential-of-vfx-animated-text-for-free/"><u>2024 Approved  Unveil the Potential of VFX  Animated Text for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-youtube-watch-on-chrome-windows/"><u>Accelerate Your YouTube Watch on Chrome Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-act-reducing-excessive-background-load/"><u>Balancing Act: Reducing Excessive Background Load</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-electronic-offers-during-the-2024-amazon-prime-sale-event/"><u>Best Electronic Offers During the 2024 Amazon Prime Sale Event</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-a-dysfunctional-downloads-hub-in-windows/"><u>Guidelines for Restoring a Dysfunctional Downloads Hub in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guides-to-restore-lock-screen-timeout-mechanism/"><u>Guides to Restore Lock Screen Timeout Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-11-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 11 & 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-efficient-recording-techniques-for-itunes-media/"><u>In 2024, Efficient Recording Techniques for iTunes Media</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-c55-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco C55 Phone that is Locked?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>In 2024, Photography Refinement  Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-output-decrease-time-harness-power-of-flow-launcher/"><u>Increase Output, Decrease Time: Harness Power of Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-pc-printer-link-fixes/"><u>Mastering PC Printer Link Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-save-settings-restoration-in-windows-1011s-pubg/"><u>Mastering Save Settings Restoration in Windows 10/11'S PUBG</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80072efd-in-windows-devicesstore-apps/"><u>Overcoming Error 0X80072EFD in Windows Devices/Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/raising-the-bar-for-user-interface-in-w11-larger-icons/"><u>Raising the Bar for User Interface in W11: Larger Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-no-device-drivers-detected-on-windows-setup/"><u>Resolving 'No Device Drivers Detected' On Windows Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ad-ds-printer-fails-in-win-1011/"><u>Resolving AD DS Printer Fails in Win 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamlessly-update-your-built-in-webcam-drivers-on-a-dell-computer-a-comprehensive-how-to/"><u>Seamlessly Update Your Built-In Webcam Drivers on a Dell Computer - A Comprehensive How-To</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks-for-2024/"><u>Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-secure-your-browsing-with-microsofts-defender-in-win-11/"><u>Step-by-Step: Secure Your Browsing with Microsoft's Defender in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-slow-windows-10-closure-while-tasks-remain-open/"><u>Strategies for Slow Windows 10 Closure While Tasks Remain Open</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-skip-out-of-s-mode-with-ease-for-your-pc/"><u>Swiftly Skip Out of S Mode with Ease for Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switchtonightvisioninnotepadwin/"><u>SwitchToNightVisionInNotepadWin</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-premier-8-video-transformers-for-your-mac-and-phone/"><u>The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-rapid-switching-on-win-11-desktop/"><u>Tips for Rapid Switching on Win 11 Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-capturing-desktop-audio-via-obs-heres-how-you-can-fix-it/"><u>Trouble with Capturing Desktop Audio via OBS? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-the-whatsapp-camera-magnification-fault/"><u>Troubleshooting Tips: Resolving the WhatsApp Camera Magnification Fault</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-playnite-with-emulated-game-support/"><u>Upgrade Playnite with Emulated Game Support</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-temporary-file-hassles-resolved-instantly/"><u>Windows' Temporary File Hassles Resolved Instantly</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating Android to Windows Shared Drives
-date: 2024-07-12T16:55:24.677Z
-updated: 2024-07-13T16:55:24.677Z
+date: 2024-08-16T02:11:20.211Z
+updated: 2024-08-17T02:11:20.211Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## How to Share a Windows Drive on Your Local Network
 
  To access your computer's files, you need to share them on the local network. For the demonstration, I'll be sharing a drive on the local network. If you wish to share a folder or a single file instead, you can follow the same steps but with only the folder(s) and file(s) selected.
@@ -39,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
@@ -56,12 +67,21 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 6. In the new window, type in the IPv4 address you copied earlier into the Address field. Then, type **445** into the **Port** field. Finally, fill in the **Username** and **Password** fields with your account credentials and hit on **Add** or **Connect**.
 
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
 Close
 
@@ -86,13 +106,22 @@ Close
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
 
  Now that you know how to access your PC files using Windows Network Share, uploading, downloading, and modifying files should be super easy to do. You won't have to rely on downloading and testing third-party applications for minor tasks like copying over a PDF file from your Windows PC to your Android/iOS devices.
@@ -108,3 +137,47 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-previous-software-conflict-leading-to-boot-failure/"><u>[FIXED] Previous Software Conflict Leading to Boot Failure</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac/"><u>[New] In 2024, Reel in the Action  Top Strategies for Recording Your Minecraft Sessions on a Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>[New] Maximizing Engagement  Avoiding Common YouTube Thumbnail Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-guide-to-forming-powerful-content-partnerships-on-youtube/"><u>[Updated] 2024 Approved  Essential Guide to Forming Powerful Content Partnerships on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beat-makers-paradise-downloading-premium-dj-visuals/"><u>[Updated] Beat Makers' Paradise  Downloading Premium DJ Visuals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expertly-broadcast-your-gopro-adventures-on-top-channels-periscope-facebook/"><u>2024 Approved  Expertly Broadcast Your Gopro Adventures on Top Channels (Periscope, Facebook)</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-your-xbox-games-on-steam-glossis-guide/"><u>Access Your Xbox Games on Steam - GlosSI's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-intel-graphic-upgrades-for-underperforming-pcs/"><u>Easing Into Intel Graphic Upgrades for Underperforming PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>Enhance Your Story Game  Applying Fun Sticker Themes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-addressing-installation-setbacks-in-win11/"><u>Essential Techniques for Addressing Installation Setbacks in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-controller-detection-issues-on-windows-steam/"><u>Fixing Controller Detection Issues on Windows Steam</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-securely-modify-user-passwords-in-win-11/"><u>Guide to Securely Modify User Passwords in Win 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-image-thumbnail-size-in-windows-11/"><u>How to Change the Image Thumbnail Size in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-adjust-your-software-size-with-windows-11-keys/"><u>How to Effortlessly Adjust Your Software Size with Windows 11 Keys</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-the-craft-perfecting-podcast-trailer-production/"><u>In 2024, Mastering the Craft  Perfecting Podcast Trailer Production</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-oculus-rift-into-a-windows-pc-virtual-reality-setup/"><u>Integrating Oculus Rift Into a Windows PC Virtual Reality Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ms-office-widows-1011-setup/"><u>Mastering MS Office WIdows 10/11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system32-access-on-windows-11/"><u>Mastering System32 Access on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-dystopia-my-quest-for-self-identity-amidst-app-guard/"><u>Navigating Dystopia: My Quest for Self-Identity Amidst App Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-non-existent-registry-tool/"><u>Navigating Through Non-Existent Registry Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-pens-tablet-apps-on-the-windows-os/"><u>Perfect Pens' Tablet Apps on the Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/polishing-your-past-redefining-vintage-videos-with-windows-and-madvr/"><u>Polishing Your Past: Redefining Vintage Videos with Windows and MadVR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-sound-capture-top-mics-pairing-with-4k-video-equipment-for-2024/"><u>Prime Sound Capture  Top Mics Pairing with 4K Video Equipment for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-limited-administrator-power-from-security-issue/"><u>Removing 'Limited Administrator Power' From Security Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-settings-for-steam-libraries-on-win-11-pcs/"><u>Removing Read-Only Settings for Steam Libraries on Win 11 PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sony-xperia-5-assessment-compact-size-with-premium-pricing/"><u>Sony Xperia 5 Assessment: Compact Size with Premium Pricing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-samsung-monitor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Samsung Monitor Drivers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oneplus-12-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from OnePlus 12.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-silent-pc-resolve-sound-malfunctions-in-windows-11-hp-notebooks/"><u>Trouble with Silent PC? Resolve Sound Malfunctions in Windows 11 HP Notebooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-eliminate-sluggishness-effectively/"><u>Turbocharge Windows 11: Eliminate Sluggishness Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-disabled-recycle-icon-on-win11/"><u>Unblocking the Disabled Recycle Icon on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-office-capabilities-installing-outlook-preview-on-windows-11/"><u>Unlock Full Office Capabilities: Installing Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-classic-adventures-in-hd-with-scummvm/"><u>Unlock the Full Potential of Classic Adventures in HD with ScummVM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-code-top-strategies-for-wsl-2-users/"><u>Winning at Code: Top Strategies for WSL 2 Users</u></a></li>
+</ul></div>

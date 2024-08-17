@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Helpers: Quick Fixes for Window Woes"
-date: 2024-07-12T17:49:15.586Z
-updated: 2024-07-13T17:49:15.586Z
+date: 2024-08-16T01:18:43.632Z
+updated: 2024-08-17T01:18:43.632Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use the Get Help App
 
  Just as the name suggests, the Get Help app is all about assisting you with issues on your Windows computer. Basically, all you have to do is launch it, ask it a question, and the app will look for a solution for you.
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
 4. The app will search for self-help articles online and display the steps or information you need to solve the problem you're experiencing.  
 ![search-results-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/search-results-in-the-get-help-app-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the Get Help app doesn't have a solution, there's another app you can use.
 
@@ -62,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![launching-the-quick-assist-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-quick-assist-app-through-windows-search.jpg)
 3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
 ![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Once the helper is able to connect to your PC, you can sit back and let them do their thing.
 
@@ -69,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) so you know which ones to use.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Get Help Online
 
  If you can't solve the problem within Windows, perhaps the online world can help. A quick way to go about it is to simply type your problem on Google and see what articles come up with solutions.
@@ -79,8 +91,23 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 ![the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-support-page.jpg)
 2. In the pop-up, click **Get Home support** to access the self-help tool.  
 ![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
 ![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
 
@@ -99,3 +126,37 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-polaroid-cubeplus-action-camera-review/"><u>[Updated] Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>[Updated] Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-method-for-mastery-in-morphvox-usage/"><u>2024 Approved  The Ultimate Method for Mastery in MorphVOX Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-upgrade-in-a-flash-streamlining-windows-driver-updates/"><u>Audio Upgrade in a Flash: Streamlining Windows Driver Updates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>Best of Both Worlds  Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-to-follow-plan-starting-over-with-windows-updates/"><u>Easy-to-Follow Plan: Starting Over with Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-taskbar-with-win11-tips/"><u>Enhance Your Taskbar with Win11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-for-taskbar-implementation-in-windows-11-tablets/"><u>Essential Steps for Taskbar Implementation in Windows 11 (Tablets)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-windows-11-unreachable-5ghz-wi-fi/"><u>Guide to Fixing Windows 11 - Unreachable 5GHz Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x00000709-operation-could-not-be-completed-on-windows/"><u>How to Fix Error 0X00000709: Operation Could Not Be Completed on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-rectify-fb-video-anomaly-with-personal-visage/"><u>In 2024, Rectify FB Video Anomaly with Personal Visage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-and-apply-techniques-for-lockunlock-fn-button/"><u>Learn & Apply Techniques for Lock/Unlock Fn Button</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/map-screenshot-archives-in-windows/"><u>Map Screenshot Archives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-movement-eradicate-slowness-on-sw-battlefront-windows/"><u>Master Movement: Eradicate Slowness on SW Battlefront Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-social-media-connections-instagram-and-tiktok/"><u>Mastering Social Media Connections  Instagram & TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-security-top-5-fixes-for-access-denied-errors/"><u>Mastering Windows 11 Security: Top 5 Fixes for Access Denied Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-surface-laptop-go-3-gains-processor-yet-fails-to-shine/"><u>Microsoft's Surface Laptop Go 3 Gains Processor, Yet Fails to Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-geforce-experience-on-windows-pcs/"><u>Quick Guide to Fix GeForce Experience on Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-against-unexpected-scroll-behavior-in-os/"><u>Safeguard Against Unexpected Scroll Behavior in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-usb-drive-problems-for-efficient-data-handling/"><u>Solving USB Drive Problems for Efficient Data Handling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-high-dpi-screen-resolution-problems-on-pcs/"><u>Tackling High DPI Screen Resolution Problems on PCs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-meme-titans-reddit-and-twitters-biggest-sensations/"><u>The Meme Titans  Reddit & Twitter's Biggest Sensations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-photoshopping-on-windows-11/"><u>Troubleshooting Tips for Photoshopping on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11-speed-start-up-enhancement-techniques/"><u>Unleash Windows 11 Speed: Start-Up Enhancement Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-xr21s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia XR21s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-adobe-reader-microsoft-store-approach/"><u>Unlocking Adobe Reader: Microsoft Store Approach</u></a></li>
+</ul></div>

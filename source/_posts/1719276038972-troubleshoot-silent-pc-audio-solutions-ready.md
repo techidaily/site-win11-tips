@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Silent PC Audio – Solutions Ready
-date: 2024-07-12T17:55:24.076Z
-updated: 2024-07-13T17:55:24.076Z
+date: 2024-08-16T01:12:41.911Z
+updated: 2024-08-17T01:12:41.911Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -73,15 +77,24 @@ Audio should now play on your HDMI TV.
 **Right-click** the device and select**Update driver** . The updated driver should then be installed.
 
 ![update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/update-audio-driver.png)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the same fix to update USB drivers if you use a USB headset or USB sound card.
 
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -103,9 +116,15 @@ Audio should now play on your HDMI TV.
  For example, in this Windows computer, the Realtek High Definition Audio software is equally responsible for managing the sound, as are the speakers themselves. So, if your speaker's software settings are not managed properly, it might lead to sound problems, such as your speakers not working.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -132,6 +151,9 @@ Audio should now play on your HDMI TV.
 
  This will turn off all enhancements that could be the cause of your speakers not working.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -140,6 +162,9 @@ Audio should now play on your HDMI TV.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected [the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are Your Speakers Working Again?
 
  Whatever the reason for your speaker's malfunctioning, if you are a regular computer worker, then you know how working days on end without good background music can get. Hopefully, one of these tips worked out for you, and your speakers are now blasting as usual.
@@ -162,3 +187,48 @@ Audio should now play on your HDMI TV.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-expertly-navigating-the-world-of-audio-recording-gear-apple-specific-for-2024/"><u>[New] Expertly Navigating the World of Audio Recording Gear (Apple-Specific) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-enhancing-your-discord-experience-with-recordings/"><u>[New] In 2024, Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus-for-2024/"><u>[New] Pro Game Documentation  Capturing Roblox Experiences with a Mac in Focus for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-titles-your-gateway-to-open-worlds/"><u>[Updated] 2024 Approved  Essential Titles  Your Gateway to Open Worlds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-virtual-visage-creation-shaping-your-exaggerated-image/"><u>[Updated] 2024 Approved  Virtual Visage Creation  Shaping Your Exaggerated Image</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-5-mac-snipping-utilities-essential-choices/"><u>[Updated] In 2024, Top 5 Mac Snipping Utilities  Essential Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-the-complexities-of-canon-time-lapse/"><u>[Updated] Navigating Through the Complexities of Canon Time-Lapse</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-merge-apple-music-and-videos-together/"><u>[Updated] Seamless Merge  Apple Music & Videos Together</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-remote-desktop-connection-tool-in-windows-11/"><u>10 Ways to Open the Remote Desktop Connection Tool in Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-avoid-a-snapbreak-ways-to-maintain-your-snapstreaks/"><u>2024 Approved  Avoid a Snapbreak  Ways to Maintain Your Snapstreaks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-fabricate-funny-face-filters-giphy-style/"><u>2024 Approved  Fabricate Funny Face Filters  Giphy Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-a-missing-bluetooth-option-in-windows-11/"><u>9 Ways to Fix a Missing Bluetooth Option in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreenas-for-conquering-windows-10-bsod-woes/"><u>A Compreenas for Conquering Windows 10 BSOD Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-pc-search-mastering-everywhereapp/"><u>Accelerate PC Search: Mastering EverywhereApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-day-windows-productivity-software-that-works-wonders/"><u>Ace Your Day: Windows Productivity Software That Works Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-your-way-through-windows-with-mouseclicklock-techniques/"><u>Ace Your Way Through Windows with MouseClickLock Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-balanced-screen-viewing-a-step-by-step-guide-to-90-degree-rotation/"><u>Achieving Balanced Screen Viewing: A Step-by-Step Guide to 90-Degree Rotation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-the-speaker-in-microsofts-new-era/"><u>Activating the Speaker in Microsoft's New Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-and-resolving-msvcr110dll-lack/"><u>Addressing and Resolving MSVCR110.dll Lack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-crashes-of-ccleaner-in-windows-11/"><u>Addressing Crashes of CCleaner in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-discords-non-display-errors-on-pc/"><u>Addressing Discord's Non-Display Errors on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-update-problem-windows-11-error-code-0x800f0922/"><u>Addressing Update Problem: Windows 11 Error Code 0X800f0922</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-lockout-interval-after-unsuccessful-windows-sign-in/"><u>Adjusting Lockout Interval After Unsuccessful Windows Sign In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advance-your-wallet-harness-w11-pro-offers-wisely/"><u>Advance Your Wallet: Harness W11 Pro Offers Wisely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-lighter-browsing-options-best-in-class-for-ram-consumption/"><u>Assessing Lighter Browsing Options: Best in Class for RAM Consumption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-errors-secure-your-onedrive-login-on-windows/"><u>Avoiding Errors: Secure Your OneDrive Login on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-not-recognized-issues-in-windows-with-these-fixes/"><u>Banish 'Not Recognized' Issues in Windows with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-win11-blue-screen-quick-fixes-for-your-pc-top-11/"><u>Banish Win11 Blue Screen: Quick Fixes for Your PC (Top 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-android-app-integration-on-windows-11-systems/"><u>Best Android App Integration on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blue-screen-errors-finding-their-windows-footprint/"><u>Blue Screen Errors: Finding Their Windows Footprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-keystrokes-speed-top-tips-to-decrease-delay-on-windows/"><u>Boost Your Keystrokes' Speed: Top Tips to Decrease Delay on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/encompassing-understanding-the-essence-of-googles-podcasts-app/"><u>Encompassing Understanding  The Essence of Google's Podcasts App</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-add-youtube-annotations-and-cards/"><u>How to Add YouTube Annotations and Cards?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-12-mini-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-merge-separate-playlists-together-on-spotify/"><u>How to Successfully Merge Separate Playlists Together on Spotify</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 14 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>In 2024, Enhancing Facebook's Instream Ad Reach  A Detailed Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-win-audio-experience/"><u>In 2024, Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-the-power-of-slow-motion-best-video-editing-tools/"><u>In 2024, Unleash the Power of Slow Motion Best Video Editing Tools</u></a></li>
+</ul></div>

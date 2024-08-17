@@ -1,0 +1,207 @@
+---
+title: The Ultimate Guide to Clearing Up Windows Update Jams
+date: 2024-08-16T02:37:02.152Z
+updated: 2024-08-17T02:37:02.152Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes The Ultimate Guide to Clearing Up Windows Update Jams
+excerpt: This Article Describes The Ultimate Guide to Clearing Up Windows Update Jams
+keywords: Update Troubleshooting Steps,Fixing Windows Update Issues,Windows Update Reset Tips,Unjamming Update Logs,Stop Update Errors Fast,Clear Update Glitches Guide,Fix Updates Quickly Method
+thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb75637faff2a09a30c684309.jpg
+---
+
+## The Ultimate Guide to Clearing Up Windows Update Jams
+
+ Sometimes, the Windows Update Troubleshooter gets stuck while diagnosing and resolving problems. A slow or unstable internet connection, a stuck application, outdated drivers, or corrupt system files could cause this error.
+
+ But, it is not difficult to get the Windows Update Troubleshooter working again—as you will discover by exploring the following fixes.
+
+## 1\. Restart Your Computer
+
+ You may have rebooted your phone at times to fix some lags and stuck applications. And you probably know that restarting your Windows PC works in the same way—it can fix issues like an unresponsive app and glitches too.
+
+ When you restart your PC, the system shuts down temporarily and then turns on again. The RAM is cleaned up and refreshed, and so is the processor cache. So when your PC reboots, you will get a clean start all over again.
+
+ Restarting your PC should be the first thing you do when the Windows Update Troubleshooter gets stuck on a "resolving problems" loop.
+
+ Then try running the Windows Update Troubleshooter to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## 2\. Clear the DNS Cache
+
+ When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
+
+ Often the Windows Update Troubleshooter malfunctions due to an unstable internet connection caused by an outdated or corrupt DNS (Domain Name System) cache.
+
+ The DNS cache uses stored information like IP addresses and DNS Records to load websites and pages faster. However, the DNS cache can get corrupted.
+
+ But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
+
+ If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
+
+## 3\. Restart Windows Cryptographic Services
+
+ At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
+
+ Cryptographic Services is an inbuilt Windows feature that provides encryption, decryption, and verification services. If it doesn't work properly, Windows Update Troubleshooter may also malfunction.
+
+To fix this, you can try restarting Cryptographic Services.
+
+1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the[many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
+2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
+![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
+![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
+5. Then click**Apply** and then**OK** .
+
+ Now close Services and try running the Windows Update Troubleshooter again.
+
+## 4\. Run System File Checker and DISM Command
+
+ The Windows Update Troubleshooter can also get stuck in a loop if system files have gotten corrupted. Fortunately, you can resolve this issue by running the SFC scan. It scans, repairs, and replaces these damaged files automatically.
+
+ Sometimes you may experience that the SFC is not working properly. To overcome that, you should run the DISM command that will service and repair Windows images.
+
+ You can quickly learn how to run the SFC and DISM, and also explore how they work. Check out our piece on the[differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for the full low-down.
+
+ After these scans finish running, try running the Windows Update Troubleshooter again.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. Update System Drivers
+
+ Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
+
+ If you're regularly keeping your Windows PC updated, the drivers your system needs would automatically be getting installed with the updates.
+
+ But since the working of the Windows Update Troubleshooter may be affected by outdated or corrupt drivers, it's best if you check for driver updates and install them manually.
+
+1. Right-click the**Windows icon** on the taskbar and select**Settings** from the menu.
+2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
+![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
+3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
+![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
+4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
+
+ After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
+
+## 6\. Configure Troubleshooting in Group Policy Editor
+
+ The Windows Update Troubleshooter may be stuck if the troubleshooting service is disabled in the Group Policy Editor.
+
+ If you're using Windows 10 Pro or Windows 11 Pro editions, you can try tweaking the Scripted Diagnostics policy in Troubleshooting and Diagnostics in the Group Policy Editor.
+
+ Though it's not available on Windows Home, you can still[access the Group Policy Editor by enabling it](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
+
+To edit and enable the Scripted Diagnostics policy:
+
+1. Press the**Windows** +**R** keys together to open the**Run** box.
+2. Type**gpedit.msc** in the navigation bar and click**Enter** .  
+![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
+3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
+4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
+`Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
+5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
+![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Double-click on the first item and select the**Enable** option in the window that opens.  
+![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+7. Finally, tap on**Apply** and then**OK** .
+8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
+
+ Now close the Group Policy Editor and run the Windows Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
+
+ It's important to have the Windows Update Troubleshooter running fine. Try the above fixes if it ever gets stuck or stops working. And ensure you can install essential updates to enjoy a smooth and secure Windows experience.
+
+ You can also know more about security updates and why it makes sense to install them quickly.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>[New] 2024 Approved  Channel Buying Made Simple  A Beginner’s Toolkit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dungeon-dynamics-the-leading-10-rogue-experiences/"><u>[New] 2024 Approved  Dungeon Dynamics  The Leading 10 Rogue Experiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-economical-desktop-encoder-software-guide-revealed/"><u>[New] Economical Desktop Encoder Software Guide Revealed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-the-impact-of-youtube-money-changes/"><u>[New] Understanding the Impact of YouTube Money Changes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-novice-to-expert-selecting-best-yt-cameras/"><u>[Updated] From Novice to Expert  Selecting Best YT Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-tools-for-efficient-video-capture-on-windows-11-for-2024/"><u>[Updated] Top Tools for Efficient Video Capture on Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-achieving-geometric-brilliance-making-mc-circles-and-spheres/"><u>2024 Approved  Achieving Geometric Brilliance  Making MC Circles & Spheres</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-manual-for-individualized-keybindings-in-win11/"><u>A Detailed Manual for Individualized Keybindings in Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-narzo-n53-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme Narzo N53 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-mouseclicklock-usability-on-windows-systems/"><u>Boosting MouseClickLock Usability on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-malware-scanners-hang-up-compute-resources/"><u>Can Malware Scanners Hang Up Compute Resources?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx490-software-downloads-find-the-most-recent-version-compatible-with-windows-os/"><u>Canon MX490 Software Downloads: Find the Most Recent Version Compatible with Windows OS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/club-anthems-expertly-curated-dj-vids-downloads/"><u>Club Anthems  Expertly Curated DJ Vids Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confusion-in-xbox-app-gaming-placement/"><u>Confusion in Xbox App Gaming Placement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convergence-of-ios-and-windows-using-apple-maps-effectively/"><u>Convergence of iOS and Windows: Using Apple Maps Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-hdd-invisibility-glitches/"><u>Correcting HDD Invisibility Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-personalized-windows-11-interface-with-enlarged-icons/"><u>Crafting a Personalized Windows 11 Interface with Enlarged Icons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-steps-clearing-out-facebook-connections-in-your-iphones-contact-list/"><u>Easy Steps: Clearing Out Facebook Connections in Your iPhone's Contact List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-seamless-web-access-via-win-os/"><u>Ensuring Seamless Web Access via Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-operation-fixing-windows-notepad-crashes/"><u>Ensuring Smooth Operation: Fixing Windows Notepad Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-value-not-available-issue-in-windows/"><u>Eradicating Value Not Available Issue in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hidden-treasures-found-the-guide-to-recover-lost-features-in-windows-11/"><u>Hidden Treasures Found: The Guide to Recover Lost Features in Window’s 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-signature-to-a-pdf-v12-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add signature to a PDF v1.2 document</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-product-activation-failed-error-on-microsoft-office-apps-for-windows/"><u>How to Fix the Product Activation Failed Error on Microsoft Office Apps for Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-hd-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 HD Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-cropping-skills-for-image-clarity/"><u>In 2024, Advanced Cropping Skills for Image Clarity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-ephemeral-echoes-of-facebook/"><u>In 2024, Ephemeral Echoes of Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-transfer-windows-11-auto-move-techniques/"><u>Mastering File Transfer: Windows 11 Auto-Move Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-the-minutes-windows-system-synchronized/"><u>Mend the Minutes: Windows System Synchronized</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-windows-appearance-with-popular-photographs/"><u>Personalize Windows' Appearance with Popular Photographs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-address-retrieve-settings-error-on-winx/"><u>Quick Steps to Address Retrieve Settings Error on WinX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-options-with-precision/"><u>Restoring Lost Display Options with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-a-non-responsive-mouse-on-windows-computers/"><u>Resurrecting a Non-Responsive Mouse on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-implementation-of-updater-in-win11-version-22h2/"><u>Seamless Implementation of Updater in WIN11 Version 22H2</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/speedy-retrieval-of-snap-archive-for-2024/"><u>Speedy Retrieval of Snap Archive for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-enabling-task-managers-quick-find-feature-on-win11/"><u>Step-by-Step Guide: Enabling Task Manager's Quick Find Feature on Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-fix-and-update-your-elan-smbus-driver-in-windows/"><u>Step-by-Step Instructions to Fix and Update Your ELAN SMBus Driver in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-mechanism-behind-windows-sound-graph-isolation/"><u>The Mechanism Behind Windows Sound Graph Isolation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-avoid-dark-screen-while-playing-winos-titles/"><u>Tips to Avoid Dark Screen While Playing WINOS Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-mouse-gurus-autoclick-wonders-on-windows-pcs/"><u>Top 5 Mouse Gurus: Autoclick Wonders on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-flawless-gameplay-combat-apex-legends-freezes/"><u>Unleash Flawless Gameplay: Combat Apex Legends Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-users-reasons-for-skipping-version-11/"><u>Windows 10 Users – Reasons for Skipping Version 11?</u></a></li>
+</ul></div>

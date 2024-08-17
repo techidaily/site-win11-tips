@@ -1,7 +1,7 @@
 ---
 title: Resolve Non-Scrolling Issue in Microsoft Excel PC
-date: 2024-07-12T17:17:35.793Z
-updated: 2024-07-13T17:17:35.793Z
+date: 2024-08-16T01:50:08.059Z
+updated: 2024-08-17T01:50:08.059Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
 ![Screenshot of On Screen Keyboard with Scroll Lock key highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scrlk.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Unfreeze Panes
 
  Microsoft Excel allows you to freeze specific parts of the sheet so that they remain visible even as you scroll through the sheet. This might create the false impression that your Excel sheet isn’t scrolling correctly. To avoid any confusion, you can unfreeze panes in your worksheet by following the steps below.
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
  Following this, your Excel spreadsheet should scroll as expected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
  Is your Microsoft Excel spreadsheet zooming in or out when you try to scroll through it? That could happen if you have enabled the "Zoom on roll with IntelliMouse" option in Excel. Here’s how to turn it off.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 5. Clear the **Zoom on roll with IntelliMouse** checkbox.
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 4\. Enable Scroll Bars
 
@@ -68,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 4. Tick the checkboxes that read **Show horizontal scroll bar** and **Show vertical scroll bar**.
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. AutoFit Row Height in Excel
 
@@ -78,7 +90,13 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 3. Switch to the **Home** tab.
 4. Select **Format > AutoFit Row Height**.  
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -112,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 * **Repair Excel Workbook:** If you are unable to scroll in Excel only while working on a specific workbook, there may be an issue with the file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Check if the Shift Key Is Stuck:** Another reason why you might not be able to scroll in Excel is if the Shift key is stuck on your Windows computer. Carefully examine the Shift key on your keyboard for any dirt or damage, and take the appropriate actions to resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing Scrolling Issues in Microsoft Excel
 
  Being unable to scroll through your Excel spreadsheets can be a major inconvenience. Hopefully, one or more of the above solutions has helped you resolve the scrolling issues in Excel for Windows, and you are now able to navigate your spreadsheet smoothly again.
@@ -131,3 +152,44 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mobile-music-mayhem-selecting-distorted-apps/"><u>[New] 2024 Approved  Mobile Music Mayhem  Selecting Distorted Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-bio-linking-a-complete-system-on-tiktok/"><u>[New] Perfecting Bio Linking  A Complete System on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-zooms-visual-impact-smart-filters-use/"><u>[New] Perfecting Zoom's Visual Impact  Smart Filters Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[Updated] In 2024, Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-epic-game-viewing-spots-1-9/"><u>2024 Approved  Epic Game Viewing Spots #1-#9</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-ingenious-ways-to-delete-a-drives-segmentation-in-windows/"><u>4 Ingenious Ways to Delete a Drive's Segmentation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-no-such-interface-supported-error-in-windows/"><u>5 Ways to Fix the No Such Interface Supported Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-secure-boot-state-unsupported-error-in-windows/"><u>5 Ways to Fix the Secure Boot State Unsupported Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-correcting-entry-not-found-message/"><u>A Guide to Correcting 'Entry Not Found' Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-efficient-language-switching-in-windows-11/"><u>A Guide to Efficient Language Switching in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-probing-program-hideouts-in-windows/"><u>A Practical Approach to Probing Program Hideouts in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-spark-20-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Spark 20 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-new-windows-pin/"><u>A Step-by-Step Approach to New Windows PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-fingerprint-authentication-in-windows-11/"><u>Activating Fingerprint Authentication in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-blank-screens-on-system-ignition/"><u>Addressing Blank Screens on System Ignition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-faulty-volume-adjustment-sliders/"><u>Addressing Faulty Volume Adjustment Sliders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-frozen-windows-guard-in-windows-11/"><u>Addressing Frozen Windows Guard in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-absentee-tab-button-on-your-pc/"><u>Addressing the Absentee Tab Button on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-homescreen-links-without-changing-start-menu/"><u>Adjust Homescreen Links without Changing Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-windows-protection-integrating-additional-firewall-settings-into-context-menu/"><u>Amplifying Windows Protection: Integrating Additional Firewall Settings Into Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-address-roblox-glitches/"><u>Approaches to Address Roblox Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-the-journey-always-command-prompt-admin-style/"><u>Automate the Journey: Always Command Prompt, Admin Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-downtime-disaster-essential-steps-for-checking-windows-11-device-availability/"><u>Avoid Downtime Disaster: Essential Steps for Checking Windows 11 Device Availability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-frustration-easily-setup-icloud-on-windows-pc/"><u>Avoid Frustration: Easily Setup iCloud on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beating-the-bug-the-comprehensible-guide-for-resolving-error-0x800700e9-in-xbox-game-pass-and-windows-11/"><u>Beating the Bug: The Comprehensible Guide for Resolving Error 0X800700E9 in Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-steam-downloads-combatting-speedy-slowdowns/"><u>Boosting Steam Downloads: Combatting Speedy Slowdowns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crystal-crisp-playback-ps5s-favorite-hdmi-21-displays/"><u>Crystal Crisp Playback  PS5's Favorite HDMI 2.1 Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-dialogues-unveiling-truth-about-ai-bot-capabilities/"><u>Dissecting Dialogues: Unveiling Truth About AI Bot Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-civ-vi-game-crashes-with-these-proven-troubleshooting-steps/"><u>Fix Your Civ VI Game Crashes with These Proven Troubleshooting Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-average-to-amazing-8-tactics-for-exciting-unboxing-reels/"><u>From Average to Amazing  8 Tactics for Exciting Unboxing Reels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-palm-2-elevates-googles-bard-ai-7-key-improvements-unveiled/"><u>How PaLM 2 Elevates Google's Bard AI: 7 Key Improvements Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719274715388-how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually with Obsidian Canvas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719355808573-how-to-reactivate-and-rescue-non-responsive-printer-feature-via-win-plus-p-in-windows/"><u>How to Reactivate and Rescue Non-Responsive Printer Feature via Win + P in Windows.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Play 40C Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-new-youtube-earnings-landscape/"><u>Navigating the New YouTube Earnings Landscape</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-13-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 13 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719334255604-win11-chrome-issues-jumpstart-solution-suggestions/"><u>Win11 Chrome Issues? Jumpstart Solution Suggestions</u></a></li>
+</ul></div>

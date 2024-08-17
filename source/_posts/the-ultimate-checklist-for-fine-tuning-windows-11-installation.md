@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Fine-Tuning Windows 11 Installation
-date: 2024-07-12T17:07:19.632Z
-updated: 2024-07-13T17:07:19.632Z
+date: 2024-08-16T02:00:31.898Z
+updated: 2024-08-17T02:00:31.898Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,14 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Set Up Nearby Sharing
 ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out [how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
@@ -48,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly [hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Enable Storage Sense to Manage Your Memory Better
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
 
@@ -57,9 +66,15 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ## 5\. Enable Find My Device to Track Your PC
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out [how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Tweak the Night Light Setting to Get Better Sleep
 
  One of the reasons for your inability to get to sleep at night could be that you are using your PC at nighttime. To be more specific, blue light emitting from the display is responsible for your sleeping difficulties. If you can not avoid using your PC during the nighttime, the**Night light** setting in Windows 11 can reduce the exposure of blue light to your eyes, thus helping you get better sleep at night. To find and enable it, follow the below steps:
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 1. Open the**Settings** app.
 2. Navigate to**System** \>**Display** \>**Night light** .  
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
 
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
@@ -76,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  If you used Windows 10 previously, you might already be familiar with Active hours. The feature is meant to give you more control over Windows updates.
 
 ![Active Hours](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-active-hours-edit.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
@@ -118,3 +139,47 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>[New] From Viral Beats to Ringtones  Transforming TikTok Sounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>[New] Voice of Vogue  Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig/"><u>[Updated] Expert Trackers for Social Media Hashes in FB, Tweet & IG</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-novel-strategies-for-captivating-fb-video-marketing-for-2024/"><u>[Updated] Novel Strategies for Captivating FB Video Marketing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proactive-measures-for-managing-comments-on-educational-videos/"><u>[Updated] Proactive Measures for Managing Comments on Educational Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-105-classic-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia 105 Classic to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/android-device-to-windows-microphone-setup/"><u>Android Device to Windows Microphone Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-windows-application-net-error-message/"><u>Correcting the Windows Application .NET Error Message</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unlock-disks-in-w10-and-w11/"><u>Essential Steps to Unlock Disks in W10 & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-guide-lost-d3dx939dll-in-windows-11-os/"><u>Fix Guide: Lost D3DX9_39.dll in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-inactive-icons-on-the-desktop-bar/"><u>Fixing Inactive Icons on the Desktop Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/implementing-edthemes-in-windows-11/"><u>Implementing EdThemes in Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 12 to Android | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-explore-the-finest-ios-solutions-for-psp-emulation/"><u>In 2024, Explore the Finest iOS Solutions for PSP Emulation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-4g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 4G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-itop-screen-recorder-essential-or-excessive/"><u>In 2024, ITop Screen Recorder - Essential or Excessive?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Reno 11 Pro 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-freeing-up-your-c-drive-space/"><u>Mastering the Art of Freeing Up Your C: Drive Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-to-start-windows-11s-admin-powershell-instance/"><u>Method to Start Windows 11'S Admin PowerShell Instance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-windows-error-loadlib-err-87/"><u>Mitigating Windows Error LoadLib Err 87</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsoft-pc-manager-bar-tools-on-w11/"><u>Navigating Microsoft PC Manager Bar Tools on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-failure-to-install-win11s-v22h2-update/"><u>Navigating Through Failure to Install Win11's V22H2 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-interface-adding-portable-software-to-w11/"><u>Optimize Your Interface: Adding Portable Software to W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internet-unreachability-issue/"><u>Overcoming Internet Unreachability Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-modifying-windows-passcode/"><u>Quick Tips for Modifying Windows Passcode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-lost-window-steam-connectivity/"><u>Restoring Lost Window-Steam Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-standard-power-profile/"><u>Restoring Windows' Standard Power Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-internal-builds-in-windows-11/"><u>Safeguarding Internal Builds in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-turn-off-lurking-apps-in-window-11/"><u>Secrets to Turn Off Lurking Apps in Window 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-needed-parts-error-on-windows-1011-systems/"><u>Solving Needed Parts Error on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-guide-for-converting-cr2-images-to-windows-jpeg-files/"><u>Stepwise Guide for Converting CR2 Images to Windows JPEG Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-apex-legends-crashes-w11/"><u>Strategies to Prevent Apex Legends Crashes W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-manage-disks-keyways-into-windows-11s-storage-manager/"><u>Swiftly Manage Disks: Keyways Into Windows 11'S Storage Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-windows-camera-problems-with-expert-tips/"><u>Tackle Windows Camera Problems with Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-multiple-users-ms-logins-on-pc/"><u>Tackling Multiple Users' MS Logins on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/traverse-backward-commanding-windows-11-history/"><u>Traverse Backward: Commanding Windows 11 History</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719237818540-trouble-with-compatibility-try-these-straightforward-fixes-now/"><u>Trouble with Compatibility? Try These Straightforward Fixes Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unzipping-challenge-managing-multiple-compressed-files-in-a-snap/"><u>Unzipping Challenge: Managing Multiple Compressed Files in a Snap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workarounds-to-manipulate-windows-11-sleepwake/"><u>Workarounds to Manipulate Windows 11 Sleep/Wake</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Fixing Failed DirectX File Downloads on PCs
-date: 2024-07-12T17:35:52.421Z
-updated: 2024-07-13T17:35:52.421Z
+date: 2024-08-16T01:31:19.773Z
+updated: 2024-08-17T01:31:19.773Z
 tags:
   - windows10
   - windows11
@@ -42,11 +42,17 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 ![Go to Advanced Network Settings in Network and Internet Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-advanced-network-settings-in-network-and-internet-tab-of-windows-settings-app.jpg)
 4. Click the**Disable** button next to the internet connection you are using.  
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
 ![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Flush the DNS Cache and Reset the Network Settings
 
  Your next step should be to flush the DNS cache and reset the network settings. Performing a DNS cache flush clears the old records in the cache. Similarly, resetting the network connection eliminates the likelihood of a misconfigured network setting causing the issue. Follow these steps to perform both fixes:
@@ -58,9 +64,15 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 netsh winsock reset`
 
 ![Run Certain Commands in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-certain-commands-in-windows-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ##
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 5\. Temporarily Disable the Microsoft Defender Firewall
 
  Provided that you grant the DirectX setup file administrative rights, the installation should run smoothly without any problems. If the error persists despite that, Microsoft Defender could be interfering with the installation process—-it's common for the security suite to become overprotective when operating system changes are made.
@@ -69,6 +81,9 @@ netsh winsock reset`
 
  Remember to re-enable both settings after following the rest of the steps, as keeping them enabled is essential for the security of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Ensure the .NET Framework Is Properly Installed and Functional
 
  The .NET framework must be fully functional for DirectX to be installed successfully. If it isn't installed (which is highly unlikely) or has gone corrupted, you will encounter unforeseen issues installing new Windows components and running existing applications.
@@ -88,10 +103,16 @@ netsh winsock reset`
 4. Run the setup file and accept the agreement by clicking**Yes** .
 5. Click**Browse** and select the location of the folder on your desktop. Click**OK** after selecting it.  
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 6. Then, click**OK** in the**DirectX** window, and its files will be extracted to the desktop folder.  
 ![Click OK in the DirectX Installation Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-click-ok-in-the-directx-installation-window.jpg)
 7. Now, locate**DXSetup** in the folder.  
 ![Locate DXSetup File in the DirectX Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-locate-dxsetup-file-in-the-directx-folder-in-windows-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 8. Run the setup file and follow the on-screen instructions. Hopefully, it will be installed successfully this time.
 
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
@@ -119,3 +140,50 @@ netsh winsock reset`
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-audifreextract-2024-comprehensive-user-experience-report/"><u>[New] AudiFreeXtract 2024  Comprehensive User Experience Report</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>[New] The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-costlesscapture-revolutionizing-how-you-record-play/"><u>[Updated] CostlessCapture  Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-superior-5-digital-capture-devices-for-2024/"><u>[Updated] Superior 5 Digital Capture Devices for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightning-loop-top-10-agile-games-on-mobilepc/"><u>2024 Approved  Lightning Loop  Top 10 Agile Games on Mobile/PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>2024 Approved  ScreenSavers Supreme  Mastering the Art of TwitVid Archiving</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>2024 Approved  Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-magic-5-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Magic 5 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-mold-reinventing-yourself-with-a-new-username-in-windows-11/"><u>Breaking the Mold: Reinventing Yourself with a New UserName in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-your-gaming-adventures-with-steam/"><u>Capture Your Gaming Adventures with Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-moto-g-powers-unmatched-endurance-and-superior-capability/"><u>Comprehensive Review: Moto G Power's Unmatched Endurance & Superior Capability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-game-learning-windows-shorthand/"><u>Elevate Your Computer Game: Learning Windows Shorthand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-aesthetics-activating-color-management-in-win11/"><u>Empowering Aesthetics: Activating Color Management in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-flickering-mouse-in-windows/"><u>Eradicating Flickering Mouse in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-audio-on-your-windows-7-computer/"><u>Fixing Issues: How To Restore Audio on Your Windows 7 Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-nonstop-techsign-in-issues-in-ms-teams-windows/"><u>Fixing Nonstop TechSign In Issues in MS Teams Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-theory-to-canvas-color-essentials-for-2024/"><u>From Theory to Canvas  Color Essentials for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-installing-intel-wi-fi-and-lan-drivers-in-windows/"><u>Guide: Installing Intel Wi-Fi & LAN Drivers in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-windows-spotlight-picture-whenever-you-want/"><u>How to Change the Windows Spotlight Picture Whenever You Want</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-the-power-button-from-the-start-menu-on-windows-11-and-11/"><u>How to Hide the Power Button From the Start Menu on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-the-forgotten-windows-start-menu/"><u>How to Reactivate the Forgotten Windows Start Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>In 2024, Unseen Watcher’s Manual  How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-the-pulse-of-internet-stability-at-work/"><u>Keeping the Pulse of Internet Stability at Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-the-way-in-qr-decoding-with-your-windows-machine/"><u>Leading the Way in QR Decoding with Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-the-power-of-combined-android-and-windows-11-displays/"><u>Leveraging the Power of Combined Android & Windows 11 Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-superuser-access-a-step-by-step-guide/"><u>Mastering Superuser Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-transparent-taskbars-on-win11/"><u>Mastering the Art of Transparent Taskbars on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-copilot-unveiled-revolutionizing-the-development-process/"><u>Microsoft Copilot Unveiled: Revolutionizing the Development Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-tablet-navigation-a-guide-to-windows-11s-taskbar/"><u>Optimizing Tablet Navigation: A Guide to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit/"><u>Perfect Precision with Zoom  Your Ultimate YouTube Live Stream Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-no-powershell-found-on-your-windows-device/"><u>Remedies for No PowerShell Found on Your Windows Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/security-audit-are-there-gaps-in-chatgpt/"><u>Security Audit: Are There Gaps in ChatGPT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-with-top-3d-painting-shortcuts/"><u>Streamline Your Workflow with Top 3D Painting Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-fixes-for-microsoft-store-crash-code-error-0x80072efd/"><u>Swift Fixes for Microsoft Store Crash Code Error 0X80072EFD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-truth-behind-the-blue-screen-of-death-bsod-everything-you-need-to-know/"><u>The Truth Behind the Blue Screen of Death (BSOD) - Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-with-ease-a-guide-for-surface-computer-owners/"><u>Update with Ease: A Guide for Surface Computer Owners</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-webm-to-mp3-converters-expert-recommendations/"><u>Updated In 2024, Best WebM to MP3 Converters Expert Recommendations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-shortcut-for-seamless-sticky-note-entry/"><u>Win11's Shortcut for Seamless Sticky Note Entry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-taskbar-not-hiding-solved/"><u>Windows 10 Taskbar Not Hiding [Solved]</u></a></li>
+</ul></div>

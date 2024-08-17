@@ -1,7 +1,7 @@
 ---
 title: "Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11"
-date: 2024-07-12T17:24:39.493Z
-updated: 2024-07-13T17:24:39.493Z
+date: 2024-08-16T01:42:44.367Z
+updated: 2024-08-17T01:42:44.367Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,24 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 3. Then look for any Discord-related processes.
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 5. Open Windows Explorer with**Win + E** .
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
@@ -71,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 6. Open up the [download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -87,9 +101,15 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 1. To access Windows Security, double-click its shield icon on the system tray.
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Click**Manage Settings** to view the options.
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
@@ -99,9 +119,15 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 2. Input**services.msc** inside Run’s**Open** command box.
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Press the service’s**Start** button.
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
@@ -133,3 +159,52 @@ thumbnail: https://thmb.techidaily.com/98b85ce6d797323413c6bf7e018c1d8e6594fdbbf
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-speech-reader-feedback-summary/"><u>[New] In 2024, Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-optimize-instagram-posts-with-smart-hashtag-selection-tactics/"><u>[New] Optimize Instagram Posts with Smart Hashtag Selection Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimal-8-capture-tools-without-delay/"><u>[Updated] In 2024, Optimal 8 Capture Tools Without Delay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-earnings-unveiled-average-adsense-payments-per-thousand-views/"><u>[Updated] In 2024, Youtube Earnings Unveiled  Average AdSense Payments Per Thousand Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ringtone-choices-essential-downloads-guide/"><u>[Updated] Top Ringtone Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/23-key-metaverse-implementations-unveiling-future-prospects-for-2024/"><u>23 Key Metaverse Implementations Unveiling Future Prospects for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/classification-of-fb-video-sizes/"><u>Classification of FB Video Sizes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-the-noise-wake-on-idle-restarts-in-w10w11/"><u>Cutting the Noise: Wake on Idle Restarts in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-rectifying-windows-steam-e84-problems/"><u>Decoding and Rectifying Windows Steam E84 Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-selecthighlight-issues-in-pdfs-on-windows-pcs/"><u>Fix Select/Highlight Issues in PDFs on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-folder-permissions-on-windows-11/"><u>Fixing Steam Folder Permissions on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-nostalgic-handheld-gaming-to-cutting-edge-chatbots-and-building-a-winning-pc-rig/"><u>From Nostalgic Handheld Gaming to Cutting-Edge ChatBots & Building a Winning PC Rig</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-procedure-calls-failure-in-malwarebytes-on-win10win11/"><u>How to Correct Procedure Calls Failure in Malwarebytes on Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-override-microsofts-antivirus-exclusivity-measures/"><u>How to Override Microsoft's Antivirus Exclusivity Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-file-corruption-problems-error-0x80070570-on-windows-11/"><u>How to Tackle File Corruption Problems (Error 0X80070570) on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-se-2020-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action/"><u>In 2024, Highest Priority List  Best 10 Apps for Live Baseball & Basketball Action</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-90-gt-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 90 GT Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-automated-iphone-podcast-downloads/"><u>In 2024, Step-By-Step Guide to Automated iPhone Podcast Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-fix-a-non-reactive-windows-download-folder/"><u>Methods to Fix a Non-Reactive Windows Download Folder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preempt-potential-problems-installing-virtualbox-on-win-with-care/"><u>Preempt Potential Problems: Installing VirtualBox on Win with Care</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-to-fix-file-or-directory-is-corrupt-error-x70-in-windows/"><u>Proven Methods To Fix 'File or Directory Is Corrupt' Error X70 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-rectify-0x80072af9-on-windows-os/"><u>Quick Guide to Rectify 0X80072AF9 on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-working-activation-numbers-in-win11/"><u>Reinstating Working Activation Numbers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-black-screen-crisis-in-win-based-playing/"><u>Remedies for Black Screen Crisis in Win-Based Playing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-device-conflicts-no-more-in-use-name-woes/"><u>Resolve Windows Device Conflicts: No More In-Use Name Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-excel-files-unreadable-in-windows-notepad/"><u>Resolve: Excel Files Unreadable in Windows Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-error-caused-by-intrusive-windows-software/"><u>Resolving Sign Out Error Caused by Intrusive Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-win1011s-recycle-bin-with-these-fixes/"><u>Revive Your WIN10/11's Recycle Bin with These Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-of-windows-10-effortless-media-importation-methods-for-2024/"><u>Secrets of Windows 10  Effortless Media Importation Methods for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/snapchat-strategies-optimizing-for-business-growth/"><u>Snapchat Strategies  Optimizing for Business Growth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-apps-in-disguise-hurt-your-windows-11-performance/"><u>Stealthy Apps in Disguise Hurt Your Windows 11 Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-language-barriers-use-windows-hotkeys-for-translation/"><u>Streamline Language Barriers: Use Windows Hotkeys for Translation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-with-python-and-windows-server/"><u>Streamlining Data Exchange with Python and Windows Server</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-for-spotify-error-4-windows-11-fixes/"><u>Swift Action for Spotify Error 4: Windows 11 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-for-handling-windows-update-failures-and-errors-0x80070003/"><u>Swift Solution for Handling Windows Update Failures & Errors: 0X80070003</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-budget-friendly-high-definition-action-cams-for-2024/"><u>Ultimate Budget-Friendly High Definition Action Cams for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-creating-your-personalized-email-signature-on-godaddys-web-mail-platform/"><u>Ultimate Guide: Creating Your Personalized Email Signature on GoDaddy's Web Mail Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-media-creation-tool-error-x90017/"><u>Unblocking Windows' Media Creation Tool Error X.90017</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-cdrive-and-ddrive-distinctions/"><u>Understanding C:Drive & D:Drive Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-capabilities-of-claude-2-for-enhanced-performance/"><u>Understanding the Capabilities of Claude 2 for Enhanced Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-importance-of-winservicesexe/"><u>Understanding the Importance of WinServices.exe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-fuller-sounds-4-tools-to-exceed-windows-limit/"><u>Unleash Fuller Sounds: 4 Tools to Exceed Windows' Limit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-walks-unlocking-your-gaming-archives/"><u>Windows Walks: Unlocking Your Gaming Archives</u></a></li>
+</ul></div>

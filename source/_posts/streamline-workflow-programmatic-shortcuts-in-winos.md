@@ -1,7 +1,7 @@
 ---
 title: "Streamline Workflow: Programmatic Shortcuts in WinOS"
-date: 2024-07-12T17:45:48.590Z
-updated: 2024-07-13T17:45:48.590Z
+date: 2024-08-16T01:22:40.228Z
+updated: 2024-08-17T01:22:40.228Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 2. Under the **Shortcut** tab, in the **Shortcut key** field, simply type the shortcut you want to assign to the program and click the OK button.
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
 
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
  Now, when you press the shortcut key combination, the program will be launched.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
  The process is pretty much the same here, with a few extra steps. Here’s how:
@@ -82,15 +88,28 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 3. Make sure the checkbox labeled **Enable Keyboard Manager** is enabled.
 4. Click on **Remap a shortcut**.  
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 5. Then click on the **Add shortcut mapping** button.  
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
 
@@ -109,3 +128,43 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[New] 2024 Approved  Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-editorial-elegance-at-the-end/"><u>[New] 2024 Approved  Editorial Elegance at the End</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-hd-visual-capture-systems-for-2024/"><u>[New] Premier HD Visual Capture Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-sparking-social-media-stories-facebook-fame-techniques-for-2024/"><u>[New] Sparking Social Media Stories  Facebook Fame Techniques for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-breaking-down-the-fastest-green-screen-methods/"><u>[Updated] Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-your-gaming-sessions-recording-made-easy/"><u>2024 Approved  Streamlining Your Gaming Sessions  Recording Made Easy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-an-educational-ambiance-for-windows/"><u>Creating an Educational Ambiance for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-top-windows-platforms-for-ndsswitch-players/"><u>Cutting Edge: Top Windows Platforms for NDS/Switch Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-world-of-usb-20-transmission-rates-cable-types-and-connectors-unveiled/"><u>Deciphering the World of USB 2.0: Transmission Rates, Cable Types, and Connectors Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-file-path-of-your-current-wallpaper/"><u>Discover the File Path of Your Current Wallpaper</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expertly-ranked-editing-software-on-iphones-and-android-devices/"><u>Expertly Ranked Editing Software on iPhones and Android Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-admin-denial-in-cmd-window-on-windows-10/"><u>Fixing Admin Denial in CMD Window on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microsoft-store-error-code-0x80073cf3-in-win10win11/"><u>Fixing Microsoft Store Error Code 0X80073CF3 in Win10/Win11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/focus-on-the-main-sound-in-video-capturing-free-advice-for-2024/"><u>Focus on the Main Sound in Video Capturing (Free Advice) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-window-glass-idleness-exploration/"><u>Fundamentals of Window Glass Idleness Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-error-code-0xc0000005-on-windows-pc/"><u>How to Fix the Error Code 0Xc0000005 on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-downloads-in-chrome-on-your-windows-pc/"><u>How to Recover Lost Downloads in Chrome, on Your Windows PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-proxy-detection-corrections/"><u>Mastering Windows Proxy Detection Corrections</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mpow-universal-bluetooth-software-free-downloads-and-updates-for-windows-1087/"><u>MPOW Universal Bluetooth Software: Free Downloads and Updates for Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-cursor-chaos-win11s-troubleshooting-path/"><u>Navigating Cursor Chaos: Win11's Troubleshooting Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-your-systems-kickstart-area/"><u>Navigating to Your System's Kickstart Area</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/on-demand-video-preservation-for-2024/"><u>On-Demand Video Preservation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-pcs-program-space-allocation/"><u>Optimizing Your PC's Program Space Allocation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinforced-graphics-elevating-edges-protected-mode/"><u>Reinforced Graphics: Elevating Edge's Protected Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-device-disconnect-errors-on-win-11-os/"><u>Remedying Device Disconnect Errors on Win 11 OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-the-ideal-ringtone-for-your-pixel-for-2024/"><u>Selecting the Ideal Ringtone for Your Pixel for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-printer-setbacks-win-10-version/"><u>Streamlining Printer Setbacks, Win 10 Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-upgrade-hurdle-top-7-deterrents-to-windows-11-switching/"><u>The Upgrade Hurdle: Top 7 Deterrents to Windows 11 Switching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-unsignatured-drivers-on-modern-windows/"><u>Tricks for Unsignatured Drivers on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-windows-11s-full-potential-through-taskbar-utilization/"><u>Unleash Windows 11'S Full Potential Through Taskbar Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722024172760-why-go-beyond-basic-with-chatgpt-plus-6-persuasive-reasons-even-when-free-gpt-4-is-available/"><u>Why Go Beyond Basic with ChatGPT Plus - 6 Persuasive Reasons Even When FREE GPT-4 Is Available!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-the-ultimate-alternatives-to-native-software/"><u>Win 11: The Ultimate Alternatives to Native Software</u></a></li>
+</ul></div>

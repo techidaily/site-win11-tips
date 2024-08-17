@@ -1,7 +1,7 @@
 ---
 title: Wipe Out Unfulfilled Criteria Indication in Win11
-date: 2024-07-12T17:35:35.245Z
-updated: 2024-07-13T17:35:35.245Z
+date: 2024-08-16T01:33:05.213Z
+updated: 2024-08-17T01:33:05.213Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
 
  You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
@@ -78,9 +81,15 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 `Local Computer Policy > Computer Configuration > Administrative Templates > System`
 4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
 ![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Next, select and double-click on the policy to open its properties.
 6. Select **Enabled** to enable the policy setting.  
 ![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 7. Click **Apply** and **OK** to save the changes.
 
  Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
@@ -133,6 +142,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
 
  You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
@@ -147,9 +159,15 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 `Local Computer Policy > Computer Configuration > Administrative Templates > System`
 4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
 ![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Next, select and double-click on the policy to open its properties.
 6. Select **Enabled** to enable the policy setting.  
 ![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 7. Click **Apply** and **OK** to save the changes.
 
  Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
@@ -195,6 +213,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
 2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
 ![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
 4. Rename the value as **SV2**.
 5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
@@ -202,6 +223,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
 
  You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
@@ -216,9 +240,15 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 `Local Computer Policy > Computer Configuration > Administrative Templates > System`
 4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
 ![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 5. Next, select and double-click on the policy to open its properties.
 6. Select **Enabled** to enable the policy setting.  
 ![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Click **Apply** and **OK** to save the changes.
 
  Now, you need to restart your computer to apply the changes. After the restart, the "minimum system requirements are not met message" will not be displayed on the desktop.;
@@ -233,6 +263,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  This may not be a concern if you use the OS in a virtual machine. But a watermark can stick out like a sore thumb for most people. Fortunately, you can remove the system requirements not met watermark with a registry hack and the Group Policy Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Does Windows 11 Show the "System Requirements Not Met" Watermark?
 
  Microsoft Windows 11 has a much [stricter hardware requirement](https://www.makeuseof.com/can-your-pc-run-windows-11/) than its predecessors. If your system does not meet the minimum system requirement, including TPM 2.0, the installation will stop abruptly.
@@ -256,6 +289,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 4. In the right pane, right-click on the **SV2 DWORD** value and select **Modify**.
 5. Enter **0** into the value data field.  
 ![Edit sv2 value to remove the system requirement not met watermark.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-sv2-value-remove-system-requirement-not-met-watermark.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 6. Click **OK** to save the changes.
 7. Close the Registry Editor and restart your PC to apply the changes. After restarting, Windows 11 will no longer show the unsupported hardware watermark.
 
@@ -264,6 +300,10 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 1. In Registry Editor, right-click the **Control** key (**HKEY\_CURRENT\_USER\\Control Panel**) and select **New > Key.**
 2. Next, rename the key as **UnsupportedHardwareNotificationCache.**  
 ![Create new key for unsupported hardware notification cache.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/create-new-key-unsupported-hardware-notification-cache.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 3. Next, right-click on the new key and select **New > DWORD (64-bit)** value.
 4. Rename the value as **SV2**.
 5. Next, modify the **SV2 DWORD** value and set its **Value data** to **2**.
@@ -271,6 +311,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
  The watermark may reappear with new updates. So, you must repeat the steps after installing the update to keep your desktop clean.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 2\. Remove the System Requirement Not Met Message Using the Group Policy Editor
 
  You can use the Group Policy Editor to turn off the System requirements not met message in Windows 11\. To achieve this, we’ll need to modify the **Hide messages when Windows system requirements are not met** Group Policy and set it to enabled.
@@ -285,6 +328,9 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 `Local Computer Policy > Computer Configuration > Administrative Templates > System`
 4. In the right pane, scroll down and locate the **Hide messages when Windows system requirements are not met** policy.  
 ![Group policy editor Hide messages when Windows system requirements are not met](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Next, select and double-click on the policy to open its properties.
 6. Select **Enabled** to enable the policy setting.  
 ![Group policy editor Hide messages when Windows system requirements are not met enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-hide-messages-when-windows-system-requirements-are-not-met-enable.jpg)
@@ -317,3 +363,37 @@ HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] 2024 Approved  Free High-Quality YouTube Banner Samples Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-creativity-top-10-insider-canva-tricks/"><u>[Updated] Unlocking Creativity  Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-soundstage-viewing/"><u>2024 Approved  Leading Soundstage Viewing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/android-and-iphones-leading-social-apps-to-skyrocket-likes-on-fb/"><u>Android & iPhone's Leading Social Apps to Skyrocket Likes on FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-touch-input-in-windows-enabledisable-steps/"><u>Configure Touch Input in Windows: Enable/Disable Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x887a0006-for-graphics/"><u>Correcting Error Code 0X887A0006 for Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-to-incorporate-chatgpt-into-remote-workspace-assemblies/"><u>Effective Techniques to Incorporate ChatGPT Into Remote Workspace Assemblies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-vivetool-innovations/"><u>Elevate Your Windows Experience with ViVeTool Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-and-msi-dissecting-software-package-variations/"><u>EXE and MSI: Dissecting Software Package Variations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-solutions-to-unacceptable-connections-in-windows-os/"><u>Finding Solutions to Unacceptable Connections in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-nullify-audio-amplification-in-windows/"><u>Guide to Nullify Audio Amplification in Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-beyond-youtube-with-these-top-5-video-tools/"><u>In 2024, Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>In 2024, From Zero to Meme Hero  Crafting Engaging GIFs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-xr21-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia XR21?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-ai-feature-on-windows-11-microsofts-taskbar-assistant-revolutionizes-productivity/"><u>New AI Feature on Windows 11: Microsoft's Taskbar Assistant Revolutionizes Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recommended-procedures-for-dying-wireless-controller/"><u>Recommended Procedures for Dying Wireless Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-greyed-out-waste-bin-icon-in-win11/"><u>Restoring Greyed Out Waste Bin Icon in Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/selecting-video-editors-filmora-vs-democreator-compared/"><u>Selecting Video Editors  Filmora Vs. Democreator Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-task-scheduler-guide-to-efficient-batch-processing/"><u>The Task Scheduler Guide to Efficient Batch Processing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-future-windows-laptops-top-picks/"><u>The Ultimate Guide to Future Windows Laptops: Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-alter-desktop-icons-separation-in-win-oss/"><u>Title: Alter Desktop Icons' Separation in WIN OSs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-t2-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo T2 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-variability-in-windows-protocols-for-cloud-and-local-reinstallation/"><u>Understanding Variability in Windows Protocols for Cloud and Local Reinstallation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-system-advanced-techniques-to-revise-the-windows-registry-in-command-prompt/"><u>Unlock Your System: Advanced Techniques to Revise the Windows Registry in Command Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-ultimate-toolkit-to-counteract-bsod-on-win10/"><u>Your Ultimate Toolkit to Counteract BSOD on Win10</u></a></li>
+</ul></div>

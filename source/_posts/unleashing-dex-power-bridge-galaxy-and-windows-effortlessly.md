@@ -1,7 +1,7 @@
 ---
 title: "Unleashing DeX Power: Bridge Galaxy & Windows Effortlessly"
-date: 2024-07-12T16:46:36.952Z
-updated: 2024-07-13T16:46:36.952Z
+date: 2024-08-16T02:21:02.183Z
+updated: 2024-08-17T02:21:02.183Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,13 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 4. Wait for the installation to complete and then launch the app.
 
 ![Installing Samsung DeX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/installing-samsung-dex.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Connect Your Samsung Phone Contents Using Samsung DeX on Windows 11
 
  After completing the app installation on Windows, repeat the following steps. Connect your phone to the same Wi-Fi network as your computer. Connect your phone to the PC with the USB cable.
@@ -64,16 +70,25 @@ Close
  Press the **Win** key to open the **App Drawer** and double-click on any app to open it. You can use the arrow keys or click on the arrow icons to move to the next page of the App Drawer.
 
 ![Samsung DeX App Drawer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-app-drawer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  Resizing an app window is identical to how you do it on a Windows PC. You can even pin the app to the top.
 
  To snap an app to one side, click on the app window and press the **Win + Left** or **Right** arrow key. Then you can click on the **blank side** and choose an app for the second half of the DeX screen as well.
 
 ![Samsung DeX Two App Windows side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-two-app-windows-side-by-side.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
  Click on the **Notifications** icon on the Taskbar to view recent ones. You cannot reply to incoming messages on WhatsApp but can **close** or **mark them as read**.
 
 ![Samsung DeX Notification section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-notification-section.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Samsung DeX also supports keyboard shortcuts, and you can simply close an app with **Alt + F4** or view open apps using **Alt + Tab** shortcut. If you want the complete list of supported shortcuts, press the **Win + /** key to open the page. To lock the DeX mode, press the Win key and click on the **Lock DeX** option. It locks both the phone and the DeX app. You will have to enter the **PIN** or use your **fingerprint** to unlock the DeX mode.
 
@@ -86,9 +101,15 @@ Close
  The fun doesn’t stop there. Using a simple drag-and-drop action, you can transfer files from the phone to your PC. It is good enough for small-sized images and documents, but the file transfer speed is very slow if you intend to copy files. To do that, you must disconnect the DeX mode and use the direct file transfer method using the wired connection.
 
 ![Samsung DeX Copying Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-copying-files.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  Samsung DeX for Windows also supports minimizing and resizing. So, you can put the DeX window on one side of your display and use any other app along with it. We love the fact that it supports common Windows shortcuts and even has some custom ones for opening Notifications, File Manager, and other apps on your Samsung Galaxy Phone.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## The Limitations of the Samsung DeX App
 
  The first limitation we felt that was keeping the phone connected to the cable at all times. File Transfer speeds aren’t that good despite being a combination of wired and wireless connection. The weather or the calendar app didn’t launch when we clicked on the date and time section on the DeX taskbar.
@@ -97,6 +118,9 @@ Close
 
  Some actions like clicking the keyboard icon in the DeX app power on the display. The only possible option is to shut the phone display and continue using DeX mode. All these are small kinks that Samsung must figure out in future app versions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Using Your Samsung Device on a Windows PC
 
  Samsung DeX app for Windows brings a few much-awaited features. You can copy text and files and can freely use both keyboard and mouse without relying on a USB hub. The shortcuts make it easy to access and view your apps on a bigger display.
@@ -112,3 +136,46 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-transform-smartphone-capabilities-into-a-professional-yt-channel/"><u>[New] How to Transform Smartphone Capabilities Into a Professional YT Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-laughs-crafting-funny-virtual-memes/"><u>[Updated] Metaverse Laughs  Crafting Funny Virtual Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revamp-iphone-photos-effective-red-eye-removal-for-free/"><u>[Updated] Revamp iPhone Photos  Effective Red-Eye Removal for FREE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laptop-unlock-free-movie-magic-with-these-tools/"><u>2024 Approved  Laptop  Unlock Free Movie Magic with These Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-pc-vr-headsets-2023-update/"><u>2024 Approved  Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-guide-to-ios-photography-apps-x-8/"><u>2024 Approved  Ultimate Guide to iOS Photography Apps (X, 8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bf-price-war-save-612-on-endless-win10-lifetime-life/"><u>BF Price War: Save $6.12 on Endless Win10 Lifetime Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-file-access-failures-in-microsoft-office-outlook/"><u>Correcting File Access Failures in Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-implementing-bluescreenview-strategies/"><u>Detailed Guide to Implementing BlueScreenView Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-barriers-to-running-powershell-scripts-in-windows/"><u>Dismantling Barriers to Running PowerShell Scripts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expanding-horizons-with-vr-filmmaking/"><u>Expanding Horizons with VR Filmmaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-remedying-directdraw-disruptions-in-win1011/"><u>Expert Guide: Remedying DirectDraw Disruptions in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-ahead-with-windows-11-integrating-outlook-preview/"><u>Get Ahead with Windows 11: Integrating Outlook Preview</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-12-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 12 to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-platform-color-consistency/"><u>Mastering Cross-Platform Color Consistency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-personalized-lock-patterns-on-windows-11/"><u>Mastering Personalized Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-flawed-icons-and-menu-items-on-win-1011/"><u>Mastery Over Flawed Icons and Menu Items on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-error-code-0xc00000f-strategies-for-success/"><u>Mastery over Windows Error Code 0Xc00000f: Strategies for Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-paths-of-window-menus-on-pc/"><u>Navigating the Hidden Paths of Window Menus on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-onedrive-errors/"><u>Navigating Through the Complexities of OneDrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-11-adjusting-proxy-preferences/"><u>Navigating Win 11: Adjusting Proxy Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practical-guide-to-disregarding-false-security-alarms-in-chrome/"><u>Practical Guide to Disregarding False Security Alarms in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-network-error-in-windows-11-systems/"><u>Remedying Steam Network Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-page-load-failure-on-microsoft-store-windows-app/"><u>Resolving 'Page Load Failure' On Microsoft Store Windows App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-gmaps-windows-pc-guide/"><u>Setting Up GMaps: Windows PC Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-screen-splitting-problems-in-win-10/"><u>Solutions for Screen Splitting Problems in Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-proxies-on-windows-11/"><u>Step-by-Step: Changing Proxies on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stops-repeated-edge-icons-on-workspace/"><u>Stops Repeated Edge Icons on Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-scheduling-in-windows-11-calendar/"><u>Streamlining Scheduling in Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-c0000005-failure-on-windows-108/"><u>Tackling C0000005 Failure on Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-winning-playbook-strategies-to-eliminate-stutter-in-videos/"><u>The Winning Playbook: Strategies to Eliminate Stutter in Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-synapse-unidentified-razer-peripherals-on-win-11/"><u>Troubleshooting Synapse: Unidentified Razer Peripherals on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vscode-instability-in-windows-11/"><u>Troubleshooting VSCode Instability in Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleashing-revenue-with-review-videos-of-household-items/"><u>Unleashing Revenue with Review Videos of Household Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-windows-settings-dim-display/"><u>Unveiling the Secrets of Windows Settings: 'Dim Display'</u></a></li>
+</ul></div>

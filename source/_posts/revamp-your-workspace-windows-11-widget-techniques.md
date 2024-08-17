@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Workspace: Windows 11 Widget Techniques"
-date: 2024-07-12T17:46:10.818Z
-updated: 2024-07-13T17:46:10.818Z
+date: 2024-08-16T01:21:47.354Z
+updated: 2024-08-17T01:21:47.354Z
 tags:
   - windows10
   - windows11
@@ -68,17 +68,26 @@ To change the size of widgets, follow the below steps:
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
  You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also [tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Tweak the Widget Taskbar Behaviors
 
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
@@ -87,8 +96,14 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Expand the Widgets Panel
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -107,6 +122,9 @@ To expand the widgets panel, follow the below steps:
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
  Windows 11's widgets can be useful if you know how to take advantage of its several functionalities. The above-mentioned tips and tricks are best suited for anyone looking to be a pro at using the feature. But the best experience comes at the expense of your usage data getting into the hands of Microsoft and other third-party players if you are using widgets developed by them.
@@ -130,3 +148,46 @@ To expand the widgets panel, follow the below steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rafting-visual-narratives-with-youtube-studios-editing-suite-for-2024/"><u>[New] Crafting Visual Narratives with YouTube Studio's Editing Suite for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-recmaster-screen-recorder-review-2023/"><u>[Updated] 2024 Approved  Recmaster Screen Recorder Review 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-steps-to-designing-exceptional-youtube-thumbnails-for-2024/"><u>[Updated] Essential Steps to Designing Exceptional YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-facebook-watch-thumbnail-for-2024/"><u>[Updated] Restore Lost Facebook Watch Thumbnail for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-tips-to-take-your-lunapic-skills-up/"><u>[Updated] Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-5700-xt-windows-11-10-8-7/"><u>AMD RX 5700 XT 드라이버 - Windows 11, 10, 8 및 7 가용성</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-w11-taskbar-functionality/"><u>Boosting W11 Taskbar Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-ram-virtual-memory-strategies/"><u>Boosting Windows 11 RAM: Virtual Memory Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breach-sign-in-blockage-steps-to-reunite-with-microsoft/"><u>Breach Sign-In Blockage: Steps to Reunite with Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-default-security-levels/"><u>Breaking Through Default Security Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-stuck-windows-applications/"><u>Breathe Life Back Into Stuck Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-windows-services-manager-with-these-top-7-tricks/"><u>Breathe Life Into Your Windows Services Manager with These Top 7 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-outdated-bios-features/"><u>Breathing Life Into Outdated BIOS Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-windows-11-troubleshooting-tools/"><u>Breathing Life Into Your Windows 11 Troubleshooting Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-between-androidios-and-windows-mic-functionality/"><u>Bridge Between Android/iOS and Windows Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-network-prompts-for-seamless-connections/"><u>Bridging Gaps in Network Prompts for Seamless Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-using-samsung-flow-for-device-synergy/"><u>Bridging Gaps: Using Samsung Flow for Device Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-generations-of-tech-moving-software-from-previous-windows/"><u>Bridging Generations of Tech: Moving Software From Previous Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-for-faulty-windows-batch-file-operations/"><u>Bridging the Gap for Faulty Windows Batch File Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-lost-ctrl-operability-with-these-tips-for-windows-11/"><u>Bring Back Lost Ctrl Operability with These Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-your-games-home-integrating-android-into-windows-11s-ecosystem/"><u>Bring Your Games Home: Integrating Android Into Windows 11'S Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-new-life-to-elders-pcs-windows-11-to-go-and-rufus-techniques/"><u>Bringing New Life to Elders PCs: Windows 11, To Go, and Rufus Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-wi-fi-anomalies-in-windows-10-using-these-simple-remedies/"><u>Bypass Wi-Fi Anomalies in Windows 10 Using These Simple Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-settings-app-failures-effectively/"><u>Bypass Windows Settings App Failures Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-fatal-0x800f0831-in-winos/"><u>Bypassing Fatal 0X800F0831 in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-outlooks-error-0x80040610-your-step-by-step-guide/"><u>Bypassing Outlook's Error 0X80040610: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-denied-window-message/"><u>Bypassing Permission Denied Window Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-cant-add-your-folder-now-hiccup-in-windows-onedrive/"><u>Bypassing the 'Can't Add Your Folder Now' Hiccup in Windows OneDrive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-cortana-on-windows-11/"><u>Ceasing Cortana on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/celestial-mastery-revealed-unlocking-god-mode-in-windows-11/"><u>Celestial Mastery Revealed: Unlocking God Mode in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-display-axis-in-windows-interface/"><u>Change Display Axis in Windows Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-graphics-card-drivers-for-your-amd-radeon-r9-on-a-window-os/"><u>How to Install New Graphics Card Drivers for Your AMD Radeon R9 on a Window OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>In 2024, Versatile Online Creations  Simple and Inclusive Ideas for Your First Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-black-void-solutions-for-fallout-4-display-malfunction/"><u>Overcoming the Black Void: Solutions for Fallout 4 Display Malfunction</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-oppo-find-n3-flip-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Oppo Find N3 Flip.</u></a></li>
+</ul></div>

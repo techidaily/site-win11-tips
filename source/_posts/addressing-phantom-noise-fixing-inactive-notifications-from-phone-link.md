@@ -1,7 +1,7 @@
 ---
 title: "Addressing Phantom Noise: Fixing Inactive Notifications From Phone Link"
-date: 2024-07-12T17:54:01.206Z
-updated: 2024-07-13T17:54:01.206Z
+date: 2024-08-16T01:14:03.073Z
+updated: 2024-08-17T01:14:03.073Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,13 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3\. Allow Phone Link App to Run in the Background
 
  On Windows, you can block specific apps from running in the background and using system resources. If you have previously restricted the Phone Link app from working in the background, it will fail to sync notifications. As a result, you won't receive any notifications for calls, messages, or other app alerts.
@@ -61,9 +67,15 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 5. Click the**three-dot menu icon** next to the app and select**Advanced options** .
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Phone Link to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-phone-link-to-run-in-the-background-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 
  Is the background app permission options missing from the Settings app? Here's [how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 4\. Disable Battery Saver Mode
 
  Enabling the battery-saver mode on Windows can extend the battery life of your laptop by a few extra hours. However, this feature can also prevent apps like Phone Link from syncing data and displaying notifications. To avoid such issues, it’s best to disable the battery-saver mode on Windows.
@@ -75,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
 
@@ -89,6 +104,9 @@ To disable the Do Not Disturb mode, use these steps:
 3. Turn off the toggle next to**Do not distrub** .
 4. Expand the**Turn on do not disturb automatically** and clear all the checkboxes.  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 6\. Unlink and Link Your Phone Again
 
@@ -98,6 +116,9 @@ To disable the Do Not Disturb mode, use these steps:
 2. Click the**gear icon** in the top right corner to visit the settings menu.
 3. In the**My Devices** tab, click the three-dot menu icon next to your phone and select**Remove** .  
 ![Unlink Device From Phone Link App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-device-from-phone-link-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart the Phone Link app and follow the on-screen instructions to pair your device again. After that, check if your notifications work.
 
@@ -140,3 +161,44 @@ To disable the Do Not Disturb mode, use these steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-winning-with-windows-videos-tips-for-enhancing-vimeo-feeds/"><u>[New] In 2024, Winning with Windows Videos  Tips for Enhancing Vimeo Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-stream-showdown-xsplit-vs-obs/"><u>[New] Live Stream Showdown  XSplit Vs. OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-resolving-common-instagram-video-glitches-for-2024/"><u>[New] Resolving Common Instagram Video Glitches for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-fixes-to-design-delight-canvas-top-10-tips/"><u>[Updated] Quick Fixes to Design Delight  Canva's Top 10 Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-premium-image-on-zoom-via-strategic-filters-for-2024/"><u>[Updated] Securing Premium Image on Zoom via Strategic Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unraveling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video/"><u>[Updated] Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-no-display-available-on-windows-11/"><u>Counteracting 'No Display Available' On Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-red-x-symbols-in-computer-file-systems/"><u>Demystifying Red “X” Symbols in Computer File Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enriching-context-menus-adding-a-diskspace-analyzer-feature/"><u>Enriching Context Menus: Adding a DiskSpace Analyzer Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eternal-trash-bin-configurations-in-your-windows-1011-dock/"><u>Eternal Trash Bin Configurations in Your Windows 10/11 Dock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-a-head-start-at-gameplay-with-winning-tactics-fc-style/"><u>Get a Head Start at Gameplay with Winning Tactics, FC Style</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-make-facetime-style-calls-using-windows-computers/"><u>How Can You Make FaceTime-Style Calls Using Windows Computers?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-spotlight-images-on-your-pcs-lock-screen/"><u>How to Manage Spotlight Images on Your PC's Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-repair-systemsettings-glitches-in-win11/"><u>How to Repair SystemSettings Glitches in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-features-to-consider-when-buying-your-next-gaming-computer/"><u>Key Features to Consider When Buying Your Next Gaming Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-information-on-windows-components-framework-admin-center/"><u>Key Information on Windows' Components Framework Admin Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microphone-windows-11-recording-guide/"><u>Mastering Microphone: Windows 11 Recording Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-repair-tools-crafting-troubleshooter-shortcuts/"><u>Mastering Windows Repair Tools: Crafting Troubleshooter Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-next-leap-after-cortana/"><u>Microsoft's Next Leap After Cortana</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-mkv-to-mp4-transformation-on-windows/"><u>Navigating Through MKV-to-MP4 Transformation on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nircmd-guide-for-power-users-optimize-win-commands/"><u>NirCmd Guide for Power Users: Optimize Win Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reigniting-your-non-responsive-windows-digital-scribe/"><u>Reigniting Your Non-Responsive Windows Digital Scribe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-functional-wastebin-icon-in-windows-11/"><u>Reinstating Functional Wastebin Icon in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seal-the-gap-with-6-key-strategies-reviving-disappearing-windows-in-windows-11/"><u>Seal the Gap with 6 Key Strategies: Reviving Disappearing Windows in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-activating-user-defined-file-access-controls-in-win1011/"><u>Steps for Activating User-Defined File Access Controls in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-windows-service-non-responder-error/"><u>Strategies for Fixing Windows Service Non-Responder Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-efficiency-incorporating-law-filters-into-your-workflow/"><u>Streamlining System Efficiency: Incorporating LAW Filters Into Your Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-try-connection-bluetooth-misfire/"><u>Swift Solution to 'Try Connection' Bluetooth Misfire</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-complicated-update-to-v22h2-process/"><u>Tackling Windows 11'S Complicated Update to V22H2 Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-win11-guide-to-crafting-extractable-sfxs/"><u>The Win11 Guide to Crafting Extractable SFXs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracking-down-image-files-for-windows-11-backgrounds/"><u>Tracking Down Image Files for Windows 11 Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-potential-optimizing-your-system-with-intel-drivers/"><u>Unlocking Potential: Optimizing Your System with Intel Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-wordpad-a-window-guide-to-access/"><u>Unlocking WordPad: A Window Guide to Access</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-timeline-6-ways-to-get-your-systems-timer-running/"><u>Windows Timeline: 6 Ways to Get Your System's Timer Running</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-loaded-screen-woes-lol/"><u>Winning Strategies for Loaded-Screen Woes (LOL)</u></a></li>
+</ul></div>

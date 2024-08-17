@@ -1,7 +1,7 @@
 ---
 title: How to View and Clear the Windows 10 Activity History
-date: 2024-07-12T16:47:07.563Z
-updated: 2024-07-13T16:47:07.563Z
+date: 2024-08-16T02:19:26.625Z
+updated: 2024-08-17T02:19:26.625Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete Your Windows Activity History
 
  You can easily see what data Microsoft stores and how to delete it.
@@ -46,29 +49,60 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 2. Then, click **Privacy**.  
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 3. On the left bar, select **Activity History**.  
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
  This will clear the activity history for the account you're currently using.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
  If you're on Windows 11, the interface may look a little different.
 
 1. When you go to Settings, you'll need to select **Privacy & security** from the left sidebar. From the right pane, you'll need to select **Activity history**.  
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
@@ -82,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to View All Windows 10 Activity History
 
  If you want to view all activity history on Windows 10, you can do so on the [Microsoft account privacy website](https://account.microsoft.com/privacy/). You'll see various categories when you access the website and log in. Each one will take you to a page that shows all the information Microsoft has stored about you relating to that category.
@@ -130,3 +167,42 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-and-simple-access-high-res-youtube-images-for-free-here/"><u>[New] 2024 Approved  Quick & Simple  Access High-Res YouTube Images for Free Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevating-video-reach-the-role-of-smart-backlinking-techniques/"><u>[New] In 2024, Elevating Video Reach  The Role of Smart Backlinking Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-capturer-snappy-windows-snap/"><u>[New] Professional Capturer  Snappy Windows Snap</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-effortless-transition-from-spotify-to-youtube-find-the-best-apps/"><u>[Updated] Effortless Transition From Spotify to YouTube  Find the Best Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users-for-2024/"><u>[Updated] Elevating Social Interactions  A Complete Gif Guide for Snapchat Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rapid-routes-transferring-ios-photos-and-videos/"><u>[Updated] Rapid Routes  Transferring iOS Photos & Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-apowersofts-role-in-screen-capture-analysis-and-comparisons/"><u>2024 Approved  Apowersoft's Role in Screen Capture  Analysis & Comparisons</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-rated-vr-joysticks-unveiled/"><u>2024 Approved  Best-Rated VR Joysticks Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-guide-to-maximizing-your-earnings-with-youtube-and-adsense/"><u>2024 Approved  In-Depth Guide to Maximizing Your Earnings with YouTube & AdSense</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootstrapping-disk-backups-on-your-own/"><u>Bootstrapping Disk Backups on Your Own</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-resolving-connection-problems-for-mb-on-win-oses/"><u>Breaking Barriers: Resolving Connection Problems for MB on Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-formats-mastering-the-art-of-windows-esd-to-iso-conversion/"><u>Bridging Formats: Mastering the Art of Windows' ESD to ISO Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-android-and-windows-webcams/"><u>Bridging the Gap Between Android and Windows Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/briefly-sidestepping-windows-11-security-a-four-step-method/"><u>Briefly Sidestepping Windows 11 Security: A Four-Step Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-errors-on-windows-systems/"><u>Bypassing Permission Errors on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-uninstalling-print-devices-in-win-1011/"><u>Bypassing Restrictions: Uninstalling Print Devices in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-roadblocks-with-microsoft-teams-eradicating-error-code-80080300/"><u>Bypassing Roadblocks with Microsoft Teams: Eradicating Error Code 80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-steam-readwrite-errors-with-ease/"><u>Bypassing Steam Read/Write Errors with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-win11-audio-failure-code-0xc00d36b4/"><u>Bypassing Win11 Audio Failure Code 0xC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-task-sequence-error-0x8007000f/"><u>Bypassing Windows Task Sequence Error 0X8007000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-holiday-vistas-through-creative-panes/"><u>Captivating Holiday Vistas Through Creative Panes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-razer-control-software-on-pcs-compatible-with-win11win8win7xpvista/"><u>Download & Update Razer Control Software on PCs: Compatible with Win11/Win8/Win7/XP/Vista</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-brother-l2540dw-printer-software-on-your-windows-device-get-it-here-now/"><u>Easy Installation of Brother L2540DW Printer Software on Your Windows Device - Get It Here Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-achieve-more-money-from-your-short-videos-on-youtube/"><u>In 2024, Achieve More Money From Your Short Videos on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/sony-xperia-xz-premium-4k-smartphone-review-for-2024/"><u>Sony Xperia XZ Premium 4K Smartphone Review for 2024</u></a></li>
+</ul></div>

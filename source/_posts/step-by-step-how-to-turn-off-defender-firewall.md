@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: How to Turn Off Defender Firewall"
-date: 2024-07-12T17:43:39.126Z
-updated: 2024-07-13T17:43:39.126Z
+date: 2024-08-16T01:24:37.607Z
+updated: 2024-08-17T01:24:37.607Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 
  To ensure maximum security while disabling your firewall, always make sure that other protective measures such as antivirus programs are running in the background. Once these have been taken care of, you can disable the firewall on your Windows 11 PC. Here's how to do this:
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. How to Disable the Firewall Using Windows Security
 
  The Windows Security program allows you to disable the firewall in Windows 11\. It is the most straightforward way to disable Microsoft Defender Firewall and you don’t need to have any additional tools or software installed. Here's how:
@@ -49,9 +52,15 @@ thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056
 2. In the Control Panel, select **System and Security** and then click **Windows Defender Firewall**.
 3. From the left pane, select **Turn Windows Defender Firewall on or off**.  
 ![Turn off the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-through-control-panel.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
 5. Click **OK** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Disable the Firewall Using Command Prompt
 
  If you are comfortable using the command line, then you can also disable your firewall through the Command Prompt. Here’s how:
@@ -89,11 +98,17 @@ netsh advfirewall set allprofiles state off
  To do this, open a PowerShell window as an administrator and run the following commands:
 
 ![Turn Off the Firewall Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-via-powershell.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
  The Group Policy Editor is a powerful system resource that can be used to manage different settings on all Windows computers. With this tool, you can disable your firewall, but it only works with Windows Professional and Enterprise. If you are using Windows Home Edition, you need to [activate the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) in order to access it.
@@ -127,6 +142,9 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
  When you have completed all the steps above, close the Registry Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Disable the Firewall With Ease on Windows
 
  You may want to disable the firewall for testing, developing applications, or playing online games. However, disabling the firewall can have risks, and you should always exercise caution. In case you need to do it, this guide explains multiple ways to do it, such as via Windows Security, Control Panel, Command Prompt, and more.
@@ -150,3 +168,63 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[New] Behind-the-Scenes  Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-photo-and-video-display-apps-from-xi-to-x/"><u>[New] Best Photo & Video Display Apps  From XI to X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximize-productivity-with-zoom-scheduling-techniques/"><u>[New] Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-secretly-share-moments-with-instagram-live/"><u>[Updated] How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveil-exclusive-video-snippets-all-at-zero-cost/"><u>[Updated] In 2024, Unveil Exclusive Video Snippets – All at Zero Cost!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps-for-2024/"><u>[Updated] NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps] for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-strategies-for-splendid-colors-in-gopro-videos/"><u>[Updated] Step-by-Step Strategies for Splendid Colors in GoPro Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-review-demystifying-googles-podcast-app/"><u>[Updated] Total Review  Demystifying Google's Podcast App</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>2024 Approved  Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luminance-hd-evaluation-the-ultimate-decision/"><u>2024 Approved  Luminance-HD Evaluation  The Ultimate Decision?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-luminous-leadership-elevating-content-through-insta-hits/"><u>2024 Approved  Luminous Leadership  Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-superior-online-sound-devices-ranked-for-recording-2023/"><u>2024 Approved  Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-efficiency-5-best-apps-to-create-animated-clock-screen-savers-on-pcs/"><u>Accelerate Efficiency: 5 Best Apps to Create Animated Clock Screen Savers on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/acer-xfa240-evaluation-prioritizing-usability-in-display-design/"><u>Acer XFA240 Evaluation: Prioritizing Usability in Display Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-user-dissatisfaction-with-microsofts-latest-update/"><u>Decoding User Dissatisfaction with Microsoft's Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-edge-linger-handling-windows-11-background-tasks/"><u>Does Edge Linger? Handling Windows 11 Background Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-to-follow-pathway-accessing-wordpad-on-pcs/"><u>Easy-to-Follow Pathway: Accessing WordPad on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ram-management-for-effective-cross-platform-communication/"><u>Efficient RAM Management for Effective Cross-Platform Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-speed-status-in-windows-desktop-area/"><u>Effortless Speed Status in Windows Desktop Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-study-experience-dive-into-asus-vivobook-s-15/"><u>Elevate Your Study Experience: Dive Into ASUS Vivobook S 15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/engage-your-phones-dialer-with-ease-windows-11/"><u>Engage Your Phone's Dialer with Ease, Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-user-experience-customizing-windows-11-defaults/"><u>Enhancing Your User Experience: Customizing Windows 11 Defaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-tools-that-outperform-snipping-tool/"><u>Essential Non-Windows Tools That Outperform Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-rectifying-obs-studio-server-connectivity-hiccups/"><u>Essential Tips for Rectifying OBS Studio Server Connectivity Hiccups</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-guide-finding-quality-phone-stores-with-unbeatable-deals/"><u>Expert Guide: Finding Quality Phone Stores with Unbeatable Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-zip-compression-issues-quickly/"><u>Fixing Windows 11'S Zip Compression Issues Quickly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disrupt-a-persistent-dark-theme-on-windows/"><u>How to Disrupt a Persistent Dark Theme on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-10-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 10 & 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-inside-the-tech-top-reviews-for-home-videotaping-tools/"><u>In 2024, Inside the Tech  Top Reviews for Home Videotaping Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unbeatable-youtube-video-titling-assistant/"><u>In 2024, Unbeatable YouTube Video Titling Assistant</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-back-to-joy-playing-classics-on-dosbox-x/"><u>Jump Back to Joy: Playing Classics on DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-disk-space-safely/"><u>Maximizing Windows Disk Space Safely</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-metaverse-self-representation-a-step-by-step-manual/"><u>Navigating Metaverse Self-Representation  A Step-by-Step Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/never-again-struggle-with-file-explorer-on-windows-11/"><u>Never Again Struggle with File Explorer on Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-top-8-advanced-speech-recognition-tools-on-various-operating-systems/"><u>New 2024 Approved The Ultimate Guide to the Top 8 Advanced Speech-Recognition Tools on Various Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-fix-it-steps-to-eradicate-win10-blue-screen/"><u>Proven Fix-It Steps to Eradicate Win10 Blue Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-rog-phone-7-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after ROG Phone 7 has been deleted.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-failed-remotes-a-step-by-step-guide-for-windows-users/"><u>Resetting Failed Remotes: A Step-By Step Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-failures-from-non-standard-windows-applications/"><u>Resolving Sign-Out Failures From Non-Standard Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-space-on-your-disk-keep-files-and-free-up-room-in-win11-max-156-chars/"><u>Saving Space on Your Disk: Keep Files & Free Up Room in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-slowq-bittorrent-progress-on-pc/"><u>Strategies to Revive Slowq Bittorrent Progress on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-default-windows-configuration/"><u>Tips for Restoring Default Windows Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-w11-utilizing-error-lookup-tool-features/"><u>Troubleshooting W11: Utilizing Error Lookup Tool Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>Understanding and Applying Auto HDR  A Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-screens-skip-pin-in-windows-11-projections/"><u>Unlocking Screens: Skip PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-server-executed-failed-mystery/"><u>Unraveling the 'Server Executed Failed' Mystery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discovering-the-7-main-reasons-for-slow-phone-internet-speeds/"><u>Wi-Fi Woes: Discovering the 7 Main Reasons for Slow Phone Internet Speeds</u></a></li>
+</ul></div>

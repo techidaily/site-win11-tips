@@ -1,7 +1,7 @@
 ---
 title: Making Directories a Breeze with Win11 Essentials
-date: 2024-07-12T17:24:36.232Z
-updated: 2024-07-13T17:24:36.232Z
+date: 2024-08-16T01:42:41.198Z
+updated: 2024-08-17T01:42:41.198Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,13 @@ To create a new folder using File Explorer's menu:
 3. Click the**New** button in the top-left corner of File Explorer and select**Folder** from the list.
 4. Give your folder a suitable name, and then press**Enter** .  
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -49,9 +55,16 @@ To create a new folder using File Explorer's menu:
  Simply head to the location where you want to create the folder and press**Ctrl + Shift + N** together on your keyboard. Once the folder is created, you can rename it to anything you want.
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our [ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
  Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to [create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
@@ -66,10 +79,16 @@ To create a new folder using File Explorer's menu:
 5. Next, type**mkdir** followed by the name of the folder you wish to create and press**Enter** . For instance, if you were to create a folder named**Work** , you'd type the following command:  
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
@@ -93,3 +112,45 @@ To create a new folder using File Explorer's menu:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-your-way-in-graphic-design-careers/"><u>[New] 2024 Approved  Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-laughter-photo-maker/"><u>[New] Leading Laughter Photo Maker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-spin-stitch-and-swirl-videos-on-your-android-tabletphone/"><u>[Updated] 2024 Approved  Spin, Stitch & Swirl Videos on Your Android Tablet/Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-distance-doesnt-matter-advanced-podcast-capturing/"><u>[Updated] Distance Doesn't Matter  Advanced Podcast Capturing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-interviews-fans-magnetism-in-audio/"><u>[Updated] Innovative Interviews  Fans' Magnetism in Audio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplified-techniques-for-high-quality-webcam-videos-for-2024/"><u>[Updated] Simplified Techniques for High-Quality Webcam Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-guide-to-store-instagram-photosvideos-on-iphones/"><u>2024 Approved  Step-by-Step Guide to Store Instagram Photos/Videos on iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-use-chatgpt-right-now-explore-five-ways-to-verify-its-up-and-running/"><u>Can You Use ChatGPT Right Now? Explore Five Ways to Verify It’s Up and Running</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-dns-cache-via-steam-settings/"><u>Clearing Windows DNS Cache via Steam Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-copy-pasting-malfunction/"><u>Corrective Measures for Copy-Pasting Malfunction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-audio-recording-the-windows-11-handbook/"><u>Easy Audio Recording: The Windows 11 Handbook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-secure-data-movement-in-microsoft-edge-shield-for-w11/"><u>Enabling Secure Data Movement in Microsoft Edge Shield for W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-archived-media-madvr-for-windows-enthusiasts/"><u>Enhance Archived Media: MadVR for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-computer-functionality-post-intel-hardware-violation/"><u>Enhancing Computer Functionality Post-Intel Hardware Violation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disk-read-windows-error-immediately/"><u>Fixing 'Disk Read' Windows Error Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-microsofts-voice-assistant/"><u>Guide to Turn Off Microsoft's Voice Assistant</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-t2x-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo T2x 5G? </u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-keyboard-issue-fix-unresponsive-buttons-on-your-laptop-fast/"><u>HP Keyboard Issue? Fix Unresponsive Buttons on Your Laptop Fast!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 15 Pro and iPad</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/latency-logic-how-to-quickly-examine-ethernet-performance/"><u>Latency Logic: How to Quickly Examine Ethernet Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-directory-management-without-renaming-feature-in-win-11/"><u>Mastering the Art of Directory Management without Renaming Feature in Win 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterpieces-come-to-life-with-top-photo-frame-tools-for-2024/"><u>Masterpieces Come to Life with Top Photo Frame Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-and-apple-airpods-integration-what-you-need-to-know/"><u>Nintendo Switch and Apple AirPods Integration: What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-steam-connections-on-pc/"><u>Quick Fixes for Lost Steam Connections on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-sync-path-for-android-plus-windows-duo/"><u>Step-by-Step Sync Path for Android + Windows Duo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-windows-alt-key-problems/"><u>Strategies to Correct Windows ALT Key Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-temporary-file-extraction-in-windows-os/"><u>Streamlining Temporary File Extraction in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-faulty-or-missing-device-alerts-win1011/"><u>Tips for Addressing Faulty or Missing Device Alerts, Win10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-repair-continuous-crashes-when-coding-with-rust/"><u>Troubleshoot & Repair Continuous Crashes When Coding with Rust</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unified-media-exchange-android-ios/"><u>Unified Media Exchange  Android-iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-network-potential-through-dns-on-windows-11/"><u>Unlocking Network Potential Through DNS on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-nas-on-smartphones-and-tablets/"><u>Utilizing NAS on Smartphones and Tablets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/vintage-track-simulators-the-quintet/"><u>Vintage Track Simulators  The Quintet</u></a></li>
+</ul></div>

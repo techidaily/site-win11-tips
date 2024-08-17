@@ -1,7 +1,7 @@
 ---
 title: "Realigning In-Game Audio Output: Solving Windows Issues in Valorant"
-date: 2024-07-12T17:42:29.422Z
-updated: 2024-07-13T17:42:29.422Z
+date: 2024-08-16T01:25:32.341Z
+updated: 2024-08-17T01:25:32.341Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
  If none of the above preliminary checks and fixes resolve the issue, move on to the main troubleshooting steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Ensure Your Microphone Isn't Faulty
 
  Next, make sure your microphone isn't faulty. You can try other games or voice recording apps and see if they can detect your voice.
@@ -49,11 +52,24 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 3. At the top, click the **Audio** tab and then the **Voice Chat** tab.
 4. Here, select the primary microphone you're using right now in the **Input Device** field.  
 ![Select the Primary Microphone in the Input Device Field of Audio Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-select-the-primary-microphone-in-the-input-device-field-of-audio-tab-in-valorant.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 5. Make sure that the **Mic Volume** isn't too low as well. If it is, move the slider to the extreme right**.**  
 ![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can't hear other gamers' voice chat, ensure the proper audio output device is selected and its incoming volume isn't too low.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 4\. Ensure the Correct Microphone Is Selected in Windows and That It Isn't Muted
 
  If you have the correct microphone selected in Valorant settings and it isn't muted, ensure it's properly configured and unmuted in the Windows settings also. Follow these steps to confirm:
@@ -61,9 +77,15 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 1. Open the Windows **Settings** app.
 2. Navigate to **System > Sound**.  
 ![Go to Sound Settings From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-sound-settings-from-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. Under **Input** settings, select the microphone you wish to use.
 4. Choose your desired microphone and make sure the **Input Volume** isn't too low.  
 ![Select the Correct Microphone Device in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/5-select-the-correct-microphone-device-in-the-sound-settings-of-the-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  If you're not hearing from your friends, return to **Sound** settings and select the correct audio output device. Then, click on your primary speaker device to ensure its volume isn't too low.
 
@@ -78,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 ![Go to More Sound Settings Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-more-sound-settings-option-in-windows-settings-app.jpg)
 3. Navigate to the **Recording** tab, right-click on your desired device, and select **Set as Default Device**.  
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 4. Afterward, go to the **Playback** device, right-click on your desired audio output device, and select **Set as Default Device**.  
 ![Set Your Main Audio Output Device As Default in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-set-your-main-audio-output-device-as-default-in-the-playback-tab-of-more-sound-settings.jpg)
 
@@ -101,10 +127,16 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
  To turn off exclusive control of the microphone, navigate to **Settings > System > Sound** and click on **More sound settings**. Afterward, go to the **Recording** tab, right-click on your desired microphone, and select **Properties**.
 
 ![Go to Recording Tab of Properties Window in More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/13-go-to-recording-tab-of-properties-window-in-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, go to the **Advanced** tab and uncheck the box beside **Allow applications to take exclusive control of this device**. Also, uncheck the box beside **Enable audio enhancements**.
 
 ![Disable Exclusive Control of Device and Audio Enhancements in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/14-disable-exclusive-control-of-device-and-audio-enhancements-in-the-recording-tab-of-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Afterward, go to the **Playback** tab, right-click your primary audio output device, and select **Properties**. Then, go to the **Advanced** tab, uncheck the exclusive control box, and turn off audio enhancements.
 
@@ -122,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 4. Select the **Push to Talk** option next to **Party Voice Activation Mode**.  
 ![Select the Push to Talk Option Next to Party Voice Activation Mode in Voice Chat Tab of Valorants Audio Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-select-the-push-to-talk-option-next-to-party-voice-activation-mode-in-voice-chat-tab-of-valorants-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Make Voice Communication Super Smooth on Valorant
 
  Using the voice chat feature in Valorant makes communication easier. Hopefully, you now know what causes the voice chat feature to stop working in Valorant and how to restore voice communication. If voice chat remains unresponsive despite applying all the fixes, reinstall Valorant.
@@ -137,3 +172,51 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>[New] Unlocking Secure Video Sharing  YouTube to Gmail with Google Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>[Updated] 2024 Approved  Craft Your Countdown  Adding Time Management to OBS Sessions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-leaders-shaping-the-marvel-online-experience/"><u>[Updated] Leaders Shaping the Marvel Online Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-key-tips-for-restoring-fbm-functionality-on-desktop/"><u>10 Key Tips for Restoring FBM Functionality on Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-tricks-for-a-better-windows-11-search/"><u>5 Essential Tricks for a Better Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6plus-strategies-for-a-superior-windows-11-taskbar-use/"><u>6+ Strategies for a Superior Windows 11 Taskbar Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-crucial-strategies-to-salvage-a-frozen-windows-service-panel/"><u>7 Crucial Strategies to Salvage a Frozen Windows Service Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-solution-manual-windows-rainmeter-problems-decoded/"><u>A Comprehensive Solution Manual: Windows Rainmeter Problems Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-through-to-windows-11-security-control-screen/"><u>A Step-by-Step Through to Windows 11 Security Control Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-file-browsing-activate-filters-with-checkbox-on-win11/"><u>Accelerate File Browsing: Activate Filters with Checkbox on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-system-load-in-win11/"><u>Accelerate System Load in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-iomap64-bsod-with-easy-steps-for-windows-users/"><u>Addressing IOMap64 BSoD with Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-network-disconnect-in-windows-11-a-step-by-step-guide/"><u>Addressing Network Disconnect in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-loading-device-drivers-in-windows-11/"><u>Addressing Non-Loading Device Drivers in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-pointer-style-in-winxpvista7/"><u>Adjusting Mouse Pointer Style in WinXP/Vista/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-your-windows-search-and-highlight-settings/"><u>Adjusting Your Window's Search and Highlight Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-time-tracks-essential-windows-tools-to-edit-file-dates/"><u>Alter Time Tracks: Essential Windows Tools to Edit File Dates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-11-start-menu-preferences/"><u>Altering Windows 11 Start Menu Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-graphics-memory-a-comprehensive-guide-to-supercharging-win1011/"><u>Amplify Graphics Memory - A Comprehensive Guide to Supercharging Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-your-windows-11-activation-status/"><u>Assessing Your Windows 11 Activation Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-directional-audio-with-windows-earbuds/"><u>Balancing Directional Audio with Windows Earbuds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginners-trick-swiftly-access-sticky-notes-post-boot-windows/"><u>Beginner's Trick: Swiftly Access Sticky Notes Post-Boot Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-11-videoscripting-software-round-up/"><u>Best Windows 11 Videoscripting Software Round-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-single-board-gadgets/"><u>Best Windows Single-Board Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-utilizing-box-for-file-selections-in-win11/"><u>Boost Efficiency: Utilizing Box for File Selections in Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-flavorful-friends-top-gastronomy-guides-online/"><u>In 2024, Flavorful Friends  Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-best-of-the-best-top-professional-audio-editing-programs/"><u>In 2024, The Best of the Best Top Professional Audio Editing Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719255690388-pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258042287-reclaiming-chrome-in-w11-easy-to-follow-remediation-tips/"><u>Reclaiming Chrome in W11 - Easy-to-Follow Remediation Tips</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-sony-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Sony Xperia 10 V</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-graphics-with-latest-hp-drivers-for-win11/"><u>Streamline Graphics with Latest HP Drivers for Win11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-money-trail-exploring-mr-beasts-path/"><u>The Money Trail  Exploring Mr. Beast's Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382715644-unlock-potential-of-windows-without-using-the-compatibility-tool/"><u>Unlock Potential of Windows without Using the Compatibility Tool</u></a></li>
+</ul></div>

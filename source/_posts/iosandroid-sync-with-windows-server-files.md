@@ -1,7 +1,7 @@
 ---
 title: "IOS/Android: Sync with Windows Server Files"
-date: 2024-07-12T17:20:23.634Z
-updated: 2024-07-13T17:20:23.634Z
+date: 2024-08-16T01:46:45.062Z
+updated: 2024-08-17T01:46:45.062Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,17 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access Your Windows Files From an Android Device
 
  Now that you have shared the drive on the local network you'll be able to access your newly shared drives and files from your Android device in just a few taps. Make sure your Android device and Windows PC are connected to the same Wi-Fi network. With these checks out of the way, let's look at the steps to access Windows network shared files from Android:
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
@@ -69,6 +78,9 @@ Close
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## How to Access Your Windows Files From an iOS Device
 
  The steps to access Windows files from iOS are pretty much identical to the steps required for Android devices. Here's how you can access your Windows PC's files from iOS:
@@ -80,14 +92,26 @@ Close
 5. Then, you will be prompted to enter the user account credentials to access the shared drive. Type them in and tap on **Next**.
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -108,3 +132,46 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-wmm-tutorial-for-aspiring-animators/"><u>[New] In 2024, The Ultimate WMM Tutorial for Aspiring Animators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>[Updated] 2024 Approved  Quick, Easy, Fun  4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-embarking-on-a-youtube-venture-user-setup-essentials/"><u>[Updated] Embarking on a YouTube Venture  User Setup Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creative-potential-the-ultimate-hdr-guide/"><u>[Updated] Unleash Creative Potential  The Ultimate HDR Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-silent-scripting-the-leading-list-of-offline-transcription-software/"><u>2024 Approved  Silent Scripting  The Leading List of Offline Transcription Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>2024 Approved  Unveiling the Mystery  Mastering Attention-Grabbing Posts on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-unnecessary-cpu-spikes-tips-and-tricks/"><u>Curbing Unnecessary CPU Spikes: Tips & Tricks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/cutting-through-chaos-effective-techniques-to-silence-unwanted-sounds-in-audacity-and-filmorapro/"><u>Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-enhanced-ui-in-windows-11/"><u>Discovering Enhanced UI in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-ais-influence-on-the-newest-windows-11-landscape/"><u>Dissecting AI's Influence on the Newest Windows 11 Landscape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-engagement-with-dynamic-text-on-instagram/"><u>Enhancing Engagement with Dynamic Text on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exorcising-sound-demons-the-internal-paudio-issue-fix/"><u>Exorcising Sound Demons: The Internal PAudio Issue Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-from-docx-to-pdf-mastery-with-windows-11/"><u>Expert Insights: From Docx to PDF Mastery with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-pagefilesys-affect-your-computers-performance-and-safety/"><u>How Does Pagefile.sys Affect Your Computer’s Performance & Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-edge-security-feature-defender-application-guard/"><u>Installing Edge Security Feature: Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invoke-smooth-pathways-into-windows-shares/"><u>Invoke Smooth Pathways Into Windows Shares</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-eliminating-interrupt-error-on-windows-1011/"><u>Methods for Eliminating INTERRUPT Error on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unsteady-mouse-icon-windows-tips/"><u>Overcoming Unsteady Mouse Icon: Windows Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/proven-steps-to-elevate-webinar-video-quality/"><u>Proven Steps to Elevate Webinar Video Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seize-savings-unveil-windows-11-pro-key-deals/"><u>Seize Savings: Unveil Windows 11 Pro Key Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-access-errors-in-windows-a-step-by-step-guide/"><u>Solving Access Errors in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-directx-update-challenges-on-windows/"><u>Solving DirectX Update Challenges on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-qr-code-scanners-in-windows-environment/"><u>Step-by-Step: QR Code Scanners in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-teams-hurdle-80080300-on-win11-systems/"><u>Tackling Microsoft Teams Hurdle #80080300 on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskmasters-toolkit-best-window-based-productivity-apps-unveiled/"><u>Taskmaster's Toolkit: Best Window-Based Productivity Apps Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-your-taskbar-with-windows-11-tweaks/"><u>Trim Down Your Taskbar with Windows 11 Tweaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-macbook-cam-filming-basics-for-2024/"><u>Ultimate Guide  MacBook Cam Filming Basics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-successful-updates/"><u>Unlocking Windows 11 Successful Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-windows-11-steps-to-bypass-security-measures/"><u>Unshackling Windows 11: Steps To Bypass Security Measures</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-vs-modern-atlasos-upgrade/"><u>Vintage VS Modern: AtlasOS Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-v30-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo V30 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

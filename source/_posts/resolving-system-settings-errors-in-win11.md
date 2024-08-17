@@ -1,0 +1,149 @@
+---
+title: Resolving System Settings Errors in Win11
+date: 2024-08-16T02:47:18.339Z
+updated: 2024-08-17T02:47:18.339Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Resolving System Settings Errors in Win11
+excerpt: This Article Describes Resolving System Settings Errors in Win11
+keywords: Fix Windows 11 Setup Issues,Solve Win11 Config Troubleshooting,Win11 Error Resolution Steps,Correcting System Settings in Win11,Guidelines to Fix Win11 Errors,Troubleshoot Windows 11 Errors,Address Setup Problems in Win11
+thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
+---
+
+## Resolving System Settings Errors in Win11
+
+ SystemSettings.exe is an essential Windows component that lets you configure important system settings. However, due to corrupt system files, outdated drivers, or malware infections, you can face the SystemSettings.exe system error.
+
+ Fortunately, it's a very common issue in Windows 11 and can easily be resolved using the below fixes.
+
+## 1\. Try Some Basic Windows Fixes
+
+ The SystemSettings.exe system error often occurs on systems with outdated or corrupt graphics drivers. In such cases,[downloading the latest graphics driver update](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) can resolve the issue.
+
+ It's also important to ensure that you have[installed the latest Windows updates](https://www.makeuseof.com/update-windows-manually/) . This will not only provide access to the latest features but will also eliminate any bugs or glitches that may be causing the error.
+
+ Corruption in the important system files is another major reason behind the error at hand. You can quickly detect and eliminate corruption by[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . However, if the SFC scan was unable to solve the issue,[run a DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) to resolve the error.
+
+## 2\. Remove Viruses & Malware From Your Computer
+
+ If you're experiencing multiple issues with your Windows PC besides the SystemSettings.exe system error, it's possible that your system has been infected with a virus or malware. To determine if that is the case, we recommend running a full system scan. Here's how to do it:
+
+1. Press the**Windows** key to open the**Start Menu.**
+2. Type**Windows Security** in the search bar and press Enter.
+3. Choose**Virus & threat protection** from the left sidebar and**Scan options** from the right pane.
+4. Select the**Full scan** bulletin and click the**Scan Now** button.  
+![Full scan option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+
+ Now, wait till the scanning process is complete. It can take up to one hour, so keep patience. Once done, check out how to[remove found threats from your Windows PC](https://www.makeuseof.com/microsoft-defender-antivirus-found-a-threat/) .
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Temporarily Disable Your Antivirus
+
+ Improperly configured security applications can sometimes interfere with the functioning of trusted applications, resulting in error messages or complete failure to work. To address this issue, disabling your system's security application is often a viable solution.
+
+ To disable the Windows Security app, check our guide on[temporarily disabling the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11\. However, if you're using a third-party antivirus program, check its user manual to know about its disabling process.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Create a New User Account
+
+![Other users window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-users.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ Creating a new user account is another solution to fix the SystemSettings.exe system error. This approach is particularly helpful if the issue is being caused by corruption in your current account.
+
+ So,[create a new user account](https://www.makeuseof.com/ways-to-create-local-user-account-windows/) and check if it solves the problem. If the new account does not encounter the same error, it indicates that your old user account is corrupt, and you will need to transfer your data to the new one.
+
+ Alternatively, you can permanently delete the old user profile and use the new one instead. However,[back up important files and folders](https://www.makeuseof.com/tag/backup-windows-files-folders/) before deleting the user account.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## 5\. Use System Restore
+
+ System Restore is an incredibly useful Windows feature that enables you to undo changes that have caused issues to your computer. You can[use System Restore](https://www.makeuseof.com/use-system-restore-windows/) to send your Windows PC to the time when you were not facing the SystemSettings.exe system error.
+
+ It's important to keep in mind that restoring your system to a previous restore point will undo any changes made after the selected restore point. Therefore, make sure to[back up your data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) before proceeding with the restoration process.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fixing the SystemSettings.exe Error on Windows
+
+ The Systemsettings.exe system error is one of the many issues you might encounter while accessing the Windows Settings app. Facing this error can be really frustrating as it prevents you from making important changes to your system. Luckily, you can quickly troubleshoot this error using the solution above.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-rhythmic-resonance-the-ultimate-site-list-for-downloads/"><u>[New] Rhythmic Resonance  The Ultimate Site List for Downloads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers/"><u>[Updated] 2024 Approved  Unlock the Secrets of Stellar Snaps and Snapchat Boomers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-consumers-speak-the-vllo-narrative/"><u>[Updated] Consumers Speak  The VLLO Narrative</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-eliminating-iphones-inability-to-autofocus-on-targets/"><u>[Updated] In 2024, Eliminating iPhone's Inability to Autofocus on Targets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-video-logitechs-background-editing-guide/"><u>[Updated] Streamlined Video - Logitech's Background Editing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-clearer-journey-the-art-of-annotating-folders-on-windows-11/"><u>A Clearer Journey: The Art of Annotating Folders on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-defenders-0x80004004-issue/"><u>Breaking Down Windows Defender's 0X80004004 Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-for-quake-via-windows-terminal/"><u>Command Line for Quake via Windows Terminal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-conversion-turning-avis-into-gifs-with-filmora-software/"><u>Effortless Conversion  Turning AVIs Into GIFs with Filmora Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-0x800704cf-from-windows-marketplace/"><u>Eliminating 0X800704CF From Windows Marketplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-index-performance-on-your-pc/"><u>Enhancing Index Performance on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-into-utilizing-dism-for-win11-fixes/"><u>Expert Insights Into Utilizing Dism for Win11 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fasten-up-your-pc-launches-mastering-windows-11-quick-start-mode/"><u>Fasten Up Your PC Launches: Mastering Windows 11 Quick Start Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fingerprint-fraud-unraveling-the-latest-hack-on-windows-hello/"><u>Fingerprint Fraud? Unraveling the Latest Hack on Windows Hello</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-note-30-vip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 VIP in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722130996231-has-chatgpt-become-a-challenge-for-openai-to-keep-in-check-heres-why/"><u>Has ChatGPT Become a Challenge for OpenAI to Keep in Check? Here's Why.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-14-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-top-7-video-apps-for-apple-devices/"><u>Ideal Top 7 Video Apps for Apple Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11 Pro 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-crafting-a-masterpiece-with-collages/"><u>In 2024, Step-by-Step  Crafting a Masterpiece with Collages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-strategy-with-these-20-marketing-terms/"><u>In 2024, Transform Your Strategy with These 20 Marketing Terms</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-11ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 11/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/intro-magic-crafting-irresistible-podcast-openers-for-2024/"><u>Intro Magic  Crafting Irresistible Podcast Openers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-edge-techniques-for-effective-wsl-2-use/"><u>Leading Edge Techniques for Effective WSL 2 Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-starting-windows-media-player/"><u>Mastering the Art of Starting Windows Media Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-windows-11-search-quick-fixes-to-follow/"><u>Mastery of Windows 11 Search: Quick Fixes to Follow</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-fps-essential-tricks-for-optimizing-fallout-76-performance/"><u>Maximizing FPS: Essential Tricks for Optimizing Fallout 76 Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-ways-from-video-links-to-audio-downloads-for-2024/"><u>Prime Ways  From Video Links to Audio Downloads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-prioritize-disk-format-in-windows-errors/"><u>Resolving Prioritize Disk Format in Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-widespread-connectivity-problem-in-steam-windows-11/"><u>Resolving Widespread Connectivity Problem in Steam Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-system-space-essential-windows-extras-for-elimination/"><u>Revamp Your System Space: Essential Windows Extras for Elimination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-google-drives-synced-files-with-7-key-steps/"><u>Reviving Google Drive's Synced Files with 7 Key Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-combat-gaming-induced-laptop-overheating/"><u>Steps to Combat Gaming-Induced Laptop Overheating</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-troubleshooting-windows-1011-file-issues/"><u>Strategies for Troubleshooting Windows 10/11 File Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-device-synergy-samsung-dex-for-galaxy-users/"><u>Streamlining Device Synergy: Samsung DeX for Galaxy Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-tools-focused-uninstall-strategies-for-windows-1011/"><u>Tailored Tools: Focused Uninstall Strategies for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-space-with-a-budget-friendly-animated-3d-printer-inspired-wireless-charger-by-bambu-labs/"><u>Transform Your Space with a Budget-Friendly Animated, 3D Printer-Inspired Wireless Charger by Bambu Labs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-to-new-life-for-your-outdated-computer/"><u>Transition to New Life for Your Outdated Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-power-extracting-device-ids-in-windows/"><u>Unleashing the Power: Extracting Device IDs in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-frozen-opera-downloads-in-windows-sphere/"><u>Unlock Frozen Opera Downloads in Windows Sphere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vegaspros-new-era-reviewed-2019/"><u>VegasPro's New Era Reviewed (2019)</u></a></li>
+</ul></div>

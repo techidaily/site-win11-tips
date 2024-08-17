@@ -1,7 +1,7 @@
 ---
 title: "Lowering Latency: Strategies to Fasten Windows Discord"
-date: 2024-07-12T17:45:25.780Z
-updated: 2024-07-13T17:45:25.780Z
+date: 2024-08-16T01:22:17.326Z
+updated: 2024-08-17T01:22:17.326Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/e72d3325cc82dd8ab836962e9def246da610dd4ef
 
  If the servers are down, you've no option but to wait until Discord gets them back up and running.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 2\. Rule Out Issues With Your Internet
 
  A patchy or slow internet connection can cause the Discord app to lag on your Windows PC. You need to ensure that your current internet connection is both fast and stable. There are numerous [websites that can help you test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -39,6 +42,9 @@ If the internet seems fine, move to the next solution.
 1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager.
 2. In the**Processes** tab, select unwanted apps and processes and click the**End task** button at the top.  
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-programs-using-task-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Switch to High-Performance Mode
 
@@ -51,6 +57,9 @@ To enable the high performance mode on Windows, use these steps:
 3. Click on**Power Options** .
 4. Select the**High performance** option.  
 ![Enable High Performance Mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-high-performance-mode-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
 Try using the Discord app again and see if it runs fine.
 
@@ -65,6 +74,9 @@ To enable Reduced Motion in Discord:
 3. Select the**Accessibility** tab from the left sidebar.
 4. Turn on the toggle next to**Enable Reduced Motion** .  
 ![Enable Reduced Motion in Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-reduced-motion-in-discord-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 6\. Enable or Disable Hardware Acceleration on Discord
 
@@ -77,7 +89,13 @@ To enable Reduced Motion in Discord:
 3. Navigate to the**Voice & Video** tab.
 4. Locate the**H.264 Hardware Acceleration** option and then enable or disable the toggle next to it.  
 ![Hardware Acceleration in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-acceleration-in-discord.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Reset the Discord Voice Settings
 
  Misconfigured voice settings in Discord can also cause the app to freeze or lag, especially while streaming. If that’s the case, you can consider resetting Discord voice settings and starting over. Here are the steps for the same.
@@ -87,7 +105,13 @@ To enable Reduced Motion in Discord:
 3. Scroll all the way down and click the**Reset Voice Settings** button.
 4. Click**Okay** to confirm.  
 ![Reset Voice Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-voice-settings-in-discord.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Clear the Discord Cache
 
  Discord, like any other app, collects cache data on your computer to improve its performance. If that data becomes corrupted or inaccessible, Discord may lag on your computer. Thankfully, it's both easy and safe to [clear the Discord cache on Windows](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) .
@@ -111,6 +135,10 @@ To update Discord on Windows:
 1. Click the**Show hidden icons** in the bottom right corner to open System Tray.
 2. Right-click the**Discord** icon and select**Check for Updates** .  
 ![Check for Discord Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-discord-updates-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
  If updating the app does not help, there might be a problem with the Discord app files on your system. To fix them, you’ll need to uninstall and reinstall the Discord app. Here's how you can go about it.
 
@@ -147,3 +175,41 @@ To update Discord on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficient-vimeo-video-extraction-software/"><u>[New] Efficient Vimeo Video Extraction Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insider-tips-creating-unique-podcast-names/"><u>[New] Insider Tips  Creating Unique Podcast Names</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-solution-capturing-downloading-and-keeping-tweets-visuals-for-2024/"><u>[New] Quick Solution  Capturing, Downloading, & Keeping Tweets' Visuals for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-of-6-video-categories-for-viewer-retention/"><u>[New] Secrets of 6 Video Categories for Viewer Retention</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-video-response-rate-how-to-increase-it/"><u>[Updated] In 2024, Instagram's Video Response Rate  How to Increase It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>2024 Approved  The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodging-dangers-the-downside-to-discounted-windows-activation-codes/"><u>Dodging Dangers: The Downside to Discounted Windows Activation Codes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-and-open-source-video-capturing-tools/"><u>Free & Open Source Video Capturing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-sticky-notes-in-windows-11/"><u>How to Open Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-uninstalling-software-efficiently-on-windows-jnwen/"><u>How-To: Uninstalling Software Efficiently on Windows ˈjɛnɪwən</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-12-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme 12 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mapping-out-your-connections-a-netstat-guide-for-windows-11-users/"><u>Mapping Out Your Connections: A Netstat Guide for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-compatibility-keep-your-dragon-age-origins-game-smooth-on-windows-11-without-any-crashes/"><u>Mastering Compatibility: Keep Your Dragon Age: Origins Game Smooth on Windows 11 Without Any Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-privacy-remove-login-email-in-windows/"><u>Mastering Privacy: Remove Login Email in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-key-discrepancies-an-essential-guide-to-troubleshooting-on-windows-11/"><u>Navigating Key Discrepancies: An Essential Guide to Troubleshooting on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-robloxs-code-403-issue-on-pc/"><u>Overcoming Roblox's Code 403 Issue on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-deps-ensuring-vbox-works-smoothly-on-win/"><u>Prioritizing Deps, Ensuring VBox Works Smoothly on Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-rockalldlldll-disappearance-on-pcs/"><u>Repairing Rockalldll.dll Disappearance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-directx-update-issues-in-windows/"><u>Solutions for DirectX Update Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-your-winerror-effective-fixes-for-script-issues/"><u>Solve Your WinError: Effective Fixes for Script Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-full-capacity-on-windows-gpt/"><u>Strategies to Prevent Full Capacity on Windows GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-management-windows-11s-auto-transfer-trick/"><u>Streamlining File Management: Windows 11'S Auto-Transfer Trick</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-execution-optimizing-android-studio-on-windows/"><u>Swift Execution: Optimizing Android Studio on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-tech-timetable-optimizing-windows-11s-update-processes/"><u>Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-temperature-spikes-during-high-performance-gaming/"><u>Taming Temperature Spikes During High-Performance Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-integrating-secondary-antivirus-without-defenders-limits/"><u>Techniques for Integrating Secondary Antivirus without Defender’s Limits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-prevent-activation-of-windows-mobility-center-win-11/"><u>Tips: Prevent Activation of Windows Mobility Center (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toggle-system-editor-enabledisable-in-win11/"><u>Toggle System Editor: Enable/Disable in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-warhammer-40k-eliminate-pc-lag/"><u>Unlock the Full Potential of Warhammer 40K: Eliminate PC Lag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-the-world-4-key-steps-to-restore-windows-server-time/"><u>Wake the World: 4 Key Steps to Restore Windows Server Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-ready-for-sudo/"><u>Windows Users, Ready for Sudo?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Evolves: Spotlight on New Updates' Capabilities"
-date: 2024-07-12T17:14:44.981Z
-updated: 2024-07-13T17:14:44.981Z
+date: 2024-08-16T01:53:30.507Z
+updated: 2024-08-17T01:53:30.507Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is It the Moment 4 or Windows 11 23H2 Update?
 
  The September 26, 2023, release of the Moment 4 update caused some confusion about the Windows 11 23H2 update. It was previously anticipated the Windows 11 23H2 update would introduce all new features in the fourth quarter of 2023\. However, many of those features became available for Windows 11 version 22H2 as part of the Moment 4 package.
@@ -36,9 +39,15 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
  Windows Copilot is the replacement virtual assistant for the deprecated Cortana. So, you can ask Windows Copilot questions about many things, much the same as Cortana. For example, you could utilize Windows Copilot as a calculator by asking it to do sums. Or check the weather by asking Windows Copilot what the weather forecast is for your location.
 
 ![The Copilot virtual assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/copilot-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. A Cloud Backup Tool
 
  Windows Backup is a new cloud backup app that the Moment 4 Update introduced to Windows 11\. This tool enables you to back up files and folders to OneDrive cloud storage. It’s a straightforward tool that lets you back up folders, documents, pictures, and Windows settings to a OneDrive cloud storage account.
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
  You should be able to find those new settings via the search tool. Input **dynamic lighting** into the search tool. Then select the **Change lighting colors** search result to bring up the Dynamic Lighting section of the **Personalization** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Taskbar Label Settings
 
  Taskbar labels show you the titles for software windows minimized to the taskbar. Of course, that’s not exactly a new feature since Windows platforms dating back to 1995 had taskbar labels until Microsoft removed them from Windows 7\.
@@ -68,15 +80,24 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Extended Compression Support
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. An Updated Paint App
 
  Windows 11 now has an updated Paint app. The revamped Paint app includes an option for removing backgrounds from images. Clicking **Remove background** erases the backdrop from a picture.
 
 ![The Remove background option in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-background-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 
  Plus, the updated Paint app now supports dark mode. That means you can [select a Dark mode within Paint](https://www.makeuseof.com/dark-mode-microsoft-paint/) to turn that app black without changing the whole system theme. Or you can select alternative **Light** or **System setting** options for Paint’s theme.
 
@@ -103,3 +124,62 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>[New] Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitreact-wisdom-a-complete-reference-book/"><u>[Updated] 2024 Approved  TwitReact Wisdom  A Complete Reference Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-3-ways-to-record-switch-gameplay-for-2024/"><u>[Updated] 3 Ways to Record Switch Gameplay for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-ways-to-prevent-oculus-rift-vr-motion-sickness/"><u>2024 Approved  10 Ways to Prevent Oculus Rift VR Motion Sickness</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-best-editing-app-for-iphones-choose-between-cameo-and-filmorago/"><u>2024 Approved  Best Editing App for iPhones  Choose Between Cameo & FilmoraGo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-video-broadcaster-alternatives/"><u>2024 Approved  The Complete Guide to Video Broadcaster Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-addressing-critical-app-issues/"><u>Approaches to Addressing Critical App Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-def5-barrier-tips-for-win11s-onedrive-errors/"><u>Breaking Down the DEF5 Barrier: Tips for Win11's OneDrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-touch-input-in-windows-enabledisable-steps/"><u>Configure Touch Input in Windows: Enable/Disable Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x887a0006-for-graphics/"><u>Correcting Error Code 0X887A0006 for Graphics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/decoding-upgrades-to-macos-11-big-surs-core-features/"><u>Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-optimize-your-windows-system-against-high-ums-use/"><u>Efficiency in Action: Optimize Your Windows System Against High UMS Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-measures-for-eradicating-white-screens-in-win1011/"><u>Efficient Measures for Eradicating White Screens in WIN10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/effortless-guide-to-going-live-on-instagram/"><u>Effortless Guide to Going Live on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-vivetool-innovations/"><u>Elevate Your Windows Experience with ViVeTool Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-and-msi-dissecting-software-package-variations/"><u>EXE and MSI: Dissecting Software Package Variations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-solutions-to-unacceptable-connections-in-windows-os/"><u>Finding Solutions to Unacceptable Connections in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-nullify-audio-amplification-in-windows/"><u>Guide to Nullify Audio Amplification in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-verify-rights-before-sharing-on-tiktok-platforms/"><u>How to Verify Rights Before Sharing on TikTok Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-fuel-the-spark-essential-themes-for-youtube-success/"><u>In 2024, Fuel the Spark  Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 13 mini without Apple ID?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c65frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C65FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-shortcuts-for-windows-photos-enthusiasts/"><u>Innovative Shortcuts for Windows Photos Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-dwindling-threads-by-year-end-decision/"><u>Instagram's Dwindling Threads by Year-End Decision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11-with-an-older-windows-7-product-key/"><u>Launching Windows 11 with an Older Windows 7 Product Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-program-harmony-in-os-with-win-pct-wisdom/"><u>Master Program Harmony in OS with Win-PCT Wisdom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-install-package-troubleshooting-in-newest-windows-release/"><u>Mastering Install Package Troubleshooting in Newest Windows Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-search-for-program-install-spots-on-pc/"><u>Mastering the Search for Program Install Spots on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-ai-feature-on-windows-11-microsofts-taskbar-assistant-revolutionizes-productivity/"><u>New AI Feature on Windows 11: Microsoft's Taskbar Assistant Revolutionizes Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cy-first-sending-your-personal-youtube-link-via-google/"><u>Privacy First  Sending Your Personal YouTube Link via Google</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-aspect-alteration-for-web-design-for-2024/"><u>Quick Aspect Alteration for Web Design for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-cleanup-automating-deletion-of-files-in-windows/"><u>Quick Cleanup: Automating Deletion of Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recommended-procedures-for-dying-wireless-controller/"><u>Recommended Procedures for Dying Wireless Controller</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-code-30015-26-in-m365-for-windows-computers/"><u>Resolving Error Code 30015-26 in M365 for Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-greyed-out-waste-bin-icon-in-win11/"><u>Restoring Greyed Out Waste Bin Icon in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speak-write-and-transform-an-intuitive-guide-to-text-generation-with-windows-whisper/"><u>Speak, Write and Transform: An Intuitive Guide to Text Generation with Windows Whisper</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-non-launching-finals-tips-and-solutions-for-215/"><u>The Definitive Fix for Non-Launching Finals - Tips and Solutions for 2^15</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-task-scheduler-guide-to-efficient-batch-processing/"><u>The Task Scheduler Guide to Efficient Batch Processing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-future-windows-laptops-top-picks/"><u>The Ultimate Guide to Future Windows Laptops: Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-alter-desktop-icons-separation-in-win-oss/"><u>Title: Alter Desktop Icons' Separation in WIN OSs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-pick-of-vocal-transformation-apps-for-youtubers-for-2024/"><u>Top Pick of Vocal Transformation Apps for YouTubers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-workspaces-into-a-unified-digital-ecosystem-via-aoemi/"><u>Transforming Windows Workspaces Into a Unified Digital Ecosystem via AOEMi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-leaderboard-locator-youtubes-most-pop-videos-for-2024/"><u>Ultimate Leaderboard Locator  YouTube's Most Pop Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-memory-detection-problems/"><u>Understanding and Fixing Memory Detection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-variability-in-windows-protocols-for-cloud-and-local-reinstallation/"><u>Understanding Variability in Windows Protocols for Cloud and Local Reinstallation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-system-advanced-techniques-to-revise-the-windows-registry-in-command-prompt/"><u>Unlock Your System: Advanced Techniques to Revise the Windows Registry in Command Prompt</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/whats-the-take-home-from-each-youtube-sponsored-play-for-2024/"><u>What's the Take-Home From Each YouTube Sponsored Play for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-should-you-care-about-runtime-brokers-on-your-system/"><u>Why Should You Care About Runtime Brokers on Your System?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-folder-customization-adding-movecopy-context-functionality/"><u>Windows 11 Folder Customization - Adding Move/Copy Context Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-clearing-windowss-prior-passcode/"><u>Winning Back Access: Clearing “Windows's Prior Passcode”</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-ultimate-toolkit-to-counteract-bsod-on-win10/"><u>Your Ultimate Toolkit to Counteract BSOD on Win10</u></a></li>
+</ul></div>

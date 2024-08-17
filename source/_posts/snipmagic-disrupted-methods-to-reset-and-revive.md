@@ -1,7 +1,7 @@
 ---
 title: SnipMagic Disrupted? Methods to Reset and Revive
-date: 2024-07-12T16:41:05.602Z
-updated: 2024-07-13T16:41:05.602Z
+date: 2024-08-16T02:25:54.282Z
+updated: 2024-08-17T02:25:54.282Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,13 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 4. Once you disable it, try running the Snipping Tool once again. If it works properly, it means that the app was in conflict with the Snipping Tool. It should be kept disabled to keep the Snipping Tool on your Windows working properly.
 
 ![Services tab in the system configuration section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/system-configuration.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Run the Scannow Tool
 
  If all else fails and your Snipping Tool still isn't working, you can still use the **scannow** command to repair and restore the damaged files that cause it to malfunction. You can achieve this with the help of the [Command Prompt feature](https://www.makeuseof.com/run-command-prompt-commands-desktop-shortcut/).
@@ -63,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  Once done, check to see if the error still persists.
 
 ![Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Permit Snipping Tool to Run in the Background
 
@@ -74,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 4. Search for **Snip & Sketch** from the app list and ensure it's toggled on.
 
 ![List of Background Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/background-apps-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 5\. Update Graphics Drivers
 
@@ -98,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  So, head to Settings by pressing **Windows Key + I** and select **Windows Update**. The Windows Update app will start scanning your system automatically, and from there, all you have to do is click on **Download & install**and your Windows will be updated.
 
 ![windows update menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this didn't fix the Snipping Tool on your Windows either, jump to the next trick below.
 
@@ -117,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  That’s it—when you have the Focus feature disabled, try out the Snipping Tool again. It should be working now in most cases.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Reset the Snipping Tool App
 
  Sometimes things go awry for the weirdest reasons you can’t explain; your apps on Windows are no exception from accidents of such kind.
@@ -142,9 +160,15 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  To make sure that’s not the case, launch the Snipping Tool and click on the **Settings** menu (the ellipses icon from the top-right corner).
 
 ![Windows snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/snipping-tool-settings-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, toggle on **Automatically save screenshots**. When you have this setup your screenshots will be saved instantly, solving your Snipping Tool errors for good.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expanding More on the Snipping Tool
 
  Because the Snipping Tool is associated with taking screenshots, its importance can’t be understated. Screenshots are an easy way to communicate data and not being able to use this function can leave you in a lurch.
@@ -164,3 +188,47 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>[New] In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-charting-success-understanding-youtube-insights/"><u>[Updated] Charting Success  Understanding YouTube Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-discover-innovative-strategies-in-creating-stunning-fb-ad-videos/"><u>[Updated] In 2024, Discover Innovative Strategies in Creating Stunning FB Ad Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-social-synergy-connecting-the-two-giants-for-2024/"><u>[Updated] Social Synergy  Connecting the Two Giants for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-events-with-obs-crafting-a-time-based-feature-for-2024/"><u>[Updated] Streamline Events with OBS  Crafting a Time-Based Feature for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-audio-ambiance-weaving-music-into-instagram-moments/"><u>2024 Approved  Audio Ambiance  Weaving Music Into Instagram Moments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/become-a-cmd-guru-understand-these-20-crucial-commands/"><u>Become a CMD Guru: Understand These 20 Crucial Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-improving-windows-11s-trouble-resolution-tools/"><u>Bridging Gaps: Improving Windows 11'S Trouble Resolution Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>Crafting Quiet Curtains  The PP Approach to Invisible Sound Endings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-error-0x80131500-on-microsoft-store/"><u>Disabling Error 0X80131500 on Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-management-active-periods-not-permanent-disruptions/"><u>Efficient Window Management: Active Periods, Not Permanent Disruptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-management-navigating-taskbar-with-windows-hotkeys/"><u>Effortless Management: Navigating Taskbar with Windows Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-insider-tips-on-wintools/"><u>Elevate PC Performance: Insider Tips on WinTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-share-cant-be-opened-issues-in-geforce/"><u>Eliminating Share Can't Be Opened Issues in GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-windows-storage-the-top-free-volume-boosters-list/"><u>Enhance Your Windows Storage: The Top Free Volume Boosters List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-your-content-10-exceptional-reacting-techniques-for-2024/"><u>Enhancing Your Content  10 Exceptional Reacting Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-removal-of-win11s-official-store/"><u>Exclusive Removal of Win11's Official Store</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-breakdown-of-iphone-13-top-reviews-and-ratings-compilation/"><u>Expert Breakdown of iPhone 13 – Top Reviews and Ratings Compilation</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719338165732-exploring-phonelinkexe-its-role-and-risks-in-windows-98/"><u>Exploring PhoneLink.exe: Its Role and Risks in Windows 9/8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-of-canon-imageclass-mf4800-printer-drivers/"><u>Free Download of Canon ImageCLASS MF4800 Printer Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lenovo-thinkphone-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lenovo ThinkPhone Phones with/without a PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-days-gone-blend-zombies-and-bikes-a-detailed-review-insight/"><u>How Does 'Days Gone' Blend Zombies and Bikes? A Detailed Review Insight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-an-exception-breakpoint-has-been-reached-error-on-windows/"><u>How to Fix the “An Exception Breakpoint Has Been Reached” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-iphone-image-import-something-went-wrong-error-in-windows-10-and-11/"><u>How to Fix the iPhone Image Import “Something Went Wrong” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-older-systems-healthy-with-win10-improvements/"><u>Keep Older Systems Healthy with Win10 Improvements</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-bring-your-videos-to-life-best-animated-text-apps-for-mobile-for-2024/"><u>New Bring Your Videos to Life Best Animated Text Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-difficulty-of-error-0x000-in-xbox-game-pass-windows-edition/"><u>Overcoming the Difficulty of Error 0X000_ in Xbox Game Pass Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-windows-hosts-overuse-a-guide/"><u>Reducing Windows Host's Overuse: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-office-activation-error/"><u>Resolving Microsoft Office Activation Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-ps4-remote-link-eliminating-random-drops-in-connection/"><u>Secure Your PS4 Remote Link: Eliminating Random Drops in Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-performance-essential-strategies-with-windows-11/"><u>Skyrocket Your Performance: Essential Strategies with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-gpu-load-for-smarter-windows-11-wm-efficiency/"><u>Slash GPU Load for Smarter Windows 11 WM Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-activatedeactivate-safeguard-in-windows-10/"><u>Steps to Activate/Deactivate SafeGuard in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-14-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 14 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-cost-free-windows-audio-cleaners/"><u>Top 5 Cost-Free Windows Audio Cleaners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-control-over-your-pc-in-winos/"><u>Unlock Full Control Over Your PC in WinOS</u></a></li>
+</ul></div>

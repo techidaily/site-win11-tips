@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for WinError 0X80072746 in Outlook
-date: 2024-07-12T17:42:46.549Z
-updated: 2024-07-13T17:42:46.549Z
+date: 2024-08-16T01:25:49.247Z
+updated: 2024-08-17T01:25:49.247Z
 tags:
   - windows10
   - windows11
@@ -70,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 1. Launch the Mail client and click on the **gear icon** at the bottom.
 2. Choose **Manage Accounts**.  
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
@@ -80,10 +83,19 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 ![Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-account.jpg)
 3. Scroll down and choose **Advanced Setup**.  
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 5. Finally, click on **Sign in** and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Update the Mail App
 
  Your Mail app might also be outdated, which is preventing it from being fully compatible with the latest email server configurations and security protocols, leading to the error at hand.
@@ -96,10 +108,16 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 2. Choose the **Library icon** in the bottom left pane.
 3. In the following window, click on the **Get updates** button. This should display all the available updates for the installed apps. MS Store will begin to download them automatically.  
 ![The Get updates button in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-updates-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Wait for the updates to download and check if the problem is resolved.
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 5\. Fix Corruption Issues Within the Mail App
 
  If updating the application did not help, there are also some other fixes that can help you resolve any corruption issues within the Mail app that might be leading to the problem. This involves [repairing and resetting the Mail application](https://www.makeuseof.com/mail-app-cant-get-mail-windows/).
@@ -123,3 +141,37 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-green-tools-shaping-film/"><u>[New] Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>[New] In 2024, Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-phantom-3-an-overview-review/"><u>[New] In 2024, DJI Phantom 3 - An Overview Review</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[Updated] Behind the Scenes  How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-beyond-photography-an-exhaustive-review-of-the-toolwiz-app-2023/"><u>[Updated] Beyond Photography  An Exhaustive Review of the Toolwiz App, 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-expert-techniques-for-streaming-facebook-live-2023/"><u>[Updated] In 2024, Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-hotspot-performance-post-restart/"><u>Boosting Windows 11 Hotspot Performance Post-Restart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-your-windows-11s-performance-on-5g-networks/"><u>Boosting Your Windows 11'S Performance on 5G Networks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-boundaries-innovations-for-windows-11-widget-design/"><u>Breaking Boundaries: Innovations for Windows 11 Widget Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-chains-of-stuck-downloads-on-windows-11-pcs/"><u>Breaking the Chains of Stuck Downloads on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breath-of-fresh-windows-11-air-for-archaic-machines-via-to-go-and-rufus/"><u>Breath of Fresh Windows 11 Air for Archaic Machines via To Go & Rufus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-the-hourglass-fixes-for-missing-windows-server-time/"><u>Bring Back the Hourglass: Fixes for Missing Windows Server Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/budgeting-without-breaking-the-bank-on-windows-11/"><u>Budgeting Without Breaking the Bank on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-successful-install-of-ms-pc-manager/"><u>Bypass Error: Successful Install of MS PC Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restricted-access-on-your-winsec-pc/"><u>Bypassing 'Restricted Access' On Your WinSec PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-controlled-windows-settings-by-administrators/"><u>Bypassing Controlled Windows Settings by Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-peak-load-warning-for-gpt-windows-usage/"><u>Bypassing Peak Load Warning for GPT-Windows Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calming-down-lifes-overdrive-in-windows-realm/"><u>Calming Down Life's Overdrive in Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-your-pc-run-windows-11-check-these-system-requirements/"><u>Can Your PC Run Windows 11? Check These System Requirements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-uninstall-the-epic-games-launcher-on-windows-11-heres-how-to-fix-it/"><u>Can’t Uninstall the Epic Games Launcher on Windows 11? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-chromes-automatic-new-tab-generations-on-windows/"><u>Cease Chrome's Automatic New Tab Generations on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-unintentional-restarts-windows-11-guide/"><u>Cease Unintentional Restarts: Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-unintended-tabs-the-chrome-conundrum/"><u>Ceasing Unintended Tabs: The Chrome Conundrum</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-restful-states-on-your-windows-pc/"><u>Choosing Restful States on Your Windows PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ar-merging-physical-and-fictional-worlds/"><u>In 2024, AR  Merging Physical and Fictional Worlds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-f15-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy F15 5G Device SIM</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-film-frenzy-top-picks-of-free-and-paid-movies-on-iphones/"><u>In 2024, Film Frenzy  Top Picks of Free & Paid Movies on iPhones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-fcpx-fix-it-handbook-solving-common-problems/"><u>In 2024, The FCPX Fix-It Handbook Solving Common Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-camon-20-premier-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Camon 20 Premier 5G FRP Without Computer</u></a></li>
+</ul></div>

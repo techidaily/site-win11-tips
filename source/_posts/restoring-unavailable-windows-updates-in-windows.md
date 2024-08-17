@@ -1,7 +1,7 @@
 ---
 title: Restoring Unavailable Windows Updates in Windows
-date: 2024-07-12T16:34:57.835Z
-updated: 2024-07-13T16:34:57.835Z
+date: 2024-08-16T02:32:07.930Z
+updated: 2024-08-17T02:32:07.930Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,15 @@ To run the Windows Update troubleshooter:
 5. To run the SFC scan, input the following command and press**Enter** :  
 `sfc /scannow`  
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Scan for Malware
 
  If the Windows Update service is still missing, you might be dealing with a virus or malware infection. To check for this possibility, you'll have to run a full system scan using the built-in Windows Security app. Here are the steps for the same.
@@ -77,6 +83,9 @@ To run the Windows Update troubleshooter:
 5. Within the**Services** key, locate the**wuauserv** key. If you can’t find it, skip to step number 9.
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Right-click the**wuauserv** again and select**Delete** .
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
@@ -155,11 +164,17 @@ To run the Windows Update troubleshooter:
 `
 12. Click the**File** menu in the top left corner and select**Save as** .  
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 13. Save the file with**.reg** extension.
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Factory Reset Windows
 
  Lastly, if none of the above solutions work, you can consider resetting Windows to its default settings. This will revert your computer to factory settings and remove any third-party software packages.
@@ -172,6 +187,9 @@ To reset your Windows computer:
 4. In the "Reset this PC" wizard, select**Keep my files** if you want to retain your personal files. Otherwise, select**Remove everything** .
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
@@ -199,3 +217,40 @@ To reset your Windows computer:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms-for-2024/"><u>[New] Harness KineMaster's Power  Techniques for Professionals & Top Online Platforms for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-descriptive-power-for-3-engaging-instagram-video-stories/"><u>[New] In 2024, Leveraging Descriptive Power for 3 Engaging Instagram Video Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-powerpoints-voice-command-capabilities-step-by-step/"><u>[New] Unveiling PowerPoint's Voice Command Capabilities Step by Step</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-fb-content-windows-plus-mac-methods/"><u>[Updated] In 2024, Unlocking FB Content  Windows + Mac Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-visualize-your-vision-embrace-win11s-movie-maker-capabilities-for-2024/"><u>[Updated] Visualize Your Vision  Embrace Win11's Movie Maker Capabilities for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>2024 Approved  Deconstructing Digital Dimensions  The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>2024 Approved  How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-make-your-images-stand-out-mastering-background-removal-with-photopea/"><u>2024 Approved  Make Your Images Stand Out  Mastering Background Removal with Photopea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-ais-influence-on-the-newest-windows-11-landscape/"><u>Dissecting AI's Influence on the Newest Windows 11 Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradication-of-windows-update-malfunction-error-0x80246007/"><u>Eradication of Windows Update Malfunction: Error 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-tackling-windows-not-found-issue/"><u>Essential Steps: Tackling Windows' Not Found Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-motorola-g24-power-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola G24 Power</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-marketplace-error-0x80073cf3/"><u>Mastering Fixes for Windows Marketplace (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-try-connecting-bluetooth-failures-on-windows-11-os/"><u>Overcoming 'Try Connecting' Bluetooth Failures on Windows 11 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-arduino-uno-driver-challenges-under-windows-environment/"><u>Overcoming Arduino Uno Driver Challenges Under Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-access-errors-in-windows-a-step-by-step-guide/"><u>Solving Access Errors in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-qr-code-scanners-in-windows-environment/"><u>Step-by-Step: QR Code Scanners in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-phantom-v-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Phantom V Flip FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-restore-procedures/"><u>Understanding and Utilizing Windows 11'S Restore Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-package-management-proficiency-wingetui-for-windows-users/"><u>Unlock Package Management Proficiency: WingetUI for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-and-galaxy-ties-with-samsung-dex/"><u>Unveiling Windows 11 & Galaxy Ties with Samsung DeX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-for-money-in-activity-monitoring-with-the-fitbit-versa-lite-overview/"><u>Value for Money in Activity Monitoring with the Fitbit Versa Lite Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Non-Installed Optional Windows Functions: A 7-Step Guide"
-date: 2024-07-12T16:44:59.733Z
-updated: 2024-07-13T16:44:59.733Z
+date: 2024-08-16T02:21:31.443Z
+updated: 2024-08-17T02:21:31.443Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,9 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the [DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -54,6 +57,9 @@ Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Reset the Windows Update Components
 
  Windows Update Components include all the services, tasks, and programs that work together to make sure your Windows system is up-to-date and secure.
@@ -77,9 +83,15 @@ net start msiserver`
  This command will stop the Windows Update services, rename the**SoftwareDistribution** and**catroot2** folders, and then restart the services. This can help reset the update process and fix any issues that might be causing problems with optional feature installation.
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -91,6 +103,9 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 4. Follow the prompts to complete the troubleshooting process.
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
@@ -124,6 +139,9 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -139,6 +157,9 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows PowerShell (Admin)** or**Terminal (Admin)** .
 3. Type the following command and press**Enter** :  
 Get-WindowsOptionalFeature -Online ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
@@ -173,3 +194,44 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME ![Enable Optional
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-chucklecraft-sign-up-now-and-laugh-later/"><u>[New] ChuckleCraft  Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-onestream-techniques-for-effective-streaming/"><u>[New] Simplifying OneStream Techniques for Effective Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[Updated] From Ordinary to Extraordinary  The Roadmap to Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-inexpensive-pc-playback-devices-for-2024/"><u>[Updated] Inexpensive PC Playback Devices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mirth-machines-zombie-comedy-constructors-for-2024/"><u>[Updated] Mirth Machines  Zombie Comedy Constructors for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-methods-for-youtubers-rapid-subscriber-expansion/"><u>2024 Approved  Proven Methods for Youtubers' Rapid Subscriber Expansion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-productivity-integrating-flow-launcher-into-daily-routine/"><u>Amplify Productivity: Integrating Flow Launcher Into Daily Routine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-recording-basics-for-newcomers-on-win-11/"><u>Audio Recording Basics for Newcomers on Win 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-adventures-with-right-tools-and-tech/"><u>Capturing Adventures with Right Tools & Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/conquer-the-crunch-how-to-edit-and-reduce-massive-tiktok-files-for-2024/"><u>Conquer the Crunch  How to Edit and Reduce Massive TikTok Files for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-high-dpi-displays-a-windows-guide/"><u>Dealing with High DPI Displays: A Windows Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-dell-sound-card-drivers-free-downloads-and-updates/"><u>Easy Installation: Dell Sound Card Drivers - Free Downloads and Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-new-wi-fi-drivers-on-windows-7/"><u>Effortless Installation of New Wi-Fi Drivers on Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-time-intensive-gpsvc-hangs/"><u>Eliminating Time-Intensive GPSVC Hangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-files-in-flux-top-6-methods-to-extract-and-duplicate-windows-11-folder-trails/"><u>Finding Files in Flux: Top 6 Methods to Extract and Duplicate Windows 11 Folder Trails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-qualcomm-atheros-ar3011-complete-guide-with-bluetooth-30-drivers/"><u>Free Download: Qualcomm Atheros AR3011 - Complete Guide with Bluetooth 3.0 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-compatibility-challenges-with-intel-gpu/"><u>Guiding Users Through Compatibility Challenges with Intel GPU</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/inception-filming-review-examination-for-2024/"><u>Inception Filming Review Examination for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/m1-max-clip-your-ultimate-guidebook-for-2024/"><u>M1 Max Clip  Your Ultimate Guidebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-automation-for-batch-files/"><u>Mastering Windows Automation for Batch Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-teams-speed-and-efficiency-upgrade/"><u>Microsoft Teams' Speed & Efficiency Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-browser-heft-comparing-best-options-for-low-ram-usage/"><u>Minimizing Browser Heft: Comparing Best Options for Low RAM Usage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mp4-video-information-changers-top-editor-options/"><u>MP4 Video Information Changers Top Editor Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-utilizing-toolbar-features-in-microsofts-pcm-win11/"><u>Navigating and Utilizing Toolbar Features in Microsoft's PCM Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-read-only-folder-issues/"><u>Overcoming Windows 11 Read-Only Folder Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rethinking-default-browsing-in-newest-windows-os/"><u>Rethinking Default Browsing in Newest Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-systems-graphics-with-windows-11-tips/"><u>Revive Your System's Graphics with Windows 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-digital-management-with-windows-automatic-file-disposal/"><u>Simplify Digital Management with Windows' Automatic File Disposal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-with-apple-maps-from-a-pc/"><u>Steering with Apple Maps From a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-pc-top-5-windows-speed-solutions/"><u>Supercharge Your PC: Top 5 Windows Speed Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-repair-exploration-sifting-through-disms-role-with-chkdsksfc/"><u>System Repair Exploration: Sifting Through DISM's Role with CHKDSK/SFC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-resource-allocation-within-wsl-android-environment/"><u>Tailoring Resource Allocation Within WSL-Android Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-pc-select-prime-clock-saver-programs/"><u>Transform Windows PC – Select Prime Clock Saver Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook-for-2024/"><u>Updated Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-do-numbers-on-windows-updates-stand-for/"><u>What Do Numbers on Windows Updates Stand For?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ram-a-quick-guide-for-efficient-identification/"><u>Windows RAM: A Quick Guide for Efficient Identification</u></a></li>
+</ul></div>

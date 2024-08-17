@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Techniques: How to Utilize the Background Blur on W11 Photos"
-date: 2024-07-12T17:23:54.631Z
-updated: 2024-07-13T17:23:54.631Z
+date: 2024-08-16T01:44:04.091Z
+updated: 2024-08-17T01:44:04.091Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How to Enable and Use Background Blur in the Photos App
 
  At the time of writing, the Background Blur feature is exclusive to the Windows Insider channel only. Earlier it was available only for the [Canary and Dev](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) channel users, but Microsoft rolled it out for the Beta and Release Preview channels as well.
@@ -40,14 +43,27 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
 ![Selecting the background blur feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-the-background-blur-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
 ![Automatic blur effect in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/automatic-blur-effect-in-photos-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Click and drag the mouse on the area to select it for applying the blur effect.
 3. Use the adjustment sliders to tweak the brush size and softness of the blur as per your preference.
 4. If you want to deselect a part of the image from the blur effect, click on the **Deselect area** option.  
 ![Deselecting area in background blur effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/deselecting-area-in-background-blur-effect.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Then click and drag the brush on the area of the image to deselect it.
 6. After making all the changes, click on the **Apply** button to finalize the blur effect.
 7. Now, click on the **Save a copy** button.
@@ -58,11 +74,17 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
  We tried it with multiple images and the feature did a good job of identifying the background area to blur. You get control over the blur intensity and can also select more areas or deselect some of them to exclude from the effect. The automatic selection feature is enough in most cases.
 
 ![Background blur effect in action in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/background-blur-effect-in-action-in-photos-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
  You cannot use the tool to only blur a portion of the image and will first have to apply the background blur effect. So, it is effective for background blurring and not precision blurring a small portion of an image.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easily Blur the Backgrounds in Your Photos
 
  The Background Blur feature will be a handy addition to the Photos app. However, the lack of options to apply the blur effect to a small portion of the image is an issue that needs to be addressed by Microsoft.
@@ -78,3 +100,52 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-low-cost-audio-tools-1-to-10-desktop-recorder-guide/"><u>[New] 2024 Approved  Leading Low-Cost Audio Tools  #1 to #10 Desktop Recorder Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagrams-secure-livestream-your-silent-journey/"><u>[New] Instagram's Secure Livestream  Your Silent Journey</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamline-your-content-embedding-youtube-media-into-instagrams-story-section/"><u>[New] Streamline Your Content  Embedding YouTube Media Into Instagram's Story Section</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-and-screenshotting-like-a-pro-essential-mac-techniques-for-2024/"><u>[Updated] Streaming and Screenshotting Like a Pro  Essential Mac Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-enhance-your-gopros-battery-health/"><u>2024 Approved  How to Enhance Your GoPro's Battery Health</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-story-highlight-a-user-friendly-guide/"><u>2024 Approved  Instagram Story Highlight  A User-Friendly Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-core-variations-between-exe-and-msi-formats/"><u>Analyzing the Core Variations Between EXE and Msi Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-11-integrity-through-activation-verification/"><u>Assessing Windows 11 Integrity Through Activation Verification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-calendar-the-windows-outlook-customization-journey/"><u>Bring Life to Your Calendar: The Windows Outlook Customization Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-concepts-a-guide-to-obsidian-visualization/"><u>Captivating Concepts: A Guide to Obsidian Visualization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-keyspace-perfection-on-windows-11/"><u>Configuring Keyspace Perfection on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-dynamic-and-user-friendly-windows-interface/"><u>Create a Dynamic and User-Friendly Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windowsapps-get-inside/"><u>Demystifying WindowsApps: Get Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-device-names-candd-a-clear-breakdown/"><u>Dissecting Device Names (C&D): A Clear Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dodge-the-null-error-resolving-win11-problems/"><u>Dodge the Null Error: Resolving Win11 Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x800700e1-in-w10w11/"><u>Eliminating Error 0X800700E1 in W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-use-of-windows-explorer-with-advanced-skills-not-ls/"><u>Enhancing Your Use of Windows Explorer with Advanced Skills, Not LS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-open-mouse-settings-efficiently-in-win11/"><u>Essential Tips: Open Mouse Settings Efficiently in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-desktop-or-laptops-sound-system/"><u>Expert Tips for Repairing Your Desktop or Laptop's Sound System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unwanted-keystroke-combinations-on-pcs/"><u>Fixing Unwanted Keystroke Combinations on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-setup-java-development-kit-in-windows-11/"><u>How to Effortlessly Setup Java Development Kit in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-y100a-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Y100A on Mac?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unearth-windows-crash-reports-after-bsod/"><u>How to Unearth Windows' Crash Reports After BSOD</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-exploring-windows-11s-archives/"><u>Journey Through Time: Exploring Windows 11’S Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/low-priced-windows-keys-what-youre-really-paying-for/"><u>Low-Priced Windows Keys: What You're Really Paying For</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-management-add-gmail-accounts-to-outlook-windows/"><u>Masterful Management: Add Gmail Accounts to Outlook, Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-20-key-cmd-commands-a-primer/"><u>Mastering 20 Key CMD Commands: A Primer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-seagate-backup-plus-drives-top-seo-techniques-for-optimal-results/"><u>Mastering Seagate Backup Plus Drives : Top SEO Techniques for Optimal Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-steam-ui-error-on-windows-os-platform/"><u>Mending Steam UI Error on Windows OS Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tricks-to-overcome-pin-failures-in-win10win11/"><u>Quick Tricks to Overcome PIN Failures in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-network-nirvana-a-guide-to-the-top-6-ways-to-mend-network-hardware-in-windows/"><u>Reclaim Your Network Nirvana: A Guide to the Top 6 Ways to Mend Network Hardware in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/returning-the-windows-11-search-bar-to-an-icon-style/"><u>Returning the Windows 11 Search Bar to an Icon Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-stopped-netflix-app-in-windows/"><u>Reviving the Stopped Netflix App in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/routes-to-success-system32-on-windows-11/"><u>Routes to Success: System32 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-locate-missing-ubisoft-game-launcher/"><u>Solutions to Locate Missing Ubisoft Game Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-for-resolving-missing-msconfig-in-windows-1011/"><u>Swift Action for Resolving Missing MSCONFIG in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-slowness-issues-of-a-windows-printer/"><u>Swiftly Resolve Slowness Issues of a Windows Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-superuser-access-challenges/"><u>Tackling Windows' Superuser Access Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-methods-resolving-wwe-2k23-freeze-in-windows-11/"><u>Top 9 Methods: Resolving WWE 2K23 Freeze in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-windows-11s-system32-folder-way/"><u>Uncover the Windows 11'S System32 Folder Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-epic-gaming-on-pc-by-solving-login-glitches/"><u>Unlock Epic Gaming on PC by Solving Login Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-zoom-correction-for-error-1132/"><u>Windows 11 Zoom Correction for Error 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-update-fresh-start-procedure/"><u>Windows Update Fresh Start Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-utility-tips-efficiently-handling-archived-files/"><u>Windows Utility Tips: Efficiently Handling Archived Files</u></a></li>
+</ul></div>

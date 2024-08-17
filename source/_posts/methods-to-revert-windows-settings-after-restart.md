@@ -1,7 +1,7 @@
 ---
 title: Methods to Revert Windows Settings After Restart
-date: 2024-07-12T16:42:54.611Z
-updated: 2024-07-13T16:42:54.611Z
+date: 2024-08-16T02:23:32.873Z
+updated: 2024-08-17T02:23:32.873Z
 tags:
   - windows10
   - windows11
@@ -56,9 +56,15 @@ To run Automatic Startup Repair, follow these steps:
 5. When your PC restarts, select**Troubleshoot** from the Choose an option screen.
 6. Select**Advanced options** and then click**Startup Repair** .  
 ![Startup repair in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/startup-repair-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to run the automatic repair tool. After you complete the above process, restart your computer and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Check Your User Profile
 
  If the issue persists, check your user profile and make sure it’s not corrupt. If your user profile is corrupted, Windows will reset the settings when you restart. Here’s how to check it:
@@ -81,10 +87,16 @@ On the next screen, navigate to the following path:
 
  Then double-click on the newly created RefCount and enter**0** in the Value data field. Click**OK** to save your changes and exit Registry Editor. After this, restart your computer and check whether the settings reset problem is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Create a New User Profile
 
  If you weren’t able to repair the corrupt profile in the Registry Editor, you may have to [create a new user profile on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) . Creating a new user profile does not delete the old one, so all your data will remain intact, but you will have to reconfigure your settings. After creating it, log out of your current user account and switch to the newly created one. Check if this fixes the settings reset issue.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Uninstall Recent Updates
 
  Microsoft releases Windows updates periodically to keep your system secure. But sometimes these updates fail to install properly and cause various issues. If you recently installed any programs or updates, uninstall them to check if that fixes the problem.
@@ -93,6 +105,9 @@ On the next screen, navigate to the following path:
 
  Click**Roll Back Driver** and then follow the instructions on-screen to complete the process. After rolling back the driver, restart your computer to apply the changes and check if it solves the settings reset issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### 6\. Perform Some Generic Windows Fixes
 
  There are some general Windows-based fixes you can apply to fix this issue.
@@ -103,6 +118,9 @@ On the next screen, navigate to the following path:
 
  Keep in mind that all files and applications installed after the selected restore point will be deleted. To avoid losing important data, create a backup before performing a System Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Fixing Windows Settings Reset on Reboot
 
  The Windows settings reset on reboot issue can occur for a number of reasons, including corrupt user profiles, corrupted installed programs or updates, and driver issues. This guide provides several methods to fix this issue. Check out these solutions and see which one work for you.
@@ -126,3 +144,40 @@ On the next screen, navigate to the following path:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>[New] Premier Pick  Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] Spotlight on ZDSoft  Screen Capture for Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-critical-approaches-to-documenting-youtube-live-video-for-2024/"><u>[Updated] Critical Approaches to Documenting Youtube LIVE Video for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-earning-through-instagram-a-guide-to-attracting-brand-partnerships/"><u>[Updated] Earning Through Instagram  A Guide to Attracting Brand Partnerships</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-web-capture-gadgets-for-pcs-for-2024/"><u>[Updated] Essential Web-Capture Gadgets for PCs for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-mastery-downloading-made-simple-on-macbook-for-2024/"><u>[Updated] TikTok Mastery  Downloading Made Simple on MacBook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-digital-picks-free-alarm-ringtones-download/"><u>[Updated] Top Digital Picks  Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-vimeo-cutting-suite-revealed/"><u>2024 Approved  Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-blocked-files-on-windows-with-powershell/"><u>Breaking Down Blocked Files on Windows With PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-cannot-create-windows-mmc-error/"><u>Breaking Down the 'Cannot Create' Windows MMC Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-browsing-after-your-windows-launch/"><u>Breaking Into Browsing After Your Windows Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-frozen-services-manager-top-7-methods-explored/"><u>Breathe Life Into Frozen Services Manager: Top 7 Methods Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-windows-11-overcoming-slowdowns/"><u>Breathe Life Into Windows 11: Overcoming Slowdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-locked-windows-screen-saver/"><u>Breathe Life Into Your Locked Windows Screen Saver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-non-operational-win11-licenses/"><u>Breathing Life Into Non-Operational Win11 Licenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-galaxy-and-pc-unveil-dex-potential/"><u>Bridging the Gap Between Galaxy & PC: Unveil DeX Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-life-to-your-desk-with-win-1011-sketches/"><u>Bring Life to Your Desk with Win 10/11 Sketches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-capture-failed-on-your-pcs-camera-app/"><u>Bypass Capture Failed on Your PC's Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-met-not-satisfied-tagging-on-win11/"><u>Bypass Met Not Satisfied Tagging on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-barriers-to-implement-win11-version-22h2-update/"><u>Bypassing Barriers to Implement Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-connectivity-hiccups-for-windows-users-and-spotify/"><u>Bypassing Connectivity Hiccups for Windows Users and Spotify</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-blockers-fixing-amd-installation-woes/"><u>Bypassing Error Blockers: Fixing AMD Installation Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-frozen-program-error-in-windows-security/"><u>Bypassing Frozen Program Error in Windows Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-update-failure-windows-error-code-0x80242016/"><u>Bypassing Update Failure: Windows Error Code 0X80242016</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-local-user-security-qanda/"><u>Bypassing Windows 11'S Local User Security Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-your-filenames-with-powertoys/"><u>Centralize Your Filenames with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-preferred-initial-web-address-on-w11/"><u>Changing Preferred Initial Web Address on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-a-drives-for-your-games-on-xbox-app-made-simple/"><u>Choosing a Drives for Your Games on Xbox App, Made Simple</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-text-while-watching-turn-off-subtitles-on-amazon-prime-here/"><u>No More Text While Watching? Turn Off Subtitles on Amazon Prime Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimal-cameras-compatible-with-windows-hello/"><u>Optimal Cameras Compatible with Windows Hello</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-build-your-own-google-cardboard-vr-setup-for-2024/"><u>Step-by-Step  Build Your Own Google Cardboard VR Setup for 2024</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-13c-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 13C 5G can’t play AVCHD .mts video</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Swiftly Convert CR2 Images to Windows-Friendly JPG Format
-date: 2024-07-12T16:54:45.758Z
-updated: 2024-07-13T16:54:45.758Z
+date: 2024-08-16T02:12:41.937Z
+updated: 2024-08-17T02:12:41.937Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 1. Open this [Image Converter](https://apps.microsoft.com/store/detail/image-converter/9PGN31QTZQ26?hl=en-us&gl=us)[Microsoft Store](https://apps.microsoft.com/store/detail/image-converter/9PGN31QTZQ26?hl=en-us&gl=us) page.
 2. Click **Get in Store** app to bring up a prompt for [opening the Microsoft Store app](https://www.makeuseof.com/windows-open-microsoft-store/).  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-get-in-store-app-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Select Open Microsoft Store to access a **Download** option for Image Converter.
 4. Click Image Converter’s **Install** option.
 5. Select **Open** to bring up Image Converter.
@@ -58,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 2. Choose a CR2 image to convert and click **Select**.
 3. Select **JPEG** on the **Output format** drop-down menu.  
 ![The file format conversion options in Image Converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-format-selection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Press the **Click to Choose** button and select a folder in which to save the JPG file. Then click the **Select Folder** option.
 5. Click the checkbox for the file you’ve selected to convert.
 6. Press the **Convert All** **Images** button.  
 ![The Image Converter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-image-converter-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 7. Wait for the conversion tool to finish.
 8. Then open the converted JPG image from the folder you selected to save it in.
 
@@ -72,12 +81,18 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 1. Open the [FreeConvert CR2 to JPG](https://www.freeconvert.com/cr2-to-jpg) web app.
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Select a CR2 file and click **Open**.
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
 ![The Convert option in FreeConvert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/convert-option.jpg)
 6. Press the web app’s **Download** option.  
 ![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 ## How to Convert CR2 Images to JPG With IrfanView
@@ -88,6 +103,14 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 2. Click the **IrfanView 64-bit Windows Installer** download link.
 3. Then click the **IrfanView All Plugins – 64-bit Windows Installer** download link.  
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
 5. Go to the directory that the IrfanView files were downloaded to.
 
@@ -102,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
  As you can open CR2 images in IrfanView, you don’t need to convert them to JPG. However, it’s still better to do so because JPG images have smaller file sizes than CR2 photos. So, you can save some drive space by converting a CR2 image to JPG and then erasing the original file. This is how you can convert a CR2 photo to JPG in IrfanView:
 
@@ -110,10 +137,25 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 ![The Batch Conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-conversion-option.jpg)
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
 5. Select your CR2 file and click **Add**.
 6. Click on the **Output format** drop-down menu to select JPG.  
 ![The Output format options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/output-format-option.jpg)
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. To choose an output format, click the **Browse** option. Then select a folder in the window that opens and click **OK**.
 8. Press the **Start Batch** option.  
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
@@ -138,3 +180,50 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-stunning-instagram-videos/"><u>[New] In 2024, Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultra-clear-gameplay-best-hdmi-21-monitors-for-ps5-gamers/"><u>[New] In 2024, Ultra-Clear Gameplay  Best HDMI 2.1 Monitors For PS5 Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>[New] Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieve-social-stardom-essential-tips-for-thriving-instagram-unboxings/"><u>[Updated] Achieve Social Stardom  Essential Tips for Thriving Instagram Unboxings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-testimonials-for-genuine-brand-connection-for-2024/"><u>[Updated] Harnessing Testimonials for Genuine Brand Connection for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[Updated] Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>[Updated] In 2024, Quick-Convert  Facebook Videos to MP4, Opting for HD Variants</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-game-capture-windows-11-edition/"><u>[Updated] Mastering Game Capture  Windows 11 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-2024-cloud-offerings-price-and-efficacy-showdown/"><u>[Updated] Top 2024 Cloud Offerings  Price & Efficacy Showdown</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-frame-your-photos-right-with-top-tools-editors/"><u>2024 Approved  Frame Your Photos Right with Top Tools Editors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-adjustments-nine-fixes-to-smooth-out-windows-11-gaming/"><u>Accelerated Adjustments: Nine Fixes to Smooth Out Windows 11 Gaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471805750-achieve-peak-performance-calibrating-the-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance: Calibrating the iPhone Battery in Just Six Steps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-dual-users-ms-error-on-windows-os/"><u>Addressing Dual Users' MS Error on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-your-desktop-background-effortlessly-with-win11/"><u>Alter Your Desktop Background Effortlessly with Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-between-browsing-and-plug-ins-which-version-of-chatgpt-is-ideal-for-your-needs/"><u>Deciding Between Browsing and Plug-Ins: Which Version of ChatGPT Is Ideal for Your Needs?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/declutter-your-drive-discovering-excessive-disk-space-consumers/"><u>Declutter Your Drive: Discovering Excessive Disk Space Consumers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-usb-drive-errors-windows-tips/"><u>Eliminating USB Drive Errors: Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-starting-wordpad-efficiently-on-windows/"><u>Essential Guide: Starting WordPad Efficiently on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-conquering-system-calls-failure-in-windows-11/"><u>Expert Tips for Conquering System Calls Failure in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-f5-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-disabled-windows-update-service/"><u>Immediate Actions for Disabled Windows Update Service</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/jogging-beats-compile-your-ultimate-running-soundtrack-for-2024/"><u>Jogging Beats  Compile Your Ultimate Running Soundtrack for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-screen-quiet-disable-win11-folders/"><u>Mastering Screen Quiet: Disable Win11 Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-your-windows-overcome-geforce-experience-failures/"><u>Mend Your Windows: Overcome GeForce Experience Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-troubled-waters-in-windows-mail-app-with-0x800713f/"><u>Navigating Through Troubled Waters in Windows Mail App with 0X800713F</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-utorrent-performance-in-win-os/"><u>Optimizing uTorrent Performance in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-protection-activating-tpm-and-secure-boot-before-w11-update/"><u>Prioritize Protection: Activating TPM and Secure Boot Before W11 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-pc-identifying-the-7-most-suspicious-windows-processes/"><u>Protect Your PC: Identifying the 7 Most Suspicious Windows Processes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-recovery-tips-how-to-restore-missing-or-lost-xlivedll-files-successfully/"><u>Quick Recovery Tips: How To Restore Missing or Lost Xlive.dll Files Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-reach-word-definitions-on-your-system/"><u>Rapidly Reach Word Definitions on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-broken-system-defragmenter-execution/"><u>Rectifying Broken System Defragmenter Execution</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/spotlight-innovative-tiktok-expressions/"><u>Spotlight  Innovative TikTok Expressions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-detectable-windows-commands/"><u>Strategies for Fixing Non-Detectable Windows Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformative-power-for-photo-renewal-with-windows/"><u>Transformative Power for Photo Renewal with Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-failures-on-older-windows-versions/"><u>Troubleshooting Installer Failures on Older Windows Versions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-battery-performance-common-problems-and-solutions/"><u>Understanding iPhone 14 Battery Performance: Common Problems & Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unprecedented-ar-app-with-vocal-recognition/"><u>Unprecedented AR App with Vocal Recognition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-media-maker-tool-error-x90017-on-windows/"><u>Unraveling Media Maker Tool Error X.90017 On Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-9a-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 9A Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-access-decoding-password-demand/"><u>Winning Back Access: Decoding Password Demand</u></a></li>
+</ul></div>

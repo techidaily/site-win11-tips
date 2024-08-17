@@ -1,7 +1,7 @@
 ---
 title: "Notable Nights of Non-Opening Notepad: Your Solution Guide for Windows Users"
-date: 2024-07-12T17:15:13.689Z
-updated: 2024-07-13T17:15:13.689Z
+date: 2024-08-16T01:51:55.597Z
+updated: 2024-08-17T01:51:55.597Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 6. Type**.txt** in the search box and click the current default app.
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Try opening a few text files and see if they open in Notepad.
 
@@ -57,6 +60,9 @@ To repair the Notepad app on Windows:
 4. Click the**three-dot menu icon** next to Notepad and select**Advanced options** .
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should see a checkmark next to the Repair button once the process is complete. Then, try to [open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
@@ -68,6 +74,9 @@ To repair the Notepad app on Windows:
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the [optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -86,6 +95,9 @@ To repair the Notepad app on Windows:
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Run the SFC and DISM Scans
 
  Corrupted system files could also interfere with system processes and prevent Notepad from opening. The System File Checker (SFC) is a built-in utility that can help you repair system files on Windows. It basically scans your system for damaged system files and replaces them with their cached versions.
@@ -123,11 +135,18 @@ To create a new user account on Windows:
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can [move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Start Using Notepad Again
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
@@ -151,3 +170,53 @@ To create a new user account on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-art-of-influential-hashtags-on-ig/"><u>[New] 2024 Approved  Mastering the Art of Influential Hashtags on IG</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cultivate-creativity-10plus-channel-driven-video-suggestions/"><u>[New] Cultivate Creativity  10+ Channel-Driven Video Suggestions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-quick-paths-to-influence/"><u>[New] Mastering Instagram  Quick Paths to Influence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unmatched-editing-apps-to-enhance-webcam-content/"><u>[Updated] 2024 Approved  Unmatched Editing Apps to Enhance Webcam Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-advanced-editing-techniques-that-maximize-obs-potential/"><u>[Updated] Advanced Editing Techniques That Maximize OBS Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-soundscapes-synergy-video-and-music-pairing/"><u>[Updated] In 2024, Soundscapes Synergy  Video and Music Pairing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-listings-photoplustune-recording-software-innovations/"><u>[Updated] Prime Listings  Photo+Tune Recording Software Innovations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-regulatory-challenges-in-todays-complex-markets/"><u>2024 Approved  Navigating Regulatory Challenges in Today's Complex Markets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-sticky-context-menus-in-windows-11-edition/"><u>Addressing Sticky Context Menus in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitfort-fractured-stay-the-course-before-change/"><u>BitFort Fractured: Stay the Course Before Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-self-initiating-open-of-search-bar-win11-help/"><u>Cease Self-Initiating Open of Search Bar, Win11 Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-time-and-date-on-windows-11-taskbar/"><u>Configuring Time and Date on Windows 11 Taskbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/correcting-the-error-zlibdll-failure-to-load-on-your-system/"><u>Correcting the Error: 'Zlib.dll' Failure to Load on Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719364670351-create-a-gratis-local-gptclone-with-gpt4all-for-windows/"><u>Create a Gratis, Local GPTClone with GPT4All for Windows.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-screen-capture-strategies-for-effective-facetime-recording-for-2024/"><u>Efficient Screen-Capture Strategies for Effective FaceTime Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-smart-color-settings-in-windows-11-programs/"><u>Enable Smart Color Settings in Windows 11 Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-security-modifying-the-reset-counter-post-failed-logon-attempts-win-11/"><u>Enhancing Security: Modifying the Reset Counter Post Failed Logon Attempts, Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-printer-disconnection-in-windows-10-and-11-systems/"><u>Fast Track Printer Disconnection in Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-end-task-feature-for-efficient-task-execution-windows-11/"><u>How to Configure End Task Feature for Efficient Task Execution (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-unreachable-status-for-malwarebytes-services-in-win11/"><u>How to Fix Unreachable Status for Malwarebytes' Services in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-1-v-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Xperia 1 V Phone without Google Account?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-comprehensive-guide-top-12-websites-for-gratis-photo-libraries/"><u>In 2024, A Comprehensive Guide  Top 12 Websites for Gratis Photo Libraries</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-crafting-the-perfect-mc-homestead-layout/"><u>In 2024, Crafting the Perfect MC Homestead Layout</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-8-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 8? Learn All 4 Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-google-pixel-8-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Google Pixel 8 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jokejigsaw-crafting-comedy-graphics/"><u>In 2024, JokeJigsaw  Crafting Comedy Graphics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-key-to-designing-captivating-valorant-videos-for-youtube/"><u>In 2024, The Ultimate Key to Designing Captivating Valorant Videos for YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-unveiling-five-free-tools-leveraging-chatgpt-to-draft-professional-emails-and-summarize-correspondence/"><u>Maximize Productivity: Unveiling Five Free Tools Leveraging ChatGPT to Draft Professional Emails & Summarize Correspondence</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-essential-tweaks-for-enhanced-windows-performance/"><u>Maximizing RAM: Essential Tweaks for Enhanced Windows Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-black-screen-phenomenon-in-webcams/"><u>Overcoming Black Screen Phenomenon in Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-boot-options-modifying-windows-11s-startup-delay/"><u>Quick Boot Options: Modifying Windows 11'S Startup Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-ailing-xbox-controllers/"><u>Restoring Functionality to Ailing Xbox Controllers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saga-syntaxes-how-dialogues-shape-star-wars-narrative/"><u>Saga Syntaxes: How Dialogues Shape Star Wars' Narrative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-active-directory-related-printer-crashes-on-w11/"><u>Strategies for Resolving Active Directory-Related Printer Crashes on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-c51-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unable-to-open-geforce-experience-error/"><u>Troubleshooting Unable to Open GeForce Experience Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-printer-access-for-windows-users/"><u>Unblocking Printer Access for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-windows-error-code-0x80071a90/"><u>Understanding and Correcting Windows Error Code: 0X80071A90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unplugging-problems-addressing-frequent-ps4-disconnection-in-pc/"><u>Unplugging Problems: Addressing Frequent PS4 Disconnection in PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-recurring-anydesk-windows-anomalies/"><u>Unraveling Recurring AnyDesk Windows Anomalies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-mysteries-of-microsofts-copilot-key-in-windows-11/"><u>Unveiling the Mysteries of Microsoft's Copilot Key in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-accessibility-in-the-absence-of-built-in-browser/"><u>Web Accessibility in the Absence of Built-In Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-gaming-experience-boosted-by-solving-directdraw-errors/"><u>Windows 11 & 11 Gaming Experience Boosted by Solving DirectDraw Errors</u></a></li>
+</ul></div>

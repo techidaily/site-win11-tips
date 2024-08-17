@@ -1,7 +1,7 @@
 ---
 title: Backup Plan for Windows Users When BitLocker Isn't an Option
-date: 2024-07-12T18:00:22.553Z
-updated: 2024-07-13T18:00:22.553Z
+date: 2024-08-16T01:07:54.721Z
+updated: 2024-08-17T01:07:54.721Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,15 @@ thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf33
  You can check your edition by navigating to**Settings** \>**System** \>**About** . This information will be available under the Windows specifications section.
 
 ![Windows Edition and Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-edition.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
  We also recommend making sure that the version of the edition you are using supports BitLocker. Versions refer to the specific releases of Windows and are typically identified by a number or name.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 2\. Check the Minimum Requirements
 
  If your Windows edition supports BitLocker, then the next thing you should do is check if the minimum requirements for this utility are met. Here is what your system should have:
@@ -54,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf33
 
  If your system meets all the minimum requirements for BitLocker encryption, but you are still unable to find BitLocker in Windows, the issue may be related to other factors. In such cases, you can move on to the next troubleshooting method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 3\. Enable the Relevant Services for BitLocker
 
  To access and use BitLocker, the BitLocker Driver Encryption Service must be up and running in Windows. If this service is either disabled or has gotten corrupt, you are likely to run into the problem at hand.
@@ -65,12 +74,18 @@ Here is how you enable/restart this service:
 3. In the following window, locate the BitLocker Driver Encryption Service and right-click on it.
 4. Choose**Properties** from the context menu.  
 ![Access the BitLocker service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bitlocker-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Now, click on the**Start** button if the service was disabled. If it was enabled already, click on the**Stop** button, wait for a couple of seconds, and hit Start.
 6. Expand the dropdown for Startup type and choose Automatic.
 7. Click**Apply** \>**OK** to save the changes.
 
  Once done, you can close the Services windows and check if you can now locate and access BitLocker without any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 4\. Enable BitLocker Using the Group Policy
 
  There is also a chance that an administrator or another user has disabled BitLocker via the Group Policy Editor. You can undo these changes by enabling the relevant policy in GPE. However, to proceed with this method, you will need administrative access to the system.
@@ -86,6 +101,9 @@ Here is all that you need to do:
 Computer Configuration > Administrative Templates > Windows Components > BitLocker Drive Encryption > Operating System Drives
 5. Move to the right pane and double-click on**Require additional authentication at startup** .  
 ![Edit the BitLocker policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-group-policy.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 6. In the following window, choose**Enabled** .
 7. In case your device does not support BitLocker, move down to the Options section and checkmark the box associated with**Allow BitLocker without a compatible TPM** .
 8. Click**Apply** \>**OK** to save the changes.
@@ -113,3 +131,45 @@ Computer Configuration > Administrative Templates > Windows Components > BitLock
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-techniques-to-ensure-uninterrupted-video-capturing/"><u>[New] 2024 Approved  Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-framedivider-evaluation-report/"><u>[New] In 2024, FrameDivider Evaluation Report</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-is-apple-m1-macbook-air-good-for-video-editing-for-2024/"><u>[New] Is Apple M1 MacBook Air Good for Video Editing for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-how-to-solve-nvidia-geforce-experience-game-lag-heres-what-we-found/"><u>[Quick Fix] How to Solve Nvidia GeForce Experience Game Lag – Here's What We Found</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-eliminate-quiet-vids-tweet-audio-revival/"><u>[Updated] 2024 Approved  Eliminate Quiet Vids  Tweet Audio Revival</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-become-an-instagram-influencer-easily/"><u>[Updated] How to Become an Instagram Influencer Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>[Updated] Top Picks  Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>2024 Approved  Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-quirky-qs-how-to-save-funny-tweets-as-gifs/"><u>2024 Approved  Quick, Quirky Qs  How To Save Funny Tweets as GIFs</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-0xc00ce556-the-winoss-parsing-quest/"><u>Debugging 0xC00CE556: The WinOSs Parsing Quest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routes-to-your-computers-command-center/"><u>Easy Routes to Your Computer’s Command Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-xbox-audio-quality-within-windows-11-framework/"><u>Elevating Xbox Audio Quality Within Windows 11 Framework</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-context-menus-add-a-windows-diskspace-viewer/"><u>Enhance Context Menus: Add a Window's DiskSpace Viewer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-hp-wireless-keyboard-connection-issues-solutions-and-tips/"><u>Fixing HP Wireless Keyboard Connection Issues: Solutions and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-library-error-inability-to-sync-files/"><u>Fixing Steam Library Error: Inability to Sync Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-12-proplus-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 12 Pro+ 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x80300024-in-windows/"><u>How to Fix Error 0X80300024 in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-delving-into-windows-boot-zone/"><u>Key Steps for Delving Into Windows' Boot Zone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-issues-with-ea-games-on-pc/"><u>Mastering Network Issues with EA Games on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-specific-excel-new-cell-inserts-glitches/"><u>Navigate Through Windows-Specific Excel New Cell Inserts Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-poetic-genres-gpt-3-as-your-guide/"><u>Navigating Poetic Genres: GPT-3 as Your Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-do-you-want-to-make-video-metadata-on-mac-here-you-will-know-8-best-video-metadata-editors-for-mac-they-are-easy-to-use-for-beginners-chec/"><u>New 2024 Approved Do You Want to Make Video Metadata on Mac? Here You Will Know 8 Best Video Metadata Editors for Mac. They Are Easy to Use for Beginners. Check It Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-onedrive-failure-in-windows-versions-1011/"><u>Overcoming OneDrive Failure in Windows Versions 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-insufficient-privilege-install-error-on-win-1110/"><u>Resolving Insufficient Privilege Install Error on Win 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-lost-d3dx939dll-in-modern-windows-11/"><u>Resolving Lost D3DX9_39.dll in Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-the-initializing-wow-snag/"><u>Sidestep the Initializing WoW Snag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-microphone-issues-with-xbox-app-on-pc/"><u>Solutions to Microphone Issues with Xbox App on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spotlight-websites-offering-youtube-branding-collaborations-for-2024/"><u>Spotlight  Websites Offering YouTube Branding Collaborations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subsys-end-prepare-seamless-switch-to-new-android-setup-methods/"><u>Subsys End, Prepare: Seamless Switch to New Android Setup Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-sluggish-downloads-on-windows-pcs/"><u>Tips for Addressing Sluggish Downloads on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-powertoys-across-computers/"><u>Unifying PowerToys Across Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975903732-update-to-newest-amd-smbus-drivers-for-seamless-performance-download-today/"><u>Update to Newest AMD SMBus Drivers for Seamless Performance - Download Today</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-exploring-key-components-and-creation-process-of-ai-face-generators-for-2024/"><u>Updated Exploring Key Components and Creation Process of AI Face Generators for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unearth-lost-features-and-tab-for-a-smoother-experience/"><u>Windows 11: Unearth Lost Features and Tab for a Smoother Experience</u></a></li>
+</ul></div>

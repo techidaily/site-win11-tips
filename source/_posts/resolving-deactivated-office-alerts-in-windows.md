@@ -1,7 +1,7 @@
 ---
 title: Resolving Deactivated Office Alerts in Windows
-date: 2024-07-12T17:42:32.637Z
-updated: 2024-07-13T17:42:32.637Z
+date: 2024-08-16T01:25:35.590Z
+updated: 2024-08-17T01:25:35.590Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ You can fix this by disabling offline mode in Outlook:
 2. Click the option that says**Work Offline** to disable it.  
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check Outlook's In-App Notification Settings
 
  If Outlook fails to send notifications even when it is online, you should check Outlook’s in-app notification settings to make sure email alerts aren't disabled.
@@ -75,7 +78,14 @@ Follow these steps to check Outlook’s notification settings:
 2. Click on**Battery saver** to expand it.
 3. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 6\. Check Outlook's Rules
 
  The rules in Outlook allow you to specify how different types of emails should be handled. If you have previously set any notification rules in the Outlook app, this may cause them to not show. If unsure, you can go through Outlook’s rules to disable any rules related to notifications.
@@ -86,7 +96,13 @@ Here's how you can access Outlook's rules:
 2. In the**Info** tab, select the**Manage Rules & Alerts** option.
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -97,6 +113,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 2. Type**%localappdata%\\Microsoft\\Outlook** in the Open field and press**Enter** .
 3. In the**RoamCache** folder that appears,[select all the files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) and click the trash icon at the top to delete them.  
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Restart Outlook after this and check if the notifications are working now.
 
@@ -107,6 +126,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
@@ -120,6 +142,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 
 ## 10\. Repair the Microsoft Office Suite
 
@@ -130,6 +155,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 3. Locate and select Microsoft Office on the list. Then, click the**Change** button at the top.
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
@@ -158,3 +186,70 @@ Follow these steps to delete Outlook's cache data on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-gpu-recognition-failure-windows/"><u>[FIXED] GPU Recognition Failure Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-decoding-the-nuances-of-whatsapp-audio-messages/"><u>[New] 2024 Approved  Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] 2024 Approved  How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-conquering-viewersphere-channels-that-rule-the-net-for-2024/"><u>[New] Conquering Viewersphere  Channels that Rule the Net for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-choosing-the-best-portable-microphones-for-macos-users/"><u>[New] In 2024, Choosing the Best Portable Microphones for MacOS Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-eliminating-camera-tremors-in-gopro-recordings/"><u>[Updated] In 2024, Eliminating Camera Tremors in GoPro Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>[Updated] Peak Performance  Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-smooth-visual-journeys-master-fades-in-a-flash-for-2024/"><u>[Updated] Smooth Visual Journeys  Master Fades in a Flash for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-ways-to-fix-a-cursor-when-it-moves-on-its-own-in-windows-11/"><u>10 Ways to Fix a Cursor When It Moves On Its Own in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-correcting-iphone-camera-focusing-errors-effectively/"><u>2024 Approved  Correcting iPhone Camera Focusing Errors Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundational-methods-to-improve-color-balance/"><u>2024 Approved  Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>2024 Approved  Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-keys-to-windows-program-harmony/"><u>4 Keys to Windows Program Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-crucial-windows-apps-making-mac-to-windows-swap-a-breeze/"><u>5 Crucial Windows Apps Making Mac to Windows Swap a Breeze</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-to-fix-failed-security-codes-from-epic-games-on-windows/"><u>7 Strategies to Fix Failed Security Codes From Epic Games on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-things-you-should-avoid-doing-on-windows-11/"><u>8 Things You Should Avoid Doing on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-close-examination-of-9-key-factors-that-advantage-pcs/"><u>A Close Examination of 9 Key Factors That Advantage PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-getting-jdk-rolled-out-in-windows-11-dev-environment/"><u>A Guide to Getting JDK Rolled Out in Windows 11 Dev Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerating-windows-printer-speedy-solutions/"><u>Accelerating Windows Printer: Speedy Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-perfection-in-window-management-via-alomware/"><u>Achieving Perfection in Window Management via AlomWare</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-windows-11s-archiving-feature/"><u>Activating Windows 11'S Archiving Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activatingdeactivating-windows-key-made-simple/"><u>Activating/Deactivating Windows Key Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-hypervisor-on-windows-sandbox/"><u>Addressing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-displays-that-wont-ignite-on-new-windows-versions/"><u>Addressing Displays That Won't Ignite On New Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-code-zero-x-in-the-mail-application-of-windows/"><u>Addressing Error Code Zero X in the Mail Application of Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-errors-caused-by-organization-managed-features-on-windows-11/"><u>Addressing Errors Caused by Organization-Managed Features on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-high-cpu-usage-dropbox-optimization-in-windows/"><u>Addressing High CPU Usage: Dropbox Optimization in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-microsofts-administrative-default-configurations-in-windows-11/"><u>Addressing Microsoft's Administrative Default Configurations in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-shown-pc-monitor-at-startup/"><u>Addressing Non-Shown PC Monitor at Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-one-way-outlook-issue-in-secure-environments/"><u>Addressing the One-Way Outlook Issue in Secure Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-update-disruption-x712-fiasco/"><u>Addressing Windows Update Disruption: X712 Fiasco</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-and-controlling-rgb-on-windows-11-pcs/"><u>Adjusting and Controlling RGB on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-methods-for-bypassing-windows-error-0x80040610-in-office/"><u>Advanced Methods for Bypassing Windows Error 0X80040610 in Office</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aid-in-correcting-windows-media-tool-issue-x8007043c/"><u>Aid in Correcting Windows' Media Tool Issue X.8007043C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-drivers-for-windows-a-comprehensive-update-guide/"><u>Audio Drivers for Windows: A Comprehensive Update Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-accidental-scrolling-on-your-windows-device/"><u>Avoid Accidental Scrolling on Your Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-frustration-fixing-11s-windows-pin-hiccups/"><u>Avoid Frustration: Fixing 11'S Windows PIN Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-overlapping-defenses-opt-for-a-singular-antivirus-on-windows/"><u>Avoid Overlapping Defenses: Opt for a Singular Antivirus on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-the-worst-javascript-failures-while-using-discord-in-win-oses/"><u>Avoiding the Worst JavaScript Failures While Using Discord in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/batch-rename-made-easy-the-powerof-tools-guide/"><u>Batch-Rename Made Easy: The PowerOf Tools Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bid-farewell-to-frustration-solving-your-esc-key-issues/"><u>Bid Farewell to Frustration: Solving Your Esc Key Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bidding-farewell-to-ads-in-the-win-11-startup/"><u>Bidding Farewell to Ads in the Win 11 Startup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-setting-up-shortcuts-for-windows-troubleshooters/"><u>Boost Efficiency: Setting Up Shortcuts for Windows Troubleshooters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-file-management-using-checkbox-for-selections-in-win11/"><u>Boost File Management: Using Checkbox for Selections in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-pc-speed-with-improved-win11-startups/"><u>Boost PC Speed with Improved Win11 Startups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-customized-windows-cmd-tricks-and-tips/"><u>Boost Productivity: Customized Windows Cmd Tricks and Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/celebrity-evanescent-video-review/"><u>Celebrity Evanescent Video Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719268444157-eliminate-non-responsive-printer-a-guide-for-wwin-issues-on-pcs/"><u>Eliminate Non-Responsive Printer: A Guide for WWin Issues on PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-neo-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT Neo 5 Devices | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-edge-40-neo-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Edge 40 Neo online without jailbreak</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Z50S Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-8t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor Play 8T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-merging-youtube-with-imovie-a-soundtrack-journey/"><u>In 2024, Merging Youtube with iMovie  A Soundtrack Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-optimizing-final-viewers-interactions-on-yt/"><u>In 2024, Optimizing Final Viewers' Interactions on YT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-paint-peculiar-pictures-with-giphy/"><u>In 2024, Paint Peculiar Pictures with Giphy</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-graphics-an-examination-of-cg318-4k-by-eizo/"><u>In 2024, Revolutionizing Graphics  An Examination of CG318-4K by EIZO</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-languages-effortlessly-how-chatgpt-serves-as-your-personal-translation-assistant/"><u>Navigating Languages Effortlessly: How ChatGPT Serves as Your Personal Translation Assistant</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-final-cut-pro-color-grading-essentials-for-2024/"><u>New Final Cut Pro Color Grading Essentials for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/showcase-of-top-movie-teasers/"><u>Showcase of Top Movie Teasers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/strategies-to-address-and-correct-inconsistent-drops-in-frames-per-second/"><u>Strategies to Address and Correct Inconsistent Drops in Frames Per Second</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719328507288-uncomplicated-start-menus-say-no-to-ads/"><u>Uncomplicated Start Menus - Say No to Ads!</u></a></li>
+</ul></div>

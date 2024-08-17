@@ -1,7 +1,7 @@
 ---
 title: The Windows Photos App's Generative Erase Is Actually Great
-date: 2024-07-12T17:02:06.872Z
-updated: 2024-07-13T17:02:06.872Z
+date: 2024-08-16T02:05:43.031Z
+updated: 2024-08-17T02:05:43.031Z
 tags:
   - windows10
   - windows11
@@ -25,28 +25,46 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Generative Erase in Windows Photos
 
  Open the Photos app on your desktop and find or load the image you want to edit. If the Photos app is your default photo viewer, double-clicking the image should open it.
 
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is Generative Erase on Windows Photos Any Good?
 
  I attempted to remove the light pole in the original image twice: [using the Magic Eraser](https://www.makeuseof.com/how-to-use-magic-eraser/) on the Pixel 8 Pro and with Windows Photos. In the edited photos, you'll see that both did a pretty good job removing the object and adjusting the background. The second image was edited using the Windows Photos app, while I used Magic Eraser on the third.
@@ -77,3 +95,58 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[New] 2024 Approved  Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-essential-handheld-guide-to-youtube-production/"><u>[New] 2024 Approved  The Essential Handheld Guide to YouTube Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[New] In 2024, Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktok-hits-twitters-viral-top-10-list/"><u>[New] TikTok Hits  Twitter's Viral Top 10 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>[Updated] 2024 Approved  Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-best-practices-for-transforming-tiktok-content-into-gifs/"><u>[Updated] In 2024, Best Practices for Transforming TikTok Content Into GIFs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>2024 Approved  Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-obs-and-zoom-synchronization-techniques/"><u>2024 Approved  OBS & Zoom Synchronization Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>2024 Approved  The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-effective-steps-for-lifelong-disabling-of-windows-defender/"><u>5 Effective Steps for Lifelong Disabling of Windows Defender</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deception-secrets-to-identifying-genuine-windows-store-apps/"><u>Beware Deception: Secrets to Identifying Genuine Windows Store Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-ms-teams-error-80080300-fixes-for-w11-users/"><u>Breaking Down MS Teams Error 80080300: Fixes for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-password-entry-for-instantaneous-win-11-connections/"><u>Bypassing Password Entry for Instantaneous Win 11 Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calculating-filesize-and-capacity-the-ultimate-powershell-exercise/"><u>Calculating Filesize and Capacity: The Ultimate PowerShell Exercise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-read-only-mode-a-guide-for-windows-users/"><u>Disabling Read-Only Mode: A Guide for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-viber-out-insights-and-reviews-for-smart-users/"><u>Discovering Viber Out: Insights and Reviews for Smart Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-to-follow-pathway-accessing-wordpad-on-pcs/"><u>Easy-to-Follow Pathway: Accessing WordPad on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-speed-status-in-windows-desktop-area/"><u>Effortless Speed Status in Windows Desktop Area</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-gestures-for-efficient-browsing-in-edge-win-11-edition/"><u>Enabling Gestures for Efficient Browsing in Edge, Win 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-user-experience-customizing-windows-11-defaults/"><u>Enhancing Your User Experience: Customizing Windows 11 Defaults</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-vr-companies-for-the-next-decade-for-2024/"><u>Essential VR Companies for the Next Decade for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gaming-smoother-with-warhammer-40k-on-windows-no-more-stutters/"><u>Gaming Smoother with Warhammer 40K on Windows, No More Stutters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-fixing-unexpected-system-call-failures-on-win1011/"><u>Guide: Fixing Unexpected System Call Failures on Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-10-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reduce-windows-surrounders-feature/"><u>How To Reduce Windows Surrounders Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-solve-default-file-savings-in-windows-pcs/"><u>How to Solve Default File Savings in Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 14 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-media-subtitles-transformation/"><u>In 2024, Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-12r-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 12R Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-back-to-joy-playing-classics-on-dosbox-x/"><u>Jump Back to Joy: Playing Classics on DOSBox-X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-science-of-storage-sizing-in-windows-through-powershell/"><u>Mastering the Science of Storage Sizing in Windows Through Powershell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-restoring-standard-user-permissions/"><u>Mastering Windows 11: Restoring Standard User Permissions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-disk-space-safely/"><u>Maximizing Windows Disk Space Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-hidden-remove-button-for-windows-11-security/"><u>Reactivating Hidden 'Remove' Button for Windows 11 Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screenshare-success-crafting-unique-wallpapers-per-windows-1011-monitor/"><u>Screenshare Success: Crafting Unique Wallpapers per Windows 10/11 Monitor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silence-missed-specification-alert-on-windows-11/"><u>Silence Missed Specification Alert on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/simplified-smartphone-excellence-a-deep-dive-into/"><u>Simplified Smartphone Excellence: A Deep Dive Into</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-controlling-devices-on-dormant-windows-systems/"><u>Strategies for Controlling Devices on Dormant Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-creation-from-batch-to-exe-on-pc/"><u>Streamlining File Creation From Batch to EXE on PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-razr-40-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Razr 40 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-premier-tv-streaming-platforms/"><u>The Ultimate List of Premier TV Streaming Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-vintage-gaming-journey-integrating-trophies-via-retroarch/"><u>Transform Your Vintage Gaming Journey: Integrating Trophies via Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-app-not-certified-by-microsoft-on-pc/"><u>Troubleshooting 'App Not Certified by Microsoft' On PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-microsoft-store-error-0x80073d26/"><u>Troubleshooting Microsoft Store Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-server-executed-failed-mystery/"><u>Unraveling the 'Server Executed Failed' Mystery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wins-top-7-cybersecurity-apps-to-safeguard-privacy-156-chars-trimmed-slightly/"><u>Win's Top 7 Cybersecurity Apps to Safeguard Privacy (156 Chars - Trimmed Slightly)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-to-allow-third-party-antiviruses-with-windows-defender/"><u>Workaround to Allow Third-Party Antiviruses with Windows Defender</u></a></li>
+</ul></div>

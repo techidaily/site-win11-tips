@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Rectify 'Can't Add Your Folder Now' In OneDrive
-date: 2024-07-12T17:06:42.248Z
-updated: 2024-07-13T17:06:42.248Z
+date: 2024-08-16T01:59:54.998Z
+updated: 2024-08-17T01:59:54.998Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  If these fixes don’t help, move to the more specific solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Run the OneDrive Troubleshooter
 
  The OneDrive troubleshooter is a diagnostic tool provided by Microsoft that identifies issues with the OneDrive app and fixes them automatically. It is designed to automatically detect problems related to OneDrive syncing, connectivity, configuration, and other common errors.
@@ -40,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 1. Head over to the [official OneDrive troubleshooter page](https://support.microsoft.com/en-us/home/contact?linkquery=run%20the%20onedrive%20troubleshooter).
 2. Scroll down to the "Are you having any of these issues?" section and pick the **Sync issues** option.  
 ![Sync issues of OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sync-issues.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Follow the on-screen instructions to proceed. You will be asked a few questions that will help the troubleshooter identify the underlying problem.  
 ![OneDrive troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/drive-troubleshooter.jpg)
 4. Implement the changes the troubleshooter suggests and see if that fixes your problem.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 3\. Check for Folder Permissions
 
  The folder or file you are trying to add might have incorrect or insufficient share permissions, which is preventing OneDrive from adding it successfully.
@@ -55,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 3. Review the list of users and their corresponding permissions. Check if your user account has the necessary permissions to read, write, modify, and access the folder.
 4. If it does not, click on the **Edit** button associated with it and assign the required permissions.  
 ![Edit permissions for account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-permissions.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Click **Apply** \> **OK** to save the changes and close the Properties window.
 
  You can now try re-adding the targeted file/folder and check if the error appears again.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable Conflicting Software
 
  In some cases, a background process or software can interfere with the functionality of OneDrive, leading to the issue.
@@ -86,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 * **Delete unnecessary files**: Remove any unwanted files and folders from your OneDrive account that you no longer need. We also recommend checking your OneDrive Recycle Bin and permanently deleting any files you no longer need, as the Recycle Bin occupies storage space as well.
 * **Upgrade your OneDrive storage**: If deleting the unwanted files doesn’t help, or you consistently need more storage space, consider upgrading your OneDrive subscription to a higher storage tier. This will allow you to add more content in the future without worrying about the available space.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 6\. Reinstall OneDrive
 
  In case you have exhausted all options and are still unable to add the desired file/folder, you can consider uninstalling OneDrive and then reinstalling it from scratch.
@@ -107,3 +125,43 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pendulum-assembly-set/"><u>[Updated] 2024 Approved  Pendulum Assembly Set</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-economical-floating-space-huge-data-packs-on-a-dime/"><u>[Updated] In 2024, Economical Floating Space  Huge Data Packs on a Dime</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pinpointing-pioneers-a-strategic-look-at-influencers-on-insta/"><u>[Updated] In 2024, Pinpointing Pioneers  A Strategic Look at Influencers on Insta</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-power-of-facebook-with-these-top-5-chrome-tools/"><u>[Updated] In 2024, Unlock the Power of Facebook with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagrams-visual-spectacle-with-step-by-step-slow-motion-guide-for-2024/"><u>[Updated] Mastering Instagram’s Visual Spectacle with Step by Step Slow Motion Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-metaverse-and-multimetase-distinctions-expert-explanation/"><u>[Updated] Unraveling Metaverse and Multimetase Distinctions (Expert Explanation)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-plain-story-formulation/"><u>2024 Approved  Plain Story Formulation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-how-to-for-customizing-windows-11-with-widgets/"><u>A Comprehensive How-To for Customizing Windows 11 with Widgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-network-adapter-error-31-quickly/"><u>Addressing Windows Network Adapter Error 31 Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ceasing-windows-notification-for-updates/"><u>Ceasing Windows Notification for Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-printer-busy-message-in-win11/"><u>Eliminating Printer Busy Message in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-employing-law-filters-within-windows/"><u>Essential Insights: Employing LAW Filters Within Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-the-best-fileshare-apps-on-a-windows-laptop/"><u>Exclusive Guide to the Best Fileshare Apps on a Windows Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-examine-excel-data-in-notepad/"><u>How to Examine Excel Data in Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-strategies-against-locked-out-windows-pin/"><u>Immediate Strategies Against Locked-Out Windows PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-x6-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco X6 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-8-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 8 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowering-dropbox-cpu-utilization-on-windows-machines/"><u>Lowering Dropbox CPU Utilization on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-error-0x0000004e-in-windows-devices/"><u>Navigating Error 0X0000004E in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-ignoring-soon-expiring-licenses-alerts-in-windows/"><u>Quick Fix for Ignoring Soon Expiring Licenses Alerts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-this-pc-cant-run-post-windows-11-setup/"><u>Rectifying 'This PC Can't Run' Post-Windows 11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-command-over-disabled-menu-functions/"><u>Regaining Command over Disabled Menu Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-steps-for-windows-sandboxs-hypervisor-not-found/"><u>Remediation Steps for Windows Sandbox's Hypervisor Not Found</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-internal-errors-quickly-with-windows-rdp-connections/"><u>Resolving Internal Errors Quickly with Windows RDP Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/"><u>Running State-of-the-Art AI: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-file-organization-in-windows-11/"><u>Simplifying File Organization in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-cant-get-mail-errors-windows-11-edition/"><u>Strategies to Overcome Can’t Get Mail Errors, Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-cross-platform-tools-for-microsoft-enthusiasts/"><u>Top 8 Cross-Platform Tools for Microsoft Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-volume-control-fix-guide/"><u>Windows 10/11 Volume Control Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-history-hiccup-quick-fixes-in-3-steps/"><u>Windows History Hiccup - Quick Fixes in 3 Steps</u></a></li>
+</ul></div>

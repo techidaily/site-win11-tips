@@ -1,7 +1,7 @@
 ---
 title: How to Speed Up Epic Games Launcher Downloads on Windows
-date: 2024-07-12T17:12:03.034Z
-updated: 2024-07-13T17:12:03.034Z
+date: 2024-08-16T01:54:59.032Z
+updated: 2024-08-17T01:54:59.032Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
  After performing the above checks and fixes, move on to the main fixes.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 3\. Disable Downloads Throttling
 
  The Epic Games client allows users to throttle downloads when playing games or using network resources for something more substantial. This handy setting prevents the launcher from overstressing your bandwidth during a game update or installation.
@@ -51,10 +54,17 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 1. Launch the Epic Games Launcher.
 2. Click the **profile icon** in the top right corner and select **Settings**.  
 ![Open Settings in the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-open-settings-in-the-epic-games-launcher.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 3. Make sure that the box beside **Throttle Downloads** isn't checked.
 4. If it was checked before, click the box once to uncheck it.  
 ![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
  The Windows operating system prioritizes essential system processes over third-party ones. Consequently, it allocates the most resources to prioritized processes to improve efficiency. As Epic Games processes are also third-party, they are also viewed as low priority. Hence fewer resources are allocated to them.
@@ -67,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 4. Right-click on this process, navigate to **Set Priority,** and select **High**.  
 ![Change the Priority of the Epic Games Launcher Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-change-the-priority-of-the-epic-games-launcher-process-in-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Clear Epic Games Launcher's Cache
 
  The Epic Games Launcher keeps some data in its cache, which makes it easier for the client to find and load necessary information faster. If not cleared timely, the accumulated cache can lead to unforeseen problems, including slow download speeds. Therefore, it is imperative to clear the cache, especially if it hasn't been cleared in a while.
@@ -77,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 2. Navigate to **Local > EpicGamesLauncher > Saved** folders.
 3. Delete each **webcache** folder you find.  
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reconfigure the Engine.ini File
 
@@ -86,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 2. Navigate to **Local > EpicGamesLauncher > Saved > Config > Windows** folders.
 3. Here, right-click the **Engine.ini** file and open it with Notepad or any other text editor.  
 ![Open the Engine.ini File in Notepad From the Epic Games Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-open-the-engine-ini-file-in-notepad-from-the-epic-games-installation-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 4. Delete all the content in this file and add the following code instead:  
 `[HTTP]  
 HttpTimeout=10  
@@ -129,3 +149,44 @@ RetryTime=0.5`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-shift-techniques-using-3dlut-on-mobile/"><u>[New] Quick-Shift Techniques  Using 3DLUT on Mobile</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-flawless-image-reader-with-quick-access/"><u>[Updated] Flawless Image Reader with Quick Access</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-dissecting-obs-technology-for-top-level-recording/"><u>[Updated] In 2024, Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-screenshot-and-recorder-windows-10-for-2024/"><u>[Updated] Ultimate Screenshot & Recorder, Windows 10 for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-dull-to-dynamic-a-pros-guide-to-shade-shifting/"><u>2024 Approved  From Dull to Dynamic  A Pro's Guide to Shade Shifting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-text-to-screen-srt-to-subc-transformation-tips/"><u>2024 Approved  From Text to Screen  SRT-to-SUBC Transformation Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-tapestry-assembly-techniques/"><u>2024 Approved  Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cross-pc-qbittorrent-migration-tips-and-techniques/"><u>Cross-PC qBittorrent Migration Tips & Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effortless-techniques-for-iphone-screen-recordings/"><u>Effortless Techniques for Iphone Screen Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-packaged-photo-errors-on-windows-11-and-11-pro/"><u>Eliminating Packaged Photo Errors on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-secure-data-movement-in-microsoft-edge-shield-for-w11/"><u>Enabling Secure Data Movement in Microsoft Edge Shield for W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-computer-functionality-post-intel-hardware-violation/"><u>Enhancing Computer Functionality Post-Intel Hardware Violation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-every-frame-try-these-7-proficient-colorists-styles/"><u>Enhancing Every Frame  Try These 7 Proficient Colorists’ Styles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-visibility-strategic-application-of-descriptions/"><u>Enhancing File Visibility: Strategic Application of Descriptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-refreshing-your-gpu-driver-in-windows/"><u>Essential Tips for Refreshing Your GPU Driver in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-abruptly-remove-non-functional-printers-in-windows-os/"><u>How to Abruptly Remove Non-Functional Printers in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ideal-webp-vision-tools-for-windows-enthusiasts/"><u>Ideal WebP Vision Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-nintendo-switch-prime-capture-experience/"><u>In 2024, Nintendo Switch  Prime Capture Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner/"><u>In 2024, Syma X5C In-Depth Guide  Optimal Choice to Lift Off as a Beginner</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m14-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M14 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-spool-service-relaunch/"><u>Instant Spool Service Relaunch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-drivers-for-razer-blade-17-seamless-update-process-on-various-windows-platforms/"><u>Latest Drivers for Razer Blade 17: Seamless Update Process on Various Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-always-ontop-status-of-calculator-in-windows/"><u>Maintaining Always Ontop Status of Calculator in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cross-language-dialogues-with-windows-11-keyboard-combinations/"><u>Mastering Cross-Language Dialogues with Windows 11 Keyboard Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-calls-tracking-techniques/"><u>Mastering Windows Calls Tracking Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-notebook-display-adjusting-windows-11s-themes-and-fonts/"><u>Optimizing Notebook Display: Adjusting Windows 11'S Themes & Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x8007251d-validation-and-solutions/"><u>Overcoming Windows Error 0X8007251D: Validation and Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-your-cmd-window-set-as-default/"><u>Personalize Your CMD Window: Set as Default</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-policy-enforcement-one-user-multiple-windows-versions/"><u>Personalized Policy Enforcement: One User, Multiple Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/registry-tweaks-for-windows-setup-management/"><u>Registry Tweaks for Windows Setup Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-reds-greens-and-blues-avoiding-windows-color-confusion/"><u>Resolving Reds, Greens & Blues: Avoiding Windows' Color Confusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-success-unleash-potential-using-these-top-8-studying-techniques-for-windows/"><u>Skyrocket Success: Unleash Potential Using These Top 8 Studying Techniques for Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ming-made-simple-free-downloader-to-mp3s-now-for-2024/"><u>Streaming Made Simple  Free Downloader to MP3s Now for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-nvidia-written-out-errors-guide-to-recovery/"><u>Unlocking NVIDIA' Written Out Errors - Guide to Recovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-photo-shortcut-insights/"><u>Windows Photo Shortcut Insights</u></a></li>
+</ul></div>

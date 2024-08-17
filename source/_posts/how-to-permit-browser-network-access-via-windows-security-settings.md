@@ -1,7 +1,7 @@
 ---
 title: How to Permit Browser Network Access via Windows Security Settings
-date: 2024-07-12T17:14:09.017Z
-updated: 2024-07-13T17:14:09.017Z
+date: 2024-08-16T01:52:54.822Z
+updated: 2024-08-17T01:52:54.822Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
  When you're sure that neither Chrome nor any harmful software in your device is causing the trouble, you are good to grant Chrome exclusive access through the firewall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Allow Chrome to Access the Network in Your Firewall Settings
 
  To allow Chrome to access the network in your firewall settings, follow the below steps:
@@ -38,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 2. In the left sidebar, click **Privacy and security**.
 3. In the right pane, click **Windows Security**.  
 ![Opening Windows Security window by Clicking on Privacy and Security in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-3-Opening-Windows-Security-Option-by-Clicking-on-Privacy-and-Security-in-Windows-Settings-App.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 4. Click **Firewall & network protection**.
 5. On the right side of the **Windows Security** window, click on **Allow an app through firewall**.  
 ![Clicking on Allow an App Through Firewall in Windows Security Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-4-Clicking-on-Allow-an-App-Through-Firewall-in-Windows-Security-Settings-in-Windows-Settings-App.jpg)
@@ -46,17 +53,30 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 2. Click the **Change settings** button.
 3. Click on **Allow another app**.  
 ![Clicking on Allow Another App Option to Add New App in Allowed Apps List of Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-5-Clicking-on-Allow-Another-App-Option-to-Add-New-App-in-Allowed-Apps-List-of-Windows-Firewall.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. In the **Add an app** window, click the **Browse** button.
 5. Select Chrome's executable file by going to **C: drive > Program Files > Google > Chrome > Application**.  
 ![Selecting Chrome’s Executable File by Following the Path by Clicking on the Browse Button in Add an App Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-6-Selecting-Chrome’s-Executable-File-by-Following-the-Path-by-Clicking-on-the-Browse-Button-in-Add-an-App-Window.jpg)
 6. Once the path has been defined, click the **Add** button again.  
 ![Clicking on Add Button after Selecting Chrome’s Executable File to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-7-Clicking-on-Add-Button-after-Selecting-Chrome’s-Executable-File-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 7. Make sure the **Public** and **Private** boxes are checked right next to Chrome.
 8. Click **Ok**.  
 ![Checking the Boxes for Public and Private Options Next to Google Chrome to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-8-Checking-the-Boxes-for-Public-and-Private-Options-Next-to-Google-Chrome-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also use [other ways to make an exception in Windows 11](https://www.makeuseof.com/windows-11-security-exclusions/). Once Chrome is added, try opening the webpage again. If the browser still throws the same error, your antivirus is likely to blame. Therefore, you should also add an exception to your antivirus program for Chrome.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make an Exception for Chrome in an Antivirus
 
  Ensure your antivirus isn't blocking Chrome from establishing a connection by making an exception for it. The process of adding an exception for Chrome in your antivirus varies depending on the antivirus you use.
@@ -78,3 +98,38 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>[New] 2024 Approved  Master the Art of YouTube SEO  11 Steps to Improvement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premium-picks-recommended-portals-for-acquiring-snapalert-melodies-for-2024/"><u>[New] Premium Picks  Recommended Portals for Acquiring SnapAlert Melodies for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-powerpoint-video-capture/"><u>2024 Approved  Innovative Approaches to PowerPoint Video Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-cross-language-communication-with-windows-11-hotkeys/"><u>Accelerate Cross-Language Communication with Windows 11 Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-computer-experience-with-these-6-tools/"><u>Accelerate Your Computer Experience with These 6 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-visual-fields-in-windows-systems/"><u>Altering Visual Fields in Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apples-m1-milestone-the-next-gen-computing-core/"><u>Apple’s M1 Milestone  The Next-Gen Computing Core</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-gap-for-sd-detectability-by-explore-window/"><u>Bridge Gap for SD Detectability by Explore Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-forth-invisible-5ghz-connections-with-these-fixes/"><u>Bring Forth Invisible 5GHz Connections with These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-taskview-in-window-11-taskbar-design/"><u>Concealing TaskView in Window 11 Taskbar Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-defusing-error-0x80070570-saving-your-damaged-files-in-windows-11/"><u>Deciphering and Defusing Error 0X80070570: Saving Your Damaged Files in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-mac-locations-on-your-windows-11-system/"><u>Deciphering MAC Locations on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-purpose-and-use-of-microsofts-phone-link-app/"><u>Deciphering the Purpose and Use of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lava-blaze-2-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lava Blaze 2 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-storytellers-sanctuary/"><u>In 2024, Superior Storyteller's Sanctuary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-custom-keybinds-quick-paste-in-win-1011/"><u>Master Custom Keybinds: Quick Paste in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modern-standby-anomalies-in-the-windows-ecosystem/"><u>Modern Standby Anomalies in the Windows Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-lock-pattern-creation-guide-for-windows-11-pcs/"><u>Personalized Lock Pattern Creation Guide for Windows 11 PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-top-8-4k-blu-ray-playback-machines/"><u>Premier Top 8 4K Blu-Ray Playback Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-chrome-induced-system-time-missteps-windows/"><u>Rectifying Chrome-Induced System Time Missteps (Windows)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-assistants-showdown-distinguishing-the-amazon-echo-dot-from-apples-homepod-mini/"><u>Smart Assistants Showdown: Distinguishing the Amazon Echo Dot From Apple's HomePod Mini</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-restoring-wi-fi-connection-on-your-vizio-television/"><u>Step-by-Step Guide: Restoring Wi-Fi Connection on Your Vizio Television</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-device-opens-issue-on-audacity-in-windows/"><u>Steps to Correct Device Opens Issue on Audacity in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-ensure-complete-ram-usage-by-windows-os/"><u>Strategies to Ensure Complete RAM Usage by Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-windows-autoshrink-mechanism/"><u>Taming Window's Autoshrink Mechanism</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-teamsters-downtime-on-windows-11-10/"><u>Troubleshooting Teamsters Downtime on Windows 11, 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-a-comprehensive-guide-using-rufus-on-win11/"><u>Unlocking Secure Boot: A Comprehensive Guide Using Rufus on Win11</u></a></li>
+</ul></div>

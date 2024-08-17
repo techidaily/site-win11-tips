@@ -1,7 +1,7 @@
 ---
 title: Exploring 4 Strategies for MAC Address Extraction in Windows 11
-date: 2024-07-12T17:16:07.867Z
-updated: 2024-07-13T17:16:07.867Z
+date: 2024-08-16T01:50:45.686Z
+updated: 2024-08-17T01:50:45.686Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 ![wifi mac address win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wifi-mac-address.jpg)
 4. At the bottom of the page, look for the**Physical address (MAC)** to find your alphanumeric MAC address string.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Find Your Windows 11 MAC Address via the Command Prompt
 
  If you’re an old-school techie, you might prefer using [the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) as much as possible. Fortunately, you can quickly determine the MAC address of your Windows 11 device with just a single command as follows:
@@ -41,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 `ipconfig /all  
 `  
 ![mac address from cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mac-address-cmd.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. In the Windows IP Configuration, under the**Ethernet adapter** section, you can see your MAC address next to the**Physical Address** field.
 
  The Windows IP Configuration will show the network configuration details of Wifi, Ethernet, and any virtual machines you’ve set up. You can use the**Description** field to ensure you’re using the MAC address of the correct connection type.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 3\. Find the MAC Address of All Windows 11 Network Adapters
 
  Your Windows 11 system can have multiple MAC addresses for different connections. Wifi connections will have a separate MAC address from an Ethernet connection. Similarly, any VM or [VPN](https://www.makeuseof.com/tag/what-is-a-vpn-how-tunneling-works/) will use different network adapter IP configurations.
@@ -55,14 +64,24 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 2. From the sidebar, choose**Network & internet** , and then select**Advanced network settings** from the network page.
 3. Under**More settings** , select the tab titled**Hardware and connection properties** .  
 ![ipconfig of network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-ipconfig.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 4. You can find the required network adapter from the list of displayed IP configurations through the**Description** field. The MAC address will be the alphanumeric string next to the**Physical address (MAC)** field.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 4\. Determine the Network Adapter MAC Address Using Windows 11 Control Panel
 
  As mentioned previously, it’s possible to have multiple network adapters configured on your Windows PC. If you’d like to view all of the configured network adapters and find their specific MAC address, you can do so using the old-school Windows Control Panel:
 
 1. Navigate to **Start > Control Panel > Network and Internet > Network and Sharing Center** .  
 ![change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-adapter-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 2. From the left menu, select**Change adapter settings** to view the list of configured network adapters.
 3. Double-click on a network adapter and click on**Details** .  
 ![all network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-network-adapters.jpg)
@@ -91,3 +110,40 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] 2024 Approved  Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-power-of-proportions-in-youtube-content-creation-for-2024/"><u>[New] Discover the Power of Proportions in YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-11-ultimate-phantom-4-accessories-to-purchase/"><u>[Updated] 11 Ultimate Phantom 4 Accessories to Purchase</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplified-methods-for-recording-successful-online-classes-and-meets/"><u>[Updated] 2024 Approved  Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>[Updated] In 2024, The Clandestine Way  Exploring Insta Stories on Tech Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-unnecessary-cpu-spikes-tips-and-tricks/"><u>Curbing Unnecessary CPU Spikes: Tips & Tricks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/decreasing-decibits-gradually-for-calm-soundscapes-in-lumafusion/"><u>Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-enhanced-ui-in-windows-11/"><u>Discovering Enhanced UI in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-ais-influence-on-the-newest-windows-11-landscape/"><u>Dissecting AI's Influence on the Newest Windows 11 Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exorcising-sound-demons-the-internal-paudio-issue-fix/"><u>Exorcising Sound Demons: The Internal PAudio Issue Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insights-from-docx-to-pdf-mastery-with-windows-11/"><u>Expert Insights: From Docx to PDF Mastery with Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-7-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 7 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-pagefilesys-affect-your-computers-performance-and-safety/"><u>How Does Pagefile.sys Affect Your Computer’s Performance & Safety?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-wirecast-for-facebook-live-broadcasts/"><u>In 2024, Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>In 2024, The Future of Immersion  Insights on LG's 360 VR Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-edge-security-feature-defender-application-guard/"><u>Installing Edge Security Feature: Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invoke-smooth-pathways-into-windows-shares/"><u>Invoke Smooth Pathways Into Windows Shares</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-eliminating-interrupt-error-on-windows-1011/"><u>Methods for Eliminating INTERRUPT Error on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unsteady-mouse-icon-windows-tips/"><u>Overcoming Unsteady Mouse Icon: Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seize-savings-unveil-windows-11-pro-key-deals/"><u>Seize Savings: Unveil Windows 11 Pro Key Deals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-access-errors-in-windows-a-step-by-step-guide/"><u>Solving Access Errors in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-directx-update-challenges-on-windows/"><u>Solving DirectX Update Challenges on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-qr-code-scanners-in-windows-environment/"><u>Step-by-Step: QR Code Scanners in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskmasters-toolkit-best-window-based-productivity-apps-unveiled/"><u>Taskmaster's Toolkit: Best Window-Based Productivity Apps Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-k11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo K11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-your-taskbar-with-windows-11-tweaks/"><u>Trim Down Your Taskbar with Windows 11 Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-successful-updates/"><u>Unlocking Windows 11 Successful Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-windows-11-steps-to-bypass-security-measures/"><u>Unshackling Windows 11: Steps To Bypass Security Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vintage-vs-modern-atlasos-upgrade/"><u>Vintage VS Modern: AtlasOS Upgrade</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Harmonize Window 11 Settings for Clear Prime Video Texts
-date: 2024-07-12T17:40:06.697Z
-updated: 2024-07-13T17:40:06.697Z
+date: 2024-08-16T01:27:19.356Z
+updated: 2024-08-17T01:27:19.356Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually [clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can [update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Repair and Reset the Prime Video App
 
  Windows comes with a Repair function that you can use to eliminate most of the issues with the UWP apps. Here's how to repair the Prime Video app.
@@ -56,19 +62,31 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 3. Click the**three dots** next to**Prime Video for Windows** and choose**Advanced options.**
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Reinstall the Prime Video App
 
  If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first [uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing the Prime Video Subtitles on Windows 11
 
  Watching your favorite movies on Prime Video can be a great way to unwind after a long day. But what if you play the title only to find that subtitles aren't working? Despite how serious it may sound, troubleshooting this issue is very easy. Simply follows the above solutions to fix Prime Video subtitles not working in Windows 11.
@@ -92,3 +110,40 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-editing-excellence-the-ultimate-guide-to-top-notebooks-for-2024/"><u>[Updated] Editing Excellence  The Ultimate Guide to Top Notebooks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-filters-for-the-win-maximize-likes-and-comments-effortlessly/"><u>[Updated] In 2024, Instagram Filters for the Win  Maximize Likes & Comments Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tiletime-effortless-video-mosaics-on-both-oses/"><u>[Updated] TileTime  Effortless Video Mosaics on Both OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-try-now-bluetooth-hurdle-on-pcs-and-tablets/"><u>Bypass 'Try Now' Bluetooth Hurdle on PCs & Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-reset-failure-count-for-incorrect-login-attempts-on-windows-11/"><u>Configuring the Reset Failure Count for Incorrect Login Attempts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-win-pcs-voice-input-problems/"><u>Diagnosing Win PCs' Voice Input Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ephemeral-approach-to-suspending-windows-11-protection-systems/"><u>Ephemeral Approach to Suspending Windows 11 Protection Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-social-networks-insights-on-facebook-twitter-instagram-and-youtube/"><u>Exploring the World of Social Networks: Insights on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-works-on-windows-11-or-11/"><u>How to Install Microsoft Works on Windows 11 or 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/illuminate-again-proven-techniques-to-fix-your-androids-blackened-screen/"><u>Illuminate Again: Proven Techniques to Fix Your Android's Blackened Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-aviation-gadgets-purchase-now/"><u>In 2024, Prime Aviation Gadgets, Purchase Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyrocket-your-shots-with-ps-color-tweaks/"><u>In 2024, Skyrocket Your Shots with PS Color Tweaks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>In 2024, Talecraft Triumphs  The Leading Academies in Narrative Arts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-windows-slide-show-setup-7-essential-steps/"><u>Instant Windows Slide Show Setup: 7 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-inactive-pc-device-engagement/"><u>Mastery of Inactive PC Device Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-barricades-implement-these-7-windows-protections/"><u>Network Barricades: Implement These 7 Windows Protections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-password-management-on-windows-systems/"><u>Repairing Password Management on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-windows-free-software-your-safety-priority-list/"><u>Secure Windows Free Software: Your Safety Priority List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/slash-your-spending-6-unbeatable-online-deal-destinations-revealed/"><u>Slash Your Spending: 6 Unbeatable Online Deal Destinations Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-inaccessible-folder-issue-fix-steps-for-windows-based-pcs/"><u>Solving 'Inaccessible Folder' Issue: Fix Steps for Windows-Based PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-smooth-windows-11-display-transitions/"><u>Steps for Smooth Windows 11 Display Transitions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-post-editing-the-art-of-vimeos-final-screens/"><u>Streamlining Post-Editing  The Art of Vimeo's Final Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-music-librarys-mp3-files-to-windows-audible-cds-with-imgburn/"><u>Streamlining Your Music Library's MP3 Files to Windows' Audible CDs with ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-flaws-with-non-working-ccleaner-in-win1011/"><u>Techniques to Overcome Flaws with Non-Working CCleaner in Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perplexity-of-non-existent-drive-letters-in-windows-systems/"><u>The Perplexity of Non-Existent Drive Letters in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-wsl-factor-in-the-linux-desktop-landscape/"><u>The WSL Factor in the Linux Desktop Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-what-to-anticipate-with-the-discontinuation-of-its-taskbar-chatting-feature/"><u>Windows 11: What to Anticipate With the Discontinuation of Its Taskbar Chatting Feature</u></a></li>
+</ul></div>

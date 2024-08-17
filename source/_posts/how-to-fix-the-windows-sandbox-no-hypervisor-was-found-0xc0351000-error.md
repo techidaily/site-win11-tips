@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows Sandbox No Hypervisor Was Found 0XC0351000 Error
-date: 2024-07-12T17:41:08.636Z
-updated: 2024-07-13T17:41:08.636Z
+date: 2024-08-16T01:26:17.210Z
+updated: 2024-08-17T01:26:17.210Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,9 @@ To check the virtualization status:
 
  Wait for your computer to restart. Open Task Manager to see the Virtualization status in the CPU tab. If it says "Enabled," try to open Windows Sandbox to see if it works without the error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 2\. Enable Virtual Machine Platform Features
 
  Windows Sandbox is available as an optional feature that you can install from the Windows Features dialog, and we've covered how to do this in our guide on [how to enable and set up Windows Sandbox in Windows 11](https://www.makeuseof.com/enable-set-up-windows-sandbox-windows-11/) . Similarly, you may need to enable a few additional optional features essential to run the virtualization tool successfully.
@@ -60,12 +63,21 @@ To enable virtualization features:
 1. Press**Win + I** to open**Settings** .
 2. Type**appwiz.cpl** and click**OK** to open**Control Panel.**  
 ![turn windows features on off windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-featureson-off-windows-11-control-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In the left pane, click on**Turn Windows features on or off.**  
 ![turn on virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-virtual-machine-platform-windows-hypervisor-platform.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 4. In the**Windows Features** dialogue, scroll down and locate**Virtual Machine Platform** and**Windows Hypervisor Platform.**
 5. Select both options and click**OK** .
 6. Windows will start installing the necessary files. So, wait for the process to complete. Once done, click on**Restart Now** to restart your system and apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Set Hypervisor to Run at System Startup
 
  Windows Sandbox may not work if Hypervisor fails to start during system startup. To fix this issue, you can modify your Boot Configuration Data (BCD) file to launch Hypervisor automatically at system startup.
@@ -89,6 +101,9 @@ To set Hypervisor to launch at system startup:
 
 Once done, restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Get Set With Your Sandbox Again
 
  While only available on the Pro, Enterprise, and Education editions of the Windows 10 and 11 running systems, Sandbox is an excellent lightweight virtualization solution to test unsafe files and apps on your PC.
@@ -114,3 +129,40 @@ Once done, restart your computer to apply the changes.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[New] 2024 Approved  Access YouTube Tracks Without Spending a Dime  25+ No-Cost Audio Extractors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-legally-access-game-music-without-spending-money/"><u>[New] How to Legally Access Game Music Without Spending Money</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-subtitle-files-like-a-pro-in-macos/"><u>[New] Navigating Subtitle Files Like a Pro in macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stepwise-approach-to-perfect-videography-adding-filters-on-devices/"><u>[New] Stepwise Approach to Perfect Videography  Adding Filters on Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-constructive-communication-leads-to-more-subscribers/"><u>[Updated] In 2024, Constructive Communication Leads to More Subscribers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-pova-5-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Pova 5 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tactics-to-eliminate-isdonedll-errors/"><u>Expert Tactics to Eliminate ISDone.dll Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-empty-folder-alerts-for-windows-users/"><u>Fixing Empty Folder Alerts for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-a05s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel A05s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-forbidden-you-dont-have-permission-to-access-on-this-server-error-on-windows/"><u>How to Fix the “Forbidden: You Don’t Have Permission to Access / On This Server” Error on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 13 when Phone is Broken?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact/"><u>In 2024, Influencer Innovation  The Top 5 Instagram Tactics for Maximum Impact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-airpod-resetting-fix-connectivity-issues-in-minutes/"><u>Master the Art of AirPod Resetting: Fix Connectivity Issues in Minutes!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer-for-2024/"><u>Mastering File Shift  Quick and Easy Transfer Tactics for the Computer for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system-security-turning-on-controlled-access-in-windows-11/"><u>Mastering System Security: Turning On Controlled Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-pin-gallery-space-in-windows-11/"><u>Maximize Your Pin Gallery Space in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/most-effective-5-image-editing-programs-on-iphone-x-7-8/"><u>Most Effective 5 Image Editing Programs on iPhone (X, 7, 8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-random-shortcut-activation-in-windows/"><u>Overcoming Random Shortcut Activation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-failure-to-detect-powershell/"><u>Overcoming Windows Failure to Detect PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-reactivating-fixed-menu-options-on-pc/"><u>Quick Steps for Reactivating Fixed Menu Options on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restart-your-path-ccleaner-woes-on-win11/"><u>Restart Your Path: CCleaner Woes on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverting-window-11s-search-functionality-back-to-icons/"><u>Reverting Window 11'S Search Functionality Back to Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-file-storage-implementing-windows-folder-restrictions/"><u>Secure File Storage: Implementing Window's Folder Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snooze-techniques-for-efficient-computers/"><u>Snooze Techniques for Efficient Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-overcome-chrome-freeze-in-windows/"><u>Steps to Overcome Chrome Freeze in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-delete-dialogs-on-windows-systems/"><u>Streamlining Delete Dialogs on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-20-essential-cmd-tricks-for-beginners/"><u>Top 20 Essential CMD Tricks for Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-documents-innovative-text-edits-with-snipt-tool/"><u>Transform Your Documents: Innovative Text Edits with Snipt Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-gaming-mastering-playstation-1-titles-on-win-with-duckstations-tips/"><u>Transform Your Gaming: Mastering PlayStation 1 Titles on WIN with Duckstation's Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-a-faulty-windows-enter-keysystem/"><u>Troubleshooting a Faulty Windows 'Enter' Keysystem</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-fix-when-zoom-doesnt-play-your-video/"><u>Ultimate Guide: How To Fix When Zoom Doesn't Play Your Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-folder-confluence-techniques-for-users/"><u>Windows Folder Confluence: Techniques for Users</u></a></li>
+</ul></div>

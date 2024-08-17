@@ -1,7 +1,7 @@
 ---
 title: Supercharge Windows 11’S Notepad With Copilot
-date: 2024-07-12T17:14:34.125Z
-updated: 2024-07-13T17:14:34.125Z
+date: 2024-08-16T01:53:19.520Z
+updated: 2024-08-17T01:53:19.520Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Copilot Enhances Notepad’s Simplicity With AI Power](#copilot-enhances-notepad-rsquo-s-simplicity-with-ai-power)
 * [Criticisms of the Copilot and Windows Notepad integration](#criticisms-of-the-copilot-and-windows-notepad-integration)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft integrated Copilot AI into Notepad for decoding technical text, suggesting code improvements, and summarizing documents.
@@ -34,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  From demystifying error messages to suggesting code improvements, here are three ways Copilot can supercharge your Notepad experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. Decode Log Files, Error Messages, or Code Snippets
 
 [Microsoft announced](https://blogs.windows.com/windows-insider/2024/02/08/snipping-tool-and-notepad-updates-begin-rolling-out-to-windows-insiders/) a new “Explain with Copilot” integration that allows Notepad to interface with Microsoft’s powerful Copilot AI assistant. Now, instead of racking your brain when opening an indecipherable error log or code snippet in Windows Notepad, you can highlight the text, right-click, and select **Explain with Copilot**.
@@ -47,11 +54,17 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
  Once you’ve sent the text to chat, Copilot will help you understand what’s going on.
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
 
  Notepad wasn't designed as a full-fledged code editor. As a developer, you can access far more robust tools like [integrated development environments (IDEs) and dedicated text editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) and other systems explicitly built for writing and managing code. Things like handling different newline formats have plagued Notepad for ages.
@@ -74,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Get AI-Powered Help With Any Text (Technical or Not)
 
  While code and logs are obvious use cases, Copilot’s capabilities in Notepad extend far beyond just technical content. Notepad’s lightweight simplicity makes it ideal for quickly jotting down meeting notes, drafting outlines, or capturing thoughts as they occur.
@@ -91,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
  With a streamlined menu (just File, Edit, and View), instant loading times, and a stripped-down interface, Notepad is the app you fire up when you just need to get words on the screen quickly, without fuss.
 
 ![An open tab in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-open-tab-in-windows-notepad.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And while Microsoft could have reinvented the wheel, the Copilot integration wisely keeps Notepad’s iconic simplicity intact. This AI assistant operates behind the scenes, ready to lend its smarts when needed but never intrusive or altering Notepad’s essence.
 
@@ -98,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  It’s a refreshing blend of nostalgia and innovation for long-time Windows users.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Criticisms of the Copilot and Windows Notepad integration
 
  While the Copilot integration is a clever way to augment Notepad’s capabilities, the change hasn’t been universally celebrated. Some users argue that adding an AI assistant constitutes [unnecessary bloatware](https://www.makeuseof.com/what-is-bloatware/) for an app prized for its minimalism.
@@ -119,3 +141,43 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-clandestine-snapsnapper-concealed-techniques-for-image-capturing/"><u>[New] 2024 Approved  Clandestine SnapSnapper  Concealed Techniques for Image Capturing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-abletons-art-of-softening-soundscapes/"><u>[New] Ableton's Art of Softening Soundscapes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-tech-skills-learn-how-to-record-your-mac-display/"><u>[New] In 2024, Essential Tech Skills  Learn How to Record Your Mac Display</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch/"><u>2024 Approved  Best Webcams for Streaming  Elevate Your Viewer Experience on Twitch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>2024 Approved  Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-most-effective-win-video-codecs/"><u>Demystifying the Most Effective Win Video Codecs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangling-stacked-icons-on-operating-system-ui/"><u>Disentangling Stacked Icons on Operating System UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dxvk-transforming-windows-gaming-experience-for-the-better/"><u>DXVK: Transforming Windows Gaming Experience for the Better</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-different-ways-to-tailor-windows-11-search/"><u>Explore Different Ways to Tailor Windows 11 Search</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exploring-the-world-of-desktop-capturing-a-sprout-review-for-2024/"><u>Exploring the World of Desktop Capturing - A Sprout Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-on-resolving-windows-software-initiation-flaw-error/"><u>Guidance on Resolving Windows Software Initiation Flaw (Error)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-13-pro-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-and-attend-to-hidden-storage/"><u>How to Uncover and Attend to Hidden Storage?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/icon-position-correction-made-simple/"><u>Icon Position Correction Made Simple</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p55t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P55T Through Google Earth?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-best-top-9-gamers-hubs/"><u>In 2024, Unlock the Best  Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructions-to-bring-back-old-school-search-in-windows-11/"><u>Instructions to Bring Back Old-School Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-the-default-folder-cooking-a-comprehensive-guide/"><u>Methods to Reactivate the Default Folder' Cooking: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mobile-file-access-via-windows-server/"><u>Mobile File Access via Windows Server</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-future-microsofts-copilot-key-and-windows-11-revolution/"><u>Navigating the Future: Microsoft's Copilot Key and Windows 11 Revolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pushing-boundaries-advanced-iphone-silhouette-techniques-for-2024/"><u>Pushing Boundaries  Advanced iPhone Silhouette Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-non-receipt-issues-for-your-inbox-on-yahoo-mail-platform/"><u>Resolving Non-Receipt Issues for Your Inbox on Yahoo Mail Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-order-in-windows-registry-through-repair-methods/"><u>Restoring Order in Windows Registry Through Repair Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/should-you-block-yourphoneexe-on-home-editions/"><u>Should You Block YourPhone.exe on Home Editions?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-tracking-your-apps/"><u>Stop Windows From Tracking Your Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-wows-fatal-issue-132-in-win-1011/"><u>Strategies to Eradicate WoW's Fatal Issue #132 in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-pin-verification-issues-on-w11w10-pcs/"><u>Strategies to Solve PIN Verification Issues on W11/W10 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-guide-to-configuring-script-policies-in-ps/"><u>The Definitive Guide to Configuring Script Policies in PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-microsofts-phone-link-features/"><u>The Essential Guide to Microsoft's 'Phone Link' Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-picks-optimal-pomodoro-timers-tailored-for-windows-users/"><u>Top Picks: Optimal Pomodoro Timers Tailored For Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-issues-with-voice-communication-in-among-us-on-windows/"><u>Troubleshooting Steps: Resolving Issues with Voice Communication in Among Us on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-windows-blue-screen-error-0x0000001e/"><u>Understanding and Fixing Windows Blue Screen Error 0X0000001E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-memory-makeover-with-triple-tactics/"><u>Windows Memory Makeover with Triple Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-against-roblox-needs-to-close-windows-errors/"><u>Winning Against Roblox Needs to Close Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-windowed-games-a-list-of-best-fps-trackers-on-pc/"><u>Winning at Windowed Games: A List of Best FPS Trackers on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wipe-out-unfulfilled-criteria-indication-in-win11/"><u>Wipe Out Unfulfilled Criteria Indication in Win11</u></a></li>
+</ul></div>

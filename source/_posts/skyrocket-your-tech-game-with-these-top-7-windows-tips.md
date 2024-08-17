@@ -1,7 +1,7 @@
 ---
 title: Skyrocket Your Tech Game with These Top 7 Windows Tips
-date: 2024-07-12T16:59:51.440Z
-updated: 2024-07-13T16:59:51.440Z
+date: 2024-08-16T02:07:37.958Z
+updated: 2024-08-17T02:07:37.958Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  To change the list order, you can use the **Sort By** feature beneath the search bar. Apps can be sorted by their name, size, or by their installation date. If you have multiple drives, you can also filter results based on which drives apps are located in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Pin Programs to the Taskbar
 ![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
 
@@ -40,16 +43,25 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 ![Epic games launcher on windows 11 app search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/epic-games-launcher-on-windows-11-app-search.jpg)
 2. Right-click the app, then select **Pin to taskbar**.  
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
 ## 3\. Create Desktop Shortcuts
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Use the Run Dialog
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
 
@@ -67,10 +79,19 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 1. Navigate to the search bar and type the name of the app.
 2. Right-click the app and select **Open File Location**.  
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In File Explorer, right-click the file and select **Properties**.  
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
@@ -88,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Switch Between Apps Faster
 ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
 
@@ -99,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  To enter Task View, use the keyboard shortcut **Windows +** **Tab** or hit the dedicated button beside the search bar. Now you can move apps between virtual desktops by clicking and dragging them. This will reduce overwhelm and help you [multitask better on Windows 11](https://www.makeuseof.com/windows-11-multitasking-tips/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Access Apps Faster And Improve Your Efficiency on Windows 11
 
  If you want to be more efficient when working on your Windows 11 PC, try out these tips to adopt a more productive workflow. Often, productivity revolves around consistently making small changes to make a greater change over time. Save time and master your workflow using these tips.
@@ -114,3 +141,43 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>[New] In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pixilation-protocols-for-personal-privacy-in-photography/"><u>[New] Pixilation Protocols for Personal Privacy in Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-score-selection-service-enhancing-media-pieces/"><u>[New] Score Selection Service  Enhancing Media Pieces</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-silence-to-soundscape-step-by-step-in-audition/"><u>[Updated] From Silence to Soundscape  Step-by-Step in Audition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-masterful-backup-techniques-for-iphone-to-snapchat-content/"><u>[Updated] In 2024, Masterful Backup Techniques for iPhone to Snapchat Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-deciphering-the-connotations-of-pfp-on-social-media/"><u>2024 Approved  Deciphering the Connotations of 'PFP' On Social Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peak-resolution-unbroken-immersion/"><u>2024 Approved  Peak Resolution  Unbroken Immersion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>2024 Approved  Step Into the World of YouTube Transcription  A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-no-privileges-errors-in-win11-systems/"><u>Correcting No Privileges Errors in Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-gpresult-a-key-to-gpo-data-interpretation/"><u>Decoding GPResult: A Key to GPO Data Interpretation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-mechanics-of-windows-exepe/"><u>Decoding the Mechanics of Windows EXE/PE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-linguistic-transitions-mastering-windows-hotkey-combinations/"><u>Effortless Linguistic Transitions: Mastering Windows Hotkey Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-11-to-dolby-atmos-system-level/"><u>Elevate Windows 11 to Dolby Atmos System Level</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-connectivity-configure-dns-on-windows-11/"><u>Enhancing Connectivity: Configure DNS on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/erase-incompatibility-warning-label-in-win11-os/"><u>Erase Incompatibility Warning Label in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-non-microsoft-verified-application-warnings/"><u>Handling Non-Microsoft Verified Application Warnings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-windows-11-taskbar-stability/"><u>Improving Windows 11 Taskbar Stability</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-cultivate-your-own-metaverse-humor-garden/"><u>In 2024, How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-cryptocurrency-topics-for-chatai/"><u>Leading Cryptocurrency Topics for ChatAI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-file-management-folder-facelift/"><u>Mastering Windows 11 File Management: Folder Facelift</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-quit-required-error-when-using-roblox/"><u>Overcoming Quit Required Error when Using Roblox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/productivity-prodigies-unveiling-the-wins-best-software-solutions/"><u>Productivity Prodigies: Unveiling the Win's Best Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-solve-wins-kernel32-crashes/"><u>Quickly Solve Win's Kernel32 Crashes</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-x6-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on X6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revoking-read-only-restriction-on-windows-documents/"><u>Revoking Read-Only Restriction on Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snap-motion-blur-photos-effortlessly-with-iphone-techniques-for-2024/"><u>Snap Motion-Blur Photos Effortlessly with iPhone Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/start-menu-sleight-stealthy-key-concealment/"><u>Start Menu Sleight: Stealthy Key Concealment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-speed-conquering-windows-11-slowdowns-immediately/"><u>Streamline Speed: Conquering Windows 11 Slowdowns Immediately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-management-processes-settings-and-custom-themes/"><u>Streamlining Windows 11 Management: Processes, Settings, & Custom Themes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unforgettable-young-adult-stories-on-netflix-to-binge-watch/"><u>Unforgettable Young Adult Stories on Netflix to Binge Watch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-where-are-bsod-logs-stored/"><u>Unlocking the Secrets: Where Are BSOD Logs Stored?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win11s-secrets-to-eliminate-bluescreen-issues/"><u>Unlocking Win11's Secrets to Eliminate Bluescreen Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-warriors-fixed-wobbling-arrows-await/"><u>Window Warriors, Fixed Wobbling Arrows Await</u></a></li>
+</ul></div>

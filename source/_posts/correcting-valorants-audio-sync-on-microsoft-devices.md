@@ -1,7 +1,7 @@
 ---
 title: Correcting Valorant's Audio Sync on Microsoft Devices
-date: 2024-07-12T17:29:32.625Z
-updated: 2024-07-13T17:29:32.625Z
+date: 2024-08-16T01:37:21.120Z
+updated: 2024-08-17T01:37:21.120Z
 tags:
   - windows10
   - windows11
@@ -49,11 +49,17 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 3. At the top, click the **Audio** tab and then the **Voice Chat** tab.
 4. Here, select the primary microphone you're using right now in the **Input Device** field.  
 ![Select the Primary Microphone in the Input Device Field of Audio Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-select-the-primary-microphone-in-the-input-device-field-of-audio-tab-in-valorant.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Make sure that the **Mic Volume** isn't too low as well. If it is, move the slider to the extreme right**.**  
 ![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
 
  If you can't hear other gamers' voice chat, ensure the proper audio output device is selected and its incoming volume isn't too low.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 4\. Ensure the Correct Microphone Is Selected in Windows and That It Isn't Muted
 
  If you have the correct microphone selected in Valorant settings and it isn't muted, ensure it's properly configured and unmuted in the Windows settings also. Follow these steps to confirm:
@@ -76,11 +82,20 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 1. Open **Settings**.
 2. Navigate to **System > Sound** and click **More sound settings**.  
 ![Go to More Sound Settings Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-more-sound-settings-option-in-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 3. Navigate to the **Recording** tab, right-click on your desired device, and select **Set as Default Device**.  
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Afterward, go to the **Playback** device, right-click on your desired audio output device, and select **Set as Default Device**.  
 ![Set Your Main Audio Output Device As Default in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-set-your-main-audio-output-device-as-default-in-the-playback-tab-of-more-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Check Valorant's Microphone Permissions
 
  The Windows operating system allows users to restrict any app from accessing the microphone. This setting is handy when you don't want your microphone to get unmuted in the middle of a meeting or gameplay when you don't want it to.
@@ -91,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 2. Go to the **Privacy and security** tab in the left sidebar.
 3. Navigate to the **App permissions** settings and click on **Microphone**.  
 ![Go to Microphone Option in the App Permissions Settings of the Privacy and Security Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/10-go-to-microphone-option-in-the-app-permissions-settings-of-the-privacy-and-security-tab-of-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 4. Make sure the toggle next to **Microphone access** is turned on.
 5. After that, find **Valorant** in the list of apps and turn on the toggle next to it.
 
@@ -101,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  To turn off exclusive control of the microphone, navigate to **Settings > System > Sound** and click on **More sound settings**. Afterward, go to the **Recording** tab, right-click on your desired microphone, and select **Properties**.
 
 ![Go to Recording Tab of Properties Window in More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/13-go-to-recording-tab-of-properties-window-in-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, go to the **Advanced** tab and uncheck the box beside **Allow applications to take exclusive control of this device**. Also, uncheck the box beside **Enable audio enhancements**.
 
@@ -109,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  Afterward, go to the **Playback** tab, right-click your primary audio output device, and select **Properties**. Then, go to the **Advanced** tab, uncheck the exclusive control box, and turn off audio enhancements.
 
 ![Disable Exclusive Control and Audio Enhancements in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/15-disable-exclusive-control-and-audio-enhancements-in-the-playback-tab-of-more-sound-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Change the Voice Activation Mode
 
@@ -121,7 +145,13 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 3. Navigate to the **Audio** tab at the top and go to the **Voice Chat** tab.
 4. Select the **Push to Talk** option next to **Party Voice Activation Mode**.  
 ![Select the Push to Talk Option Next to Party Voice Activation Mode in Voice Chat Tab of Valorants Audio Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-select-the-push-to-talk-option-next-to-party-voice-activation-mode-in-voice-chat-tab-of-valorants-audio-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Make Voice Communication Super Smooth on Valorant
 
  Using the voice chat feature in Valorant makes communication easier. Hopefully, you now know what causes the voice chat feature to stop working in Valorant and how to restore voice communication. If voice chat remains unresponsive despite applying all the fixes, reinstall Valorant.
@@ -137,3 +167,39 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-closer-action-tips-for-zooming-in-on-videoleap/"><u>[New] Capturing Closer Action  Tips for Zooming In on Videoleap</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ye-catcher-gaming-creating-striking-template-designs-for-2024/"><u>[New] Eye Catcher Gaming  Creating Striking Template Designs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ey-players-in-asmr-youtube-world/"><u>[New] Key Players in ASMR YouTube World</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-path-to-youtube-video-co-creation-and-partnerships/"><u>[Updated] Navigating the Path to YouTube Video Co-Creation & Partnerships</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-dull-cursors-in-uefi/"><u>Brightening Dull Cursors in UEFI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-vlc-input-compatibility-faults/"><u>Correcting Windows VLC Input Compatibility Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-seamless-workflows-ifttt-for-task-management/"><u>Crafting Seamless Workflows: IFTTT for Task Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-solving-the-enigmatic-windows-c0000022-hurdle/"><u>Decoding and Solving the Enigmatic Window's C0000022 Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-for-perfect-directx-setup-and-updates/"><u>Easy Steps for Perfect DirectX Setup & Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-network-errors-a-guide-for-windows-11-users/"><u>Eliminating Network Errors: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-features-of-claude-pro-a-comparison-with-microsofts-chatgpt-plus/"><u>Exploring the Features of Claude Pro: A Comparison with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-win-based-steam-internet-connectivity-issues/"><u>Fixing Win-Based Steam Internet Connectivity Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-7710-up-and-running-on-windows-download-compatible-drivers/"><u>Get Your Epson WF-7710 Up and Running on Windows: Download Compatible Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-correcting-xbox-game-pass-fatal-error-in-windows-11/"><u>Guide to Correcting Xbox Game Pass Fatal Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-win11-connectivity-options/"><u>Guide to Tweaking Win11 Connectivity Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-not-found-rockalldll-on-windows-pc/"><u>How to Fix 'Not Found' Rockalldll on Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-and-repair-xbox-gaming-hardware-drivers-for-windows-operating-systems-1187/"><u>How to Update and Repair Xbox Gaming Hardware Drivers for Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-x90s-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo X90S to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-information.techidaily.com/meme-magic-iphone-edition/"><u>Meme Magic  IPhone Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-and-optimize-windows-audios-with-up-to-date-drivers-guide/"><u>Revive and Optimize Windows Audios with Up-to-Date Drivers Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shades-of-twilight-harnessing-ms-paints-dark-theme/"><u>Shades of Twilight: Harnessing MS Paint's Dark Theme</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/slicedmedia-studio/"><u>SlicedMedia Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresponsive-video-driver-in-windows-1110/"><u>Solutions for Unresponsive Video Driver in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-mode-for-windows-11-apps/"><u>Stealth Mode for Windows 11 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switch-viewing-direction-on-windows-device/"><u>Switch Viewing Direction on Windows Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-expert-guide-to-opening-credential-vaults/"><u>The Expert Guide to Opening Credential Vaults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-sfxs-for-windows-11/"><u>Unlocking the Potential of SFXs for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-over-windows-updater-failure-x712/"><u>Winning Over Windows Updater Failure X712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-defeating-file-extraction-error-1152-in-windows/"><u>Winning the Battle: Defeating File Extraction Error 1152 in Windows</u></a></li>
+</ul></div>

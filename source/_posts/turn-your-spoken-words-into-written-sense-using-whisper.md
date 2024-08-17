@@ -1,7 +1,7 @@
 ---
 title: Turn Your Spoken Words Into Written Sense Using Whisper
-date: 2024-07-12T17:23:03.099Z
-updated: 2024-07-13T17:23:03.099Z
+date: 2024-08-16T01:45:15.113Z
+updated: 2024-08-17T01:45:15.113Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Download and Install Whisper
 
  Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
@@ -57,9 +60,15 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  Also, install its Python version with:  
 `pip3 install python-ffmpeg`  
 ![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 3. Finally, install Whisper from its Github page with:  
 `pip3 install git+https://github.com/openai/whisper.git`
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting Whisper's CUDA-Enabled Version
 
  Although Whisper doesn't use Nvidia GPUs, the**torch** package it relies on offers a CUDA-accelerated version. Using this instead of the "plain" version can help Whisper complete its transcriptions much faster with the help of your Nvidia GPU.
@@ -88,9 +97,15 @@ Use this command to do that:
 Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Record Your Voice
 
  You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see [how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
@@ -99,6 +114,9 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## How to Start Transcribing With Whisper
 
  Although Whisper doesn't come with a user-friendly GUI, its use is ultra-simple.
@@ -152,11 +170,20 @@ For example:
 2. Create a folder for your scripts, and copy its path to the Clipboard.
 3. In the Windows Start menu, search for "path" and select**Edit the system environment variables** .  
 ![Windows Start Edit The System Environment Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-start-edit-the-system-environment-variables.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
 ![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
 `whisper --model tiny --language en %1`  
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Create two more batch files, "whs" and "whm".
 7. Place this inside the first script:  
 `whisper --model small --language en %1`
@@ -197,3 +224,60 @@ For example:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2023s-quick-share-tweeted-videos-to-whatsapp/"><u>[New] 2023'S Quick Share  Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-debunking-photoshake-is-it-essential-or-excessive/"><u>[New] 2024 Approved  Debunking PhotoShake  Is It Essential or Excessive?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-igtv-video-submission-made-simple/"><u>[New] 2024 Approved  IGTV Video Submission Made Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins/"><u>[New] 2024 Approved  The Inverted Illusion Guide  Transforming Visual Content Through Angled Spins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-webcams-for-windows-10-enthusiasts-for-2024/"><u>[New] Leading Webcams for Windows 10 Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>[New] Mastering Seamless Music Segmentation  The Art of Crossfade</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-editing-excellence-cutting-edge-strategies-for-vimeo-video-reduction/"><u>[Updated] 2024 Approved  Elevate Editing Excellence  Cutting-Edge Strategies for Vimeo Video Reduction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[Updated] In 2024, Capturing Coziness  Ideal Winter Scenes for YT Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-solutions-for-storing-mov-files-in-windows-10-for-2024/"><u>[Updated] Innovative Solutions for Storing Mov Files in Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-choosing-the-pinnacle-in-hdr-cameras/"><u>[Updated] Masterclass  Choosing the Pinnacle in HDR Cameras</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-financial-frontier-strategies-for-maximum-gains/"><u>[Updated] Youtube's Financial Frontier  Strategies for Maximum Gains</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-echoes-fade-out-audio-leveling-methods/"><u>2024 Approved  Echoes Fade Out  Audio Leveling Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>2024 Approved  IPhone Ringtones  A Guide to Personalized Sound Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-affordable-data-storage-cloud/"><u>2024 Approved  Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>2024 Approved  Perfecting Video Calls  Merging ZOOM and SKYPE Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-tour-to-windows-easy-entry-point/"><u>A Step-by-Step Tour to Windows Easy Entry Point</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-missing-mfc71udll-in-windows-os/"><u>Addressing Missing Mfc71u.dll in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-disabled-volume-adjustment-on-windows/"><u>Correct Disabled Volume Adjustment on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-speedy-frame-compiler/"><u>Cutting Edge  Speedy Frame Compiler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-red-crossed-symbol-in-windows-explorer/"><u>Deciphering Red Crossed Symbol in Windows Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decorate-with-style-customizing-themes-for-an-improved-win11-experience/"><u>Decorate with Style: Customizing Themes for an Improved Win11 Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-component-services-access-in-windows-11/"><u>Demystifying Component Services Access in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-stuck-exe-files-on-windows-platform/"><u>Easing Up Stuck EXE Files on Windows Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-arena-showdown-best-of-the-royales-for-2024/"><u>Elite Arena Showdown  Best of the Royales for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/expert-tips-on-seamless-multisnapping-videos-in-snapchat-for-2024/"><u>Expert Tips on Seamless Multisnapping Videos in Snapchat for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-management-follies-steering-clear-of-windows-11-errors/"><u>File Management Follies: Steering Clear of Windows 11 Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-directx-file-downloads-on-pcs/"><u>Fixing Failed DirectX File Downloads on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-lost-connection-problem-on-windows-vpn-client/"><u>Fixing Lost Connection Problem on Windows VPN Client</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-offline-lsa-message-in-windows-os/"><u>Fixing the Offline LSA Message in Windows OS</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-11r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 11R Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-windows-11-language-line-from-status-bar/"><u>Hide Windows 11 Language Line From Status Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-play-your-favorite-oldschool-pc-games-with-dosbox-x/"><u>How to Play Your Favorite Oldschool PC Games With DOSBox-X</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-effortless-webinar-capture-techniques-for-os-xwindows-enthusiasts/"><u>In 2024, Effortless Webinar Capture Techniques for OS X/Windows Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m14-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M14 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-screenshot-success-mastering-instagrams-preferred-video-format-with-fcpx/"><u>In 2024, Screenshot Success  Mastering Instagram's Preferred Video Format with FCPX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-strategies-for-hardware-serial-numbers-on-windows/"><u>Insightful Strategies for Hardware Serial Numbers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-batch-renaming-like-a-pro-with-powertoys/"><u>Master Batch Renaming Like a Pro with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-taskmanagers-dominance/"><u>Mastery Over TaskManager's Dominance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-non-functioning-intel-unison-issues-in-windows-11/"><u>Navigating Through Non-Functioning Intel Unison Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-the-windows-11-touchpad-guide/"><u>Navigating with Ease: The Windows 11 Touchpad Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/neutralization/"><u>Neutralization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-for-windows-missing-lsass-components/"><u>Quick Solutions for Windows' Missing Lsass Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-original-terminals-in-win11/"><u>Regaining Original Terminals in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-virtual-disk-service-not-started-in-windows/"><u>Remedy for Virtual Disk Service Not Started in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-over-flickering-win7-views/"><u>Smoothing Over Flickering Win7 Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-bloatware-removal-in-windows-11/"><u>Streamline Your PC: Bloatware Removal in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-addressing-roblox-shutdown-issues-on-your-windows-machine/"><u>Swiftly Addressing Roblox Shutdown Issues on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-windows-note-placement-guide/"><u>Tailored Windows Note Placement Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-basics-of-windows-canary-and-its-benefits/"><u>The Basics of Windows Canary and Its Benefits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-random-restarts-on-windows-11-systems/"><u>Troubleshoot Random Restarts on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-java-vm-creation-failed-in-windows/"><u>Troubleshooting Java VM Creation Failed in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-mastery-building-hotkeys-for-repetitive-text-snapping-tasks/"><u>Windows 11 Mastery: Building Hotkeys for Repetitive Text Snapping Tasks</u></a></li>
+</ul></div>

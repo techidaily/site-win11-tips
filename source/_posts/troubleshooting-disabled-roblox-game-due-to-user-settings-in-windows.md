@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Disabled Roblox Game Due to User Settings in WINDOWS
-date: 2024-07-12T16:56:50.011Z
-updated: 2024-07-13T16:56:50.011Z
+date: 2024-08-16T02:10:41.602Z
+updated: 2024-08-17T02:10:41.602Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 
  However, if someone doesn't administer your account, your account settings may not be set up correctly. So, assuming that you have the privilege to change settings and no PIN has been set up, apply the fixes listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. Change Your Account Settings
 
  The error under discussion is primarily caused when your account's two settings are misconfigured: privacy and parental controls. Therefore, you should review both settings to determine whether any restrictions have been imposed by default or by someone else. Follow these steps to view these settings and make the necessary changes:
@@ -38,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 2. Open your preferred web browser, go to the [Roblox website](https://www.roblox.com/) , and sign in to your Roblox account.
 3. Once signed in, click on the**gear icon** in the top-right corner and select**Settings** .  
 ![Go to Settings on the Roblox Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-settings-on-the-roblox-website.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Select the**Privacy** tab on the left.
 5. Turn off the toggle next to**Account Restrictions are enabled** .  
 ![Turn Off the Toggle Next to Account Restrictions are Enabled in Privacy Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-turn-off-the-toggle-next-to-account-restrictions-are-enabled-in-privacy-tab.jpg)
 6. After that, navigate to**Parental Controls** from the left sidebar.
 7. Then, under the**Allowed Experiences** section, select the appropriate age guideline. Select**All Ages (Suitable for everyone)** if you are an adult.  
 ![Select All Ages Suitable for Everyone Under the Allowed Experiences Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-select-all-ages-suitable-for-everyone-under-the-allowed-experiences-section.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even if your account isn't restricted or locked by a passcode, you should respect the game settings and not select an age group you're not even eligible to play in. Taking this precaution will prevent you from being exposed to inappropriate content that could negatively impact your life, emotions, and mental well-being.
 
@@ -55,12 +65,18 @@ thumbnail: https://thmb.techidaily.com/f2cea06ab8ae79e3da9341215d5a2b3791081a5d0
 
 * Open**Task Manager** , find the Roblox-related processes, right-click on each process, and select**End task** to terminate your active gaming session effectively. Once that's done, relaunch Roblox.  
 ![End Roblox Related Processes in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-end-roblox-related-processes-in-windows-task-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Restart your Windows device](https://www.makeuseof.com/windows-restart-methods/) .
 * Turn off the VPN on your device if it is enabled.
 * Try not to launch multiple experiences simultaneously. Close the previous experience before moving on to the next.
 
 If none of the above fixes help, proceed with the remaining steps.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Run Roblox as Administrator
 
  If you encounter this error when running the Roblox Player app, generally downloaded from the Microsoft Store, close it down and run it as administrator. When running Microsoft Store apps on a standard user account with restricted rights, some app features may not be accessible. To make sure this isn't causing the issue under discussion, too, take the following steps:
@@ -85,6 +101,9 @@ If none of the above fixes help, proceed with the remaining steps.
 
  If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the [Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Run Roblox Experiences Without a Hitch
 
  If your account is not restricted by an administrator, only making the changes to your account settings will fix the "this experience is unavailable due to your account settings" error. If that doesn't work, run Roblox as administrator, and if you're experiencing this error on the Roblox app, launch it from the Roblox website.
@@ -108,3 +127,39 @@ If none of the above fixes help, proceed with the remaining steps.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-checklist-for-new-channels/"><u>[Updated] The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-tricks-for-a-better-windows-11-search/"><u>5 Essential Tricks for a Better Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6plus-strategies-for-a-superior-windows-11-taskbar-use/"><u>6+ Strategies for a Superior Windows 11 Taskbar Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-through-to-windows-11-security-control-screen/"><u>A Step-by-Step Through to Windows 11 Security Control Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-system-load-in-win11/"><u>Accelerate System Load in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-network-disconnect-in-windows-11-a-step-by-step-guide/"><u>Addressing Network Disconnect in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-pointer-style-in-winxpvista7/"><u>Adjusting Mouse Pointer Style in WinXP/Vista/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-your-windows-search-and-highlight-settings/"><u>Adjusting Your Window's Search and Highlight Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-predicted-effect-on-programmer-productivity-and-techniques/"><u>AI's Predicted Effect on Programmer Productivity and Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-11-start-menu-preferences/"><u>Altering Windows 11 Start Menu Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-graphics-memory-a-comprehensive-guide-to-supercharging-win1011/"><u>Amplify Graphics Memory - A Comprehensive Guide to Supercharging Win10/11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audiovisual-ascension-masterful-lighting-techniques-unveiled-for-2024/"><u>Audiovisual Ascension  Masterful Lighting Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/balancing-directional-audio-with-windows-earbuds/"><u>Balancing Directional Audio with Windows Earbuds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-single-board-gadgets/"><u>Best Windows Single-Board Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-utilizing-box-for-file-selections-in-win11/"><u>Boost Efficiency: Utilizing Box for File Selections in Win11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-sony-vegas-find-a-better-video-editing-solution-for-your-windows-pc/"><u>Ditch Sony Vegas Find a Better Video Editing Solution for Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973564664-get-the-latest-killer-e2200-ethernet-controllers-driver-here/"><u>Get the Latest Killer E2200 Ethernet Controllers' Driver Here!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-150-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 150 (2023) to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-x90s-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo X90S Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-jaw-dropping-glitches-with-these-free-online-generators/"><u>In 2024, Create Jaw-Dropping Glitches with These Free Online Generators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-guide-capturing-your-desktop-using-ezvide-software/"><u>In 2024, Guide  Capturing Your Desktop, Using EZvide Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258042287-reclaiming-chrome-in-w11-easy-to-follow-remediation-tips/"><u>Reclaiming Chrome in W11 - Easy-to-Follow Remediation Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382715644-unlock-potential-of-windows-without-using-the-compatibility-tool/"><u>Unlock Potential of Windows without Using the Compatibility Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-6-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 6 Plus</u></a></li>
+</ul></div>

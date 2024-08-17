@@ -1,7 +1,7 @@
 ---
 title: Avoiding Windows' .NET Runtime Requirement Hurdle
-date: 2024-07-12T17:25:17.649Z
-updated: 2024-07-13T17:25:17.649Z
+date: 2024-08-16T01:41:20.715Z
+updated: 2024-08-17T01:41:20.715Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Now, it’s time to check out the solutions to the “To run this application, you must install .NET Core” error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Enable the .NET Framework Feature
 
  You probably noticed that the error message suggests you should install .NET Core to resolve the issue. But before we get to that, let’s explore a simpler solution—enabling the .NET Framework Feature.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Click **OK** to save these changes, and then restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Install the Required Version of .NET Core
 
  Running into the same issue even though you've enabled the ".NET Framework" feature? If so, then that’s a sign that you need to install .NET Core.
@@ -68,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 2. Go to the [.NET Core Installation page](https://dotnet.microsoft.com/en-us/download) and download the right .NET Core installer.
 
 ![The .NET Core Installation page on the Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-net-core-installation-page-on-the-microsoft-website.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 
  From there, run the .NET Core installer executable (EXE) file and then follow the on-screen instructions.
 
@@ -83,9 +92,15 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 4. Right-click on the **Microsoft .NET Core Runtime** (or Microsoft .NET Core) and select **Repair** or **Change**.
 
 ![Clicking Change on the Microsoft .NET Core Runtime option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-change-on-the-microsoft-net-core-runtime-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, follow the on-screen instructions to complete the repair process. This should fix any issues with the existing .NET Core installation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 4\. Check the .NET Core Path Using the "Environment Variables" Feature
 
  Environment variables are named values that store data used by the operating system and other programs. For instance, the WINDIR environment variable contains the location of the Windows installation directory.
@@ -100,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 4. Click the **Environment Variables** button.
 
 ![Clicking the Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-environment-variables-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  Navigate to the **System variables** section and then follow these steps:
 
@@ -117,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 2. Type **C:\\Program Files\\dotnet** in the box.
 3. Press **OK** and then close the Environment Variables window. Finally, restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Ensure the App Is Compatible With Your Device
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
@@ -152,3 +173,55 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-tweets-to-device-storage-android-and-iphone-gif-steps/"><u>[New] 2024 Approved  From Tweets to Device Storage  Android & iPhone GIF Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>[New] 2024 Approved  Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-become-a-gif-expert-in-snapchat-today/"><u>[Updated] 2024 Approved  Become a GIF Expert in Snapchat Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>[Updated] In 2024, Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ensuring-seamless-gotomeeting-experience-with-device-recording/"><u>[Updated] In 2024, Ensuring Seamless GoToMeeting Experience with Device Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-cleaning-up-the-icon-cache/"><u>Best Practices for Cleaning Up the Icon Cache</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-silent-camera-activation-in-windows-11/"><u>Bypassing Silent Camera Activation in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xiaomi-redmi-12-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Xiaomi Redmi 12.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-your-way-to-system32-win11/"><u>Discovering Your Way to System32 (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-win10-use-strategies-post-upgrade-decision/"><u>Efficient Win10 Use Strategies Post Upgrade Decision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-managing-extraneous-tasks-on-windows/"><u>Efficiently Managing Extraneous Tasks on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-get-your-samsung-c460-drivers-now/"><u>Effortless Installation: Get Your Samsung C460 Drivers Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-empty-directory-error-code-0x80070091-in-win11/"><u>Eliminating Empty Directory Error Code 0X80070091 in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-inactive-push-notifications-for-outlook/"><u>Enabling Inactive Push Notifications for Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pc-download-pace-in-battlenet-gaming/"><u>Enhance PC Download Pace in Battle.net Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-icon-display-ease/"><u>Enhancing Windows 11 Icon Display Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-wont-launch-heres-why-and-how-its-fixed/"><u>Football Manager 2022 Won't Launch? Here's Why and How It's Fixed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y71-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y71 Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-yuva-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Yuva 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-poco-m6-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco M6 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-v29-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo V29 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-use-of-android-phones-as-webcams-on-windows-11-pcs/"><u>Innovative Use of Android Phones as Webcams on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightening-up-your-browser-load-top-7-windows-apps-less-ram-intensive/"><u>Lightening Up Your Browser Load: Top 7 Windows Apps Less RAM-Intensive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-cd-production-from-mp3-files-an-efficient-guide-to-using-imgburn-in-windows/"><u>Mastering Audio CD Production From MP3 Files: An Efficient Guide to Using ImgBurn in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-task-managers-dominance-over-desktop-applications/"><u>Mastering Task Manager's Dominance Over Desktop Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-minimizing-cpu-load-on-computers/"><u>Mastery of Minimizing CPU Load on Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-a-non-functional-windows-download-folder/"><u>Methods to Reactivate a Non-Functional Windows Download Folder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-initial-load-hurdles-in-lol/"><u>Overcoming Initial Load Hurdles in LOL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-correcting-rdp-fails-in-modern-windows-os/"><u>Preventing and Correcting RDP Fails in Modern Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-windows-app-speed-revitalize-their-web-connection/"><u>Propel Window's App Speed: Revitalize Their Web Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-faulty-resource-monitors-on-windows-11/"><u>Resetting Techniques for Faulty Resource Monitors on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-installing-java-in-windows-environment/"><u>Solutions for Non-Installing Java in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-ms-resource-and-apperror/"><u>Solving Windows 11'S Ms-Resource and AppError</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/step-by-step-guide-perfecting-your-mobile-video-recording/"><u>Step-by-Step Guide  Perfecting Your Mobile Video Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackle-clutter-unwanted-windows-tools-and-how-to-eliminate-them/"><u>Tackle Clutter: Unwanted Windows Tools and How to Eliminate Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-truth-behind-the-windows-store-dodging-digital-duplicates/"><u>The Truth Behind the Windows Store: Dodging Digital Duplicates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-winerror-0x80072746-in-outlook/"><u>The Ultimate Fix for WinError 0X80072746 in Outlook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-potential-a-comprehensive-guide-to-podcast-seo-mastery/"><u>Unleash Potential  A Comprehensive Guide to Podcast SEO Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-app-usage-a-comprehensive-review/"><u>Window's App Usage: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-transcends-platforms-iphoneipadmacpc-compatibility-announced/"><u>Windows Transcends Platforms: IPhone/iPad/Mac/PC Compatibility Announced</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-efficient-temperature-management-strategy/"><u>Windows' Efficient Temperature Management Strategy</u></a></li>
+</ul></div>

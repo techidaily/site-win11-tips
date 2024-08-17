@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to Setting Up Windows 11'S PC Manager
-date: 2024-07-12T16:59:05.549Z
-updated: 2024-07-13T16:59:05.549Z
+date: 2024-08-16T02:06:52.885Z
+updated: 2024-08-17T02:06:52.885Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  The app acts as a central spot to access all the useful system management tools of Windows. Apart from that, it brings many essential tools such as health checks, memory management, pop-up management, and more. We will cover each of these tools later on in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install the Microsoft PC Manager on Windows 11
 
  Firstly, you need to download the beta version of the Microsoft PC Manager app from the official website. Then you need to install it on your system. Here’s how to do it.
@@ -60,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  You cannot use the Boost feature repeatedly, though. The app displays a message that “Your PC is already running well.” However, you can use the boost feature after a few minutes.
 
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the**Proceed** button to perform all the actions listed by the Health Check tool. Then click on the**Done** button to return to the home page of the PC Manager app.
 
@@ -72,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
@@ -83,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 2\. Security Tools
 
  You can scan for threats present in your system using the Scan option in the security tab. It performs a quick scan on the C drive only. Similarly, you can check and install all the available updates for Windows without leaving the Microsoft PC Manager app.
@@ -94,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Free, Official Tool to Manage Your Windows PC
 
@@ -118,3 +142,42 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-easy-steps-to-hassle-free-high-dynamic-range-imaging/"><u>[New] Easy Steps to Hassle-Free High Dynamic Range Imaging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-elevate-your-social-feed-with-superior-twit-hd-vids/"><u>[Updated] In 2024, Elevate Your Social Feed with Superior Twit HD Vids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/11-fast-passes-to-the-control-settings-hub/"><u>11 Fast Passes to the Control Settings Hub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-mastery-of-artistic-collage/"><u>2024 Approved  Step-by-Step Mastery of Artistic Collage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-universal-watcher-exclusive-local-and-live-streaming/"><u>2024 Approved  The Universal Watcher  Exclusive Local and Live Streaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-access-the-startup-folder-in-windows/"><u>5 Ways to Access the Startup Folder in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-permanently-disable-microsoft-defender-in-windows-11/"><u>5 Ways to Permanently Disable Microsoft Defender in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-strategies-reviving-failed-google-drive-windows-links/"><u>7 Strategies: Reviving Failed Google Drive Windows Links</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensible-windows-screentime-intermission/"><u>A Comprehensible Window's Screentime Intermission</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-using-system-restore-in-windows-os/"><u>A Detailed Walkthrough of Using System Restore in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-personalizing-windows-using-winbubble/"><u>A Step-by-Step Guide to Personalizing Windows Using WinBubble</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-file-sharing-utorrent-tips/"><u>Accelerate Your PC's File Sharing - uTorrent Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-num-caps-lock-signifiers-in-win11-systemtray/"><u>Adding Num, Caps Lock Signifiers in Win11 SystemTray</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-clickable-items-in-the-latest-os-update/"><u>Addressing Non-Clickable Items in the Latest OS Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advice-for-avoiding-hidden-displays-during-windows-games/"><u>Advice for Avoiding Hidden Displays During Windows Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-privilege-levels-for-non-administrators-on-windows-os/"><u>Altering Privilege Levels for Non-Administrators on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-experts-strategy-for-managing-component-services-in-w11/"><u>An Expert's Strategy for Managing Component Services in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-troubleshooting-in-obs-studio-on-windows-11-devices/"><u>Audio Troubleshooting in OBS Studio on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-clutter-boost-clarity-keeping-your-notifications-centered-in-windows-11/"><u>Avoid Clutter, Boost Clarity: Keeping Your Notifications Centered in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-unwanted-bios-access-during-windows-initialization/"><u>Avoiding Unwanted BIOS Access During Windows Initialization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackview-minipc-size-upgrade-speed-downgrade/"><u>Blackview MiniPC: Size Upgrade, Speed Downgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-awareness-of-power-levels-with-win-1011/"><u>Boosting Awareness of Power Levels with Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719346952101-chatgpt-lite-free-self-hosted-windows-edition-with-gpt4all/"><u>ChatGPT Lite: Free Self-Hosted Windows Edition with GPT4All</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-note-30-vip-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-11-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 11 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-12-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 12 mini Smoothly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-x1000-video-excellence-detailed-product-evaluation/"><u>In 2024, Sony X1000 Video Excellence  Detailed Product Evaluation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-typical-podcasters-income/"><u>In 2024, Unveiling the Typical Podcaster's Income</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962032157-instant-access-to-hp-software-fresh-drivers-at-your-fingertsip/"><u>Instant Access to HP Software - Fresh Drivers at Your Fingertsip</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom-for-2024/"><u>Podcaster's Playground  Unleashing Full Potential in Video and Audio Recording on Zoom for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719376942389-windows-gptmimicry-a-costless-local-edition-via-gpt4all/"><u>Windows GPTMimicry: A Costless Local Edition via GPT4All.</u></a></li>
+</ul></div>

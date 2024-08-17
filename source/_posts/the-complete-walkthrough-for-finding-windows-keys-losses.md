@@ -1,7 +1,7 @@
 ---
 title: The Complete Walkthrough for Finding Windows Keys Losses
-date: 2024-07-12T17:37:34.988Z
-updated: 2024-07-13T17:37:34.988Z
+date: 2024-08-16T01:30:59.133Z
+updated: 2024-08-17T01:30:59.133Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ## 1\. How to Find Your Windows 11/10 Product Key Using the Command Prompt
 ![Command Prompt window running the wmic path SoftwareLicensingService get OA3xOriginalProductKey command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/command-prompt-windows-11-product-key.png)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the ever-trustworthy Command Prompt to find the product key for your copy of Windows. Here’s how to do it:
 
@@ -56,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Once your copy of Windows is activated, it's a good idea to [link your Windows product key to a Microsoft account](https://www.makeuseof.com/link-windows-product-key-microsoft-account/). Doing so will ease the activation process if you need to do it again.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Recover a Windows 11/10 Product Key Using PowerShell
 ![PowerShell console running the command to find Windows 11 and 10 product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/powershell-windows-11-product-key.png)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  You also use PowerShell and the WMI cmdlet to find and display your Windows 11 or 10 product key. Here’s how to do this:
 
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 `(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey`
 4. The command may take a few seconds to execute. Upon successful execution, it will display the product key for your copy of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Use a Third-Party Tool to Find Your Windows 11/10 Product Key
 ![showkeyplus tool showing the retrieved Windows product information.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/showkeyplus-tool-find-product-key.png)
 
@@ -78,12 +90,18 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  Also, you can use ShowKeyPlus to check your specific Windows edition using the product key and retrieve a key from a backup.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Check Your Purchase Receipt or Email
 
  If you bought a Windows license key from an online retailer like Amazon, you likely received the info via email. Use keywords like "Windows license", "Windows product", and "Windows activation" to search for the confirmation mail that you received. Or check the **Orders** section of your account with that online retailer to find information on how to retrieve the key, or how the key was initially delivered.
 
  As another option, look for physical stickers on your computer with information related to your computer hardware and software configuration. These may also include the Windows product key or other necessary details to help you locate it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 5\. Contact Microsoft Support
 
  If all else fails, try contacting Microsoft support for assistance. You can ask for a callback using the **Get Help** app on your computer:
@@ -96,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![Windows 11 get help app showing the Contact Support option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-get-help-app-contact-support-option.jpg)
 4. Click **Contact Support** and then choose the product.  
 ![Windows 11 get help choose products and services screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-get-help-choose-products-and-services-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Click on **Provide your phone number and the support agent will call you** and follow on-screen instructions.
 
  In Windows 10 and 11, Microsoft has streamlined the license activation process. Irrespective of how you got your license, once activated, the product key is tied to your system hardware. Whether you upgrade to the next version or clean install the OS, Windows should automatically detect and verify the ownership.
@@ -109,3 +130,49 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-achieving-harmonic-transition-blends/"><u>[New] Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mmo-galaxy-the-finest-10-free-online-roleplayers/"><u>[New] In 2024, MMO Galaxy  The Finest 10 Free Online Roleplayers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-raise-the-bar-pivotal-youtube-seo-enhancers/"><u>[New] In 2024, Raise the Bar  Pivotal YouTube SEO Enhancers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-winning-scenarios-prime-video-recording-software-for-windows/"><u>[New] In 2024, Winning Scenarios  Prime Video Recording Software for Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>[New] Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-banishing-the-darkness-tips-for-a-bright-screen-on-obs-for-2024/"><u>[Updated] Banishing the Darkness  Tips for a Bright Screen on OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>[Updated] In 2024, The Ultimate Guide to Posting Panoramas  A Step-By Step Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intova-x-visionary-action-camera-unveiled-today/"><u>[Updated] Intova X Visionary Action Camera Unveiled Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-zoom-rooms-with-ease-newcomers-for-2024/"><u>[Updated] Navigating Zoom Rooms with Ease, Newcomers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-composing-captivating-cutting-edge-synopses/"><u>2024 Approved  Composing Captivating Cutting-Edge Synopses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-efficient-coding-solutions-with-microsofts-companion/"><u>Crafting Efficient Coding Solutions with Microsoft's Companion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-integration-of-apple-maps-on-pcs/"><u>Deciphering the Integration of Apple Maps on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-secrets-of-windows-odbc-settings-panel/"><u>Deciphering the Secrets of Windows' ODBC Settings Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-arp-cache-how-to-empty-it/"><u>Decoding Windows ARP Cache: How to Empty It?</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-your-virtual-persona-picture-perfection-tips/"><u>Elevating Your Virtual Persona: Picture Perfection Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cing-youtube-popularity-editing-and-optimizing-content-metadata/"><u>Enhancing YouTube Popularity  Editing & Optimizing Content Metadata</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-domain-services-printer-failures-on-newest-microsoft-os/"><u>Fixing Domain Services Printer Failures on Newest Microsoft OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-12-pro-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 12 Pro Max to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-google-pixel-8-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Google Pixel 8 online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/image-editing-strategies-remove-unwanted-areas/"><u>Image Editing Strategies: Remove Unwanted Areas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>In 2024, Climb the Fame Hierarchy on Instagram  Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instantaneously-upgraded-images-masterful-mac-based-video-scaling/"><u>In 2024, Instantaneously Upgraded Images  Masterful Mac-Based Video Scaling</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-10t-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 10T 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-double-click-3-essential-tips/"><u>Mastering Mouse Double-Click: 3 Essential Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-disrupted-windows-thx-spatial-sound/"><u>Mending Disrupted Windows THX Spatial Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-7-steps-to-mend-obs-server-link-error-in-windows/"><u>Navigating 7 Steps to Mend OBS Server Link Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notepads-dark-shift-windows-11-guide/"><u>Notepad's Dark Shift: Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-pc-boost-unearthing-windows-best-eight-restart-strategies/"><u>Quick PC Boost: Unearthing Windows' Best Eight Restart Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-steam-for-seamless-gameplay-on-windows-11-devices/"><u>Realigning Steam for Seamless Gameplay on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-roots-user-permissions-back-to-basics-in-win11/"><u>Restoring Roots: User Permissions Back to Basics in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-restarting-windows-11-apps/"><u>Reviving Your PC: Restarting Windows 11 Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recorder-options-for-igadgets-for-2024/"><u>Screen Recorder Options for iGadgets for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-your-csgo-game-lagging-problems/"><u>Simple Solutions to Resolve Your CS:GO Game Lagging Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-inactive-windows-file-alignment-service/"><u>Solutions for Inactive Windows File Alignment Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-notification-problems-a-guide-with-7-key-tips/"><u>Solving iPhone Notification Problems: A Guide with 7 Key Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-failed-updates-error-0x800f0845/"><u>Steps to Fix Failed Updates - Error 0X800f0845</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-service-management-for-optimized-windows-11/"><u>Strategic Service Management for Optimized Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-on-or-off-windows-digital-protection-filter/"><u>Switching on or Off Windows' Digital Protection Filter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-aural-anomaly-fixing-audacity-writes-on-wos/"><u>Tackling the Aural Anomaly: Fixing Audacity' Writes on WOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-pathway-for-changing-login-method-from-pin-to-passwords-on-windows-11/"><u>Unveiling the Pathway for Changing Login Method From PIN to Passwords on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-why-drives-vanish-on-windows-fix-guide-required/"><u>Unveiling Why Drives Vanish on Windows - Fix Guide Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-keyboard-command-center-mastery-of-shortcuts-for-fixed-paste-tasks/"><u>Win11's Keyboard Command Center: Mastery of Shortcuts for Fixed Paste Tasks</u></a></li>
+</ul></div>

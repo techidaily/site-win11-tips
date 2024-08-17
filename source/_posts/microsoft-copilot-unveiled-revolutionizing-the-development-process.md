@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot Unveiled: Revolutionizing the Development Process"
-date: 2024-07-12T16:47:16.429Z
-updated: 2024-07-13T16:47:16.429Z
+date: 2024-08-16T02:19:35.022Z
+updated: 2024-08-17T02:19:35.022Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
  A lot of big tech companies have their own AI model, and Microsoft is no different. Its AI model is called "Copilot," and you might have already seen it on Windows 11 or in Microsoft Office. But what is Copilot, and what can you do with it?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## What Is Microsoft Copilot?
 
  Microsoft Copilot is an AI-based assistant that Microsoft is rolling out across its operating systems and apps. Copilot will act differently and do different tasks depending on the app that you invoked it in.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
  Accessing Microsoft Copilot is different depending on the app. We'll show you how to access Microsoft Copilot in all its forms.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on Windows 11
 
  If you're on Windows 11, you can access Copilot with a hotkey. However, before you do, make sure you have your operating system updated to Windows 11 23H2 or later. See [how to check your build and version of Windows 11](https://www.makeuseof.com/check-build-and-version-windows-11/) if you're not sure.
@@ -50,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
  Once Windows 11 23H2 is installed, you can open Copilot either by pressing **Win + C** or by clicking the Copilot icon on the taskbar.
 
 ![The Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don't see it, right-click the taskbar, click **Taskbar Settings**, then enable Copilot.
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot on Edge
 
@@ -61,12 +73,18 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
 
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
 
  Opening Copilot in Microsoft 365 depends on which app you open. However, you do need an active Microsoft 365 subscription for Copilot to work.
@@ -94,13 +112,22 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
  If you want to read about a specific topic, ask Copilot about it. While it discusses the given topic, it will begin underlining some of its statements and adding a source for that info at the bottom. You can then follow these links and use these same sources in your own research.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Generate Images With DALL-E 3
 ![An image of a corgi generated by Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-dalle-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If you want to generate images for free, Copilot is a great choice. Copilot supports the powerful DALL-E 3 image generator; just ask it to draw something for you. If you're not pleased with the result, you can guide Copilot through further prompts to get the best possible picture.
 
  Check out [how to use DALL-E 3 on Copilot (formerly Bing)](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Ask Copilot to Write Code for You
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
 
@@ -108,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ### Use Copilot's Integration With Microsoft Office
 ![Close Up Microsoft Office Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-up-cell-microsoft-icons.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  [Unsplash](https://unsplash.com/photos/N3TVYJ6Wr1I)
 
@@ -131,3 +161,56 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficiently-upgrading-your-snaps-on-snapchat/"><u>[New] Efficiently Upgrading Your Snaps on Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-precision-at-a-glance-hps-4k-z32-x-examination/"><u>[New] In 2024, Precision at a Glance  HP’s 4K Z32 X Examination</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-breaking-the-ice-with-instagrams-interactive-audience-queries-for-2024/"><u>[Updated] Breaking the Ice with Instagram's Interactive Audience Queries for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>[Updated] Chuckle Collective  Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jest-sculptor-undead-funnybots/"><u>[Updated] Jest Sculptor  Undead Funnybots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-battle-ultrawide-vs-uhd-4k-display-options/"><u>2024 Approved  The Ultimate Battle  UltraWide vs UHD 4K Display Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/3-ingenious-strategies-to-harvest-twitter-gifs-for-2024/"><u>3 Ingenious Strategies to Harvest Twitter GIFs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commanding-control-over-systems-performance-bounds/"><u>Commanding Control over System's Performance Bounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracts-for-sudden-windows-notepad-shutdowns/"><u>Counteracts for Sudden Windows Notepad Shutdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crack-the-code-of-missing-control-options-in-win11/"><u>Crack the Code of Missing Control Options in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-cpu-fatigue-adjusting-the-workload-of-vanguards-sleep-service/"><u>Curbing CPU Fatigue: Adjusting the Workload of Vanguard's Sleep Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defaults-defined-user-permission-reset-guide-for-win11/"><u>Defaults Defined: User Permission Reset Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-icon-placement-repair/"><u>Effective Strategies for Icon Placement Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-test-active-tcp-ports-on-windows/"><u>Efficient Methods to Test Active TCP Ports on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-workflow-add-software-menus-to-windows-desktop/"><u>Enhance Workflow: Add Software Menus to Windows Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-flawless-windows-11-anydesk-performance/"><u>Ensuring Flawless Windows 11 AnyDesk Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-mend-windows-store-error-0x0-failure/"><u>Expert Tips to Mend Windows Store Error 0X0 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-resolve-rd-connectivity-issues-on-win-10plus/"><u>Expert Tips to Resolve RD Connectivity Issues on WIN 10+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-system-failures-a-guide-to-repairing-fs-in-win11/"><u>Fixing System Failures: A Guide to Repairing FS in Win11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/framefusion-creator-for-2024/"><u>FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-plain-in-windows-11-shapes/"><u>Getting Plain in Windows 11 Shapes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-save-location-error-on-pcs/"><u>How to Correct the Save Location Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-virtualboxs-0x80004005-failure-in-windows/"><u>How to Resolve VirtualBox's 0X80004005 Failure in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-motorola-razr-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Motorola Razr 40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-magic-6-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor Magic 6 FRP Bypass Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-20-anime-song-intros/"><u>In 2024, Superior 20 Anime Song Intros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-group-policy-objects-on-single-user-accounts-in-windows-11/"><u>Leveraging Group Policy Objects on Single-User Accounts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-integrating-dolby-atmos-audio/"><u>Mastering Windows 11: Integrating Dolby Atmos Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-the-developers-guide-to-dev-drive-win11/"><u>Navigating New Horizons: The Developer's Guide to Dev Drive Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-blocks-in-the-windows-store/"><u>Overcoming Installation Blocks in the Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-draw-breakdown-for-windows-computing-systems/"><u>Power Draw Breakdown for Windows Computing Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-time-management-chrome-and-windows-harmony/"><u>Precision Time Management: Chrome and Windows Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-for-fixing-internal-rdp-failures-on-windows-1111-pro/"><u>Quick Steps for Fixing Internal RDP Failures on Windows 11/11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-irregularities-in-desktop-menu-settings/"><u>Rectifying Irregularities in Desktop Menu Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-glare-on-lenovo-monitors/"><u>Restoring Lost Glare on Lenovo Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-access-to-the-system32-folder-win11/"><u>Seamless Access to the System32 Folder (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-resolving-missing-gpeditmsc-error-on-pcs/"><u>Solutions for Resolving Missing Gpedit.msc Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-boot-into-windows-repair/"><u>The Essentials of Boot Into Windows Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-reverse-character-entry-on-pcs/"><u>Tips for Correcting Reverse Character Entry on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-make-excel-compatible-with-notepad/"><u>Tips: Make Excel Compatible with Notepad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-hp-laserjet-p2035-printer-drivers-on-windows-solutions-found/"><u>Troubleshooting HP LaserJet P2035 Printer Drivers on Windows - Solutions Found</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-your-global-address-through-the-cli-win-1110/"><u>Uncover Your Global Address Through the CLI, Win 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722661594193-unleashing-potential-a-comprehensive-look-at-hero7-black/"><u>Unleashing Potential - A Comprehensive Look at HERO7 Black</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-user-identities-navigating-sid-retrieval-in-windows-11/"><u>Unveiling User Identities: Navigating SID Retrieval in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-pc-6-methods-for-discovering-its-identity/"><u>Unveiling Your PC: 6 Methods for Discovering Its Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-disk-structure-c-vs-d-in-focus/"><u>Windows Disk Structure: C vs D in Focus</u></a></li>
+</ul></div>

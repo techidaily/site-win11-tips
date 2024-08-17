@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows-Based Audacity Crash Code 9999
-date: 2024-07-12T16:51:08.220Z
-updated: 2024-07-13T16:51:08.220Z
+date: 2024-08-16T02:15:17.358Z
+updated: 2024-08-17T02:15:17.358Z
 tags:
   - windows10
   - windows11
@@ -46,8 +46,14 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option-1.jpg)
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 6. Then open Audacity and try recording something again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 3\. Enable Microphone Access for Audacity
 
  Error 9999 often occurs because Audacity is denied microphone access. Enabling microphone access for Windows apps is among the most widely acknowledged error 9999 resolutions to work. This is how you can enable apps to access your microphone in Windows 11/10:
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
 
 ## 4\. Reinstall the Microphone Driver
@@ -68,11 +77,23 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 2. Then double-click the**Audio inputs and outputs** category to view sound devices.
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Click the confirmation dialog’s**Uninstall** option.  
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
  Audacity users have confirmed disabling Host Intrusion Protection in Kaspersky antivirus (security) software fixes error 9999\. Host Intrusion Protection is a feature that regulates apps’ activities in Windows 11/10\. That component is enabled by default in Kaspersky security software.
@@ -90,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on [how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
@@ -123,3 +147,36 @@ thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf3
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unmasking-youtubes-covert-video-collections/"><u>[New] 2024 Approved  Unmasking YouTube’s Covert Video Collections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[New] In 2024, Capture Perfection  The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-multi-window-video-experience-in-edge/"><u>[New] Unlock Multi-Window Video Experience in Edge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-circular-innovator-box/"><u>[Updated] Circular Innovator Box</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-quality-screencasting/"><u>[Updated] Essential Tips for Quality Screencasting</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>2024 Approved  Maximize Engine Power  The Best Windows & Mac SRT Mods Countdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-snippets-guide-essential-info-inside/"><u>2024 Approved  YouTube Snippets Guide  Essential Info Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-boundaries-broken-five-methods-to-mend-security-shortfalls-in-win/"><u>Boot Boundaries Broken: Five Methods to Mend Security Shortfalls in Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-pin-change-procedures/"><u>Breaking Down Windows PIN Change Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breezing-through-telnet-configuration-in-win11/"><u>Breezing Through Telnet Configuration in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-ios-and-windows-utilizing-apple-maps/"><u>Bridging iOS and Windows: Utilizing Apple Maps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brighten-up-re-initialize-graphics-drivers-windows-11/"><u>Brighten Up: Re-Initialize Graphics Drivers Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brightening-up-the-boot-prompts-appearance/"><u>Brightening Up the BOOT Prompt's Appearance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-22-and-restore-device-functionality-in-windows-11/"><u>Bypass Error 22 and Restore Device Functionality in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-freezes-photoshop-and-windows-guide/"><u>Bypass Freezes: Photoshop & Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-blocks-to-your-windows-shared-stash/"><u>Bypassing Blocks to Your Window's Shared Stash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-blue-screen-chaos-how-to-fix-0x8007045d-on-windows-11/"><u>Bypassing Blue Screen Chaos: How to Fix 0X8007045d on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-errors-on-windows-systems/"><u>Bypassing Permission Errors on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-roadblocks-with-microsoft-teams-eradicating-error-code-80080300/"><u>Bypassing Roadblocks with Microsoft Teams: Eradicating Error Code 80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-interface-limitations-top-solutions/"><u>Bypassing Windows Interface Limitations: Top Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/changing-file-types-with-ease-a-windows-manual/"><u>Changing File Types with Ease: A Windows Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/checking-if-windows-11-is-fully-operational/"><u>Checking If Windows 11 Is Fully Operational</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-files-not-syncing-winning-windows-tactics-to-try-first/"><u>Chrome Files Not Syncing? Winning Windows Tactics to Try First</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-filming-flexibility-talent-distribution-license/"><u>In 2024, Filming Flexibility  Talent Distribution License</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-there-a-glitch-in-the-matrix-or-is-it-just-aol-mail-acting-up/"><u>Is There a Glitch in the Matrix - Or Is It Just AOL Mail Acting Up?</u></a></li>
+</ul></div>

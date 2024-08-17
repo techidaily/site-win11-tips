@@ -1,7 +1,7 @@
 ---
 title: "Title: Streamlining Display with Adjusted Desk Icons"
-date: 2024-07-12T17:32:19.376Z
-updated: 2024-07-13T17:32:19.376Z
+date: 2024-08-16T01:36:02.596Z
+updated: 2024-08-17T01:36:02.596Z
 tags:
   - windows10
   - windows11
@@ -58,8 +58,14 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 3. Next, launch File Explorer to open the folder that includes Winaero’s ZIP archive.
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 3. Click the**Icons** option shown directly below.
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
@@ -89,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Change Desktop Icon Spacing With DesktopOK
 
  DesktopOK is another third-party app with which you can adjust the vertical and horizontal spacing between desktop icons. That software also enables you to save desktop icon layouts and packs in other useful tools and features. You can change desktop icon spacing with DesktopOK like this:
@@ -102,10 +114,16 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 1. Then double-click the**DesktopOK\_x64.exe** file.
 2. Click**Tools** on the DesktopOK window.  
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 3. Select**Windows-Metrics** on the**Tools** menu.
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
@@ -132,3 +150,55 @@ thumbnail: https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-your-cameras-screen-recording-features/"><u>[New] 2024 Approved  Unlocking Your Camera's Screen Recording Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-valheims-flora-frontier-unlocking-the-best-seeds/"><u>[New] 2024 Approved  Valheim's Flora Frontier  Unlocking the Best Seeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-sustainable-scenes-for-filmmakers/"><u>[New] Free Sustainable Scenes for Filmmakers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-add-edge-to-insta-videos-a-trifecta-guide/"><u>[New] In 2024, Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capture-the-moment-idevice-screenshots-and-playback/"><u>[New] In 2024, Capture the Moment  IDevice Screenshots & Playback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-invisible-interactions-on-snapchat-for-2024/"><u>[Updated] Detecting Invisible Interactions on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-consumer-reviews-for-youtube-wealth-creation-for-2024/"><u>[Updated] Leveraging Consumer Reviews for YouTube Wealth Creation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-vimeo-vs-youtube-the-differentiators-analysis/"><u>2024 Approved  Vimeo V/S YouTube  The Differentiator's Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/accessing-and-operating-facebooks-inbuilt-protection/"><u>Accessing and Operating Facebook's Inbuilt Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-the-classics-with-clear-cut-winning-strategies-for-high-definition-hd/"><u>Ace the Classics with Clear-Cut Winning Strategies for High-Definition HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/artificial-insight-windows-software-reinvented/"><u>Artificial Insight: Windows Software Reinvented</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assess-power-demands-in-windows-based-personal-computers/"><u>Assess Power Demands in Windows-Based Personal Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/blur-your-video-for-free-no-software-required/"><u>Blur Your Video for Free No Software Required</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dism-strategies-reviving-windows-11-images/"><u>DISM Strategies: Reviving Windows 11 Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/dystopian-dreams-comparable-games-to-grand-theft-auto-v-for-2024/"><u>Dystopian Dreams  Comparable Games To Grand Theft Auto V for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-remedies-to-immediate-addition-problems-for-your-onedrive-drive/"><u>Efficient Remedies to Immediate Addition Problems for Your OneDrive Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fixes-to-stop-windows-10-blue-screens/"><u>Essential Fixes to Stop Windows 10 Blue Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-obscure-to-owned-taking-control-of-your-username-in-windows-11/"><u>From Obscure to Owned: Taking Control of Your UserName in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-to-reinstate-normal-access-in-microsofts-safe-mode-outlook/"><u>Guidance to Reinstate Normal Access in Microsoft's Safe Mode Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps-on-windows-10-and-11/"><u>Guide to Reinstalling Microsoft Store Apps on Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-restore-connection-with-vanished-ubisoft-launcher/"><u>Guide to Restore Connection with Vanished Ubisoft Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hack-your-hardware-close-multiple-windows-at-once/"><u>Hack Your Hardware: Close Multiple Windows at Once</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-g84-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto G84 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-insufficient-access-error-on-win-11-pcs/"><u>How to Bypass Insufficient Access Error on Win 11 PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>In 2024, The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-fb-story-potential-4-effective-techniques/"><u>In 2024, Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-hdr-a-step-by-step-journey-to-perfect-shots-for-2024/"><u>IPhone HDR  A Step-by-Step Journey to Perfect Shots for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-sticky-notes-display-on-win-11/"><u>Mastering the Art of Sticky Notes Display on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-the-ultimate-start-menu-guide/"><u>Mastering Windows 11: The Ultimate Start Menu Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-blizzard-server-connectivity-issues-for-gamers/"><u>Overcoming Blizzard Server Connectivity Issues for Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-empty-directory-alert-on-windows-11/"><u>Overcoming Empty Directory Alert on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-invalid-network-path/"><u>Overcoming Windows' Invalid Network Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-keyboard-errors-for-functional-shortcuts-in-windows-11/"><u>Resolve: Keyboard Errors for Functional Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-audio-not-installed-issues-in-windows-os/"><u>Resolving 'Audio Not Installed' Issues in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-goodbye-to-speedy-pointers-curtailing-acceleration-on-windows-11/"><u>Say Goodbye to Speedy Pointers: Curtailing Acceleration on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-ceasing-random-windows-key-activation/"><u>Strategies for Ceasing Random Windows Key Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-non-displaying-searches-in-win-1011-os/"><u>Strategies for Fixing Non-Displaying Searches in Win 10/11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-sudden-screen-loss-during-win-games/"><u>Techniques to Overcome Sudden Screen Loss During WIN Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-manipulating-the-windows-11-registry-to-unlock-themes/"><u>The Art of Manipulating the Windows 11 Registry to Unlock Themes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-windows-edition/"><u>Top 5 Methods for Securing Your PC: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-free-note-taking-tricks-in-windows-11/"><u>Top Free Note-Taking Tricks in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-to-speed-up-system-restart-with-windows-11/"><u>Tricks to Speed Up System Restart with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-devices-on-the-frontline-top-5-ways-to-confirm-availability/"><u>Windows 11 Devices on the Frontline: Top 5 Ways to Confirm Availability</u></a></li>
+</ul></div>

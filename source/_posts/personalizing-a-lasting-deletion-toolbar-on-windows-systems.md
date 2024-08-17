@@ -1,7 +1,7 @@
 ---
 title: Personalizing a Lasting Deletion Toolbar on Windows Systems
-date: 2024-07-12T16:43:04.756Z
-updated: 2024-07-13T16:43:04.756Z
+date: 2024-08-16T02:23:42.867Z
+updated: 2024-08-17T02:23:42.867Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on [if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -74,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
@@ -84,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
@@ -91,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
  Adding Free File Wiper or Multi Trash bins to Windows will enable you to delete files and folders more securely from the desktop area. Although there are many other file shredder utilities available, few of them have comparable drag-and-drop functionality. So, Multi Trash and Free File Wiper are more unique tools for shredding files in that respect.
@@ -115,3 +134,51 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-delving-deep-into-ios-video-recording-capabilities/"><u>[New] Delving Deep Into IO's Video Recording Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>[New] Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/deal-watchlist-for-asmr-fans-for-2024/"><u>[New] Ideal Watchlist for ASMR Fans for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-jaunt-vr-immersion/"><u>[New] The Ultimate Guide to Jaunt VR Immersion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers/"><u>[Updated] 2024 Approved  Dominate the Scene  The Best Hashtag Tactics for YouTube Gamers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-videography-tools-for-ios-devices-for-2024/"><u>[Updated] Best Videography Tools for iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exclusive-deals-and-previews-from-creators/"><u>[Updated] In 2024, Exclusive Deals & Previews From Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incremental-sound-diminishment-guidebook/"><u>[Updated] Incremental Sound Diminishment Guidebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-year-end-recap-tiktok-hits-that-keep-coming-back-in-24-for-2024/"><u>[Updated] Year-End Recap  TikTok Hits That Keep Coming Back in '24 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-premier-photo-frame-apps-for-2024/"><u>10 Premier Photo Frame Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elevate-your-recordings-selecting-top-pc-and-mac-apps/"><u>2024 Approved  Elevate Your Recordings  Selecting Top PC & Mac Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-structuring-stimulating-podcast-trailers/"><u>2024 Approved  Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-8-speed-upters-accelerate-your-android-media/"><u>2024 Approved  Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-value-for-money-in-depth-review-of-the-caixun-4k-75-android-tv/"><u>Best Value for Money: In-Depth Review of the Caixun 4K 75 Android TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracts-for-sudden-windows-notepad-shutdowns/"><u>Counteracts for Sudden Windows Notepad Shutdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-cpu-fatigue-adjusting-the-workload-of-vanguards-sleep-service/"><u>Curbing CPU Fatigue: Adjusting the Workload of Vanguard's Sleep Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-icon-placement-repair/"><u>Effective Strategies for Icon Placement Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-mend-windows-store-error-0x0-failure/"><u>Expert Tips to Mend Windows Store Error 0X0 Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-system-failures-a-guide-to-repairing-fs-in-win11/"><u>Fixing System Failures: A Guide to Repairing FS in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-utilization-of-final-cut-pro-an-in-depth-guide-for-2024/"><u>Full Utilization of Final Cut Pro  An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-plain-in-windows-11-shapes/"><u>Getting Plain in Windows 11 Shapes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-save-location-error-on-pcs/"><u>How to Correct the Save Location Error on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-customize-windows-11s-default-screensavers/"><u>How to Customize Windows 11'S Default Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-virtualboxs-0x80004005-failure-in-windows/"><u>How to Resolve VirtualBox's 0X80004005 Failure in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ibeatpro-tips-for-mobile-music-video-filmmaking-for-2024/"><u>IBeatPro  Tips for Mobile Music Video Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>In 2024, IPhone & IOS  A Beginner's Approach to VR Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peaceful-playback-practices-for-pcos-users/"><u>In 2024, Peaceful Playback Practices for PC/OS Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-the-developers-guide-to-dev-drive-win11/"><u>Navigating New Horizons: The Developer's Guide to Dev Drive Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-blocks-in-the-windows-store/"><u>Overcoming Installation Blocks in the Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prepared-participation-test-your-pcs-microphone-webcam/"><u>Prepared Participation: Test Your PC’s Microphone, Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-12-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 12 to PC or Mac | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-navigation-through-windows-11s-component-tools/"><u>Seamless Navigation Through Windows 11'S Component Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11-for-2024/"><u>The Easy Way to Screen Record - Your Ultimate Guide on Mi 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-boot-into-windows-repair/"><u>The Essentials of Boot Into Windows Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-reverse-character-entry-on-pcs/"><u>Tips for Correcting Reverse Character Entry on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-make-excel-compatible-with-notepad/"><u>Tips: Make Excel Compatible with Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-error-x7e1-in-windows-10/"><u>Unblocking Error X7E1 in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-your-global-address-through-the-cli-win-1110/"><u>Uncover Your Global Address Through the CLI, Win 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-user-identities-navigating-sid-retrieval-in-windows-11/"><u>Unveiling User Identities: Navigating SID Retrieval in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-pc-6-methods-for-discovering-its-identity/"><u>Unveiling Your PC: 6 Methods for Discovering Its Identity</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-and-linux-elevated-your-pcs-speed-effective-steps-to-tackle-unwanted-shell-induced-cpu-load/"><u>Windows & Linux: Elevated Your PC’s Speed - Effective Steps to Tackle Unwanted Shell-Induced CPU Load</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-disk-structure-c-vs-d-in-focus/"><u>Windows Disk Structure: C vs D in Focus</u></a></li>
+</ul></div>

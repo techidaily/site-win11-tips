@@ -1,7 +1,7 @@
 ---
 title: Quicker Downloads for Battle.net Games, Win PCs Now!
-date: 2024-07-12T17:47:37.341Z
-updated: 2024-07-13T17:47:37.341Z
+date: 2024-08-16T01:20:18.692Z
+updated: 2024-08-17T01:20:18.692Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our [guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Turn Off Windows' Metered Connection
 
  Windows has a metered connection feature that lets you control your bandwidth usage. This feature is mainly designed to save data, especially if you're under a data cap. It also affects how an app uses the available bandwidth.
@@ -55,15 +58,24 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 3. Select**Wi-Fi,** and then choose your**Wi-Fi** connection.
 4. Disable the toggle next to**Metered connection.**  
 ![Metered Connection option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Metered-Connection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. Restart Battle.net, and check if there's any improvement in the download speed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Troubleshoot Your Connection
 
  A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you're getting a comparatively lower download speed, check out our guide on [how to improve your internet connection](https://www.makeuseof.com/how-to-improve-internet-speed/) . If this helps improve your internet connection, try downloading games on Battle.net. But if there's no improvement in your connection, contact your internet service provider (ISP).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 4\. Disable Any Proxy Server Connection
 
  A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) ensures that you're safe and protected online. But on the negative side, it can make the connection unstable and slow down the download speed.
@@ -87,12 +99,18 @@ To update the network driver update, follow the below instructions:
 2. Choose**Device Manager** from the context menu.
 3. Right-click on the installed network adapters and select**Update driver.**  
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Choose**Search automatically for drivers.**
 
  Windows will now look for and download the latest network driver update. If it finds nothing, search for the network adapter's manufacturer's official website for drivers instead.
 
 After that, restart your computer and check for the issue again.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Clear the Battle.net Cache Data
 
  Battle.net stores cache data to offer faster access. Sometimes, this cache folder can get corrupted and affect your download speed. You'll have to delete the content of this folder to solve the problem. Don't worry; deleting this folder will not affect your game data.
@@ -123,6 +141,9 @@ You can fix this by resetting the network settings. Here's how:
 2. Choose**Advanced network settings,** and then select**Network reset.**
 3. Click the**Reset now** button.  
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/the-network-reset-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click**Yes** to the prompt that appears to confirm your selection.
 
 ## Improve Your Battle.net Download Speed
@@ -149,3 +170,41 @@ You can fix this by resetting the network settings. Here's how:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface-for-2024/"><u>[New] Navigating the Path of Extensive Video Transfers  IPhone-Mac Interface for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-inserting-tracks-in-youtube-playlists/"><u>[New] Step-by-Step  Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>[Updated] 2024 Approved  Thorough Assessment  Samsung's Hololens-Like Spinning Lens</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-5-non-twitter-social-sites/"><u>[Updated] 2024 Approved  Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-media-playback-with-vlc-mac/"><u>[Updated] Streamlining Media Playback with VLC (Mac)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly-for-2024/"><u>[Updated] The IG Boom Technique  How to Amass a Massive Follower Count Quickly for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-holistic-iphone-use-images-and-videos-fused-together/"><u>2024 Approved  Holistic iPhone Use  Images & Videos Fused Together</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-11-audio-devices-for-professionals/"><u>2024 Approved  Innovative 11 Audio Devices for Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-windows-management-with-a-disk-space-analysis-tool/"><u>Augment Windows Management with a Disk Space Analysis Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-unresponsive-wired-gaming-accessories/"><u>Cure for Unresponsive Wired Gaming Accessories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-computer-utilization-monitors-on-pcs/"><u>Discover the Top 6 Computer Utilization Monitors on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-persistence-of-user-defined-volume-mixer/"><u>Ensuring Persistence of User-Defined Volume Mixer</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-share-error-in-windows-11/"><u>Eradicating Share Error in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gearing-up-with-best-laptops-from-ifa-2023/"><u>Gearing Up with Best Laptops From IFA 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark 10 5G Phone?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-internal-error-in-windows-11-remote/"><u>Mastering the Art of Fixing Internal Error in Windows 11 Remote</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-win1011-recycle-bin-repair-strategies/"><u>Mastering WIN10/11 Recycle Bin Repair Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-ease-to-windows-11s-security-management/"><u>Navigate with Ease to Windows 11’S Security Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-mspcm-interface-on-windows-11-easily/"><u>Navigating the MSPCM Interface on Windows 11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-limited-access-install-troubleshooting-on-win-1110/"><u>Navigating Through Limited Access Install Troubleshooting on Win 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-steam-connectivity-woes-in-w11/"><u>Navigating Through Steam Connectivity Woes in W11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-try-the-easy-movie-maker-software-using-the-following-guide/"><u>New In 2024, Try the Easy Movie Maker Software Using the Following Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-inactivity-in-new-os-sleep-mode/"><u>Overcoming Device Inactivity in New OS Sleep Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-missing-dxgidll-streamline-your-win11/"><u>Reinstate Missing Dxgi.dll, Streamline Your Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-itunes-operational-status-on-your-pc/"><u>Restoring iTunes Operational Status on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-switching-nat-type-on-wins-10-and-11/"><u>Step-By-Step Walkthrough: Switching NAT Type on Wins 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-dxgierrordevicehunk-on-windows-11/"><u>Steps to Tackle DXGI_ERROR_DEVICE_HUNK on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-future-of-windows-interface-winbubbles-8-innovations/"><u>The Future of Windows Interface: WinBubble's 8 Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-innovative-solutions-beyond-openais-chatgpt-mobile-offerings/"><u>Unveiling 7 Innovative Solutions Beyond OpenAI's ChatGPT Mobile Offerings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ways-to-wipe-old-windows-protection-markers-from-microsofts-record/"><u>Ways to Wipe Old Windows Protection Markers From Microsoft's Record</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-lsass-component-resolution-a-user-friendly-guide/"><u>Win LSass Component Resolution: A User-Friendly Guide</u></a></li>
+</ul></div>

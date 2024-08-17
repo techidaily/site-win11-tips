@@ -1,7 +1,7 @@
 ---
 title: Resolving Prioritize Disk Format in Windows Errors
-date: 2024-07-12T17:39:17.810Z
-updated: 2024-07-13T17:39:17.810Z
+date: 2024-08-16T01:28:33.520Z
+updated: 2024-08-17T01:28:33.520Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 4. Core system files have gone missing or corrupt.
 5. A third-party app is conflicting with system apps and services.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Methods to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error
 
  Try out the following methods to fix the disk error message and save your data stored on it:
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Perform a Complete Shutdown
 
 [Microsoft enables Fast Start-up](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) in newer versions of the Windows operating system by default. It hibernates the system and kernel-level processes so your system boots up faster after a shutdown.
@@ -52,6 +58,9 @@ Repeat the following steps:
 2. Type**cmd** in the text input box and press**Ctrl + Shift + Enter** to open Command Prompt with administrator privileges.
 3. Input the following command and press the enter key:**shutdown /s /f /t 0**  
 ![Perform a Complete Shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/perform-a-complete-shutdown.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. It will take longer than usual for your system to shut down. Power it on again and open File Explorer.
 5. Click on the USB disk and check if you are able to access the files on it.
 
@@ -76,10 +85,25 @@ Repeat the following steps:
 
  It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the [command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Run an SFC and DISM Scan
 
  If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a [DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Use a Linux Installation Media to Access the USB Disk Drive
 
  This method is more of a workaround to not lose your data. If you don’t have a second system nearby, you can [create a Linux installation media](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/) and use the Try Ubuntu mode to mount and access the contents of the USB disk. It will save the effort of searching for another computer, and you can successfully create a backup of the USB disk.
@@ -91,6 +115,9 @@ Repeat the following steps:
 3. In the Grub menu, select the**Try or install Ubuntu** option. Wait for the setup Window to launch and then click on the**Try Ubuntu** option.
 4. Go to the left-hand side menu and click on the**Files** app.  
 ![Use a Linux Installation Media to Access the USB Disk Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-a-linux-installation-media-to-access-the-usb-disk-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click on the USB disk name in the navigation pane to open it. Now, you can copy these files to another location on your hard drive or an external hard disk.
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
 
@@ -106,6 +133,9 @@ Repeat the following steps:
 
  However, before [performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try [System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can [factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Access USB Disk Contents Without Formatting
 
  It is a bad idea to click on the Format button when File Explorer prompts you to do it to access the USB disk. Firstly, try to check the hardware malfunctions and salvage the data on the USB disk. You can use another system or create a Linux installation media to access files on the USB disk.
@@ -130,3 +160,70 @@ Repeat the following steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unraveling-youtubes-platform-for-content-crafting/"><u>[New] 2024 Approved  Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-diy-remote-podcast-production-tips-for-2024/"><u>[New] DIY Remote Podcast Production Tips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fresh-discussion-ideas-for-podcast-success/"><u>[New] Fresh Discussion Ideas for Podcast Success</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-piecing-together-a-unique-tiktok-outro-elements-for-2024/"><u>[New] Piecing Together A Unique TikTok Outro Elements for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>[Updated] 2024 Approved  Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-craft-your-contents-voyage-from-camera-to-instagram-tv/"><u>[Updated] Craft Your Content's Voyage From Camera to Instagram TV</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>[Updated] Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hot-list-igs-favorite-after-effects-themes/"><u>[Updated] In 2024, Hot List  IG's Favorite After Effects Themes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stealthy-content-consumption-top-5-apps-for-2024/"><u>[Updated] Stealthy Content Consumption - Top 5 Apps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>2024 Approved  7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-video-titling-solutions-online-now/"><u>2024 Approved  Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-your-camera-life-into-your-instagram-world/"><u>2024 Approved  Bring Your Camera Life Into Your Instagram World</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-comprehensive-list-8-top-android-mp3-downloads/"><u>2024 Approved  Comprehensive List  8 Top Android MP3 Downloads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-retrieval-the-top-5-software-compared/"><u>2024 Approved  FB Video Retrieval  The Top 5 Software Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-essential-fixes-conquer-the-windows-update-hurdles/"><u>7 Essential Fixes: Conquer the Windows Update Hurdles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-beginners-guide-to-creating-impactful-slug-lines/"><u>A Beginner's Guide to Creating Impactful Slug Lines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-mass-rename-with-powertoys/"><u>Automate Mass Rename with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-battlenet-speed-fasten-your-windows-pace/"><u>Boosting Battle.net Speed: Fasten Your Windows Pace</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/changing-the-face-of-healthcare-with-vr/"><u>Changing the Face of Healthcare with VR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatgpt-launch-procedure-for-windows-users/"><u>ChatGPT Launch Procedure for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-window-11-notebook-space-you-love/"><u>Creating a Window 11 Notebook Space You Love</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-access-control-constructing-your-windows-personal-pins/"><u>Cutting-Edge Access Control: Constructing Your Windows Personal Pins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/documentation-skills-snapping-windows-uac-prompts/"><u>Documentation Skills: Snapping Windows UAC Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-the-heat-cutting-down-vanguard-writes-on-your-computer/"><u>Easing the Heat: Cutting Down Vanguard’ Writes on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-no-network-reachable-errors-win/"><u>Eradicating No Network Reachable Errors (WIN)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/experience-gaming-unbound-android-in-desktop-windows-with-google-play-service/"><u>Experience Gaming Unbound: Android in Desktop Windows with Google Play Service</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-manipulating-colors-in-video-edits/"><u>Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fundamentals-of-selecting-the-best-win-notebook/"><u>Fundamentals of Selecting the Best Win Notebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-open-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus Open FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a78-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A78 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-copyright-aware-techniques-for-reposting-imagery/"><u>In 2024, Copyright-Aware Techniques for Reposting Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-raw-footage-to-final-cut-adopting-luts-in-premiere/"><u>In 2024, From Raw Footage to Final Cut  Adopting LUTs in Premiere</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 Phone without PIN</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locating-and-opening-system32-windows-11/"><u>Locating and Opening System32 (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-with-ease-mastering-ifunnys-meme-app-for-2024/"><u>Navigate with Ease  Mastering iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-non-responsive-windows-services-management-tool/"><u>Navigating the Maze of Non-Responsive Windows Services Management Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pitfalls-of-the-promotional-assessing-risks-with-low-price-auth-codes/"><u>Pitfalls of the Promotional: Assessing Risks with Low-Price Auth Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-the-amd-installer-crash-in-windows/"><u>Quick Fixes for the AMD Installer Crash in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-elusive-link-finding-missing-launcher/"><u>Re-Establishing Elusive Link: Finding Missing Launcher</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/refine-your-beauty-videos-with-youtubes-palette-tweaking/"><u>Refine Your Beauty Videos with Youtube's Palette Tweaking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-chromes-firewallantivirus-denial-error-on-pc/"><u>Resolving Chrome's Firewall/Antivirus Denial Error on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ridiculous-rhythms-satirical-song-stories-for-2024/"><u>Ridiculous Rhythms  Satirical Song Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-hiding-zips-within-computer-photos/"><u>Sneaky Storage Solutions: Hiding ZIPs Within Computer Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-restarting-non-responsive-resource-monitors-in-windows-11/"><u>Strategies for Restarting Non-Responsive Resource Monitors in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-successful-java-setup-in-windows/"><u>Strategies for Successful Java Setup in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategizing-user-focused-gpo-settings-for-windows-1111-oses/"><u>Strategizing User-Focused GPO Settings for Windows 11/11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-cr2-conversion-to-jpg-in-windows-environment/"><u>Streamline CR2 Conversion to JPG in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-power-peaks-controlling-wlanext-usage/"><u>Taming Power Peaks: Controlling WLANEXT Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-list-of-2024s-freeware-for-testing-your-storage-devices/"><u>The Essential List of 2024'S Freeware for Testing Your Storage Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-pros-approach-to-optimizing-zoom-settings-for-2024/"><u>The Pro's Approach to Optimizing Zoom Settings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-sudo-tool-is-coming-to-windows-how-and-why-to-use-it/"><u>The Sudo Tool Is Coming to Windows: How and Why to Use It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-manual-for-chrome-and-windows-11/"><u>The Ultimate Manual for Chrome and Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-pc-vram-with-windows-1011-tips-and-tricks/"><u>Turbocharging PC VRAM with Windows 10/11 Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-eliminating-windows-11-taskbar-chat-on-you/"><u>Understanding the Effect of Eliminating Windows 11 Taskbar Chat on You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-games-again-steams-achievement-reboot/"><u>Unlocking Games Again: Steam's Achievement Reboot</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-glitch-to-glory-how-to-reset-final-cut-pro-x-and-resolve-issues/"><u>Updated From Glitch to Glory How to Reset Final Cut Pro X and Resolve Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-resource-tracking-efficiency-via-windows-interfaces/"><u>Upgrade Resource Tracking Efficiency via Window's Interfaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-error-unsigned-update-files-fix-guide/"><u>Windows Error: Unsigned Update Files; Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-mkv-to-mp4-conversion-process/"><u>Windows Guide: MKV to MP4 Conversion Process</u></a></li>
+</ul></div>

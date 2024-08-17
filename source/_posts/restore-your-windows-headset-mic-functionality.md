@@ -1,7 +1,7 @@
 ---
 title: Restore Your Windows Headset Mic Functionality
-date: 2024-07-12T16:59:44.821Z
-updated: 2024-07-13T16:59:44.821Z
+date: 2024-08-16T02:07:31.541Z
+updated: 2024-08-17T02:07:31.541Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  If none of the above checks and fixes work, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 2\. Ensure That the Microphone Isn't Muted
 
  There is usually a button on most headsets that allows you to muffle the microphone. This control enables users to mute themselves when not participating in a conversation. If your headset also has one, make sure you haven't muted it by mistake.
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 3\. Ensure That the Microphone Is Properly Plugged In
 
  If your headset has a 3.5mm audio cable, plug it into the microphone jack. When plugging it in, you may also need to select the microphone and speaker options from the pop-ups on your desktop. So, be careful when you do that.
@@ -56,13 +62,22 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Select the Right Microphone and Test It
 
  To use your headset microphone as your primary audio input device, you must properly select it in the sound settings. Therefore, make sure the headset microphone is selected there, especially if you have more than one audio input device connected to your device.
@@ -80,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  To set your headset microphone as the default audio input device, navigate to **Settings > System > Sound** and click on **More sound settings**.
 
 ![Go to More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 
  In the sound settings, go to the **Recording** tab, right-click on your headset microphone, and select **Set as Default Device**.
 
@@ -103,12 +121,18 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 8\. Select the Correct Microphone in the App's Settings
 
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get Your Headset Microphone Working Again
 
  A headset microphone that does not pick up your voice can hinder your gameplay or business meetings. Hopefully, you now better understand what causes the headset microphone to malfunction. Furthermore, if you correctly apply the above fixes, you will be able to troubleshoot and resolve the problem with the headset.
@@ -124,3 +148,43 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[Updated] 2024 Approved  Superstar Status Secrets  A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-quirky-make-memes-with-kapwing-app/"><u>[Updated] Quick & Quirky  Make Memes with Kapwing App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>[Updated] Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-android-tools-5-leading-ps2-emulator-apps/"><u>2024 Approved  Essential Android Tools  5 Leading PS2 Emulator Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-av-producers-the-ultimate-web-watchlist/"><u>2024 Approved  Innovative AV Producers  The Ultimate Web Watchlist</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-high-end-graphics-for-fortnite-on-your-smartphone/"><u>Accessing High-End Graphics for Fortnite on Your Smartphone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6 & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-audacity-audio-inconsistency-in-windows-1111/"><u>Correcting Audacity Audio Inconsistency in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-peasy-double-click-android-files-in-win-11/"><u>Easy-Peasy: Double-Click Android Files in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-2023-microsoft-store-community-choice-winning-apps/"><u>Elevate Your Windows Experience With These 2023 Microsoft Store Community Choice Winning Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-intrusive-credential-prompts-on-windows-11-local-account/"><u>Eliminating Intrusive Credential Prompts on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unidentified-hardware-errors-win-1110-tips/"><u>Fixing Unidentified Hardware Errors: Win 11/10 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-ways-to-record-google-voice-calls/"><u>In 2024, Easy Ways to Record Google Voice Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-voyage-for-valuables-5-prime-map-expeditions/"><u>In 2024, Voyage for Valuables  5 Prime Map Expeditions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-latest-wireless-network-adapter-drivers-get-them-now/"><u>Instant Download: Latest Wireless Network Adapter Drivers – Get Them Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jump-start-your-android-devices-double-clicking-apks-on-win-11/"><u>Jump-Start Your Android Devices: Double-Clicking APKs on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-silenced-speaker-tech-fix-at-hand/"><u>Jumpstart Your Silenced Speaker - Tech Fix at Hand</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-volume-malfunction-heres-how-you-can-get-sound-working-again/"><u>Laptop Volume Malfunction? Here's How You Can Get Sound Working Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-naming-your-podcast-right-and-50plus-creative-title-suggestions/"><u>Mastering the Art of Naming Your Podcast Right & 50+ Creative Title Suggestions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-rebooting-indexed-databases/"><u>Mastering the Art of Rebooting Indexed Databases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-excessive-load-by-dropbox-app-on-windows-computers/"><u>Mitigating Excessive Load by Dropbox App on Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-law-filter-features/"><u>Navigating Through Windows LAW Filter Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-package-access-issues-on-windows-1110-systems/"><u>Overcoming Package Access Issues on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-challenge-of-windows-exception-breakpoint-error/"><u>Overcoming the Challenge of Windows Exception Breakpoint Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/real-time-voice-transcription-whisper-desktop-expertise/"><u>Real-Time Voice Transcription: Whisper Desktop Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-faded-boot-prompts-steps/"><u>Redesigning Faded Boot Prompts: Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-erratic-mouse-movements-7-solutions/"><u>Resolving Erratic Mouse Movements: 7 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-creativity-microsofts-surface-studio-2-insight/"><u>Revamping Creativity: Microsoft's Surface Studio 2 Insight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-windows-family-safety-solutions-for-malfunctions/"><u>Reviving Your Windows Family Safety: Solutions for Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-visibility-of-webcam-usage-on-win11/"><u>Steps to Enhance Visibility of Webcam Usage on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-token-misrepresentation-issues/"><u>Strategies for Fixing “Token Misrepresentation” Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-troubleshooting-misused-system-tokens-on-windows/"><u>Tips for Troubleshooting “Misused System Tokens” On Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-top-9-reasons-why-a-pc-is-better-than-a-mac/"><u>Understanding Top 9 Reasons Why a PC Is Better than a Mac</u></a></li>
+</ul></div>

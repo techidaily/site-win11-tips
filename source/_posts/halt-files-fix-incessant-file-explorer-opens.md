@@ -1,7 +1,7 @@
 ---
 title: "Halt Files: Fix Incessant File Explorer Opens"
-date: 2024-07-12T17:05:37.496Z
-updated: 2024-07-13T17:05:37.496Z
+date: 2024-08-16T02:00:56.304Z
+updated: 2024-08-17T02:00:56.304Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/b138b868d1835e887dd60f251ee7ea4ef4f6730ac
 
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
@@ -47,7 +51,14 @@ thumbnail: https://thmb.techidaily.com/b138b868d1835e887dd60f251ee7ea4ef4f6730ac
 2. Type**explorer options** in the box and select the first result that appears.
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## 4\. Run the System Maintenance Troubleshooter
 
  Windows periodically runs the System Maintenance troubleshooter on your computer to look for common maintenance issues. You can also run this tool manually if apps like File Explorer keep opening unexpectedly on your computer.
@@ -64,6 +75,9 @@ To run the System Maintenance troubleshooter on Windows:
 
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Check for Corrupted System Files
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
@@ -76,6 +90,9 @@ To run the System Maintenance troubleshooter on Windows:
 
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Install Windows Updates
 
  Several users on forums reported experiencing this issue after a Windows update. If the issue is indeed caused by a bug, it shouldn’t take long before Microsoft releases a fix. It's a good idea to check your computer for any pending system updates and install them right away.
@@ -83,6 +100,9 @@ To run the System Maintenance troubleshooter on Windows:
  Press**Win + I** to open the Settings app and navigate to the**Windows update** tab. Click the**Check for updates** button on your right.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to [fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
@@ -119,3 +139,66 @@ To run the System Maintenance troubleshooter on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-intellectual-property-guidelines-for-instahits/"><u>[New] 2024 Approved  Intellectual Property Guidelines for InstaHits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-android-mobas-the-ultimate-list-for-2024/"><u>[New] Essential Android MOBAs  The Ultimate List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-invigorate-snaps-implement-inner-blur-spread-in-cs/"><u>[New] In 2024, Invigorate Snaps  Implement Inner Blur Spread in CS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-adobe-connect-for-exceptional-video-capture-and-editing-for-2024/"><u>[Updated] Leveraging Adobe Connect for Exceptional Video Capture & Editing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-and-science-of-buying-profitable-yt-content/"><u>[Updated] The Art and Science of Buying Profitable YT Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>2024 Approved  From Doodles to Success  Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-video-sharing-adding-imovie-clips-to-vimeo/"><u>2024 Approved  Maximizing Video Sharing  Adding iMovie Clips to Vimeo</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-visualcutter-critique-detailed-review/"><u>2024 Approved  VisualCutter Critique – Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-keystrokes-using-typingaid/"><u>Accelerate Your Keystrokes Using TypingAid</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amending-disabled-windows-shadow-snapshots/"><u>Amending Disabled Windows Shadow Snapshots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/blueprinting-breathtaking-cinematic-sketches/"><u>Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719316562070-boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correct-stellar-media-interruption-0xc00d36c4/"><u>Correct Stellar Media Interruption: 0XC00D36C4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-7-steps-to-missing-windows-add-ons/"><u>Enhancing User Experience: 7 Steps to Missing Windows Add-Ons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-background-operations-with-edge-in-win11/"><u>Ensuring Smooth Background Operations with Edge in Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entry-points-to-arabic-language-exploration/"><u>Entry Points to Arabic Language Exploration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essentials-of-windows-diagnostics-compiling-and-analyzing-data/"><u>Essentials of Windows Diagnostics: Compiling & Analyzing Data</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bad-pool-header-error-in-windows-7-a-comprehensive-guide/"><u>Fixing the 'Bad Pool Header' Error in Windows 7 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-unavailability-of-icloud-on-windows/"><u>Fixing the Unavailability of iCloud on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-pictures-to-possibilities-8-ways-chatgpt-shines-visually/"><u>From Pictures to Possibilities: 8 Ways ChatGPT Shines Visually</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-s23plus-frp-by-drfone-android/"><u>Full Guide to Bypass Itel S23+ FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-default-windows-backup-reset/"><u>Guiding Through Default Windows Backup Reset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-create-podcast-rss-feeds/"><u>How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-copy-paste-not-working-in-chrome-edge-and-firefox-on-windows/"><u>How to Fix Copy-Paste Not Working in Chrome, Edge, and Firefox on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-view-this-file-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to View This File” Error on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-guide-for-installing-windows-11-arm-via-iso-download/"><u>How-To Guide for Installing Windows 11 ARM via ISO Download</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-reno-10-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Reno 10 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g42-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G42 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-with-hyper-v-on-windows-11/"><u>Jumpstart Your PC with Hyper-V on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gui-diskspace-windows-menu-integration-guide/"><u>Mastering GUI Diskspace: Windows Menu Integration Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/meme-magic-march-2024/"><u>Meme Magic March 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-recollection-of-previous-windows-password/"><u>Mending “Recollection of Previous Window's Password”</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/music-lovers-club-listen-save-analyze-tunes/"><u>Music Lovers Club  Listen, Save, Analyze Tunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mspm-setup-obstacles-in-windows-vista/"><u>Overcoming MSPM Setup Obstacles in Windows Vista</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/past-keys-to-future-launches-utilizing-windows-7-for-windows-11-bootup/"><u>Past Keys to Future Launches: Utilizing Windows 7 for Windows 11 Bootup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-fixing-file-not-found-issues-in-windows-1110/"><u>Quick Remedy: Fixing 'File Not Found' Issues in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-crashes-due-to-video-drivers/"><u>Remedying Windows Crashes Due to Video Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-operation-issues-on-modern-windows-pcs/"><u>Resolving Operation Issues on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-updater-roadblock-0x80073712/"><u>Resolving Updater Roadblock: 0X80073712</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-of-stuck-warcraft-patches/"><u>Steering Clear of Stuck Warcraft Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-installation-of-windows-chatgpt/"><u>Step-by-Step Installation of Windows ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-date-changes-on-windows-pcs/"><u>Steps to Prevent Date Changes on Windows PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-monetization-for-game-streams-for-2024/"><u>Strategic Monetization for Game Streams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-windows-11s-notepad-with-copilot/"><u>Supercharge Windows 11’S Notepad With Copilot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-definable-error-in-windows-environment/"><u>Tackling 'Non-Definable' Error in Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-nvidias-rtx-graphic-cards-benefits-functionality-and-more/"><u>The Ultimate Guide to Nvidia's RTX Graphic Cards - Benefits, Functionality, and More</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-setting-up-window-sandbox/"><u>The Ultimate Guide to Setting up Window Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-accessibility-of-displays-in-nvidia-software/"><u>Tips for Restoring Accessibility of Displays in Nvidia Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-se-2022-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone SE (2022) and Android Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-write-file-access-issue-on-windows-1011/"><u>Troubleshooting Write File Access Issue on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-strategy-for-sound-graph-segregation/"><u>Understanding Windows' Strategy for Sound Graph Segregation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-panasonics-wearable-action-camera-magic/"><u>Unveiling Panasonic's Wearable Action Camera Magic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v29-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V29 Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winrars-hash-harmony-six-ways-to-ensure-correct-sums/"><u>WinRAR's Hash Harmony: Six Ways to Ensure Correct Sums</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Android: Access Windows Shared Folders"
-date: 2024-07-12T18:01:49.773Z
-updated: 2024-07-13T18:01:49.773Z
+date: 2024-08-16T01:06:31.158Z
+updated: 2024-08-17T01:06:31.158Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Share a Windows Drive on Your Local Network
 
  To access your computer's files, you need to share them on the local network. For the demonstration, I'll be sharing a drive on the local network. If you wish to share a folder or a single file instead, you can follow the same steps but with only the folder(s) and file(s) selected.
@@ -36,9 +39,15 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 2. From the drop-down menu, click on **Properties**.
 3. In the **Properties** menu, go to the **Sharing** tab.  
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
@@ -58,8 +67,14 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
@@ -69,6 +84,9 @@ Close
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How to Access Your Windows Files From an iOS Device
 
  The steps to access Windows files from iOS are pretty much identical to the steps required for Android devices. Here's how you can access your Windows PC's files from iOS:
@@ -80,6 +98,9 @@ Close
 5. Then, you will be prompted to enter the user account credentials to access the shared drive. Type them in and tap on **Next**.
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
@@ -93,6 +114,9 @@ Close
 
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
 
  Now that you know how to access your PC files using Windows Network Share, uploading, downloading, and modifying files should be super easy to do. You won't have to rely on downloading and testing third-party applications for minor tasks like copying over a PDF file from your Windows PC to your Android/iOS devices.
@@ -107,3 +131,57 @@ Close
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-8-instagram-planners-ios-and-android-edition/"><u>[New] 2024 Approved  Top 8 Instagram Planners  IOS & Android Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-online-archive-copyright-free-gaming-harmonies/"><u>[New] Free Online Archive  Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-analyzing-online-video-discussions/"><u>[New] In 2024, Analyzing Online Video Discussions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-no-glue-methods-for-spotless-video-creations-on-tiktok/"><u>[New] No-Glue Methods for Spotless Video Creations on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-remedy-for-accidental-youself-reappearance-during-fb-chats/"><u>[New] Remedy for Accidental 'Youself' Reappearance During FB Chats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-webcam-recording-on-hp-systems/"><u>[New] Step-by-Step Webcam Recording on HP Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[Updated] 2024 Approved  Storage Exploration  How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-effortless-image-edit-eliminating-backdrops-in-canvas-for-2024/"><u>[Updated] Effortless Image Edit  Eliminating Backdrops in Canvas for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tagging-and-title-strategies-for-youtube-success-stories/"><u>[Updated] Tagging and Title Strategies for YouTube Success Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminance-levels-top-3-ways-to-revive-your-photos-vibrancy/"><u>2024 Approved  Luminance Levels  Top 3 Ways to Revive Your Photo's Vibrancy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-focus-expert-tips-on-the-psx-eraser-tool/"><u>2024 Approved  Sharpen Focus  Expert Tips on the PSX Eraser Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-13-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-muse-reimagined-the-best-ai-writers-of-today/"><u>Artificial Muse Reimagined: The Best AI Writers of Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-the-confusing-blue-screen-error-0x8007007e/"><u>Clearing Up the Confusing Blue Screen Error: 0X8007007E</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-11-taskbar-for-key-indicators/"><u>Customizing Windows 11 Taskbar for Key Indicators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-process-of-eliminating-security-record-in-windows/"><u>Decoding the Process of Eliminating Security Record in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/echoes-of-the-past-utilizing-windows-7-product-key-for-windows-11/"><u>Echoes of the Past: Utilizing Windows 7 Product Key for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-sticky-notes-dont-get-lost/"><u>Ensuring Sticky Notes Don't Get Lost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-virtualbox-v70-installation-for-windows-11-users/"><u>Essential Guide: VirtualBox v7.0 Installation for Windows 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-windows-file-check-up-tips-and-tricks/"><u>Fast Windows File Check-Up  Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-to-overcome-remote-connection-errors-on-windows/"><u>Fixes to Overcome Remote Connection Errors on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-to-grips-with-windows-11s-audio-settings-quickly/"><u>Getting to Grips with Windows 11'S Audio Settings Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dodge-repeated-network-logon-error-messages-on-windows/"><u>How to Dodge Repeated Network Logon Error Messages on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-wsl-registration-failure-error-code-0x80370102/"><u>How To Rectify WSL Registration Failure (Error Code 0X80370102)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2020-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2020) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-m6-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco M6 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-vids-to-mp3s-a-noobs-guide-revealed/"><u>In 2024, Instagram Vids to MP3s - A Noob's Guide Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shadows-add-stealthy-menu-in-win11/"><u>Navigating the Shadows: Add Stealthy Menu in Win11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-videos-best-3d-animation-and-video-software/"><u>New 2024 Approved Elevate Your Videos Best 3D Animation and Video Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-freeze-crash-and-blackout/"><u>Overcoming Chrome Freeze, Crash, and Blackout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-connectivity-hurdles-in-windows-11/"><u>Overcoming Printer Connectivity Hurdles in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdles-of-windows-11s-search-functionality/"><u>Overcoming the Hurdles of Windows 11'S Search Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvent-your-techs-future-away-from-windows/"><u>Reinvent Your Tech's Future, Away From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-overloaded-system-by-controlling-processes/"><u>Resolving Overloaded System by Controlling Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-performance-the-most-unnecessary-windows-applications/"><u>Sharpen Performance: The Most Unnecessary Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-chrome-blackout-on-a-pc/"><u>Solving Chrome Blackout on a PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-w11w10-bluetooth-pin-verification-failures/"><u>Strategies to Solve W11/W10 Bluetooth PIN Verification Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-power-the-top-5-pc-performance-tools-for-win/"><u>Surge Power: The Top 5 PC Performance Tools for Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-onedrive-placement-in-win-11/"><u>Tailor Your OneDrive Placement in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-benefits-in-maintaining-your-win-11-notification-signals/"><u>The Hidden Benefits in Maintaining Your Win 11 Notification Signals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-retro-arc-of-gaming-shading-techniques-for-ancient-artifacts/"><u>The Retro Arc of Gaming: Shading Techniques for Ancient Artifacts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-12-pro-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 12 Pro Max on MetroPCS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-guide-to-fast-clickers/"><u>The Ultimate Windows Guide to Fast Clickers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-imminent-windows-licensing-warning/"><u>Troubleshooting Imminent Windows Licensing Warning</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-exe-files-on-your-pc-no-more-issues/"><u>Unlock EXE Files on Your PC, No More Issues!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-dormant-pane-panes-ultimate-guide-to-win11/"><u>Unlocking Dormant Pane Panes: Ultimate Guide to Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-comic-reading-in-win11/"><u>Unveiling the Secrets to Comic Reading in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-key-beware-the-subtle-dangers-of-discounts/"><u>Windows Key Beware: The Subtle Dangers of Discounts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-renewal-methods-for-driver-replacement-and-update/"><u>Windows Renewal: Methods for Driver Replacement and Update</u></a></li>
+</ul></div>

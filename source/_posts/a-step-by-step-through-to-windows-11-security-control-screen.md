@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Through to Windows 11 Security Control Screen
-date: 2024-07-12T17:58:46.721Z
-updated: 2024-07-13T17:58:46.721Z
+date: 2024-08-16T01:09:25.504Z
+updated: 2024-08-17T01:09:25.504Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,9 @@ To access the Authorization Manager, follow these steps:
 
  You should now see the Authorization Manager window in the search results. Click on the result to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use Run Dialog Box
 
  Another way to open the Authorization Manager in Windows is through the Run dialog box. Here's how to do it:
@@ -40,6 +43,9 @@ To access the Authorization Manager, follow these steps:
 
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Use Windows File Explorer
 
  Windows File Explorer is a handy tool to manage your files and folders, allowing you to view, create, move, rename, delete, and organize files. It is also the gateway to accessing hidden files and system settings. Here's how to open Authorization Manager:
@@ -58,6 +64,9 @@ To access the Authorization Manager, follow these steps:
 
  This will instantly open the Authorization Manager window on your computer screen. The same command will also work if you launch and execute it in Windows PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use the Task Manager
 
  Task Manager is a great way to manage your computer's performance and troubleshoot any issues. Besides this, it also provides quick access to the Authorization Manager. Here's how:
@@ -65,8 +74,14 @@ To access the Authorization Manager, follow these steps:
 1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager. Check out [how to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
 2. Click**Run new task** at the top of Task Manager.  
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Create a Desktop Shortcut
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
@@ -81,6 +96,9 @@ C:\WINDOWS\system32\azman.msc
 
  The shortcut icon will automatically be added to your desktop. Double-click on it to launch the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get Easy and Quick Access to the Authorization Manager
 
  Windows Authorization Manager allows you to manage user roles and permissions in order to have greater control over your system's security. In case you are having difficulties, here are some methods you can try.
@@ -104,3 +122,46 @@ C:\WINDOWS\system32\azman.msc
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>[New] Extract and Save FB Videos  The Cutting Edge of Top 5</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[Updated] 2024 Approved  Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ignite-your-artistic-spirit-find-the-premier-android-drawing-tools-for-2024/"><u>[Updated] Ignite Your Artistic Spirit  Find the Premier Android Drawing Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4-for-2024/"><u>[Updated] Snapshots of Life  Compreenasive Guide to Capturing the Journey of Playing Sims 4 for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intuitive-method-for-adjusting-iphone-screen/"><u>2024 Approved  Intuitive Method for Adjusting iPhone Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-prime-flight-tech-ready-to-buy/"><u>2024 Approved  Prime Flight Tech Ready to Buy</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-zero-cost-sms-applications-on-apple-devices/"><u>Best Zero-Cost SMS Applications on Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-games-reimagined-utilizing-retroarchs-shaders-effectively/"><u>Classic Games Reimagined: Utilizing RetroArch's Shaders Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crack-the-code-of-missing-control-options-in-win11/"><u>Crack the Code of Missing Control Options in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-skies-top-ranked-windows-11-weather-tools/"><u>Decoding the Skies: Top-Ranked Windows 11 Weather Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-visual-performance-the-ultimate-vram-boosters/"><u>Elevating Visual Performance: The Ultimate VRAM Boosters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-memory-errors-from-windows-tools/"><u>Eliminating Memory Errors From Windows Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-reading-efficiency-obsidian-canvas-styles/"><u>Enhancing Reading Efficiency: Obsidian Canvas Styles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-customizing-windows-boot-settings/"><u>Expert Strategies for Customizing Windows Boot Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fine-tuning-system-features-on-windows-11-devices/"><u>Fine-Tuning System Features on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-steps-to-boot-into-pcs-troubleshooting-hub/"><u>Five Steps to Boot Into PC's Troubleshooting Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/highlighting-key-features-windows-11-feb-update/"><u>Highlighting Key Features: Windows 11, FEB Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-razer-synapse-not-detecting-razer-devices-in-windows-10-and-11/"><u>How to Fix Razer Synapse Not Detecting Razer Devices in Windows 10 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-m6-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco M6 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-exclusive-selection-of-fastest-screen-capture-apps/"><u>In 2024, Exclusive Selection of Fastest Screen Capture Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-v30-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme V30 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>In 2024, Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>In 2024, Unlocking Real-Time Sharing  Streaming Old Video to Facebook Audiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-group-policy-objects-on-single-user-accounts-in-windows-11/"><u>Leveraging Group Policy Objects on Single-User Accounts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-microsoft-project-keys/"><u>Making the Most of Microsoft Project Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterful-approaches-to-solve-elevation-prompt-issues-on-winos/"><u>Masterful Approaches to Solve Elevation Prompt Issues on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-os-setup-a-guide-to-installing-win11-in-vmware-17/"><u>Optimizing OS Setup: A Guide to Installing Win11 in VMWare 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-sound-output-hurdles-xbox-and-windows-guide/"><u>Overcoming Sound Output Hurdles: Xbox & Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-app-restrictions-for-store/"><u>Overcoming Windows 11 App Restrictions for Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dota-2-stability-issues-step-by-step-solutions/"><u>Resolving Dota 2 Stability Issues - Step-by-Step Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-access-to-the-system32-folder-win11/"><u>Seamless Access to the System32 Folder (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-interruptexception-on-windows-11/"><u>Tackling the INTERRUPT_EXCEPTION on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-internal-pc-graphics-with-ease/"><u>Uninstalling Internal PC Graphics with Ease</u></a></li>
+</ul></div>

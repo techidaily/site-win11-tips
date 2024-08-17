@@ -1,7 +1,7 @@
 ---
 title: Setting Up PC Manager on Windows 11 – A Quick Guide
-date: 2024-07-12T17:19:35.542Z
-updated: 2024-07-13T17:19:35.542Z
+date: 2024-08-16T01:48:01.497Z
+updated: 2024-08-17T01:48:01.497Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
  The app acts as a central spot to access all the useful system management tools of Windows. Apart from that, it brings many essential tools such as health checks, memory management, pop-up management, and more. We will cover each of these tools later on in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Install the Microsoft PC Manager on Windows 11
 
  Firstly, you need to download the beta version of the Microsoft PC Manager app from the official website. Then you need to install it on your system. Here’s how to do it.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 7. App installation will begin. It requires internet connectivity to download files from the server.
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
  Microsoft PC Manager divides the tools into two sections. The first one is Cleanup tools and the second one is Security tools. When you launch the app, it always opens up the Cleanup tools list.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### 1\. Cleanup Tools
 
 **Boost your PC’s Performance** is basically a memory management tool that ends all the unnecessary programs and cleans up the temporary files. The app displays the total memory in use currently and the space occupied by Temp files. Click on the**Boost** button to free up the memory and clear the temp files.
@@ -60,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
  You cannot use the Boost feature repeatedly, though. The app displays a message that “Your PC is already running well.” However, you can use the boost feature after a few minutes.
 
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
@@ -83,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 2\. Security Tools
 
  You can scan for threats present in your system using the Scan option in the security tab. It performs a quick scan on the C drive only. Similarly, you can check and install all the available updates for Windows without leaving the Microsoft PC Manager app.
@@ -90,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
  The**Browser Protection** tool prevents malicious apps from changing the default browser. Our system has Chrome as the default browser, but the app offered subtle hints to change it to Edge. It is part of Microsoft’s strategy to compel users to switch to Edge. There’s no harm in doing that, but it all boils down to personal preference. Click on**Change the default browser** option and set it to your favorite browser.
 
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
@@ -118,3 +137,51 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-premium-hdr-camera-options/"><u>[New] Identifying Premium HDR Camera Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-youtube-downloads-for-ios-devices/"><u>[New] In 2024, Step-by-Step Guide  YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>[New] IOS Excellence  Leading Apps to Unlock YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamlessly-stream-your-laptops-dvd-library/"><u>[Updated] 2024 Approved  Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-fest-the-ultimate-list-of-hilarious-youtube-personalities/"><u>[Updated] In 2024, Chuckle Fest  The Ultimate List of Hilarious YouTube Personalities</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-easily-share-your-camera-roll-in-a-snap-tips-and-tricks/"><u>[Updated] In 2024, Easily Share Your Camera Roll in a Snap - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlocking-organic-growth-your-afb-playbook/"><u>[Updated] In 2024, Unlocking Organic Growth  Your AFB Playbook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-world-of-webcams-for-high-quality-streams-for-2024/"><u>[Updated] Navigating the World of Webcams for High-Quality Streams for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tackling-inaudible-speech-in-obs-captures-for-2024/"><u>[Updated] Tackling Inaudible Speech in OBS Captures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/5-exceptional-pc-emulators-for-playing-ps1-games/"><u>5 Exceptional PC Emulators for Playing PS1 Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-blaze-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Blaze Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-using-windows-11-calendar/"><u>A Practical Approach to Using Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapt-calc-app-for-night-time-viewing-dark-mode-tutorial/"><u>Adapt Calc App for Night-Time Viewing: Dark Mode Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-inactive-windows-system-voices/"><u>Addressing Inactive Windows System Voices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>Elevate Your Mind While You Multitask  Top 15 Ideas for Podcast Lovers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-yuzu-fps-on-pc-systems/"><u>Enhancing Yuzu FPS on PC Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-nvidia-gl-driver-issue-3-on-win11/"><u>Expert Fixes for NVIDIA GL Driver Issue #3 on Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-basics-to-details-dji-inspire-2-explained/"><u>From Basics to Details  DJI Inspire 2 Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-ahead-with-windows-11-integrating-outlook-preview/"><u>Get Ahead with Windows 11: Integrating Outlook Preview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-7windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 7/Windows/Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Nord CE 3 Lite 5G Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inshot-unpacked-editors-edition-detailed-review-for-2024/"><u>InShot Unpacked  Editor's Edition Detailed Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-onedrive-errors/"><u>Navigating Through the Complexities of OneDrive Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practical-guide-to-disregarding-false-security-alarms-in-chrome/"><u>Practical Guide to Disregarding False Security Alarms in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconciling-system-with-a-fresh-net-framework-max-156/"><u>Reconciling System with a Fresh .NET Framework (Max 156)</u></a></li>
+<li><a href="https://facebook.techidaily.com/reeling-in-social-media-leadership-can-fbs-reels-outshine-tiktok/"><u>Reeling in Social Media Leadership: Can FB's Reels Outshine TikTok?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-network-error-in-windows-11-systems/"><u>Remedying Steam Network Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-page-load-failure-on-microsoft-store-windows-app/"><u>Resolving 'Page Load Failure' On Microsoft Store Windows App</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-data-update-windows-11-user-passwords/"><u>Safeguarding Data: Update Windows 11 User Passwords</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-screen-splitting-problems-in-win-10/"><u>Solutions for Screen Splitting Problems in Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-proxies-on-windows-11/"><u>Step-by-Step: Changing Proxies on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-windows-11-help-menu-failure/"><u>Steps for Fixing Windows 11 Help Menu Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-windows-11-error-code-22-lockout/"><u>Steps to Rectify Windows 11 Error Code 22 Lockout</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-c0000005-failure-on-windows-108/"><u>Tackling C0000005 Failure on Windows 10/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-path-failure-on-pc-operating-systems/"><u>Tackling PATH Failure on PC Operating Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-fongo-in-canada-exploring-superior-voip-services-for-business-and-personal-use/"><u>The Ultimate Guide to Choosing Fongo in Canada: Exploring Superior VoIP Services for Business and Personal Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-winning-playbook-strategies-to-eliminate-stutter-in-videos/"><u>The Winning Playbook: Strategies to Eliminate Stutter in Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-photo-background-changer-apps-for-iphone-x87/"><u>Top 5 Photo Background Changer Apps for iPhone X/8/7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-stop-marveln-avengers-from-freezing-on-your-pc/"><u>Troubleshooting Steps: How to Stop Marvel'n Avengers From Freezing on Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-detective-games-play-four-advanced-ai-powered-mysteries-online/"><u>Unlock the Secrets of Detective Games: Play Four Advanced AI-Powered Mysteries Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-end-task-control-for-window-management/"><u>Utilizing End Task Control for Window Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-controller-woes-a-guide-to-steam-detection/"><u>Win Over Controller Woes: A Guide to Steam Detection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-ahead-mastering-upcoming-tools-through-vivetool/"><u>Windows Ahead: Mastering Upcoming Tools Through ViVeTool</u></a></li>
+</ul></div>

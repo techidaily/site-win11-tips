@@ -1,7 +1,7 @@
 ---
 title: "Conquering Slow Computer Wake-Up: The Complete Window 11 Startup Guide"
-date: 2024-07-12T17:03:24.086Z
-updated: 2024-07-13T17:03:24.086Z
+date: 2024-08-16T02:02:51.635Z
+updated: 2024-08-17T02:02:51.635Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## How to Check if Fast Startup Is On or Off
 ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
  Often, a major Windows feature update may overwrite the power settings and disable Hibernate, thus disabling Fast Startup. Or you may experience unusual boot behavior even when you think Fast Startup is on. Before attempting to troubleshoot your computer, check if Fast Startup is on or off.
 
@@ -55,9 +58,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 1. Press **Win + R** to open **Run**.
 2. Type **powercfg.cpl** and click **OK** to open Power Options in Control Panel.  
 ![choose what the power buttons do control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-what-the-power-buttons-do-control-panel-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 3. In the **Control Panel** dialog, click **Choose what the power buttons do** in the left pane.
 4. Click **Change settings that are currently unavailable**.  
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 5. Under **Shutdown settings**, check if **Hibernate** is available. If available, select **Hibernate** and click **Save changes** to show **Hibernate** in the Power menu.
 
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
@@ -78,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## How to Turn On or Off Fast Startup in the Control Panel
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
 
@@ -92,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## How to Turn On or Off Fast Startup Using the Registry Editor
 ![turn on off fast startup registry register](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-fast-startup-registry-register.png)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next set of methods involves modifying the Windows registry. If something goes wrong, restoring your system to a functioning state can become difficult. So, [create a restore point](https://www.makeuseof.com/tag/create-system-restore-point/) before attempting to edit your registry entries. This will allow you to undo the changes if your system breaks during the process.
 
@@ -108,8 +123,19 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 8. To turn off Fast Startup, enter **0** in the **Value data** field and click **OK**.
 9. Close the Registry Editor and reboot your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn On or Off Fast Startup Using a Registry File
 ![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t want to work with the Registry Editor, you can create a REG file and run it to achieve the same. Here’s how to do it.
 
@@ -146,6 +172,9 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 6. Or Select **Disabled** to turn off Fast Startup.
 7. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off Fast Startup Using the Command Prompt
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
 
@@ -174,3 +203,42 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] 2024 Approved  Optimize Your Presence  Mastering Snapchat Business Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-and-conquer-with-customized-content-shorts-for-2024/"><u>[New] Captivate and Conquer with Customized Content Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guiding-you-through-youtubes-view-limitations/"><u>[Updated] 2024 Approved  Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fiendish-freshman-filmmaker/"><u>[Updated] Fiendish Freshman Filmmaker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-w11-taskbar-functionality/"><u>Boosting W11 Taskbar Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-11-ram-virtual-memory-strategies/"><u>Boosting Windows 11 RAM: Virtual Memory Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breach-sign-in-blockage-steps-to-reunite-with-microsoft/"><u>Breach Sign-In Blockage: Steps to Reunite with Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-free-from-file-read-only-status-on-pc/"><u>Breaking Free From File Read-Only Status on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-default-security-levels/"><u>Breaking Through Default Security Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-stuck-windows-applications/"><u>Breathe Life Back Into Stuck Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-windows-services-manager-with-these-top-7-tricks/"><u>Breathe Life Into Your Windows Services Manager with These Top 7 Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-outdated-bios-features/"><u>Breathing Life Into Outdated BIOS Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-your-windows-11-troubleshooting-tools/"><u>Breathing Life Into Your Windows 11 Troubleshooting Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-between-androidios-and-windows-mic-functionality/"><u>Bridge Between Android/iOS and Windows Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-network-prompts-for-seamless-connections/"><u>Bridging Gaps in Network Prompts for Seamless Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-using-samsung-flow-for-device-synergy/"><u>Bridging Gaps: Using Samsung Flow for Device Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-generations-of-tech-moving-software-from-previous-windows/"><u>Bridging Generations of Tech: Moving Software From Previous Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-lost-ctrl-operability-with-these-tips-for-windows-11/"><u>Bring Back Lost Ctrl Operability with These Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-new-life-to-elders-pcs-windows-11-to-go-and-rufus-techniques/"><u>Bringing New Life to Elders PCs: Windows 11, To Go, and Rufus Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-wi-fi-anomalies-in-windows-10-using-these-simple-remedies/"><u>Bypass Wi-Fi Anomalies in Windows 10 Using These Simple Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-windows-settings-app-failures-effectively/"><u>Bypass Windows Settings App Failures Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-fatal-0x800f0831-in-winos/"><u>Bypassing Fatal 0X800F0831 in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-microsoft-defender-firewall-on-windows-11/"><u>Bypassing Microsoft Defender Firewall on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-outlooks-error-0x80040610-your-step-by-step-guide/"><u>Bypassing Outlook's Error 0X80040610: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-failed-install-error-in-discord-win-editions/"><u>Bypassing the Failed Install Error in Discord Win Editions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/change-display-axis-in-windows-interface/"><u>Change Display Axis in Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-digital-legacy-windows-11-archive/"><u>Charting Your Digital Legacy: Windows 11 Archive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/h-your-presentations-include-youtube-videos-in-slate/"><u>Enrich Your Presentations - Include YouTube Videos in Slate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-fps-range-in-leisurely-cinematic-scenes/"><u>In 2024, Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-the-best-quadcopter-engine-landscape-for-2024/"><u>Navigating the Best Quadcopter Engine Landscape for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-download-tutorial-enjoying-films-anywhere-with-a-laptop/"><u>Netflix Download Tutorial: Enjoying Films Anywhere with a Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-fast-pace-3d-print-technology-by-mit-harnesses-waste-metal-and-glass-bead-layers/"><u>New Fast-Pace 3D Print Technology by MIT Harnesses Waste Metal & Glass Bead Layers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-for-broadcasters-top-360-cameras-listed/"><u>Perfect for Broadcasters  Top 360° Cameras Listed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-windows-computers-effectively-using-our-top-five-strategies/"><u>Secure Windows Computers Effectively Using Our Top Five Strategies</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Disruptions: How to Mend Broken Windows Registry Items"
-date: 2024-07-12T18:01:32.679Z
-updated: 2024-07-13T18:01:32.679Z
+date: 2024-08-16T01:06:47.212Z
+updated: 2024-08-17T01:06:47.212Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  However, the Windows Registry isn’t impervious to errors. These errors can arise due to malware infestations, unexpected power failures, and corrupt or outdated entries.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix Broken Registry Items in Windows 11
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
@@ -44,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 2\. Try the Automatic Repair Tool
 
  Microsoft offers an automatic repair tool that can fix system boot issues and even core system registry files. Here’s how to use the tool:
@@ -63,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 2. A command prompt window will launch with administrator privileges.
 3. Now, type**sfc /scannow** and press**enter** to execute the command.  
 ![Run the SFC Utility in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-the-sfc-utility-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Patiently wait for the utility to scan and replace files on your system.
 5. **Close** the command prompt window and restart your computer.
 
@@ -73,9 +83,16 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 1. Press**Win + S** to launch Windows search. Search for**CMD** , and select the**Run as administrator** option from the right pane.
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Wait for the tools to scan and repair the problems with the system image.
 4. Finally,**close** the command prompt and restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of [creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -88,6 +105,9 @@ Here’s how you can import an old backup in Windows Registry:
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
 4. Wait for a few minutes for the import to complete.**Restart** your system.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Check for Malware on Your System
 
  Malware can create and modify the registry items, and can even break or corrupt existing registry entries. You must perform a thorough scan of your Windows computer using Windows defender.
@@ -100,6 +120,9 @@ Here’s how you can import an old backup in Windows Registry:
 4. Select the**Full Scan** radio button and then click on the**Scan Now** button.
 5. Windows Security will execute a deep scan of all the files on your disk. If it finds any traces of malware, manually remove them from your system.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Do a System Restore
 
  The System Restore tool saves all Windows system files and drivers including the registry contents. If none of the above methods work, you can revert to a last known good system configuration using a restore point.
@@ -115,6 +138,14 @@ Repeat the following steps to perform a system restore:
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
@@ -140,3 +171,49 @@ Repeat the following steps to perform a system restore:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-androids-best-picks-for-dynamic-collage-designers/"><u>[New] Android's Best Picks for Dynamic Collage Designers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chuckles-in-a-minute-how-to-whip-up-memes/"><u>[New] Chuckles in a Minute  How to Whip Up Memes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-drone-innovation-existing-applications-and-upcoming-potential/"><u>[New] Drone Innovation  Existing Applications & Upcoming Potential</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste/"><u>[New] In 2024, Discover the 10 Best Cookie Places in Town with Unbeatable Taste</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[New] In 2024, Harnessing Your Creative Potential  An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content/"><u>[Updated] 2024 Approved  Add a Personal Touch  Using Branded Graphic Elements in Your Instagram Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-guide-to-establishing-a-twitter-presence-for-2024/"><u>[Updated] The Ultimate Guide to Establishing a Twitter Presence for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-joy-journeys-a-curated-list-of-the-best-humor-vids-online/"><u>2024 Approved  Joy Journeys  A Curated List of the Best Humor Vids Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-to-resetting-faulty-google-nearby-share/"><u>Comprehensible Guide to Resetting Faulty Google Nearby Share</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-stabilization-unmatched-tracker-tech/"><u>Cutting-Edge Stabilization  Unmatched Tracker Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-7-indicative-windows-activities-of-malware/"><u>Deciphering 7 Indicative Windows Activities of Malware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-tips-for-addressing-missing-d3dx924dll-files-on-your-pc/"><u>Detailed Tips for Addressing Missing d3dx9_24.dll Files on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-the-world-of-gadgets-premium-guides-and-in-depth-analysis-by-toms-hardware-your-trusted-tech-authority/"><u>Dive Into the World of Gadgets - Premium Guides & In-Depth Analysis by Tom's Hardware | Your Trusted Tech Authority!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-intel-graphic-upgrades-for-underperforming-pcs/"><u>Easing Into Intel Graphic Upgrades for Underperforming PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pen-performance-tackling-issues-in-windows-tablets/"><u>Enhance Pen Performance: Tackling Issues in Windows Tablets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-artistry-mastering-clear-edges-in-photos/"><u>Enhance Your Artistry  Mastering Clear Edges in Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-117-audio-issues-the-speaker-crackling-solution/"><u>Fixing Windows 11/7 Audio Issues: The Speaker Crackling Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-10-and-11/"><u>How to Fix a Blank Login Screen in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-failed-to-attach-the-usb-device-error-in-virtualbox-on-windows/"><u>How to Fix the Failed to Attach the USB Device Error in VirtualBox on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone SE in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionary-q500-the-ultimate-4k-bird/"><u>In 2024, Revolutionary Q500  The Ultimate 4K Bird</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increase-your-productivity-in-windows-with-flow-launcher/"><u>Increase Your Productivity in Windows With Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-advanced-tactics-for-group-policy-optimization/"><u>Leveraging Advanced Tactics for Group Policy Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-efficiency-in-windows-1011-with-top-rated-productivity-tools/"><u>Master Efficiency in Windows 10/11 with Top-Rated Productivity Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system32-access-on-windows-11/"><u>Mastering System32 Access on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-operation-failure-error-0x0000011b-in-windows-11/"><u>Mitigating Operation Failure (Error: 0X0000011B) in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-asana-compatibility-hurdles-with-windows/"><u>Overcoming Asana Compatibility Hurdles with Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/playful-poetry-prose-for-pursuit-in-spanish-flirting/"><u>Playful Poetry: Prose for Pursuit in Spanish Flirting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-settings-for-steam-libraries-on-win-11-pcs/"><u>Removing Read-Only Settings for Steam Libraries on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silencing-the-disruptive-noise-irq-tuning-guide/"><u>Silencing the Disruptive Noise: IRQ Tuning Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/speaking-and-listening-to-create-better-decks-for-2024/"><u>Speaking and Listening to Create Better Decks for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>The Comedy Codex  A Practical Tutorial for GIF Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-way-to-cut-out-unwanted-onedrive-in-explorer/"><u>The Way to Cut Out Unwanted OneDrive in Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-techniques-for-resolving-failed-image-import-from-ios-devices/"><u>Tips and Techniques for Resolving Failed Image Import From iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-disabled-recycle-icon-on-win11/"><u>Unblocking the Disabled Recycle Icon on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-office-capabilities-installing-outlook-preview-on-windows-11/"><u>Unlock Full Office Capabilities: Installing Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xbox-not-working-quick-windows-solution-guide/"><u>Xbox Not Working: Quick Windows Solution Guide</u></a></li>
+</ul></div>

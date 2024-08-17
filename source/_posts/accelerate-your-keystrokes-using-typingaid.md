@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your Keystrokes Using TypingAid
-date: 2024-07-12T17:13:45.953Z
-updated: 2024-07-13T17:13:45.953Z
+date: 2024-08-16T01:52:32.580Z
+updated: 2024-08-17T01:52:32.580Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa
  Download the script/app from [TypingAid's official Github page](https://github.com/ManiacDC/TypingAid) . By default, it comes in a compressed archive. Extract it in any folder you like, and run the executable among the rest of the files to use TypingAid.
 
 ![TypingAid GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-github-page.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that TypingAid is also available in its original AutoHotkey script format. If you download this version, you'll also need to have AutoHotkey installed to use it. You'll find that at [AutoHotkey's official site](https://www.AutoHotkey.com/) .
 
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
@@ -68,6 +74,9 @@ Then, run TypingAid.
 
 Let's see the essential settings worth tweaking in TypingAid.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
@@ -86,17 +95,26 @@ Let's see the essential settings worth tweaking in TypingAid.
  The options on the**Wordlist Box** page affect how TypingAid presents its suggestions.
 
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
 * **Show wordlist after X characters** defines how many characters you'll have to type for TypingAid to start showing suggestions.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
 * The rest of the options affect the appearance of the suggestion box that pops up as you're typing. You can tweak them to change where the box appears (**List appears X pixels below cursor**), its font, its opacity, and so on. You can leave them as they are since their effects are primarily aesthetic.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Programs
 
  The**Programs** page lets you choose the apps and windows where TypingAid will be active.
 
 ![TypingAid Settings Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are separate fields for defining where TypingAid will be either enabled or disabled.
 
@@ -104,11 +122,17 @@ Let's see the essential settings worth tweaking in TypingAid.
 
  It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 4\. Advanced
 
  We suggest you skip this section, except for the rare case where you want to customize TypingAid's**Terminating Characters** . If that term sounds alien, that's precisely why most people won't have to tweak anything here!
 
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
 
@@ -119,6 +143,9 @@ Let's see the essential settings worth tweaking in TypingAid.
  Try entering some text in Notepad, Microsoft Word, your favorite browser, etc. After two or three characters (depending on how you've configured TypingAid), you'll see TypingAid's suggestions box pop up next to your cursor.
 
 ![TypingAid Active in Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-active-in-word.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
  You can press one of the**Auto Complete Keys** (like Tab or Enter) to choose the pre-selected word and have it replace the characters you've typed, just like your smartphone's autocomplete.
 
@@ -150,3 +177,58 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-must-have-for-tweeting-videos-aspect-ratio-compliance/"><u>[New] 2024 Approved  A Must-Have for Tweeting Videos  Aspect Ratio Compliance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-preventing-unseen-frames-in-video-captures/"><u>[New] In 2024, Preventing Unseen Frames in Video Captures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[New] In 2024, Unveiling Visuals  Top 10 Instagram Editing Applications for Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-hilarious-and-emotional-instagram-memes-journey/"><u>[Updated] 2024 Approved  Top 10 Hilarious & Emotional Instagram Memes Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-awaken-the-artist-within-selective-shots-for-inspiration/"><u>[Updated] Awaken the Artist Within  Selective Shots for Inspiration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bypass-issue-twitter-video-on-chrome-freeze-for-2024/"><u>[Updated] Bypass Issue  Twitter Video on Chrome Freeze for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] In 2024, Mastering Content Capture  5 Must-Have Social Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-your-phones-potential-for-high-quality-snapchat-recordings-for-2024/"><u>[Updated] Unlock Your Phone's Potential for High-Quality Snapchat Recordings for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clearing-the-path-to-account-deactivation-on-linkedin/"><u>2024 Approved  Clearing the Path to Account Deactivation on LinkedIn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-windows-notifications-for-essential-only/"><u>Adjust Windows Notifications for Essential Only</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-via-cli-registry-edition/"><u>Advanced Windows Customization via CLI: Registry Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginners-path-to-w11-audio-recording/"><u>Beginner's Path to W11 Audio Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/charge-up-chic-italics-top-20-slangs-unveiled/"><u>Charge Up Chic Italics: Top 20 Slangs Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-your-path-upgrading-outdated-windows-driver-tech/"><u>Clear Your Path: Upgrading Outdated Windows Driver Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-primes-textual-missteps-on-windows-11-desktops/"><u>Correct Prime's Textual Missteps on Windows 11 Desktops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digitally-delving-opening-game-directories-on-windows/"><u>Digitally Delving: Opening Game Directories on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-mouse-game-with-cross-border-powertoys-techniques/"><u>Elevate Your Mouse Game with Cross-Border PowerToys Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-file-extractions-with-win11-sefx-magic/"><u>Elevating File Extractions with Win11 SEFx Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-update-faults-windows-xp-x8019/"><u>Eradicating Update Faults: Windows XP, X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-bygone-era-to-future-tech-using-windows-7-key-in-11-setup/"><u>From Bygone Era to Future Tech: Using Windows 7 Key in 11 Setup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>From Content Maker to Cash Magnet  Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-windows-users-to-fix-f429f-camera-app-hurdle/"><u>Guiding Windows Users to Fix F429F Camera App Hurdle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-switch-nat-settings-in-windows-oses/"><u>How to Effortlessly Switch NAT Settings in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failures-from-windows-memory-tool/"><u>How To Rectify Failures From Windows Memory Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-x90s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo X90S Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-linux-into-your-windows-desktop-world/"><u>Integrating Linux Into Your Windows Desktop World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interacting-with-network-drives-from-smartphones/"><u>Interacting with Network Drives From Smartphones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest-for-2024/"><u>Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-daily-productivity-the-top-6-apps-for-windows-11-users/"><u>Mastering Daily Productivity: The Top 6 Apps For Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-hardware-ids-retrieval-methods/"><u>Mastering Windows Hardware IDs Retrieval Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-qt-plugin-during-software-application-initiation/"><u>Overcoming Missing Qt Plugin During Software Application Initiation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-domain-services-error-printer-issues-in-windows-11/"><u>Repairing Domain Services Error: Printer Issues in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-primary-app-uses-computer-audio-devices/"><u>Resolving Non-Primary App Uses Computer Audio Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-11s-fatal-0xf0831-bug/"><u>Resolving Windows 11'S Fatal 0xF0831 Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-data-flow-from-non-responsive-usb-devices-win-os/"><u>Restoring Data Flow From Non-Responsive USB Devices (Win OS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/say-no-to-incompatibility-quick-solutions-for-vistawindows-7-users/"><u>Say No to Incompatibility: Quick Solutions for Vista/Windows 7 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-switching-on-updated-widget-selection-interface-in-windows-11/"><u>Seamlessly Switching on Updated Widget Selection Interface in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shielding-from-silicon-scribes-recognizing-pseudo-writings/"><u>Shielding From Silicon Scribes: Recognizing Pseudo-Writings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-system-image-creation-on-windows/"><u>Simplified System Image Creation on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-windows-11s-0x800f0922-error-quick-fixed-guide/"><u>Solving Windows 11'S 0X800F0922 Error - Quick Fixed Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-change-windows-startpage-configuration/"><u>Steps to Change Windows Startpage Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-system-editor-access-control-on-windows-11/"><u>Techniques for System Editor Access Control on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-a-future-ready-device-review-of-asus-s15-bape-edition/"><u>Unveiling a Future-Ready Device: Review of Asus S15 BAPE Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-cant-access-mail-alert-on-windows-11s-mail-app/"><u>Unveiling Fixes for Can't Access Mail Alert on Windows 11'S Mail App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+</ul></div>

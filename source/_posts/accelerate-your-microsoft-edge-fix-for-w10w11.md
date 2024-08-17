@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Microsoft Edge: Fix for W10/W11"
-date: 2024-07-12T17:56:48.657Z
-updated: 2024-07-13T17:56:48.657Z
+date: 2024-08-16T01:11:20.162Z
+updated: 2024-08-17T01:11:20.162Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 1. Press and hold **Ctrl** + **Shift** + **Esc** keys to open Task Manager.
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 3. Launch Microsoft Edge and see if it works okay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### 2\. Update Edge
 
  Outdated programs such as Microsoft Edge can lead to a slow user experience. This is because developers introduced new updates to address several bugs and issues. If you don’t update it, the problems present on the app will stay and hamper your usage.
@@ -42,7 +48,13 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 1. Open Microsoft Edge and click the **three-dot** menufound on the right side of the screen. From this menu, click **Settings.**
 2. Once you're in Settings, select **About Microsoft Edge** from the left-side navigation. Then, install any available updates. If there’s none, proceed to the next fix.  
 ![Update Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-edge-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 3\. Disable the "Preload New Tab Page" Option
 
  Unfortunately, Microsoft Edge’s new tab page includes a lot of content that can consume a lot of resources. Apart from an animated background, it also has Microsoft news, weather widget, traffic updates, and more. Loading all of them in the background can make your browser feel slow, especially if your computer doesn’t have much memory left on it.
@@ -56,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
  Relaunch Microsoft Edge and check if it works faster.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Change the Tracking Prevention Setting
 
  Microsoft Edge is big on privacy. That’s why it has a built-in feature that prevents companies from collecting your information when browsing. This feature comes in three different settings, and you can choose how you want to be protected.
@@ -77,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### 6\. Clear Cache and Cookies
 
  Sometimes, cookies and cache cause a slow Microsoft Edge on Windows 10 and 11\. If the browser has a lot of them, it can affect its speed. Luckily, the fix is easy. You only need to delete them, and you’re good to go. However, deleting the data can log you out of some websites you frequently visit. If this is the case, don’t panic. All you need to do is to log in again.
@@ -88,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 3. On the Settings page, click **Cookies and site permissions**.
 4. Next, click **Manage and delete cookies and site data**.
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  Then, press **See all cookies and site data**.
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
@@ -114,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  Restart your browser and check if this solution improved its performance.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 9\. Repair Microsoft Edge
 
  Microsoft has incorporated a repair feature for some of Windows' built-in apps. And, fortunately, Edge is one of them. So, if you had no luck removing the browser cache or disabling the extension, you should [repair Microsoft Edge](https://www.makeuseof.com/windows-11-microsoft-edge-not-working-repair/).
@@ -135,3 +164,37 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>[New] 2024 Approved  Elevate Your YouTube Presence  Filmmaking with Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-jumpstart-your-screen-recording-skills-expert-guide-to-aiseesoft/"><u>[New] 2024 Approved  Jumpstart Your Screen Recording Skills  Expert Guide to Aiseesoft</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-the-potential-of-vimeo-video-logging-for-2024/"><u>[New] Unlocking the Potential of Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-10-must-have-accessories-for-sj4000/"><u>[Updated] 2024 Approved  Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elevate-your-audio-curated-list-of-top-mac-friendly-recorders/"><u>[Updated] Elevate Your Audio  Curated List of Top Mac-Friendly Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-becoming-an-ig-star-essential-management-tools-reviewed/"><u>[Updated] In 2024, Becoming an IG Star  Essential Management Tools Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-undo-motion-recapturing-video-from-mobile-devices/"><u>2024 Approved  Undo Motion  Recapturing Video From Mobile Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-setting-powershell-policies/"><u>A Practical Approach to Setting PowerShell Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-sata-interface-drivers-on-windows-systems/"><u>Effortless Installation of Updated SATA Interface Drivers on Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-low-latency-techniques-for-discord-on-windows/"><u>Mastering Low-Latency Techniques for Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719341208077-pause-on-snipwise-discover-fixes-today-here/"><u>Pause on SnipWise? Discover Fixes Today, Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-d3dx939dll-error-on-win11/"><u>Recovering D3DX9_39.dll Error on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-task-manager-welcome-panel-in-windows-11/"><u>Redefine Task Manager Welcome Panel in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unsuccessful-nvidia-connect-attempts-in-windows-11/"><u>Resolving Unsuccessful Nvidia Connect Attempts in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-specific-error-403-in-roblox-space/"><u>Resolving Windows-Specific Error 403 in Roblox Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-from-failed-discord-games-detection-on-windows/"><u>Steps to Recover From Failed Discord Games Detection on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-4-methods-to-tap-into-windows-11s-disk-manager/"><u>Streamline Storage: 4 Methods to Tap Into Windows 11'S Disk Manager</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y27-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y27 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-installation-on-unsupported-hardware/"><u>Tackling Windows 11 Installation on Unsupported Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-stop-unpredictable-printer-changes/"><u>Tactics to Stop Unpredictable Printer Changes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-checklist-for-fine-tuning-windows-11-installation/"><u>The Ultimate Checklist for Fine-Tuning Windows 11 Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-connecting-win-product-code-and-microsoft-accounts/"><u>Tips for Connecting WIN PRODUCT CODE & MICROSOFT ACCOUNTS</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-s17-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo S17 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-windows-iscsi-initiator-accessibility/"><u>Uncovering the Secrets of Windows iSCSI Initiator Accessibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-9-methods-to-control-volume-levels-in-windows-11/"><u>Unlock 9 Methods to Control Volume Levels in Windows 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fixing Unexpected System Call Failures on Win10/11"
-date: 2024-07-12T17:32:53.072Z
-updated: 2024-07-13T17:32:53.072Z
+date: 2024-08-16T01:34:31.877Z
+updated: 2024-08-17T01:34:31.877Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Run the SFC and DISM Tools in Command Prompt
 ![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
 
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  Our [how to run CHKDSK](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) guide explains how you can utilize the Check Disk tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 4\. Initiate a Malwarebytes Scan
 
  Malware can cause many kinds of crashes to occur on Windows. The “system call failed” error could be occurring because of malware on your PC.
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![The Scan option in Malwarebytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-scan-option.jpg)
 6. Select **Quarantine** and **Yes** if Malwarebytes detects malware.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 5\. Disable Startup Items and Services With a Clean Boot
 
  Another possibility is that a third-party program or service is conflicting or interfering with the File Explorer processing, causing the “System call failed” error to occur on your PC.
@@ -67,7 +76,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  If the error is fixed after clean booting, it will probably reoccur if you re-enable all startup apps and services again. You can try to identify what’s causing the error by gradually re-enabling items, and then disabling the startup app or service that triggers the issue again.
 
 ![Services tab on Windows Configuration menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 6\. Restore Windows 11/10 to an Earlier Time
 
  System Restore is a tool that rolls Windows 11/10 back to a backup image, otherwise called a restore point. Restoring Windows to a date that predated the “System call failed” error on your PC might fix system file issues. Doing so will also remove third-party software installed on your PC after the restoration date that could be causing the issue.
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  The standard method for applying a factory reset is to utilize the Reset this PC tool. That includes a few options you can select for the reset and one of those is to keep user files. This [how-to reset Windows guide](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) has instructions for applying a factory reset.
 
 ![The Keep my files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
 ## Get the “System Call Failed” Error Fixed
 
@@ -101,3 +119,48 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-seamless-integration-of-obs-studio-with-android-tech/"><u>[Updated] 2024 Approved  Seamless Integration of OBS Studio with Android Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-engagement-4-steps-to-add-fb-story-link/"><u>[Updated] In 2024, Elevate Engagement  4 Steps to Add FB Story Link</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-online-upgrade-fb-story-repository-for-2024/"><u>[Updated] Online Upgrade  Fb Story Repository for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>[Updated] Perfect Every Frame  Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-demystifying-youtubes-keyword-power-play/"><u>2024 Approved  Demystifying YouTube's Keyword Power Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bluetooth-bliss-the-complete-tutorial-on-linking-up-with-a-bose-soundlink-system/"><u>Bluetooth Bliss: The Complete Tutorial on Linking Up with a Bose Soundlink System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-crafts-win8-for-2024/"><u>Cinematic Crafts Win8 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-steps-for-manipulating-windows-registry-command-line/"><u>Detailed Steps for Manipulating Windows Registry Command Line</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-controls-in-windows-11s-ui-amenities/"><u>Elevate Controls in Windows 11'S UI Amenities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-playtime-windows-troubleshooting-for-fullscreen-games/"><u>Enhance Playtime: Windows Troubleshooting for Fullscreen Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-visibility-of-search-outcomes-in-windows-1011/"><u>Enhancing the Visibility of Search Outcomes in Windows 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-iphone-slideshow-software-selection-xs-to-xr/"><u>Essential iPhone Slideshow Software Selection (XS to XR)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-refreshing-your-gpu-driver-in-windows/"><u>Essential Tips for Refreshing Your GPU Driver in Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/freeze-time-like-never-before-on-the-newest-mi-phone/"><u>Freeze Time Like Never Before on the Newest Mi Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halting-secondary-apps-camera-usage-code-0xa00f4243/"><u>Halting Secondary App's Camera Usage: Code 0xA00F4243</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-80-pro-straight-screen-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor 80 Pro Straight Screen EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-windows-11s-new-backup-feature-work/"><u>How Does Windows 11'S New Backup Feature Work?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-abruptly-remove-non-functional-printers-in-windows-os/"><u>How to Abruptly Remove Non-Functional Printers in Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-note-30-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Note 30 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-go-pro-karma-drone-review/"><u>In 2024, Go Pro Karma Drone Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme 11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-windows-11s-core-data-the-hidden-registry/"><u>Investigating Windows 11'S Core Data: The Hidden Registry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-always-ontop-status-of-calculator-in-windows/"><u>Maintaining Always Ontop Status of Calculator in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-calls-tracking-techniques/"><u>Mastering Windows Calls Tracking Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-notebook-display-adjusting-windows-11s-themes-and-fonts/"><u>Optimizing Notebook Display: Adjusting Windows 11'S Themes & Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-windows-setup-fails/"><u>Overcoming Obstacles: Fixing Windows Setup Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x8007251d-validation-and-solutions/"><u>Overcoming Windows Error 0X8007251D: Validation and Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-policy-enforcement-one-user-multiple-windows-versions/"><u>Personalized Policy Enforcement: One User, Multiple Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/qbittorrent-migration-a-practical-guide-to-preserve-settings/"><u>QBittorrent Migration: A Practical Guide to Preserve Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/registry-tweaks-for-windows-setup-management/"><u>Registry Tweaks for Windows Setup Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedies-for-dead-input-devices-in-windows-os/"><u>Remedies for Dead Input Devices in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-xinput13dll-file-absent-or-loss-a-comprehensive-guide/"><u>Resolving 'xinput1_3.dll' File Absent or Loss: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-non-startup-of-netflix-in-windows/"><u>Reversing Non-Startup of Netflix in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-alter-your-windows-cursor-on-pc/"><u>Steps to Alter Your Window's Cursor on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-virtual-machines-on-windows-6-performance-tweaks/"><u>Streamline Virtual Machines on Windows: 6 Performance Tweaks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-upgrade-new-features-in-microsoft-paint/"><u>The Ultimate Upgrade: New Features in Microsoft Paint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/times-tangle-in-windows-restore-clock-order/"><u>Time's Tangle in Windows: Restore Clock Order</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secret-of-smooth-typing-in-powertoys/"><u>Unlock the Secret of Smooth Typing in PowerToys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-subtitles-from-srt-proven-techniques-revealed-for-2024/"><u>Unlocking Subtitles From SRT  Proven Techniques Revealed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/using-srt-audio-on-windows-and-macos-devices-for-2024/"><u>Using SRT Audio on Windows & macOS Devices for 2024</u></a></li>
+</ul></div>

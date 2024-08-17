@@ -1,7 +1,7 @@
 ---
 title: "Visualize Storage Quickly: Integrate DiskAnalyzer Into Windows Menu"
-date: 2024-07-12T16:53:54.748Z
-updated: 2024-07-13T16:53:54.748Z
+date: 2024-08-16T02:13:51.456Z
+updated: 2024-08-17T02:13:51.456Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
  Now you can try out the Disk Savvy analyzer utility. Go into File Explorer, and right-click a folder to analyze to select**Show more options** \>**Disk Savvy - Analyze Disk Space** . Click the**Analyze** button on the**Default Profil** e to confirm the selected directory.
 
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
@@ -71,17 +77,29 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
  RidNics and Disk Savvy are useful tools that enable users to quickly analyze disk space usage in selected folders or entire drives. Those context menu utilities give you a comprehensive visual overview of what files and folders are taking up the most space on your hard drive. They’ll come in handy for freeing up drive space through manual user file deletion.
@@ -104,3 +122,43 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>[New] 2024 Approved  Quick and Reliable Image Captures  PC's Top 5 Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[New] 2024 Approved  Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-hd-webcams-essential-purchasing-tips/"><u>[New] Top 10 HD Webcams  Essential Purchasing Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-building-impressive-facebook-slideshows-a-practical-guide/"><u>[Updated] 2024 Approved  Building Impressive Facebook SlideShows  A Practical Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-video-maker-how-to-make-facebook-video/"><u>[Updated] Facebook Video Maker  How to Make Facebook Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-perfect-sound-recording-zooming-into-excellence-for-podcasts-for-2024/"><u>[Updated] The Art of Perfect Sound Recording  Zooming Into Excellence for Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-facebook-live-broadcasts-a-quick-guide/"><u>2024 Approved  Navigating Facebook Live Broadcasts  A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-efficiency-5-best-apps-to-create-animated-clock-screen-savers-on-pcs/"><u>Accelerate Efficiency: 5 Best Apps to Create Animated Clock Screen Savers on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-selection-of-2024s-most-innovative-raspberry-pi-pico-powered-boards/"><u>Ace Selection of 2024'S Most Innovative Raspberry Pi Pico-Powered Boards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-a-convenient-upgrade-notification-toolbar-in-windows-1111/"><u>Adding a Convenient Upgrade Notification Toolbar in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boundary-setting-for-insider-release-access/"><u>Boundary Setting for Insider Release Access</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-tutorial-making-sense-of-blue-screen-in-w11/"><u>Comprehensive Tutorial: Making Sense of Blue Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-winning-software-for-the-ultimate-pc/"><u>Discover Winning Software for the Ultimate PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-edge-linger-handling-windows-11-background-tasks/"><u>Does Edge Linger? Handling Windows 11 Background Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ram-management-for-effective-cross-platform-communication/"><u>Efficient RAM Management for Effective Cross-Platform Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-rectifying-obs-studio-server-connectivity-hiccups/"><u>Essential Tips for Rectifying OBS Studio Server Connectivity Hiccups</u></a></li>
+<li><a href="https://facebook.techidaily.com/experience-facebooks-live-shop-extravaganza-fri/"><u>Experience Facebook's Live Shop Extravaganza, Fri</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-s18e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo S18e Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-aggregatorhostexe-in-windows-secure-exploring-its-role/"><u>Is AggregatorHost.exe in Windows Secure? Exploring Its Role</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-pc-chips-identifying-gen-through-windows-8-ways/"><u>Navigating the World of PC Chips – Identifying Gen Through Windows (8 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-fix-it-steps-to-eradicate-win10-blue-screen/"><u>Proven Fix-It Steps to Eradicate Win10 Blue Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-convenient-download-for-the-ultimate-ft232r-usb-uart-drivers/"><u>Quick and Convenient Download for the Ultimate FT232r USB UART Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-engageturn-off-bings-ai-window-chat/"><u>Rapidly Engage/Turn Off Bing's AI Window Chat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-failures-from-non-standard-windows-applications/"><u>Resolving Sign-Out Failures From Non-Standard Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-missing-windows-phone-link-notifications/"><u>Steps to Reactivate Missing Windows Phone Link Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-streamlining-display-with-adjusted-desk-icons/"><u>Title: Streamlining Display with Adjusted Desk Icons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-editing-suites-in-apples-macos-big-sur-release-for-2024/"><u>Top-Tier Editing Suites in Apple's MacOS Big Sur Release for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-w11-utilizing-error-lookup-tool-features/"><u>Troubleshooting W11: Utilizing Error Lookup Tool Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-pasting-feature-in-chrome-edge-firefox-oses/"><u>Unblocking Pasting Feature in Chrome, Edge, Firefox OSes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unearthing-excellent-seeds-the-valheim-way-for-2024/"><u>Unearthing Excellent Seeds  The Valheim Way for 2024</u></a></li>
+</ul></div>

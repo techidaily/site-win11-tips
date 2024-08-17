@@ -1,7 +1,7 @@
 ---
 title: Launching Windows 11'S Snip & Sketch Shortcut
-date: 2024-07-12T17:03:43.900Z
-updated: 2024-07-13T17:03:43.900Z
+date: 2024-08-16T02:03:09.919Z
+updated: 2024-08-17T02:03:09.919Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
  If you like using keyboard shortcuts, be sure to check out our [Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
  The Start menu on Windows provides access to a wide range of applications you can directly launch. To open the Snipping tool using the Start menu, follow these steps:
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 3. Scroll down to**Snipping tool** and click on it to start using the application.  
 ![Open Snipping Tool Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Start-Menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 3\. How to Open the Snipping Tool via Windows Search
 
  Windows 11 comes with a new and improved search feature that simplifies file searching. With Windows Search, you can simply type what you're looking for into the search box and Windows will show you a list of matching files. This is a great way to save time and get exactly what you need.
@@ -52,12 +58,19 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 1. Open the Start Menu and type "Snipping tool" into the search bar.  
 ![Open Snipping Tool Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Windows-Search.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 2. You should see the Snipping tool application pop up in the results. Click on it to launch the app.
 3. If you don't see the Snipping tool in your results, don't worry. You can also access it by typing "scissors" into the search bar.
 4. This will bring up a shortcut to the app which you can click on to open it.
 
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -95,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 2. Go to the address bar, type**snippingtool** , and press Enter.
 3. The snipping tool will appear at the top of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. How to Open the Snipping Tool Using Task Manager
 
  Task Manager is a handy tool that can help you manage your computer's resources and end unresponsive programs, but it is not limited to only that. You can also use Task Manager to open programs you have installed on your computer.
@@ -106,10 +122,16 @@ To open the Snipping tool using Task Manager, follow these steps:
 3. Check the "Create this task with administrative privileges" box in the "Create new task" window.
 4. Type "snippingtool" (without quotes) into the "Open" field.  
 ![Open Snipping Tool Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Task-Manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 5. Click**OK** to launch the application.
 
 The Snipping tool should now be open and ready to use!
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. How to Pin the Snipping Tool to the Taskbar
 
  If you frequently use the snipping tool to take screenshots on your Windows computer, you should consider pinning it to your taskbar. This will allow you a quick and easy way to access the tool. Here's how you do it.
@@ -143,3 +165,36 @@ The Snipping tool should now be open and ready to use!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tickletech-instant-creation-of-laughter-graphics/"><u>[New] TickleTech  Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[Updated] 2024 Approved  Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastery-techniques-for-embedding-social-media-live-videos/"><u>[Updated] 2024 Approved  Mastery Techniques for Embedding Social Media Live Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-free-iphone-composition-tools-for-stunning-images/"><u>[Updated] 2024 Approved  Top 10 Free iPhone Composition Tools for Stunning Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>[Updated] Softening Sonic Surge  Gradual Volume Reduction Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ten-steps-to-keeping-vr-healthy/"><u>[Updated] Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-expertise-full-guide-to-record-your-macscreens-for-2024/"><u>[Updated] The Ultimate Expertise  Full Guide to Record Your MacScreens for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists/"><u>Breaking Down  Why Syma X5C Is Top-Notch for New Dronists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradication-of-windows-update-malfunction-error-0x80246007/"><u>Eradication of Windows Update Malfunction: Error 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-tackling-windows-not-found-issue/"><u>Essential Steps: Tackling Windows' Not Found Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-10/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-marketplace-error-0x80073cf3/"><u>Mastering Fixes for Windows Marketplace (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-controlling-external-hard-drive-access/"><u>Mastering the Art of Controlling External Hard Drive Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-try-connecting-bluetooth-failures-on-windows-11-os/"><u>Overcoming 'Try Connecting' Bluetooth Failures on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-excessive-memory-consumption-in-antivirus-tools/"><u>Reducing Excessive Memory Consumption in Antivirus Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-m6-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco M6 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-restore-procedures/"><u>Understanding and Utilizing Windows 11'S Restore Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-package-management-proficiency-wingetui-for-windows-users/"><u>Unlock Package Management Proficiency: WingetUI for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-creator-studio-unleashing-the-power-of-your-channel-for-2024/"><u>YouTube Creator Studio  Unleashing the Power of Your Channel for 2024</u></a></li>
+</ul></div>

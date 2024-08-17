@@ -1,7 +1,7 @@
 ---
 title: Implementing Fixes for Unstartable Windows Services
-date: 2024-07-12T17:04:47.161Z
-updated: 2024-07-13T17:04:47.161Z
+date: 2024-08-16T02:02:10.310Z
+updated: 2024-08-17T02:02:10.310Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 * Windows search-related services are not working
 * Registry-related errors
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Apply Some General Fixes
 
  Try the fixes given below once and check whether you can perform a Windows search or not:
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 * **Run SFC to check the corrupted system files:** SFC stands for System File Checker, and it's an in-built tool that helps you repair corrupted system files. To use the tool, learn [how to run SFC on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 * **Run the Search and Indexing troubleshooter:** Press **Win + Q**, type **Fix Windows Search**, and double-click on the best search result to run the troubleshooter.  
 ![Windows Search Results Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-results.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 * **Check for updates:** If you're experiencing issues with the Windows Search service, try [manually updating Windows](https://www.makeuseof.com/update-windows-manually/) once.
 
  These are just a few basic ways we expect to work in case of a Windows search error. But, if you're still unable to search for anything, move to some advanced troubleshooting methods.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 
  That's it. Now restart your system and check for the search error. If you’re still facing the Windows search could not start error, restarting the dependent services should do the trick. So, take your time and restart the services once.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Fix Incorrect Group Policy Settings
 
  Windows includes a useful app called the Group Policy Editor. This app helps administrators turn on/off more than 2000 Windows settings (or policies).
@@ -74,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 
  The Group Policy Editor is an advanced tool, and incorrect tweaks can cause system instability. So, be careful to change only the mentioned settings. If a setting is unavailable or locked on your computer, proceed to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Enable Windows Search Service via MSConfig
 
  The MSConfig utility (System Configuration tool) is a built-in feature that provides a central hub for troubleshooting and managing various aspects of your system. It's pretty handy and can prove helpful for you if the Windows search service is not working.
@@ -87,9 +99,15 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 4. Scroll down the list and look for the **Windows Search** service.
 5. If it's unchecked, check the box next to **Windows Search** to enable it, then click **Apply** and **OK**.  
 ![Windows Search In MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-in-msconfig.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Besides this, MSConfig has many other use cases. Read our in-depth guide on [Microsoft System Configuration Utility (MSConfig)](https://www.makeuseof.com/windows-msconfig-guide/) to know some of them.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 5\. Delete Files in the Windows TxR Directory
 
  TxR (Transaction Resource Manager) is a directory (folder) that keeps track of all the changes you make to Windows files.
@@ -101,10 +119,19 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
 1. Open the File Explorer by pressing **Win + E**.
 2. Navigate to the TxR directory (**C:\\windows\\system32\\config\\TxR**). The first time you open the folder, it'll show **This folder is empty**.  
 ![Windows TxR Directory Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-path.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click on **View** at the top bar of the File Explorer. Then, go to **Show** and tick **Hidden items**.  
 ![Hidden Items File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hidden-items-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Similarly, click on the three-dot menu at the top. Click **Options > View**. Scroll down and uncheck or disable **Hide protected operating system files (Recommended)**.  
 ![File Explorer Folder Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-explorer-folder-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Now all the files inside the directory should be visible to you. Please select all the files (**Ctrl + A**) and then delete them.  
 ![Windows TxR Directory Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-files.jpg)
 
@@ -143,3 +170,59 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-time-lapse-tools-the-finest-screen-recorders/"><u>[New] 2024 Approved  TOP Time-Lapse Tools - The Finest Screen Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[New] Master Guide  Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximize-mobile-viewing-sharper-chromebook-and-phone-videos/"><u>[New] Maximize Mobile Viewing  Sharper Chromebook and Phone Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-build-and-launch-youtube-video-ads-on-budget/"><u>[Updated] 2024 Approved  Build & Launch YouTube Video Ads on Budget</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-steps-for-top-tier-tiktok-intros-mac-edition/"><u>[Updated] In 2024, Essential Steps for Top-Tier TikTok Intros - Mac Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-revenue-demystified/"><u>[Updated] In 2024, YouTube Revenue Demystified</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-notes-essential-tips/"><u>[Updated] Mastering Audio Notes  Essential Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-essential-fixes-for-fbm-not-working-here/"><u>10 Essential Fixes for FBM Not Working Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>2024 Approved  Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y100i-power-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y100i Power 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-tips-to-quickly-solve-windows-screen-problems/"><u>5 Tips to Quickly Solve Windows Screen Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-new-features-the-moment-4-update-added-to-windows-11/"><u>7 New Features the Moment 4 Update Added to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-potential-exciting-enhancements-from-w11-22h2-moment/"><u>7 Potential Exciting Enhancements From W11 22H2 Moment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-free-up-local-drive-space-without-deleting-files-on-windows-11/"><u>8 Ways to Free Up Local Drive Space Without Deleting Files on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-new-dimension-in-windows-11-understanding-the-role-of-copilot-key/"><u>A New Dimension in Windows 11: Understanding the Role of Copilot Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-preparing-your-pc-before-win-upgrade/"><u>A Step-by-Step Guide to Preparing Your PC Before Win Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-system-operations-using-windows-task-scheduler/"><u>Accelerate System Operations Using Windows Task Scheduler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-network-configurations-in-win11/"><u>Accessing Network Configurations in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-nighttime-display-in-notepad-windows-11-edition/"><u>Activating Nighttime Display in Notepad Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-system-file-checker-a-quick-tutorial/"><u>Activating System File Checker: A Quick Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-unsigned-files-issue-for-updated-pcs/"><u>Address 'Unsigned' Files Issue for Updated PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-and-amending-system-call-failures-in-modern-windows/"><u>Addressing and Amending System Call Failures in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-service-did-not-respond-issue-in-windows/"><u>Addressing Service Did Not Respond Issue in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-user-permissions-issues-with-organizational-settings-in-windows-11/"><u>Addressing User Permissions Issues with Organizational Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-screen-tick/"><u>Addressing Window's 11 Screen Tick</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-user-interface-customization-for-win-11/"><u>Advanced User Interface Customization for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aligning-chrome-and-system-time-windows-sync-tips/"><u>Aligning Chrome and System Time (Windows Sync Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alt-tab-techniques-efficiently-arrange-your-open-windows-win1110/"><u>Alt-Tab Techniques: Efficiently Arrange Your Open Windows (Win11/10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-outputs-with-savvy-techniques/"><u>Amplify Windows 11 Outputs with Savvy Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automated-awareness-quick-open-of-windows-and-sticky-notebooks/"><u>Automated Awareness: Quick Open of Windows and Sticky Notebooks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automating-wifi-network-deletion-in-win-11/"><u>Automating Wifi Network Deletion in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-the-trouble-fixing-corrupted-recycle-bin-on-win1011/"><u>Avoid the Trouble: Fixing Corrupted Recycle Bin on Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719327449344-bargain-hunters-rejoice-key-lovers-snag-best-prices-for-lifetime-windows-11/"><u>Bargain Hunters Rejoice: Key Lovers Snag Best Prices for Lifetime Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-kept-secrets-eclectic-windows-11-styles/"><u>Best-Kept Secrets: Eclectic Windows 11 Styles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitlocker-free-windows-4-effective-security-measures/"><u>BitLocker-Free Windows: 4 Effective Security Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365152122-boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-code-development-top-wls-2-methods-on-latest-oses/"><u>Boost Your Code Development: Top WLS 2 Methods on Latest OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-net-speed-win-pc-download-acceleration-tips/"><u>Boosting Net Speed: Win-PC Download Acceleration Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-performance-with-advanced-virtual-memory-management-techniques/"><u>Boosting System Performance with Advanced Virtual Memory Management Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-unveiled-how-this-ai-is-transforming-natural-language-processing/"><u>ChatGPT Unveiled: How This AI Is Transforming Natural Language Processing</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v29-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V29 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Samsung Galaxy A54 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone XR | Stellar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-cheat-sheet-perfectly-timed-memes/"><u>In 2024, Chuckle Cheat Sheet  Perfectly Timed Memes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-agni-2-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Agni 2 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-non-udemy-platforms-for-personalized-e-learning/"><u>In 2024, Premier Non-Udemy Platforms for Personalized E-Learning</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-quirky-make-memes-with-kapwing-app/"><u>In 2024, Quick & Quirky  Make Memes with Kapwing App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/kinemasters-complete-guide-to-flawless-transitions/"><u>Kinemaster's Complete Guide to Flawless Transitions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-best-free-3d-animation-apps-for-android-and-ios/"><u>New In 2024, Unleash Your Creativity Best Free 3D Animation Apps for Android & iOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/sharpen-your-zoom-skills-with-background-blur-expertise-for-2024/"><u>Sharpen Your Zoom Skills with Background Blur Expertise for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-comprehensible-pathway-to-erase-instagram-account-for-2024/"><u>The Comprehensible Pathway to Erase Instagram Account for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719366332809-trouble-at-clipcraft-unravel-fixes-today/"><u>Trouble at ClipCraft? Unravel Fixes Today</u></a></li>
+</ul></div>

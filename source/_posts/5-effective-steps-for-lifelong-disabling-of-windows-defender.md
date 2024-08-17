@@ -1,7 +1,7 @@
 ---
 title: 5 Effective Steps for Lifelong Disabling of Windows Defender
-date: 2024-07-12T17:32:29.445Z
-updated: 2024-07-13T17:32:29.445Z
+date: 2024-08-16T01:34:08.443Z
+updated: 2024-08-17T01:34:08.443Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  This guide will teach you how to disable Microsoft Defender permanently. It will stay off until you undo the steps you perform in this guide. If you only want Microsoft Defender to turn off for a short amount of time, check out [how to turn off Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) for a more temporary solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Disable Tamper Protection First
 
  Tamper Protection makes sure that no other apps can make changes to the Microsoft Defender settings on your computer. You don't need to [enable Tamper Protection](https://www.makeuseof.com/how-to-activate-tamper-protection-defender/) because it is active by default. If you want to completely disable Microsoft Defender (including real-time protection), you must disable Tamper Protection first. Here’s how to do it:
@@ -39,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 3. Find the Virus and threat protection settings section and click on the**Manage settings** option.
 4. Scroll down and click on the**Tamper Protection** toggle to disable it.  
 ![Disable Tamper Protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Disable-Tamper-Protection-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Close the Windows Security app.
 
 ## How to Disable Microsoft Defender in Windows 11
 
  We have already disabled Tamper Protection, so it won't interfere when you disable Microsoft Defender using GPE, Registry Editor, or any third-party tool. Here are the following methods that work flawlessly to disable the inbuilt security app on Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Disable Microsoft Defender Using Group Policy Editor
 
  Group Policy Editor is an excellent tool using which you can customize Windows settings with ease. However, it is only reserved for Windows Pro and Enterprise users. Check out [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you're using that version.
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 5. Select the**Enabled** radio button and click on the**Apply** button.
 6. Lastly, click on the**OK** button and close the Group Policy Editor. Restart your system and open Windows Security.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2\. Disable Microsoft Defender Using Registry Editor
 
  Windows 11 Home users cannot use the Group Policy Editor. But you can tweak the registry to disable Microsoft Defender on your system. However, before making any changes, please create a registry backup and create a system restore point. That way, you can always undo any changes you make to the registry.
@@ -84,6 +96,9 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
 3. You will see a “**The operation completed successfully.** ” message after the successful execution of the above command.  
 ![Disable Windows Defender Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-cmd.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 4. Type**exit** to close the Command Prompt window and restart your system.
 
 ### 4\. Disable Microsoft Defender Using Winaero Tweaker
@@ -96,6 +111,9 @@ Repeat the following steps:
 2. Install Winaero Tweaker and right-click on the application and select the**Run as administrator** option.
 3. Click on the search icon and type Defender. Click on the**Microsoft Defender \\ Disable Microsoft Defender** search result.  
 ![Disable Windows Defender Using Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-winaero-tweaker.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 4. Then, click on the**Disable Microsoft Defender** checkbox. Scroll down and click on the**Reboot now** button.
 5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
 
@@ -110,6 +128,9 @@ Repeat the following steps:
 ![Disable Windows Defender Using Ultimate Windows Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-ultimate-windows-tweaker.jpg)
 5. Finally, click on the**Close** button and restart your system.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Permanently Disable Microsoft Defender on Windows 11
 
  Microsoft Defender is a pain to disable on your system because of multiple fail-safe methods built into Windows Security. So, disable Tamper Protection and then process with a method to disable Microsoft Defender. However, do not leave your system open to malware infestation, and use a third-party antivirus if you don’t like Defender.
@@ -133,3 +154,43 @@ Repeat the following steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tailoring-mac-videos-to-fit-snapchat-dimensions/"><u>[New] 2024 Approved  Tailoring Mac Videos to Fit Snapchat Dimensions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings/"><u>[New] In 2024, Uniting Communication & Visuals  A Detailed Plan for Slack + Filmora Meetings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-prospects-and-pitfalls-of-samsung-image-processor-2023/"><u>[New] Inside Look  Prospects & Pitfalls of Samsung Image Processor, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>[New] Mastering WhatsApp  Key Tricks & Invisible Functions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics-for-2024/"><u>[New] Winning Windows Animation  The Best 9 Apps to Record Dynamic Graphics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-vloggers-guide-to-camera-lenses-wondershare-filmora-for-2024/"><u>[Updated] A Vlogger's Guide To Camera Lenses | Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highest-paid-youtuber-in-the-world/"><u>[Updated] In 2024, Highest Paid YouTuber in the World</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-your-potential-with-these-powerful-snapchat-strategies/"><u>[Updated] In 2024, Unleash Your Potential with These Powerful Snapchat Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-premier-call-customization-and-editing-software/"><u>2024 Approved  Premier Call Customization and Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-thrifty-flyers-guide-5-drones-for-under-100/"><u>2024 Approved  Thrifty Flyers' Guide  5 Drones for Under $100</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootback-success-wins-ultimate-guide-to-overhauling-security/"><u>Bootback Success: Win's Ultimate Guide to Overhauling Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-default-settings-on-windows-firewall/"><u>Break Free From Default Settings on Windows Firewall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-solving-windows-steams-error-e84/"><u>Breaking Down and Solving Windows Steam's Error E84</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-headset-mic-not-working/"><u>Breaking Down Window's Headset Mic Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-silence-windows-11s-veiled-bar-investigator/"><u>Breaking Silence: Windows 11’S Veiled Bar Investigator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-windows-11-tpm-release-methods/"><u>Breaking Through Windows 11: TPM Release Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-old-computers-without-windows/"><u>Breathe New Life Into Old Computers Without Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathing-life-into-non-operative-windows-performance-tracker/"><u>Breathing Life Into Non-Operative Windows Performance Tracker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-apple-and-microsoft-ecosystems-windows-11-via-parallels/"><u>Bridge Apple and Microsoft Ecosystems: Windows 11 via Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-your-gadgets-win11s-stickies-explained/"><u>Bridging Your Gadgets: WIN11'S Stickies, Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-forth-the-forgotten-off-screen-window-revival-steps-for-win1011/"><u>Bringing Forth the Forgotten: Off-Screen Window Revival Steps for Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-restrictions-to-gain-admin-control/"><u>Bypass Restrictions to Gain Admin Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-clutter-unwanted-application-removal-on-windows-11/"><u>Bypassing Clutter: Unwanted Application Removal on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-decades-old-keyboard-entry-error/"><u>Bypassing Decades-Old Keyboard Entry Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-hurdles-a-guide-to-overcoming-roblox-error-262/"><u>Bypassing Hurdles: A Guide to Overcoming Roblox Error 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-unyielding-x80049dd3-error-for-better-typing/"><u>Bypassing the Unyielding X80049DD3 Error for Better Typing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-verified-app-requirement-errors-in-windows/"><u>Bypassing Verified App Requirement Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-w11s-onedrive-def5-hurdle-with-easy-fixes/"><u>Bypassing W11's Onedrive Def5 Hurdle with Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/checking-for-updates-on-spotify-software-and-system/"><u>Checking for Updates on Spotify Software & System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/child-protection-mastering-windows-11-safety-settings/"><u>Child Protection: Mastering Windows 11 Safety Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-yuva-3-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Yuva 3 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplified-window-capturing-software/"><u>Simplified Window Capturing Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-logitech-g935-microphone-issues-in-windows/"><u>Solution Found: Fixing Logitech G935 Microphone Issues in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-x5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco X5? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Battery Health Monitoring: Set Up Full Charge Indicators in Win11"
-date: 2024-07-12T17:50:42.403Z
-updated: 2024-07-13T17:50:42.403Z
+date: 2024-08-16T01:17:18.396Z
+updated: 2024-08-17T01:17:18.396Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
 ![The Battery Notification taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-battery-notification-taskbar-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Add a Full Battery Charge Alert With Battery Notifier
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
@@ -56,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 5. Right-click**BatteryNotifier.exe** to select**Run as administrator** .
 6. Next, click the**Battery Notifier** icon in the system to view the app’s panel.  
 ![The Battery Notifier system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/battery-notifier-taskbar-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Make sure the**Full Battery** notification checkbox is set to**On** .  
 ![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
 
@@ -84,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 6. Click the**Settings** (cog) button at the bottom left of the app.
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You can change the charge percentage for the high alert by dragging the bar on the**Battery level to notify** bar. Below that there’s also a**Low battery level to notify** bar you can configure.
 
@@ -91,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
 ![A test notification for Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/test-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## How to Enable Notifications for the Battery Apps
 
  Note that Windows notifications need to be turned on for the above apps’ full battery charge notifiers to work right. Make sure notifications for the battery apps are enabled in Windows 11/10 like this:
@@ -102,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 4. Select the**Allow notifications to play sounds** option.
 5. Click the notification toggle switches on for the battery apps in this guide.  
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Listen Out for Your Full Battery Charge Notifiers in Windows
 
@@ -125,3 +143,61 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fostering-self-assurance-against-virtual-hostility/"><u>[New] 2024 Approved  Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-becoming-a-viral-visionary-with-these-10-tiktok-insights/"><u>[New] In 2024, Becoming a Viral Visionary with These 10 TikTok Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-no-cash-all-fun-turning-twitter-vids-into-gifs/"><u>[New] In 2024, No Cash, All Fun  Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[New] In 2024, Unraveling the Enigma  How to Download Messages From Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>[Updated] Harmonizing Hue and Shade  The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[Updated] Maximizing Earnings on YouTube Shorts  Essentials & Prospective Income</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pulling-fun-on-pedal-power-for-2024/"><u>[Updated] Pulling Fun on Pedal Power for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-understanding-and-executing-photo-gender-modification-across-platforms/"><u>[Updated] Understanding and Executing Photo Gender Modification Across Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discovering-the-heart-of-editing-filmoras-top-choices/"><u>2024 Approved  Discovering the Heart of Editing - Filmora’s Top Choices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-pc-setup-for-smooth-tiktok-livestreams-made-easy/"><u>2024 Approved  PC Setup for Smooth TikTok Livestreams Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-essential-tricks-for-a-better-windows-11-search/"><u>5 Essential Tricks for a Better Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6plus-strategies-for-a-superior-windows-11-taskbar-use/"><u>6+ Strategies for a Superior Windows 11 Taskbar Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-winget-not-working-on-windows-11/"><u>8 Ways to Fix Winget Not Working on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-guide-to-enhance-and-immerse-in-atmos-on-windows/"><u>A Complete Guide to Enhance and Immerse in Atmos on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-solution-manual-windows-rainmeter-problems-decoded/"><u>A Comprehensive Solution Manual: Windows Rainmeter Problems Decoded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-rejuvenating-steam-on-windows-11/"><u>A Practical Approach to Rejuvenating Steam on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-app-launch-with-windows-11/"><u>Accelerate Your App Launch with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapt-windows-sleep-timer-to-suit-you/"><u>Adapt Window's Sleep Timer to Suit You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-cluttered-symbol-groups-on-windows-shell/"><u>Addressing Cluttered Symbol Groups on Windows Shell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-iomap64-bsod-with-easy-steps-for-windows-users/"><u>Addressing IOMap64 BSoD with Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-onedrives-faulty-blob-tag-errors-in-windows/"><u>Addressing OneDrive's Faulty Blob Tag Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-10-and-11s-paudio-issue-with-audacity/"><u>Addressing Windows 10 & 11'S PAudio Issue with Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-access-to-win11s-system-editor/"><u>Adjusting Access to Win11's System Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-pointer-style-in-winxpvista7/"><u>Adjusting Mouse Pointer Style in WinXP/Vista/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminals-user-privilege-settings/"><u>Adjusting Windows Terminal's User Privilege Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-your-windows-search-and-highlight-settings/"><u>Adjusting Your Window's Search and Highlight Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alter-time-tracks-essential-windows-tools-to-edit-file-dates/"><u>Alter Time Tracks: Essential Windows Tools to Edit File Dates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-icon-sizes-in-windows-interface/"><u>Altering Icon Sizes in Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-11-start-menu-preferences/"><u>Altering Windows 11 Start Menu Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplifying-graphical-performance-in-windows-11s-safeguard-feature/"><u>Amplifying Graphical Performance in Windows 11'S Safeguard Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/averting-common-issues-with-deskanywhere-windows-11/"><u>Averting Common Issues with DeskAnywhere Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-game-breaking-disconnections-fall-guys-windows-fixes/"><u>Avoid Game-Breaking Disconnections: Fall Guys Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-slow-response-times-after-adding-an-additional-screen/"><u>Avoid Slow Response Times After Adding an Additional Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-common-errors-essential-tips-for-first-time-windows-11-users/"><u>Avoiding Common Errors: Essential Tips for First-Time Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/behind-closed-curtains-of-windows-how-to-open-hidden-self-assessment-tool/"><u>Behind Closed Curtains of Windows: How to Open Hidden Self-Assessment Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-utilities-aiding-the-seamless-shift-from-apples-macos/"><u>Best Windows Utilities: Aiding the Seamless Shift From Apple's MACOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bluescreenview-unpacked-practical-applications/"><u>BlueScreenView Unpacked: Practical Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exceptional-book-trailer-selections-for-2024/"><u>Exceptional Book Trailer Selections for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-slow-or-non-existent-data-transmission-in-epson-devices/"><u>Fixing Slow or Non-Existent Data Transmission in Epson Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-write-amazing-podcast-descriptions-with-examples/"><u>How to Write Amazing Podcast Descriptions (With Examples)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719319912746-launch-in-pc-no-fee-clone-of-chatgpt-on-windows/"><u>Launch In-PC, No-Fee Clone of ChatGPT on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-is-vn-video-editor-pro-worth-the-download-a-comprehensive-review/"><u>New 2024 Approved Is VN Video Editor Pro Worth the Download? A Comprehensive Review</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlocking-mp3-from-aiff-step-by-step-processes-revealed/"><u>New 2024 Approved Unlocking MP3 From AIFF Step-by-Step Processes Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719289062860-rescue-your-browser-fix-google-chrome-in-w11-today/"><u>Rescue Your Browser: Fix Google Chrome in W11 Today</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/synth-symphony-selecting-superior-dj-templates-for-download/"><u>Synth Symphony  Selecting Superior DJ Templates for Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382715644-unlock-potential-of-windows-without-using-the-compatibility-tool/"><u>Unlock Potential of Windows without Using the Compatibility Tool</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Optimal Adventure Play: Winning HD Games on PC with ScummVM"
-date: 2024-07-12T17:35:36.306Z
-updated: 2024-07-13T17:35:36.306Z
+date: 2024-08-16T01:31:04.483Z
+updated: 2024-08-17T01:31:04.483Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  In this guide, we'll see how to configure ScummVM to make classic adventures look good on modern PCs with flat-panel Full HD displays.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download and Install ScummVM
 
  Start by visiting [ScummVM's official site](https://www.scummvm.org/) and downloading and installing the app. For this article, we will be using ScummVM on Windows 11.
@@ -48,9 +51,15 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![ScummVM Mass Add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm_mass_add.jpg)
 2. ScummVM will analyze the folder you selected, scan its contents, and prompt you to import any compatible games it finds.  
 ![ScummVM Scanning Folders For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-scanning-folders-for-games.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. All imported and playable games appear in ScummVM's game list with bold text. You can launch them by double-clicking on their title or selecting them and clicking the start button on the right of the window. Supported titles that weren't found (and thus aren't playable) have a grey color.  
 ![ScummVM Bold Added Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-bold-added-games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## How to Configure ScummVM's Global Settings
 
  ScummVM offers two types of configuration: you can customize its options globally for all games and create individual game configurations that only affect a single title.
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 1. You will need a point of reference to know how games played with ScummVM will look on your monitor. So, launch one of them and pay attention to its visuals. For this article, we will be using the freely available Beneath a Steel Sky by Revolution Software as our primary point of reference.  
 ![ScummVM Beneath a Steel Sky Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-beneath-a-steel-sky-default.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 2. Click on**Global Options** on the right of the window.  
 ![ScummVM Global Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-options-button.jpg)
 3. Move to the**Keymaps** tab and take note of the key combination for accessing ScummVM's global main menu. If you don't like the default shortcut, click on it and bind it to another key combination.  
@@ -67,11 +79,22 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![ScummVM Global Keymaps Toggle Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-keymaps-toggle-fullscreen.jpg)
 5. Move to the**Audio** tab, and from the**Text and speech** options, select if you'd prefer**Speech** ,**Subtitles** , or**Both** for your games.  
 ![ScummVM Global Audio Text And Speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-audio-text-and-speech.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 6. Although it's not a crucial option for playing games, you can change how ScummVM looks by switching between various themes. Those are accessible from the**Theme** option on the**GUI** tab.  
 ![ScummVM Global GUI Themes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-gui-themes.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 7. On the same page, you will find another option that you may find helpful if you like jumping from game to game: to avoid having to relaunch ScummVM after exiting a title, place a checkmark before**Return to the launcher when leaving a game** .  
 ![ScummVM Global GUI Return To Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-gui-return-to-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Configure Game-Specific ScummVM Options
 
  Although most options we will see are also available globally, it's best to tweak them separately for each game.
@@ -80,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  To tweak a particular game's options in ScummVM, select it on the list and click on**Game Options** on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Upscaling Through Stretching and Aspect Ratios
 
  If played in their original resolution, old adventures will appear too blocky, too blurred, or cover less than 1/4th of the screen.
@@ -94,15 +120,28 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![ScummVM Game Menu Return To Launcher Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-menu-return-to-launcher-entry.jpg)
 4. Return to the launcher and revisit the selected game's options, moving to the**Graphics** tab. From there, you can change the**Scaler** used for stretching the game's graphics. ScummVM offers various ways of scaling a game's graphics. Some try to preserve a game's original blocky, pixelated appearance, while others may smoothen the graphics, leading to a more "cartoony" appearance. We chose**SuperSAI** .  
 ![ScummVM Game Options Graphics Scaler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-scaler.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Getting Better Visuals With Shaders
 
  The blurring, color bleeding, and glow of old CRT screens also made the graphics look less pixelated and richer in color. Thankfully, you can partially replicate those looks on a flat-panel monitor through the magic of shaders.
 
 1. To apply a shader to your game's visuals, on a game's options'**Graphics** tab, click**Shader** and select one from the list.  
 ![ScummVM Game Options Graphics Shader Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-shader-selected.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Although a shader might add artificial imperfections to a game's visuals, almost counter-intuitively, the final result can look better.  
 ![ScummVM Beneath a Steel Sky With CRT Shader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-beneath-a-steel-sky-with-crt-shader.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
  Are you not a fan of adventures (on which ScummVM specializes) but would appreciate a facelift for your old emulated games? RetroArch supports scaling and shaders, too. For more info on that, check our guide on [how to make your retro games look like they used to with RetroArch's shaders](https://www.makeuseof.com/make-retro-games-look-like-used-to-retroarch-shaders/) .
 
@@ -119,6 +158,9 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  When you're done going on adventures, why not try making your own adventure game? You can start small with our guide on [how to create a text-based adventure game in Python](https://www.makeuseof.com/python-text-adventure-game-create/) and take it from there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Adventure of Playing Old Adventures With ScummVM
 
  Despite not being as customizable as RetroArch, ScummVM enables you to play dozens of classic adventures that would otherwise have been lost in the clutches of time.
@@ -144,3 +186,54 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-crack-the-code-of-creativity-in-depth-snapchat-filters-exploration/"><u>[New] Crack the Code of Creativity  In-Depth Snapchat Filters Exploration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-efficiently-posting-videos-instagram-upload-on-desktop/"><u>[New] Efficiently Posting Videos  Instagram Upload on Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-unfollow-a-path-towards-a-lasting-account-discontinuation/"><u>[New] In 2024, Insta Unfollow  A Path Towards a Lasting Account Discontinuation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-turbo-techniques-for-faster-vimeo-views-for-2024/"><u>[New] Turbo Techniques for Faster Vimeo Views for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleashing-your-content-going-live-on-instagram/"><u>[Updated] 2024 Approved  Unleashing Your Content  Going Live on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-mkv-player-for-pc-and-mobile/"><u>[Updated] Best Mkv Player for PC and Mobile</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-troubleshooting-pip-connectivity-on-apple-gadgets/"><u>[Updated] Troubleshooting PIP Connectivity on Apple Gadgets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-live-soundscape-websites/"><u>[Updated] Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>2024 Approved  From Silence to Soundscape  Step-by-Step in Audition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-hilarious-threads-the-tweeter-treasury/"><u>2024 Approved  Hilarious Threads  The Tweeter Treasury</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-holistic-motion-analysis-2023/"><u>2024 Approved  Holistic Motion Analysis 2023</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-your-backlit-keyboard-when-its-not-working-on-windows/"><u>5 Ways to Fix Your Backlit Keyboard When It’s Not Working on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/authenticity-at-risk-recognizing-ai-influence-on-writing/"><u>Authenticity at Risk: Recognizing AI Influence on Writing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-asks-for-credentials-error-message/"><u>Bypassing Windows Asks for Credentials Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-non-displayed-results-in-windows-11/"><u>Clearing Up Non-Displayed Results in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/decoding-silent-snapchat-user-possible-block/"><u>Decoding Silent Snapchat User  Possible Block</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-apk-setup-with-a-single-click-for-w11-users/"><u>Effortless APK Setup with a Single Click for W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interface-with-mouse-click-lock-mcl-on-win-os/"><u>Enhancing User Interface with Mouse Click Lock (MCL) on Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicate-scandisk-errors-for-a-smooth-run/"><u>Eradicate ScanDisk Errors for a Smooth Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-when-and-how-to-leverage-ping-on-windows/"><u>Expert Advice: When and How to Leverage Ping on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-device-driver-installation-issues-in-win11/"><u>Guiding Users Through Device Driver Installation Issues in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-the-virtual-world-with-hyper-v-in-windows-11/"><u>Harness the Virtual World with Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-find-x7-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo Find X7 Unlock Without Password</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-a-comprehensive-guide-for-enhancing-tiktok-voices/"><u>In 2024, A Comprehensive Guide for Enhancing TikTok Voices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comprehensive-guide-to-storing-itunes-video-files/"><u>In 2024, Comprehensive Guide to Storing iTunes Video Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-make-your-windows-11-unique/"><u>Innovative Ways to Make Your Windows 11 Unique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/magicard-rio-professional-driving-simulator-update-free-download-for-windows-platforms-win-11817/"><u>Magicard Rio Professional Driving Simulator Update: Free Download for Windows Platforms (Win 11/8.1/7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-outlook-and-gmail-synergy-on-your-pc/"><u>Mastering Outlook & Gmail Synergy on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-pc-essential-free-tools-for-win11-users/"><u>Mastering Your PC: Essential Free Tools for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/monetization-approaches-for-microsoft-and-windows-11/"><u>Monetization Approaches for Microsoft & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/money-making-tactics-from-the-w11-windowware/"><u>Money-Making Tactics From the W11 Windowware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-network-issues-a-comprehensible-guide-for-windows-11-users/"><u>Navigating Network Issues: A Comprehensible Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-pick-for-pen-notes-7-ultimate-windows-apps/"><u>Prime Pick for Pen Notes: 7 Ultimate Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regenerating-system-icons-in-windows-os/"><u>Regenerating System Icons in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-a-stuck-recycle-bin-on-microsofts-latest-os/"><u>Reviving a Stuck Recycle Bin on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scrutinizing-the-utility-of-windows-11-interface-components/"><u>Scrutinizing the Utility of Windows 11 Interface Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-instructions-downloading-and-installing-msixbundle-packages/"><u>Step-by-Step Instructions: Downloading & Installing MSixbundle Packages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triumph-over-windows-11-theme-lockdown-a-registry-approach/"><u>Triumph Over Windows 11 Theme Lockdown: A Registry Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-photoshopping-on-windows-11/"><u>Troubleshooting Tips for Photoshopping on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-modify-mouses-double-click-speed/"><u>Ultimate Guide to Modify Mouse's Double-Click Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-risks-in-windows-11-service-deactivation/"><u>Understanding Risks in Windows 11 Service Deactivation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960731876-update-your-nvidia-quadro-rtx-4000-with-the-newest-drivers-here/"><u>Update Your Nvidia Quadro RTX #4000 with the Newest Drivers Here!</u></a></li>
+</ul></div>

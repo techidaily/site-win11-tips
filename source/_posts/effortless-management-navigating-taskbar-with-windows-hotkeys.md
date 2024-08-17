@@ -1,7 +1,7 @@
 ---
 title: "Effortless Management: Navigating Taskbar with Windows Hotkeys"
-date: 2024-07-12T17:18:05.387Z
-updated: 2024-07-13T17:18:05.387Z
+date: 2024-08-16T01:48:34.787Z
+updated: 2024-08-17T01:48:34.787Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 1. Open this [MinimizeToTray download page](https://github.com/sandwichdoge/MinimizeToTray/releases/).
 2. Extract the MinimizeToTray ZIP archive to a folder. This [how-to unzip ZIP files guide](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/) includes instructions for extracting ZIP archives on a Windows 11 PC.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option5.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 3. Double-click **MinimizeToTray** in the software’s extracted folder.
 4. Open a window to try out the MinimizeToTray hotkey.
 5. Press **Alt** \+ **F1** to minimize the active software window to the system tray.
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  If you want to change the MinimizeToTray hotkeys, select **Configs** on its context menu. That will bring up a window on which you can set the keyboard shortcuts for minimizing and restoring windows. Click inside a hotkey box and press some keys to set a different keyboard shortcut. Select **OK** in the Edit Hotkeys window to save your new keyboard shortcuts.
 
 ![The Edit Hotkeys window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-hotkey-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 
 ## How to Minimize Windows to the System Tray With 4t Tray Minimizer
 
@@ -71,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
 1. Keep selecting **Next** to reach the **Install** option for 4t Tray Minimizer.  
 ![The 4t Tray Minimizer setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Press **Install** to complete the 4t Tray Minimizer installation.
 3. Click **Finish** with the **Launch** setting selected.
 4. Now open a software window for minimizing into the system tray.
@@ -79,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  You will now see an icon for the minimized window within the system tray. The 4t Tray Minimizer window also includes a list of all windows minimized to the tray area. You can reopen the minimized window by clicking its icon in the system tray or double-clicking it within the 4t Tray Minimizer window.
 
 ![The 4t Tray Minimizer Free window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Plus, you can minimize windows to the system tray without pressing the **Shift** \+ **Esc** hotkey. To do so, right-click their **Minimize** buttons.
 
@@ -87,10 +99,16 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  You can reconfigure those keyboard shortcuts from the 4t Tray Minimizer’s settings window. Click **View** and **Options** to bring up that settings window. Select the **Keyboard** tab to view the default hotkeys. Double-click a hotkey there to bring up a **Change Key Sequence** window that includes settings for changing hotkeys. Select the alternative key combination there and click **OK**.
 
 ![The hotkey settings in 4t Tray Minimizer Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-key-sequence.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  4t Tray Minimizer also adds five new title bar options to software windows. To access them, right-click a window’s title bar to view its context menu. Then you can select **Minimize to tray**, **Roll up**, **Stay on top**, and **Make transparent** options on the context menu. There’s also a 4t Tray Minimizer submenu from which you can select to add the active window to the exclusion list.
 
 ![The new title bar options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/additional-title-bar-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The hotkeys for those title bar options are disabled by default. However, you can enable them by selecting the **Show disabled** hotkeys checkbox on the **Keyboard** tab. Select the checkboxes for the active window hotkeys to enable those keyboard shortcuts.
 
@@ -111,3 +129,46 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-screens-a-laptops-webcam-journey-for-2024/"><u>[New] Capturing Screens  A Laptop's Webcam Journey for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-video-quality-in-obs/"><u>[New] In 2024, Mastering Video Quality in OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio/"><u>[New] In 2024, Zoom's Auditory Masterclass  Fine-Tuning for Impeccable Audio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-dissecting-obs-technology-for-top-level-recording/"><u>[Updated] Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-eco-friendly-cities-redefining-urban-spaces-for-nature-for-2024/"><u>[Updated] Eco-Friendly Cities  Redefining Urban Spaces for Nature for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-your-mobile-browsing-with-cleaner-video-playback/"><u>[Updated] Optimize Your Mobile Browsing with Cleaner Video Playback</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[Updated] Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-in-storytelling-eight-film-genre-showcase/"><u>[Updated] The Best in Storytelling  Eight Film Genre Showcase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-circumventing-edgenuity-effortlessly-a-students-guide/"><u>2024 Approved  Circumventing Edgenuity Effortlessly  A Student's Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>2024 Approved  Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-full-assessment-samsungs-360-degree-capture-device/"><u>2024 Approved  Full Assessment  Samsung's 360-Degree Capture Device</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failure-code-0x0001-on-nvidia-software/"><u>Addressing Failure Code 0X0001 on Nvidia Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-erroneous-wins-protection-messages/"><u>Fixing Erroneous WINS Protection Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstating-missing-pin-after-win-11-updates/"><u>Guide to Reinstating Missing PIN After Win 11 Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-no-save-photoerror-in-windows-11-os/"><u>How to Correct 'No Save' PhotoError in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-launch-and-configure-win-11-sandbox/"><u>How to Launch and Configure Win 11 Sandbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-windows-users-from-changing-the-date-and-time/"><u>How to Stop Windows Users From Changing the Date and Time</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-perfect-your-instagram-game-with-smart-video-posting-techniques/"><u>In 2024, Perfect Your Instagram Game with Smart Video Posting Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-steps-for-deleting-discord-on-computermobile/"><u>In 2024, Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>In 2024, Your Pathway to Profit  The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>In 2024, YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-winerror-x8019/"><u>Mitigating WinError: X8019</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-reverse-keyboard-input-on-pcs/"><u>Navigating Reverse Keyboard Input on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/notable-nights-of-non-opening-notepad-your-solution-guide-for-windows-users/"><u>Notable Nights of Non-Opening Notepad: Your Solution Guide for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-your-windows-11-ms-store-experience/"><u>Reinstating Your Windows 11 MS Store Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rewind-to-richness-a-guide-to-gaming-glory-past/"><u>Rewind to Richness: A Guide to Gaming Glory Past</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-retrieving-cortana-history-from-windows/"><u>Step-by-Step: Retrieving Cortana History From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stopping-spontaneous-activation-of-file-explorer/"><u>Stopping Spontaneous Activation of File Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-language-settings-add-and-switch-layouts-in-win-11-os/"><u>Streamlining Language Settings: Add & Switch Layouts in Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-wi-fi-troubles-with-ease-filling-out-action-deficiencies/"><u>Tackling Wi-Fi Troubles with Ease: Filling Out Action Deficiencies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-premier-live-streaming-plus-local-channels-2024/"><u>Ultimate Guide  Premier Live Streaming + Local Channels 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-power-of-hyper-v-in-windows-11-homes-with-this-guide/"><u>Unleash the Power of Hyper-V in Windows 11 Homes with This Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/velocity-validation-precise-windows-steps-to-assess-internet-router-performance/"><u>Velocity Validation: Precise Windows Steps to Assess Internet Router Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-dynamic-system-health-enhancement/"><u>Windows' Dynamic System Health Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsls-impact-on-linux-desktop-usage/"><u>WSL's Impact on Linux Desktop Usage</u></a></li>
+</ul></div>

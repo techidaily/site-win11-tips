@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Transfer: Windows 11 Auto-Move Techniques"
-date: 2024-07-12T16:38:47.132Z
-updated: 2024-07-13T16:38:47.132Z
+date: 2024-08-16T02:27:45.804Z
+updated: 2024-08-17T02:27:45.804Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Place Selected Files Into a New Folder With TeraCopy
 
  TeraCopy is freeware software for Windows 11, 10, 8, and 7 that enables users to set up and automate move and copy file operations. Once you integrate TeraCopy with Explorer’s context menu, it will add a **New folder with selection** option you can click to quickly put the selected files into a new folder.
@@ -53,20 +56,33 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 3. Go through the installer, and at the end, click **Finish** with **Launch TeraCopy** selected.
 4. Next, click the **Settings** cog icon in TeraCopy.  
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 5. Make sure the **Add to Explorer context menu** option is selected.
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
 
 1. Hold down **CTRL** and click the files you want to put into a folder.
 2. Right-click to select **Show more options** and the **New folder with selection** option.  
 ![The New folder with selection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-folder-with-selection-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Then input a title for your new folder and press **Enter**.
 4. The new folder is created as a subfolder within the directory that included your original file selection. Open the new folder to view and access the files you selected to move into it.
 
  TeraCopy also provides us with another way to move more files into your new folder. To do so, select **Menu** \> **Add files** in the TeraCopy window. Select the files you want to move and click **Open**. Then click **Move** \> **Browse** to choose the directory and press the **Select Folder** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Add a Handy New Folder Creation Option to Windows 11’s Context Menu
 
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
@@ -82,3 +98,41 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ecome-a-yt-hub-pro-complete-guide-revealed/"><u>[New] Become a YT Hub Pro  Complete Guide Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiling-synergy-youtube-content-on-facebook-network/"><u>[New] In 2024, Unveiling Synergy  YouTube Content on Facebook Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-master-mac-screen-and-voice-logging-device/"><u>[New] Master Mac Screen and Voice Logging Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>[Updated] 2024 Approved  Best Free Call Apps on Android, Ranks Them</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-stream-backgrounds/"><u>[Updated] Best Practices for Stream Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-transcribing-dreams-into-movies/"><u>[Updated] The Art of Transcribing Dreams Into Movies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-decoding-the-art-of-fb-video-downloads-in-hd/"><u>2024 Approved  Decoding the Art of FB Video Downloads in HD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootstrapping-disk-backups-on-your-own/"><u>Bootstrapping Disk Backups on Your Own</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-barriers-resolving-connection-problems-for-mb-on-win-oses/"><u>Breaking Barriers: Resolving Connection Problems for MB on Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-hardware-ram-management-in-windows-os/"><u>Breaking Down Hardware RAM Management in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-chromes-black-screen-barrier/"><u>Breaking Through Chrome's Black Screen Barrier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-formats-mastering-the-art-of-windows-esd-to-iso-conversion/"><u>Bridging Formats: Mastering the Art of Windows' ESD to ISO Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-android-and-windows-webcams/"><u>Bridging the Gap Between Android and Windows Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/briefly-sidestepping-windows-11-security-a-four-step-method/"><u>Briefly Sidestepping Windows 11 Security: A Four-Step Method</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-light-to-your-pc-top-5-techniques-for-a-working-backlight/"><u>Bring Light to Your PC: Top 5 Techniques for a Working Backlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-cannot-open-errors-for-writable-files-in-win-oses/"><u>Bypassing 'Cannot Open' Errors for Writable Files in Win OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-errors-on-windows-systems/"><u>Bypassing Permission Errors on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-uninstalling-print-devices-in-win-1011/"><u>Bypassing Restrictions: Uninstalling Print Devices in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-roadblocks-with-microsoft-teams-eradicating-error-code-80080300/"><u>Bypassing Roadblocks with Microsoft Teams: Eradicating Error Code 80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-steam-readwrite-errors-with-ease/"><u>Bypassing Steam Read/Write Errors with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unnecessary-virus-error-in-chrome-browser/"><u>Bypassing Unnecessary Virus Error in Chrome Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-win11-audio-failure-code-0xc00d36b4/"><u>Bypassing Win11 Audio Failure Code 0xC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-task-sequence-error-0x8007000f/"><u>Bypassing Windows Task Sequence Error 0X8007000f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/captivating-holiday-vistas-through-creative-panes/"><u>Captivating Holiday Vistas Through Creative Panes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/convenient-ways-to-document-game-sessions/"><u>Convenient Ways to Document Game Sessions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/focal-point-expose/"><u>Focal Point Exposé</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-p40plus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel P40+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-techniques-for-full-sphere-videography/"><u>In 2024, IPhone Techniques for Full-Sphere Videography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/proximity-sensor-problems-on-iphones-what-you-need-to-know-and-how-to-repair-them/"><u>Proximity Sensor Problems on iPhones: What You Need to Know and How to Repair Them</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x50-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X50 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-reno-11-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Reno 11 5G</u></a></li>
+</ul></div>

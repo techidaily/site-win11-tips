@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Microsoft: Essential Gratis Tools for Win11"
-date: 2024-07-12T16:57:29.400Z
-updated: 2024-07-13T16:57:29.400Z
+date: 2024-08-16T02:09:18.255Z
+updated: 2024-08-17T02:09:18.255Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,14 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[QuickLook](http://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. 7-Zip
 ![7zip windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/7zip-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Windows 11 comes with a rudimentary archive file extraction feature. However, if you need wide support for various file formats, 7-Zip is an excellent alternative. It is an open-source file compression utility and is easy to use.
 
@@ -44,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 ## 3\. Microsoft PowerToys
 ![notepad plus plus windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/notepad-plus-plus-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft PowerToys consists of a bunch of advanced utilities for Windows users. It is an essential utility that you must install on your new PC to do more with Windows 10 and 11.
 
@@ -89,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 ## 7\. Fluent Search
 ![fluent search windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fluent-search-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
  Fluent Search is a search application for Windows to find files and folders. Unlike the built-in search app, Fluent Search can locate files, folders, browser tabs, apps, processes, and more.
 
@@ -98,8 +110,14 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Fluent Search](http://fluentsearch.net/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 8\. WhatsApp Desktop
 ![whatapp desktop windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whatapp-desktop-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If WhatsApp is your primary instant messaging app, WhatsApp desktop delivers notifications to your computer even when your phone is away or switched off. The desktop app offers a similar set of functionalities as WhatsApp Web, but builds on top of it even more.
 
@@ -109,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 ## 9\. Google Drive Desktop
 ![google drive desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-drive-desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Windows 11 comes pre-installed with the OneDrive cloud storage app. However, if you are a Google Drive user, the app's desktop version is useful for syncing your documents and files directly from your PC.
 
@@ -116,6 +137,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Google Drive Dekstop](http://www.google.com/drive/download/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. DaVinci Resolve
 ![black magic design davinci resolve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/black-magic-design-davinci-resolve.jpg)
 
@@ -125,6 +149,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[DaVinci Resolve](http://www.blackmagicdesign.com/products/davinciresolve/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 11\. Adobe Express
 ![adobe express windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adobe-express-windows-11.jpg)
 
@@ -134,6 +161,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Adobe Express](http://www.blackmagicdesign.com/products/davinciresolve/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. VLC Media Player
 ![vlc media player windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/vlc-media-player-windows-11.jpg)
 
@@ -143,6 +173,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[VLC Media Player](http://www.videolan.org/vlc/download-windows.html) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 13\. Bitwarden
 ![bitwarden windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bitwarden-windows-11.jpg)
 
@@ -152,6 +185,9 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 **Download** :[Bitwarden](http://bitwarden.com/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Tools to Enhance Your Windows 11 Experience
 
  There are thousands of useful apps available for the Windows platform. From a password manager to a multimedia player and a file previewer to instant messaging apps, explore the list to find the apps that'll make your user experience on Windows 11 a little better than before.
@@ -175,3 +211,42 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-peek-into-fb-episodes-unseen/"><u>[New] 2024 Approved  Peek Into FB Episodes, Unseen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tailor-videos-for-impact-on-instagram-feed/"><u>[Updated] Tailor Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-assessing-vidmas-video-capture-capabilities/"><u>[Updated] Ultimate Guide  Assessing Vidma's Video Capture Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-core-concepts-in-moving-graphic-artistry/"><u>2024 Approved  Core Concepts in Moving Graphic Artistry</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nce-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks-for-2024/"><u>Audience Attraction in a Minute  Comparing YouTubes Shorts and TikToks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-course-in-windows-preload-land/"><u>Charting Your Course in Windows Preload Land</u></a></li>
+<li><a href="https://win-forum.techidaily.com/decoding-computer-boot-processes-how-revouninstaller-sheds-light-on-bios/"><u>Decoding Computer Boot Processes - How RevoUninstaller Sheds Light on BIOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-pcs-visual-fidelity-with-updated-radeon-drivers-windows-edition/"><u>Elevating Your PC's Visual Fidelity with Updated Radeon Drivers, Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-remedy-guide-eight-tactics/"><u>Essential Windows Remedy Guide - Eight Tactics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-download-optimized-sound-card-software-updates-for-windows-systems/"><u>Find & Download Optimized Sound Card Software Updates for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/group-free-enhance-windows-11-taskbar-ease/"><u>Group-Free: Enhance Windows 11 Taskbar Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-steam-disk-write-error-on-windows/"><u>How to Fix the Steam Disk Write Error on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-zte-nubia-z60-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked ZTE Nubia Z60 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>In 2024, Craft the Perfect Stream  A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-gionee-f3-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-fingerprint-recognition-in-windows-11/"><u>Integrating Fingerprint Recognition in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-notes-prominent/"><u>Keeping Your Windows Notes Prominent</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-collectors-delight-exclusive-black-friday-price-drop-on-essential-windows-11/"><u>Key Collectors' Delight – Exclusive Black Friday Price Drop on Essential Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-login-retry-wait-timepost-failed-attempts/"><u>Manipulating Login Retry Wait Timepost-Failed Attempts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-linkage-airpods-and-windows-harmony/"><u>Master the Linkage: AirPods & Windows Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/non-edge-processes-lurking-in-task-manager/"><u>Non-Edge Processes Lurking in Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-powerpoint-print-errors-with-9-effective-methods/"><u>Overcoming Common PowerPoint Print Errors with 9 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-network-issues-on-windows-11-a-comprehensible-approach/"><u>Overcoming Network Issues on Windows 11 - A Comprehensible Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vac-rejection-in-steam-windows-gameplay/"><u>Overcoming VAC Rejection in Steam Windows Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-jump-to-notes-starting-windows-with-immediate-access/"><u>Quick Jump to Notes: Starting Windows with Immediate Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-stalled-outlook-alerts-for-new-messages/"><u>Reviving Stalled Outlook Alerts for New Messages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-exclude-recommended-podcasts-in-spotify-for-2024/"><u>Strategies to Exclude Recommended Podcasts in Spotify for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-success-starting-windows-and-accessing-notepad-quickly/"><u>Sync Success: Starting Windows and Accessing Notepad Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-store-mishaps-cure-0x80072f30-glitches/"><u>Tackling Windows Store Mishaps: Cure 0X80072F30 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-remedy-access-denied-on-windows/"><u>Tactics to Remedy 'Access Denied' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-keybinds-for-snippet-copy-and-paste/"><u>Tailored Keybinds for Snippet Copy & Paste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-practical-side-of-bluescreenview-usage/"><u>The Practical Side of BlueScreenView Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-the-tide-restoring-daylight-from-dark-theme/"><u>Turning the Tide: Restoring Daylight From Dark Theme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-9-irritating-windows-11-layouts/"><u>Unraveling 9 Irritating Windows 11 Layouts</u></a></li>
+</ul></div>

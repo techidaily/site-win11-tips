@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored"
-date: 2024-07-12T16:59:15.097Z
-updated: 2024-07-13T16:59:15.097Z
+date: 2024-08-16T02:07:02.479Z
+updated: 2024-08-17T02:07:02.479Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,22 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 2\. How to Resize Images With Paint
 
  Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our [Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The resize image options in Paint
 
@@ -62,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 1. Scroll down and select Paint 3D.
 2. Then click**Open** and**Browse** **files** .  
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Select an image to resize, and click the**Open** option.
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click the**Resize image** with canvas checkbox to select that option.
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
@@ -81,11 +98,17 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 2. Click**Get** to add Image Magic to Edge.
 3. Then press the**Extensions** (jigsaw piece) button in Edge.  
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click**Image Magic** to bring up that extension’s window.
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
@@ -107,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 2. Then select the**Use Advanced Options** checkbox.
 3. Press the**Advanced Options** button.  
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**Resize** checkbox if it’s not already selected.
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
@@ -139,3 +165,47 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-elevating-engagement-finding-your-youtube-segment/"><u>[New] Elevating Engagement  Finding Your YouTube Segment</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dji-mavic-pro-pioneering-the-aerial-photography-frontier/"><u>[New] In 2024, DJI Mavic Pro  Pioneering the Aerial Photography Frontier</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-tech-gear-webcams-that-take-your-streams-up-a-notch/"><u>[New] In 2024, Top Tech Gear  Webcams That Take Your Streams Up a Notch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-visionary-vistas-the-ultimate-list-of-motivating-ig-images/"><u>[New] In 2024, Visionary Vistas  The Ultimate List of Motivating IG Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-your-way-through-screen-capturing-with-dell/"><u>[New] Navigating Your Way Through Screen Capturing with Dell</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-leading-eights-imagery-fusion-platform/"><u>[New] The Leading Eight’s Imagery Fusion Platform</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-revenue-with-strategic-snapchat-promotions-for-2024/"><u>[New] Unlocking Revenue with Strategic Snapchat Promotions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[Updated] In 2024, Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-leveraging-text-overlays-for-engaging-visual-posts-for-2024/"><u>[Updated] Leveraging Text Overlays for Engaging Visual Posts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-modern-readers-pathway-to-capturing-internet-television/"><u>2024 Approved  The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-drivers-at-your-fingertips-quick-and-effortless-auto-installation-guide/"><u>AMD Drivers at Your Fingertips - Quick and Effortless Auto-Installation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audacity-workshop-eloquent-silent-transitions-for-2024/"><u>Audacity Workshop  Eloquent Silent Transitions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-discords-inaccurate-search-results/"><u>Boosting Windows Discord's Inaccurate Search Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-and-correcting-wsl-error-4294967295-on-pcs/"><u>Breaking Down and Correcting WSL: Error 4294967295 on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-browsing-after-your-windows-launch/"><u>Breaking Into Browsing After Your Windows Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-into-windows-11-appsfolder-a-step-by-step-walkthrough/"><u>Breaking Into Windows 11 AppsFolder: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-windows-chatbot-constraints-with-freedomgpt/"><u>Breaking Windows ChatBot Constraints with FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-windows-11-overcoming-slowdowns/"><u>Breathe Life Into Windows 11: Overcoming Slowdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-locked-windows-screen-saver/"><u>Breathe Life Into Your Locked Windows Screen Saver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-galaxy-and-pc-unveil-dex-potential/"><u>Bridging the Gap Between Galaxy & PC: Unveil DeX Potential</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-capture-failed-on-your-pcs-camera-app/"><u>Bypass Capture Failed on Your PC's Camera App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-error-code-2e-restore-windows-update/"><u>Bypass Error Code 2E, Restore Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-met-not-satisfied-tagging-on-win11/"><u>Bypass Met Not Satisfied Tagging on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-blockers-fixing-amd-installation-woes/"><u>Bypassing Error Blockers: Fixing AMD Installation Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-hiccups-with-easy-fixes/"><u>Bypassing Windows 11 Hiccups with Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11s-local-user-security-qanda/"><u>Bypassing Windows 11'S Local User Security Q&A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-download-or-install-icloud-on-windows-try-these-fixes/"><u>Can’t Download or Install iCloud on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-your-filenames-with-powertoys/"><u>Centralize Your Filenames with PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-a-new-course-overcoming-xbox-errors-in-win11/"><u>Charting a New Course: Overcoming Xbox Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-new-territory-ai-in-the-world-of-windows-11/"><u>Charting New Territory: AI in the World of Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-between-intel-unison-and-phone-link-best-wp-app/"><u>Choosing Between Intel Unison & Phone Link: Best WP App?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-wisely-critical-considerations-in-procuring-a-laptop/"><u>Choosing Wisely: Critical Considerations in Procuring a Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-solving-the-failure-errors-in-discord-installation/"><u>Decoding and Solving the Failure Errors in Discord Installation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-hidden-gems-in-vlc-player-functions/"><u>Discovering Hidden Gems in VLC Player Functions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-canon-mx492-printing-software-on-windows/"><u>Download & Install Canon MX492 Printing Software on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expertly-curated-list-of-superior-tracking-gear-for-runners/"><u>Expertly Curated List of Superior Tracking Gear for Runners</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y17s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y17s Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-pdf-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Sign PDF document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-how-the-fitbit-inspire-hr-keeps-you-on-top-of-your-fitness-game-all-day-and-night/"><u>Inside Look: How The Fitbit Inspire HR Keeps You on Top of Your Fitness Game All Day and Night</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-image-enhancement-tips-for-2024/"><u>Instagram Image Enhancement Tips for 2024</u></a></li>
+</ul></div>

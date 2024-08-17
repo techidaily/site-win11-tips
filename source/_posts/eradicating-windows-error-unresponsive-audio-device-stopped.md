@@ -1,7 +1,7 @@
 ---
 title: "Eradicating Windows Error: Unresponsive Audio Device Stopped"
-date: 2024-07-12T16:59:19.468Z
-updated: 2024-07-13T16:59:19.468Z
+date: 2024-08-16T02:07:07.345Z
+updated: 2024-08-17T02:07:07.345Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  Our guide on [fixing too many background processes running](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides more detail on how to terminate unneeded background apps and services with Task Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. End and Restart the Windows Explorer Process
 
  Some users confirm ending and restarting the File Explorer process fixes the “Windows can’t stop your generic volume device” error. That highlights File Explorer is causing the error and needs to be stopped from utilizing the USB drive.
@@ -60,12 +63,18 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 3. Input and execute this Hardware and Devices command:  
 `msdt.exe -id DeviceDiagnostic`  
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click **Next** to run the troubleshooting tool.  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter4.jpg)
 5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
 6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Select the Quick Removal Option
 
  Selecting the **Quick Removal** option is another confirmed fix for the “Windows can’t stop your generic volume device” error. The **Quick Removal** option disables write caching. You can select the **Quick Removal** option for an affected drive using the following steps:
@@ -74,14 +83,24 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 2. Right-click your USB drive and select **Properties**.
 3. Click the **Hardware** tab.  
 ![The Hardware tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-hardware-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 4. Then press the **Properties** button.
 5. Click **Change settings** to bring up another window.  
 ![The Change settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-settings-button.jpg)
 6. Select **Policies** in the second window.
 7. Then click the **Quick removal (default)** option.  
 ![The Quick removal radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-removal-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 8. Select **OK** to exit the device properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Deselect the Index Drive Setting
 
  Having file indexing enabled for an external USB drive can cause the “Windows can’t stop your generic volume” error. If that option is enabled, files copied onto your USB drive will be indexed, which can keep it in use for some time after transferring lots of files onto it.
@@ -92,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 2. Right-click the USB drive connected and select **Properties**.
 3. Deselect the **Allow files on this drive to have contents indexed in addition to file properties** option.  
 ![The Allow files on this drive to have contents indexed box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/index-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Select **Apply** and **OK** to set the drive’s new setting.
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
@@ -110,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 6. Finally, set the selected disk to offline by executing this command:  
 `offline disk`  
 ![The offline command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/offline-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will need to replace **<drive number>** for the select disk command with the actual number of your USB drive listed by Diskpart. For example, if your USB drive is disk 1, the required command would look like this:
 
@@ -119,6 +144,9 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 `online disk`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Assign a Different Letter to the USB Drive
 
  Some users have also resolved the “Windows can’t stop your generic volume device” by changing the letters of their USB drives. Assigning a different letter to a USB drive will disconnect it from certain processes.
@@ -144,3 +172,61 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-icy-images-a-detailed-look-at-monitoring-summer-snacks-for-2024/"><u>[New] Icy Images  A Detailed Look at Monitoring Summer Snacks for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inside-out-the-realities-of-youtubing-earning/"><u>[New] Inside Out  The Realities of YouTubing Earning</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-odins-legacy-destiny-of-ragnarok/"><u>[New] Odin's Legacy  Destiny of Ragnarök</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-reimagining-text-in-photographyvideo-for-2024/"><u>[New] Reimagining Text in Photography/Video for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>[Updated] Capturing GoToMeet  PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stay-ahead-adapting-your-approach-for-instagrams-evolved-feed-for-2024/"><u>[Updated] Stay Ahead  Adapting Your Approach for Instagram’s Evolved Feed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-windows-11-video-snatchers-unveiled/"><u>[Updated] Top 8 Windows 11 Video Snatchers Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>2024 Approved  Low-Cost, High Performance  Great Smartphones for Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-usage-balancing-progress-and-security/"><u>ChatGPT Usage: Balancing Progress and Security</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/common-youtube-shorts-when-thumbnails-disappear-without-notice-for-2024/"><u>Common YouTube Shorts  When Thumbnails Disappear Without Notice for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-corrupted-windows-11-trash-issue/"><u>Correcting the Corrupted Windows 11 Trash Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-distinctive-look-with-customized-windows-11-monitor-walls/"><u>Creating a Distinctive Look with Customized Windows 11 Monitor Walls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-faster-epic-game-installs/"><u>Cutting-Edge Methods for Faster Epic Game Installs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-11s-zoom-error-1132/"><u>Decoding and Correcting Windows 11'S Zoom Error #1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desk-dilemmas-taming-the-pink-and-purple-on-your-screen/"><u>Desk Dilemmas: Taming the Pink & Purple on Your Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/led-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-error-0xc0000001-quick-fixes/"><u>Eliminating Windows Error 0xC0000001: Quick Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-information-discovery-everywhereapp-style/"><u>Enhance Windows Information Discovery, EverywhereApp Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interface-showing-system-resources-on-taskbar/"><u>Enhancing User Interface: Showing System Resources on Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/epic-color-crisis-8-ways-to-retool-your-pink-desktop/"><u>Epic Color Crisis: 8 Ways to Retool Your Pink Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-transforming-word-docs-into-pdf-on-win-11/"><u>Essential Guide: Transforming Word Docs Into PDF on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-intellij-unison-crashes-in-windows-11/"><u>Fixing IntelliJ Unison Crashes in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fixing-overencoded-obs-videos-for-2024/"><u>Fixing Overencoded OBS Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-camon-30-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Camon 30 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-m14-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy M14 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-edge-step-by-step-video-cropping-techniques-for-2024/"><u>Instagram Edge  Step-by-Step Video Cropping Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maintaining-app-order-within-windows-taskbar/"><u>Maintaining App Order Within Windows Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-missing-file-detection-problems-on-win-11/"><u>Mitigating Missing File Detection Problems on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-past-error-x80072f30-in-windows-store/"><u>Navigate Past Error X80072F30 in Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-tech-landscape-windows-11-installation-on-macos-through-parallels/"><u>Navigate the Tech Landscape: Windows 11 Installation on MacOS Through Parallels</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-outage-guide-is-the-service-down-or-can-you-watch-now/"><u>Netflix Outage Guide: Is The Service Down Or Can You Watch Now?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-sonic-ambiance-for-catching-up-on-the-latest-news/"><u>New Sonic Ambiance for Catching Up on the Latest News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-no-hypervisor-detection-in-windows-sandbox-environment/"><u>Overcoming No Hypervisor Detection in Windows Sandbox Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedures-for-enablingdisabling-windows-component/"><u>Procedures for Enabling/Disabling Windows Component</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-and-styling-terminal-image/"><u>Selecting and Styling Terminal Image</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-your-fax-covers-on-w11/"><u>Step-by-Step Guide: Adjusting Your Fax Covers on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-failed-system-call-on-windows-systems/"><u>Steps to Tackle Failed System Call on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-smarter-android-resource-use-in-wsl/"><u>Strategies for Smarter Android Resource Use in WSL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synergizing-macos-and-windows-software/"><u>Synergizing macOS and Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-dxgierrordeviceremoved-challenge/"><u>Tackling the DXGI_ERROR_DEVICE_REMOVED Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-aesthetic-enhancement-implementing-themes-from-the-microsoft-store/"><u>The Art of Aesthetic Enhancement: Implementing Themes From the Microsoft Store</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-essentials-of-making-professional-level-facebook-reels/"><u>The Essentials of Making Professional-Level Facebook Reels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing/"><u>The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-saving-windows-keyboard-tricks-for-swift-tasks/"><u>Time-Saving Windows: Keyboard Tricks for Swift Tasks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-seven-pocket-friendly-tools-to-increase-windows-volume/"><u>Top Seven Pocket-Friendly Tools to Increase Windows Volume</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-0xc00000f-windows-problems/"><u>Troubleshooting 0xC00000F Windows Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-x5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Poco X5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-repair-for-compromised-system-files/"><u>Unlocking the Power of Repair for Compromised System Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-how-to-find-missing-wi-fi-networks-in-windows-11/"><u>Unveiling the Hidden: How to Find Missing Wi-Fi Networks in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/value-hunting-affordable-vr-gear-from-china/"><u>Value Hunting  Affordable VR Gear From China</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-mastery-easy-to-follow-guide-to-building-bootable-usbs/"><u>Win 11 Mastery: Easy-to-Follow Guide to Building Bootable USBs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-makeover-implementing-animated-backgrounds-on-pc/"><u>Windows 11 Makeover: Implementing Animated Backgrounds on PC</u></a></li>
+</ul></div>

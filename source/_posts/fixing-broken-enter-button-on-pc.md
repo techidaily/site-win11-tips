@@ -1,7 +1,7 @@
 ---
 title: Fixing Broken Enter Button on PC
-date: 2024-07-12T17:32:49.883Z
-updated: 2024-07-13T17:32:49.883Z
+date: 2024-08-16T01:34:28.690Z
+updated: 2024-08-17T01:34:28.690Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
  This problem may also occur if you use a defective keyboard. To determine if the keyboard is faulty, try connecting a different one and see if the Enter key works on it. If it does, then you know that the problem lies with your own keyboard, and you’ll need to replace it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable Filter and Sticky Keys
 
  Filter and Sticky Keys are accessibility features on Windows, but they might interfere with Enter key normal functioning. Disabling them may resolve the issue. Here’s how:
@@ -59,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 3. In the Device Manager window, double-click **Keyboards** to expand it.
 4. Right-click the keyboard device and select **Update driver** from the context menu.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 5. Choose **Browser my computer for drivers** and select the driver you downloaded..
 
  Once you complete the process, restart your computer and check if the Enter key is now working properly.
@@ -79,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 2. Type **cmd** in the text field and press **Ctrl + Shift + Enter** on your keyboard.
 3. If the User Account Control prompt appears, click **Yes**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. In the elevated command prompt window, type the following command and press Enter:  
 msdt.exe -id DeviceDiagnostic
 5. This will launch the hardware and devices troubleshooter. Go through the wizard and let it detect any keyboard issues.
@@ -93,17 +102,26 @@ msdt.exe -id DeviceDiagnostic
 2. From the left side, navigate to **System > Troubleshoot**.
 3. Click **Other troubleshooters** on the next page.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Scroll down to the **Keyboard** and click the **Run** button.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
  Follow the instructions on the screen and let the troubleshooter detect any issues. It should automatically fix them for you, so once it completes the process, restart your computer and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 8\. Scan for Malicious Programs
 
  It's possible that certain malicious programs can also interfere with the Enter key. So, if you've downloaded or installed something suspicious, it could be the culprit.
 
  To make sure this isn't the case, [scan your computer for viruses](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/). If you prefer a command user interface, you can [use Windows PowerShell tool to detect and remove malicious programs](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your computer. Once you do that, restart your computer and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Use the On-Screen Keyboard
 
  If none of the solutions mentioned above solve your problem, try an on-screen keyboard. This is a virtual keyboard that simulates a real one. You can use this keyboard to input data without relying on a physical keyboard.
@@ -121,6 +139,9 @@ msdt.exe -id DeviceDiagnostic
 
  If all else fails, you might have to replace your keyboard. But before you do that, make sure to check all the solutions mentioned above — as one of them might help you get the Enter key working again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Your Enter Key Now Works Again on Your Keyboard
 
  Having an Enter key that doesn't work can be frustrating and puzzling. Using the methods in this guide, you should be able to get your Enter key working again right away.
@@ -136,3 +157,38 @@ msdt.exe -id DeviceDiagnostic
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-essential-listing-windowsmac-os-x-users-4k-playback-tools/"><u>[New] Essential Listing  Windows/Mac OS X Users - 4K Playback Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-blueprint-for-tiktok-profitability-mastering-filmmaker-funds/"><u>[Updated] 2024 Approved  The Blueprint for TikTok Profitability – Mastering Filmmaker Funds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-20-action-recording-solutions-summary/"><u>[Updated] 2024 Approved  Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-complete-guide-to-recording-flawless-zoom-based-podcasts-for-2024/"><u>[Updated] The Complete Guide to Recording Flawless Zoom-Based Podcasts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-sharex-analyses-and-options-for-2024/"><u>[Updated] Unveiling ShareX  Analyses & Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeat-fixed-menus-in-windows-your-ultimate-guide/"><u>Defeat Fixed Menus in Windows: Your Ultimate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-ais-influence-on-the-newest-windows-11-landscape/"><u>Dissecting AI's Influence on the Newest Windows 11 Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ce-your-projects-with-free-green-screens-from-these-online-hubs-for-2024/"><u>Enhance Your Projects with Free Green Screens From These Online Hubs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradication-of-windows-update-malfunction-error-0x80246007/"><u>Eradication of Windows Update Malfunction: Error 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-tackling-windows-not-found-issue/"><u>Essential Steps: Tackling Windows' Not Found Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-10/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refining-your-tiktok-profile-age-with-ease/"><u>In 2024, Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>In 2024, The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fixes-for-windows-marketplace-error-0x80073cf3/"><u>Mastering Fixes for Windows Marketplace (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-try-connecting-bluetooth-failures-on-windows-11-os/"><u>Overcoming 'Try Connecting' Bluetooth Failures on Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pinpointing-valid-logins-amidst-failed-attempts-in-windows/"><u>Pinpointing Valid Logins Amidst Failed Attempts in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-silent-apex-legends-experience-with-our-proven-fixes/"><u>Resolve Your Silent Apex Legends Experience with Our Proven Fixes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-access-errors-in-windows-a-step-by-step-guide/"><u>Solving Access Errors in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-odbc-interface/"><u>Step-by-Step Guide to Windows ODBC Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-qr-code-scanners-in-windows-environment/"><u>Step-by-Step: QR Code Scanners in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-navigating-your-way-through-netconfig/"><u>The Essential Guide to Navigating Your Way Through NetConfig</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-digital-canvases-for-your-win10-artistry/"><u>Top 7 Digital Canvases for Your Win10 Artistry</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-restore-procedures/"><u>Understanding and Utilizing Windows 11'S Restore Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-package-management-proficiency-wingetui-for-windows-users/"><u>Unlock Package Management Proficiency: WingetUI for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-artificayer-algorithms-in-bing-android/"><u>Unveiling the Power of Artificayer Algorithms in Bing, Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-the-past-adding-trophies-and-awards-to-classic-titles-using-retroarch/"><u>Upgrade the Past - Adding Trophies and Awards to Classic Titles Using Retroarch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-does-a-crossed-out-icon-mean-for-your-files/"><u>What Does a Crossed Out Icon Mean for Your Files?</u></a></li>
+</ul></div>

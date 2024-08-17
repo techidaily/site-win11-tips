@@ -1,7 +1,7 @@
 ---
 title: Why Upgrading Isn't Feeling Right for Many to Windows 11
-date: 2024-07-12T17:03:13.287Z
-updated: 2024-07-13T17:03:13.287Z
+date: 2024-08-16T02:04:44.286Z
+updated: 2024-08-17T02:04:44.286Z
 tags:
   - windows10
   - windows11
@@ -55,11 +55,17 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  Windows 11 users have posted on Microsoft’s forum about missing taskbar features. Some have complained they can’t resize the taskbar like they can in Windows 10 by dragging it with the cursor. Others want the**Combine taskbar button** settings from Windows 10 restored in Microsoft latest’s desktop OS. Nor is there any way for users to reposition the taskbar in Windows 11.
 
 ![Combine taskbar button options in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/combine-taskbar-settings-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 
  Microsoft has restored some of the removed taskbar features in recent Windows 11 build updates. For example, Microsoft restored the**Task Manager** context menu shortcut and peek at desktop taskbar features during 2022\. However, some of the features cut will probably never return to Windows 11\. Users who value such taskbar features no doubt prefer to stick with Windows 10.
 
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-taskbar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4, Windows 11 Doesn’t Have a Timeline (and 19 Other Windows 10 Features)
 
  Timeline is a notable feature Microsoft removed from Windows 11\. That feature is part of Task View in Windows 10 and enables users to access files saved with Microsoft apps from a chronological timeline. Timeline is undoubtedly useful for users who often utilize Microsoft 365 applications, Photos, Paint, and other pre-installed apps compatible with that feature.
@@ -67,7 +73,13 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  The removal of Timeline in Windows 11 has diminished Task View. Users who appreciate that productivity feature must prefer to stay on Windows 10 where they can still utilize it. There is supposedly some kind of similar timeline functionality in Edge, but it’s not clear where exactly that is. Timeline is one of 20 feature deprecations listed on this [Microsoft Windows 11 specs page](https://www.microsoft.com/en-us/windows/windows-11-specifications) .
 
 ![the-timeline-feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-timeline-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. The Redesigned Start Menu Isn’t Universally Appealing
 
  Microsoft made significant changes to the Start menu in Windows 11\. That redesigned menu is certainly different from the one in Windows 10\. Whether that menu has changed for the better is debatable. Some users like the simplicity of the new menu, but others prefer Windows 10’s Start menu.
@@ -75,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  What Microsoft has removed from Windows 11’s Start menu is clear. Gone are the live tile shortcuts. Those tiles added animations you don’t get on the new menu and are more suitable shortcuts for touchscreen devices. Windows 11’s Start menu is double-layered since its apps list doesn’t run alongside the pinned shortcuts. Nor is there any way to resize the menu in Windows 11 (much the same as its taskbar).
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Therefore, the redesigned Start menu in Windows 11 doesn’t hold universal appeal. Some users have said it sucks on chat forums. Users who prefer the tiled Start menu are probably sticking with Windows 10 for that reason.
 
 ![A user's forum post about the Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-start-menu-sucks.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. It Doesn’t Offer Enough New Features
 
@@ -98,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 ![The end-of-support-date for Windows 10 on Microsoft's site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-of-support-date-for-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Will You Upgrade to Windows 11?
 
  Windows 11 hasn’t been a big hit because of those shortcomings and issues discussed above. That platform has undoubtedly improved with version updates, but a large majority of users have yet to be won over by Microsoft’s latest desktop OS. It will be interesting to see if that changes over the coming months. If not, a new Windows platform will likely become a reality sooner rather than later.
@@ -120,3 +141,41 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-azure-speech-recognition-efficiently/"><u>[New] Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>[New] Organizing Your iPhone's Picture Collection  From Sorting to iCloud Backing Up</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-diving-into-the-updates-of-sony-blu-ray-s6500/"><u>[Updated] Diving Into the Updates of Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfecting-webp-conversion-to-jpeg-format/"><u>[Updated] In 2024, Perfecting WebP Conversion to JPEG Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-zooming-in-a-comprehensive-tutorial-for-win11-enthusiasts/"><u>[Updated] In 2024, Zooming In  A Comprehensive Tutorial for Win11 Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>[Updated] Next Gen Storytelling  10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[Updated] Skyrocket Visibility  Mastering Google Analytics for YouTubers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-how-asmr-enhances-your-daily-life-learn-here/"><u>2024 Approved  How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-to-the-upcoming-sudo-integration/"><u>Adapting to the Upcoming Sudo Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adding-time-bound-elements-to-your-obs-productions/"><u>Adding Time-Bound Elements to Your OBS Productions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-shifting-your-powertoys-profile-to-another-pc/"><u>Efficiently Shifting Your PowerToys Profile to Another PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-onedrive-invalid-tag-error-in-windows-file-system/"><u>Eliminating the OneDrive Invalid Tag Error in Windows File System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-hard-drives-performance-defrag-guide-for-win11/"><u>Enhance Hard Drives Performance: Defrag Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pc-tune-ups-wins-prime-performance-hacks/"><u>Essential PC Tune-Ups: Win's Prime Performance Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-resolving-rdp-errors-in-windows-11/"><u>Essential Tips for Resolving RDP Errors in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-samsung-galaxy-a05s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-transcription-experience-with-whisper-desktop/"><u>Instantaneous Transcription Experience with Whisper Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-art-microsoft-paints-latest-enhancements/"><u>Mastering Art: Microsoft Paint's Latest Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-win11-with-ease-mastering-package-control-using-wingetui/"><u>Navigate Win11 with Ease: Mastering Package Control Using WingetUI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/premier-window-warriors-championing-stronger-passwords-today/"><u>Premier Window Warriors: Championing Stronger Passwords Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-your-windows-hurdles-and-complications/"><u>Quick Fixes for Your Windows Hurdles & Complications!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-lockout-count-after-sign-in-failures/"><u>Resetting Windows Lockout Count After Sign-In Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-transition-website-to-desktop-compatibility/"><u>Seamless Transition: Website to Desktop Compatibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sky-high-adventures-the-gopro-karma-experience/"><u>Sky-High Adventures  The GoPro Karma Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-0x800700e1-on-w10w11/"><u>Steps to Fix 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-dns-strategies-for-windows-11-enthusiasts/"><u>Tailor-Made DNS Strategies for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oneplus-ace-2-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on OnePlus Ace 2 Pro Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-pick-unlimited-valorant-sound-transformation-tool-free-for-2024/"><u>Top Pick  Unlimited Valorant Sound Transformation Tool (Free) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0x80070522-unlocking-client-privileges-in-windows-1110/"><u>Troubleshooting Error 0X80070522: Unlocking Client Privileges in Windows 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-overcoming-uninstall-restrictions-on-win-11/"><u>Troubleshooting: Overcoming Uninstall Restrictions on Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-facebook-from-humble-beginnings-to-widespread-appeal-and-core-elements/"><u>Understanding Facebook: From Humble Beginnings to Widespread Appeal & Core Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-gits-full-potential-with-github-desktop-on-windows/"><u>Unlocking Git's Full Potential with GitHub Desktop on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-pagefilesys-understanding-its-windows-purpose/"><u>What Is Pagefile.sys? Understanding Its Windows Purpose</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-10-woes-cure-non-responsive-f-keys-now/"><u>Windows 10 Woes? Cure Non-Responsive F-Keys Now</u></a></li>
+</ul></div>

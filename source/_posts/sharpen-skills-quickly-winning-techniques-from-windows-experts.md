@@ -1,7 +1,7 @@
 ---
 title: "Sharpen Skills Quickly: Winning Techniques From Windows Experts"
-date: 2024-07-12T16:43:12.372Z
-updated: 2024-07-13T16:43:12.372Z
+date: 2024-08-16T02:23:50.347Z
+updated: 2024-08-17T02:23:50.347Z
 tags:
   - windows10
   - windows11
@@ -57,9 +57,15 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 3\. Use Focus Sessions
 
  If you actively use your Windows PC, repeated notifications may make it difficult to focus on studying. Fortunately, Windows 11 offers a Focus session feature to help you block out all such distractions for a specific time.
@@ -93,12 +99,24 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 1. Install Drawboard PDF from the [Microsoft Store](https://apps.microsoft.com/store/detail/drawboard-pdf/9WZDNCRFHWQT).
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Take Digital Notes With Obsidian and OneNote
 
  Transcribing handwritten notes digitally can be tiresome with time. But the good thing is powerful note-taking apps that even support the use of AI technology now exist.
@@ -107,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 7\. Download Notion and Set It Up
 
  As a student, keeping track of classes, deadlines, and college activities can quickly become chaotic. You'll surely agree that managing academic life requires organization. This is where Notion can help.
@@ -119,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Install ChatGPT on Your PC
 
  ChatGPT is making a buzz in the education industry. It is gradually changing the way you gather information and write documents.
@@ -126,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
  As it's a web-based service, you must open your browser and visit [chat.openai.com](https://chat.openai.com/) to use it. But, If you don't want to open your web browser every time, learn [how to install ChatGPT as a Windows app](https://www.makeuseof.com/run-chatgpt-windows-app/). Once done, you can one-click to open it and use it to brainstorm ideas, helpful resources, and draft outlines for your next project.
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
@@ -146,3 +174,68 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-gaming-memories-5-essential-vr-recording-methods/"><u>[New] 2024 Approved  Secure Your Gaming Memories  5 Essential VR Recording Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-hot-takes-the-10-craziest-tweets/"><u>[New] 2024 Approved  Twitter's Hot Takes  The 10 Craziest Tweets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[New] 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-comprehensive-skype-screencasting-with-obs/"><u>[New] Comprehensive Skype Screencasting with OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-account-alert-regaining-lost-access-on-facebook/"><u>[New] In 2024, Account Alert! Regaining Lost Access on Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-old-tweet-discovery-mining-twitters-history/"><u>[New] In 2024, Old Tweet Discovery  Mining Twitter's History</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-bridging-the-gap-reactivating-your-obs-cam/"><u>[Updated] In 2024, Bridging the Gap  Reactivating Your OBS Cam</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-expert-tips-for-documenting-computer-speakers-and-mics/"><u>[Updated] In 2024, Expert Tips for Documenting Computer Speakers & Mics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-ways-to-record-mobile-content-on-android-for-2024/"><u>[Updated] Innovative Ways to Record Mobile Content on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tier-mac-recorder-feature-visuals-and-voices/"><u>[Updated] Top-Tier Mac Recorder Feature  Visuals & Voices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-achieving-smooth-volume-decreases-using-lumafusion/"><u>2024 Approved  Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-cinematic-vibrance-top-11-post-production-insights/"><u>2024 Approved  Master the Art of Cinematic Vibrance  Top 11 Post-Production Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-10-instagram-tags-for-maximum-engagement-right-now/"><u>2024 Approved  Top 10 Instagram Tags for Maximum Engagement Right Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-and-user-friendly-gps-tracking-with-bouncie-unveiling-the-features-in-our-review/"><u>Affordable and User-Friendly GPS Tracking with Bouncie - Unveiling the Features in Our Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-friendly-alternatives-to-premium-vr-headsets-for-2024/"><u>Budget-Friendly Alternatives to Premium VR Headsets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-0xc00ce556-the-winoss-parsing-quest/"><u>Debugging 0xC00CE556: The WinOSs Parsing Quest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-routes-to-your-computers-command-center/"><u>Easy Routes to Your Computer’s Command Center</u></a></li>
+<li><a href="https://article-tips.techidaily.com/efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-xbox-audio-quality-within-windows-11-framework/"><u>Elevating Xbox Audio Quality Within Windows 11 Framework</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/emancipate-chatbots-on-windows-using-freedomgpt/"><u>Emancipate ChatBots on Windows: Using FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-context-menus-add-a-windows-diskspace-viewer/"><u>Enhance Context Menus: Add a Window's DiskSpace Viewer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-library-error-inability-to-sync-files/"><u>Fixing Steam Library Error: Inability to Sync Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-streamlined-subscription-links-for-video-channels/"><u>Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-do-windows-downloads-vary-cloud-across-borders-vs-disk-locally/"><u>How Do Windows Downloads Vary: Cloud Across Borders Vs. Disk Locally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x80300024-in-windows/"><u>How to Fix Error 0X80300024 in Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-12-solutions-to-decipher-and-display-hidden-video-posts-on-fb/"><u>In 2024, Top 12 Solutions to Decipher and Display Hidden Video Posts on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-sounds-policy-explained/"><u>Instagram Sounds Policy Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-for-delving-into-windows-boot-zone/"><u>Key Steps for Delving Into Windows' Boot Zone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-v27-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo V27 FRP Without Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>Leading the Pack in Instagram Content  Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-issues-with-ea-games-on-pc/"><u>Mastering Network Issues with EA Games on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-outlook-repair-a-windows-users-manual/"><u>Mastering Outlook Repair: A Windows User's Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-specific-excel-new-cell-inserts-glitches/"><u>Navigate Through Windows-Specific Excel New Cell Inserts Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-windows-11s-error-codes/"><u>Navigating Through the Maze of Windows 11'S Error Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-onedrive-failure-in-windows-versions-1011/"><u>Overcoming OneDrive Failure in Windows Versions 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-mystery-of-windows-subsystem-for-linuxs-error-4294967295/"><u>Overcoming the Mystery of Windows Subsystem for Linux's Error 4294967295</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-typing-hurdles-reinvigorating-the-tab-key-in-windows/"><u>Overcoming Typing Hurdles: Reinvigorating the Tab Key in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment-for-2024/"><u>Pushing the Boundaries  Animated FB Ads That Increase Return on Investment for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>Quick and Easy  How to Transform Your Mobile Device Into a VR Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-insufficient-privilege-install-error-on-win-1110/"><u>Resolving Insufficient Privilege Install Error on Win 11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-lost-d3dx939dll-in-modern-windows-11/"><u>Resolving Lost D3DX9_39.dll in Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-xbox-app-stranded-issue-quickly-on-windows-1011/"><u>Resolving Xbox App 'Stranded' Issue Quickly on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-the-initializing-wow-snag/"><u>Sidestep the Initializing WoW Snag</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-microphone-issues-with-xbox-app-on-pc/"><u>Solutions to Microphone Issues with Xbox App on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-common-issues-with-winservicesexe-quickly/"><u>Solving Common Issues with Winservices.exe Quickly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-latest-update-makes-data-retrieval-effortless-for-users-breaking-news/"><u>Stellar's Latest Update Makes Data Retrieval Effortless for Users - Breaking News!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-failed-windows-app-deployments/"><u>Steps to Address Failed Windows App Deployments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-roblox-crashes/"><u>Strategies to Recover From Roblox Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/subsys-end-prepare-seamless-switch-to-new-android-setup-methods/"><u>Subsys End, Prepare: Seamless Switch to New Android Setup Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-teams-hurdle-80080300-on-win11-systems/"><u>Tackling Microsoft Teams Hurdle #80080300 on Win11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-write-issues-overcoming-folder-lockdowns-in-windows/"><u>Tackling Write Issues: Overcoming Folder Lockdowns in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-shutdown-command-secrete-windows-11s-hideaway/"><u>The Invisible Shutdown Command: Secrete Windows 11'S Hideaway</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-poco-x5-by-fonelab-android-recover-data/"><u>The way to get back lost data from Poco X5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-addressing-sluggish-downloads-on-windows-pcs/"><u>Tips for Addressing Sluggish Downloads on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-powertoys-across-computers/"><u>Unifying PowerToys Across Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-unearth-lost-features-and-tab-for-a-smoother-experience/"><u>Windows 11: Unearth Lost Features and Tab for a Smoother Experience</u></a></li>
+</ul></div>

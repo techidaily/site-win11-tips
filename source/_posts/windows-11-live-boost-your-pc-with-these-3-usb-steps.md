@@ -1,0 +1,230 @@
+---
+title: Windows 11 Live! Boost Your PC with These 3 USB Steps
+date: 2024-08-16T02:44:34.926Z
+updated: 2024-08-17T02:44:34.926Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Windows 11 Live! Boost Your PC with These 3 USB Steps
+excerpt: This Article Describes Windows 11 Live! Boost Your PC with These 3 USB Steps
+keywords: Windows 11 Upgrade Guide,Enhance PC Performance,USB Tips for Windows 11,Speed up PC, Windows 11 Way,Boosting PC with USB Steps,Optimize PC with Windows 11,Windows 11 Performance Improvement
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
+---
+
+## Windows 11 Live! Boost Your PC with These 3 USB Steps
+
+ A Windows 11 bootable USB drive is useful to clean install your OS, or perform an upgrade. A bootable Windows USB also helps you troubleshoot your PC from critical errors and install Windows on multiple PCs offline.
+
+ Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
+
+## Before We Start: How to Download the Windows 11 ISO Image
+
+ To successfully create a Windows 11 USB bootable drive, you will need a Windows 11 ISO file, also known as an [ISO image](https://www.makeuseof.com/what-is-iso/). As such, get this sorted before you proceed to create a bootable USB. You can easily [download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft official website. Here's how to do it:
+
+1. Visit [Microsoft’s official page](https://www.microsoft.com/software-download/windows11) to download Windows 11\.
+2. Scroll down to the **Download Windows 11 Disk Image (ISO) for X64 devices** section.
+3. Click the drop-down menu and select **Windows 11 (multi-edition ISO)**.  
+![download windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso.jpg)
+4. Next, click on the **Download** **Now** button to continue.
+5. The current page will load additional information and show the **Select the product language** section. Click the drop-down for **Choose one** and select your preferred language. Click **Confirm** to continue.  
+![download windows 11 iso choose language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-choose-language.jpg)
+6. When the download section loads, click the **64-bit Download** button.  
+![download windows 11 iso 64 bit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-windows-11-iso-64-bit.jpg)
+7. Your download will begin immediately. However, it may take some time to finish downloading, depending on your Internet speed.
+
+ Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
+
+## 1\. How to Create a Windows 11 Bootable USB Using Rufus
+
+![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ Rufus is an open-source utility to format and create a bootable USB flash drive for the Windows operating system. It's a lightweight utility and offers a few more customization options compared to Microsoft's in-house media creation tool.
+
+ To create a Windows 11 bootable USB drive using Rufus:
+
+1. Visit the [Rufus website](https://rufus.ie/en/) and scroll down to the **Download** section.
+2. Click on the **Rufus link** to download the latest version.
+3. Run the executable file and click **Yes** if prompted by UAC.
+4. Connect your USB flash drive to your PC and wait for Rufus to detect and show it under the **Device** section.
+5. Click the drop-down for **Boot selection** and select **Disk or ISO image.**
+
+1. Then, click the **SELECT** button.
+2. Select the **Windows ISO** file and click **Open**.
+3. Click the drop-down under the **Image option** and select **Standard Windows 11 Installation**.
+4. Leave the **Partition scheme (GPT)** and **Target system (UEFI)** as default.
+5. Under **Volume label**, enter a name for your bootable flash drive.
+6. Leave the **File system** and **Cluster size,** and other options as default.
+7. Make sure the **Quick format** and **Create extended label and icon files** option is checked.
+8. Click the **Start** button to initiate the bootable drive creating process.
+
+ Once done, Rufus will show a success message. Now you can use the [Windows 11 bootable drive to install the OS](http://www.makeuseof.com/how-to-clean-install-windows-11/) on any compatible system.
+
+## 2\. How to Create a Windows 11 Bootable USB Drive Using the Media Creation Tool
+
+ The media creation tool is Microsoft's in-house solution to create an installation media. You can use the media creation tool to create a bootable USB flash drive or download the ISO file to your local drive. Since it needs to download the ISO to create a bootable drive, you cannot use an existing Windows ISO image with this tool.
+
+ To create an installation media using the media creation tool:
+
+1. Connect your USB flash drive of at least 8GB to your PC. Make sure it is detected and you have taken a backup of all the files on your USB drive.
+2. Next, visit the [Microsoft download center](https://www.microsoft.com/software-download/windows11) page.
+3. Under the **Create Windows 11 Installation Media** section, click the **Download Now** button and save the file to your PC.
+4. Next, run the **Mediacreationtool.exe** file and click **Yes** if prompted by UAC. The tool may take a few seconds to launch, so wait till you see the **Setup wizard.**
+5. Click the **Accept button** to agree to the terms.  
+![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
+2. Choose your options and click **Next**.  
+![choose which media to use Media Creation Tool Bootable Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/choose-which-media-to-use.png)
+3. In the **Choose which media to use** window, select **USB flash** drive.
+4. Click the **Next** button.
+5. Select your USB drive from the list of drives available.  
+![select a usb drive media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-a-usb-drive.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+6. Click the **Next** button to continue.
+7. Next, click the **Finish** button.
+
+ Media Creation Tool will now download the necessary Windows 11 files and create an installation media. When the "your USB flash drive is ready" message appears, click the **Finish** button to close the setup wizard. Now you can boot from the USB drive to troubleshoot or [clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/).
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. How to Create a Bootable Drive Using Command Prompt
+
+ If you don’t want to use a third-party tool to create a bootable drive, you can use the Diskpart utility and Command Prompt to create installation media. Here's how to do it.
+
+1. First, take a backup of all the files on your USB drive and then connect it to your PC.
+2. Press the **Win** key, type cmd, **and** click on **Run as Administrator** under **Command Prompt.** You can also use PowerShell if you prefer it over Command Prompt.  
+![disk part windows 11 bootable drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disk-part-windows-11-bootable-drive.png)
+3. In the Command Prompt window, type the following command and hit enter to launch the **Windows Diskpart** utility.  
+`DISKPART`
+4. Next, type the following command to list all the available storage devices:  
+`LIST DISK`
+5. Here, locate your USB drive. You can look at the **Size column** to determine your USB drive. In this case, the USB drive is listed as **Disk 2.**
+
+1. Next, type the following command to select your drive:  
+`SEL DISK 2`
+2. In the above command, change **DISK 2** with the number assigned to your USB drive. For example, if you have a single SSD or SATA drive setup, your primary drive will show as **DISK 0** and USB drive as **DISK 1**. It is of **extreme importance that you select the right drive** as the next step involves wiping clean the selected drive.
+3. Once the drive is erased, type the following command and hit enter to erase all the content from the drive:  
+`Clean`
+4. Next, type the following command to create a primary partition:  
+`Create Partition Primary`
+5. After creating a primary partition, type the following command to select the main partition:  
+`List Par`
+6. Command Prompt will show the details of your USB drive.  
+![format usb drive windows 11 cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/format-usb-drive-windows-11-cmd.png)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Type the following command and hit enter to activate the partition:  
+`Active`
+8. Then type the following command to format the USB drive. It is important to format the drive in NTFS format as the [FAT32 format will cause the incorrect parameter error](https://www.makeuseof.com/windows-fix-parameter-is-incorrect-error/).  
+`FORMAT FS=NTFS LABEL=&ldquo;BootableUSB&rdquo; QUICK OVERRIDE`
+9. Once done, type **Exit** and hit enter to exit the Disk Part utility.
+
+ Now you will need to mount the ISO image and then move its content to your USB drive.
+
+![mount ISO image Windows 11 Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mount-ISO-image-Windows-11-Command-Prompt.png)
+
+1. To do this, type the following command and hit **Enter** to mount the Windows 11 ISO file:  
+`PowerShell Mount-DiskImage -ImagePath "C:\Users\UserName\Downloads\Win11_English_x64v1.iso"`
+2. In the above command, replace the file path with the location of your Windows 11 ISO.  
+![cmd list volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/cmd-list-volume.png)
+3. Once the ISO is mounted, type the following command to launch Diskpart.  
+`Diskpart`
+4. Next, type the following command to show the available volume.  
+`List volume`
+5. This will help you determine the Drive letter for the mounted ISO file. In the **Type column**, the mounted ISO will be listed as **DVD-ROM**. And the **Ltr column** lists the letter associated with the volume. Note down the details of the ISO volume as you will be using it moving forward.  
+![list volume cmd windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/list-volume-cmd-windows-11.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+
+1. Once you have the volume details for the mounted ISO, type the following command to exit Diskpart:  
+`Exit`
+2. Next, type the mounted ISO volume letter and hit enter. For example, if your mounted ISO volume letter is **J**, then type the following command and press Enter.  
+`J:`
+3. Type the following command to boot from CD:  
+`cd boot`
+4. Next, type the following command to apply the master boot code compatible with Bootmgr to the USB flash drive:  
+`Bootsect /nt60 I:`
+5. In the above command, replace **I** with the drive letter associated with your USB flash drive.  
+![copy iso files to usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/copy-iso-files-to-usb-drive.png)
+6. Next, type the following command and hit Enter to copy Windows 11 system files to the USB flash drive:  
+`xcopy J:\*.* I:\ /E /F /H`
+7. In the above command, replace **K:** and **I:** with your **Mounted ISO Volume** and **USB drive** letter, respectively.
+8. The process may take a 5-10 minutes to complete. If the Command Prompt feels stuck, it is normal behaviour, so wait until the process is complete.
+9. If successful, you will see a **Files (s) Copied** message.
+
+ That’s it. Now you can use the USB bootable drive to clean install Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Multiple Ways to Create a Windows 11 Bootable USB Drive
+
+ With its Media Creation Tool, Microsoft makes it easy to create installaltion media. However, if you have a Windows 11 ISO image ready, you can use Rufus or the Command Prompt to create a Windows 11 bootable USB drive quickly. You can use the same to clean install Windows 11 on a new PC, troubleshoot your Windows computer or dual boot Windows 10 with Windows 11\.
+
+ A Windows 11 bootable USB drive is useful to clean install your OS, or perform an upgrade. A bootable Windows USB also helps you troubleshoot your PC from critical errors and install Windows on multiple PCs offline.
+
+ Microsoft makes it easy to create an installation media with its Media Creation Tool. In addition, you can also use Rufus and the Command Prompt to create one. In this guide, we show you the three different ways to create a USB flash drive installer for Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-discovering-instagrams-most-followed-ae-presets/"><u>[New] 2024 Approved  Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-chronicles-cutting-edge-methods-for-saving-your-vr-gaming-journey/"><u>[New] In 2024, Digital Chronicles  Cutting-Edge Methods for Saving Your VR Gaming Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-instagrams-video-upload-feature/"><u>[Updated] 2024 Approved  Unlocking Instagram's Video Upload Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>[Updated] In 2024, A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[Updated] In 2024, Dive Into Social Media Streams  Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-success-snap-up-your-ideal-video-size/"><u>[Updated] In 2024, Instagram Success  Snap Up Your Ideal Video Size</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts-for-2024/"><u>[Updated] The Blueprint for Successful Biographies  Top Tips & Techniques From Experts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-api-essentials-beginners-roadmap-to-implementation/"><u>ChatGPT API Essentials: Beginner's Roadmap to Implementation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-addressing-non-installed-hdd-in-windows-11/"><u>Comprehensive Guide to Addressing Non-Installed HDD in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-11-taskbar-end-task-ability/"><u>Configuring Windows 11 Taskbar: End Task Ability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-to-enhance-windows-high-dpi-scaling/"><u>Effective Fixes to Enhance Windows High DPI Scaling</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ending-paper-shortage-2024-printer-update/"><u>Ending Paper Shortage: 2024 Printer Update</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-slow-performance-in-outriders-step-by-step-troubleshooting/"><u>How to Fix Slow Performance in Outriders - Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-customer-engagement-with-snapchat-tactics/"><u>In 2024, Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v27-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V27 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovation-unbound-ais-impact-on-windows-tech-advances/"><u>Innovation Unbound: AI's Impact on Windows Tech Advances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-win-11-games-in-no-time-the-ultimate-guide-to-boosting-your-playstyle/"><u>Master Win 11 Games in No Time: The Ultimate Guide to Boosting Your Playstyle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-windows-11s-erroneous-update-code-0x80246007/"><u>Mastering Fix for Windows 11'S Erroneous Update Code 0X80246007</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigate-malwares-memory-footprint-in-your-system/"><u>Mitigate Malware's Memory Footprint in Your System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimized-glare-the-top-software-picks-for-windows-multitouch-monitors/"><u>Optimized Glare: The Top Software Picks for Windows Multitouch Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/practicality-meets-elegance-with-the-new-asus-s15-oled/"><u>Practicality Meets Elegance with the New Asus S15 OLED</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-your-digital-footprint-windows-login-guide/"><u>Removing Your Digital Footprint: Windows Login Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-for-setting-up-ms-word-opening-email-attachments-without-edit-options/"><u>Script for Setting Up MS Word: Opening Email Attachments Without Edit Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-thumbnail-dimensions-on-desktop-pics-w11/"><u>Set Thumbnail Dimensions on Desktop Pics W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-storage-with-ntfs-compression-in-win11/"><u>Streamline Storage with NTFS Compression in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-faulty-drives-in-windows/"><u>Streamlining Faulty Drives in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedy-dealing-with-roblox-error-code-262/"><u>Swift Remedy: Dealing with Roblox Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-insufficient-rights-error-during-windows-installation/"><u>Tackling Insufficient Rights Error During Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taskbar-evolution-a-timeline-from-85-to-present/"><u>Taskbar Evolution: A Timeline From '85 To Present</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-drive-camouflage-in-w11w10/"><u>The Art of Drive Camouflage in W11/W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-pc-doesnt-meet-game-bar-issue/"><u>Troubleshooting PC Doesn't Meet Game Bar Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-upgrade-error-xc004f050/"><u>Troubleshooting Windows Upgrade Error Xc004f050</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-off-smartscreen-protection-in-win11-and-11/"><u>Turning Off SmartScreen Protection in Win11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-pinning-to-windows-11-bar/"><u>Unleash Potential: Pinning to Windows 11 Bar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-in-for-immersive-microsoft-teams-sessions/"><u>Zooming In for Immersive Microsoft Teams Sessions</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

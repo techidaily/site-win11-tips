@@ -1,7 +1,7 @@
 ---
 title: Directing WIN Credits to MICROSOFT LOGINS
-date: 2024-07-12T16:35:23.877Z
-updated: 2024-07-13T16:35:23.877Z
+date: 2024-08-16T02:30:28.219Z
+updated: 2024-08-17T02:30:28.219Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
  That said, you can control which types of data you want or don't want to share with the companies. In other words, a Microsoft account is not exactly a direct threat to your privacy if you know how to use it. If you're still worried, learn [how to make your data worthless to big tech companies](https://www.makeuseof.com/how-to-minimize-big-tech-data-collection/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Link Your Windows Product Key to a Microsoft Account
 
  To link your Windows product key to a Microsoft account, you need an active internet connection so your PC can talk to Microsoft's servers. Assuming you're currently online, let's dive into the steps:
@@ -39,14 +43,24 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 3. Click **Your info** in **Account settings**.
 4. Click the **Sign in with a Microsoft account instead** link in **Account settings**.  
 ![Screenshot showing sign in with a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-in.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 5. Type your Microsoft account credentials to complete the linking.
 
  You can create a Microsoft account from the Settings app if you don't have one. On **Your info** page in the Settings app, you'll find the link to create a Microsoft account under **Related support**.
 
  Click on the link to open the relevant web page in Microsoft Edge, from where you can create a new Microsoft account. If you're running Windows 10, [connect your Microsoft account to your PC](https://www.makeuseof.com/tag/how-to-connect-a-microsoft-account-to-windows-10/) before you continue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Know if Your Windows Product Key Is Linked to Your Microsoft Account
 ![Screenshot showing Windows 11 activation page in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-activation.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  Before jumping to the steps, check if your Windows product key is already linked to your Microsoft account. The process is simple and won't take much of your time.
 
@@ -58,6 +72,18 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
  If you're running Windows 10, hit the Start menu, type Windows Activation, and check your activation status. You'll see the same message as above if yours is already linked to the Microsoft account.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Your Windows Product Key Is Now Linked to Your Microsoft Account
 
  Many Windows users are least bothered about Windows activation because it's possible to run Windows with some limitations without needing a genuine product key. But an activated version of Windows is far superior to the one that's not activated.
@@ -75,3 +101,42 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-direct-download-vs-alternative-store-instagram-reels-efficiently-for-2024/"><u>[New] Direct Download vs Alternative  Store Instagram Reels Efficiently for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-steam-with-your-switch-pro-controller/"><u>[New] In 2024, Navigating Steam With Your Switch Pro Controller</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-teenyvid-viewers-assessment-on-screenshots-for-2024/"><u>[New] TeenyVid Viewer's Assessment on Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] 2024 Approved  Mega-Popular YouTube Vids  Everlasting Titles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-video-impact-post-upload-edit-tips-for-youtube/"><u>[Updated] In 2024, Maximizing Video Impact  Post-Upload Edit Tips for YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pro-screen-recording-tool-for-successful-youtubers/"><u>[Updated] Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-the-windows-services-tool-when-it-wont-open-or-respond/"><u>7 Ways to Fix the Windows Services Tool When It Won't Open or Respond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-advanced-taskbar-features-in-windows-11/"><u>Activating Advanced Taskbar Features in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-a-convenient-upgrade-notification-toolbar-in-windows-1111/"><u>Adding a Convenient Upgrade Notification Toolbar in Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11s-code-0x0000004e-hurdle/"><u>Addressing Windows 11'S Code 0X0000004E Hurdle</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aetherial-acts-the-vr-stage-for-2024/"><u>Aetherial Acts  The VR Stage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boundary-setting-for-insider-release-access/"><u>Boundary Setting for Insider Release Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-network-gaps-win-10-and-11-written-for-telnet-users/"><u>Bridging Network Gaps: Win 10 & 11' Written for Telnet Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-tutorial-making-sense-of-blue-screen-in-w11/"><u>Comprehensive Tutorial: Making Sense of Blue Screen in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-winning-software-for-the-ultimate-pc/"><u>Discover Winning Software for the Ultimate PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ram-management-for-effective-cross-platform-communication/"><u>Efficient RAM Management for Effective Cross-Platform Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excelling-at-windows-11-desktop-image-standards/"><u>Excelling at Windows 11 Desktop Image Standards</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-all-you-need-to-know-about-the-arlo-video-doorbell-with-built-in-alarm-feature/"><u>Expert Analysis: All You Need to Know About the Arlo Video Doorbell with Built-In Alarm Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-vocal-expressions-to-written-words-with-windows-whisper/"><u>From Vocal Expressions to Written Words with Windows Whisper</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-reno-8t-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Reno 8T Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-aggregatorhostexe-in-windows-secure-exploring-its-role/"><u>Is AggregatorHost.exe in Windows Secure? Exploring Its Role</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-pc-chips-identifying-gen-through-windows-8-ways/"><u>Navigating the World of PC Chips – Identifying Gen Through Windows (8 Ways)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>Perfect Your Pics  Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-problem-solving-in-windows-1011-with-shortcuts/"><u>Personalizing Problem-Solving in Windows 10/11 with Shortcuts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/professional-insights-top-10-igtv-pros-for-2024/"><u>Professional Insights  Top 10 IGTV Pros for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapidly-engageturn-off-bings-ai-window-chat/"><u>Rapidly Engage/Turn Off Bing's AI Window Chat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-low-usb-controller-limitation-error/"><u>Remedying “Low USB Controller Limitation” Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-sign-out-failures-from-non-standard-windows-applications/"><u>Resolving Sign-Out Failures From Non-Standard Windows Applications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/review-vlcs-capability-to-record-screens/"><u>Review  VLC's Capability to Record Screens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-event-viewer-issues-on-windows-11/"><u>Solving Event Viewer Issues on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synchronizing-sound-pathways-resolving-paudio-in-winaudacity/"><u>Synchronizing Sound Pathways: Resolving PAudio in WINAudacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-streamlining-display-with-adjusted-desk-icons/"><u>Title: Streamlining Display with Adjusted Desk Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-pasting-feature-in-chrome-edge-firefox-oses/"><u>Unblocking Pasting Feature in Chrome, Edge, Firefox OSes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-(connector)-10-deactivating-touchpad-with-an-external-mouse-attached/"><u>Windows <Connector> 10: Deactivating Touchpad with an External Mouse Attached</u></a></li>
+</ul></div>

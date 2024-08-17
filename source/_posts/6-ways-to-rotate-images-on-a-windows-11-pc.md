@@ -1,7 +1,7 @@
 ---
 title: 6 Ways to Rotate Images on a Windows 11 PC
-date: 2024-07-12T17:58:22.244Z
-updated: 2024-07-13T17:58:22.244Z
+date: 2024-08-16T01:09:48.651Z
+updated: 2024-08-17T01:09:48.651Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 2. Double-click an image within **All Photos** to view it in a second window.
 3. Click the **Rotate** button or press **Ctrl** \+ **R**.  
 ![The basic rotation option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Press the **Save as copy** button. Or you can click that button’s small arrow to select a **Save** option that overwrites the file.
 
  Or you can select alternative clockwise or anticlockwise rotation options. To do so, press the **Edit image** button beside the **Rotate** option in Photos. Then click the **Rotate image 90 degrees clockwise** or **Rotate image 90 degrees anticlockwise** options.
@@ -75,14 +78,27 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 3. Click Google’s **Images** tab.
 4. Right-click a picture thumbnail and select **Edit image**.  
 ![The Edit image option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-image-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 6. Click **Save** to download the rotated image.
 
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 5\. How to Rotate Images With Online Image Tool
 
  You can rotate images without installing software with the Online Image Tool web app. Unlike Edge’s image editor, that tool enables you to upload pictures on your PC for rotation. Plus, you can upload more than one file at a time to rotate multiple images in batches. This is how you can rotate photos with the Online Image Tool in a Windows browser:
@@ -95,16 +111,25 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 ![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Click **Save All** to download the rotated images.
 
  Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 6\. How to Rotate Images With IrfanView
 
  IrfanView is a nifty image viewer app for Windows platforms that’s freely available. That app includes a custom rotation feature for rotating images at angles other than 90 or 180 degrees. You can install IrfanView and rotate images with that app like this:
 
 1. Open this [IrfanView webpage](https://www.irfanview.com/64bit.htm) and download the app.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
 3. Open IrfanView by double-clicking its desktop shortcut.
 4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
@@ -115,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
  If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
 
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rotate Images for a Better Orientation in Windows 11
 
@@ -131,3 +159,44 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadview-networks-navigating-mcn-choices-for-2024/"><u>[New] Broadview Networks  Navigating MCN Choices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-honesty-in-high-definition-reviewing-recordcasts-efficacy-for-2024/"><u>[New] Honesty in High-Definition  Reviewing RecordCast's Efficacy for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-share-the-screen-with-zoom/"><u>[Updated] 2024 Approved  How to Share the Screen with Zoom</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-enhance-your-tiktok-viewing-experience/"><u>[Updated] In 2024, Enhance Your TikTok Viewing Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-essence-of-timelessness-instagrams-slow-motion-guide-for-2024/"><u>[Updated] The Essence of Timelessness  Instagram's Slow-Motion Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/craft-your-pc-reboot-journey-with-these-trios/"><u>Craft Your PC Reboot Journey with These Trios</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-to-the-core-how-to-fix-win-error-31-in-windows/"><u>Cutting to the Core: How to Fix WIN Error 31 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/device-disconnection-remedy-with-dxgi-error-solution/"><u>Device Disconnection Remedy with DXGI Error Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-access-windows-troubleshooting-with-hotkeys/"><u>Efficient Ways to Access Windows Troubleshooting with Hotkeys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-error-0x80246007-in-updater-for-windows-1011/"><u>Eliminating Error 0X80246007 in Updater for Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-windows-user-sign-in-after-setbacks/"><u>Enabling Windows User Sign-In After Setbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/examining-disks-understanding-the-c-and-d-narrative/"><u>Examining Disks: Understanding the C & D Narrative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-quick-uninstall-of-win11-printers/"><u>Expert Guide: Quick Uninstall of Win11 Printers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g733-microphone-issues-troubleshooting-tips/"><u>Fixing Logitech G733 Microphone Issues: Troubleshooting Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/freeing-up-windows-file-access-disable-read-lock/"><u>Freeing Up Windows File Access: Disable Read-Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/glitch-free-windows-try-these-10-fixes-first/"><u>Glitch-Free Windows? Try These 10 Fixes First</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-admin-policy-block-in-windows-software-setup/"><u>How to Bypass 'Admin Policy' Block in Windows Software Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y27s-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y27s Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-download-and-update-directx-on-your-pc/"><u>How to Download and Update DirectX on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oneplus-nord-n30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminating-insights-a-visual-notetaking-journey-with-obsidian/"><u>Illuminating Insights: A Visual Notetaking Journey with Obsidian</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>In 2024, Maximizing Your Tech Efforts  A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-sudden-screen-darkening-in-windows-gaming/"><u>Mitigating Sudden Screen Darkening in Windows Gaming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-cut-mkv-files-for-free-top-10-tools-you-need/"><u>New In 2024, Cut MKV Files for Free Top 10 Tools You Need</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-in-package-registration-on-windows-1011/"><u>Overcoming Obstacles in Package Registration on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-stubborn-shift-on-pc/"><u>Quick Fixes for Stubborn Shift on PC.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-device-opens-on-audacity-in-windows-os/"><u>Remedying Device Opens on Audacity in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/security-first-in-upgrade-to-windows-11/"><u>Security First in Upgrade to Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-essential-techniques-for-managing-windows-folders/"><u>Simplify Your System: Essential Techniques for Managing Windows Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smarter-operating-systems-ais-role-in-windows-revolution/"><u>Smarter Operating Systems: AI's Role in Windows Revolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-solve-other-application-happens-with-sound-errors/"><u>Steps to Solve Other Application Happens with Sound Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-unwanted-snipping-tool-startup-with-print-screen-on-win-11-pcs/"><u>Stop Unwanted Snipping Tool Startup with Print Screen on Win 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-easy-way-to-manage-your-stickies-across-devices/"><u>The Easy Way to Manage Your Stickies Across Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-step-by-step-guide-to-convert-your-voice-into-written-words-on-windows/"><u>The Step-by-Step Guide to Convert Your Voice Into Written Words on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-potential-of-android-and-windows-11-as-one-display/"><u>Unleashing the Potential of Android and Windows 11 as One Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-software-to-supercharge-macos-functionality/"><u>Utilizing Windows Software to Supercharge macOS Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-users-prefer-cleaner-start-menus/"><u>Windows 11 Users Prefer Cleaner Start Menus</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Seamless Implementation of Updater in WIN11 Version 22H2
-date: 2024-07-12T16:38:55.803Z
-updated: 2024-07-13T16:38:55.803Z
+date: 2024-08-16T02:27:54.367Z
+updated: 2024-08-17T02:27:54.367Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 ![The Run button for Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-run-button-for-windows-update-1.jpg)
 5. Wait for the troubleshooter to detect issues and display an outcome. It will usually automatically apply fixes for detected issues.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Disconnect Non-Essential External Hardware and Peripherals From PC
 
  It's recommended that users unplug non-essential hardware from PCs before attempting to upgrade to a new Windows 11 version. Doing so will ensure that there aren't any non-essential hardware devices that can potentially interrupt or conflict with the upgrade process. You'll still need your mouse and keyboard of course, but disconnect all the following non-essential peripherals:
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 * Microphones
 * Secondary monitors (you only need one)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. Run a System File and Deployment Image Scan
 
  System file corruption can cause Windows update errors to arise. You can check for and remedy corrupted files by running a System File Checker scan in the Command Prompt. It’s also recommended to run a Deployment Image Servicing and Management scan to check the system image before that. This is how to run both scanning tools in Windows 11.
@@ -74,9 +80,15 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 1. Open Windows 11’s Services utility. You can check out our [how-to-open Services guide](https://www.makeuseof.com/windows-11-open-services-app/) for further instructions.
 2. Double-click**Windows Module Installer** to view a properties window for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-modules-installer-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select the**Automatic** start option for the service on its**Startup type** drop-down menu.
 4. Click**Start** on the properties window if the service isn’t running.  
 ![The Windows Modules Installer service properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/a-service-properties-window-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 5. Select**Apply** \>**OK** to set the service’s settings.
 6. Repeat the previous four steps for the Background Intelligent Transfer Service, Cryptographic Service, and Windows Update services.
 
@@ -89,11 +101,17 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 3. Click the**Turn Windows features on or off** applet in the search tool.
 4. Select the**.NET Framework 3.5** checkbox if that feature isn’t enabled.  
 ![The Windows Features window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-windows-features-window-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Also, click the**.NET Framework 4.8** checkbox if it’s not selected.
 6. Press the**OK** button in the Windows Features window.
 7. Then click**Yes** to install.
 8. Restart Windows 11 after installing the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Reset the Components for Windows Update
 
  Windows 11 22H2 update issues can also arise because of corrupted update components. You can repair the update components by resetting them. This troubleshooting method involves restarting update services and refreshing the catroot2 and SoftwareDistribution folders by renaming them. You can reset components for Windows updates with the Command Prompt like this:
@@ -117,6 +135,9 @@ net start cryptSvc
 net start msiserver`
 6. Close Command Prompt, and select**Restart** on your Start menu.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Turn Off Third-Party Antivirus Utilities
 
  Some third-party antivirus utilities can mistakenly interfere with the update process for Windows 11’s 22H2 update. To stop this from happening, disable real-time scanning for third-party antivirus software.
@@ -140,6 +161,10 @@ net start msiserver`
  A Driver Booster scan will show you what devices on your PC have antiquated drivers. You can also select an**Update Now** option in that software to update the drivers for listed devices. Our [Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software.
 
 ![Driver Booster 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-booster2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 
  Alternatively, you may be able to install some new drivers with optional Windows updates. This is how you can check available optional updates in Windows 11:
 
@@ -149,12 +174,18 @@ net start msiserver`
 4. Select the checkboxes for driver updates there.
 5. Click the**Download and install** option for selected driver updates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 11\. Install the 22H2 Update via the Installation Assistant
 
  This final resolution is more of a workaround than a fix for the 22H2 update not installing via Settings. Instead of using Settings, try upgrading with the Windows 11 Installation Assistant. We have a full guide that tells you [how to use the Installation Assistant](https://www.makeuseof.com/windows-11-installation-assistant-guide/) for updating Windows 11.
 
 ![The Windows 11 Update Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-windows-11-update-assistant.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Windows 11 2022 Update
 
  Those possible solutions will likely resolve most 22H2 update errors for the majority of users. The resolutions on Microsoft’s [Windows update troubleshooting](https://support.microsoft.com/en-us/windows/troubleshoot-problems-updating-windows-188c2b0f-10a7-d72f-65b8-32d177eb136c#WindowsVersion=Windows%5F11) page might also help some users fix Windows 11’s 22H2 update not installing. With that issue fixed, you can discover all the interesting new features and options in the Windows 11 2022 Update.
@@ -177,3 +208,46 @@ net start msiserver`
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ccelerate-youtube-visibility-select-top-8-rank-watchers-for-2024/"><u>[New] Accelerate YouTube Visibility - Select Top 8 Rank Watchers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-end-to-start-on-instagram-vids-guide/"><u>[New] From End to Start on Instagram Vids [Guide]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-virtual-language-basics/"><u>[New] Navigating Virtual Language Basics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>[New] Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-ecstasy-of-entertainment-top-10-insane-tiktok-gaming-quests/"><u>[Updated] 2024 Approved  Ecstasy of Entertainment  Top 10 Insane TikTok Gaming Quests</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-video-caption-implementation-on-vimeo/"><u>[Updated] Mastering Video Caption Implementation on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-subjects-with-stealthy-image-alteration/"><u>[Updated] Secure Subjects with Stealthy Image Alteration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-video-strategy-tubebuddys-guide-for-2024/"><u>[Updated] Streamline Your Video Strategy  TubeBuddy's Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-chatgpt-tips-and-techniques/"><u>Boost Your Interview Skills Using ChatGPT - Tips and Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/contrast-in-connectivity-tackling-pcs-lag-on-laptops/"><u>Contrast in Connectivity: Tackling PC's Lag on Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracts-for-sudden-windows-notepad-shutdowns/"><u>Counteracts for Sudden Windows Notepad Shutdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curbing-cpu-fatigue-adjusting-the-workload-of-vanguards-sleep-service/"><u>Curbing CPU Fatigue: Adjusting the Workload of Vanguard's Sleep Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-icon-placement-repair/"><u>Effective Strategies for Icon Placement Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-management-for-win11-users/"><u>Efficient File Management for Win11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-mend-windows-store-error-0x0-failure/"><u>Expert Tips to Mend Windows Store Error 0X0 Failure</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-lisbon-to-rio-de-janeiro-eu-and-south-american-portunol/"><u>From Lisbon to Rio De Janeiro: EU and South American Portuñol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-plain-in-windows-11-shapes/"><u>Getting Plain in Windows 11 Shapes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-1-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 1 V Phone Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-customize-windows-11s-default-screensavers/"><u>How to Customize Windows 11'S Default Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manually-check-your-windows-pc-for-signs-of-spyware-or-hacking/"><u>How to Manually Check Your Windows PC for Signs of Spyware or Hacking</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>In 2024, Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-friends-across-networks-instagram-plus-facebook/"><u>Making Friends Across Networks  Instagram + Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-moves-fixed-tips-to-overcome-windows-lags-in-sw-battlefront-2/"><u>Master Your Moves: Fixed Tips to Overcome Windows Lags in SW Battlefront 2</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps-for-2024/"><u>New How To Make Talking Emoji on iPhone in Easy Steps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-installation-blocks-in-the-windows-store/"><u>Overcoming Installation Blocks in the Windows Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prepared-participation-test-your-pcs-microphone-webcam/"><u>Prepared Participation: Test Your PC’s Microphone, Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preparing-vbox-on-win-prioritize-deps-for-smooth-setup/"><u>Preparing VBox on Win: Prioritize Deps for Smooth Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approaches-to-linux-in-windows-mastering-wsl-2-techniques/"><u>Proactive Approaches to Linux in Windows: Mastering WSL 2 Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-loading-issue-for-amds-detection-driver-in-win10/"><u>Resolved Loading Issue for AMD's Detection Driver in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-and-personalize-window-11s-search-interface/"><u>Revamp and Personalize Window 11'S Search Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-navigation-through-windows-11s-component-tools/"><u>Seamless Navigation Through Windows 11'S Component Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-curtail-tiworkerexe-power-draw/"><u>Techniques to Curtail TiWorker.exe Power Draw</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essentials-of-boot-into-windows-repair/"><u>The Essentials of Boot Into Windows Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-functional-discord-overlays-in-windows-os/"><u>Troubleshooting Non-Functional Discord Overlays in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-error-x7e1-in-windows-10/"><u>Unblocking Error X7E1 in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-user-identities-navigating-sid-retrieval-in-windows-11/"><u>Unveiling User Identities: Navigating SID Retrieval in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-pc-6-methods-for-discovering-its-identity/"><u>Unveiling Your PC: 6 Methods for Discovering Its Identity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-disk-structure-c-vs-d-in-focus/"><u>Windows Disk Structure: C vs D in Focus</u></a></li>
+</ul></div>

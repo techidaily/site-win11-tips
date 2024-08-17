@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your PC: Bloatware Removal in Windows 11"
-date: 2024-07-12T17:36:25.278Z
-updated: 2024-07-13T17:36:25.278Z
+date: 2024-08-16T01:31:51.746Z
+updated: 2024-08-17T01:31:51.746Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 ## What Is Bloatware, and Which Apps Should You Uninstall?
 
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As mentioned, bloatware is a term for apps you don’t want or need, but that come pre-installed on your Windows PC. These could be Microsoft apps the company pushes, like Microsoft Teams or the Mail and Calendar app. Or it could be third-party apps from your device manufacturer—this is especially prevalent among pre-built computers and laptops.
 
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Uninstall Bloatware Using Windows 11 Settings
 
  The easiest way to remove bloatware is [through the Windows 11 Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/). As long as you know where to go, uninstalling bloatware (or any app, for that matter) on Windows 11 is quick and simple:
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 1. Press **Win + I**, or click the **Cog** icon on the Start menu, to open Settings.
 2. In the sidebar, click **Apps,** then choose **Installed apps**.  
 ![Windows 11 Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Under the **Installed apps** window, find the app you want to remove.
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 2. Find the app you want to remove by scrolling the app list or typing its name in the search bar.
 3. Right-click on the app and choose **Uninstall**.  
 ![Uninstall an app from the Windows 11 Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstall-an-app-from-the-windows-11-start-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. You will then see a pop-up box asking you to confirm app uninstallation; click **Uninstall** once again, and the app will be removed.
 
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
@@ -95,17 +107,29 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 1. Open the Windows Settings app.
 2. In the sidebar, click on **System**, then choose **Recovery**.  
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 3. Click on **Reset PC**.  
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 4. In the Reset this PC window, choose **Remove everything**.
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
 7. If you have any unwanted apps installed on other drives, ensure that the slider under **Delete files from all drives?** is set to **Yes, all drives**. Be careful though, as this will erase all drives connected to your PC. Don't accidentally erase external drives where you store pictures and the like!  
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 8. Once you’ve confirmed this setting, hit **Next**.
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you click the reset button, your computer will execute a Windows 11 clean install. This will remove most third-party bloatware, although you’ll still need to remove unwanted Windows apps manually. Alternatively, you can [cleanly install Windows 11 from an ISO](https://www.makeuseof.com/how-to-clean-install-windows-11/) file to ensure a truly fresh installation.
 
@@ -120,3 +144,65 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-3-top-picks-of-voice-capture-apps-for-your-ipad/"><u>[New] 2024 Approved  3 Top Picks of Voice Capture Apps for Your iPad</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficient-ways-to-download-and-store-youtube-like-tweet-videos-for-2024/"><u>[New] Efficient Ways to Download and Store YouTube-Like Tweet Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-master-the-art-of-9gag-memes-tips-for-creativity-and-impact/"><u>[New] Master the Art of 9GAG Memes  Tips for Creativity and Impact</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-parody-basics-tips-for-entertaining-mocks/"><u>[New] Parody Basics  Tips for Entertaining Mocks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed/"><u>[New] The Ultimate Guide to Boosting Sale Traffic  Top 15 FB Analysis Tools Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-art-of-color-grading-employing-luts-from-cg-central/"><u>[Updated] 2024 Approved  The Art of Color Grading  Employing LUTs From CG Central</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-method-retain-tweets-video-on-your-android-gadget-for-2024/"><u>[Updated] Quick Method  Retain Tweets' Video on Your Android Gadget for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-viral-hit-list-tiktok-edition/"><u>[Updated] Twitter's Viral Hit List  TikTok Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-list-film-preview-shorts/"><u>2024 Approved  A-List Film Preview Shorts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-flawless-display-with-win11-settings/"><u>Achieve Flawless Display with Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-game-bar-errors-on-underpowered-systems/"><u>Addressing Game Bar Errors on Underpowered Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-local-user-policies-a-guide-to-windows-11-and-11-systems/"><u>Adjusting Local User Policies: A Guide to Windows 11 & 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-what-sets-ai-hardware-on-a-distinct-path/"><u>Analyzing What Sets AI Hardware on a Distinct Path</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-laptop-onoff-trick-for-energy-conservation/"><u>Boost Your Laptop: On/Off Trick for Energy Conservation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-the-barrier-win-solution-for-epic-games-access/"><u>Bypassing the Barrier: Win Solution for Epic Games Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-personalized-secure-locks-for-windows-11/"><u>Designing Personalized Secure Locks for Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elite-6-magnates-colossal-nlp-experts-spotlighted/"><u>Elite 6 Magnates: Colossal NLP Experts Spotlighted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-footage-excellence-with-these-best-apps-for-windows-11/"><u>Enhance Footage Excellence with These Best Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-pathways-to-launching-windows-fix/"><u>Essential Pathways to Launching Windows FIX</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-systems-analyzers-for-windows/"><u>Essential Systems Analyzers for Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flickvista-app-performance-index/"><u>FlickVista App Performance Index</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/harsh-examination-jabras-robust-headsets/"><u>Harsh Examination: Jabra's Robust Headsets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-control-file-explorer-display-options-windows-11/"><u>How to Control File Explorer Display Options (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cut-out-onedrive-from-your-pcs-file-explorer-screenshot/"><u>How to Cut Out OneDrive From Your PC's File Explorer Screenshot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-disabled-windows-application/"><u>How to Enable Disabled Windows Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-xbox-game-pass-0x00000001-error-in-windows-10-and-11/"><u>How to Fix the Xbox Game Pass 0X00000001 Error in Windows 10 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Infinix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-ps-3d-luts-for-exceptional-image-grading/"><u>In 2024, In-Depth Exploration of PS 3D LUTs for Exceptional Image Grading</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-inverting-screen-time-with-android-videos/"><u>In 2024, Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-11s-snip-and-sketch-shortcut/"><u>Launching Windows 11'S Snip & Sketch Shortcut</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-winerror-0xc0000005/"><u>Mastering the Art of Fixing WinError 0Xc0000005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-style-installation-and-usage-of-ms-store-themes/"><u>Navigate With Style: Installation and Usage of MS Store Themes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-launchers-security-failures-on-windows-systems/"><u>Navigating Launcher's Security Failures on Windows Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>New 2024 Approved Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-level-windows-photos-shortcut-guide/"><u>Pro-Level Windows Photos Shortcut Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722208444845-ready-for-chatgpt-on-windows-or-macos-opt-for-an-incredible-free-and-open-source-replacement-now/"><u>Ready for ChatGPT on Windows or macOS? Opt for an Incredible Free and Open-Source Replacement Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faded-screen-settings-in-uefi/"><u>Restoring Faded Screen Settings in UEFI</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-an-overview-of-facebook-twitter-instagram-and-youtube-features/"><u>Social Media Titans: An Overview of Facebook, Twitter, Instagram & YouTube Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-commands-to-access-pc-health-stats/"><u>Step-by-Step Commands to Access PC Health Stats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-reverse-winerror-exit-point-failure/"><u>Steps to Reverse WinError Exit Point Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-instructions-for-installing-chrome-on-windows-11/"><u>Stepwise Instructions for Installing Chrome on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-1053-unresponsive-service-issue/"><u>Tackling Windows Error 1053: Unresponsive Service Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-extend-wait-time-before-shutting-down-in-windows-10/"><u>Tactics to Extend Wait Time Before Shutting Down in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/timely-tactics-effective-execution-of-ping-commands/"><u>Timely Tactics: Effective Execution of Ping Commands</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-8-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 8 Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-windows-schedule-breakdown-quickly/"><u>Troubleshoot Windows Schedule Breakdown Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-windows-note-taking-aids/"><u>Ultimate List of Windows Note-Taking Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-obs-errors-windows-edition/"><u>Understanding and Solving OBS Errors: Windows Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-management-features-for-maximum-efficiency/"><u>Unlocking Power Management Features for Maximum Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-are-windows-cab-files-and-how-do-you-install-them/"><u>What Are Windows CAB Files and How Do You Install Them?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-yourphoneexe-phone-link-in-windows-1110-should-you-disable-it/"><u>What Is YourPhone.exe (Phone Link) in Windows 11/10? Should You Disable It?</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 6? | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-notepad-blockade-uncover-the-7-pathways-to-access-it-again/"><u>Windows Notepad Blockade: Uncover the 7 Pathways to Access It Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-editorial-techniques-select-from-the-top-8-video-trimming-titles/"><u>Winning Editorial Techniques: Select From The Top 8 Video Trimming Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-efficient-wsl-2-on-windows/"><u>Winning Strategies for Efficient WSL 2 on Windows</u></a></li>
+</ul></div>
