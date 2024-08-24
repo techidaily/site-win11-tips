@@ -1,0 +1,201 @@
+---
+title: Mastering Folder Inclusion in Win11's Context Menu
+date: 2024-08-23T07:00:13.473Z
+updated: 2024-08-24T07:00:13.473Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Mastering Folder Inclusion in Win11's Context Menu
+excerpt: This Article Describes Mastering Folder Inclusion in Win11's Context Menu
+keywords: Win11 Context Menu Tips,Folder Add-On Guide,Win11 Context Advice,Menu Folder Techniques,Context Menu Winning Tricks,Mastering Win11's Tools,Inclusion Tactics for Windows 11
+thumbnail: https://thmb.techidaily.com/a15aaf86d9e6f286629da1a62d56aaff3df86baa99afaf09eec0439a28bfe3f5.jpg
+---
+
+## Mastering Folder Inclusion in Win11's Context Menu
+
+ The context menu is a handy menu you can open in Windows 11 by clicking the right mouse button on the desktop or in File Explorer. That menu consists of two parts in Windows 11, and you can customize its secondary classic menu with registry hacks and third-party software packages in many ways. Here we’ll be looking at how you can add context menu folder shortcuts with the MyFolders and Right Click Context Menu Adder apps.
+
+## How to Add Folders to Windows 11’s Context Menu With MyFolders
+
+ MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
+
+1. First, open the[MyFolders](https://www.coretechnologies.com/products/MyFolders/) webpage.
+2. Click the**Download Completely Free** button.
+3. Next, click File Explorer’s shortcut on Windows 11’s taskbar; and navigate to the directory where the**MyFolders\_Installer.exe** setup file was downloaded.
+4. Double-click**MyFolders\_Installer.exe** to view the MyFolders setup window.
+5. Select**Next** to continue to the user information step.
+6. Enter a name or email address within the**User Name** box, and click**Next** again.  
+![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
+7. Select**Next** two more times, and then click MyFolders’**Install** option.  
+![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
+8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
+
+Once your PC has restarted:
+
+1. Sign in to the user account in which you installed MyFolders within.
+2. Then open MyFolders by clicking**Start** \>**All apps** . Select**MyFolders** \>**Configure MyFolders** to view the app’s window.
+3. Click the**Add** button.  
+![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
+4. Choose a directory to add to the context menu and select the**OK** option.
+5. Click**Done** to exit the MyFolders window.
+
+### How to Use MyFolders
+
+ Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
+
+![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
+
+ Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
+
+ The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
+
+![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
+
+ To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
+
+ Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
+
+ You can extract Right Click Context Menu Adder’s archive with 7-Zip like this:
+
+1. Open the[7-Zip File Manager](https://www.7-zip.org/) download page.
+2. Select the**Download** option for 7-Zip’s 64-bit Windows version, and then double-click the**7z2201-x64.exe** setup file within the folder that includes it.
+3. Click**Install** within the 7-Zip setup window.
+4. Open the[Right Click Context Menu Adder](https://www.softpedia.com/get/System/OS-Enhancements/Right-Click-Context-Menu-Adder.shtml#sgal%5F0) download page.
+5. Click**Download** to view the two location options.
+6. Select the**External Mirror** or**Softpedia Secure Download (US)** option. The US option is better for users in North America.
+7. Then launch the 7-Zip software.
+8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
+![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
+9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
+10. Press the**OK** button to extract the RAR archive.
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+11. Exit the 7-Zip software.
+
+ After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
+
+1. Use one of the many[ways to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+2. Open the extracted Right Click Context Menu Adder folder.
+3. Double-click the Right Click Context Menu.exe file.
+4. Click the**Folder** radio button.  
+![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
+5. Press the**Choose Folder** button.
+6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
+7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
+8. Press the**Add to Context Menu** button.
+
+ Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
+
+![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Tweak Right Click Context Menu Adder
+
+ There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
+
+ You can change the shortcut's label by entering something different in the**Text On Menu** box. If you select**Show only when Shift key** is pressed, the shortcut will only be visible if you activate the context menu with the**Shift** key pressed.
+
+ An**Enable Aero Glass** setting is selected by default in Right Click Context Menu Adder. That setting can make this software’s tab text somewhat unclear in Windows 11\. So, it’s best to disable that option by selecting the**Settings** tab (the third one from the right) and deselecting the**Enable Aero Glass** checkbox. Then the tabs will have clear black text.
+
+![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
+
+![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Open Your Most Important Folders From the Windows 11 Context Menu
+
+ MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-methods-for-capturing-your-playtime/"><u>[New] 2024 Approved  Cutting-Edge Methods for Capturing Your Playtime</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-everyday-narratives-gratuitous-facebook-enhancers/"><u>[New] Elevate Everyday Narratives  Gratuitous Facebook Enhancers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gentle-fading-audio-paths-in-live/"><u>[New] Gentle Fading Audio Paths in Live</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-upload-recycling-101/"><u>[New] Instagram Upload Recycling 101</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model-for-2024/"><u>[Updated] Crafting a Cash Cascade on YouTube  Strategies Beyond the Ad Model for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trimming-tactics-for-time-strapped-youtubers/"><u>[Updated] Trimming Tactics for Time-Strapped YouTubers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-memes-made-simple-our-meme-kit/"><u>2024 Approved  No-Cost Memes Made Simple  Our Meme Kit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-12t-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 12T Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-mp3s-from-instagram-the-easy-methodology-for-2024/"><u>Crafting Mp3s From Instagram  The Easy Methodology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-forward-hotkeys-for-fast-clicking/"><u>Drive Efficiency Forward: Hotkeys for Fast Clicking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-car-tools-for-efficient-windows-use/"><u>Essential Car Tools for Efficient Windows Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-fix-guide-for-win1011s-corrupted-bin-errors/"><u>Essential Fix Guide for WIN10/11's Corrupted Bin Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-fs-apps-crowd-picked-winners/"><u>Essential Windows FS Apps: Crowd-Picked Winners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-vs-msi-understanding-file-distinctions/"><u>EXE vs MSI: Understanding File Distinctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-hide-taskbars-search-in-windows-11/"><u>Expert Tips: Hide Taskbar's Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/full-hd-classics-unlocked-the-perfect-scummvm-techniques-for-windows-users/"><u>Full HD Classics Unlocked: The Perfect ScummVM Techniques for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixing-a-frozen-control-key-in-win11/"><u>Guiding You Through Fixing a Frozen Control Key in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-spotify-autoplay-behavior-on-windows-pcs/"><u>Halt Spotify Autoplay Behavior on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-and-replace-outdated-windows-drivers/"><u>How to Find and Replace Outdated Windows Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-display-not-turning-on-when-booting-up-windows/"><u>How to Fix a Display Not Turning On When Booting Up Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f14-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F14 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-notifications-not-working-on-windows/"><u>How to Fix Outlook Notifications Not Working on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-browsers-pasting-feature-across-pcs/"><u>Improving Browsers' Pasting Feature Across PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-converting-insta-videos-to-mp3-a-comprehensive-overview/"><u>In 2024, Converting Insta Videos to MP3 - A Comprehensive Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-c210-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia C210 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-omnipotent-options-in-windows-11/"><u>Incorporating Omnipotent Options in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-into-system32-folder-of-win11/"><u>Journey Into System32 Folder of Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-key-harmony-5-steps-for-windows-error-resolution/"><u>Mastering Network Key Harmony: 5 Steps for Windows Error Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-printer-troubles-reactivating-missing-wwinplusp-on-windows/"><u>Mastering Printer Troubles: Reactivating Missing WWin+P on Windows.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mobile-mastery-saving-igtv-videos-on-your-device/"><u>Mobile Mastery  Saving IGTV Videos on Your Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-win-11-edge-security-using-ms-defender-application-guard/"><u>Optimize Win 11 Edge Security Using MS Defender Application Guard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-cursor-lighting-with-windows-11-tips/"><u>Optimize Your Cursor Lighting with Windows 11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-directive-not-empty-hurdle-insights-to-eradicate-error-0x80070091/"><u>Overcoming the Directive Not Empty Hurdle: Insights to Eradicate Error 0X80070091</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-standard-user-restrictions-now/"><u>Override Standard User Restrictions Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-unmet-system-conditions-indicator-in-win11/"><u>Override Unmet System Conditions Indicator in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-and-style-synergy-the-leading-windows-laptops-of-24/"><u>Power & Style Synergy: The Leading Windows Laptops of '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-connections-with-mb-services-in-windows-11/"><u>Re-Establishing Connections with MB Services in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-missing-window-panes-in-windows-11-6-tactics/"><u>Reinstating Missing Window Panes in Windows 11 (6 Tactics)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-stuck-windows-update-problems-now/"><u>Resolving Stuck Windows Update Problems Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/running-windows-11-on-classics-utilizing-windows-to-go-and-rufus-guide/"><u>Running Windows 11 on Classics - Utilizing Windows To Go & Rufus Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-authentication-disabling-questions-on-windows-11-local-account/"><u>Silent Authentication: Disabling Questions on Windows 11 Local Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-excel-display-in-windows-notepad/"><u>Solutions for Excel Display in Windows Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-unresolvable-value-errors-in-winos/"><u>Solutions for Unresolvable Value Errors in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-dependencies-using-wpm-effectively/"><u>Streamlining Dependencies: Using WPM Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-gaps-within-explore-interface-elements/"><u>Tackling Gaps Within Explore Interface Elements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-supercharging-your-windows/"><u>The Ultimate Guide to Supercharging Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-a-non-operational-printer-on-windows-11/"><u>Troubleshoot a Non-Operational Printer on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharging-yuzus-performance-on-pcs/"><u>Turbocharging Yuzu's Performance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-optimal-performance-by-taming-high-cpu-demands/"><u>Unleashing Optimal Performance by Taming High CPU Demands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-team-video-sharing-fixes/"><u>Windows Team Video Sharing Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-0xc0000005-fix-a-step-by-step-guide/"><u>WinError 0Xc0000005 Fix: A Step-by-Step Guide</u></a></li>
+</ul></div>

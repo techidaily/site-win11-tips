@@ -1,0 +1,182 @@
+---
+title: "Windows 11 S Mode: Functionality and Purpose?"
+date: 2024-08-23T07:06:12.706Z
+updated: 2024-08-24T07:06:12.706Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Windows 11 S Mode: Functionality and Purpose?"
+excerpt: "This Article Describes Windows 11 S Mode: Functionality and Purpose?"
+keywords: Windows 11 SMode,S Mode Purpose,S Mode Features,S Mode Benefits,S Mode Usage,Safe Mode in W11,Windows S Mode Guide
+thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe159d0540d6af07a4de02f4f.jpg
+---
+
+## Windows 11 S Mode: Functionality and Purpose?
+
+ Windows S Mode puts your computer on complete lockdown. Once activated, S Mode lets you enjoy the highest level of security Microsoft can offer. However, there are limitations.
+
+ If you're a Windows user, you should get the complete picture before you get a computer in Windows 11 S mode. So, let's explore what it is and if it's for you.
+
+## What Is Windows 11 S Mode?
+
+![photo of a person using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-laptop.jpg)
+
+ S Mode is a feature that Microsoft created to give users a secure, smooth experience with the Windows operating system. When you use Windows 11 in S mode, your computer only gets access to basic resources and drivers. More notably, S mode freezes all other apps that hog your RAM and processes that may task your CPU. These changes in your user experience of Windows S mode will sound very familiar if you have used a Chromebook.
+
+## Should You Use Your PC in S Mode?
+
+ It depends on your security and privacy goals. Here are four reasons you may consider using a PC in Windows S Mode:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+### 1\. You Want to Ensure Your Child’s Safety
+
+ S mode restricts the applications that can run on the computer to Microsoft Store applications only. So, your child cannot download software from third-party sources. Also, they can only browse the web on Microsoft Edge. The Windows native browser has additional online security to prevent them from visiting unsafe websites. However, Edge does not exactly block access to all sites. So, you should consider other [parental control options for PC](https://www.makeuseof.com/tag/best-parental-control-apps-windows/).
+
+ You may also want to get a standard PC for your child and put it in S mode if you don’t want to buy a Chromebook for almost the same price. You may then take the computer out of S mode as their tech needs and ability to handle more responsibilities increase. But remember, deactivating S mode is quite easy, and your school-age child may learn to [bypass parental controls](https://www.makeuseof.com/tag/7-ways-children-might-bypass-parental-control-software/).
+
+### 2\. You Handle Sensitive Documents
+
+![photo of person using a pc in tab mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-pc-in-tab-mode.jpg)
+
+ Window S mode prevents users from installing third-party apps. This restriction means your chances of installing malware on your computer reduce significantly. So, if you are a businessperson who routinely handles documents containing company secrets, you may use your personal computer in S mode.
+
+ Remember, you cannot use in-house or proprietary software in S-mode. So, if your company developed an app for its business, running S mode will prevent you from using it. Using your Windows 11 Home in S mode is only helpful pending when you get a company laptop running Windows Pro or Enterprise.
+
+### 3\. You Want to Do a Digital Detox
+
+ If you find yourself needing an [escape from digital noise](https://www.makeuseof.com/best-digital-detox-tools-to-boost-productivity/) but can’t avoid your main PC entirely, consider getting a PC in S mode. Games on Microsoft Store aren’t the most exciting. And many handy third-party apps aren’t there either. So, you will be using only the [apps necessary for your productivity](https://www.makeuseof.com/windows-10-built-in-productivity-features/).
+
+ However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+### 4\. You Want the Chromebook Experience
+
+ S mode gives you a similar experience to what a [Chromebook](https://www.makeuseof.com/tag/what-is-a-chromebook/) gives. So, you can get a high-end PC and try S mode for several days or weeks. This way, you can decide if you want all that power or if the basics work for you. More importantly, you retain the option to leave anytime you want—something you don’t get in Chromebooks.
+
+### 5\. Your Computer Boots Faster
+
+![photo of a windows PC booting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-booting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+ If you have been using a Windows computer for a while, you’ll know notice how booting takes longer as you install more apps. This lag is because some [autorun apps](https://www.makeuseof.com/tag/manage-windows-startup-programs-autoruns/) start working in the background once you turn on your computer. Third-party software and malware, especially, cause this lag. S mode lets you use apps optimized for Windows and reduces your risks of getting malware that slows down your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Are the Drawbacks of Using S Mode?
+
+ Your computer works the way Microsoft intended for it to work: safely and efficiently. However, there are drawbacks:
+
+### 1\. You Can Only Get Apps From the Microsoft Store
+
+ As seen on this [Microsoft Dev Blog](https://devblogs.microsoft.com/commandline/will-linux-distros-run-on-windows-10-s/), users of Windows S can only run Modern Universal Windows Platform (UWP) store apps. These are apps that Microsoft developers directly created or verified. Other types of apps delivered through third-party licenses to the Microsoft Store will be unavailable in S mode.
+
+### 2\. You Can’t Use the Command Line or Code Editors
+
+ S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. The Windows Registry Is Off-limits
+
+ Like the command line and code editors, the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is also off-limits to users in S mode. The registry is a powerful database of configuration settings that lets power users customize Windows to their taste—beyond the regular settings. However, tinkering with the Windows registry can harm your PC, something the clamshell of S mode is designed to prevent.
+
+![photo of the windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/regedit.jpg)
+
+## How to Activate S Mode in Windows 11
+
+ You can’t activate S mode; it comes pre-installed or shipped with the OS. So, when you get a new laptop, you’ll have the option to use it in S mode when you’re setting it up for the first time. Some computers, like the Surface, come shipped with S mode only, and you don’t get that option to try S mode first.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Leave S Mode in Windows 11
+
+ Before you begin, note that leaving S mode is one-way. You can’t leave and come back.
+
+ That said, the first step is to check if your PC is running S mode in the first place. You can do this by navigating **Windows > Settings > System > About**. Your Windows specification will show if you’re running Windows 11 Home in S mode.
+
+1. If your PC is indeed running Windows 11 Home in S mode, you can leave by navigating to **Windows > Settings > System > Activation**.
+2. Click **Upgrade your edition of Windows**
+3. Follow the on-screen instructions
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Window S Mode: Fast, Secure, but Limiting
+
+ S mode takes the responsibility of maintaining your cybersecurity off you. You also get a snappy performance from your hardware. This nature makes S mode better suited for people who don’t want to tinker with technology. If you can’t decide still, the good news is you can buy a regular PC and try out S mode. The snag is you can’t go back once you decide to take charge.
+
+ If you're a Windows user, you should get the complete picture before you get a computer in Windows 11 S mode. So, let's explore what it is and if it's for you.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-principles-of-crafting-alluring-video-scripts/"><u>[New] Principles of Crafting Alluring Video Scripts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-find-your-digital-companion-the-top-6-youtube-personality-puzzles/"><u>[Updated] 2024 Approved  Find Your Digital Companion  The Top 6 YouTube Personality Puzzles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-novice-film-capture-scrutiny-report/"><u>[Updated] Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>2024 Approved  PlayStation VR's Coming Stars  Predicted Top 5 Titles to Track</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>2024 Approved  The Spectrum of Virtuality  From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-lone-path-with-3d-printers-in-the-3dr-world-for-2024/"><u>A Lone Path with 3D Printers in the '3DR' World for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-gopro-studio-discover-the-best-video-editing-tools-for-your-action-cam/"><u>Ditch GoPro Studio Discover the Best Video Editing Tools for Your Action Cam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-is-operational-3-strategies/"><u>Ensuring Windows 11 Is Operational: 3 Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-windows-11-key-purchases/"><u>Essential Guide to Windows 11 Key Purchases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-missing-items-in-windows-explorer-navigation/"><u>Fixing Missing Items in Windows Explorer Navigation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guide-to-make-your-shorts-thumbnail-pop-up-for-2024/"><u>Guide to Make Your Shorts' Thumbnail Pop Up for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6 Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-the-sid-of-any-user-in-windows-11/"><u>How to Find the SID of Any User in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-lost-windows-patch-service/"><u>How to Reactivate Lost Windows Patch Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-mp3s-into-audio-cds-with-imgburn-on-windows/"><u>How to Turn Your Mp3s Into Audio CDs With ImgBurn on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-reactivate-lost-chatter-in-social-media-clips/"><u>In 2024, Reactivate Lost Chatter in Social Media Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recording-wonders-the-best-screenshot-tools/"><u>In 2024, Recording Wonders  The Best Screenshot Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-to-perfect-gopro-videos/"><u>In 2024, Step-by-Step Guide to Perfect GoPro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-outlook-preview-in-windows-11-a-step-by-step-guide/"><u>Launching Outlook Preview in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterbatch-execution-automation-via-task-scheduler/"><u>Masterbatch Execution: Automation via Task Scheduler</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-capacity-with-enhanced-virtual-memory-tactics/"><u>Maximizing RAM Capacity with Enhanced Virtual Memory Tactics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>Perfectly Shot Episodes  Top Webcams for Podcast Producers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-and-effective-fixes-to-windows-onedrive-problems/"><u>Quick and Effective Fixes to Windows OneDrive Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-steps-to-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Quick Steps to Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-preview-hurdles-in-windows-version-of-office-mail/"><u>Removing Preview Hurdles in Windows Version of Office Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-geforce-experience-failures-in-windows-systems/"><u>Resolving GeForce Experience Failures in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-steam-connection-to-your-windows-system/"><u>Restoring Steam Connection to Your Window's System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-typing-routine-with-9-quick-fixes-for-broken-windows-shortcuts/"><u>Revitalize Your Typing Routine with 9 Quick Fixes for Broken Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalizing-windows-11s-ccleaner-functionality/"><u>Revitalizing Windows 11'S CCleaner Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-blue-screen-on-hybrid-os-5-ways-to-correct-bsos-errors/"><u>Stop Blue Screen on Hybrid OS: 5 Ways to Correct BSOS Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-workflow-with-additional-context-menu-commands/"><u>Streamlined Workflow with Additional Context Menu Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-techniques-to-alter-files-on-your-win-os/"><u>Tailored Techniques to Alter Files on Your Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-resolve-non-responsive-firefox-problems/"><u>Top 8 Solutions to Resolve Non-Responsive Firefox Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-rocket-league-not-starting-up/"><u>Troubleshooting: How to Fix 'Rocket League Not Starting Up'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweaking-tech-enhancing-windows-11-hardware-performance/"><u>Tweaking Tech: Enhancing Windows 11 Hardware Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-variability-in-cloud-and-local-windows-protocols/"><u>Unpacking the Variability in Cloud & Local Windows Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0x80070522-in-windows-regain-user-rights/"><u>Unraveling Error Code 0X80070522 in Windows: Regain User Rights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win1110-tips-remedying-nvidia-control-panel-errors/"><u>Win11/10 Tips: Remedying Nvidia Control Panel Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-live-boost-your-pc-with-these-3-usb-steps/"><u>Windows 11 Live! Boost Your PC with These 3 USB Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-performance-boost-with-strategic-feature-deactivation/"><u>Windows 11 Performance Boost with Strategic Feature Deactivation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yule-time-share-windows-games-through-ms-store/"><u>Yule Time: Share Windows Games Through MS Store</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
