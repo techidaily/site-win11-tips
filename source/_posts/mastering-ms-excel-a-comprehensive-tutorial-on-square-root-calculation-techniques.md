@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS Excel: A Comprehensive Tutorial on Square Root Calculation Techniques"
-date: 2024-08-27 22:56:34
-updated: 2024-08-29 12:38:43
+date: 2024-08-28T01:06:58.969Z
+updated: 2024-08-29T01:06:58.969Z
 tags:
   - excel
 categories:
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![Enter numbers directly in the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-enter-values-in-square-root-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  And instantly, Excel will display the resulting square root in your selected cell.
 
 ![The answer of the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-square-root-formula-result.png) 
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Calculate Square Root in Excel With the SQRT Function
 
  If you'd like to use a function to calculate the square root, use Excel's dedicated `SQRT` function for finding square roots. This function retrieves the same result as the method above.
@@ -66,12 +72,18 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![Select a cell to display the square root function result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-select-square-root-result-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the selected cell, enter the following `SQRT` function and press Enter. In this function, replace `D2` with the cell where your number is.
 
 =SQRT(D2)
 
 ![Type the square root function and press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-enter-square-root-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  If you wish to directly use the number in the function, then replace `D2` with your actual number. Like this:
 
 =SQRT(625)
@@ -84,6 +96,9 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
  And that's all.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  Bonus Tip: Insert the Square Root Symbol in Excel
 
  By default, both methods above do not display the square root (√) symbol. To add this symbol, you can use Excel's `UNICHAR` function in conjunction with your preferred square root finding method.
@@ -100,6 +115,9 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![Insert the square root symbol.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-insert-square-root-symbol.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  And those are the ways to quickly get to the square root of a number. Very useful!
 
 ---
@@ -126,3 +144,54 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] In 2024, Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solved-amd-rx-560-driver-issue-on-windows-111087/"><u>[Solved] AMD RX 560 Driver Issue on Windows 11/10/8/7</u></a></li>
+<li><a href="https://facebook.techidaily.com/app-apocalypse-facebook-whatsapp-offline/"><u>App Apocalypse: Facebook, WhatsApp Offline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gameplay-with-updated-drivers-for-the-dell-g3-laptop/"><u>Boost Your Gameplay with Updated Drivers for the Dell G3 Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-through-time-leveraging-windows-7-for-windows-11-activation/"><u>Connectivity Through Time: Leveraging Windows 7 for Windows 11 Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-windows-updates-error-0x8024800c/"><u>Correcting Failed Windows Updates (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-error-messages-with-windows-11-and-ms/"><u>Deciphering Error Messages with Windows 11 and MS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-powershell-scripts-removing-file-restrictions/"><u>Decoding PowerShell Scripts: Removing File Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-risks-of-keygen-virus-and-windows-security-measures/"><u>Decoding the Risks of Keygen Virus & Windows Security Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-the-heart-of-recent-windows-use/"><u>Direct to the Heart of Recent Windows Use</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-13-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 13 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diving-deep-into-tech-jargon-the-key-differences-between-nlp-and-ml/"><u>Diving Deep Into Tech Jargon: The Key Differences Between NLP & ML</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-into-windows-sound-system-architecture/"><u>Diving Into Windows' Sound System Architecture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-privilege-based-errors-in-system-installation/"><u>Easing Privilege-Based Errors in System Installation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elite-mkv-deck-desktop-and-mobile-for-2024/"><u>Elite MKV Deck  Desktop & Mobile for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-creativity-with-these-8-premium-video-cutters-for-windows/"><u>Enhance Creativity with These 8 Premium Video Cutters for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-error-0x80070570-and-repairing-files-in-windows-11-os/"><u>Eradicating Error 0X80070570 & Repairing Files in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-unleash-virtualization-power-win11/"><u>Essential Steps to Unleash Virtualization Power Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-masking-language-indicator-on-win11/"><u>Expert Guide to Masking Language Indicator on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/freshen-up-windows-sounds-the-audio-driver-revamp-tutorial/"><u>Freshen Up Windows Sounds: The Audio Driver Revamp Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-precursor-pcs-to-progressive-windows-11-platforms/"><u>From Precursor PCs to Progressive Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-clear-access-denied-message-when-closing-outlook-files/"><u>How to Clear Access Denied Message When Closing Outlook Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 7? | Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-recording-your-browsers-video-call/"><u>In 2024, Recording Your Browser's Video Call</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/infiltrating-blocked-powershell-top-4-techniques-for-loading-success/"><u>Infiltrating Blocked PowerShell: Top 4 Techniques for Loading Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-phones-as-windows-microphones/"><u>Leveraging Phones as Windows Microphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-compression-techniques-for-disk-optimization/"><u>Mastering File Compression Techniques for Disk Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/naming-conventions-editing-windows-11-user-folders/"><u>Naming Conventions: Editing Windows 11 User Folders</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-software-options-for-distilling-pure-auditory-experiences/"><u>New Advanced Software Options for Distilling Pure Auditory Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/on-premise-self-hosted-gpt-the-windows-path-via-gpt4all/"><u>On-Premise, Self-Hosted GPT: The Windows Path via GPT4All.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/optimizing-video-output-with-compressor-in-fcpx-for-2024/"><u>Optimizing Video Output with Compressor in FCPX for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-installer-efficiency/"><u>Optimizing Windows Installer Efficiency</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-in-accessing-network-router/"><u>Overcoming Hurdles in Accessing Network Router</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-measures-against-wlanextexe-cpu-spikes/"><u>Proactive Measures Against WLANEXT.EXE CPU Spikes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-procrastination-buster-top-windows-productivity-hacks/"><u>Professional Procrastination Buster: Top Windows Productivity Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-a-seamless-search-experience-in-windows-11-tm/"><u>Re-Establishing a Seamless Search Experience in Windows 11 TM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisit-your-digital-trail-in-windows-11/"><u>Revisit Your Digital Trail in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-edge-browser-setting-up-microsofts-defender-application-guard-in-win-11/"><u>Secure Edge Browser: Setting up Microsoft's Defender Application Guard in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-entry-into-windows-startup-hub/"><u>Stepwise Entry Into Windows Startup Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-diminishing-wmi-service-impact-on-cpu/"><u>Strategies for Diminishing WMI Service Impact on Cpu</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transitioning-video-content-into-stills-with-windows-11/"><u>Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-asus-vivobook-flip-11-e510t-the-perfect-blend-of-style-performance-and-battery-life/"><u>Unboxing Asus VivoBook Flip 11 E510T - The Perfect Blend of Style, Performance & Battery Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-files-in-windows-no-more-read-only-limit/"><u>Unlocking Files in Windows: No More Read-Only Limit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vid-vocated-trust-a-marketers-secret-weapon/"><u>Vid-Vocated Trust  A Marketer's Secret Weapon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-efficiency-boost-crafting-uwp-app-shortcuts/"><u>Windows 11 Efficiency Boost: Crafting UWP App Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-harmony-restored-5-solutions-to-glitches/"><u>Windows Harmony Restored: 5 Solutions to Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-back-your-game-restoring-ps4-input-link-to-stability-on-computer/"><u>Winning Back Your Game: Restoring PS4 Input Link to Stability on Computer</u></a></li>
+</ul></div>

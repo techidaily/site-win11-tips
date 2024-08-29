@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Implementing ROUND Functionality in Your Excel Spreadsheets
-date: 2024-08-27 12:25:56
-updated: 2024-08-29 11:58:47
+date: 2024-08-28T01:07:39.721Z
+updated: 2024-08-29T01:07:39.721Z
 tags:
   - excel
 categories:
@@ -74,12 +74,21 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  To use the cell reference A1 for the value and round up three places to the left of the decimal point, you'd use this formula.
 
 =ROUNDUP(A1,-3)
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ##  The ROUNDDOWN Function
 
  ROUNDDOWN works just like its counterpart above except that it always rounds down.
@@ -98,12 +107,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And to round that value in cell A1 down three places to the left of the decimal point, you'd use this formula:
 
 =ROUNDDOWN(A1,-3)
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  The MROUND Function
 
  A bit different than the above functions, MROUND rounds to a certain multiple.
@@ -118,6 +133,9 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
 
 ![Formula for MROUND with a positive multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/PositiveMultiple-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To round -20 to the nearest multiple of -6 and receive the result -18, you'd use this formula:
 
 =MROUND(-20,-6)
@@ -152,3 +170,46 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-capture-and-replay-screen-recording-for-instagram-stories/"><u>[New] 2024 Approved  Capture and Replay  Screen Recording for Instagram Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-chordcapture-studio-free-download-and-evaluate/"><u>[New] ChordCapture Studio  Free, Download & Evaluate</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-dual-watch-dynamics-navigating-youtube-in-parallel/"><u>[New] Dual-Watch Dynamics  Navigating YouTube in Parallel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-practice-video-placement-on-facebook-vh/"><u>[New] In 2024, Best Practice  Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-comparing-reels-and-stories-whats-the-best-choice/"><u>[Updated] In 2024, Comparing Reels & Stories  What's the Best Choice?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-success-snap-up-your-ideal-video-size-for-2024/"><u>[Updated] Instagram Success  Snap Up Your Ideal Video Size for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-to-elevate-your-fullscreen-experience-in-premiere/"><u>2024 Approved  Expert Techniques to Elevate Your Fullscreen Experience in Premiere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-logos-for-podcasts-standout-strategies/"><u>2024 Approved  Iconic Logos for Podcasts  Standout Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-identity-user-name-transformation/"><u>Customizing Your Windows Identity: User Name Transformation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-qr-scanning-in-the-windows-arena/"><u>Demystifying QR Scanning in the Windows Arena</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-and-fixing-vac-failed-on-your-pc/"><u>Dissecting and Fixing VAC Failed on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-windows-ipmac-using-powershell-techniques/"><u>Easy Windows IP/MAC: Using PowerShell Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-guide-wacom-intuos-pro-drivers-for-windows-11/"><u>Effortless Installation Guide: Wacom Intuos Pro Drivers for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-disk-space-on-win11-safely-keep-files-intact-max-156-chars/"><u>Enhancing Disk Space on Win11 Safely (Keep Files Intact, Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essentials-of-windows-iscsi-initiator-and-access-methods/"><u>Essentials of Windows iSCSI Initiator and Access Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-the-missing-piece-reviving-windows-11s-lost-bluetooth/"><u>Fix the Missing Piece: Reviving Windows 11'S Lost Bluetooth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-convert-mp3-files-into-audible-cds-using-the-power-of-windows-and-imgburn/"><u>How to Convert Mp3 Files Into Audible CDs Using the Power of Windows and ImgBurn</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-command-prompt-to-find-windows-errors-codes-and-fix-them/"><u>How to Use the Command Prompt to Find Windows Errors Codes and Fix Them</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>Iconic Imagery  Transforming Audio Into Visual Podcast Identity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-artificial-intelligence-prompts-elite-5-e-learning-courses-list/"><u>Master Artificial Intelligence Prompts: Elite 5 E-Learning Courses List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-firewall-controls-five-techniques/"><u>Mastering Firewall Controls: Five Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>Mastering Visual Effects on a Budget  Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-to-zero-clutter-windows-auto-delete-feature/"><u>Navigate to Zero Clutter: Windows' Auto-Delete Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-xbox-app-store-crash-fixing-error-0x80073d26/"><u>Overcome Xbox App Store Crash: Fixing Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-perplexing-problem-of-windowss-c0000005/"><u>Overcoming the Perplexing Problem of Windows's C0000005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-picks-for-play-best-fps-counter-applications-on-your-windows-11-system/"><u>Prime Picks for Play: Best FPS Counter Applications on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reverting-windows-viewer-to-original-arrangement/"><u>Reverting Windows Viewer to Original Arrangement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-programs-against-windows-autoshrinks/"><u>Securing Programs Against Windows Autoshrinks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-0x800700e9-problem-in-xbox-game-pass-windows-11-edition/"><u>Solving 0X800700E9 Problem in Xbox Game Pass, Windows 11 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-playback-timing-problems-fixing-offset-sound-on-digitized-video-files/"><u>Solving Playback Timing Problems: Fixing Offset Sound on Digitized Video Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/swift-windows-checkup-guide-explanatory/"><u>Swift Windows Checkup Guide Explanatory</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-integrating-emojis-with-discord-statuses-for-2024/"><u>The Ultimate Guide to Integrating Emojis with Discord Statuses for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>The Ultimate War Strategists' Guide  Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-workflow-essential-wins11-god-mode-tips/"><u>Transforming Workflow: Essential Wins11 God Mode Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-nvidia-cp-unresponsiveness-on-win-11/"><u>Troubleshooting Nvidia CP Unresponsiveness on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-windows-clients-for-sharing-files/"><u>Ultimate List of Windows Clients for Sharing Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-editing-gopro-videos-top-studio-alternatives/"><u>Updated In 2024, The Ultimate Guide to Editing GoPro Videos Top Studio Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-password-reset-lockout-period-change/"><u>Windows 10/11 Password Reset Lockout Period Change</u></a></li>
+</ul></div>

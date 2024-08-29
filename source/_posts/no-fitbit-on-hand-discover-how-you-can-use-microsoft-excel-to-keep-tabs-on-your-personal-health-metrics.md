@@ -1,7 +1,7 @@
 ---
 title: No Fitbit on Hand? Discover How You Can Use Microsoft Excel to Keep Tabs on Your Personal Health Metrics!
-date: 2024-08-28 22:58:14
-updated: 2024-08-29 10:50:20
+date: 2024-08-28T01:07:59.966Z
+updated: 2024-08-29T01:07:59.966Z
 tags:
   - excel
 categories:
@@ -65,6 +65,12 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Calorie Amortization Schedule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CalorieAmortizationSchedule-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Track Weight Loss
 
  If you already have a diet plan to [reach your target weight](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/), then keep track of it easily with this [Weight Loss Tracker](https://templates.office.com/en-us/weight-loss-tracker-tm03458079) template for Excel.
@@ -73,6 +79,9 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Weight Loss Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/WeightLossTracker-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Get a Fitness Plan
 
  For the ultimate fitness template, you can track everything from your weight to the size of your biceps to the food you eat.
@@ -91,10 +100,16 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Fitness Plan Food Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanFood-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, review the Weight Tracker tab which summarizes the other sheets and gives you a clear view of your fitness plan progress.
 
 ![Fitness Plan Weight Tracker tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanWeight-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 Related: [How I Used Technology to Get in the Best Shape of My Life and Save My Son](https://twitter-videos.techidaily.com/updated-2024-approved-elevating-twitter-interactions-through-personalized-video-previews/) 
 
 ##  Track Your Blood Sugar
@@ -105,6 +120,12 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 ![Blood Sugar Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodSugarTracker-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Log Your Blood Pressure and Glucose
 
  For logging both pressure and glucose, use this [Blood Pressure and Glucose Tracker](https://templates.office.com/en-us/blood-pressure-and-glucose-tracker-tm03107635) template.
@@ -115,6 +136,9 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 ![Blood Pressure and Glucose Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodPressureGlucoseTracker-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  For a bonus, you can include notes on the right side which is helpful for out-of-the-ordinary levels.
 
 ##  Keep a Medication Log
@@ -123,6 +147,9 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram-videos.techidaily.com/new-how-to-boost-your-instagram-vids-visibility-for-2024/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ###  Basic Medication Log
 
  For your own logging, this [Basic Medication Log](https://templates.office.com/en-us/basic-medication-log-tm01068457) gives you all the spots you need for complete details. Add the medication name, start and stop dates, dosages with times, and special instructions.
@@ -131,12 +158,19 @@ Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram
 
 ![Basic Medication Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicMedicationLog-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Family Medication Log
 
  With a tab for each person in this [Medication Log](https://templates.office.com/en-us/medication-log-tm89852877), you can easily list medications, dosages, frequencies, and times of day for each family member. You can also include remarks, or notes, per medication.
 
 ![Medication Log for families](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FamilyMedicationLog-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Track Your Pet's Health
 
  Maybe the health tracker you need is for your furry family member. This [Pet Health Log](https://templates.office.com/en-us/pet-health-log-tm06128278) lets you track immunizations, medications, and known conditions. You can also log vet visits with complete details for tests performed, diagnosis, prescribed action and medication, and more.
@@ -165,3 +199,49 @@ Related: [How to Track Almost Anything with Excel List Templates](https://androi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-securing-your-digital-footprint-when-leaving-discord/"><u>[New] Securing Your Digital Footprint When Leaving Discord</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>[Updated] 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-complete-unpacking-the-world-of-virtual-idols/"><u>[Updated] Complete Unpacking  The World of Virtual Idols</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-following-fades-track-losses-on-insta/"><u>[Updated] In 2024, Following Fades  Track Losses on Insta</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-a-robust-online-community-with-ripl-techniques/"><u>Building a Robust Online Community with Ripl Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/bumper-bliss-kids-car-games-galore/"><u>Bumper Bliss  Kids Car Games Galore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-xc10100bf-from-your-windows/"><u>Eliminating XC10100BF From Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-file-interaction-use-windows-11s-selection-boxes/"><u>Enrich File Interaction: Use Windows 11'S Selection Boxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extending-displayed-apps-on-w11-start-screen/"><u>Extending Displayed Apps on W11 Start Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-develop-a-trusted-window-icon-for-safe-hardware-disconnect-in-win11/"><u>How to Develop a Trusted Window Icon for Safe Hardware Disconnect in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-hard-drive-read-failure-in-windows/"><u>How to Overcome Hard Drive Read Failure in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-the-mssoccsndll-file-missing-error-on-your-computer/"><u>How to Resolve the 'mssoccsn.dll' File Missing Error on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-notable-platforms-offering-text-modifications/"><u>In 2024, Guide to Notable Platforms Offering Text Modifications</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-phone-calls-into-your-workflow-intel-unison-and-windows-11-guide/"><u>Integrating Phone Calls Into Your Workflow: Intel Unison & Windows 11 Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/level-up-on-windows-11-the-seven-must-try-strategies-to-boost-your-gameplay/"><u>Level Up on Windows 11: The Seven Must-Try Strategies to Boost Your Gameplay</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-store-error-code-x80131500/"><u>Mastering Microsoft Store Error Code: X80131500</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mobility-control-deactivation-in-w11/"><u>Mastering Mobility Control Deactivation in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-guide-to-bypass-ms-teams-error-80080300-on-windows-11/"><u>Mastery Guide to Bypass MS Teams Error 80080300 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-app-installation-errors/"><u>Overcoming Microsoft Store App Installation Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steams-non-syncing-library-files/"><u>Quick Fix for Steam's Non-Syncing Library Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-eradicating-xbox-service-interruption/"><u>Quick Fixes: Eradicating Xbox Service Interruption</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-redeeming-a-non-functional-spotify-app/"><u>Quick Guide: Redeeming a Non-Functional Spotify App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-powerful-cpu-usage-a-compre-cookie/"><u>Reducing Powerful CPU Usage: A Compre Cookie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-functionality-of-the-absent-windows-update/"><u>Regain Functionality of the Absent Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-non-transferring-usb-issues-in-windows-os/"><u>Resolving Non-Transferring USB Issues in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-the-blue-screen-stop-0x0000003d/"><u>Step-by-Step Guide: Resolving the Blue Screen Stop 0X0000003D</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-rectifying-white-login-screens-on-win1011-oses/"><u>Steps for Rectifying White Login Screens on Win10/11 OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-22h2-windows-setbacks/"><u>Swift Solutions to 22H2 Windows Setbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-error-0x0000007b-quick-fixes-for-windows/"><u>Taming Error 0X0000007B - Quick Fixes for Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/techniques-for-vimeo-video-insertion-into-corporate-presentations-for-2024/"><u>Techniques for Vimeo Video Insertion Into Corporate Presentations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-setup-for-network-connectivity-in-windows-11/"><u>Telnet Setup for Network Connectivity in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-ai-enhanced-platforms-for-personalized-book-discovery/"><u>Top 5 AI-Enhanced Platforms for Personalized Book Discovery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-error-40-in-chrome-browser/"><u>Troubleshooting Windows Error 40 in Chrome Browser</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-action-cam-for-high-intensity-sports/"><u>Ultimate Action Cam for High-Intensity Sports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-window-slide-show-magic-seven-free-paths-to-success/"><u>Unleash Window Slide Show Magic - Seven Free Paths to Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-wisdom-secrets-to-instant-dossiers-creation/"><u>Win11 Wisdom: Secrets to Instant Dossiers Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-edge-less-design-tips/"><u>Windows 11 Edge-Less Design Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-permanent-display-settings-for-desks/"><u>Windows 11: Permanent Display Settings for Desks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-streaks-tips-to-sharpen-your-cs-go-fps/"><u>Winning Streaks: Tips to Sharpen Your CS GO FPS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-edge-40-neo-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Edge 40 Neo? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

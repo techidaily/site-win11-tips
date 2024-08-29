@@ -1,7 +1,7 @@
 ---
 title: "Master Excel Reporting: Build Professional Dashboards for Insightful Analytics"
-date: 2024-08-27 14:34:10
-updated: 2024-08-29 11:27:21
+date: 2024-08-28T01:06:56.625Z
+updated: 2024-08-29T01:06:56.625Z
 tags:
   - excel
 categories:
@@ -32,12 +32,18 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  It's always good to visualize how your dashboard will look and what it will contain, so you have a better idea of what you need to do for the next steps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Step 2: Prepare Your Workbook
 
  Before you create your dashboard, you should ensure your data is properly prepared. This will make setting up your dashboard a lot easier, guarantee that your dashboard works smoothly, and save you time down the line. In our example, we have one large table that we'll use to extract specific information into three separate charts.
 
 ![An Excel sheet containing an unformatted table of employee data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/raw-data-employees.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  Make sure you have [given each sheet an appropriate name](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/). Do this by double-clicking a tab and typing a short sheet title that makes it easier to remember what it contains.
 
 ![An Excel worksheet with a tab renamed 'EmployeeData.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/employeedata-tab.png) 
@@ -50,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![An Excel table with the Table Name area in the Table Design tab highlighted. The word 'Employees' has been typed into the Table Name box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  The final prep step is to create a dashboard tab. Click the "+" symbol next to your tabs and rename it **Dashboard**. You want this to be the first sheet in your workbook, so click and drag the tab to the left of all tabs.
 
 ![An Excel workbook with a new tab called 'Dashboard.' The '+' symbol is highlighted to demonstrate where to click to add a new sheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dashboard-tab.png) 
@@ -58,12 +67,18 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  Now that your data is prepared, you need to create tables that will feed the data to your charts. You might think that this is an unnecessary step, because you've already got your data nicely formatted into a table, but [PivotTables let you manipulate your data more easily and summarize your data more quickly](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ###  Create Your First Pivot Table Template
 
  Click any cell in your original data table, and in the Insert tab, click PivotTable.
 
 ![An Excel worksheet with the Insert option on the ribbon and the Pivot Table button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insert-pivottable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  Fill in the dialog box with your table's name (if it's not already filled in), and make sure you select "New Worksheet" before clicking "OK."
 
 ![Excel's PivotTable dialog box, with the name of the table inserted into the Range field, the New Worksheet radio button checked, and the OK button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-options.png) 
@@ -76,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![An Excel workbook with three new sheets, all of which contain a PivotTable area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/duplicate-pivottable-sheets.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Once you have the correct number of PivotTables, rename the tabs according to the data they will contain.
 
 ![An Excel workbook with the three sheets containing PivotTables renamed according to the data they will show.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/renamed-tabs-for-pivottables.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Amend Your First Pivot Table
 
  Click anywhere on the first PivotTable you created, and the PivotTable Fields sidebar will open on the right.
@@ -90,12 +111,32 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![An Excel PivotTable sidebar on the right, with 'Employee' in the Rows Section and 'Sum Of Sale Price' in the Values section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-options-inserted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ###  Format Your Pivot Table
 
  The final step before you create your charts is to format the PivotTable, so the data will display how you want it to when you create your chart. In our example, we want to change the numbers to a currency by selecting the data and clicking the currency icon in the Home tab.
 
 ![An Excel PivotTable with the numerical data changed to USD currency, accessed via the currency icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-data-to-currency.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 4: Create Your First Chart
 
  You're now ready to create your first chart.
@@ -104,6 +145,9 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![The PivotTable Analyze tab with the PivotChart icon selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivotchart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  Then, choose a chart that presents your data in the best way, and click "OK."
 
 ![Excel's Insert Dialog box with the different types of charts highlighted on the left and the OK button highlighted at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-pivotchart-style.png) 
@@ -112,10 +156,16 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![A formatted PivotChart in Excel next to the PivotTable used to create it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/formatted-pivotchart-from-pivottable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're ready, select the edge of the chart and press Ctrl+C, and then go to your dashboard sheet and press Ctrl+V. Before you add the other charts, reposition and resize this first one so that your dashboard will look great. You could even add a stylish header to your dashboard tab.
 
 ![An Excel dashboard tab containing a chart.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chart-in-dashboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ##  Step 5: Repeat the Process!
 
  Now that you have your first PivotTable and PivotChart, follow the same steps to complete your dashboard. Head to the second PivotTable tab, adjust the fields, settings, and formatting, create your table, and paste it onto your dashboard. Continue this process until you have all the charts you wanted on your dashboard, and move them around until you're happy with how it looks.
@@ -124,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  When repositioning your charts, hold down the Alt key to make them snap into a given position. This is great for lining items up when you have more than one on a worksheet.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 6: Add Slicers
 
  To make your charts more interactive, [add slicers](https://article-tips.techidaily.com/2024-approved-duration-formula-20mb-video-in-secs/). Click any of your charts, and in the PivotChart Analyze tab, click "Insert Slicer."
@@ -134,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![The Insert Slicers dialog box in Excel, with the options highlighted and the OK button selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-slicer-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  Reposition the resultant slicer. Then, to make your slicer tidier, right-click anywhere on the slicer, and click "Slicer Settings."
 
 ![The Slicer Settings option, accessible by right-clicking on a slicer in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/slicer-settings.png) 
@@ -158,6 +214,9 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![The 'Refresh All' option in the PivotChart Analyze tab is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/refresh-pivot-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Step 8: Tidy Your Workbook
 
  Before you share your professional workbook, take a minute to tie up the loose ends.
@@ -170,10 +229,16 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![Three tabs in Excel are selected and the 'Hide' option, accessible by right-clicking one of the selected tabs, is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/hide-pivottable-tabs.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Finally, go back to your dashboard, and in the Page Layout tab, click the drop-down arrow under Themes. Then, choose a color scheme to make all your charts and layouts match each other.
 
 ![The Theme menu in Excel, accessed through the Page Layout tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/change-theme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  Now that you've created a fully functional and interactive dashboard, you may want to share it with others who need to see the KPIs you've identified and analyzed.
@@ -192,3 +257,40 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-economical-desktop-encoders-under-100/"><u>[New] 2024 Approved  Top Economical Desktop Encoders Under $100</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-cutting-edge-6-urban-designs-in-mc/"><u>[New] Cutting-Edge 6 Urban Designs in MC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams/"><u>[New] Leveraging Visuals  Easy Guide to Integrating Snap Camera on Teams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>[New] The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-advice-tailoring-ppt-presentations-on-google-meet/"><u>[Updated] In 2024, Expert Advice  Tailoring PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-humorous-hits-lifetime-access-to-memes/"><u>2024 Approved  Humorous Hits  Lifetime Access to Memes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-startstop-of-windows-installer-service/"><u>Configuring Start/Stop of Windows Installer Service</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-habits-for-reducing-online-social-engagement/"><u>Constructive Habits for Reducing Online Social Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-failed-sign-in-wait-duration-in-windows/"><u>Customizing Failed Sign In Wait Duration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-steps-to-reactivate-winget-on-windows-11/"><u>Effortless Steps to Reactivate Winget on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-a-working-winshift/"><u>Essential Tips for a Working WinShift</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-run-windows-11-on-an-old-pc-with-windows-to-go-and-rufus/"><u>How to Run Windows 11 on an Old PC With Windows To Go and Rufus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-zoom-in-on-roblox/"><u>How to Zoom in on Roblox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-movavi-plus-unveiled-the-latest-edition/"><u>In 2024, Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-diverse-iphone-media-formats-together/"><u>Integrating Diverse iPhone Media Formats Together</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-driver-verifier-for-diagnostics-in-w11/"><u>Opening Driver Verifier for Diagnostics in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-setting-retrieval-hurdle-in-nvidias-software/"><u>Overcoming Setting Retrieval Hurdle in NVIDIA's Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/photographicperfection-how-to-fine-tune-insta-images-and-videos-for-2024/"><u>PhotographicPerfection  How to Fine-Tune Insta Images & Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-smoothly-sync-with-onedrive-even-when-failed-windows-11/"><u>Quick Guide to Smoothly Sync with OneDrive, Even When Failed (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-to-unfreeze-your-torrents-in-windows/"><u>Quick Tips to Unfreeze Your Torrents in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-connection-7-steps-to-solve-windows-usb-wi-fi-adapter-problem/"><u>Re-Establish Connection: 7 Steps to Solve Windows' USB Wi-Fi Adapter Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-disappearing-iconage-for-windows-apps/"><u>Restore Disappearing Iconage for Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-system-help-with-these-essential-steps/"><u>Simplify System Help with These Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-workflow-solving-windows-excel-lag/"><u>Speed Up Your Workflow: Solving Windows-Excel Lag</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-by-step-guide-to-reclaiming-lost-facebook-moments/"><u>Step-by-Step Guide to Reclaiming Lost Facebook Moments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-get-past-password-required-on-win-11-os/"><u>Strategies to Get Past Password Required on Win 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-tools-accessibility-hotkey-configurations-for-fixes/"><u>Tailoring Windows Tools Accessibility: Hotkey Configurations for Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-google-chrome-crashes-in-windows/"><u>Troubleshooting Google Chrome Crashes in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-resources-stuck-in-usage-on-windows-11-systems/"><u>Unlocking Resources Stuck in Usage on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-razers-restore-detection-via-razer-synapse-on-windows/"><u>Unseen Razers? Restore Detection via Razer Synapse on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-power-of-your-computers-windows-key/"><u>Unveiling the Hidden Power of Your Computer's Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-systemtray-with-numlock-icon-windows-11-guide/"><u>Upgrading SystemTray with NumLock Icon: Windows 11 Guide</u></a></li>
+</ul></div>

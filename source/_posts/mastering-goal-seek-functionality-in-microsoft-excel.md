@@ -1,7 +1,7 @@
 ---
 title: Mastering Goal Seek Functionality in Microsoft Excel
-date: 2024-08-28 14:11:45
-updated: 2024-08-29 11:42:58
+date: 2024-08-28T01:07:52.895Z
+updated: 2024-08-29T01:07:52.895Z
 tags:
   - excel
 categories:
@@ -30,6 +30,9 @@ Related: [5 iPhone Apps to Keep Track of Your Investments](https://android-pokem
 
  The tool is especially useful for the situations mentioned above such as savings, [investments](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/), and loans, but can be used in other scenarios as well. Once you obtain the results from the Goal Seek tool, you can simply view them or pop them into your sheet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Goal Seek Examples
 
  If you're ready to give this nifty feature a try, let's look at some example uses.
@@ -52,6 +55,10 @@ Related: [5 iPhone Apps to Keep Track of Your Investments](https://android-pokem
 
 ![Goal Seek in the What-If Analysis menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataGoalSeek-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  In the small Goal Seek box, insert the following:
 
 **Set Cell**: Enter the cell reference containing the formula you want to change. Remember, changing the formula shows us the input we need to reach our goal.
@@ -62,12 +69,18 @@ Related: [5 iPhone Apps to Keep Track of Your Investments](https://android-pokem
 
 ![Goal Seek for sales figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SalesSeek-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you finish, click "OK." The Goal Seek Status box shows a solution was found and you'll see a preview in your spreadsheet.
 
 ![Goal Seek results for sales figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SalesSeekResults-ExcelGoalSeek.png) 
 
  As you can see, we now know that we must sell 800 units of our product to reach our $20,000 goal. Click "OK" to apply the change to your sheet or "Cancel" to simply close the Goal Seek Status window.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Goal Seek for Loans
 
  Another good way to use Goal Seek in Excel is for help with loans. You may have the loan amount, term in months, and payment you can afford, but want to know what interest rate you should seek. Because the Goal Seek tool works off of formulas, you can leave the interest rate cell blank and allow Goal Seek to fill it.
@@ -82,6 +95,9 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Loan figures in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/LoanFigures-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  Select Data > What-If Analysis > Goal Seek and insert the following:
 
 **Set Cell**: Enter the cell reference containing the formula you want to change. For us, this is B4.
@@ -98,6 +114,9 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Goal Seek results for loan figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/LoanResults-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  Select "OK" to apply the change to your sheet or "Cancel" to close the box.
 
 ###  Goal Seek for Savings
@@ -122,6 +141,9 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
 
 ![Goal Seek for savings figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SavingsSeek-ExcelGoalSeek.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  Click "OK" to view your results. We see that we need to save just over $413 per month for the next year to reach our $5,000 goal.
 
 ![Goal Seek results for savings figures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/SavingsResults-ExcelGoalSeek.png) 
@@ -146,3 +168,47 @@ Related: [How to Calculate a Loan Payment, Interest, or Term in Excel](https://a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-comprerant-guide-to-enhanced-captioning-on-instagram-platforms/"><u>[New] 2024 Approved  A Compreran't Guide to Enhanced Captioning on Instagram Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transcription-triumphs-quick-methods-for-fb-call-records/"><u>[New] 2024 Approved  Transcription Triumphs  Quick Methods for FB Call Records</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] In 2024, The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-future-fb-ad-mastery-the-trends-of-24/"><u>[Updated] In 2024, Unlocking Future FB Ad Mastery – The Trends of '24</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23+</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-slate-executing-a-clean-boot-in-windows-11/"><u>Clearing the Slate: Executing a Clean Boot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-differences-unveiling-the-separate-paths-of-local-and-microsoft-windows-login/"><u>Dissecting Differences: Unveiling The Separate Paths of Local & Microsoft Windows Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-procedure-to-clear-steams-domain-name-service-caches/"><u>Essential Procedure to Clear Steam's Domain Name Service Caches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expertise-unlocked-comprehensively-scan-qr-codes-on-windows/"><u>Expertise Unlocked: Comprehensively Scan QR Codes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-best-replacement-apps-for-windows-11/"><u>Explore the Best Replacement Apps for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-reawakening-a-shader-driven-journey-to-the-past-with-retroarc/"><u>Game Reawakening: A Shader-Driven Journey to the Past with RetroArc</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-disable-error-0x80300024-in-winxp/"><u>Guide to Disable Error 0X80300024 in WinXP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-modern-setup-host-causing-high-cpu-usage-on-windows/"><u>How to Fix Modern Setup Host Causing High CPU Usage on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-10-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 10 & 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27e in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-even-on-youtube-key-view-figures-explored/"><u>In 2024, Breaking Even on YouTube  Key View Figures Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-graphics-command-center-for-gamers-on-windows/"><u>Intel Graphics Command Center for Gamers on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-concurrent-archive-decompression-in-a-digital-age/"><u>Mastering Concurrent Archive Decompression in a Digital Age</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpos-on-user-profiles-in-windows-11-and-11/"><u>Mastering GPOs on User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-finding-cost-effective-graphics/"><u>Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80041015-on-windows-a-step-by-step-guide/"><u>Overcoming Error 0X80041015 on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-errors-when-attempting-to-login-to-battlenet/"><u>Overcoming Errors When Attempting to Login to Battle.net</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-input-sluggishness-in-win-os-via-7-fixes/"><u>Overcoming Input Sluggishness in WIN OS via 7 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-text-display-error-w11s-msresource-challenge/"><u>Overcoming Text Display Error: W11's MsResource Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedure-restore-windows-default-energy-profile/"><u>Procedure: Restore Windows’ Default Energy Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absent-pin-problems-post-windows-11-system-glitch/"><u>Resolving Absent PIN Problems Post-Windows 11 System Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-settings-fix-for-the-vanished-enhancement-tab-in-windows-11/"><u>Restore Your Settings: Fix for the Vanished Enhancement Tab in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-your-pc-with-these-13-system-restoration-methods/"><u>Resurrect Your PC with These 13 System Restoration Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-navigation-window-11-power-user-guide/"><u>Simplify Navigation: Window 11 Power User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0xc0000001-in-windows-os/"><u>Solving Error 0xC0000001 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-system-crash-code-0xc0000001/"><u>Steps to Resolve System Crash: Code 0xC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triumphant-tech-revival-quick-windows-resets-in-3-steps/"><u>Triumphant Tech Revival: Quick Windows Resets in 3 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-ssds-syncing-ssd-fresh-and-windows/"><u>Turbocharge SSDs: Syncing SSD Fresh & Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-team-efficiency-fixing-microsoft-teams-errors-80080300/"><u>Unlocking Team Efficiency: Fixing Microsoft Teams Errors, #80080300</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-in-windows-11/"><u>Unveiling Hidden Windows in Windows 11</u></a></li>
+</ul></div>

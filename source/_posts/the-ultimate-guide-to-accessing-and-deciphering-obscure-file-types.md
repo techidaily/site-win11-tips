@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Accessing and Deciphering Obscure File Types
-date: 2024-08-27 17:23:12
-updated: 2024-08-29 11:42:32
+date: 2024-08-28T01:08:55.917Z
+updated: 2024-08-29T01:08:55.917Z
 tags:
   - excel
 categories:
@@ -62,18 +62,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
  It can also play back a fairly wide range of multimedia formats, including Adobe Flash videos, though note that it is actually using your built-in browser plugins and media player codecs to render media files so if you can't already open it, chances are Universal Viewer won't be able to either. The great thing is, it usually recognized files fine even when Media Player said they were unplayable.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb31.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though Universal Viewer can display many file formats, it still can't display everything. If it cannot open the file you try to open, it'll inform you that it's an unknown format. Click the yellow band to display the file in binary format.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb32.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  If you click it, Universal Viewer will display the file the same as Notepad would, in binary mode. Here, you still may find clues as to what the file contains. For example, we're able to see that this file apparently includes HTML files, which makes you think it may be an archive file containing multiple different files. We can investigate this in the next step.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb33.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  This is a great portable app to keep on your flash drive to make sure you can open any type of file no matter what computer you're using.
 
 [Download Universal Viewer](http://www.uvviewsoft.com/uviewer/) 
@@ -84,6 +98,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  As we suspected, the file contains a number of HTML files that you can open individually in your browser. Many modern file types, including the newer Office file types like .docx, can be opened this way.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb35.png) 
@@ -122,12 +139,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
 ![sshot-2011-02-01-[13-54-14]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2011-02-01-13-54-14_thumb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  Simply click Close on the prompt, and then your file will open as normal. You won't be able to edit the file at all, but you can view it and search for text in the file. You can also still print the document as before, even with the expired trial.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image_thumb38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Download Office 2010 Trial](http://office.microsoft.com/en-us/try) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ##  Use Webapps to View Files
 
  As webapps become more common, there's increasingly less need to pass around files. Often nowadays you can simply upload a file and share it with a colleague via Google Docs, Office Live, Photoshop.com, or other services. Additionally, you can use these tools to view your files yourself. [Office Web Apps lets you view and edit](https://facebook.techidaily.com/the-structure-and-public-accessibility-of-facebook-local-groups/) Word, Excel, PowerPoint, and OneNote files online, while [Photoshop.com](http://photoshop.com/) lets you view and edit PSDs and other images online and [AutoCAD WS](https://www.autocadws.com/) lets you edit and view DWG files. With these webapps and more, you can view and even edit and share an increasing number of files without ever having to install a new program on your computer.
@@ -150,3 +176,62 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dominate-facebook-traffic-with-innovative-video-strategies/"><u>[New] 2024 Approved  Dominate Facebook Traffic with Innovative Video Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-3-techniques-for-capturing-sports-spectacles/"><u>[New] 2024 Approved  Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>[New] Conquering Live Broadcast  A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>[New] In 2024, Find the Perfect Mix  Funny, Touching IG Meme Stories of Ten</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-youtube-video-trailers-with-filmora-software/"><u>[New] The Art of YouTube Video Trailers with Filmora Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-full-screen-potential-of-fb-videos/"><u>[New] Unlocking the Full Screen Potential of FB Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ero-cost-strategies-for-engaging-youtube-intros-for-2024/"><u>[New] Zero-Cost Strategies for Engaging YouTube Intros for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-screen-recordings-the-recmeister-way/"><u>[Updated] In 2024, Mastering Screen Recordings  The Recmeister Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-tricks-randomizing-youtube-videos-on-all-devices-for-2024/"><u>[Updated] Quick Tricks  Randomizing YouTube Videos on All Devices for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-range-of-fb-video-width-height-ratios-for-2024/"><u>[Updated] Range of FB Video Width-Height Ratios for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-idea-to-gif-your-ultimate-blueprint/"><u>2024 Approved  From Idea to GIF  Your Ultimate Blueprint</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed/"><u>2024 Approved  Revamping Online Speech  Chromebook's Top 5 Voice Alteration Tools Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/close-all-a-guide-to-ending-windows-instances-concurrently/"><u>Close All: A Guide to Ending Windows Instances Concurrently</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-start-unveiling-sticky-notes-at-system-launch/"><u>Convenient Start: Unveiling Sticky Notes at System Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-11s-evolution-via-copilot-key-integration/"><u>Demystifying Windows 11'S Evolution via Copilot Key Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-defense-with-customizable-firewall-options-in-context-menu/"><u>Elevate Windows Defense with Customizable Firewall Options in Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-windows-to-keep-files-organized-quickly/"><u>Empower Windows to Keep Files Organized Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-write-functionality-of-steam-folders-in-win-11/"><u>Enhancing Write Functionality of Steam Folders in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-writing-aides-for-windows-desktop-users/"><u>Essential Writing Aides for Windows Desktop Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-to-overcome-error-0x80072f8f-0x20000/"><u>Expert Tips to Overcome Error 0X80072f8f - 0X20000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-audio-fails-in-win11-error-0xc00d36b4/"><u>Fixing Audio Fails in Win11: Error 0XC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-printer-issues-a-step-by-point-guide/"><u>Fixing Disconnected Printer Issues: A Step-By Point Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-8-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 8 and iPad Securely</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-x90s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo X90S to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>In 2024, Leap Into Fitness  A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-hue-refiner-app/"><u>In 2024, Optimal Hue Refiner App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>In 2024, The Influential Edge  Mastering Sponsorship and Promotion on Social Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-9-secure-virtual-meeting-solutions-for-startups/"><u>In 2024, Top 9 Secure Virtual Meeting Solutions for Startups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-instagrams-video-upload-feature/"><u>In 2024, Unlocking Instagram's Video Upload Feature</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-mmc-fixing-missing-snap-ins/"><u>Mastering Windows MMC: Fixing Missing Snap-Ins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-erratic-scrolls-in-your-digital-display/"><u>Mend Erratic Scrolls in Your Digital Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-vcplusplus-distributable-explained/"><u>Microsoft's VC++ Distributable Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/missing-features-alert-restore-windows-11s-enhancement-settings/"><u>Missing Features Alert! Restore Windows 11'S Enhancement Settings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-this-article-we-will-introduce-you-vn-video-editor-pro-apk-download-and-bring-you-some-of-its-alternatives-for-2024/"><u>New In This Article, We Will Introduce You Vn Video Editor Pro Apk Download and Bring You some of Its Alternatives for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/null-device-alert-a-guide-for-win-11-users/"><u>Null Device Alert: A Guide for Win 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-folder-options-adding-movecopy-to-context-menu/"><u>Personalize Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-time-management-top-5-pc-clock-screensavers-reviewed/"><u>Prioritize Time Management – Top 5 PC Clock Screensavers Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-resolving-disk-read-failed-error/"><u>Quick Guide: Resolving 'Disk Read Failed' Error</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rapid-reader-of-windows-photos-and-images/"><u>Rapid Reader of Windows Photos & Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-your-window-world-8-customization-strategies-by-winbubble/"><u>Redefine Your Window World: 8 Customization Strategies by WinBubble</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinstating-disappeared-chatgpt-interactions/"><u>Reinstating Disappeared ChatGPT Interactions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-folder-titles-in-explorer-bar/"><u>Reinstating Folder Titles in Explorer Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-the-right-click-experience-for-update-tracking/"><u>Reinventing the Right-Click Experience for Update Tracking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-problematic-programs-on-windows-11-a-guide/"><u>Removing Problematic Programs on Windows 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-active-status-to-office-outlook-push-notifications/"><u>Restoring Active Status to Office Outlook Push Notifications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/seamless-creation-with-xp-movie-maker-features/"><u>Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-changing-the-screen-time-password-on-ios-devices/"><u>Step-by-Step Guide: Changing the Screen Time Password on iOS Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-heic-files-into-jpeg-on-windows-11-platform/"><u>Streamlining HEIC Files Into JPEG on Windows 11 Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-storage-steam-writes-correctly-now/"><u>Streamlining Storage: Steam Writes Correctly Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-resolve-w11-photoshop-not-launching-issue/"><u>Tips to Resolve W11 Photoshop Not Launching Issue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-top-7-factors-why-you-shouldnt-upgrade-from-win10-to-win11/"><u>Unveiling Top 7 Factors: Why You Shouldn't Upgrade From Win10 to Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-vanished-settings-heres-where-to-locate-them/"><u>Win11's Vanished Settings? Here’s Where to Locate Them</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Developing Custom Data Types in Microsoft Excel"
-date: 2024-08-27 19:21:23
-updated: 2024-08-29 11:33:27
+date: 2024-08-28T01:08:23.476Z
+updated: 2024-08-29T01:08:23.476Z
 tags:
   - excel
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![Enter the URL for your data source](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/EnterURL-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Choose the Data Columns
 
  When the Navigator window opens, you'll see the list of options found from your source on the left. You can click to view each one in the Table View tab on the right. If you would like to use more than one, click the Select Multiple Items checkbox at the top of the list. After selecting the data, click "Transform Data."
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![Select columns in the Power Query Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PowerQueryEditor-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ##  Create the Data Type
 
  When you finish choosing the columns, go to the Transform tab and click the Structured Column drop-down arrow on the right side of the ribbon. Pick "Create Data Type."
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![Choose a name and column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CreateDataTypeWindow-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  If you want to remove columns you selected or arrange them differently, click "Advanced." Move columns you don't want from Selected Columns to Available Columns using the Remove button. To rearrange the order, use the Move Up and Move Down arrows on the right.
 
 ![Arrange the columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CreateDataTypeEdit-ExcelCreateDataType.png) 
@@ -68,16 +77,28 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![On the Home tab, click Close and Load](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomeCloseLoad-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll then see the data type column you selected in your Excel sheet. For our example, it's the Game column.
 
 ![Data type loaded in Excel sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/DataTypeLoaded-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  Use Your Data Type
 
  You'll notice the data type icons next to each item in the list and you can insert other pieces of data the same way as [Excel's built-in data types](https://desktop-recording.techidaily.com/updated-2024-approved-sign-up-process-for-using-google-meet/). Click the Add Column icon and choose the piece of data to insert. It automatically displays in a column to the right.
 
 ![Click Add Column and pick the data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/AddData-ExcelCreateDataType.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Continue clicking the icon and selecting more data to insert as you wish.
 
 ![Data type data added](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/AddedData-ExcelCreateDataType.png) 
@@ -102,3 +123,40 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-cross-platform-calendar-coordination-zoom-to-your-devices/"><u>[New] 2024 Approved  Cross-Platform Calendar Coordination  Zoom to Your Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premier-video-network-for-live-and-on-demand-viewers/"><u>[New] 2024 Approved  Premier Video Network for Live and On-Demand Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-eradicated-muted-video-entries-shorts-for-2024/"><u>[New] Eradicated  Muted Video Entries (Shorts) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>[Updated] Strategic Synergy in Streams  Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-a2-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi A2 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>Calm and Clear  How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-obstacles-for-win11s-optimal-ccleaner-use/"><u>Clearing Obstacles for Win11's Optimal CCleaner Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-a-python-server-on-windows-transfer-made-simple/"><u>Configuring a Python Server on Windows: Transfer Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connecting-to-chatgpt-via-ubuntus-terminal-a-step-by-step-guide-using-shellgpt/"><u>Connecting to ChatGPT via Ubuntu's Terminal: A Step-by-Step Guide Using ShellGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-complete-spatial-soundscape-in-windows-11/"><u>Crafting a Complete Spatial Soundscape in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-qr-scanning-in-the-windows-arena/"><u>Demystifying QR Scanning in the Windows Arena</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-file-interaction-use-windows-11s-selection-boxes/"><u>Enrich File Interaction: Use Windows 11'S Selection Boxes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-screen-capture-software-beyond-microsofts-snipping-capabilities/"><u>Essential Screen Capture Software Beyond Microsoft's Snipping Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-move-and-copy-integration-for-enhanced-productivity/"><u>Expert Move and Copy Integration for Enhanced Productivity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-audio-codecs-how-does-aac-compare-with-mp3-for-your-listening-experience/"><u>Exploring Audio Codecs: How Does AAC Compare with MP3 for Your Listening Experience?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-the-missing-piece-reviving-windows-11s-lost-bluetooth/"><u>Fix the Missing Piece: Reviving Windows 11'S Lost Bluetooth</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-convert-mp3-files-into-audible-cds-using-the-power-of-windows-and-imgburn/"><u>How to Convert Mp3 Files Into Audible CDs Using the Power of Windows and ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-hyper-v-on-the-latest-windows-11/"><u>How to Disable Hyper-V on the Latest Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-your-mouse-from-doing-backflips/"><u>How to Stop Your Mouse From Doing Backflips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-command-prompt-to-find-windows-errors-codes-and-fix-them/"><u>How to Use the Command Prompt to Find Windows Errors Codes and Fix Them</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-huawei-nova-y91-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Huawei Nova Y91 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g14-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Moto G14 Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-xbox-app-store-crash-fixing-error-0x80073d26/"><u>Overcome Xbox App Store Crash: Fixing Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-app-installation-errors/"><u>Overcoming Microsoft Store App Installation Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-perplexing-problem-of-windowss-c0000005/"><u>Overcoming the Perplexing Problem of Windows's C0000005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-picks-for-play-best-fps-counter-applications-on-your-windows-11-system/"><u>Prime Picks for Play: Best FPS Counter Applications on Your Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-redeeming-a-non-functional-spotify-app/"><u>Quick Guide: Redeeming a Non-Functional Spotify App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-guide-to-boost-gaming-with-tailored-amd-configurations/"><u>Strategic Guide to Boost Gaming with Tailored AMD Configurations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-onoff-the-power-modify-win11-registry-tools/"><u>Turn On/Off the Power: Modify Win11 Registry Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-list-of-windows-clients-for-sharing-files/"><u>Ultimate List of Windows Clients for Sharing Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-high-cpuram-demand-from-unrealcefsubprocess/"><u>Understanding & Reducing High CPU/RAM Demand From UnrealCEFSubprocess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-implication-of-a-crossed-out-icon-in-explorer/"><u>What Is the Implication of a Crossed-Out Icon in Explorer?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/windowsmac-meeting-record-skype-guide-for-2024/"><u>Windows/Mac Meeting Record - Skype Guide for 2024</u></a></li>
+</ul></div>

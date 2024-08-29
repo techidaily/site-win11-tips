@@ -1,0 +1,260 @@
+---
+title: How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows
+date: 2024-08-28T01:10:53.829Z
+updated: 2024-08-29T01:10:53.829Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows
+excerpt: This Article Describes How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows
+keywords: Voice-to-Text Conversion,Whisper AI Technology,Speech Recognition Windows,Text Generation with OpenAI,Whisper Application,Convert Audio to Text,Windows Whisper Feature
+thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633cff516b42a4d7954e71a5e9.jpg
+---
+
+## How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows
+
+ OpenAI's Whisper is a new AI-powered solution that can turn your voice into text. Best of all, it comes at zero cost.
+
+ However, there's a catch: it's more challenging to install and use than your average Windows utility. Especially if you want to use your Nvidia GPU's Tensor Cores to give it a nice boost.
+
+ Don't fret, though. That's why we're here! Read on to find out how to install and use it, but also, if you own one, to have Whisper take advantage of your Nvidia GPU.
+
+## What Is OpenAI's Whisper?
+
+ ChatGPT is all the rage nowadays, and we already saw[how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
+
+ Powered by deep learning and neural networks, Whisper is a natural language processing system that can "understand" speech and transcribe it into text. But it's also its own thing, sitting at a spot right among all similar solutions:
+
+* Whisper is an AI solution "trained" on natural language. So, it's better at understanding "normal" human speech than older solutions.
+* Whisper doesn't come with an interface, nor can it record audio. It can only take existing audio files and output text files.
+* Since it's good at "making sense of language", Whisper also has the superpower of automatic translation in a single step.
+* Whisper is not an online service and can work entirely offline.
+* If you have a relatively modern Nvidia GPU (GTX970 or newer), Whisper can run in "hardware accelerated mode" to boost its speed.
+* There's no requirement to register, purchase a license, or buy a subscription.
+
+## Why Are AMD GPUs Not Supported?
+
+ For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
+
+ CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on[AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
+
+ Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
+
+## How to Download and Install Whisper
+
+ Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
+
+ For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on[the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
+
+ For Linux and Macs, the installation process (excluding the Windows path variable, and easy-to-use batch files we'll create) should be similar.
+
+1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on[how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
+2. Install**FFMPEG** through Chocolatey with this command:  
+`choco install ffmpeg`  
+ Also, install its Python version with:  
+`pip3 install python-ffmpeg`  
+![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
+3. Finally, install Whisper from its Github page with:  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+`pip3 install git+https://github.com/openai/whisper.git`
+
+## Getting Whisper's CUDA-Enabled Version
+
+ Although Whisper doesn't use Nvidia GPUs, the**torch** package it relies on offers a CUDA-accelerated version. Using this instead of the "plain" version can help Whisper complete its transcriptions much faster with the help of your Nvidia GPU.
+
+To have Whisper use the CUDA cores of your Nvidia GPU:
+
+1. If you already have the "vanilla" version of torch installed, uninstall and purge remnants of it with:  
+`pip3 uninstall torch`  
+ Once it's done, follow it up with:  
+`pip cache purge`
+2. Install torch's CUDA-enabled version with:  
+`pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
+![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
+3. To check if Whisper can use your Nvidia GPU, use:  
+`whisper --help | findstr -i pytorch`  
+ You should see**(default: cuda)** instead of**(default: cpu)** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## What to Do if Torch Fails to Install
+
+ If you encounter the "no version found" errorwhile installing torch, you may need to install an older version of Python parallel to your current one.
+
+Use this command to do that:
+
+`choco install python --version OLDER_VERSION --side-by-side`
+
+Replace "OLDER\_VERSION" with a version, like 3.10.
+
+![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+ Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## How to Record Your Voice
+
+ You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
+
+ For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
+
+![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
+
+## How to Start Transcribing With Whisper
+
+ Although Whisper doesn't come with a user-friendly GUI, its use is ultra-simple.
+
+ Let's say we have the file**LatestNote.mp3** which contains speech in Greek, in folder**c:\\MyAudioFiles** , and want to translate it to English and transcribe it into a text file.
+
+1. We begin by running**Command Prompt** or**PowerShell** .
+2. We "change directory" where the audio file is stored with this command:  
+`cd C:\MyAudioFiles`
+3. We unleash Whisper on the file with:  
+`whisper --model base --language gr --task translate LatestNote.mp3`  
+![Whisper translate gr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-translate-gr.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+ Once processed, the text file (named "LatestNote.mp3.txt") will appear in the same folder. Open it in a text editor like**Notepad** to view the translated text.
+
+ We used a translation example because English transcription is even more straightforward: you only have to "lose" the "--language" and "-task" flags. Thus, for plain transcription, the above command would be:
+
+`whisper --model base LatestNote.mp3`
+
+ The "model" flag is required because Whisper uses one out of various options. Let's expand on them to help you choose the best for your needs.
+
+### Which Model to Choose?
+
+ Whisper offers various language models. The larger the model, the more improved its accuracy, but also the higher its hardware requirements. They are:
+
+1. Tiny.
+2. Base.
+3. Small.
+4. Medium.
+5. Large.
+
+ Most native English speakers should be fine with the**tiny** or**base** models. Non-native English speakers may see better results with larger models, like**small** and**medium** .
+
+ Note, though, that the medium and large models require over 8GBs of VRAM (that is, "your GPU's memory").
+
+![whisper model small](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-model-small.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+ To select one of them, specify the model after the "--model" switch in the command:
+
+`whisper --model tiny/small/medium/large [file]`
+
+For example:
+
+`whisper --model small My_Voice_Note.mp3`
+
+## How to Streamline Your Transcription
+
+ Having to type the whole Whisper command every time you want to transcribe some audio can quickly get boring. Let's make a globally accessible batch file to streamline the process.
+
+1. Run**Windows Explorer** and visit your C: drive.
+2. Create a folder for your scripts, and copy its path to the Clipboard.
+3. In the Windows Start menu, search for "path" and select**Edit the system environment variables** .  
+![Windows Start Edit The System Environment Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-start-edit-the-system-environment-variables.jpg)
+4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
+![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
+5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+`whisper --model tiny --language en %1`  
+![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
+6. Create two more batch files, "whs" and "whm".
+7. Place this inside the first script:  
+`whisper --model small --language en %1`
+8. Place this inside the second:  
+`whisper --model medium --language en %1`
+
+ Congratulations, you now have three scripts for easily using Whisper's tiny, small, and medium models with your audio files! To transcribe any audio file to text:
+
+1. Locate the file with**Windows File Explorer** .
+2. **Right-click** on an empty spot and choose**Open in Terminal** .
+3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
+`wht YOUR_AUDIO_FILE.mp3`
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## Typing at the Speed of Sound With Whisper
+
+ Even the quickest touch-typists can't match the speed at which we speak. However, until recently, talking instead of typing wasn't optimal for creating documents.
+
+ Most voice-to-text solutions produced mediocre results. You could find a few solutions worth trying, but they were complicated to use, or costly. Thankfully, Whisper changed all that.
+
+ After the steps above, you should be ready to transcribe or translate your voice with high accuracy, using only a single command.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-zooid-beginnings-guide/"><u>[New] Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-vsco-editing-techniques-summary-for-2024/"><u>[Updated] Essential VSCO Editing Techniques Summary for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>[Updated] Metaverse Versus Multimeva  Defining Their Differences Clearly</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adopting-inshot-the-path-to-improved-laptop-edits-for-2024/"><u>Adopting Inshot  The Path to Improved Laptop Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-access-blocked-steam-game-messages/"><u>Clearing Up Access Blocked Steam Game Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-for-issues-with-undelivered-texts-in-apples-imessage-service/"><u>Easy Fixes for Issues with Undelivered Texts in Apple's iMessage Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-tips-to-control-the-fn-key-functionality/"><u>Effective Tips to Control the Fn Key Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-hiccups-fixing-slow-playback-in-vlc/"><u>Eliminating Hiccups: Fixing Slow Playback in VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-insight-on-locating-windows-1110-product-key/"><u>Exclusive Insight on Locating Windows 11/10 Product Key</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-decoding-the-dynamics-of-whatsapp-audio-communication/"><u>In 2024, Decoding the Dynamics of WhatsApp Audio Communication</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-t2-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo T2 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-gallery-archive-services-for-2024/"><u>Leading Gallery Archive Services for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-directx-installation-hurdles/"><u>Mending DirectX Installation Hurdles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/monitoring-computer-power-a-windows-perspective/"><u>Monitoring Computer Power: A Windows Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-lags-streamlining-vlc-playback-speed/"><u>Overcoming Lags: Streamlining VLC Playback Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precision-adjusting-windows-locksleep-timer/"><u>Precision: Adjusting Windows Lock/Sleep Timer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-fix-for-disabled-photo-viewer-back-on-win-11-for-2024/"><u>Quick Fix for Disabled Photo Viewer Back on Win 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-smoothly-sync-with-onedrive-even-when-failed-windows-11/"><u>Quick Guide to Smoothly Sync with OneDrive, Even When Failed (Windows 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-to-unfreeze-your-torrents-in-windows/"><u>Quick Tips to Unfreeze Your Torrents in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-over-disabled-router-settings-on-windows/"><u>Regaining Control over Disabled Router Settings on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-disappearing-iconage-for-windows-apps/"><u>Restore Disappearing Iconage for Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-tools-accessibility-hotkey-configurations-for-fixes/"><u>Tailoring Windows Tools Accessibility: Hotkey Configurations for Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-valkyrie-syn-2naio-liquid-cooler-tested-top-notch-efficiency-and-a-call-for-software-enhancement/"><u>The Valkyrie Syn 2nAIO Liquid Cooler Tested: Top-Notch Efficiency and a Call for Software Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-inaccessible-file-permissions/"><u>Troubleshooting Windows' Inaccessible File Permissions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-retrieve-accidentally-deleted-phone-numbers-on-ios-and-android-systems/"><u>Ultimate Guide: How to Retrieve Accidentally Deleted Phone Numbers on iOS and Android Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wex-windows-exe-structure/"><u>Understanding WEX: Windows EXE Structure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-devices-full-internet-potential-in-windows-11/"><u>Unlock Your Device’s Full Internet Potential in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-instagrams-hidden-revenue-opportunities-for-2024/"><u>Unlocking Instagram's Hidden Revenue Opportunities for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-power-of-your-computers-windows-key/"><u>Unveiling the Hidden Power of Your Computer's Windows Key</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-are-windows-update-and-update-orchestrator-services/"><u>What Are Windows Update and Update Orchestrator Services?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-system-deciphering-ram-cache-dynamics/"><u>Windows System: Deciphering RAM Cache Dynamics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-terminal-innovative-color-design/"><u>Windows Terminal: Innovative Color Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wonderland-how-to-identify-your-computers-brand-and-model/"><u>Windows Wonderland: How To Identify Your Computer's Brand & Model</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winos-tricks-for-program-stability/"><u>WinOS Tricks for Program Stability</u></a></li>
+</ul></div>

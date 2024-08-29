@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature"
-date: 2024-08-26 19:57:38
-updated: 2024-08-29 10:39:21
+date: 2024-08-28T01:08:43.930Z
+updated: 2024-08-29T01:08:43.930Z
 tags:
   - excel
 categories:
@@ -50,6 +50,9 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function basic formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicCellReference-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  Another way to write the formula is by entering the contents of cell B2 in quotation marks as follows:
 
 =FILTER(A2:D13,B2:B13="Electronics")
@@ -62,12 +65,18 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function using a separate cell as criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicOtherCellReference-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  If your data contains a number, you can use this as the criteria without quotation marks. In this example, we'll use the same cell range, but filter by cells D2 through D13 looking for 10.
 
 =FILTER(A2:D13,D2:D13=10)
 
 ![FILTER function formula using number criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicNumber-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
  If you aren't receiving any results for your formula or are seeing the #CALC! error, you can use the third argument `if_empty`. For instance, we'll display None if the result is blank.
 
 =FILTER(A2:D13,D2:D13=75,"None")
@@ -88,6 +97,9 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function formula for multiple criteria using AND](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MultipleCriteriaAND-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
  To use the other operator, we'll filter for either A3 or B2 using a plus sign (+) as follows:
 
 =FILTER(A2:D13,(A2:A13=A3)+(B2:B13=B2))
@@ -112,12 +124,18 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
 
 ![FILTER function with SORT function in descending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SortDescending-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  To display the results in ascending order instead, replace the `-1` with `1`:
 
 =SORT(FILTER(A2:D13,B2:B13=B2),4,1)
 
 ![FILTER function with SORT function in ascending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SortAscending-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Excel's built-in filter is great for quickly seeing specific records in a data set. And the [advanced filter](https://driver-error.techidaily.com/error-22-addressed-device-now-online/) works well for filtering by a criteria range in place or another location. But for using multiple criteria and sorting at the same time, take the FILTER function for a spin.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -140,3 +158,46 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-learn-to-convert-youtube-videos-into-text-no-cost/"><u>[New] Learn to Convert YouTube Videos Into Text – No Cost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-innovative-broadcast-strategies-live-on-instagram-using-obs-software/"><u>[Updated] 2024 Approved  Innovative Broadcast Strategies  Live on Instagram Using OBS Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-video-making-smartphones-announced-here/"><u>[Updated] Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-redefining-tv-viewing-lg-bp550-2023-edition/"><u>[Updated] Redefining TV Viewing - LG BP550 2023 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>[Updated] Ultimate Tutorial  Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-free-netflix-alternatives-to-try/"><u>10 Free Netflix Alternatives to Try</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capture-the-moment-right-using-snap-in-teams/"><u>2024 Approved  Capture the Moment Right  Using Snap in Teams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-video-quality-chrome-and-youtube-optimization/"><u>Elevating Video Quality: Chrome and YouTube Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-user-interface-widgets-for-windows-11/"><u>Enabling User Interface Widgets for Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-premium-gopro-hero9-black-edition/"><u>Evaluating the Premium GoPro HERO9 Black Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identify-and-solve-disappearing-devices-from-management-screen/"><u>Identify & Solve Disappearing Devices From Management Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-90-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor 90?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-130-music-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia 130 Music to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-the-role-of-ai-in-microsofts-store/"><u>Inside: The Role of AI in Microsoft's Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-to-cab-format-and-its-windows-installer-role/"><u>Introduction to CAB Format and Its Windows Installer Role</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-efficiency-with-concurrent-subfolder-creation-on-windows-pcs/"><u>Maximize Your Efficiency with Concurrent Subfolder Creation on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkv-mp4-conversion-steps-for-windows-users/"><u>MKV-MP4 Conversion Steps for Windows Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-why-apple-discontinued-final-cut-express-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>New 2024 Approved Why Apple Discontinued Final Cut Express? What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-disconnecting-woes-essential-fixes-for-windows-usb-wifi/"><u>Overcome Disconnecting Woes – Essential Fixes for Windows USB Wifi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-share-denial-in-microsoft-os/"><u>Overcome Share Denial in Microsoft OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-insufficient-computer-specifications-intel-graphic-challenges/"><u>Overcoming Insufficient Computer Specifications: Intel Graphic Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-ethernet-connectivity-on-windows/"><u>Re-Establishing Ethernet Connectivity on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-default-view-configurations-in-windows/"><u>Reinstating Default View Configurations in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-non-transferring-usb-cases-in-the-windows-environment/"><u>Remedying Non-Transferring USB Cases in the Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-clean-up-and-free-your-pc-in-windows/"><u>Secrets to Clean Up and Free Your PC in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-concealing-drives-on-windows-os/"><u>Sneaky Storage: Concealing Drives on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-missing-wireless-network-in-windows-11/"><u>Solutions for the Missing Wireless Network in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80071a90/"><u>Step-by-Step Fix for Windows Error 0X80071A90</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-address-resource-already-in-use-on-windows-pcs-152-chars/"><u>Steps to Address Resource Already In Use on Windows PCs (152 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-login-processes/"><u>Streamlining Windows 11 Login Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/systematic-revival-the-process-of-modernizing-windows-cards/"><u>Systematic Revival: The Process of Modernizing Windows Cards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-optimizing-phone-as-window-recording-device/"><u>Techniques for Optimizing Phone as Window Recording Device</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-drivers-that-wont-load-in-win11/"><u>Tips for Fixing Drivers that Won't Load in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-and-tailor-image-dimensions-with-these-key-steps-in-windows-11/"><u>Transform and Tailor Image Dimensions with These Key Steps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vlc-file-not-accepted-windows-error/"><u>Troubleshooting VLC File Not Accepted Windows Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-secrets-to-flawless-subtitle-display-on-windows-11/"><u>Uncover the Secrets to Flawless Subtitle Display on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undoing-greyed-out-bin-fixes-on-win11/"><u>Undoing Greyed Out Bin Fixes on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-gateway-to-epic-victories-playing-games-on-windows/"><u>Your Gateway to Epic Victories: Playing Games on Windows</u></a></li>
+</ul></div>

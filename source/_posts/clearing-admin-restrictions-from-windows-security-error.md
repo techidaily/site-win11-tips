@@ -1,0 +1,213 @@
+---
+title: Clearing Admin Restrictions From Windows Security Error
+date: 2024-08-28T01:10:10.855Z
+updated: 2024-08-29T01:10:10.855Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Clearing Admin Restrictions From Windows Security Error
+excerpt: This Article Describes Clearing Admin Restrictions From Windows Security Error
+keywords: Remove Admin Restrictions Error,Clear Windows Security Limit,Eliminate Admin Blocks,Disable Security Halt,Free Access Restriction,Unblock Admin Error,Eject Security Constraint
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
+---
+
+## Clearing Admin Restrictions From Windows Security Error
+
+ Some users have posted on troubleshooting forums about a “Page not available” error that occurs when they open Windows Security. The “Page not available” error message says, “Your IT Administrator has limited access to some areas of this app.” That error message appears within Windows Security, and users can’t access that app’s antivirus settings because of it.
+
+ This error message suggests another administrative user has applied restrictions to Windows Security. However, it often arises on standalone PCs that aren’t connected to an organization network. This is how you can fix the “Your IT administrator has limited access” error.
+
+## 1\. Change Your User Account to an Admin Account
+
+ You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
+
+![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
+
+## 2\. Uninstall Third-Party Security Software
+
+ Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
+
+![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
+
+## 3\. Remove Any Work or School Accounts
+
+ Have you connected your PC with any school or work organization account? If so, such an account could be restricting access to Windows Security settings. Try disconnecting your PC from the school or work in Settings as follows:
+
+1. Bring up Settings and click that app’s**Accounts** tab (or category).
+2. Scroll down to select the**Access work or school navigation** option.
+3. Click a connected work or school account to expand it.  
+![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
+4. Press the**Disconnect** button and select**Yes** .
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
+
+ Some Windows Pro and Enterprise users have confirmed they’ve fixed the “Page not available” error by disabling a**Turn off Microsoft Defender Antivirus** policy. So, check that policy setting even if you can’t recall changing it yourself. This is how you can check and disable the**Turn Off Microsoft Defender Antivirus** Group Policy setting in Windows Pro and Enterprise:
+
+1. To access the file search box, hold the Windows logo key and press S.
+2. Type**gpedit.msc** inside the file search box.
+3. Double-click**gpedit.msc** to[open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
+4. Next, double-click**Computer Configuration** and**Administrative Templates** within Group Policy Editor’s sidebar.
+5. Expand the**Windows Components** folder in the sidebar.
+
+1. Click**Microsoft Defender Antivirus** to select that policy.  
+![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
+2. Then double-click**Turn off Microsoft Defender Antivirus** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
+![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
+4. Select the policy’s**Apply** and**OK** options.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
+![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
+6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
+![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
+7. Double-click the**Enable headless UI mode** policy to view it.  
+![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
+8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
+
+## 5\. Run a PowerShell Command
+
+ Running a set-MpPreference PowerShell command is a widely confirmed potential resolution for the “Page not available” error. The confirmed command disables Microsoft Defender’s UI lockdown mode. You can run that PowerShell command like this:
+
+1. Activate the Windows search utility.
+2. Input a**PowerShell** search phrase to find that command-line app.
+3. Open PowerShell with elevated permissions by right-clicking the search result for that command-line app and selecting**Run as administrator** .
+4. Input this**MpPreference** command and press**Return** :  
+`set-MpPreference -UILockdown`  
+![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
+5. Exit PowerShell and open Windows Security again to see if the error persists.
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+## 6\. Repair/Reset Windows Security
+
+ Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
+
+![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
+
+ Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+
+## 7\. Modify the Registry via Command Prompt
+
+ Users also confirm that running a series of Command Prompt commands that modify the registry can resolve the “Page not available” issue. As those are reg delete commands, we recommend you back up the registry before applying this potential fix. Then try running the registry commands for erasing policies like this:
+
+ Open the utility for finding files and apps with the**Windows** logo +**S** key combination.
+
+1. Find the Command Prompt by typing in a**CMD** search phrase.
+2. Click the Command Prompt app with the mouse’s right button to select a**Run as administrator** context menu option.
+3. Execute the following commands separately, pressing**Enter** after inputting each one:  
+`reg delete "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies" /f  
+
+reg delete "HKLM\Software \Microsoft\WindowsSelfHost" /f  
+
+reg delete "HKLM\Software\Policies" /f  
+
+reg delete "HKLM\Software\WOW6432Node\Microsoft\Policies" /f  
+
+reg delete "HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Policies" /f  
+
+reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntiSpyware  
+
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies" /f  
+
+reg delete "HKCU\Software\Microsoft\WindowsSelfHost" /f  
+
+reg delete "HKCU\Software\Policies" /f  
+
+reg delete "HKLM\Software\Microsoft\Policies" /f`
+4. Input**exit** in the Command Prompt to close the app.  
+![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
+5. Open the Start menu, select**Power** , and press the**Restart** button.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+
+## 8\. Perform a System Restore
+
+ If the “Page not available” error remains after applying other potential solutions, try performing a system restore. That might work if you can select a restore point predating the “Page not available” error on your PC. Rolling Windows back to an earlier time could undo any system changes that caused the issue to arise.
+
+![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+ Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+
+## Start Utilizing Windows Security Again
+
+ The potential solutions covered in this guide address many of the primary causes for that error occurring. So, they’ll probably get the “Page not available” error sorted on most users’ Windows 11/10 PCs. Fixing the “Page not available” error will enable you to access all the settings in Windows Security again.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-quick-guide-merging-igtv-with-instagram-stories/"><u>[New] 2024 Approved  Quick Guide  Merging IGTV with Instagram Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exploring-screenflow-features-a-mac-developers-perspective-for-2024/"><u>[New] Exploring ScreenFlow Features – A Mac Developer's Perspective for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[Updated] Red Carpet Rollouts  Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplified-steps-for-instagram-collage-mastery/"><u>[Updated] Simplified Steps for Instagram Collage Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elite-workplace-cloud-data-haven/"><u>2024 Approved  Elite Workplace Cloud Data Haven</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms/"><u>2024 Approved  Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/conquering-the-labyrinth-of-lesser-known-youtube-content/"><u>Conquering the Labyrinth of Lesser-Known YouTube Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-home-screenscape-at-will/"><u>Customizing Your Windows Home Screenscape at Will</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-11s-evolution-via-copilot-key-integration/"><u>Demystifying Windows 11'S Evolution via Copilot Key Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-defense-with-customizable-firewall-options-in-context-menu/"><u>Elevate Windows Defense with Customizable Firewall Options in Context Menu</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-a-broken-steam-game-disk-without-hassle-tips-and-tricks-to-get-gaming-again/"><u>Fix a Broken Steam Game Disk Without Hassle: Tips and Tricks to Get Gaming Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-limited-memory-notifications-on-virtual-machines/"><u>Fixing 'Limited Memory' Notifications on Virtual Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-audio-fails-in-win11-error-0xc00d36b4/"><u>Fixing Audio Fails in Win11: Error 0XC00D36B4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-the-windows-update-components/"><u>How to Reset the Windows Update Components</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-best-no-cost-video-calls-for-remote-collaboration/"><u>In 2024, 10 Best No-Cost Video Calls for Remote Collaboration</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-7-hd-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 7 HD to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s24-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S24 Ultra Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-a-deep-dive-into-dev-drive-for-coders/"><u>Leveraging Windows 11: A Deep Dive Into Dev Drive for Coders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-taskbar-date-and-clock-adjustments/"><u>Master Taskbar Date & Clock Adjustments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-multiscreen-glow-best-windows-brightness-controls/"><u>Master Your Multiscreen Glow: Best Windows Brightness Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mend-erratic-scrolls-in-your-digital-display/"><u>Mend Erratic Scrolls in Your Digital Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-vcplusplus-distributable-explained/"><u>Microsoft's VC++ Distributable Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/missing-features-alert-restore-windows-11s-enhancement-settings/"><u>Missing Features Alert! Restore Windows 11'S Enhancement Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-time-management-top-5-pc-clock-screensavers-reviewed/"><u>Prioritize Time Management – Top 5 PC Clock Screensavers Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002347076-quick-fix-stop-titanfall-2-from-crashing-instantly/"><u>Quick Fix: Stop Titanfall 2 From Crashing Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-folder-titles-in-explorer-bar/"><u>Reinstating Folder Titles in Explorer Bar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-problematic-programs-on-windows-11-a-guide/"><u>Removing Problematic Programs on Windows 11: A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-dolby-atmos-in-win-1011-systems/"><u>Setting Up Dolby Atmos in Win 10/11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-methods-to-test-windows-11-status/"><u>Three Methods to Test Windows 11 Status</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tops-in-vocal-transformation-tech-featuring-magic/"><u>Tops in Vocal Transformation Tech, Featuring Magic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-retail-landscapes-microsofts-ai-hub/"><u>Transforming Retail Landscapes: Microsoft’s AI Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-vanished-settings-heres-where-to-locate-them/"><u>Win11's Vanished Settings? Here’s Where to Locate Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-games-adjusting-amd-graphics-on-windows-systems/"><u>Winning Games: Adjusting AMD Graphics on Windows Systems</u></a></li>
+</ul></div>

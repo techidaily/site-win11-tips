@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Core: 12 Imperative Excel Techniques You Need to Familiarize Yourself With"
-date: 2024-08-27 20:49:16
-updated: 2024-08-29 12:17:17
+date: 2024-08-28T01:08:59.629Z
+updated: 2024-08-29T01:08:59.629Z
 tags:
   - excel
 categories:
@@ -62,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.techidaily.com/get-1k-followers-every-month-on-instagram-for-2024/) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3\. Find the High or Low Value: MIN and MAX
 
  When you need to find the minimum or maximum value in a range of cells, you use the MIN and MAX functions.
@@ -80,6 +83,9 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 
 ![MIN and MAX functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MINMAX-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  4\. Find the Middle Value: MEDIAN
 
  Instead of the minimum or maximum value, you may want the middle one.
@@ -108,6 +114,9 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 
 ![COUNT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/COUNT-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
 ##  6\. Insert the Current Date and Time: NOW
@@ -128,6 +137,12 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![NOW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NOW-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  7\. Round to a Certain Number of Digits: ROUND
 
  If you have decimal numbers in your sheet that you want to round up or down, use the [ROUND function](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/) in Excel.
@@ -142,6 +157,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![ROUND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROUND-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  8\. Truncate a Number by Removing the Fraction: TRUNC
 
  Maybe you'd prefer to truncate a number rather than round it. Using the [TRUNC function](https://windows11.techidaily.com/balancing-cpu-and-memory-use-after-news-downloads/), you can remove the fraction from the number.
@@ -156,6 +174,12 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![TRUNC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/TRUNC-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ##  9\. Find the Product by Multiplying Cells: PRODUCT
 
  If you need to [multiply several cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/), using the PRODUCT function is more efficient than using the multiplication symbol (\*) in a formula.
@@ -172,6 +196,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  10\. Use the Reference Number of a Given Cell: COLUMN and ROW
 
  With the COLUMN and ROW functions in Excel, you can return the position number of a cell. These functions are useful for entering a series of reference numbers in your sheet, or [row numbers](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/), for instance.
@@ -190,6 +217,9 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 ![ROW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROW-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  11\. Eliminate White Space: TRIM
 
  Oftentimes you when you paste or import data, it contains extra spaces. The [TRIM function](https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/) eliminates white space.
@@ -234,3 +264,51 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cinematic-chronicles-reviewing-high-fidelity-recorders/"><u>[New] Cinematic Chronicles  Reviewing High-Fidelity Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[New] Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-meetings-with-snap-camera-on-teams/"><u>[New] Streamlining Meetings with Snap Camera on Teams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-18-webcam-recorders-to-try/"><u>[Updated] Best 18 Webcam Recorders to Try</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chromes-best-5-sites-to-download-fb-videos/"><u>[Updated] In 2024, Chrome's Best 5 Sites to Download FB Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[Updated] Recapturing Moments  The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/best-free-voice-changer-for-valorant-you-should-have-a-try-for-2024/"><u>Best Free Voice Changer for Valorant You Should Have a Try for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-slate-executing-a-clean-boot-in-windows-11/"><u>Clearing the Slate: Executing a Clean Boot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-effective-tool-for-win-soft-dependency/"><u>Discovering the Most Effective Tool for Win Soft Dependency</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>Elite Listings  Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results-for-2024/"><u>Empower Your Video Creation  Blending YouTube and iMovie for Impressive Results for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-policy-management-using-gpresult/"><u>Empowering Policy Management Using GPResult</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-writing-capability-in-windows-1011/"><u>Enhancing File Writing Capability in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-safety-with-new-passwords-in-win-11/"><u>Enhancing System Safety with New Passwords in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-procedure-to-clear-steams-domain-name-service-caches/"><u>Essential Procedure to Clear Steam's Domain Name Service Caches</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-warzones-game-disc-error-50-and-31-on-your-computer-with-easy-steps/"><u>Fixing Call of Duty: Warzone's Game Disc Error [5.0] and [3.1] on Your Computer with Easy Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-steadicam-selections-for-superior-dslr-cinematography-for-2024/"><u>High-End Steadicam Selections for Superior DSLR Cinematography for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-the-admin-restriction-error-message-on-pcs/"><u>How to Bypass the Admin Restriction Error Message on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-10-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>In 2024, Mastering Overloaded TikTok Saves  A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/in-search-for-integrity-how-to-filter-out-fake-windows-apps/"><u>In Search for Integrity: How to Filter Out Fake Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-for-effective-task-juggling/"><u>Leveraging Windows 11 for Effective Task Juggling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-full-privilege-access-to-terminal-a-snap-shot/"><u>Make Full-Privilege Access to Terminal A Snap Shot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-concurrent-archive-decompression-in-a-digital-age/"><u>Mastering Concurrent Archive Decompression in a Digital Age</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpos-on-user-profiles-in-windows-11-and-11/"><u>Mastering GPOs on User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-extender-writes-to-reduce-power-draw/"><u>Optimizing Extender' Writes to Reduce Power Draw</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80041015-on-windows-a-step-by-step-guide/"><u>Overcoming Error 0X80041015 on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-errors-when-attempting-to-login-to-battlenet/"><u>Overcoming Errors When Attempting to Login to Battle.net</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-input-sluggishness-in-win-os-via-7-fixes/"><u>Overcoming Input Sluggishness in WIN OS via 7 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-text-display-error-w11s-msresource-challenge/"><u>Overcoming Text Display Error: W11's MsResource Challenge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-your-desktop-image-in-windows-easily/"><u>Personalizing Your Desktop Image in Windows Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-lost-luster-how-to-repeat-steam-accomplishments/"><u>Restore Lost Luster: How to Repeat Steam Accomplishments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-navigation-window-11-power-user-guide/"><u>Simplify Navigation: Window 11 Power User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-system-crash-code-0xc0000001/"><u>Steps to Resolve System Crash: Code 0xC0000001</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-a-study-on-their-contrasting-traits/"><u>Terminal & PowerShell: A Study on Their Contrasting Traits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-consequences-of-muting-windows-11-notification-tones/"><u>The Consequences of Muting Windows 11 Notification Tones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-interactive-media-blizzards-journey-into-microsofts-visionary-tech-world-industry-insights/"><u>The Future of Interactive Media: Blizzard's Journey Into Microsoft's Visionary Tech World [Industry Insights]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-tutorial-refreshing-corsair-headset-software-in-windows/"><u>The Ultimate Tutorial: Refreshing Corsair Headset Software in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triumphant-tech-revival-quick-windows-resets-in-3-steps/"><u>Triumphant Tech Revival: Quick Windows Resets in 3 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-ssds-syncing-ssd-fresh-and-windows/"><u>Turbocharge SSDs: Syncing SSD Fresh & Windows</u></a></li>
+</ul></div>

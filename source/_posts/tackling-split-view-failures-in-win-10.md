@@ -1,0 +1,174 @@
+---
+title: Tackling Split View Failures in Win 10
+date: 2024-08-28T01:10:52.649Z
+updated: 2024-08-29T01:10:52.649Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Tackling Split View Failures in Win 10
+excerpt: This Article Describes Tackling Split View Failures in Win 10
+keywords: Win 10 Split View Issues,Fixing Screen Splitting,Windows 10 Multi-Tasking,Resolve Split View Errors,Windows 10 Dual Monitors,Troubleshooting Win 10 Multitasking,Overcoming Window Split Glitches
+thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad507615fc36a561cee9ad50600.png
+---
+
+## Tackling Split View Failures in Win 10
+
+ Split screen is convenient for multitasking on Windows computers. You use this feature to compare and copy data between two or more programs or windows simultaneously. But what if this feature stops working? This article discusses how to fix split screen problems on Windows.
+
+## What Causes Split Screen to Not Work?
+
+ Before you troubleshoot, you must understand why the split screen isn't working. Some of the most common reasons include.
+
+1. **The feature isn’t enabled in the system settings:** It’s possible that you accidentally disabled the split screen feature in your system settings.
+2. **Your graphics drivers aren’t updated:** Outdated graphics drivers can lead to split screen problems.
+3. **An outdated version of Windows:** If you’re using an older version of Windows, the split screen feature may not work properly.
+4. **The display settings are changed:** If the resolution or other display settings are changed, it can cause split screen issues.
+5. **The feature isn’t supported in the application:** It's also possible that the application you're trying to use doesn't support a split screen.
+
+ Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
+
+## 1\. Try Some Generic Fixes
+
+ Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
+
+1. The first step to resolving any computer issue is to [restart your PC](https://www.makeuseof.com/windows-restart-methods/). This often solves minor bugs that may cause common problems to occur.
+2. There are also some generic solutions you can try that fix Windows-specific errors. These include [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) and Deployment Image Servicing and Management. Running these utilities [clears out corrupted or missing system files](https://www.makeuseof.com/windows-built-in-repair-tools/) and replaces them with new ones.
+3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
+4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## 2\. Make Sure "Snap Windows" Is Enabled
+
+ It's possible that you accidentally disabled split screen features in your system settings. If so, tweak the Windows settings and turn on the service. Here's how to do it:
+
+1. Right-click on **Start** and select **Settings**.
+2. In the Settings window, select **System** \> **Multi**\-**tasking**.
+3. On the next page, turn on **Snap windows**.  
+![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
+4. Now click the down arrow key and ensure all the checkboxes are selected.
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ After making these changes, close the Settings window and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+## 3\. Check Your Display Settings
+
+ If updating the driver doesn't work, review your display settings. Sometimes, split screen issues come about when the display resolution is not set correctly. In this situation, adjust Windows resolution and check if it resolves the problem.
+
+ To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
+
+![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
+
+ Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
+
+## 4\. Restart Windows Explorer
+
+ If the problem continues, go to Task Manager and restart Windows Explorer. This is a vital process in Windows that handles the visual components of the system.
+
+ To restart Windows Explorer, follow these steps.
+
+1. Right-click on the taskbar and select **Task Manager**. You can also press **Ctrl + Shift + Esc** to open the tool directly.
+2. In the Task Manager window, go to the **Details** tab.
+3. Scroll down and look for **Windows Explorer**.
+4. Once you find the process, right-click on it and select **End task**. This will terminate the Windows Explorer process.  
+![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-explorer.jpg)
+5. Now click **Run new task** at the top of the Task Manager window.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
+
+ After restarting Windows Explorer, try split screen again and see if it works now.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Uninstall Third-Party Software
+
+ If you have any third-party software or applications that manage Windows or screen layouts, uninstall them temporarily. Sometimes these programs interfere with Windows split-screen functionality and cause the issue.
+
+ To remove such applications from your device, use the following instructions:
+
+1. Press **Win + S** on your keyboard to open Windows search.
+2. Type **Control Panel** in the search bar and hit Enter.
+3. In the Control Panel window, set the View by option to Category.
+4. Now click **Programs** \> **Programs and Features** \> **Uninstall a program**.
+5. Locate and right-click on the application that interferes with the split screen.
+6. Select **Uninstall** from the context menu and follow the instructions to complete the process.
+
+ Once you're done, try to use split screen to check if the issue is resolved.
+
+## 6\. Use the Built-In Shortcut Keys for Split Screen
+
+ Windows has built-in keyboard shortcuts to launch split screens quickly. This method is useful if the issue occurs due to a minor bug or glitch.
+
+ To use split screen, press **Win + Left Arrow** on your keyboard. This makes one window dominate the left side of your screen. The same applies to **Win + Right Arrow**, which makes one window take up the right side of your screen.
+
+ Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
+
+ Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-achieve-crystal-clear-slack-discussions-with-these-10-tools-for-2024/"><u>[New] Achieve Crystal Clear Slack Discussions with These 10 Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-advanced-techniques-for-youtube-card-use/"><u>[New] In 2024, Advanced Techniques for YouTube Card Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>[New] The Powerhouse of 4K  Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-yoga-series-online-stay-active-and-healthy/"><u>[Updated] 2024 Approved  Best Yoga Series Online - Stay Active & Healthy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] In 2024, Unmatched YouTube Success  10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-a-compelling-profile-visual-experience/"><u>2024 Approved  Crafting a Compelling Profile Visual Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-a-sound-perspective/"><u>Beyerdynamic MMX 200: A Sound Perspective</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-perfection-iphone-x8plus-ultimate-lens-tools-for-2024/"><u>Capture Perfection  IPhone X/8+ Ultimate Lens Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clandestine-file-storage-win11s-image-encryption-tricks/"><u>Clandestine File Storage: Win11's Image Encryption Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-security-turn-on-controlled-folder-access-in-windows-11/"><u>Command Security: Turn on Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-dollar-first-steps-in-youtubers-revenue-for-2024/"><u>Digital Dollar  First Steps in YouTubers' Revenue for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-revamping-your-intel-centrino-advanced-n-6235-wifi-card-software/"><u>Easy Instructions for Revamping Your Intel Centrino Advanced-N 6235 WiFi Card Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-1011-ui-with-portable-apps-icons/"><u>Elevate Windows 10/11 UI with Portable Apps Icons</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/empowering-automation-elevating-machine-intellect-with-strategic-content-understanding-the-abbyy-perspective/"><u>Empowering Automation: Elevating Machine Intellect with Strategic Content Understanding | The ABBYY Perspective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-powershell-mastery-of-execution-policy-settings/"><u>Empowering PowerShell: Mastery of Execution Policy Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-building-shortcuts-to-uwp-apps-in-windows-11/"><u>Essential Tips: Building Shortcuts to UWP Apps in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-essential-steps-to-overcome-windows-os-hypervisor-faults/"><u>Five Essential Steps to Overcome Windows OS Hypervisor Faults</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unsuccessful-file-transfers-on-windows-pcs/"><u>Fixing Unsuccessful File Transfers on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-dev-windows-11s-jdk-integration/"><u>From Zero to Dev: Windows 11'S JDK Integration</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>In 2024, Achieving Financial Gain with Youtube Shorts  Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-command-line-integration-in-windows-11s-task-manager/"><u>Mastering Command Line Integration in Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-folder-inclusion-in-win11s-context-menu/"><u>Mastering Folder Inclusion in Win11's Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-action-center-mixer-for-immersive-sound/"><u>Mastering Windows 11'S Action Center Mixer for Immersive Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-double-click-quickness-on-pc-three-key-settings/"><u>Optimize Double-Click Quickness on PC: Three Key Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-screen-and-sound-recordings-with-the-updated-windows-11-snipping-tool-max-156/"><u>Optimizing Your Screen & Sound Recordings with the Updated Windows 11 Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-windows-scanner-errors/"><u>Overcoming Common Windows Scanner Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-fallout-76s-crash-woes-a-step-by-step-solution-walkthrough/"><u>Overcoming Fallout 76'S Crash Woes - A Step-by-Step Solution Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-nonexistent-gadget-reference-on-win-11/"><u>Overcoming Nonexistent Gadget Reference on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-absence-of-supported-scanner-for-windows-hello/"><u>Remedying the Absence of Supported Scanner for Windows Hello</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faulty-ports-the-windows-way-to-reclaim-usb-health/"><u>Restoring Faulty Ports - The Windows Way to Reclaim USB Health</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-windows-calculator-display-to-dark/"><u>Set Windows Calculator Display to Dark</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/text-and-title-effect-types-in-after-effects/"><u>Text and Title Effect Types in After Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-path-to-prosperous-steam-utilization/"><u>The Path to Prosperous Steam Utilization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-find-x7-ultra-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Find X7 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-overcome-no-server-woes-in-windows-pc-apex-legends-(156-chars/"><u>Top Strategies to Overcome No-Server Woes in Windows PC Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-system-potential-enhancing-virtual-memory/"><u>Unlocking System Potential: Enhancing Virtual Memory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-when-your-update-fails-at-0x800f0845/"><u>What to Do When Your Update Fails at 0X800F0845?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
