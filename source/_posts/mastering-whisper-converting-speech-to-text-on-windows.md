@@ -1,0 +1,262 @@
+---
+title: "Mastering Whisper: Converting Speech to Text on Windows"
+date: 2024-09-01T05:20:15.063Z
+updated: 2024-09-02T05:20:15.063Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Mastering Whisper: Converting Speech to Text on Windows"
+excerpt: "This Article Describes Mastering Whisper: Converting Speech to Text on Windows"
+keywords: Speech-to-Text Windows,Audio Transcription Windows,Voice Recognition Software,Windows Text Conversion,Digital Assistant Transcripts,Speech-To-Text Windows App,PC Speech to Text Software
+thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b95a196e8f26206ebb83676d.jpg
+---
+
+## Mastering Whisper: Converting Speech to Text on Windows
+
+ OpenAI's Whisper is a new AI-powered solution that can turn your voice into text. Best of all, it comes at zero cost.
+
+ However, there's a catch: it's more challenging to install and use than your average Windows utility. Especially if you want to use your Nvidia GPU's Tensor Cores to give it a nice boost.
+
+ Don't fret, though. That's why we're here! Read on to find out how to install and use it, but also, if you own one, to have Whisper take advantage of your Nvidia GPU.
+
+## What Is OpenAI's Whisper?
+
+ ChatGPT is all the rage nowadays, and we already saw[how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
+
+ Powered by deep learning and neural networks, Whisper is a natural language processing system that can "understand" speech and transcribe it into text. But it's also its own thing, sitting at a spot right among all similar solutions:
+
+* Whisper is an AI solution "trained" on natural language. So, it's better at understanding "normal" human speech than older solutions.
+* Whisper doesn't come with an interface, nor can it record audio. It can only take existing audio files and output text files.
+* Since it's good at "making sense of language", Whisper also has the superpower of automatic translation in a single step.
+* Whisper is not an online service and can work entirely offline.
+* If you have a relatively modern Nvidia GPU (GTX970 or newer), Whisper can run in "hardware accelerated mode" to boost its speed.
+* There's no requirement to register, purchase a license, or buy a subscription.
+
+## Why Are AMD GPUs Not Supported?
+
+ For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
+
+ CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on[AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
+
+ Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## How to Download and Install Whisper
+
+ Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
+
+ For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on[the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
+
+ For Linux and Macs, the installation process (excluding the Windows path variable, and easy-to-use batch files we'll create) should be similar.
+
+1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on[how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
+2. Install**FFMPEG** through Chocolatey with this command:  
+`choco install ffmpeg`  
+ Also, install its Python version with:  
+`pip3 install python-ffmpeg`  
+![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
+3. Finally, install Whisper from its Github page with:  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+`pip3 install git+https://github.com/openai/whisper.git`
+
+## Getting Whisper's CUDA-Enabled Version
+
+ Although Whisper doesn't use Nvidia GPUs, the**torch** package it relies on offers a CUDA-accelerated version. Using this instead of the "plain" version can help Whisper complete its transcriptions much faster with the help of your Nvidia GPU.
+
+To have Whisper use the CUDA cores of your Nvidia GPU:
+
+1. If you already have the "vanilla" version of torch installed, uninstall and purge remnants of it with:  
+`pip3 uninstall torch`  
+ Once it's done, follow it up with:  
+`pip cache purge`
+2. Install torch's CUDA-enabled version with:  
+`pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
+![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
+3. To check if Whisper can use your Nvidia GPU, use:  
+`whisper --help | findstr -i pytorch`  
+ You should see**(default: cuda)** instead of**(default: cpu)** .
+
+## What to Do if Torch Fails to Install
+
+ If you encounter the "no version found" errorwhile installing torch, you may need to install an older version of Python parallel to your current one.
+
+Use this command to do that:
+
+`choco install python --version OLDER_VERSION --side-by-side`
+
+Replace "OLDER\_VERSION" with a version, like 3.10.
+
+![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
+
+ Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
+
+## How to Record Your Voice
+
+ You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
+
+ For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
+
+![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Start Transcribing With Whisper
+
+ Although Whisper doesn't come with a user-friendly GUI, its use is ultra-simple.
+
+ Let's say we have the file**LatestNote.mp3** which contains speech in Greek, in folder**c:\\MyAudioFiles** , and want to translate it to English and transcribe it into a text file.
+
+1. We begin by running**Command Prompt** or**PowerShell** .
+2. We "change directory" where the audio file is stored with this command:  
+`cd C:\MyAudioFiles`
+3. We unleash Whisper on the file with:  
+`whisper --model base --language gr --task translate LatestNote.mp3`  
+![Whisper translate gr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-translate-gr.jpg)
+
+ Once processed, the text file (named "LatestNote.mp3.txt") will appear in the same folder. Open it in a text editor like**Notepad** to view the translated text.
+
+ We used a translation example because English transcription is even more straightforward: you only have to "lose" the "--language" and "-task" flags. Thus, for plain transcription, the above command would be:
+
+`whisper --model base LatestNote.mp3`
+
+ The "model" flag is required because Whisper uses one out of various options. Let's expand on them to help you choose the best for your needs.
+
+### Which Model to Choose?
+
+ Whisper offers various language models. The larger the model, the more improved its accuracy, but also the higher its hardware requirements. They are:
+
+1. Tiny.
+2. Base.
+3. Small.
+4. Medium.
+5. Large.
+
+ Most native English speakers should be fine with the**tiny** or**base** models. Non-native English speakers may see better results with larger models, like**small** and**medium** .
+
+ Note, though, that the medium and large models require over 8GBs of VRAM (that is, "your GPU's memory").
+
+![whisper model small](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/whisper-model-small.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ To select one of them, specify the model after the "--model" switch in the command:
+
+`whisper --model tiny/small/medium/large [file]`
+
+For example:
+
+`whisper --model small My_Voice_Note.mp3`
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Streamline Your Transcription
+
+ Having to type the whole Whisper command every time you want to transcribe some audio can quickly get boring. Let's make a globally accessible batch file to streamline the process.
+
+1. Run**Windows Explorer** and visit your C: drive.
+2. Create a folder for your scripts, and copy its path to the Clipboard.
+3. In the Windows Start menu, search for "path" and select**Edit the system environment variables** .  
+![Windows Start Edit The System Environment Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-start-edit-the-system-environment-variables.jpg)
+4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
+5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
+`whisper --model tiny --language en %1`  
+![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
+6. Create two more batch files, "whs" and "whm".
+7. Place this inside the first script:  
+`whisper --model small --language en %1`
+8. Place this inside the second:  
+`whisper --model medium --language en %1`
+
+ Congratulations, you now have three scripts for easily using Whisper's tiny, small, and medium models with your audio files! To transcribe any audio file to text:
+
+1. Locate the file with**Windows File Explorer** .
+2. **Right-click** on an empty spot and choose**Open in Terminal** .
+3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
+`wht YOUR_AUDIO_FILE.mp3`
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+## Typing at the Speed of Sound With Whisper
+
+ Even the quickest touch-typists can't match the speed at which we speak. However, until recently, talking instead of typing wasn't optimal for creating documents.
+
+ Most voice-to-text solutions produced mediocre results. You could find a few solutions worth trying, but they were complicated to use, or costly. Thankfully, Whisper changed all that.
+
+ After the steps above, you should be ready to transcribe or translate your voice with high accuracy, using only a single command.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-snaptweet-transporter-swiftly-grab-social-media-vids/"><u>[New] SnapTweet Transporter  Swiftly Grab Social Media Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-diving-into-the-digital-splendor-of-nikon-d500-for-2024/"><u>[Updated] Diving Into the Digital Splendor of Nikon D500 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-steps-to-secure-unmarked-stock-photos-for-business/"><u>[Updated] Steps to Secure Unmarked Stock Photos for Business</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-cutting-edge-8-innovative-open-source-video-meeting-systems-for-2024/"><u>[Updated] The Cutting Edge  8 Innovative Open Source Video Meeting Systems for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>2024 Approved  Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beware-deceptions-uncover-the-truth-about-scam-ridden-mac-app-store/"><u>Beware Deceptions: Uncover the Truth About Scam-Ridden Mac App Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bulk-clean-up-eliminating-characters-from-an-excel-document-simultaneeously/"><u>Bulk Clean-Up: Eliminating # Characters From an Excel Document Simultaneeously</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-legal-issues-unveiled-revisions-to-google-news-accessibility-and-top-strategies-for-staying-connected-on-the-go/"><u>ChatGPT Legal Issues Unveiled, Revisions to Google News Accessibility, and Top Strategies for Staying Connected on the Go</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coloring-beneath-the-surface-a-guide-to-shading-alternating-cells-in-ms-excel/"><u>Coloring Beneath the Surface: A Guide to Shading Alternating Cells in MS Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-unique-capabilities-of-siri-11-innovative-uses-for-your-mac/"><u>Discover the Unique Capabilities of Siri: 11 Innovative Uses for Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-determining-your-datasets-middle-value-the-median-formula-in-excel-unveiled/"><u>Efficiently Determining Your Dataset's Middle Value: The Median Formula in Excel Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-data-entry-mastering-flash-fill-and-auto-fill-in-microsoft-excel/"><u>Effortless Data Entry: Mastering Flash Fill & Auto Fill in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-techniques-to-craft-stunning-bubble-charts-using-excel/"><u>Effortless Techniques to Craft Stunning Bubble Charts Using Excel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ensuring-your-programs-run-as-an-admin-on-windows-11-a-complete-how-to/"><u>Ensuring Your Programs Run as an Admin on Windows 11 - A Complete How-To</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-custom-default-typography-setting-standard-fonts-and-sizes-in-new-excel-sheets/"><u>Establishing Custom Default Typography: Setting Standard Fonts & Sizes in New Excel Sheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-tutorial-building-your-first-radar-chart-from-scratch/"><u>Excel Tutorial: Building Your First Radar Chart From Scratch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-clustering-multiple-pie-graphs-together-in-microsoft-excel-easily-and-accurately/"><u>Guide to Clustering Multiple Pie Graphs Together in Microsoft Excel Easily and Accurately</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-how-to-implement-mac-os-x-quick-look-functionality-in-windows/"><u>Guide: How to Implement Mac OS X Quick Look Functionality in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-a2-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo A2 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-quintessential-guide-to-selecting-video-apps-for-reels/"><u>In 2024, The Quintessential Guide to Selecting Video Apps for Reels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y100-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y100 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-representation-crafting-graphs-using-microsoft-excel-tutorials/"><u>Mastering Data Representation: Crafting Graphs Using Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-davinci-resolve-fixes-for-common-startup-problems-in-windows-environments/"><u>Mastering DaVinci Resolve: Fixes for Common Startup Problems in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-macros-streamline-your-workflow-and-eliminate-repetitive-chores/"><u>Mastering Excel Macros: Streamline Your Workflow and Eliminate Repetitive Chores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-excel-a-step-by-step-guide-to-utilizing-the-filter-feature/"><u>Mastering Microsoft Excel: A Step-by-Step Guide to Utilizing the Filter Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-spreadsheet-techniques-to-change-series-names-in-excel/"><u>Mastering Your Spreadsheet: Techniques to Change Series Names in Excel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>Optimal Energy Solutions for GoPro Hero5  Certified & Third-Party</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-saved-solving-the-mystery-behind-red-dead-online-crashes/"><u>PC Gaming Saved: Solving the Mystery Behind Red Dead Online Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-data-presentation-with-effective-spell-check-functions-in-excel/"><u>Perfect Your Data Presentation with Effective Spell Check Functions in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/printing-excel-sheets-made-easy-how-to-show-gridlines-with-rowcolumn-labels/"><u>Printing Excel Sheets Made Easy - How to Show Gridlines with Row/Column Labels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-data-with-ease-mastering-pivot-table-updates-in-ms-excel/"><u>Revamp Your Data with Ease - Mastering Pivot Table Updates in MS Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-steps-mastering-the-selection-of-cell-ranges-in-microsoft-excel/"><u>Simple Steps: Mastering the Selection of Cell Ranges in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-usb-mouse-wont-connect-to-your-pc-fix-guide/"><u>Solutions for When Your USB Mouse Won't Connect to Your PC – Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adding-and-utilizing-microsoft-office-extensions/"><u>Step-by-Step Guide: Adding & Utilizing Microsoft Office Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-crafting-personalized-excel-templates/"><u>Step-by-Step Guide: Crafting Personalized Excel Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-erasing-gridlines-and-preview-pane-in-microsoft-excel/"><u>Step-by-Step Guide: Erasing Gridlines and Preview Pane in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-mastering-uppercase-letters-with-microsoft-excel/"><u>Step-by-Step Guide: Mastering Uppercase Letters with Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-accessing-and-deciphering-obscure-file-types/"><u>The Ultimate Guide to Accessing and Deciphering Obscure File Types</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-master-these-7-microsoft-excel-features-for-superior-financial-planning/"><u>The Ultimate Guide: Master These 7 Microsoft Excel Features for Superior Financial Planning</u></a></li>
+</ul></div>

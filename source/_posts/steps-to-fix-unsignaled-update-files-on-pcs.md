@@ -1,0 +1,187 @@
+---
+title: Steps to Fix Unsignaled Update Files on PCs
+date: 2024-09-01T05:16:11.658Z
+updated: 2024-09-02T05:16:11.658Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Steps to Fix Unsignaled Update Files on PCs
+excerpt: This Article Describes Steps to Fix Unsignaled Update Files on PCs
+keywords: Fixing Update File Errors,Solving Signal Failures,Update File Repair Steps,Correcting OS Updates,Unsignaled Update Correction,PC Update Issue Resolution,Fixed Update Files Guide
+thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f64d610e7943b29ad8777b2c6.jpg
+---
+
+## Steps to Fix Unsignaled Update Files on PCs
+
+ Users frequently report Windows 11/10 update errors on software support forums. One such update issue reported is an error message that says, “Some update files aren’t signed.” Some users see that error message appear within Settings’ Windows Update tab when trying to update Windows.
+
+ Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
+
+## 1\. Utilize the Windows Update Troubleshooter
+
+ The Windows Update troubleshooting tool is there to help you fix any issues encountered when trying to update Windows 11/10\. That troubleshooter doesn’t necessarily fix every update error, but it can at least resolve some issues.
+
+ So, utilizing that troubleshooter is always worth a try, which you can access in Settings as covered within this guide to [running any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
+
+![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update-troubleshooter.jpg)
+
+## 2\. Run Deployment Imaging and System File Scans
+
+ System file corruption is among the [most common reasons for Windows update errors](https://www.makeuseof.com/reasons-why-windows-updates-fail/). For that reason, running a System File Checker scan to address system file corruption is a recommended troubleshooting method for error 0x800b0109\.
+
+ It’s also advisable to utilize the Deployment Imaging and Servicing Management to repair possible Windows image corruption.
+
+ Both Deployment Imaging and System File Checker are Command Prompt tools. You can run them by inputting and executing two commands within the Command Prompt. Our article on [repairing corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions on how to utilize the SFC and DISM command-line tools.
+
+![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow.jpg)
+
+## 3\. Check the Windows Update and BITS Services Are Enabled
+
+ Windows Updates and Background Intelligent Transfer Service (BITS) are two services that need to be enabled for updates. So, check those services are correctly set like this:
+
+1. Simultaneously press the **Windows** logo + **S** keys on your keyboard.
+2. Enter the search phrase "services" to find the app with a matching title.
+3. Click on **Services** inside the search results.
+4. Double-click **Windows Update** to access settings for that service.  
+![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-window.jpg)
+5. Set the **Startup type** setting to the **Automatic** option.  
+![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/startup-type-drop-down-menu.jpg)
+6. Click **Start** (inside the properties windows) to run the Windows Update service.
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+7. Save the settings by pressing the **Apply** and **OK** buttons.
+8. Double-click the **Background Intelligent Transfer Service** to view its settings.
+9. Select a **Manual** startup option.
+10. Click the **Start** option for the BITS service if it’s stopped.
+11. Then click on the **Apply** and **OK** options to set that service’s options.
+
+ If you find both services to be already enabled and running, try restarting them. You can do so by right-clicking the BITS and Windows Update service names and selecting a **Restart** option on their context menus.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Reset Components for Windows Updates
+
+ Resetting components for Windows updates will completely refresh the catroot2 and SoftwareDistribution folders, which store update data. This troubleshooting method also reregisters all DLL files for important update services. Applying such a potential resolution can fix corrupted components causing error 0x800b0109\.
+
+ To apply this possible error 0x800b0109 resolution, check out our article on [resetting Windows update components](https://www.makeuseof.com/reset-windows-update-components/). That guide includes a command-line and batch file method. Creating and running a batch file is the quicker and more straightforward way to reset Windows update components.
+
+## 5\. Deactivate Third-Party Security Software
+
+ A third-party security (antivirus) app can potentially conflict with Windows update processes. This can happen when the antivirus protection of a security app locks files needed by Windows Update. It’s not something that happens often, but temporarily disable any third-party antivirus protection on your PC just in case.
+
+ Security apps typically include options for disabling antivirus protection on their system tray context menus. Right-click your security app’s icon in Windows 11’s system tray area to find and select its option for temporarily disabling the antivirus shield. Then, return to the Settings app to see if error 0x800b0109 still happens with the antivirus shield disabled.
+
+![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 6\. Erase the Windows Update Key
+
+ Deleting the Windows Update registry key is a potential resolution some users confirm to fix error 0x800b0109\. However, we always recommend [backing up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or saving a system restoration point before deleting registry keys.
+
+ When you’ve done that, try deleting the Windows Update key like this:
+
+1. Open Run, accessible by pressing **Windows** logo key + **R**, and type a **regedit** command into that accessory.
+2. Select Run’s **OK** option to open the Registry Editor.
+3. Next, clear the registry address bar and input this key path there:  
+`HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate`
+4. Right-click the WindowsUpdate registry key to select **Delete**.  
+![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-option-1.jpg)
+5. Click **Yes** when prompted for confirmation to delete the key.  
+![The Confirm Key Delete prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-key-confirmation-1.jpg)
+
+ Thereafter, it’s also recommended to restart the Windows Update and BITS services. To do so, open Services as covered in the first three steps of resolution three. Then, select the **Restart** context menu options for Windows Update and BITS.
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Try Downloading the Failed Update From Microsoft Update Catalog
+
+ If error 0x800b0109 still isn’t fixed after applying the potential resolutions above, try going around it by manually downloading the affected update from [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx). Then, you can install the update with an MSU file downloaded from there.
+
+ You will first need to identify what update is failing as follows:
+
+1. Simultaneously press your keyboard’s **Windows** logo + **I** keys to access Settings.
+2. Click **Windows Update** (or **Update & Security**) in Settings.
+3. Select **Update history** to view installed and failed updates.  
+![The update history in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-history4.jpg)
+4. Note down the KB code for your recently failed Windows update.
+
+ Then, you can find and download that failed update on the Microsoft Update Catalog website. This article about [updating Windows manually](https://www.makeuseof.com/update-windows-manually/) includes instructions for utilizing the Microsoft Update Catalog.
+
+## 8\. Apply an In-Place Windows Upgrade
+
+ An in-place Windows upgrade is the last resort for fixing error 0x800b0109\. Applying this potential resolution will reinstall Windows on your PC with its latest ISO file. The installation of a fresh Windows copy will likely resolve other issues causing the 0x800b0109 update error that other potential solutions couldn’t fix.
+
+ The good thing about an in-place upgrade is that it won’t eradicate your installed software or user files. This [how-to perform an in-place upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) guide tells you how to apply this potential solution for Windows 11\. The steps are quite similar for Windows 10, but you’ll need to download its ISO with the Media Creation Tool available on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10).
+
+![The Windows 10 Media Creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-10-setup-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## Get Windows Updated Again
+
+ There isn’t a surefire way to fix error 0x800b0109 since there are varied possible reasons for that Windows 11/10 issue occurring. However, it’s likely at least one of the eight potential resolutions in this guide will fix that update issue on your PC.
+
+ Some of the best third-party Windows repair tools might also be helpful for resolving the “Some update files aren’t signed” error.
+
+ Windows updates fail to install when this issue occurs. This error usually includes either a 0x800b0109 or 0x800b0100 code after its message. This is how you can resolve the “Some update files aren’t signed” error 0x800b0109 on a Windows 11/10 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-exclusive-access-to-the-finest-ae-templates-all-free/"><u>[New] 2024 Approved  Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-auditory-enhancements-for-pixels-and-playlists/"><u>[New] Auditory Enhancements for Pixels and Playlists</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-idevices-recording-tools-for-2024/"><u>[New] Comprehensive Guide to iDevices Recording Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>[New] In 2024, Cadence in Clips  The Guide to Musical Integration on IG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-video-thumbnail-creation-for-maximum-clicks-for-2024/"><u>[New] Mastering Video Thumbnail Creation for Maximum Clicks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[Updated] In 2024, Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-secrets-of-successful-google-meet-engagement/"><u>[Updated] Unlocking the Secrets of Successful Google Meet Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-install-failed-disconnect-for-win-11-discord/"><u>Correcting the 'Install Failed' Disconnect for Win 11 Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-turning-esd-to-iso-on-windows-instantly/"><u>Efficiency in Action: Turning ESD to ISO on Windows Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-driver-failure-error-on-windows-11-pc/"><u>Eliminating Driver Failure Error on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insight-efficiently-identify-hdd-vs-ssd-type-on-windows/"><u>Expert Insight: Efficiently Identify HDD vs SSD Type on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hassle-free-method-for-latest-gpu-driver-update-on-windows-11-devices/"><u>Hassle-Free Method for Latest GPU Driver Update on Windows 11 Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-fine-tuning-minecrafts-ram-for-better-gaming-results/"><u>In 2024, Fine-Tuning Minecraft's RAM for Better Gaming Results</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-game-on-compile-your-collection-of-the-top-12-pc-clickers/"><u>In 2024, Game On  Compile Your Collection of the Top 12 PC Clickers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-to-the-code-how-to-fix-keystrokes-in-win10/"><u>Key to the Code: How to Fix Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-should-focus-on-making-windows-11-better-not-just-more-fun/"><u>Microsoft Should Focus on Making Windows 11 Better, Not Just More Fun</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-hurdles-restoring-access-to-notepad/"><u>Navigating Through Windows' Hurdles: Restoring Access to Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-system-hurdle-windows-c0000022-resolution-guide/"><u>Overcoming System Hurdle: Windows C0000022 Resolution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-warnings-about-unverified-application-in-windows-os/"><u>Overcoming Warnings About Unverified Application in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-windows-11-control-panel/"><u>Overhauling Your Windows 11 Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-windows-zoom-disruptions-fatal-error-1132/"><u>Preventing Windows Zoom Disruptions - Fatal Error 1132</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-excessive-cpu-consumption-by-vanguards-ums-in-windows/"><u>Resolving Excessive CPU Consumption by Vanguard's UMS in Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revealed-ms-bda-through-gfx-lens/"><u>Revealed: MS BDA Through GFX Lens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016958719-solve-pc-based-microphone-problems-in-rec-room-your-ultimate-fix-guide-updated/"><u>Solve PC-Based Microphone Problems in Rec Room: Your Ultimate Fix Guide, Updated</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steady-your-system-five-approaches-to-resolve-secure-boot-errors/"><u>Steady Your System: Five Approaches to Resolve Secure Boot Errors</u></a></li>
+<li><a href="https://os-tips.techidaily.com/steps-to-take-if-your-lost-airtag-appears-at-home-a-comprehensive-guide/"><u>Steps to Take If Your Lost AirTag Appears at Home: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-way-through-fax-cover-customization-in-win11/"><u>Streamlining Your Way Through Fax Cover Customization in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-disarm-frozen-app-block-on-windows/"><u>Techniques to Disarm Frozen App Block on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-pc-performance-monitors-in-windows/"><u>Top 6 PC Performance Monitors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-stuck-on-size-errors-in-win11-discord-with-ease/"><u>Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-installation-iso-file-journey/"><u>Windows 11 ARM Installation: ISO File Journey</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

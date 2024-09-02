@@ -1,0 +1,148 @@
+---
+title: How to Disable Taskbar Icon Grouping on Windows 11
+date: 2024-09-01T05:19:15.490Z
+updated: 2024-09-02T05:19:15.490Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Disable Taskbar Icon Grouping on Windows 11
+excerpt: This Article Describes How to Disable Taskbar Icon Grouping on Windows 11
+keywords: Windows 11 Taskbar Disable,Disable Group Bar Icon,Windows 11 Icon Arrangement,Taskbar Grouping Control,Group Icons on Taskbar Off,Turn Off Taskbar Groups,Icon Layout in Windows 11
+thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e86352ca57ab485a51d50b112ab.png
+---
+
+## How to Disable Taskbar Icon Grouping on Windows 11
+
+ Microsoft first introduced icon grouping on the Windows taskbar in Windows 10\. Certain users dislike this functionality and want to change their taskbars to behave like the old tab system.
+
+ What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
+
+## What Is Taskbar Icon Grouping?
+
+![screenshot of multiple file explorer windows open in task bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_multiple_file_explorer_windows_open_in_taskbar.jpg)
+
+ Icon grouping is when Windows 11 combines multiple windows of a single program together. For example, having multiple File Explorer windows open will show as one File Explorer icon with multiple tabs behind it.
+
+ This results in a cleaner and less cluttered taskbar, but one that gives you significantly less information. Some users [restore the old taskbar labels on Windows](https://www.makeuseof.com/windows-11-10-taskbar-labels/), but this takes up more space on your taskbar than the icons do.
+
+## How to Disable Taskbar Icon Grouping
+
+![screenshot of windhawk main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_windhawk_main_screen.jpg)
+
+ The quickest way to disable this function is to use a program called Windhawk. Windhawk carries a number of quality-of-life modifications for Windows 11\.
+
+ To start, head over to [the Windhawk website](https://windhawk.net) and download the program. Install it and run it afterward.
+
+![screenshot of disable grouping on taskbar in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_disable_grouping_on_taskbar_windhawk.jpg)
+
+ Click on the **Explore** button, and search for **Disable grouping on the taskbar.** Go into **Details** and hit the **Install** button. After a few seconds, it'll be enabled, but you may need to [restart Windows File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or your overall system to see the difference.
+
+ You can also modify how the modification behaves by clicking **Details** and then **Settings.** You can enable or disable features like keeping the icons together, or to separate the pinned apps from the rest of the open windows.
+
+## Exploring the Other Taskbar Mods on Windhawk
+
+![screenshot of taskbar search in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_taskbar_search_in_windhawk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+ Windhawk has a range of other modifications for different aspects of Windows 11\. If you search just **taskbar** into Windhawk, you'll see a few other options.
+
+ Since you're already modifying your taskbar, it can't hurt to look into these. Features that aren't usually supported by Windows, such as middle-clicking to close a taskbar window, can be found here, and are as simple to install as the above.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Achieve Supreme Taskbar Flexibility With Windhawk
+
+ When it comes to tweaking your taskbar, the default Windows options can sometimes be lacking. While many modifications on Windhawk can be major changes, most that relate to the taskbar are minor or subtle changes. Regardless, these small alterations can greatly enhance the user experience.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## FAQ
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Q: Can I Move the Taskbar Icons in Windows 11?
+
+ Yes, you can [move the taskbar icons to the left on your Windows 11 PC](https://www.makeuseof.com/move-taskbar-windows-11/) by heading into Settings > Personalization > Taskbar > Taskbar behaviors and choosing Left from the Taskbar alignment drop-down menu. Your taskbar has now moved to the left.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
+### Q: How Do I Customize My Taskbar in Windows 11?
+
+ You can [customize your taskbar in Windows 11](https://www.makeuseof.com/windows-11-customize-taskbar/) by right-clicking your taskbar, choosing Taskbar settings, and tweaking various options displayed on your screen. These options let you change your taskbar's functionality and appearance.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+### Q: How Do I Fix My Taskbar in Windows 11?
+
+ You can [resolve issues with your Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) by restarting the Windows Explorer process. You can do that by opening Task Manager, right-clicking "Windows Explorer," and choosing "Restart."
+
+ What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-6-superior-apps-for-effortless-mac-video-grabbing/"><u>[New] 2024 Approved  6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ideal-video-player-apps-for-windows-os-enthusiasts/"><u>[New] 2024 Approved  Ideal Video Player Apps for Windows OS Enthusiasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-premium-cameras-perfect-for-podcasts/"><u>[Updated] In 2024, Premium Cameras Perfect for Podcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-asus-rog-nuc-tier-review-unmatched-performance-within-compact-design/"><u>Comprehensive Guide to the Asus ROG NUC Tier Review: Unmatched Performance Within Compact Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-defeating-the-d3d11-compatible-gpu-predicament-in-w11w10/"><u>Decoding and Defeating the D3D11-Compatible GPU Predicament in W11/W10</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-diving-into-youtubes-veiled-video-vaults-for-2024/"><u>Digital Diving Into YouTube’s Veiled Video Vaults for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-screen-captures-in-windows-snip-tool-vs-printscreen/"><u>Efficient Screen Captures in Windows: Snip Tool Vs. Printscreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expediting-windows-ram-cache-deletion-process/"><u>Expediting Windows RAM Cache Deletion Process</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-forward-to-forgotten-reddit-threads-for-2024/"><u>Fast Forward to Forgotten Reddit Threads for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-iphone-to-pc-mastering-the-use-of-apple-maps/"><u>From iPhone to PC: Mastering the Use of Apple Maps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-se-2020-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone SE (2020) iCloud Bypass</u></a></li>
+<li><a href="https://techidaily.com/how-to-design-personalized-dynamic-backgrounds-for-macos-a-step-by-step-guide/"><u>How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-amds-cryptocurrency-driver-pack-for-windows-the-essential-guide/"><u>How to Install AMD's Cryptocurrency Driver Pack for Windows: The Essential Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-your-laptops-energy-efficient-features/"><u>How to Manage Your Laptop's Energy Efficient Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reveal-hidden-elements-in-windows-11-ui/"><u>How to Reveal Hidden Elements in Windows 11 UI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-path-to-professionalism-morphvox-transformation-guide/"><u>In 2024, Path to Professionalism  MorphVOX Transformation Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insider-look-at-opened-windows-content/"><u>Insider Look at Opened Windows Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-friends-lost-tracking-your-unfollowers-for-2024/"><u>Insta Friends Lost  Tracking Your Unfollowers for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-removing-facial-data-a-risk-to-privacy-and-security-for-fb-users/"><u>Is Removing Facial Data a Risk to Privacy and Security for FB Users?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-command-prompt-a-guide-to-user-management/"><u>Navigating Command Prompt: A Guide to User Management</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/next-level-vfx-gear-for-the-eco-savvy/"><u>Next-Level VFX Gear for the Eco-Savvy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-dll-loss-restoring-d3dx939-on-windows-11/"><u>Overcoming DLL Loss: Restoring D3DX9_39 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-startup-hurdles-for-photoshop-on-windows-1011/"><u>Overcoming Startup Hurdles for Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/precise-windows-lockout-after-downtime/"><u>Precise Windows Lockout After Downtime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rescue-lost-co-pilot-in-windows-new-era-11/"><u>Rescue Lost Co-Pilot in Windows' New Era, 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-pcs-bluetooth-link-with-these-9-essential-tips-for-win-11/"><u>Restore Your PC's Bluetooth Link with These 9 Essential Tips for Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-mouse-interaction-with-windows-clicklock-feature/"><u>Revamping Mouse Interaction with Windows ClickLock Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-the-waters-fixing-icloud-install-problems-on-windows/"><u>Smooth the Waters: Fixing iCloud Install Problems on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-altering-windows-index-settings/"><u>Step-by-Step: Altering Windows Index Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-installation-craft-a-focused-fast-bootable-win-11-drive/"><u>Streamline Your Installation: Craft a Focused, Fast Bootable Win 11 Drive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/supercharge-your-routine-with-the-finest-6-apps-for-windows-11-users/"><u>Supercharge Your Routine with the Finest 6 Apps for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-restoration-of-your-windows-application-performance/"><u>Swift Restoration of Your Windows Application Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tidy-up-your-windows-past-with-easy-techniques/"><u>Tidy Up Your Windows Past with Easy Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-video-output-issues-with-easy-steps/"><u>Troubleshooting Tips: Fixing Video Output Issues with Easy Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-razr-40s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Razr 40s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-successful-gmaps-integration-in-windows/"><u>Unveiling the Secrets of Successful GMaps Integration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-context-menu-incorporating-copy-and-move-commands-into-folder-options-win-11/"><u>Upgrade Context Menu: Incorporating Copy & Move Commands Into Folder Options (Win 11)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webcam-tech-unveiled-best-recording-practices-for-2024/"><u>WebCam Tech Unveiled  Best Recording Practices for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,0 +1,200 @@
+---
+title: "Instant System Support: Setting Up Custom Hotkeys for Windows Fixes"
+date: 2024-09-01T05:17:12.683Z
+updated: 2024-09-02T05:17:12.683Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Instant System Support: Setting Up Custom Hotkeys for Windows Fixes"
+excerpt: "This Article Describes Instant System Support: Setting Up Custom Hotkeys for Windows Fixes"
+keywords: Quick System Repair,Hotkey Window Fix,Instant Keyboard Shortcuts,Fast OS Troubleshooting,Custom Fix Keys,Windows Error Hotkeys,Speedy Support Actions
+thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e2e5d71e92f6bedcfed5d098.jpg
+---
+
+## Instant System Support: Setting Up Custom Hotkeys for Windows Fixes
+
+ Windows 11 and 10 include various troubleshooting tools you can open via Settings and the Control Panel. There are troubleshooters for fixing Bluetooth, internet, Windows Update, audio, hardware, printer, video, and MS Store app-related errors that arise. Those troubleshooters detect issues and either automatically apply or suggest potential fixes to resolve them.
+
+ Adding troubleshooter shortcuts to Windows 11/10 will save you from rummaging through Settings or the Control Panel whenever you need to access them. You can create troubleshooter shortcuts on the Windows 11/10 desktop, taskbar, Start menu, and even context menu with the methods below.
+
+## How to a Set Up a Desktop Shortcut for Opening the Troubleshooting Applet
+
+ Most users probably go through Settings to bring up troubleshooters. However, Control Panel’s Troubleshooting applet includes more troubleshooters than the Settings app. Adding a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) for opening the applet will enable you to access all troubleshooters included within it more quickly.
+
+ You can create a Troubleshooting shortcut on the Windows desktop in the following steps:
+
+1. Right-click any part of the desktop area and select**New** .
+2. Click the**Shortcut** option on the**New** submenu.  
+![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-option.jpg)
+3. Input**explorer shell:::{C58C4893-3BE0-4B45-ABB5-A63E4B8C8651}** inside the location box, and select the Create Shortcut wizard’s**Next** option.  
+![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-window.jpg)
+4. Erase the default shortcut title, and type**Troubleshooting Applet** in the text box.
+5. Select**Finish** to add the Troubleshooting Applet desktop shortcut.  
+![The Troubleshooting Applet desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooting-applet-shortcut.jpg)
+
+ Double-click the new desktop shortcut you just added to open the Troubleshooting applet. There you can click**Programs** ,**Hardware and Sound** ,**Network and Internet** , or**System and Security** to view and access different categories of troubleshooters. Alternatively, select**View all** open to bring up a full list of troubleshooters. You can click any troubleshooter there to open it.
+
+![The Troubleshooting applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-troubleshooting-applet.jpg)
+
+ The Troubleshooting shortcut will have the same folder library icon as Explorer’s taskbar button. If you would prefer something else, you can change the icon via the shortcut’s properties window. Check out our guide about[how to customize icons on Windows](https://www.makeuseof.com/tag/customize-icon-windows/) for details.
+
+## How to Set Up Taskbar and Start Menu Troubleshooting Shortcuts
+
+ You can easily convert the Troubleshooting Applet desktop shortcut into a taskbar or Start menu one. To do so in Windows 11, click the Troubleshooting Applet shortcut with the right mouse button and select**Show more options** . Select**Pin to taskbar** on the classic menu to stick the same shortcut on the taskbar. Or click**Pin to Start** to have one for opening the Troubleshooting applet from the pinned area of the Start menu.
+
+![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-to-taskbar-option.jpg)
+
+ Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
+
+## How to Set Up a Troubleshooting Hotkey
+
+ A Troubleshooting desktop shortcut can also become a convenient hotkey in a few quick steps. All you have to do is set a key combination for activating the desktop shortcut. Then you can open the Troubleshooting applet by pressing a**Ctrl** +**Alt** key combo. These are the steps for setting up a hotkey that opens the Troubleshooting applet:
+
+1. Create a desktop shortcut for opening the Troubleshooting applet as outlined in the first method.
+2. Right-click the Troubleshooting shortcut and select**Properties** .
+3. Click inside the box labeled**Shortcut key** .
+4. Press**T** (for troubleshooting) to establish a**Ctrl** +**Alt** +**T** key combination.  
+![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
+5. Select**Apply** to save your new troubleshooting hotkey.
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Click**OK** or**X** to close the Shortcut tab and window.
+
+ Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
+
+## How to Set Up Shortcuts for Opening Specific Troubleshooters
+
+ You can also set up shortcuts for opening any specific troubleshooters included within the Troubleshooting Control Panel applet. Each troubleshooter there has a pack ID with which you can set up a desktop shortcut for opening it. You can set up a troubleshooter shortcut in such a way via the Create Shortcut wizard with the following command:
+
+`msdt.exe /id <diagnostic_id>`
+
+ The above command must include an actual diagnostic\_id for the troubleshooter. This[MSDT page](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ee424379%28v=ws.10%29?redirectedfrom=MSDN) has a list of troubleshooting pack IDs you can include in that command. These are the diagnostic ID commands for some of the more useful troubleshooters:
+
+`msdt.exe /id WindowsUpdateDiagnostic  
+  
+msdt.exe /id SearchDiagnostic  
+  
+msdt.exe /id DeviceDiagnostic  
+  
+msdt.exe /id PrinterDiagnostic  
+  
+msdt.exe /id NetworkDiagnosticsWeb  
+  
+msdt.exe /id AudioPlaybackDiagnostic`
+
+ You can set up a desktop shortcut for a specific troubleshooter much the same as the Troubleshooting applet. Go through the same steps in this guide’s instructions for setting up a desktop shortcut, but input a troubleshooter diagnostic ID command at step three instead. Enter a different name for the shortcut in step four, and select the**Finish** option.
+
+![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
+
+ Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
+
+![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## How to Add a Troubleshooters Submenu to the Context Menu
+
+ The right-click context menu is another place you can add Troubleshooting shortcuts in Windows 11/10\. You can set up a**Troubleshooters** submenu on the Windows 11/10 context menu that includes shortcuts for opening different parts of the Troubleshooting applet. To do that, you only need to download and run a premade registry script like this:
+
+1. Open the[Add Troubleshooters Context Menu Softpedia page](https://www.softpedia.com/get/Tweak/System-Tweak/Add-Troubleshooters-Context-Menu-in-Windows-10.shtml) .
+2. Select that registry script’s**Download Now** option.
+3. Click the**Secure Download (US)** option.
+4. Go into File Explorer (press**Win** +**E** to open), and bring up the directory containing the registry script’s ZIP archive.  
+![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
+5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+6. Open the extracted troubleshooters-context-menu folder.
+7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
+![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
+8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
+
+![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+ There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
+
+ The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+## Make Some Shortcuts for Accessing Troubleshooters in Windows
+
+ So, now you can create Windows shortcuts for opening the Troubleshooting applet and more specific troubleshooters in various ways. You can create a general Troubleshooting Control Panel desktop, taskbar, keyboard, or context menu shortcut for accessing all troubleshooting tools. Or set up shortcuts that give you more direct access to the specific troubleshooting tools you utilize more regularly.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-from-blurry-beginnings-transforming-your-videography-with-instagram-techniques/"><u>[New] From Blurry Beginnings  Transforming Your Videography with Instagram Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturecrafted-expert-reviews-on-the-best-screen-recorders-for-2024/"><u>[Updated] CaptureCrafted  Expert Reviews on the Best Screen Recorders for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-channel-elevation-strategy-quickly-reach-your-10k-view-quota-in-2024/"><u>[Updated] Channel Elevation Strategy – Quickly Reach Your 10K View Quota, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laptop-beautification-leading-website-walls/"><u>[Updated] Laptop Beautification  Leading Website Walls</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-guffaw-generator-pictorial-mixer/"><u>2024 Approved  Guffaw Generator  Pictorial Mixer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-compatibility-barrier-for-nvidia-7025/"><u>Breaking Compatibility Barrier for Nvidia 7025</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-d-drive-on-explorer-navigation-pane/"><u>Displaying D: Drive on Explorer Navigation Pane</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-use-of-function-fn-button-in-windows-os/"><u>Efficient Use of Function (Fn) Button in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-multipurpose-close-on-modern-windows-pcs/"><u>Effortless Multipurpose Close on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ejecting-unrequested-windows-updates/"><u>Ejecting Unrequested Windows Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-footage-and-photos-mastering-the-hero5-black-experience/"><u>Epic Footage and Photos  Mastering the Hero5 Black Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-dealing-with-persistent-errors-in-opening-discord/"><u>Expert Tips for Dealing with Persistent Errors in Opening Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correctly-transfer-and-import-apple-images-in-windows/"><u>How to Correctly Transfer and Import Apple Images in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-nvidia-geforce-experience-error-in-windows-10-and-11/"><u>How to Fix the “Unable to Connect to NVIDIA” GeForce Experience Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-hitching-windows-tasks/"><u>Immediate Fixes for Hitching Windows Tasks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 5G Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-advanced-firewall-configurations-for-windows-11/"><u>Introducing Advanced Firewall Configurations for Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-mozilla-thunderbird-version-update-to-email-client-v52/"><u>Latest Mozilla Thunderbird Version: Update to Email Client V52</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-batch-installation-in-windows-11-with-ease-and-speed-winstall-way/"><u>Master the Art of Batch Installation in Windows 11 with Ease and Speed – Winstall Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-permanent-erase-configuring-a-trash-bin-for-irreversible-deletion-in-windows-pcs-11/"><u>Mastering Permanent Erase: Configuring a Trash Bin for Irreversible Deletion in Windows PCs (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-virtual-memory-settings-to-power-windows-11-systems/"><u>Mastering Virtual Memory Settings to Power Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-mastery-using-ctrlplustab-for-system-tray-control/"><u>Minimize Mastery: Using Ctrl+Tab for System Tray Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-intricacies-a-guide-to-windows-11s-components/"><u>Navigate the Intricacies: A Guide to Windows 11'S Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-nuances-of-user-rights-management-in-windows/"><u>Navigating the Nuances of User Rights Management in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-to-printer-sharing-in-win11/"><u>Overcoming Obstacles to Printer Sharing in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-the-aw-snap-crash-on-your-chrome-window/"><u>Preventing the “Aw, Snap!” Crash on Your Chrome Window</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-accessing-and-leaving-focus-in-windows-terminal/"><u>Quick Guide to Accessing & Leaving Focus in Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-lost-drive-restore-data-stability-in-windows/"><u>Regain Lost Drive, Restore Data Stability in WINDOWS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-marketplace-failure-0x80131500/"><u>Resolving Windows Marketplace Failure #0X80131500</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-self-triggered-cmd-appearance-issues-in-windows/"><u>Solving Self-Triggered CMD Appearance Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-up-to-the-peak-of-pc-digital-experience/"><u>Step Up to the Peak of PC Digital Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesizing-innovation-exploring-the-six-peaks-of-chatgpts-engineer/"><u>Synthesizing Innovation - Exploring the Six Peaks of ChatGPT's Engineer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-biometric-access-control-windows-11-domains/"><u>Tailoring Biometric Access Control: Windows 11, Domains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tip-erase-spotlight-icons-on-win11/"><u>Tech Tip: Erase Spotlight Icons on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-theme-creation-in-windows-terminal/"><u>The Art of Theme Creation in Windows Terminal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-integrate-fav-photos/"><u>Transform Windows' Email/Calendar: Integrate Fav Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-attraction-to-chatgpt-for-hacking/"><u>Understanding the Attraction to ChatGPT for Hacking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-peak-performance-for-your-windows-solid-state-drive-through-fresh-methods/"><u>Unlock Peak Performance for Your Windows' Solid State Drive - Through Fresh Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-boots-with-5-key-fixes-to-security-errors/"><u>Unlock Windows Boots with 5 Key Fixes to Security Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-a-shaky-desktop-pointer-with-these-steps/"><u>Win Over a Shaky Desktop Pointer with These Steps</u></a></li>
+</ul></div>

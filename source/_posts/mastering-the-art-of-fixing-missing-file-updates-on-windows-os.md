@@ -1,0 +1,187 @@
+---
+title: Mastering the Art of Fixing Missing File Updates on Windows OS
+date: 2024-09-01T05:18:51.044Z
+updated: 2024-09-02T05:18:51.044Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Mastering the Art of Fixing Missing File Updates on Windows OS
+excerpt: This Article Describes Mastering the Art of Fixing Missing File Updates on Windows OS
+keywords: WinFileUpdateFix,OSMissingFilesResolve,UpdateFileErrorSolve,WindowsOSRepairTools,FileSyncWindowsTechniques,MissingFileWinUpdate,WindowsUpdaterCorrect
+thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f2945a00387bf22cab11273e3c.jpg
+---
+
+## Mastering the Art of Fixing Missing File Updates on Windows OS
+
+ It's not unusual for Windows users to run into issues when installing updates or upgrading to the latest version of Windows. The problem with these error codes is that most of the time, they do not specify the cause of the error or what users can do to avoid it.
+
+ A common error that users run into when trying to update their system is 0x80070003\. This error is accompanied by a message stating "Some update files are missing." Let's explore the reasons behind this issue and the solutions you can try to resolve it.
+
+## Why Are Update Files Missing From Your PC?
+
+ One or more of the following reasons might explain why you are experiencing the problem on your computer:
+
+1. The Windows log file might have corrupt data files that are interfering with the update installation process in Windows. The best way to deal with corrupt files is by repairing them using the built-in Windows utilities. If that does not work, you can delete them to resolve the problem.
+2. The essential system files have become corrupt. This scenario can be resolved by running the troubleshooting utilities described below. They can identify corrupt files and replace them with healthy ones.
+3. The Windows update components required for the pending updates to install are not functioning properly, which is causing the system to throw the error Fortunately, repairing the corrupt components is easy and can be done within a few minutes using the Command Prompt.
+4. The Windows Update service and other relevant services required by the system to install the pending updates are disabled or have become corrupt. In this case, you can simply restart the services to resolve the issue.
+
+ Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
+
+## 1\. Delete the Contents of the DataStore Folder
+
+ The DataStore folder in Windows is a log file that stores information about all the updates installed in the system. This folder is located in the SoftwareDistribution folder, which is a directory of update-related information in Windows.
+
+ In several cases, the underlying issue was caused due to the corrupt components of the DataStore folder, which were interfering with the system’s update process. An easy way to resolve this issue is by deleting the contents of this folder or removing the Data Store folder as a whole. Both methods are safe to execute.
+
+ We have described the steps for doing this below. However, if you do not want to delete the DataStore folder or its contents, you can also repair them. For that, follow the next method below.
+
+1. Launch File Explorer and navigate to the following location below:  
+`C:\Windows\SoftwareDistribution`  
+![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
+2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
+3. Choose**Delete** from the context menu.  
+![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
+4. Click**Yes** in the confirmation prompt to proceed.
+
+ Once the folder is deleted, open the Settings app and try installing the updates again.
+
+## 2\. Run System Scans
+
+ The next thing you can do is scan the system for potential issues. The best way to do this is by using built-in system utilities like the System File Checker and DISM.
+
+ The System File Checker (SFC) will scan the protected system files for inconsistencies. If it finds a file that is corrupt, SFC will replace it with its healthier cached counterpart. DISM, on the other hand, will repair the system image.
+
+ We will be using the Command Prompt to run these tools. Make sure you are logged into Windows as an administrator before proceeding:
+
+Here is all that you need to do:
+
+1. Open Command Prompt as an administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+2. Click**Yes** in the User Account Control prompt.
+3. In the Command Prompt window, type the command mentioned below and hit**Enter** .  
+`sfc /scannow`  
+![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
+4. Wait for the command to execute, and then execute the following command:  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+`Dism /Online /Cleanup-Image /ScanHealth`  
+![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
+5. Next, proceed with the following command:  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`Dism /Online /Cleanup-Image /RestoreHealth`  
+![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
+6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+## 3\. Repair the Update Components
+
+ As we mentioned earlier, the update components can also deal with some kind of corruption, leading to the problem under discussion.
+
+ The good news is that repairing these components is quite simple, and we will also use the Command Prompt in this method. We recommend[creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed. This will help you revert to the current system state in case something goes wrong during the execution of the method.
+
+Once the restore point is created, follow these steps:
+
+1. Open a Run dialog box (see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) to learn how).
+2. Type cmd in the text field of Run and press Ctrl + Shift + Enter to open Command Prompt as an administrator.
+3. Click**Yes** in the User Account Control prompt.
+4. Once you are inside the Command Prompt, execute the commands below one by one:  
+`<code>net stop wuauserv  
+net stop cryptSvc  
+net stop bits  
+net stop msiserver`  
+``` `` ```
+5. Once all the services are stopped, execute the following commands. These will clear the update cache in the system:  
+`<code>ren %systemroot%\softwaredistribution softwaredistribution.bak  
+ren %systemroot%\system32\catroot2 catroot2.bak`  
+``` `` ```
+6. Now, proceed with the following commands one by one to start the Windows update services again:  
+`<code>net start wuauserv  
+net start bits  
+net start cryptsvc  
+net start trustedinstaller  
+net start appidsvc`  
+![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
+7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Get the Missing Update Files Back on Windows
+
+ Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>[New] Deciding on Live Stream Software  Streamlabs Vs. OBS Comparison</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevate-your-media-with-simple-tiktok-tricks/"><u>[New] In 2024, Elevate Your Media with Simple TikTok Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>[Updated] 2024 Approved  Unveiling the Ultimate #8 Ranked Apps  Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-discovering-the-leading-speech-to-text-apps-for-ipads-3/"><u>2024 Approved  Discovering the Leading Speech-to-Text Apps for iPads #3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-install-failed-disconnect-for-win-11-discord/"><u>Correcting the 'Install Failed' Disconnect for Win 11 Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-hidden-power-of-windows-reliability-and-performance-monitors/"><u>Decoding the Hidden Power of Windows' Reliability & Performance Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-upload-and-download-speeds-in-windows-10/"><u>Displaying Upload & Download Speeds in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-notifications-game-on-windows-11/"><u>Elevate Your Notifications Game on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-driver-failure-error-on-windows-11-pc/"><u>Eliminating Driver Failure Error on Windows 11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-solve-windows-0x80070141-connectivity-issues/"><u>Essential Tips to Solve Windows' 0X80070141 Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-insight-efficiently-identify-hdd-vs-ssd-type-on-windows/"><u>Expert Insight: Efficiently Identify HDD vs SSD Type on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-unexpected-depths-of-yokus-island-express-an-enchanting-journey-revealed/"><u>Exploring the Unexpected Depths of Yoku's Island Express – An Enchanting Journey Revealed</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a05s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A05s Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-f14-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy F14 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-parrot-playfulness-explored-in-bebop-2/"><u>In 2024, Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-to-the-code-how-to-fix-keystrokes-in-win10/"><u>Key to the Code: How to Fix Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-console-permissions-in-the-microsoft-environment/"><u>Managing Console Permissions in the Microsoft Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-gopro-fixing-fish-eye-effects-in-video/"><u>Mastering GoPro  Fixing Fish Eye Effects in Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11s-entry-point-for-peak-performance/"><u>Maximizing Windows 11'S Entry Point for Peak Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-hurdles-restoring-access-to-notepad/"><u>Navigating Through Windows' Hurdles: Restoring Access to Notepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-gpu-load-with-proven-wm-fixes-on-windows/"><u>Optimizing GPU Load with Proven WM Fixes on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/order-stellar-photo-repair-software-standard-edition-for-seamless-windows-compatibility/"><u>Order Stellar Photo Repair Software Standard Edition for Seamless Windows Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-pc-lock-screen-wait-time-issue/"><u>Overcoming Frozen PC Lock Screen Wait Time Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-system-hurdle-windows-c0000022-resolution-guide/"><u>Overcoming System Hurdle: Windows C0000022 Resolution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-task-manager-halt-on-pcs/"><u>Overcoming Task Manager Halt on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-warnings-about-unverified-application-in-windows-os/"><u>Overcoming Warnings About Unverified Application in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overhauling-your-windows-11-control-panel/"><u>Overhauling Your Windows 11 Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-active-state-for-windows-11-context-menu/"><u>Reinstating Active State for Windows 11 Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-notepad-unresponsiveness-in-windows-os/"><u>Resolving Notepad Unresponsiveness in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restart-strategies-for-win11s-frozen-adobe-photoshop/"><u>Restart Strategies for Win11's Frozen Adobe Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-to-address-computers-halted-during-initial-startup-sequence/"><u>Solution Steps to Address Computers Halted During Initial Startup Sequence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/omplete-youtube-traffic-and-monetization-guidebook-for-2024/"><u>The Complete Youtube Traffic & Monetization Guidebook for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y17s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y17s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-stuck-on-size-errors-in-win11-discord-with-ease/"><u>Troubleshooting Stuck-On-Size Errors in Win11 Discord with Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-web-10-free-online-video-compression-tools/"><u>Updated The Best of the Web 10 Free Online Video Compression Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-arm-installation-iso-file-journey/"><u>Windows 11 ARM Installation: ISO File Journey</u></a></li>
+</ul></div>
