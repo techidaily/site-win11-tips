@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Security: Expanding Context Menu with Firewall Restrictions"
-date: 2024-09-01T05:21:10.360Z
-updated: 2024-09-02T05:21:10.360Z
+date: 2024-09-05T19:32:02.534Z
+updated: 2024-09-06T19:32:02.534Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Windows 11 Secure,Firewall Protection,Context Menu Security,Windows Gu
 thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734ca57b3143f21e9c629c5f8e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows 11 Security: Expanding Context Menu with Firewall Restrictions
 
  Windows Defender Firewall enables users to block specific software packages from accessing the internet. However, users must usually manually set up outbound firewall rules that block internet connectivity for software.
@@ -30,9 +36,21 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 4. Then extract the file as covered within our guide for[how to unzip](https://www.makeuseof.com/unzip-files-windows-10/) [archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option2.jpg)
 5. Bring up the extracted OneClickFirewall folder.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -59,17 +77,38 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 6. Double-click**Right\_Click\_Options.exe** to bring up a**Right Click Menu Options** window.  
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Apply Firewall Blocks to Software via the Context Menu
 

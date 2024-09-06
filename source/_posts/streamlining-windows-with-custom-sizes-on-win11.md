@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows with Custom Sizes on Win11
-date: 2024-09-01T05:20:38.673Z
-updated: 2024-09-02T05:20:38.673Z
+date: 2024-09-05T19:32:02.970Z
+updated: 2024-09-06T19:32:02.970Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,30 @@ keywords: Win11 Custom Size Streamline,Win11 Window Optimization,Win11 Size Pers
 thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f4294e6c37548bb9b82e10821e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Streamlining Windows with Custom Sizes on Win11
 
  Software usually opens at the sizes they were closed at. Windows 11 doesn’t include any options to configure software windows to open at custom preset sizes. That’s a pity since such settings would enable you to set more ideal default dimensions for software windows to open with.
 
  However, you can set custom opening sizes for programs on Windows 11 with the AutoSizer and Winsize 2 third-party apps. So, let's check them out.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Sizes for Software Windows With AutoSizer
 
  AutoSizer is a lightweight freeware app you can utilize on most Windows platforms. That software enables you to set program windows to open at specified width and height values with its**Resize** action option. Or you can select alternative**Maximize** ,**Minimize** , or**Restore** action options in that app. This is how you can set preset sizes for software windows with AutoSizer:
@@ -33,8 +51,20 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 1. Next, open the software you want to set the preset window size for. You should then see that software listed in the**Currently open windows** box.  
 ![The AutoSizer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosizer-window.jpg)
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -47,6 +77,18 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
@@ -94,7 +136,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Open Your Software at Your Preferred Window Sizes
 

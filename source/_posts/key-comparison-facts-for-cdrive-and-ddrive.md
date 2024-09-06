@@ -1,7 +1,7 @@
 ---
 title: "Key Comparison Facts for C:Drive & D:Drive"
-date: 2024-09-01T05:20:53.562Z
-updated: 2024-09-02T05:20:53.562Z
+date: 2024-09-05T19:32:02.774Z
+updated: 2024-09-06T19:32:02.774Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: "C-Drive vs D-Drive Comparison,SSD C-Drive Analysis,HDD D-Drive Featur
 thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b169f3541bab98402d648f2f7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Key Comparison Facts for C:Drive & D:Drive
 
  You’ll most likely find a C: and D: drive when you visit File Explorer on a Windows computer. Ever wondered about the difference between a D: drive and a C: drive and which one you should use? You’re in the right place!
 
  Let's compare both drives to see if their differences change your storage preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Local Drive C?
 
  First, a local disk or [local drive is a hardware storage device](https://www.makeuseof.com/what-is-local-drive/) installed directly within your computer to enable you to store and retrieve data easily. Unlike external storage devices that you have to mount to access data, or cloud storage that requires an internet connection, local drives live inside your computer.
@@ -38,6 +50,18 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Characteristics of the C: Drive
 
  This is your Windows computer's primary drive or partition. Here are the features of the C: drive:
@@ -52,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
  Remember that the letter C in itself doesn't mean anything. However, it's typically assigned as an identifier for the local drive containing your Windows OS.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Is the Local Drive D?
 
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
 
  The D: drive is a secondary drive or partition following the C: drive. Remember, the drive C: is automatically assigned the letter C because it is the primary partition or drive housing your Windows operating system (OS).
@@ -74,7 +98,10 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Characteristics of the D: Drive
 
@@ -85,15 +112,9 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 * Depending on your computer’s makeup, the drive D: could be a partition of an internal hard drive, a secondary internal hard drive, an internal disc drive (CD, DVD, or Blu-ray), or an external flash drive.  
 ![USB drives placed in hand with MacBook and iMac in backgrounds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/usb-drives-placed-in-hand-with-macbook-and-imac-in-backgrounds.jpg)
 * Unlike Drive C: you can easily change the alphabet assigned to this secondary drive—with fewer consequences. But, there’s hardly any need to.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
@@ -101,7 +122,10 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## C: Drive vs. D: Drive: Which Should You Use?
 

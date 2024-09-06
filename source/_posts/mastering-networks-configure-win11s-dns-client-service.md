@@ -1,7 +1,7 @@
 ---
 title: "Mastering Networks: Configure Win11's DNS Client Service"
-date: 2024-09-01T05:18:16.165Z
-updated: 2024-09-02T05:18:16.165Z
+date: 2024-09-05T19:32:04.960Z
+updated: 2024-09-06T19:32:04.960Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 
  But how do you configure the service if nothing works? Well, that’s where the trusty old method of registry tweaking comes in handy. We will elaborate on the process to disable and configure the DNS Client service as per your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -35,10 +41,22 @@ Repeat the following steps to disable the DNS client service:
 4. Change the**Value Data** to**4** and keep the base as**Hexadecimal** . Click on the**OK** button.  
 ![Disable the DNS Client Service Using Registry Editor-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-1.jpg)
 5. Close the Registry editor.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
 7. Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.  
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
@@ -61,7 +79,16 @@ Repeat the following steps to disable the DNS client service:
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
 
@@ -74,11 +101,23 @@ Repeat the following steps to disable the DNS client service:
 ![Disable the DNS Client Service Using CMD-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-cmd-1.jpg)
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tweak Your DNS Client Service Easily
 

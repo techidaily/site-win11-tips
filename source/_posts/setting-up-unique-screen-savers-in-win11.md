@@ -1,7 +1,7 @@
 ---
 title: Setting Up Unique Screen Savers in Win11
-date: 2024-09-01T05:21:12.900Z
-updated: 2024-09-02T05:21:12.900Z
+date: 2024-09-05T19:32:02.501Z
+updated: 2024-09-06T19:32:02.501Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Win11 Screen Save,Unique Saver Setup,Win11 Customization,New Windows S
 thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setting Up Unique Screen Savers in Win11
 
  Screensavers are no longer necessary since most modern displays are no longer susceptible to screen burn-in. Nevertheless, screensavers are still lovely decorations on your computer monitor when idle; that's why Windows 11 still has this feature, with five default options.
 
  But how do you customize these default screensavers? Check out the steps below and get yourself a screensaver that reflects your personality and character.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -72,18 +84,42 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
  Select the**Ribbons** tab to customize that screensaver. There you can reduce or increase the number of ribbons by dragging the slider on the**Number of Ribbons** bar. To make the ribbons broader or narrower, drag the**Ribbon Width** bar's slider.
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
@@ -91,7 +127,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Customize Windows 11's Screensavers for Better Effect
 

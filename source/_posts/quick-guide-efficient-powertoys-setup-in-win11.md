@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Efficient PowerToys Setup in Win11"
-date: 2024-09-01T05:18:35.698Z
-updated: 2024-09-02T05:18:35.698Z
+date: 2024-09-05T19:32:04.700Z
+updated: 2024-09-06T19:32:04.700Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,36 @@ keywords: Win11 PowerSetup Guide,Efficient PowerToys Win11,Quick Win11 Configuri
 thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5ad463dfb82faf3689dc358c1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick Guide: Efficient PowerToys Setup in Win11
 
  Microsoft PowerToys is a collection of productivity tools that enhance your Windows experience to the next level. This software package offers awesome features like FancyZones for custom window layouts, PowerRename for bulk file renaming, and the Shortcut Guide for easy access to Windows key shortcuts.
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -32,6 +56,12 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
@@ -44,13 +74,28 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 2. In the Releases section, click on the most recent stable version. It should be at the top and have the word **Latest** beside it.  
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -66,14 +111,14 @@ winget install --id Microsoft.PowerToys
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Download Microsoft PowerToys Easily on Windows
 
  If you've made it this far, you now know how to install Microsoft PowerToys on Windows. Try out the Microsoft Store version first, as it's the most user-friendly and least complicated.

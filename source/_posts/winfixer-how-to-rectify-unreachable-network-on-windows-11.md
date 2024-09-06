@@ -1,7 +1,7 @@
 ---
 title: "Winfixer: How to Rectify Unreachable Network on Windows 11"
-date: 2024-09-01T05:18:58.559Z
-updated: 2024-09-02T05:18:58.559Z
+date: 2024-09-05T19:32:04.370Z
+updated: 2024-09-06T19:32:04.370Z
 tags:
   - windows10
   - windows11
@@ -20,24 +20,54 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
  However, the solution might be a bit more complicated, but there's no need don’t worry. We’ll walk you through a complete troubleshooting process to get rid of the “Windows can’t connect to this network” error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Connect to the Network Using Another Device
 
  There’s a chance there’s nothing wrong with your Windows 11 computer, but you get the “Windows can’t connect to this network” error due to a network-related issue. To test it, try to connect to the same network using a different device. If you run into the same error, you’ll have to solve your network issues.
 
  If you can connect to the same network on a different device, go through the troubleshooting tips below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Manage the Network Drivers on Windows 11
 
  In many cases, connection issues such as the "Windows can't connect to this network" error can be resolved by updating your PC's network drivers. However, if you recently updated the drivers and the error appeared soon afterward, you should roll back the drivers to the previous version until the new ones are fixed. You can also try reinstalling the drivers to see if that fixes the problem.
 
  All these actions can be performed by accessing the Device Manager, so let's dive in and try some fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Update Network Drivers
 
 To update your network drivers, perform the following:
 
 ![Update network driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Right-click the**Start** button and select**Device Manager** .
 2. In the Device Manager window, expand the**Network adapters** section.
 3. Right-click on the wireless adapter for your device, and click on**Update driver** .
@@ -50,9 +80,6 @@ To update your network drivers, perform the following:
 
 ![Roll back driver version in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 1. Open Device Manager.
 2. Expand the**Network adapters** section.
 3. Right-click on the network driver and select**Properties** .
@@ -61,6 +88,12 @@ To update your network drivers, perform the following:
 6. Windows will install the previous version of the network driver.
 7. Reboot your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Uninstall the Network Drivers
 
  If you want to do a fresh install, first download your network drivers from your manufacturer's website. It's a good idea to do this first before you uninstall your current network drivers; once they're gone, you won't be able to connect to the internet through that network adapter until you reinstall its drivers again.
@@ -70,7 +103,10 @@ To update your network drivers, perform the following:
 ![Uninstall network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. Open Device Manager.
 2. Again, expand the**Network adapters** section.
@@ -82,6 +118,12 @@ To update your network drivers, perform the following:
 
  If this method didn't work, there are[other ways to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Check for Windows Updates
 
  Microsoft constantly releases updates to fix any bugs and glitches you may encounter while using your computer. If you’re using an older Windows version, you might miss the updates designed to keep your computer running smoothly.
@@ -92,6 +134,12 @@ To update your network drivers, perform the following:
 
 ![Check Windows 11 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable IPv6
 
  IPv6 is really not needed for most connections unless explicitly specified by your router or ISP. So, you should disable it and try connecting to the wireless network again.
@@ -101,7 +149,10 @@ Here is how you can disable IPv6 on your computer:
 ![Network connection properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. Locate the network icon on the System Tray.
 2. Right-click on the icon and choose**Network and Internet settings** .
@@ -119,7 +170,10 @@ Here is how you can disable IPv6 on your computer:
 ![Disable wireless connection in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-connection-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. Right-click on the Network icon located in the System Tray.
 2. Click on**Network and Internet settings** .
@@ -129,9 +183,6 @@ Here is how you can disable IPv6 on your computer:
 6. Wait for a moment, then right-click the wireless adapter and choose**Enable** .
 7. Reboot your PC and try reconnecting to the network.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Release the IP and Flush the DNS Cashe in Command Prompt
 
  The "Windows can't connect to this network" error can be due to an IP error. To fix this, you'll need to release the IP and flush the DNS cache.
@@ -140,9 +191,6 @@ Here is how you can disable IPv6 on your computer:
 
 ![Flush the DNS cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-command-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Type**cmd** in Windows Search.
 2. Right-click on**Command Prompt > Run as administrator** .
 3. In the Command Prompt console, type the following commands and press**Enter** after each one:  
@@ -153,10 +201,6 @@ Here is how you can disable IPv6 on your computer:
    * ipconfig /flushdns
 4. Close Command Prompt and reboot your computer to see if the error is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Reset Windows' Network Configuration
 
  One of the most common culprits of the "Windows cannot connect to this network" error is an improper network configuration. An easy way to fix this is to simply reset your PC's network settings to the factory default.
@@ -165,6 +209,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Right-click on the**Start** button and head to**Settings** .
 2. Click on the**Network & internet** option on the navigation bar towards the left.
 3. In the next window, choose**Advanced network settings** .
@@ -180,9 +236,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If Airplane Mode is missing from Action Center, there are other ways to enable and disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Use the Network Troubleshooter
 
  Windows 11 has an in-built troubleshooter to detect and fix network issues. It may be worth a try to see if the utility can detect and fix the issue causing the "Windows can't connect to this network" error.
@@ -197,7 +250,10 @@ To run the Windows Network Troubleshooter, follow these steps:
 4. Windows will detect and attempt to fix connection issues on your PC
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10\. Forget and Reconnect the Wi-Fi Network
 
@@ -205,9 +261,6 @@ To run the Windows Network Troubleshooter, follow these steps:
 
 ![Forget wi-fi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/forget-wi-fi-network-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Here’s how you can manage every network that you have connected to:
 
 1. Open Windows Settings.
@@ -216,6 +269,12 @@ To run the Windows Network Troubleshooter, follow these steps:
 4. Click the**Forget** button next to the network that you can’t connect to.
 5. Now, reconnect to the Wi-Fi. You will have to re-enter the password.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11\. Restart or Reset the Router
 
  Sometimes your router gets a little stuck and requires a reboot to sort itself out again. As such, giving your router a quick reset is a good way to quickly and easily[fix an unstable Wi-Fi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) .
@@ -224,10 +283,6 @@ To run the Windows Network Troubleshooter, follow these steps:
 
  Failing that, you can try restoring the router to factory defaults, either via a button on the router or on its configuration page. However, you'll have to reconfigure the router after resetting it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 12\. Use an Ethernet Cable
 
  If you’ve tried anything on the list without any success, and you don’t have time to go through more time-consuming solutions such as installing a big Windows update or loading a restore point, there’s one quick fix. Connect to the network using an[Ethernet cable](https://www.makeuseof.com/what-is-an-ethernet-cable/) .

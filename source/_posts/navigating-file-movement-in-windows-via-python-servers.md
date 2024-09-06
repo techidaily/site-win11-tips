@@ -1,7 +1,7 @@
 ---
 title: Navigating File Movement in Windows via Python Servers
-date: 2024-09-01T05:21:47.481Z
-updated: 2024-09-02T05:21:47.481Z
+date: 2024-09-05T19:32:02.009Z
+updated: 2024-09-06T19:32:02.009Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: WinFileMovementPy,PythonWindowsFiles,PyMoveWinFiles,WindowsPathPython,
 thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3db5eda647c388c8800cd490f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating File Movement in Windows via Python Servers
 
  Have you ever wanted to transfer files to other devices, but you didn't have access to a flash drive or other storage device? With Python, you can create a temporary server that lets you transfer files between devices using just your web browser.
@@ -26,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
  It is important to note that the web server we will create here can only be accessed on your local network via a private IP address, for example, 192.168.xx.xx or 10.10.xx.xx. But you can use this server to easily download files from one device to another as long as you are on the same network.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Up a Python Web Server for File Transfer on Windows
 
  Setting up a Python web server is very easy. Before you start setting up, make sure you have Python installed. If you don't, you can easily[install Python on Windows](https://www.makeuseof.com/tag/install-pip-for-python/) in a few minutes.
@@ -36,8 +48,20 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 2. In the Address Bar, double-click the file path and type cmd. This would open a Command Prompt window in that location.  
 ![Opening the Command Prompt In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/file.jpg)  
  Alternatively, you can open the Command Prompt by pressing**Win + R** and typing**cmd** in the Run dialog box. Then navigate to your desired file or folder[using the cd command in Windows](https://www.makeuseof.com/how-to-change-directory-in-cmd/) .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Opening the Command Prompt via the Run window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/file2.jpg)
 3. You can get your private IP address by typing**ipconfig** in your Command Prompt window.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. To initiate the Python web server, execute this command:**python -m http.server**  
 ![Setting up a python web server via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/fil2-2.jpg)
 
@@ -50,7 +74,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
  Now, you have a simple Python web server for file transfer up and running on your Windows device. To end the server, just press**Ctrl + C** .
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Download the Files From the Python Server
 
@@ -59,11 +86,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Image showing the set up python server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023-04-21-19_25_20-directory-listing-for-_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Use Python to Make Your Tasks Easier
 

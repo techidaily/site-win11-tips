@@ -1,7 +1,7 @@
 ---
 title: How to Disable Taskbar Icon Grouping on Windows 11
-date: 2024-09-01T05:19:15.490Z
-updated: 2024-09-02T05:19:15.490Z
+date: 2024-09-05T19:32:04.121Z
+updated: 2024-09-06T19:32:04.121Z
 tags:
   - windows10
   - windows11
@@ -32,65 +32,86 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
 ![screenshot of windhawk main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_windhawk_main_screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The quickest way to disable this function is to use a program called Windhawk. Windhawk carries a number of quality-of-life modifications for Windows 11\.
 
  To start, head over to [the Windhawk website](https://windhawk.net) and download the program. Install it and run it afterward.
 
 ![screenshot of disable grouping on taskbar in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_disable_grouping_on_taskbar_windhawk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on the **Explore** button, and search for **Disable grouping on the taskbar.** Go into **Details** and hit the **Install** button. After a few seconds, it'll be enabled, but you may need to [restart Windows File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or your overall system to see the difference.
 
  You can also modify how the modification behaves by clicking **Details** and then **Settings.** You can enable or disable features like keeping the icons together, or to separate the pinned apps from the rest of the open windows.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exploring the Other Taskbar Mods on Windhawk
 
 ![screenshot of taskbar search in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_taskbar_search_in_windhawk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Windhawk has a range of other modifications for different aspects of Windows 11\. If you search just **taskbar** into Windhawk, you'll see a few other options.
 
  Since you're already modifying your taskbar, it can't hurt to look into these. Features that aren't usually supported by Windows, such as middle-clicking to close a taskbar window, can be found here, and are as simple to install as the above.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Achieve Supreme Taskbar Flexibility With Windhawk
 
  When it comes to tweaking your taskbar, the default Windows options can sometimes be lacking. While many modifications on Windhawk can be major changes, most that relate to the taskbar are minor or subtle changes. Regardless, these small alterations can greatly enhance the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Q: Can I Move the Taskbar Icons in Windows 11?
 
  Yes, you can [move the taskbar icons to the left on your Windows 11 PC](https://www.makeuseof.com/move-taskbar-windows-11/) by heading into Settings > Personalization > Taskbar > Taskbar behaviors and choosing Left from the Taskbar alignment drop-down menu. Your taskbar has now moved to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: How Do I Customize My Taskbar in Windows 11?
 
  You can [customize your taskbar in Windows 11](https://www.makeuseof.com/windows-11-customize-taskbar/) by right-clicking your taskbar, choosing Taskbar settings, and tweaking various options displayed on your screen. These options let you change your taskbar's functionality and appearance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Q: How Do I Fix My Taskbar in Windows 11?
 
  You can [resolve issues with your Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) by restarting the Windows Explorer process. You can do that by opening Task Manager, right-clicking "Windows Explorer," and choosing "Restart."

@@ -1,7 +1,7 @@
 ---
 title: "Mastering PS1 Games in WIN: Ultimate Duckstation Hacks"
-date: 2024-09-01T05:20:43.150Z
-updated: 2024-09-02T05:20:43.150Z
+date: 2024-09-05T19:32:02.918Z
+updated: 2024-09-06T19:32:02.918Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: PS1 Mastery Tips,Winning Duckstation Strategies,Classic Gaming Hacks,P
 thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering PS1 Games in WIN: Ultimate Duckstation Hacks
 
  Older PlayStation emulators, such as PCSX and ePSXe, could provide easy access to the popular console's vast library of titles. Nonetheless, Duckstation demonstrates that they could be better.
@@ -48,8 +54,26 @@ Duckstation's installation differs depending on the platform:
 1. Select**BIOS** from the Duckstation**Settings** menu.  
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
 2. Navigate to the**BIOS Directory** and select**Browse** . Point Duckstation to the folder containing your BIOS files.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After that, you're set and ready to begin gaming. Still, that also implies you have some games.
 
  You can load PS1 games individually, but Duckstation is much easier to use if you batch-import everything in your collection. To accomplish this:
@@ -59,23 +83,50 @@ Duckstation's installation differs depending on the platform:
 2. On the top right, click the "plus" button. Select the folder containing your PlayStation games. In the bottom right corner of the window, click**Scan For New Games** . If you keep your games in folders within folders, answer positively when asked if you want to scan the selected folder recursively.  
 ![Duckstation Scan Recursively For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-scan-recursively-for-games.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting Duckstation Set Up for PS1 Games
 
  Let's go over the most important options in Duckstation's**Settings** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. General
 
  Most users should be fine with the defaults on the General page. You might also be interested in the following:
 
 ![Duckstation Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 * **Pause On Start** : will have games started in "paused" mode until you manually resume them.
 * **Start Fullscreen** : Have your games launch in fullscreen mode, similar to most "normal" Windows games, rather than as a floating window.
 * **Pause On Focus Loss** : will auto-pause a game when Duckstation's window "loses its focus". This way, enemies won't keep shooting at you while you're checking an incoming email.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Console
 
  It's best to leave those settings alone "globally" and only change them per game. They can improve some games while breaking others. Fortunately, Duckstation allows you to save different game configurations.
@@ -88,8 +139,10 @@ Duckstation's installation differs depending on the platform:
 * **Async Readahead** ,**Read Speedup** , and**Seek Speedup** : boost the emulated PlayStation CD drive speed to make your games load faster.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Emulation
 
@@ -101,25 +154,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
 3. **Enable Rewinding** : By borrowing the core mechanic of the Prince of Persia games, "time rewinding," Duckstation can help you "undo" missteps in difficult-to-beat games. This is accomplished by continuously saving the emulator's state as you play, every Xth frame and for Y frames - the values you can tweak for that option. It is up to you to decide how Rewind should work by striking a balance between granularity and RAM requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Display
 
  On the Display page, you'll find the options defining how Duckstation will "show a game's graphics on the screen".
 
 ![Duckstation Settings Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 1. **Renderer** : For most games and modern GPUs, leave it at**Hardware (Vulkan)** . If a game glitches or you have an older GPU, try**Hardware (OpenGL)** or**Hardware (D3D12)** . Try the**Hardware (D3D11)** option for even older GPUs. If you still face issues with them, fall back to the most compatible but slowest option,**Software** .
 2. **Aspect Ratio** : For purists,**Auto (Game Native)** is the best option because it does not introduce distortion. Other options allow you to have a game's graphics "cover" your entire monitor, but this usually results in "stretched" and more pixelated or blurry visuals.
 3. **On-Screen Display** : When troubleshooting a game or optimizing its settings, enable the options here to see how the emulator performs in real-time while running a title.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Enhancements
 
  This is the first set of options for improving the appearance of games.
@@ -131,6 +175,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. If you enable the**Widescreen Hack** option for 3D games where it doesn't introduce glitches, you may also want to enable **Force 4:3 for 24-Bit Displays (disable widescreen for FMVs)** .
 4. **PGXP** : All PGXP-related options can vastly improve a game's visuals by removing the "wobbly geometry" effect that is common in all PlayStation titles. It's worth trying them out, but they can and will break some games. And that's why you should configure them for each game separately.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Post-Processing
 
  The second spot where you can improve the visuals of your games, Post-Processing, allows you to use "shaders" to give Duckstation's visual output a more authentic, "retro" look.
@@ -138,7 +194,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Duckstation Settings Post Processing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-post-processing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
 
@@ -151,7 +210,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you haven't got a joypad, don't fret: we've already covered[how you can use your Android phone as a gamepad for playing PC games](https://www.makeuseof.com/use-android-phone-as-controller-pc-games/) . Everything you'll read there should also work in this case, since the emulator itself is a "PC game" equivalent.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Getting Retro in the Modern Age With Duckstation for Windows
 

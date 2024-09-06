@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 S Mode: Is It Right for Your PC?"
-date: 2024-09-01T05:18:29.119Z
-updated: 2024-09-02T05:18:29.119Z
+date: 2024-09-05T19:32:04.788Z
+updated: 2024-09-06T19:32:04.788Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,45 @@ keywords: Windows 11 S Mode,PC Safety Feature,S Mode Benefits,S Mode Security,Wi
 thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows 11 S Mode: Is It Right for Your PC?
 
  Windows S Mode puts your computer on complete lockdown. Once activated, S Mode lets you enjoy the highest level of security Microsoft can offer. However, there are limitations.
 
  If you're a Windows user, you should get the complete picture before you get a computer in Windows 11 S mode. So, let's explore what it is and if it's for you.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Windows 11 S Mode?
 
 ![photo of a person using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-laptop.jpg)
 
  S Mode is a feature that Microsoft created to give users a secure, smooth experience with the Windows operating system. When you use Windows 11 in S mode, your computer only gets access to basic resources and drivers. More notably, S mode freezes all other apps that hog your RAM and processes that may task your CPU. These changes in your user experience of Windows S mode will sound very familiar if you have used a Chromebook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Use Your PC in S Mode?
 
  It depends on your security and privacy goals. Here are four reasons you may consider using a PC in Windows S Mode:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. You Want to Ensure Your Child’s Safety
 
@@ -39,24 +60,44 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
  You may also want to get a standard PC for your child and put it in S mode if you don’t want to buy a Chromebook for almost the same price. You may then take the computer out of S mode as their tech needs and ability to handle more responsibilities increase. But remember, deactivating S mode is quite easy, and your school-age child may learn to [bypass parental controls](https://www.makeuseof.com/tag/7-ways-children-might-bypass-parental-control-software/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. You Handle Sensitive Documents
 
 ![photo of person using a pc in tab mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-pc-in-tab-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Window S mode prevents users from installing third-party apps. This restriction means your chances of installing malware on your computer reduce significantly. So, if you are a businessperson who routinely handles documents containing company secrets, you may use your personal computer in S mode.
 
  Remember, you cannot use in-house or proprietary software in S-mode. So, if your company developed an app for its business, running S mode will prevent you from using it. Using your Windows 11 Home in S mode is only helpful pending when you get a company laptop running Windows Pro or Enterprise.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. You Want to Do a Digital Detox
 
  If you find yourself needing an [escape from digital noise](https://www.makeuseof.com/best-digital-detox-tools-to-boost-productivity/) but can’t avoid your main PC entirely, consider getting a PC in S mode. Games on Microsoft Store aren’t the most exciting. And many handy third-party apps aren’t there either. So, you will be using only the [apps necessary for your productivity](https://www.makeuseof.com/windows-10-built-in-productivity-features/).
 
  However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. You Want the Chromebook Experience
 
  S mode gives you a similar experience to what a [Chromebook](https://www.makeuseof.com/tag/what-is-a-chromebook/) gives. So, you can get a high-end PC and try S mode for several days or weeks. This way, you can decide if you want all that power or if the basics work for you. More importantly, you retain the option to leave anytime you want—something you don’t get in Chromebooks.
@@ -75,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
  As seen on this [Microsoft Dev Blog](https://devblogs.microsoft.com/commandline/will-linux-distros-run-on-windows-10-s/), users of Windows S can only run Modern Universal Windows Platform (UWP) store apps. These are apps that Microsoft developers directly created or verified. Other types of apps delivered through third-party licenses to the Microsoft Store will be unavailable in S mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### 2\. You Can’t Use the Command Line or Code Editors
 
  S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
@@ -88,19 +126,10 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
 ![photo of the windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/regedit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Activate S Mode in Windows 11
 
  You can’t activate S mode; it comes pre-installed or shipped with the OS. So, when you get a new laptop, you’ll have the option to use it in S mode when you’re setting it up for the first time. Some computers, like the Surface, come shipped with S mode only, and you don’t get that option to try S mode first.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Leave S Mode in Windows 11
 
  Before you begin, note that leaving S mode is one-way. You can’t leave and come back.
@@ -112,7 +141,10 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 3. Follow the on-screen instructions
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Window S Mode: Fast, Secure, but Limiting
 

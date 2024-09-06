@@ -1,7 +1,7 @@
 ---
 title: Wake-Up Rituals for Keyboard & Mouse in 10/11 Environments
-date: 2024-09-01T05:20:03.664Z
-updated: 2024-09-02T05:20:03.664Z
+date: 2024-09-05T19:32:03.471Z
+updated: 2024-09-06T19:32:03.471Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
  But what if these don't work? You can always wake your PC from sleeping with the power button, but using your peripherals is more convenient. Here's what to do when your keyboard and mouse won't wake your Windows 10 or 11 computer from sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Wake Your Computer With a Keyboard or Mouse on Windows
 
  If your mouse or keyboard won't wake up your PC from sleep, you need to check an option to confirm they're allowed to do so. Follow these steps:
@@ -34,10 +40,22 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
 ![Windows Allow Device Wake Computer Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-Allow-Device-Wake-Computer-Sleep.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Be careful when using these options with a laptop. If you have a wireless mouse connected and forget to turn it off, you could accidentally wake your laptop from sleep when it's in a bag.[You can destroy your laptop](https://www.makeuseof.com/tag/5-ways-utterly-destroy-laptop-slowly-surely/) by leaving it in a bag while running, as this generates a lot of heat.
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -47,7 +65,10 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Stop Your PC From Shutting Off USB Ports
 
@@ -61,22 +82,29 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Wake Your Computer From Sleep the Easy Way
 

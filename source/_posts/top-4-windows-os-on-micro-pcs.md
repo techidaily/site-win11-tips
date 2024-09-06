@@ -1,0 +1,252 @@
+---
+title: Top 4 Windows OS on Micro PCs
+date: 2024-09-05T19:39:49.570Z
+updated: 2024-09-06T19:39:49.570Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Top 4 Windows OS on Micro PCs
+excerpt: This Article Describes Top 4 Windows OS on Micro PCs
+keywords: WinOS for MicroPCs Top,MicroPCs Best WinOS,WinOS Rankings Micro,Windows Top Micro PC,Micro PC Best Os,Leading WinOs Micro,Optimal OS Windows Mini
+thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39ed2f8ffdd69954aaaa5a12ae.jpg
+---
+
+## Top 4 Windows OS on Micro PCs
+
+ Single-board computers (SBCs) are pretty capable devices and part of their appeal is the excellent price-to-performance ratio. However, a good number of these tiny computers struggle to perform everyday tasks that most of us have come to take for granted, such as running the Windows operating system.
+
+ **MUO VIDEO OF THE DAY**
+
+ **SCROLL TO CONTINUE WITH CONTENT**
+
+ Some of these boards won’t run Windows at all, and some of those that can run it perform poorly and stutter every step of the way. Your options are limited if you're looking for a single-board computer that can run Windows properly. However, there are a few devices out there that can do the job quite well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Windows System Requirements
+
+ Most SBCs have processors that are ARM-based which affords them[certain benefits over x86 processors](https://www.makeuseof.com/x86-vs-arm-which-architecture-should-pc-use/) , such as being inexpensive and energy-efficient. With Windows on ARM, you can run Windows and emulate standard x86 applications. It isn’t perfect yet, but it is getting there very slowly. x86-based single-board computers are generally better suited to running Windows.
+
+ To determine single-board computers that will be able to run Windows, we need to establish the criteria they need to meet. So, let’s take a look at the basic requirements to run Windows 10 and Windows 11.
+
+**Windows 10 system requirements:**
+
+* **Processor:** 1GHz or faster
+* **RAM:** 1GB for 32-bit or 2 GB for 64-bit
+* **Storage:** 16GB for 32-bit OS or 20GB for 64-bit OS
+* **Graphics card:** DirectX 9 or later with WDDM 1.0 driver
+* **Display:** 800 x 600
+
+**Windows 11 system requirements:**
+
+* **Processor:** 1GHz or faster with two or more cores
+* **RAM:** 4GB
+* **Storage:** 64GB or larger
+* **Display:** High definition (720p) display; greater than 9" diagonally
+* **Trusted Platform Module** : TPM version 2.0
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1. LattePanda 3 Delta
+
+ The LattePanda 3 Delta is the much more powerful successor to the original LattePanda released in 2018\. It is also known as LattePanda 3 Delta 864, with the ‘8’ and ‘64’ representing the 8GB RAM and 64GB eMMC storage, respectively.
+
+ This SBC has a powerful quad-core processor and a sizable amount of RAM, making it capable of running not only Windows 10 but also Windows 11.
+
+**LattePanda 3 Delta key specs:**
+
+| **Processor**      | 11th gen, quad-core, four-thread, Intel Celeron N5105 capable of running at a clock speed of 2.0GHz to around 2.9GHz (burst) |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **GPU**            | Intel UHD Graphics (frequency: 450 to 800MHz)                                                                                |
+| **RAM**            | LPDDR4 8GB 2933MHz                                                                                                           |
+| **Storage**        | 64GB eMMC V5.1, microSD card slot                                                                                            |
+| **Networking**     | Wi-Fi 6, Bluetooth 5.2, Intel Gigabit Ethernet                                                                               |
+| **Ports**          | 1 x USB 3.2 Gen 2 Type-A, 2 x USB 3.2 Gen 1 Type-A                                                                           |
+| **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
+| **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
+
+## 2. Khadas Edge2
+
+![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Image Credit: [Khadas](https://www.khadas.com/edge2)
+
+ The Khadas Edge2 is an ARM-based single-board computer that is designed to provide maximal performance in a minimal form factor. It is particularly suited for deep learning and natural language processing applications due to the embedded neural processing unit (NPU) capable of computing at 6 TOPS (tera operations per second).
+
+ With up to 16GB of RAM and a high-powered octa-core processor, the Khadas Edge2 is capable of running ARM versions of Windows 10 and Windows 11 without any problems.
+
+**Khadas Edge2 key specs:**
+
+| **Processor**      | Rockchip RK3588S octa-core 64-bit processor with quad-core A76+ (2.4GHz) and quad-core A55 (1.8GHz)            |
+| ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **GPU**            | Mali-G610 GPU                                                                                                  |
+| **RAM**            | 8GB or 16GB LPDDR4 RAM                                                                                         |
+| **Connectivity**   | Bluetooth 5.0, Wi-FI 6, IEEE 802.11 ax/ac/a/b/g                                                                |
+| **Ports**          | 1 x USB-C (Power Delivery only), 1 x USB-C (3.1, Display Port 1.4, and Power Delivery), 1 x HDMI 2.1 (8K@60Hz) |
+| **Other Features** | 3 x MIPI CSI connectors, 2 x MIPI DSI connectors, 2 x 30-pin GPIO expansion header                             |
+| **Power**          | USB-C Power Delivery 12V 2A (24W)                                                                              |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3. Hackboard 2 SBC
+
+![Hackboard 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/hackboard2kit_fe.png)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ The[Hackboard 2 is a single-board-compute](https://www.makeuseof.com/hackboard-2-x86-sbc/) r marketed as a small, affordable desktop replacement with a wide range of connectivity options. It features a dual-core Intel Celeron N4020 processor which clocks up to 2.8GHz and comes with 64GB eMMC storage. You can get it with either Windows 10 Pro or Debian Linux pre-installed.
+
+ The base edition with 4GB RAM, 64GB eMMC storage, and Windows 10 Pro bundled is available for around $200 on the[Hackboard](https://hackboard.com/product/hackboard2/) website.
+
+**Hackboard 2 key specs:**
+
+| **Processor**         | Intel Celeron N4020 64-bit dual-core processor, up to 2.8GHz                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GPU**               | Intel HD Graphics 600 (650MHz max)                                                                                                                                     |
+| **RAM**               | 4GB or 8GB DDR4 RAM                                                                                                                                                    |
+| **Networking**        | Wi-Fi 5, Bluetooth 5.1                                                                                                                                                 |
+| **Ports & Expansion** | 3 x USB 3.0 ports, 5-pin USB 2.0 camera connection, 40-pin GPIO header (Raspberry Pi HAT compatible), NVMe M.2 B key slot, NVMe M.2 B & M key slot, HDMI 1.4 (4K@30Hz) |
+| **Other Features**    | 30-pin eDP connector, 6-pin touchscreen interface                                                                                                                      |
+| **Power**             | 12V DC, 3A power supply                                                                                                                                                |
+
+## 4. UDOO BOLT V8
+
+ The UDOO BOLT V8 is quite expensive at $550, but it packs a lot of specs that may appeal to users who need the heavy-lifting power. For purists, the V8 is not technically a single-board computer, as the RAM is inserted in SODIMM sockets and is not embedded in the board itself.
+
+ However, it features the typical amount of connectivity that is usually included in single-board computers. It also boasts almost twice the performance of a Macbook Pro 13" with an Intel i5 processor and three times that of a Mac Mini.
+
+**UDOO BOLT V8 key specs:**
+
+| **Processor**      | AMD Ryzen Embedded V1605B, quad-core/eight-thread @2GHz (3.6GHz Boost)                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GPU**            | AMD Radeon Vega 8 Graphics (8 GPU Compute Units)                                                                                                |
+| **RAM**            | Two-slot SODIMM dual-channel 64-bit DDR4 2400 MT/S with ECC support up to 32GB                                                                  |
+| **Storage**        | 32GB EMMC 5.0 High Speed Drive, 1 x M.2 Socket 2 Key B for SSD SATA modules, 1 x M.2 Socket 3 Key M for NVMe modules                            |
+| **Networking**     | Gigabit Ethernet                                                                                                                                |
+| **Ports**          | 2 x USB 3.0 Type-A, 2 x USB Type-C, 2 x HDMI 1.4 / 2.0A                                                                                         |
+| **Other Features** | Consumer IR receiver, fan controller, RTC battery included, 40-pin GPIO header, Microchip ATmega32U4 co-processor (Arduino Leonardo compatible) |
+| **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
+
+## Honorable Mention: Raspberry Pi 4
+
+![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the[Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to[install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
+
+**Raspberry Pi 4 Model B key specs:**
+
+| **Processor**         | Broadcom BCM2711 SoC with quad-core Cortex-A72 64-bit @1.5GHz                             |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| **GPU**               | Intel HD Graphics 600 (650MHz max)                                                        |
+| **RAM**               | 1GB, 2GB, 4GB or 8GB RAM                                                                  |
+| **Storage**           | microSD card slot                                                                         |
+| **Networking**        | 2.4GHz and 5.0GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE, Gigabit Ethernet            |
+| **Ports & Expansion** | 40-pin GPIO connector, 2 x micro-HDMI ports, 2 x USB 3.0 ports, 2 USB x 2.0 ports.        |
+| **Other Features**    | Two-lane MIPI DSI display port, two-lane MIPI CSI camera port                             |
+| **Power**             | 5V 3A power via USB-C port and GPIO; Power over Ethernet (PoE) capable using optional HAT |
+
+## Run Windows on a Single-Board Computer
+
+ Both ARM and x64 single-board computers are capable of running the Windows operating system. That aside, you will have an easier time running Windows on x64 computers. If you're planning to use an ARM SBC as your daily driver, Windows is not the best choice currently. You'll be better served with an operating system created specifically for ARM computers such as Armbian or a supported Android distribution.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transformative-podcast-branding-through-logo-artistry/"><u>[New] 2024 Approved Transformative Podcast Branding Through Logo Artistry</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigate-through-apples-best-in-class-virtual-reality-games-for-2024/"><u>[Updated] Navigate Through Apple's Best-in-Class Virtual Reality Games for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>[Updated] Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-exclusive-list-best-mac-gif-recorders/"><u>2024 Approved Exclusive List Best Mac GIF Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-fifth-place-winners-excellent-recorder-apps/"><u>2024 Approved Fifth Place Winners Excellent Recorder Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-40i-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 40i Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-makeover-building-with-your-own-insights/"><u>ChatGPT Makeover: Building with Your Own Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-up-unmet-windows-11-requirements-alert/"><u>Clear Up Unmet Windows 11 Requirements Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-time-before-next-login-after-failure-in-win-1011/"><u>Customizing Time Before Next Login After Failure in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-task-managers-live-feed-rates-for-windows-11/"><u>Elevate Task Manager's Live Feed Rates for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hiding-the-language-indicator-in-a-smokescreen-on-win11/"><u>Hiding the Language Indicator in a Smokescreen on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-requires-privilege-error-error-0x80070522-on-pcs/"><u>How To Address the “Requires Privilege” Error (Error 0X80070522) on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-no-cost-screen-grabber-toolset/"><u>In 2024, Ideal No-Cost Screen Grabber Toolset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-printer-network-setup-a-windows-guide/"><u>Mastering Printer Network Setup: A Windows Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-password-required-avoidance-on-windows-11/"><u>Mastering the Art of 'Password Required' Avoidance on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-gpu-with-latest-driver/"><u>Optimize Your GPU with Latest Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-uninstalling-and-reinstalling-store-games/"><u>Overcoming Challenges: Uninstalling and Reinstalling Store Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-bsod-interrupt-exception-troubleshoot/"><u>Preventing BSOD: Interrupt Exception Troubleshoot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-pc-7-tricks-to-revitalize-windows-update/"><u>Reclaim Your PC: 7 Tricks to Revitalize Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconfigure-win11s-subnet-settings/"><u>Reconfigure Win11's Subnet Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-affordable-access-buying-windows-11-codes/"><u>Secrets to Affordable Access: Buying Windows 11 Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-handling-missing-powershell-on-windows/"><u>Strategies for Handling 'Missing PowerShell' On Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-fix-proc-invocation-failures-in-malwarebytes-software/"><u>Strategies to Fix Proc Invocation Failures in Malwarebytes Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-stalling-spotify-connectivity/"><u>Swift Remedies for Stalling Spotify Connectivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-subtitle-issues-in-prime-video-for-smooth-windows-11-watching/"><u>Tackling Subtitle Issues in Prime Video for Smooth Windows 11 Watching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-disabling-acceleration-with-your-mouse-in-windows/"><u>Tips for Disabling Acceleration with Your Mouse in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-post-monitor-connection-windows-lag-fixes/"><u>Troubleshooting Post-Monitor Connection: Windows Lag Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-your-spoken-language-into-written-communication-using-whisper-on-windows/"><u>Turning Your Spoken Language Into Written Communication Using Whisper on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-hidden-issues-causing-login-blackouts/"><u>Uncover the Hidden Issues Causing Login Blackouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreezing-steam-directory-access-fixes-for-windows-11/"><u>Unfreezing Steam Directory Access: Fixes for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-new-dimensions-of-windows-11-usefulness/"><u>Unlock New Dimensions of Windows 11 Usefulness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-solutions-top-8-applications-of-chatgpt-in-visual-fields/"><u>Unlocking Creative Solutions: Top 8 Applications of ChatGPT in Visual Fields</u></a></li>
+</ul></div>

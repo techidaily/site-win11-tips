@@ -1,0 +1,254 @@
+---
+title: "Perfectly Positioned: Win11's 6 Image Rotation Methods"
+date: 2024-09-05T19:32:35.699Z
+updated: 2024-09-06T19:32:35.699Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Perfectly Positioned: Win11's 6 Image Rotation Methods"
+excerpt: "This Article Describes Perfectly Positioned: Win11's 6 Image Rotation Methods"
+keywords: Win11 ImgRotate,Win11 ImageTools,Win11 RotateImages,Win11 ImageManipulation,Win11 Multirect Image,Win11 AdvancedImgRotation,Win11 ImageTransformations
+thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f668f4cb2a72d45c0fe37f64.jpg
+---
+
+## Perfectly Positioned: Win11's 6 Image Rotation Methods
+
+ Images can have landscape (horizontal) or portrait (vertical) orientations. Rotating images 90 or 180 degrees enables you to change the orientation of photos. This can be useful when you think a picture would look better with a different orientation.
+
+ You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. How to Rotate Images With File Explorer
+
+ Windows File Explorer incorporates two basic options for rotating images left and right. Those options will be adequate when you only need to apply basic rotating to images. This is how you can rotate an image in File Explorer:
+
+1. Press the **Windows key + X** keyboard buttons and click on the **File Explorer** shortcut.
+2. Open a folder containing some images to rotate.
+3. Click **View** \> **Extra Large icons,** so you can see the image rotation applied in Explorer.
+4. Then click an image once to select it without opening.
+5. Press the **Rotate left** or **Rotate right** button on Explorer’s command bar, depending on preference.  
+![The Rotate left option on the command bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-command-bar-option.jpg)
+
+ Alternatively, you can select the same options on File Explorer’s context menu. Right-click an image and select **Rotate left** or **Rotate right**. Those are convenient shortcuts for rotating images saved on the desktop.
+
+![The rotation context menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-context-menu-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. How to Rotate Images With the Photos App
+
+ Photos is Windows 11’s default image viewer app that includes some editing options. Among them is a basic **Rotate** option for 90-degree rightward rotation. You can rotate images with that option as follows:
+
+1. To open Photos, select the pinned shortcut for that app on the Start menu.
+2. Double-click an image within **All Photos** to view it in a second window.
+3. Click the **Rotate** button or press **Ctrl** \+ **R**.  
+![The basic rotation option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-option.jpg)
+4. Press the **Save as copy** button. Or you can click that button’s small arrow to select a **Save** option that overwrites the file.
+
+ Or you can select alternative clockwise or anticlockwise rotation options. To do so, press the **Edit image** button beside the **Rotate** option in Photos. Then click the **Rotate image 90 degrees clockwise** or **Rotate image 90 degrees anticlockwise** options.
+
+![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
+
+## 3\. How to Rotate Images With Paint
+
+ Paint is the graphics editor included with Windows 11\. That pre-installed app has three rotation options with which to change the orientation of your images. This is how to rotate images with Paint:
+
+1. Press your keyboard’s **Windows logo + S** buttons and type "paint" into Windows Search.
+2. Select **Paint** to access that app.
+3. Press **Ctrl** \+ **O** to bring up an Open window.
+4. Select an image and click **Open**.
+5. Click the **Rotate** button to view a small menu with three options.  
+![Paint's Rotate options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paint-s-rotate-options.jpg)
+6. Select the **Rotate right 90°** or alternative left and 180° options.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Press **Ctrl** \+ **S** to save over the original file.
+
+ You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. How to Rotate Images With Edge’s Image Editor
+
+ Microsoft Edge is Windows 11’s pre-installed browser that now has a built-in image editor. That feature enables you to rotate images and apply other tweaks to pictures you find online before downloading them. It’s quite similar to the image editor in the Photos app. These are the steps for rotating images with Microsoft Edge:
+
+1. Open the Google search engine in Microsoft Edge.
+2. Enter a keyword to find some images.
+3. Click Google’s **Images** tab.
+4. Right-click a picture thumbnail and select **Edit image**.  
+![The Edit image option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-image-option.jpg)
+5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
+![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
+6. Click **Save** to download the rotated image.
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
+
+ Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. How to Rotate Images With Online Image Tool
+
+ You can rotate images without installing software with the Online Image Tool web app. Unlike Edge’s image editor, that tool enables you to upload pictures on your PC for rotation. Plus, you can upload more than one file at a time to rotate multiple images in batches. This is how you can rotate photos with the Online Image Tool in a Windows browser:
+
+1. Open the [Online Image Tool website](https://www.onlineimagetool.com/en/rotate-png-jpg-webp-gif) app in your browser of choice.
+2. Click the **Add images** button.
+3. Select multiple images to rotate by holding the **Ctrl** button.
+4. Click **Open** to bring up your image selection within the web app.
+5. Next, select the **90°**, **180°**, or **\-90°** rotation options.  
+![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
+6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
+![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
+7. Click **Save All** to download the rotated images.
+
+ Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
+
+## 6\. How to Rotate Images With IrfanView
+
+ IrfanView is a nifty image viewer app for Windows platforms that’s freely available. That app includes a custom rotation feature for rotating images at angles other than 90 or 180 degrees. You can install IrfanView and rotate images with that app like this:
+
+1. Open this [IrfanView webpage](https://www.irfanview.com/64bit.htm) and download the app.  
+![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
+2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
+3. Open IrfanView by double-clicking its desktop shortcut.
+4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
+5. Click on the **Image** menu.  
+![The Rotate Left option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-option.jpg)
+6. Select the **Rotate Left** or **Rotate Right** option for the standard 90-degree rotation.
+
+ If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
+
+![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Rotate Images for a Better Orientation in Windows 11
+
+ So, you don’t need Adobe Photoshop to rotate images on a Windows 11 PC. It’s easy to correct image orientation on a Windows 11 PC with any of the rotation methods above. Choose whatever image rotation method you like best.
+
+ You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-digging-deep-into-facebooks-short-video-shift-the-2023-scenario/"><u>[New] In 2024, Digging Deep Into Facebook's Short Video Shift The 2023 Scenario</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-directx12-disruption-in-halo-infinite-launching-process/"><u>[RESOLVED] DirectX12 Disruption in Halo Infinite Launching Process</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhance-fb-profile-picture-display/"><u>[Updated] Enhance FB Profile Picture Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocketing-numbers-enhancing-youtube-presence/"><u>[Updated] Skyrocketing Numbers Enhancing YouTube Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-instagram-success-script/"><u>[Updated] Unveiling the Instagram Success Script</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-vector-editors-as-acid-pro-successors/"><u>2024 Approved Innovative Vector Editors as ACID Pro Successors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-spectacular-top-ten-nintendo-switch-fighter-games-max-156/"><u>2024 Approved Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-detailed-guide-to-advanced-human-interface-systems/"><u>A Detailed Guide to Advanced Human Interface Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-canon-printer-speed-via-driver-update/"><u>Boost Canon Printer Speed via Driver Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/core-functionality-within-vcplusplus-releases/"><u>Core Functionality Within VC++ Releases</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/danish-cinematic-classics-enhancing-language-skills/"><u>Danish Cinematic Classics Enhancing Language Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-your-pc-secrets-of-finding-windows-1011-keys/"><u>Decode Your PC: Secrets of Finding Windows 10/11 Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-ai-systems-their-uniqueness/"><u>Decoding AI Systems: Their Uniqueness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-words-in-a-flash-windows-11-definiton-hub/"><u>Explore Words in a Flash - Windows 11 Definiton Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-system-call-issues-on-windows-11-and-11/"><u>Fixing System Call Issues on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gaining-insight-into-your-gpus-potential-using-these-6-essential-windows-apps/"><u>Gaining Insight Into Your GPU's Potential Using These 6 Essential Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-the-best-macos-features-with-windows-apps/"><u>How to Get the Best macOS Features With Windows Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-camon-20-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Camon 20 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-update-info-into-right-click-context-menu/"><u>Incorporating Update Info Into Right-Click Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-system-support-setting-up-custom-hotkeys-for-windows-fixes/"><u>Instant System Support: Setting Up Custom Hotkeys for Windows Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-valorant-pace-on-windows-pc/"><u>Jumpstart Your Valorant Pace on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-correction-0x0000004e-in-windows/"><u>Mastering Error Correction: 0X0000004E in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-expertise-in-depth-reviews-on-hardware-solutions/"><u>Mastering Gadgets with Tom's Expertise: In-Depth Reviews on Hardware Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-running-cmd-with-elevated-rights/"><u>Mastering Windows: Running CMD with Elevated Rights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/msvcr110dll-missing-understanding-and-resolution/"><u>MSVCR110.dll Missing: Understanding & Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-admin-command-challenges-in-windows/"><u>Navigating Admin Command Challenges in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-working-windows-alt-codes-51-characters/"><u>Navigating Non-Working Windows ALT Codes (51 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-past-text-recall-capabilities/"><u>Optimizing Windows 11'S Past Text Recall Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-update-anomalies-restoring-your-discord-on-windows/"><u>Post-Update Anomalies: Restoring Your Discord On Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-camon-20-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Camon 20 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-download-speeds-preventing-steam-slowdowns/"><u>Skyrocketing Download Speeds: Preventing Steam Slowdowns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-yellow-screen-problem-windows-display-correction-tips/"><u>Solving Yellow Screen Problem: Windows Display Correction Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-obtain-new-drivers-for-your-lenovo-t450-laptop/"><u>Streamlined Process to Obtain New Drivers for Your Lenovo T450 Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-methods-verifying-windows-11-devices-availability/"><u>Top 5 Methods: Verifying Windows 11 Devices' Availability</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-epson-paperless-operation-issue/"><u>Troubleshooting Epson Paperless Operation Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-blue-screen-dumps-a-comprehensible-guide/"><u>Understanding Blue Screen Dumps: A Comprehensible Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-windows-user-entry-attempts-successes-and-setbacks/"><u>Unravel Windows User Entry Attempts: Successes and Setbacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-how-to-prioritize-taskmanager/"><u>Unveiling How to Prioritize TaskManager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-home-vs-pro-which-is-best-for-you/"><u>Windows 11 Home Vs. Pro: Which Is Best for You?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-hello-fingerprint-login-configuration-guide/"><u>Windows Hello Fingerprint Login Configuration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-strategies-unzipping-multiple-files-simultaneously/"><u>Windows Strategies: Unzipping Multiple Files Simultaneously</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

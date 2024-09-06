@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Windows GPSVC Delay: A Guide to Resolution"
-date: 2024-09-01T05:19:19.367Z
-updated: 2024-09-02T05:19:19.367Z
+date: 2024-09-05T19:32:04.076Z
+updated: 2024-09-06T19:32:04.076Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Fixing GPSVC Delay,Windows GPS Issue,Reducing GPS VC Delay,Solving GPS
 thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b7348173d3861777fbb2c2bf.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unraveling the Windows GPSVC Delay: A Guide to Resolution
 
  The "Please wait for the GPSVC" loop in Windows is a frustrating issue that can cause the system to get stuck upon a shutdown attempt. This loop is related to the Group Policy Client Service (GPSVC).
@@ -51,10 +57,22 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 4. Choose **Troubleshoot** \> **Advanced options**.  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on **Startup settings** and select **Restart**.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Wait for the computer to restart and then press the 4, 5, or 6 keys to boot into Safe Mode.
 
  Once you are in Safe Mode, proceed with the solutions we have listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Restart the Group Policy Client Service
 
  The GPSVC service itself might be dealing with a temporary glitch or a corruption error that is causing it to malfunction. The easiest way to fix issues with the service is by restarting it.
@@ -68,16 +86,22 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 ![Access the Group Policy Client properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/group-policy-client-properties.jpg)
 5. Now, click on the **Stop** button, wait for a few seconds, and click **Start**.
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. Expand the dropdown for Startup type and choose **Automatic**.
 7. Click **Apply** \> **OK** to save the changes.
 
  You can now exit the Services window and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reset the Local Group Policy Settings
 
 ![Reset Group Policy using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Reset-Group-Policy-using-Command-Prompt.jpg)
@@ -97,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 `gpupdate.exe /force`
 6. Finally, restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Modify the GPSVC Registry File
 
  There is also a chance that the GPSVC registry keys are missing or corrupt, which is preventing the service from functioning properly. Such issues can be fixed by modifying the relevant values as shown below.
@@ -119,20 +140,23 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 10. Type "12320" in Value data and click **OK**.  
 ![AuthenticationCapabilities key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/authentican-key.jpg)
 11. Now, create another key **CoInitializeSecurityParam** in a similar way.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 12. Set its base to **Hexadecimal** and type "1" in Value data.  
 ![CoInitializeSecurityParam key in the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/coinitializesecurityparam-key.jpg)
 13. Click **OK** to save the changes and then restart your PC. Hopefully, upon reboot, you will no longer face the error.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apart from these specific fixes, you can also try [performing a system restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) or scanning the system [using the built-in SFC and DISM Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/). The former will help revert the system to an older, error-free state, while performing a system scan will help fix any corruption errors in the system that might be contributing to the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## GPSVC Loops on Windows, Fixed
 

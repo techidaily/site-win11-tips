@@ -1,7 +1,7 @@
 ---
 title: Reinstating File Images in Windows 11 – The How-To Guide
-date: 2024-09-01T05:19:54.661Z
-updated: 2024-09-02T05:19:54.661Z
+date: 2024-09-05T19:32:03.593Z
+updated: 2024-09-06T19:32:03.593Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 2. Click on**three horizontal dots** at the right end of the ribbon tabs and then choose**Options** from the menu.  
 ![Go to Folder Options in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-go-to-folder-options-in-windows-file-explorer.jpg)
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
@@ -45,15 +51,39 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Check for Files or Format Specific Issues
 
@@ -74,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Rebuild the Thumbnail Cache
 
@@ -86,7 +116,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Restart File Explorer
 
@@ -95,7 +128,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
@@ -109,6 +145,12 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Apply Generic Windows 11 Fixes
 
  Hopefully, one of the fixes listed above will resolve your issue, but if they don't, try these:
@@ -118,7 +160,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 * Install any pending Windows updates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 

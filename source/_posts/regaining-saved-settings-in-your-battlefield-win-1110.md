@@ -1,7 +1,7 @@
 ---
 title: Regaining Saved Settings in Your Battlefield (Win 11/10)
-date: 2024-09-01T05:18:10.999Z
-updated: 2024-09-02T05:18:10.999Z
+date: 2024-09-05T19:32:05.024Z
+updated: 2024-09-06T19:32:05.024Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Save Settings Win 11,Reset Win 10,Battlefield Save Restore,Win 11 Sett
 thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4ccd50e41e8a2b78b87f09590.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Regaining Saved Settings in Your Battlefield (Win 11/10)
 
  Many players adjust graphical, audio, and control settings in PUBG: Battlegrounds to match their preferences. However, some players have reported they can’t change settings in PUBG: Battlegrounds because it doesn’t save them. PUBG’s settings reset for those players every time they restart the game.
@@ -29,14 +35,38 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 3. Click AppData in Explorer’s address bar to view that directory.  
 ![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
 4. Open the**Local** subfolder within the**AppData** directory.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click the**TslGame** folder to view and open it.
 6. Then open the**Saved > Config > WindowsNoEditor** folders from there.  
 ![The GameUserSettings.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/gameusersettings-ini-file.jpg)
 7. Right-click the**GameUserSettings.ini** file and select**Delete** .
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Launch PUBG and try changing the game settings again.
 
  Some PlayerUnknown’s Battleground players have also said that deselecting the Read-only option for the GameUserSettings.ini file can fix PUBG not saving. You can do that by right-clicking the GameUserSettings file and selecting**Properties** . Deselect (uncheck) the**Read-only** checkbox if it’s selected. Click**Apply > OK** to save the file’s attribute option.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Verify the Integrity of PUBG’s Files
 
  Verifying game files can resolve a wide variety of gaming issues. In this case, PUBG is playable but isn’t working right because it’s not saving settings. Thus, that could be a bug verifying PUBG’s files might resolve.
@@ -55,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manage-ransomware-protection-option.jpg)
 4. If**Controlled folder access** is enabled, click that setting to turn it off.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
@@ -73,7 +103,10 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
  Or look through your antivirus software’s settings tabs to see if one includes a comparable controlled folder setting that restricts app access to directories and files and turn it off if it does.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Reinstall PUBG
 
@@ -84,19 +117,16 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 3. Select the**Uninstall** menu option.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
 4. Click**Uninstall** when asked to confirm.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tweak PUBG’s Game Settings Again
 

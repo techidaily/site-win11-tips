@@ -1,7 +1,7 @@
 ---
 title: "Get Familiar with Your Mouse: Guide to Windows 11 Propets"
-date: 2024-09-01T05:19:47.283Z
-updated: 2024-09-02T05:19:47.283Z
+date: 2024-09-05T19:32:03.700Z
+updated: 2024-09-06T19:32:03.700Z
 tags:
   - windows10
   - windows11
@@ -28,8 +28,20 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Type **mouse settings** in the search bar and press the **Enter** key to open the Settings app page.  
 ![Open Mouse Properties Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu.jpg)
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -40,6 +52,18 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-control-panel.jpg)
 4. The Mouse Properties window will launch.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Using Settings App
 
  Windows 11 Settings app slaps a fresh coat of paint on the bland UI of Windows 10 and contains a dedicated section for Mouse customization. It is part of a larger push to move everything to the Settings app and reduce dependency from the Control Panel. Repeat the following steps:
@@ -50,7 +74,16 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
 
@@ -63,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Using File Explorer
 
@@ -79,6 +118,18 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-file-explorer.jpg)
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Using Task Manager
 
  If the Control Panel app or [File Explorer isn’t working](https://www.makeuseof.com/windows-file-explorer-not-opening/), you can launch the Mouse Properties window using the Task Manager. Here’s how to do it:
@@ -87,6 +138,12 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 2. Click on the **Run new task** button. Type **control mouse** in the text box and click on the **OK** button.  
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Close the Task Manager.
 
 ## 7\. Using Command Prompt
@@ -98,10 +155,19 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-cmd.jpg)
 3. Mouse Properties will open in a new window.
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Type **exit** and press Enter to close the Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Using PowerShell
 
  You can use the **start-process** cmdlet in PowerShell to launch an app or Windows tools. You don’t need to run [PowerShell with administrator privileges](https://www.makeuseof.com/windows-11-powershell-administrator/) for this method. Repeat the following steps:
@@ -111,12 +177,18 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 ![Open Mouse Properties Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-powershell.jpg)
 3. Mouse Properties tool will open in a new window.
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Using a Desktop Shortcut
 
  A desktop shortcut is a quicker way to adjust mouse settings, especially when there are multiple users on one Windows 11 PC. You can create the shortcut either by visiting the System32 folder or create an empty shortcut and mapping the address of the Mouse Properties tool to it. Here’s how to do it with the latter:
@@ -128,9 +200,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 5. Paste the following path in the text box and click on the **Next** button: **"C:\\Windows\\System32\\main.cpl"**  
 ![Open Mouse Properties Using Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-shortcut.jpg)
 6. Now, type the name of the shortcut. We named it **Mouse Settings**. Click on the **Finish** button.
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 7. You can double-click on the shortcut and adjust mouse settings.
 
 ## 10\. Using a Keyboard Shortcut
@@ -143,9 +212,6 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 4. Click on the **Apply** button and then click on the **OK** button.  
 ![Open Mouse Properties Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-keyboard-shortcut.jpg)
 5. Now, test the mapped shortcut key combination and check if it launches the Mouse Properties tool.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 ## Gain Absolute Control Over Your Mouse on Windows
 

@@ -1,7 +1,7 @@
 ---
 title: "Transform Taskbar Utility: Adding Directories to Windows 11 Menu"
-date: 2024-09-01T05:18:30.392Z
-updated: 2024-09-02T05:18:30.392Z
+date: 2024-09-05T19:32:04.772Z
+updated: 2024-09-06T19:32:04.772Z
 tags:
   - windows10
   - windows11
@@ -14,10 +14,22 @@ keywords: Windows 11 Toolbar Enhancements,Menu Directory Addition,Taskbar Custom
 thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transform Taskbar Utility: Adding Directories to Windows 11 Menu
 
  The context menu is a handy menu you can open in Windows 11 by clicking the right mouse button on the desktop or in File Explorer. That menu consists of two parts in Windows 11, and you can customize its secondary classic menu with registry hacks and third-party software packages in many ways. Here we’ll be looking at how you can add context menu folder shortcuts with the MyFolders and Right Click Context Menu Adder apps.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -32,6 +44,12 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -40,6 +58,12 @@ Once your PC has restarted:
 3. Click the**Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click**Done** to exit the MyFolders window.
 
 ### How to Use MyFolders
@@ -48,17 +72,26 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
  Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
@@ -77,9 +110,6 @@ Once your PC has restarted:
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -98,9 +128,6 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -112,17 +139,20 @@ Once your PC has restarted:
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 

@@ -1,7 +1,7 @@
 ---
 title: "Speeding up Windows Edge: Steps for W10 & W11"
-date: 2024-09-01T05:18:39.691Z
-updated: 2024-09-02T05:18:39.691Z
+date: 2024-09-05T19:32:04.650Z
+updated: 2024-09-06T19:32:04.650Z
 tags:
   - windows10
   - windows11
@@ -14,16 +14,34 @@ keywords: Speed Up Edge Windows,Optimize W10 Edge Performance,Enhance Windows Ed
 thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Speeding up Windows Edge: Steps for W10 & W11
 
  Windows 10 and 11 users know how much Microsoft is pushing Edge to be everyone's default browser. If you’re one of those who made the switch, the experience may not be as different from the ubiquitous Google Chrome browser. After all, Edge is based on Chromium, so it behaves similarly to Chrome.
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a Slow Microsoft Edge on a Win­dows 10 or 11 PC
 
  Before doing any troubleshooting steps below, make sure that your internet connection works properly. Often, an intermittent connection can slow down your browser. If you’ve established that there are no network-related issues, you can proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Relaunch Microsoft Edge
 
  When we say relaunch, we don’t just mean close the browser and open it again. Most times, exiting a program doesn’t completely stop it from running. They’re just left running in the background. To ensure that the program is completely closed, you need to stop any processes related to it on your Task Manager. Here’s how:
@@ -33,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
 3. Launch Microsoft Edge and see if it works okay.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Update Edge
 
  Outdated programs such as Microsoft Edge can lead to a slow user experience. This is because developers introduced new updates to address several bugs and issues. If you don’t update it, the problems present on the app will stay and hamper your usage.
@@ -46,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 2. Once you're in Settings, select **About Microsoft Edge** from the left-side navigation. Then, install any available updates. If there’s none, proceed to the next fix.  
 ![Update Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Disable the "Preload New Tab Page" Option
 
  Unfortunately, Microsoft Edge’s new tab page includes a lot of content that can consume a lot of resources. Apart from an animated background, it also has Microsoft news, weather widget, traffic updates, and more. Loading all of them in the background can make your browser feel slow, especially if your computer doesn’t have much memory left on it.
@@ -61,11 +73,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 4. Under the **New tab page** section, disable the **Preload the new tab page for a faster experience** option.
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
  Relaunch Microsoft Edge and check if it works faster.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
@@ -84,12 +98,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Under the **Tracking prevention** section, choose **Balanced** instead of Strict.
 5. ![Edge tracking pervention settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-tracking-protocol-1.jpg)  
  Lastly, check if this changes speeds up Edge.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Clear Cache and Cookies
 
  Sometimes, cookies and cache cause a slow Microsoft Edge on Windows 10 and 11\. If the browser has a lot of them, it can affect its speed. Luckily, the fix is easy. You only need to delete them, and you’re good to go. However, deleting the data can log you out of some websites you frequently visit. If this is the case, don’t panic. All you need to do is to log in again.
@@ -103,16 +120,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
  Then, press **See all cookies and site data**.
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
  Check your browser and see if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Disable Browser Extensions
 
  Since you can use all Chromium extensions on Edge, it can be tempting to install many of them on your browser. However, some of them can cause your app to slow down, especially if it’s outdated or not supported anymore. Unfortunately, there’s no way for you to check which extension might cause the issue. Here’s to manually check which extension is slowing down your browser:
@@ -122,12 +145,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Flush Edge DNS
 
@@ -137,6 +172,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Flush Edge DNS cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flush-dns-cache-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restart your browser and check if this solution improved its performance.
 
 ### 9\. Repair Microsoft Edge

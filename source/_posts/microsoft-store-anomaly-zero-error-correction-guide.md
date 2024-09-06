@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Store Anomaly: Zero-Error Correction Guide"
-date: 2024-09-01T05:19:59.340Z
-updated: 2024-09-02T05:19:59.340Z
+date: 2024-09-05T19:32:03.523Z
+updated: 2024-09-06T19:32:03.523Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Microsoft Store Errors,Zero-Error Fixing,Microsoft Store Tips,Error Co
 thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854aa08d5996bdfaffcb47f66d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft Store Anomaly: Zero-Error Correction Guide
 
  Error code 0x00000000 is another of those Microsoft Store issues commonly reported on support forums. This error occurs when users try to install new UWP apps or update ones already installed. The error 0x00000000 messages say, “Something unexpected happened” or “Try that again.”
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Run the Troubleshooter for Windows Store Apps
 
  First, start with potential error 0x00000000 resolutions that are more straightforward to apply, such as running the Windows Store Apps troubleshooter. Microsoft Store is itself a UWP app for which the Windows Store Apps troubleshooter can fix issues. So, try running the Windows Store Apps troubleshooting tool like this:
@@ -32,8 +44,20 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 5. Then select to apply any potential solution presented within Windows Store Apps.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In Windows 10, the steps for opening Windows Store Apps aren’t quite the same. Click the **Update & Security** category in Windows 10’s Settings app and select the **Troubleshoot** tab. Then you can click an **Additional troubleshooter** navigation option to reach the list of troubleshooting utilities.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Enable the Microsoft Store Install Service
 
  The Microsoft Store Install Service has a description that says app installations can’t function properly when it’s disabled. So, that’s a necessary service to have enabled to utilize the Microsoft Store without issues. This is how you can check and enable the Microsoft Store Install Service.
@@ -44,13 +68,22 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 4. Double-click **Microsoft Store Install Service** to access its settings.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-window-1.jpg)
 5. Open the **Startup type** menu by clicking on it and selecting **Automatic**.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings for the Microsoft Store Install Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-install-service-properties-window.jpg)
 6. Then select **Start** in the Microsoft Store Install Service Properties window.
 7. Select **Apply** to save the selected settings for the service.
 8. Click the Microsoft Store Install Service window’s **OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Clear the Microsoft Store Cache
 
@@ -60,6 +93,12 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 `WSReset.exe`
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Try Some General Windows Troubleshooting Tips
 
  There are a few Windows-based fixes you can try that fix general Windows Store issues. So, give these a try:
@@ -74,40 +113,46 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Any Active Proxy Servers
 
  A proxy server is an intermediary, or middleman, for handling PC client resource requests. Enabling a proxy server might be good for bypassing geographical website restrictions, but it’s a common cause of Microsoft Store errors such as 0x00000000\. So, we recommend that you [disable proxy server settings](https://www.makeuseof.com/windows-11-disable-proxy/) on your Windows 11/10 PC if they’re enabled to resolve error 0x00000000\.
 
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reinstall the Microsoft Store
 
 ![An uninstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-apppackage-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Reinstalling Microsoft Store is a slightly more drastic potential fix for error 0x00000000 to apply when others fail. This potential resolution will replace the Microsoft Store’s files.
 
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Set Up a New Windows User Account
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-account-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Perform a Windows System Restore
 
  System Restore is a utility that saves Windows system snapshots. Those system snapshots, otherwise restore points, enable you to roll back Windows to the dates saved. Thus, System Restore is kind of like a time machine with which you can undo system changes applied after selected restore point dates.
@@ -118,9 +163,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-restore-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Do an In-Place Windows Upgrade
 
  An in-place upgrade effectively installs a new copy of Windows. That may sound like a drastic solution but applying it won’t affect user files or third-party software installed on your PC. Furthermore, upgrading Windows in such a way will probably fix any system issues causing error 0x00000000\.
@@ -129,9 +171,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Screenshot captured by Jack Slater - No attribution required
 
  To apply the same potential solution in Windows 10, click **Download tool now** on the [Microsoft Windows 10 download page](https://www.microsoft.com/en-gb/software-download/windows10).

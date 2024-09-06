@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows-Based Discord Searches Easily
-date: 2024-09-01T05:19:14.237Z
-updated: 2024-09-02T05:19:14.237Z
+date: 2024-09-05T19:32:04.140Z
+updated: 2024-09-06T19:32:04.140Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
  Now that you know the common reasons behind the Discord search issue, let’s move on to some recommended fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  A weak internet connection is the most common issue that everyone faces. So, fixing your internet first should be your top priority.
@@ -45,6 +51,12 @@ Here's how you can check and fix your internet-related issues:
 2. Select**Command Prompt (Admin)** from the list of options. You can also click the**Terminal (Admin)** option.  
 ![Windows Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-power-user-menu.jpg)
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
 
@@ -64,10 +76,13 @@ Here's how you can check and fix your internet-related issues:
 * Alternatively, you can click the**Show hidden icons** toggle on the taskbar. Find the**Discord** icon and right-click on it. Select**Check for Updates** option from the mini context-menu.  
 ![Discord Icon On Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-icon-on-taskbar.jpg)
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Disable Your VPN or Proxy
 
  If you are using any VPN or proxy, you may often run into Discord-related issues. For example, the[Discord messages fail to load](https://www.makeuseof.com/windows-discord-messages-failed-to-load/) issue can occur due to a VPN or proxy.
@@ -83,13 +98,25 @@ Here's how you can check and fix your internet-related issues:
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Disable Discord Streamer Mode
 
@@ -105,9 +132,6 @@ Below are the steps you need to perform to disable the Streamer Mode:
 ![Discord Streamer Mode Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-streamer-mode-settings.jpg)
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 5\. Clear Discord's AppData Cache Folder
 
  Discord stores its cache in the AppData folder. Over time, the Discord cache may get corrupted and cause issues like the search bar not working. There's nothing to worry about, as clearing the cache is as simple as deleting a folder.
@@ -120,15 +144,45 @@ Here's how you can clear Discord's cache files on Windows:
 ![AppData Command In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-command-in-explorer.jpg)
 4. Locate the**discord** folder and right-click on it.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Reinstall the Discord Windows Client
 
@@ -140,24 +194,32 @@ Here's how you can clear Discord's cache files on Windows:
 2. Go to the[Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
 ![Discord Downloads Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-downloads-website.jpg)
 3. Double-click the downloaded file to launch the Discord installer setup.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 4. Log in to your Discord account and try searching messages now via the search bar.
 
  Hopefully, this should help you quickly resolve any issues with Discord's search functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Some Miscellaneous Fixes to Try
 
  If you've tried everything and still can't get Discord's search function to work, try the following miscellaneous fixes once.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Uninstall Your Discord Plugins
 
  It's no secret that Discord's search can be a bit sluggish on larger servers. Adding[third-party Discord plugins](https://www.makeuseof.com/how-to-set-up-use-betterdiscord/) to the mix can sometimes make matters worse. These plugins may interfere with Discord's functionality and slow it down even further.

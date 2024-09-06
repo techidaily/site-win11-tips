@@ -1,0 +1,230 @@
+---
+title: Navigating Through Inactive WSReset Troubleshooting Steps
+date: 2024-09-05T19:38:16.710Z
+updated: 2024-09-06T19:38:16.710Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Navigating Through Inactive WSReset Troubleshooting Steps
+excerpt: This Article Describes Navigating Through Inactive WSReset Troubleshooting Steps
+keywords: WSReset Fix Guide,Reset Error Resolution,Network Settings Recovery,System Reset Troubleshoot,Reactive WSReset Help,Inactive Router Steps,Restarting Service Fixes
+thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab989de35873f384ab0ed53cb.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Navigating Through Inactive WSReset Troubleshooting Steps
+
+ WSReset.exe is an essential command line tool delivered with Windows to perform various tasks and troubleshoot issues. It resets the Windows application store and clears cache issues that may result in slow performance or errors.
+
+ However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix WSReset.exe Not Working on Windows
+
+ Before you troubleshoot, let's see what WSReset.exe is used for. The WSReset.exe program resets Windows Store and clears any cache issues that might cause errors. It troubleshoots problems with the Windows Store and applications, including those that are not downloading or launching properly.
+
+ Now let's move on to troubleshooting.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Run WSReset.exe as an Administrator
+
+ WSReset.exe requires administrative privileges to run properly. If you're not running it as an administrator, it may fail to reset the Windows Store cache.
+
+ To resolve this issue, [ensure you're using a Windows admin account](https://www.makeuseof.com/check-windows-account-admin-rights/), then try running WSReset.exe again.
+
+## 2\. Run the Windows Store App Troubleshooter
+
+ This problem also appears due to corrupt system files or Windows Store application issues. To fix these issues, Windows offers an embedded troubleshooter that identifies and resolves problems with the Store app.
+
+ To run the troubleshooter, use the steps below.
+
+1. Press **Win + I** on your keyboard to open the Settings menu.
+2. Select **System** from the left sidebar.
+3. In the right pane, click **Troubleshoot > Other troubleshooters**.  
+![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
+4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
+
+ As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
+
+ If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
+
+![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
+
+ Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
+
+## 3\. Repair and Reset Windows Store
+
+ If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Remove the Latest Windows Updates
+
+ Although Microsoft releases regular Windows updates to improve overall system performance, sometimes these updates cause problems instead. WSReset.exe not working is one such issue related to a recent Windows update.
+
+ Therefore, if you’ve recently applied any updates and are now facing issues with WSReset.exe, remove the update and see if this resolves the issue.
+
+1. Press **Win + S** on your keyboard to open the search box.
+2. Type **Control Panel** in the search box and select it from the results list.
+3. Then navigate to **Programs** \> **Programs and Features** \> **Uninstall a program**.
+4. From the left sidebar, select **View installed updates**. This will open the Settings window with the list of applied Windows updates.
+5. Now look for the recent update and click **Uninstall** next to it.  
+![Uninstall Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-windows-updates.jpg)
+6. Click **Uninstall** again when prompted.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Follow the onscreen instructions and restart your computer when it's done.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Clear the Microsoft Store Cache via the Registry
+
+ If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
+
+ It is a complex process for those unfamiliar with registry changes, as incorrect settings could cause major problems. However, if done correctly, this flushes the cache and solves WSReset.exe errors. To avoid data loss, back up your registry and be cautious when modifying it.
+
+1. Press **Win + R** on your keyboard to open the Run dialog box.
+2. Type **cmd** in the text field and press **Ctrl + Shift + Enter**. This will open the Command Prompt window with administrative privileges.
+3. If the UAC prompt appears, select **Yes** to continue.
+4. In the Command Prompt window, type the following command and press Enter:  
+`wmic useraccount get name,sid`
+5. Running this command will list all user accounts on your computer. Find the SID of your user account and copy it.  
+![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
+6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. If the UAC pop-up appears, click **Yes** to continue.
+8. When the Registry Editor opens, navigate to the following registry key:  
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
+ You can also paste this path into the Registry Editor's address bar and press Enter. This will direct you to the AppxAllUserStore registry key.
+9. In the **AppxAllUserStore** key, find the **SID** you copied earlier.  
+![Clear the Microsoft Store Cache via the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-microsoft-store-cache-via-the-registry.jpg)
+10. Right-click on it and select **Delete**.
+11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
+12. Close the Registry Editor and restart your PC.
+
+ Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
+
+## 6\. Reinstall the Microsoft Store
+
+ Sometimes Windows Store files are corrupted or damaged. This may require you to [reinstall the Microsoft Store app](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/). The process replaces corrupted or missing files and prevents WSReset.exe from malfunctioning.
+
+## 7\. Try Some Generic Fixes
+
+ There are also some general solutions that work in various scenarios. These include [running a malware scan on your system](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) or [creating a new user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and switching to it.
+
+ If you're still encountering WSReset.exe errors, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/). It refreshes your computer's memory and cleans out temporary files or settings.
+
+ You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
+
+## Resolving the WSReset.exe Issue on Windows
+
+ Today WSReset.exe is a well-known tool among Windows users. Despite being simple, this can be tricky to troubleshoot if it fails to reset or clear the Windows Store. Hopefully, it's just a system glitch, and you can fix the problem using the suggestions provided in this article.
+
+ However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-transforming-youtube-sounds-into-high-quality-wav-files/"><u>[New] 2024 Approved Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chroma-blades-the-new-era-of-high-definition-capture/"><u>[Updated] Chroma Blades The New Era of High-Definition Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs-for-2024/"><u>[Updated] Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earnings-from-a-million-youtube-globals/"><u>[Updated] In 2024, Earnings From a Million YouTube Globals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficiently-setting-up-mixer-on-macos/"><u>2024 Approved Efficiently Setting Up Mixer on MacOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-and-share-the-essential-guide-to-maccasting-for-2024/"><u>Capture and Share The Essential Guide to Maccasting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-security-strategy-single-antivirus-on-windows/"><u>Efficient Security Strategy: Single Antivirus on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workspace-aesthetics-animated-backdrops-for-windows-11/"><u>Elevate Workspace Aesthetics: Animated Backdrops for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-visuals-in-windows-11-security-feature/"><u>Enhancing Visuals in Windows 11 Security Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-usability-widgets-for-your-desktop/"><u>Enhancing Windows 11 Usability: Widgets for Your Desktop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966237978-exclusive-offer-advanced-drives-for-msi-z370-a-pro-immediate-access-inside/"><u>Exclusive Offer: Advanced Drives for MSI Z370-A PRO - Immediate Access Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploiting-windows-error-logs-for-diagnostics/"><u>Exploiting Windows Error Logs for Diagnostics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-detection-of-razers-by-synapse-on-windows-operating-systems/"><u>Fixing Non-Detection of Razers by Synapse on Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-0xc00ce556-parse-issue-in-w11-w10/"><u>Fixing the 0xC00CE556 Parse Issue in W11, W10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-code-to-creativity-ai-in-windows-productivity/"><u>From Code to Creativity: AI in Windows Productivity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-associating-your-win-key-with-microsoft-logins/"><u>Guide: Associating Your Win Key With Microsoft Logins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-domain-users-through-windows-11-biometrics/"><u>Guiding Domain Users Through Windows 11 Biometrics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-current-windows-password-error-in-win11win11/"><u>How to Fix 'Current Windows Password' Error in Win11/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-failed-cloud-sync-and-access-in-windows-11/"><u>How to Reset Failed Cloud Sync & Access in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-edge-40-neo-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Edge 40 Neo Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-tutorial-enhancing-meeting-experience-in-zoom-win10-for-2024/"><u>In-Depth Tutorial Enhancing Meeting Experience in Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-comparison-facts-for-cdrive-and-ddrive/"><u>Key Comparison Facts for C:Drive & D:Drive</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leveraging-screencastifys-advanced-features-for-2024/"><u>Leveraging Screencastify's Advanced Features for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-your-confirmation-steps-before-deleting-files/"><u>Managing Your Confirmation Steps Before Deleting Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-components-with-toms-expertise/"><u>Navigating the World of Computing Components with Tom's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-csgo-opener-performance-on-w11/"><u>Optimizing CS:GO Opener Performance on W11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-invisible-pc-in-widows-remoting/"><u>Remedying Invisible PC in Widows Remoting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-security-by-tackling-pin-troubles-in-win10win11/"><u>Streamline Your PC Security by Tackling Pin Troubles in Win10/Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-time-capsule-windows-11-transformed-into-98/"><u>Tech Time Capsule: Windows 11 Transformed Into 98</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-initiating-administrator-level-command-prompt-in-w11/"><u>The Essential Guide to Initiating Administrator-Level Command Prompt in W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-for-non-responsive-davinci-resolve-app-on-windows-systems/"><u>Troubleshooting Steps for Non-Responsive DaVinci Resolve App on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-full-utility-of-galaxy-via-windows-11-a-dex-guide/"><u>Unlock the Full Utility of Galaxy via Windows 11: A DeX Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xc00ce556-on-windows-devices/"><u>Unraveling Error Code 0xC00CE556 on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-security-expanding-context-menu-with-firewall-restrictions/"><u>Windows 11 Security: Expanding Context Menu with Firewall Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-tactics-for-handling-packets-of-data-efficiently/"><u>Winning Tactics for Handling Packets of Data Efficiently</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

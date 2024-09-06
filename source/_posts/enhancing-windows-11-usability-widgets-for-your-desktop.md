@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Windows 11 Usability: Widgets for Your Desktop"
-date: 2024-09-01T05:20:56.018Z
-updated: 2024-09-02T05:20:56.018Z
+date: 2024-09-05T19:32:02.732Z
+updated: 2024-09-06T19:32:02.732Z
 tags:
   - windows10
   - windows11
@@ -30,20 +30,50 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
 ![the widget launcher app in the microsoft store on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/ms-store-widget-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the Microsoft Store downloads Widget Launcher onto your Windows 11 PC, click**Open** to launch the app. You can also open it by pressing**Win + S** , typing**widget launcher** in the search box, and clicking on the app in the search results under**Best match** .
 
 ![the widget launcher app in windows 11 search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-search.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Widgets to Your Desktop With Widget Launcher
 
  With Widget Launcher open, you’ll see a list of all the available widgets, such as**Weather** ,**Clock** ,**Calendar** ,**Notes** , and**CPU Meter** , in the middle panel. Click on the widget you want to add to the desktop.
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Some widgets, such as**Weather** ,**RSS Feed** , and**Slideshow** , will be blank when you first launch them. That’s because you need to tell them where to get the data they need to display.
 
  Let's take the**RSS Feed** widget, for example. To make it show the feeds you want, start by hovering over the widget and clicking on the**gear icon** in the small panel that appears on the right to open**Settings** .
@@ -54,10 +84,19 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
 ![entering a URL in the RSS Feed widget of the Widget Launcher on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/url-rss-feed-widget-launcher-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If this was the**Weather** widget, you'd need to add a location. And if it was the**Slideshow** widget, it would require a folder to find the images to display.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Enable "Widgets Always on Top" Mode
 
@@ -65,14 +104,8 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
 ![the settings of the widget launcher in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-settings-always-top.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Enjoy Widgets on Your Windows 11 Desktop
 
  If you want to add widgets to your Windows 11 desktop, Widget Launcher allows you to do that easily. That way, you can always see your favorite information right from your desktop. And if you want to see the widgets all the time, you can just set them to always be on top.

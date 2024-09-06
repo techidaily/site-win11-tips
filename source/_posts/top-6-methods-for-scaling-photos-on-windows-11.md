@@ -1,7 +1,7 @@
 ---
 title: Top 6 Methods for Scaling Photos on Windows 11
-date: 2024-09-01T05:21:50.143Z
-updated: 2024-09-02T05:21:50.143Z
+date: 2024-09-05T19:32:01.975Z
+updated: 2024-09-06T19:32:01.975Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 
  Here are some ways to resize images in Windows 11 with its pre-installed Microsoft apps and some third-party software alternatives.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How to Resize Images With Photos
 
  Photos is primarily a default image viewer app that comes with Windows 11, but it does include some basic editing options. You can use that app to resize your images in pixels and percentage terms. These are the steps for resizing pictures with Photos:
@@ -28,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 2. Click**All Photos** to view your images.  
 ![The All Photos button in Microsoft Phots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/photos-app.jpg)
 3. Right-click an image for resizing and select**Open** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**See more** (ellipses) button in the editing window that opens.
 5. Select the**Resize image** option.  
 ![The Resize image option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-resize-image-option.jpg)
@@ -35,27 +47,42 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 7. Then input different pixel values in the**Width** and**Height** boxes. If you only modify one value, the other one will be automatically proportionally changed to retain the same aspect ratio.  
 ![Image resize options in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/resize-image-options.jpg)
 8. Click**Save** to apply the resize.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users who select the alternative**Percentage** option need to enter percentage values in the**Width** and**Height** boxes. Entering values like 80 and 90 will reduce the size of the image by 20 and 10 percent. Inputting higher numbers like 110 and 120 will increase the image’s size by 10 and 20 percent. Thus, the percentage size change amounts to how much the values are above or below 100.
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Resize Images With Paint
 
  Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our[Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The resize image options in Paint
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. How to Resize Images With Paint 3D
 
@@ -72,19 +99,34 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 2. Then click**Open** and**Browse** **files** .  
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
 9. Select the**Save** option. Or you can select**Save as** if you prefer not to overwrite the original file.
 
  You can also enter different values in the**Width** and**Height** boxes to resize the image. Select**Pixels** or**Percentage** on the drop-down menu to change the value type. Deselect the**Lock aspect ratio** option if you don’t want to retain the image’s proportions.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. How to Resize Images With Edge
 
  Canary and beta versions of the Edge web browser include a built-in image editor feature with which you can resize images. You can try out that feature as covered in our article about[editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/#:~:text=Right%2Dclick%20on%20an%20image,you%20can%20adjust%20the%20image.) . However, you’ll have to make do with extensions (or web apps) for resizing images in Edge stable for now. This is how you can resize your pictures in Edge with the Image Magic Extension:
@@ -94,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 3. Then press the**Extensions** (jigsaw piece) button in Edge.  
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
 4. Click**Image Magic** to bring up that extension’s window.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
@@ -104,22 +143,16 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
  FastStone Photo Resizer is a freeware app designed for applying basic image editing to multiple files. You can utilize that software to batch resize, crop, rename, and convert image files. It also includes options for adding watermarks and text to pictures. You can batch-resize images with FastStone Photo Resizer as follows:
@@ -135,9 +168,6 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 3. Press the**Advanced Options** button.  
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
 4. Click the**Resize** checkbox if it’s not already selected.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
 ![The resize settings in the Advanced Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer-resize-options.jpg)
@@ -147,9 +177,6 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 
  FastStone Photo Resizer also includes additional**In Percentage** ,**In Print Size** , and**Resize based on one side** options for resizing. You can select quarter, half, double, or triple options on the percentage preset drop-down menu. The**In Print Size** option enables you to resize images in centimeters and inches for printing purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Make Your Images Fit Better by Resizing Them in Windows 11
 
  So, there are various ways you can resize photographs and pictures with different Windows 11 apps. The pre-installed Photos and Paint apps are sufficient for resizing images in pixels and percentages. However, you can resize images with your mouse in Paint 3D. FastStone Photo Resizer is an especially useful app for users who need to resize single or multiple images for printing. Or check out CoolTweak to resize your photos from the context menu.

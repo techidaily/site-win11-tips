@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Features: Essential Tips for Windows 11 Widgets"
-date: 2024-09-01T05:21:35.701Z
-updated: 2024-09-02T05:21:35.701Z
+date: 2024-09-05T19:32:02.177Z
+updated: 2024-09-06T19:32:02.177Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  And now that third-party players are also welcome to take advantage of the widgets panel in Windows 11, it has become all the more important to know how to set it up to serve you the best. We are putting together a list of widgets tweaks to help you achieve that.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Display the Widgets Button in Taskbar
 
  The only location from where you can launch widgets is the Taskbar. If you just bought a new PC or updated to Windows 11 recently, you should see the**Widgets button** on the left side of the Taskbar because this is usually the default setup.
@@ -28,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can follow the below steps to bring the shortcut to launch the widgets panel to Taskbar:
 
 1. Open**Settings** app by pressing**Win + I** on your keyboard.
@@ -39,6 +51,18 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
@@ -60,7 +84,10 @@ Follow the below steps to add widgets:
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 To change the size of widgets, follow the below steps:
 
@@ -69,15 +96,15 @@ To change the size of widgets, follow the below steps:
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
@@ -85,15 +112,15 @@ To change the size of widgets, follow the below steps:
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
 
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Tweak the Widget Taskbar Behaviors
 
@@ -103,10 +130,28 @@ To change the size of widgets, follow the below steps:
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
 To expand the widgets panel, follow the below steps:
@@ -116,9 +161,6 @@ To expand the widgets panel, follow the below steps:
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use Widgets Without a Microsoft Account
 
  The widgets panel in Windows 11 will provide you with a more personalized experience when you are logged in with a Microsoft account. However, if you do not want to sign in to the Widgets panel, you can still get the most important information from the supported app widgets in the panel.

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Photo Edits: How to Remove Backdrops Quickly"
-date: 2024-09-01T05:19:21.903Z
-updated: 2024-09-02T05:19:21.903Z
+date: 2024-09-05T19:32:04.044Z
+updated: 2024-09-06T19:32:04.044Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Quick Backdrop Removal,Fast Photo Edit Stream,Efficient Edit Process,R
 thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9a0f3270b71a79e318ccd253.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Streamlining Photo Edits: How to Remove Backdrops Quickly
 
 ### Quick Links
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 * [How to Remove the Background of an Image Using Microsoft Paint](#how-to-remove-the-background-of-an-image-using-microsoft-paint)
 * [How to Remove the Background of an Image Using Paint 3D](#how-to-remove-the-background-of-an-image-using-paint-3d)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Paint and Paint 3D on Windows 11 have a built-in feature to remove the background of an image with a single click.
@@ -32,22 +44,25 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  In this article, we show you how to use Microsoft Paint or Paint 3D to remove a background from an image.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Update Microsoft Paint or Paint 3D App From the Microsoft Store
 
 ![Microsoft Paint app in Microsoft Store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-in-microsoft-store-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The Remove background feature in MS Paint was part of the [Windows 11 Moment 4 update](https://www.makeuseof.com/new-windows-11-features-moment-4-update/). To get started, make sure you have the latest Windows 11 updates installed. To do this, go to **Settings > Windows Update** and choose **Check for updates**. You should also update [Microsoft Paint](https://apps.microsoft.com/detail/paint/9PCFS5B6T72H) and [Paint 3D](https://apps.microsoft.com/detail/paint-3d/9NBLGGH5FV99) from the Microsoft Store to receive new features.
 
  After the update is installed, launch any of the apps, and you'll see the **Remove background** or the **Magic select** option in the respective apps' toolbar. Using them is straightforward, as you can see below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Remove the Background of an Image Using Microsoft Paint
 
@@ -60,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 2. In the **Command bar**, click the **Remove background** option. Microsoft Paint uses AI to process and detect the image elements and remove the background.  
 ![Microsoft Paint App Showing an Image Without Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-app-showing-an-image-without-background.jpg)
 3. You can also use the selection tool to specify only part of the image to remove and then click the **Remove background** option.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. To save the image, go to **File > Save as**, then choose the **PNG** or **JPEG** format. Enter a name for the file and click **Save**. The Paint app will save the file with a transparent background.
 
  As with most AI tools, the remove background feature is not perfect, but more often than not, it does a decent enough job.
@@ -76,25 +88,43 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 1. Launch the **Paint 3D** app and import the image you want to edit.  
 ![Paint 3D App With the Magic Select Option Selected In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-option-selected-in-windows-11.jpg)
 2. Click the **Magic select** option in the toolbar.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Paint 3D App With the Magic Select Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-cutout-selection-in-windows-11.jpg)
 3. Adjust the focus area to fit around the area of the image you want to retain. Even if you want to keep a large part of the image, a slight adjustment is necessary for the app to determine the background.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click **Next**.  
 ![Paint 3D App Main Object Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-main-object-cutout-selection-in-windows-11.jpg)
 5. Preview the cutout to see if the image isolation is accurate. If not, use the **Add** or **Remove** option in the top-right corner to refine your selection further.
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click **Done**.  
 ![Paint 3D App Delete Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-delete-background-canvas-in-windows-11.jpg)
 2. Now, select the cutout and drag it to the side of the canvas.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Using the selection tool, click and drag over the canvas and press **Delete** to remove the background.
 4. Now select the **Canvas** option in the toolbar.  
 ![Paint 3D App Showing a Deleted Bird Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-showing-a-deleted-bird-background-canvas-in-windows-11.jpg)
 5. In the right pane, toggle the **Transparent canvas** option.
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 6. Now drag the cutout back to the canvas and adjust it to fit the image.
 7. To save the image, press **Ctrl + S**, click **Image,** and then **Save**. Give a name to the file and select **Save**.
 

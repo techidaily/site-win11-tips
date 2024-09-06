@@ -1,7 +1,7 @@
 ---
 title: "Internet Inequity: Fix Your Windows Slowdown Now"
-date: 2024-09-01T05:19:49.805Z
-updated: 2024-09-02T05:19:49.805Z
+date: 2024-09-05T19:32:03.664Z
+updated: 2024-09-06T19:32:03.664Z
 tags:
   - windows10
   - windows11
@@ -24,19 +24,34 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  The primary reason for slow internet on a laptop could be bandwidth hogging by the same mobile phone you're comparing the speed to. Other causes include network resources consumed by apps and processes on your device, hardware problems, outdated network drivers, or restrictions imposed by your internet service provider.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a Slow Internet on Your Laptop
 
  For your laptop to match the internet speed you receive on your mobile phone, provide it with maximum bandwidth, update its network drivers, close network resource-hungry processes, change your DNS, check for hardware problems, or halt Windows updates. If all else fails, you should opt for a fast internet package or have your network card replaced.
 
  Now let's take a look at how to apply the above fixes to speed up your internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Ensure Your Internet Is Actually Slow
 
 ![screenshot of Speedtest by Ookla using a fiber connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot-of-speedtest-by-ookla-using-a-fiber-connection.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Are you assuming your laptop has a slower internet speed than your phone? If so, you should test your hypothesis by measuring the internet speed. To do so, disconnect all devices except the one you are testing. For instance, when you test the internet on your mobile device, every device, including the laptop you want to test later, shouldn't share the same connection.
 
  Go to the same speed test website, such as[Speedtest by Ookla](https://www.speedtest.net/) , and run the test from both devices. Also, test your internet connection on a different laptop to eliminate an issue with your internet service provider.
@@ -56,17 +71,27 @@ To rule out hardware issues, ask yourself the following questions:
 * Have you restarted your router since encountering this issue? Do so if you haven't already.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Rule Out ISP Issues
 
  Is the internet speed slow on every laptop you have at home? If so, it might be your ISP that is to blame. To counter this,[change the DNS settings on your Windows device](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) . If it enhances speed, keep the DNS unchanged, but if it has no effect, report the issue to your ISP. If you can switch to a different ISP, you should.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Disconnect Other Devices
 
 ![too many wires plugged into a device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pexels-brett-sayles-2881229-1.jpg)
@@ -76,7 +101,16 @@ To rule out hardware issues, ask yourself the following questions:
  You should disconnect other devices connected to your internet and see if that helps improve your laptop's speed. Continue with the next fix if this one doesn't help.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5\. Close Unnecessary Background Services and Processes
 
@@ -87,24 +121,42 @@ To rule out hardware issues, ask yourself the following questions:
 3. Click on the top of the**Network** column to sort the processes according to their network consumption.  
 ![Clicking on the Network Column in the Processes Tab of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/1.jpg)
 4. Right-click on the useless processes hogging your resources and click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Quitting the Process by Clicking on End Task Button in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-1.jpg)
 5. Next, click the**Startup apps** tab.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 1. If you deem any tasks unnecessary, right-click them and click**Disable** .  
 ![Disabling the Unnecessary Task in the Startup Tab of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-1.jpg)
 2. Once that is done, press**Win + R** to open the**Run** application.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Then type**"msconfig"** and click**OK** .
 4. Go to the**Services** tab in the**System Configuration** window.
 5. Check the box for**Hide all Microsoft Services** .  
 ![Checking the Box for Hide All Microsoft Services in Services Tab of System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-1.jpg)
 6. Click**Disable all** to disable all services or selectively disable services you no longer need.
-
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Disable Windows and App Updates
 
  To keep our system virus-free and to access all new features, it is necessary to update the OS regularly. However, if the updates overwhelm your resources, they are not doing you any good. Therefore, you should temporarily disable them and see if that helps. Our guide on[how to stop Windows updates](https://www.makeuseof.com/windows-11-stop-automatic-updates/) will show you how to do it.
@@ -124,17 +176,20 @@ To update the network drivers, follow these steps:
 ![Expanding the Category for Network Adapters Option in Windows Device Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-1.jpg)
 3. Right-click on the driver you wish to update and click**Update driver** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Updating the Relevant Network Driver by Right-clicking on it in Windows Device Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don't know which one to update, you can simply update all of them.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 8\. When All Else Fails
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Problematic Chrome File Upload/Download on Windows
-date: 2024-09-01T05:21:22.837Z
-updated: 2024-09-02T05:21:22.837Z
+date: 2024-09-05T19:32:02.383Z
+updated: 2024-09-06T19:32:02.383Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Fix Chrome File Errors,Chromium Download Fix,Resolve Chrome Save Issue
 thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be14848998b4f825537e8b545d45.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Rectifying Problematic Chrome File Upload/Download on Windows
 
  Are you trying to download files, but Chrome is refusing to cooperate? Do downloads automatically fail when you attempt to initiate them? If so, you may have a problem with your browser, preventing it from downloading files on your Windows machine. What is causing it to behave this way?
@@ -26,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
  If Chrome is stopping your downloads, update your browser, clear its cache, disable interfering extensions, whitelist the browser on a firewall or antivirus, free up some disk space on your computer, change the DNS cache, enable or disable a VPN, reset Chrome, or change the browser profile to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## First, Apply Preliminary Checks
 
  First, try the following basic fixes, which might help you resolve the issue right away:
@@ -46,7 +58,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
  To rule out the possibility, download the same file using a different browser. If the file doesn't download on other browsers, the source is at fault, not the browser. However, if you can download files successfully from another browser but the issue persists on Chrome for this file and across other downloads from multiple sources, then continue to apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Manually Initiate the Download Process
 
@@ -54,13 +69,22 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
 ![Clicking on the Copy Link Address Option by Right-clicking on the Download Link of File in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-clicking-on-the-copy-link-address-option-by-right-clicking-on-the-download-link-of-file-in-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigate to a new tab in Chrome and paste the download URL there. Then press**Enter** .
 
 ![Pasting the Copied Download URL in a New Tab of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-pasting-the-copied-download-url-in-a-new-tab-of-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the download process doesn't start this way, move on to the next fix.
 
 ## 3\. Ensure There Is Enough Free Storage Space on Your Drive
@@ -70,7 +94,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
  Moreover,[change the download location in Chrome](https://www.makeuseof.com/tag/how-to-change-the-default-download-folder-in-google-chrome/) if your browser has trouble downloading files in Windows' default downloads folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Check for Profile-Specific Issues
 
@@ -78,21 +105,20 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
 ![Opening New Incognito Window by Clicking on Three Vertical Dots in the Top-Right Corner of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-opening-new-incognito-window-by-clicking-on-three-vertical-dots-in-the-top-right-corner-of-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Afterward, you can retry downloading the file. If the file is successfully downloaded in Incognito mode, switch to a new profile and try downloading it again. Downloading the file successfully on a new profile means that your browser profile has a problem. Either the extensions are interfering, or browser settings are to blame.
 
  So, either permanently switch profiles, or keep applying the remaining fixes to resolve the existing profile issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 5\. Clear Chrome Cache
 
  A piled-up cache may also impede your browser. Clearing the browser cache often resolves most browser issues. This may also fix problems with downloads. Need help clearing your cache? Our guide on[how to clear Chrome's cache and cookies](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) may assist. If clearing out the cache fails to help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Rule Out Extension Interference
 
  Chrome can also be stopped from downloading files due to interference from installed extensions. This is more likely to happen if you're using a download manager. If none of the fixes have worked, ensure that interfering extensions aren't to blame.
@@ -102,15 +128,21 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
  Remove the interfering extension from your browser as soon as you find it, and you'll be good to go. If disabling all extensions doesn't help, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Ensure There Are No DNS Issues
 
  You may also be prohibited from downloading files from your browser due to restrictions imposed by your ISP or public network administrator. If you're using a school network, you're more likely to experience this problem. To rule out this possibility, you should change your DNS. If you've never changed DNS before, check out our guide on[how to change DNS settings in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Reset or Reinstall Chrome
 
  When all else fails, and Chrome still fails to download files, you should reset or reinstall Chrome. Follow these steps to reset Chrome:
@@ -124,6 +156,12 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
  If that doesn't work, reinstall Chrome from scratch after deleting the current installation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Files Once Again From Chrome
 
  Being unable to download the files we urgently need can be so frustrating. Hopefully, applying the fixes in the list will resolve the problem with Chrome downloads and allow you to download the files again. If none of the fixes work, your last resort should be to switch browsers.

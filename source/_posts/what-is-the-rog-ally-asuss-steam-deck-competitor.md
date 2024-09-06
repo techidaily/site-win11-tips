@@ -1,7 +1,7 @@
 ---
 title: What Is the ROG Ally, ASUS's Steam Deck Competitor?
-date: 2024-09-01T05:21:29.192Z
-updated: 2024-09-02T05:21:29.192Z
+date: 2024-09-05T19:32:02.292Z
+updated: 2024-09-06T19:32:02.292Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: ROG Ally Explained,ASUS Steam Deck,Gaming Handheld Devices,Laptop vs C
 thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f4b571dd94969d29e2160b68.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the ROG Ally, ASUS's Steam Deck Competitor?
 
  When people talk about handheld gaming consoles, the most popular devices are the Nintendo Switch and the Steam Deck. And despite the popularity of smartphone gaming, we're seeing a resurgence in demand for handheld consoles.
@@ -22,12 +28,24 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 So, what is the ROG Ally? And when could you get your hands on it?
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ASUS Announces a Steam Deck Competitor
 
  On April 1, 2023, the ROG Global YouTube channel posted a video called "ROG Ally – ROG's First Gaming Handheld Console". But because of the timing of the video and the somewhat cheesy voice-over, many shrugged off the announcement as just another April Fool's Day joke.
 
  But a couple of days later, we were greeted by preview videos from two YouTube channels: Dave2D and Linus Tech Tips. Simultaneous with these videos, ASUS opened the[ROG Ally page](https://www.asus.com/ca-en/site/gaming/rog/handheld-consoles/rog-ally/) , where you can sign up to get notified when the handheld console is available for pre-order.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the ROG Ally?
 
 ![ROG Ally vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-vs-steam-deck.jpg)
@@ -45,6 +63,12 @@ So, what is the ROG Ally? And when could you get your hands on it?
 
 ![ROG Ally top view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-top-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit: Dave2D/[YouTube](https://www.youtube.com/watch?v=drLZxyv79Oo&t=14s&ab%5Fchannel=Dave2D)
 
  Because the Ally is powered by Windows 11, you're not limited to specific game and app stores like the Steam Deck. You can run titles from other publishers and stores, like EA Play, Epic Games, Xbox, and, of course, Steam.
@@ -54,16 +78,15 @@ So, what is the ROG Ally? And when could you get your hands on it?
  After all, if you're going to plug your handheld console into a TV, you'd likely plug it in an outlet, too, to avoid draining its battery.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## When Can You Get Your Hands on the ROG Ally? How Much Will It Be?
 
 ![Gaming on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gaming-on-the-rog-ally.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
 
  ASUS has no specific release date for the ROG Ally as of the time of writing. Neither did ASUS have any prices for it. However, Dave2D says its price will be competitive.
@@ -76,15 +99,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Game Library on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-library-on-the-rog-ally.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
 
  So, if we give ASUS a six-month buffer to get everything ironed out, the device should come out by October 2023—just in time to hype the product and ramp up sales for Christmas. Again, this is just an assumption, as ASUS is mum about when we could get the ROG Ally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Handheld Console Gaming Scene Is Heating Up
 

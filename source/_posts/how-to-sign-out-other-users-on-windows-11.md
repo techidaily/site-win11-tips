@@ -1,0 +1,190 @@
+---
+title: How to Sign Out Other Users on Windows 11
+date: 2024-09-05T19:32:31.681Z
+updated: 2024-09-06T19:32:31.681Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Sign Out Other Users on Windows 11
+excerpt: This Article Describes How to Sign Out Other Users on Windows 11
+keywords: Windows Logout Others,Signing Off Users PC,Windows User Exit Guide,Unauthorized Account End,Windows 11 Unsign Out,Remove Other Windows Login,Windows 11 Secure Exit
+thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7dcef137c48ff3983d7a66e67.jpg
+---
+
+## How to Sign Out Other Users on Windows 11
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Quick Links
+
+* [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
+* [Sign Out Other Users Using the Command Prompt](#sign-out-other-users-using-the-command-prompt)
+* [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
+* [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
+
+### Key Takeaways
+
+* To sign out other users on Windows 11, you can use Task Manager, Command Prompt, or Process Explorer.
+* The Task Manager method works on any version of Windows, while the Command Prompt option only works for Pro and above versions of Windows. Process Explorer requires a separate download.
+* Be sure to consider any unsaved work before logging off a user.
+
+ Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Sign Out Other Users Using the Task Manager
+
+ The Task Manager's **Users** tab keeps track of all the user sessions active on your computer. You can use it to manage user accounts on Windows, switch between different user accounts, and sign off other user accounts. If you only need to [sign out of your current session on Windows 11](https://www.makeuseof.com/windows-11-how-to-sign-out/), the process is much simpler, though.
+
+ You must be logged in as an administrator to sign off other user accounts; [check if your user account has administrator rights](https://www.makeuseof.com/check-windows-account-admin-rights/) if you're not sure. Importantly, when you sign out a user, the user's unsaved data might be lost. So tread carefully.
+
+ To sign out other users using Task Manager:
+
+1. Right-click on **Start** and select **Task Manager**. Alternatively, use the keyboard shortcut **Ctrl + Shift + Esc**.
+2. In Task Manager, open the **Users** tab in the left pane which displays the number of users currently logged in. If not visible, click the **Open Navigation** button (three horizontal bars) in the top left corner.  
+![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
+3. In the **Users** tab, locate the account you want to sign off.
+4. Right-click on the user account and select **Sign off**.  
+![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
+5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
+
+## 2\. Sign Out Other Users Using the Command Prompt
+
+ On Windows 11 Pro, Edu, and Enterprise editions, you can use Command Prompt's "query sessions" command to check and log off active user accounts. This command is unlikely to work on a Windows 11 Home, limiting your options.
+
+ To sign out other users using Command Prompt:
+
+1. Press the **Win** key and type **cmd**.
+2. Right-click on **Command Prompt** and select **Run as administrator**.
+3. In the Command Prompt window, type the following command to view all the active user sessions with a query:  
+`query session`
+4. The output will show all the active user sessions on your computer. Make a note of the user account **ID** you want to sign out. In this instance, we have **Tashreef** as **1** and **Guest21** as **3** under the **ID** column.  
+![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
+5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`Logoff 3`
+6. Upon successful execution, Windows will sign out the specified user account.  
+![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
+7. Once done, type **exit** and press Enter to close the Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Log Off Other Users Using Process Explorer
+
+ Process Explorer is part of [Windows Sysinternal Tools, a suite of system administration utilities](http://www.makeuseof.com/windows-sysinternals-guide/) from Microsoft. Though the freeware is popular among developers and system admins, anyone can use Process Explorer to use some of its advanced features.
+
+ Process Explorer is a powerful tool that maps all currently active processes and DLL files to the accounts running them. Our purpose is to show you how to use its user management feature to kick out other user sessions.
+
+1. Go to Microsoft's official [Process Explorer page](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) and download Process Exploreras a zip file to a location on your desktop.  
+![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
+2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
+![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
+3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
+![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
+4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
+5. Hover your cursor over the user account name and select **Logoff**.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Ask Other Users Before You Sign Them Out
+
+ When you log off other users, any unsaved work in their accounts is lost. So do consider that before you apply the above methods. Logging off from a Windows account in a multi-user PC is a good habit because it reduces the chance of data loss and frees up the computer's resources for others. Always request others to sign off when their work is finished.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-action-videography-showdown-hero-5-black-or-km-170/"><u>[New] 2024 Approved Action Videography Showdown Hero 5 Black or KM-170?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>[New] 2024 Approved Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlimited-legal-fb-beats-access/"><u>[New] In 2024, Unlimited, Legal FB Beats Access</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-snippet-limits-a-comprehensive-overview-for-2024/"><u>[New] Instagram Video Snippet Limits A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-free-easy-hd-download-of-fb-media-library-for-2024/"><u>[Updated] Free, Easy HD Download of FB Media Library for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-roadmap-how-youtube-is-cultivating-a-flourishing-short-form-video-culture/"><u>2024 Approved The Roadmap How YouTube Is Cultivating a Flourishing Short-Form Video Culture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-fun-check-out-the-6-best-games-you-can-play/"><u>ChatGPT for Fun? Check Out the 6 Best Games You Can Play</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-unsupported-apps-on-windows-vista/"><u>Dealing with Unsupported Apps on Windows Vista</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/easy-effective-and-accurate-method-to-download-fb-gifs-anywhere-for-2024/"><u>Easy, Effective and Accurate Method to Download FB GIFs Anywhere for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-file-handling-zipping-with-cli-tools-on-windows-os/"><u>Efficient File Handling: Zipping with CLI Tools on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-steps-to-unlock-control-panel-settings/"><u>Efficient Steps to Unlock Control Panel Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-hypothetical-device-misidentification-on-win-11/"><u>Eliminating Hypothetical Device Misidentification on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-mouse-movements-with-global-friendly-powertoys/"><u>Empower Your Mouse Movements with Global-Friendly PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-analysis-selecting-the-best-photo-org-for-windows/"><u>Expert Analysis: Selecting the Best Photo Org for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-for-effectively-assigning-shortcuts-on-windows-11/"><u>Expert Tips for Effectively Assigning Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-tool-for-managing-system-components/"><u>Exploring Windows Tool for Managing System Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-persistent-settings-in-windows-sound-system/"><u>Fixing Non-Persistent Settings in Windows Sound System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-t2-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-android-performance-via-wsl-resource-tweaks/"><u>Improving Android Performance via WSL Resource Tweaks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-innovative-screen-capture-review-and-excellent-alternatives-without-payment/"><u>In 2024, Innovative Screen Capture – Review & Excellent Alternatives Without Payment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-how-to-manipulate-audio-configurations-with-windows-11/"><u>Master How to Manipulate Audio Configurations with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-essential-alterations-to-windows-11s-explorer/"><u>New Horizons: Essential Alterations to Windows 11'S Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-updater-issue-code-x80246007-on-win1011/"><u>Overcome Updater Issue Code X80246007 on WIn10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-alter-your-cursors-look-in-windows-10/"><u>Quick Fix: Alter Your Cursor's Look in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rekindling-stagnant-windows-discord-window-functionality/"><u>Rekindling Stagnant Windows Discord Window Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-steam-symbols-a-quick-fix/"><u>Resetting Steam Symbols: A Quick Fix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/returning-to-standard-windows-folder-layouts/"><u>Returning to Standard Windows Folder Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-computers-dead-usb-connectors-in-windows/"><u>Revive Your Computer's Dead USB Connectors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-windows-nexus-the-four-champion-passwords-guardians/"><u>Secure Windows Nexus: The Four Champion Passwords Guardians</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simple-strategies-to-reboot-distribution-and-catroot-in-windows-11/"><u>Simple Strategies to Reboot Distribution & Catroot in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-guide-modify-your-windows-security-pin/"><u>Simplified Guide: Modify Your Windows Security Pin</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-unverified-warning-in-adobe-software/"><u>Skip Unverified Warning in Adobe Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-java-vm-crash-on-windows-machines/"><u>Solutions to Java VM Crash on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-weather-icon-integration-into-windows-11/"><u>Step-by-Step Guide: Weather Icon Integration Into Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-bluetooth-connection-failures-in-windows-11/"><u>Steps for Correcting Bluetooth Connection Failures in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-lost-lan-signal-in-windows-system/"><u>Tackling Lost LAN Signal in Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-for-rectifying-inaccurate-malware-warning-in-chrome/"><u>Tactics for Rectifying Inaccurate Malware Warning in Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-freeze-fix-for-non-opener-exe-files/"><u>Taming the Freeze: Fix for Non-Opener .exe Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-list-of-top-ranking-free-ios-14-file-manager-apps-in-2020/"><u>The Ultimate List of Top-Ranking Free iOS 14 File Manager Apps in 2020</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-unknown-errors-in-windows-1011/"><u>Troubleshooting Unknown Errors in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turn-off-windows-app-start-monitoring/"><u>Turn Off Windows App Start Monitoring</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-editing-internet-setup-in-win11/"><u>Understanding and Editing Internet Setup in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-the-full-potential-of-your-windows-11-display/"><u>Unleash the Full Potential of Your Windows 11 Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-screen-sharing-issues-in-teammers/"><u>Unlock Screen Sharing Issues in Teammers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-capabilities-of-windows-11-key-adjustments-made-easy/"><u>Unlocking the Full Capabilities of Windows 11: Key Adjustments Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windowsstore-apps-entry-procedures/"><u>Unlocking WindowsStore Apps: Entry Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-windows-self-scrolling/"><u>Unraveling the Mystery of Windows Self-Scrolling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windocs-remedying-missing-msvcr120dll-file-errors/"><u>WinDOCS: Remedying Missing Msvcr120.dll File Errors</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

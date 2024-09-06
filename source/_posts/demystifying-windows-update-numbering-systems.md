@@ -1,7 +1,7 @@
 ---
 title: Demystifying Windows Update Numbering Systems
-date: 2024-09-01T05:22:44.473Z
-updated: 2024-09-02T05:22:44.473Z
+date: 2024-09-05T19:32:01.171Z
+updated: 2024-09-06T19:32:01.171Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Windows Updates Guide,Update Numeration Explanation,Windows Version Nu
 thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Demystifying Windows Update Numbering Systems
 
  Windows updates are essential to keep your computer up and running smoothly, and every update is assigned a number and name, which defines its purpose.
@@ -26,10 +32,22 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Here are some of the popular update types that you often see being offered by Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Quality Updates
 
 ![installing optional updates on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/optional-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Quality updates, often known as cumulative updates, are the ones that you see in your Windows Settings app on a monthly basis. These frequent (but mandatory) updates are smaller in size and are typically released to address the latest performance issues and fix bugs.
 
  In Windows 10, these updates only addressed maintenance issues within the system but in Windows 11, they are expected to introduce smaller, but newer features from time to time as well.
@@ -43,19 +61,12 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Regardless of the type, quality updates are quicker to install because of their smaller size. If you are not ready to install them immediately, you can pause them for up to seven days.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Compatibility and Reliability Updates
 
  These updates are software patches that work to improve the overall performance and stability of the operating system and are released out of the band (without a strict schedule).
 
  These updates target issues that might be resulting in compatibility issues within the system or affect the system’s stability by causing frequent crashes or BSODs. They are likely to contain fixes related to software, hardware, and driver problems that the system is facing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 3\. Feature Updates
 
  As the name suggests, feature updates introduce new functionality and features in the system. This can include a new setting in the system or a new app to improve your Windows experience.
@@ -65,7 +76,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Microsoft rolls out these updates every six months and initially, they are offered as optional updates that you must install manually using the Settings app. However, if your device with Windows installation is approaching the end of service, the system will download these updates automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5\. Security Updates
 
@@ -73,9 +87,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  You can install the security updates manually or allow the Windows Update feature to install them for you.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Hardware Updates
 
  This type includes updates for drivers or firmware for several critical hardware components like the graphics card and the network drivers.
@@ -85,19 +96,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Driver updates in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding the Update Numbers
 
  Each update package and patch released by Microsoft is assigned an update number to manage it across different Windows versions. This update number typically consists of a series of digits that include the specific sequence number for the update and the month/year on which the update was released.
 
 ![KB Number of Windows 11 Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/KB-Number-of-Windows-11-Update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  The updates also include a development code name that specifies the year of release followed by the time. So if you are seeing a 22H2 update on your computer, it means that the update was released in the second half (H2) of the year 2022\. This information can be seen in the Version section of an update.
 
  You will also notice an OS build number with the development code name. This number has two parts, separated by a period. In the first part, a five-digit number indicates the release time, and in the second part, a three- or four-digit code indicates how many revisions have been received since the initial release.

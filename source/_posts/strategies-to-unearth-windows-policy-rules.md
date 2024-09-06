@@ -1,7 +1,7 @@
 ---
 title: Strategies to Unearth Windows Policy Rules
-date: 2024-09-01T05:19:31.629Z
-updated: 2024-09-02T05:19:31.629Z
+date: 2024-09-05T19:32:03.917Z
+updated: 2024-09-06T19:32:03.917Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Window Policies Strategy,Policy Rule Uncovering,Windows Security Plans
 thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f0013849780e2ea631a72bda1d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Strategies to Unearth Windows Policy Rules
 
  Changing a group policy is something that many Windows users will have to do at some point in their life. However, knowing the path to a particular setting in the Local Group Policy Editor (LGPE) is not so simple, considering the sheer scale of the folders and subfolders within the tool.
@@ -30,10 +36,22 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![the menu that shows up when you right-click Administrative Templates in the Loca Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the Filter Options dialog box, make sure to check the **Enable Keyword Filters** checkbox. Next, in the text box next to **Filter for word(s)**, enter the search terms for the policy or, if you know it, the exact name of the policy.
 
 ![the Filter Options dialog box with the Enable Keywords and filter text box part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/lgpe-search-filter-options-search-phrase-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the dropdown next to that filter text box, you can choose the following options:
 
 * **Any**: The policy you’re searching for contains one or more of the words entered in the filter text box.
@@ -60,15 +78,18 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![searching for a group policy on the Group Policy Search website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/gps-website-searching-policy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The search policy will appear in the second column, so click on it to reveal more information about it in a pop-up. You will see where to find the policy in the LGPE directly under the heading.
 
 ![the search results on the Group Policy Search website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/gps-website-searching-policy-results.jpg)
 
  Where it says **Key**, you can see where to find the setting in the Registry Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Search Using the Group Policy Settings Reference
 
  If you prefer something offline and a little easier to access compared to searching with the LGPE's filters and the Group Policy Search website, Microsoft has a document you can use. So, download the [Group Policy Settings Reference](https://www.microsoft.com/en-us/download/details.aspx?id=25250) sheet and open it in Excel.
@@ -78,19 +99,28 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 ![searching the group policy reference sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/group-policy-reference-sheet-text-filter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The policies that match the search terms will appear in column **C**. You can find the location of the policy in column **E** under the **Policy Path** heading.
 
 ![the results of searching for a group policy in the reference sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/group-policy-reference-sheet-policy-path.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  That’s the folder you need to look at in the LGPE to find the policy that you need to edit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Find the Group Policy You Need on Windows
 

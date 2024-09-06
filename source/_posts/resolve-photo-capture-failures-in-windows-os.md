@@ -1,7 +1,7 @@
 ---
 title: Resolve Photo Capture Failures in Windows OS
-date: 2024-09-01T05:18:31.659Z
-updated: 2024-09-02T05:18:31.660Z
+date: 2024-09-05T19:32:04.754Z
+updated: 2024-09-06T19:32:04.754Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Fix Windows Photo Errors,Resolve Win Image Glitches,Rectify Windows Im
 thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc58c9a3e57e1e4c2f555ef0b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolve Photo Capture Failures in Windows OS
 
  Many users capture webcam photos with the pre-installed Windows 11/10 Camera app. However, some users have reported an error code that appears when they click on Windows Camera’s "take photo" button that reads “0xA00F424F <PhotoCaptureFileCreationFailed> (0x80131500).”
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check the Camera Access Permission Settings
 
  First, check that webcam access permission is set for the Camera app. This is how you can enable apps to access the webcam in Windows:
@@ -29,6 +41,12 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 3. Click on **Camera** to view app permission settings for the webcam.  
 ![The Camera navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/camera-navigation-option.jpg)
 4. Toggle on the **Let apps access your camera** (or **Allow apps**) setting.  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Let apps access your camera setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/let-apps-access-your-camera.jpg)
 5. Turn on the switch for the **Camera** app setting.
 
@@ -40,6 +58,18 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Create a New Camera Roll Folder
 
  The “photo capture file creation failed” error can occur because the Camera Roll folder has been deleted. Users confirm creating a new Camera Roll folder can fix this issue when the old one has been deleted. You can create a new Camera Roll folder like this:
@@ -50,16 +80,9 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 3. If you can’t find Camera Roll in the Pictures folder or any subfolder there (such as Screenshots), you’ll need to recreate that folder. Right-click inside the Pictures directory and select **New** \> **Folder**.  
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Set a Different Camera Roll Library Location
 
  Setting a different Camera Roll library save location is another fix that’s worked for some users. To do so, you’ll need to add and set a new save location within the Camera Roll Properties window as follows:
@@ -71,7 +94,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option3.jpg)
 4. Click **Add** on the **Library** tab.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Next, select a folder location such as **Downloads**.
 
@@ -83,16 +109,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Change Where Your Photos and Videos Get Saved
 
  Some Camera users have also said changing where that app saves pictures can resolve the “photo capture file creation failed.” If you have an external drive, alternative partitions, or USB stick, you can set photos to save there as follows:
@@ -103,6 +123,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
@@ -113,6 +139,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Reinstall the Windows Camera
 
  If the “photo capture file creation failed” continues after trying other solutions in this guide, you might have to reinstall the Windows Camera app to get this issue sorted. Then you’ll have a fresh copy of the latest Windows Camera app version. As you can’t uninstall that app via Settings, you’ll need to remove Camera via Powershell and then reinstall it as follows:
@@ -127,12 +159,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Click **Find Next** to highlight the Camera app in the list.  
 ![PowerShell's find tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-find-search-tool.jpg)
 2. Then copy the app’s PackageFullName ID by selecting its text and pressing **Ctrl** \+ **C**. The PackageFullName will be something like Microsoft.WindowsCamera\_2023.2305.4.0\_x64\_\_8wekyb3d8bbwe, but it can vary depending on the app version.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Input and execute this command with the PackageFullName included:  
 `Remove-AppxPackage PackageFullName`  
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remove-apppackage-command.jpg)
 4. Exit PowerShell and open this [Windows Camera page](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) on the Microsoft Store.
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Click **Get in Store app** and **Open in Microsoft Store** app to access an installation option.  
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
@@ -143,7 +184,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Snapping With the Windows Camera App Again
 

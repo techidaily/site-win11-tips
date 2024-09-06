@@ -1,7 +1,7 @@
 ---
 title: Overcoming Missing File Error on Windows 11
-date: 2024-09-01T05:20:12.582Z
-updated: 2024-09-02T05:20:12.582Z
+date: 2024-09-05T19:32:03.354Z
+updated: 2024-09-06T19:32:03.354Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Fix Windows 11 Missing Files,Solve Win11 File Loss Error,Overcome Win1
 thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c8505179cd1df5114471ab31.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overcoming Missing File Error on Windows 11
 
  A few users have posted on software support forums seeking fixes for an error message that says, “there are no more files.” This Windows error occurs when users select to save document and image files. Consequently, users can’t save files because of this error.
 
  The “there are no more files” error is quite a serious issue that users can’t exactly ignore. It typically arises on ASUS Windows PCs but isn’t necessarily restricted to them. If you're facing this error, here is how you can fix the “there are no more files” error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Run the System File Checker Tool
 
  First, we recommend running a System File Checker scan to check your system's file integrity. This scan can fix corrupted system files affecting how Windows functions. Look at our guide to [running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further instructions.
@@ -30,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall the ASUS Data Security Manager Software
 
  Uninstalling the ASUS Data Security Manager software is one of the most widely confirmed fixes for the “there are no more files” error.
@@ -43,20 +52,43 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 2. If you can find an ADSM service, then ASUS Data Security Manager is probably installed on your PC. Double-click the ADSM (ASUS Data Security Manager) service to access options for it.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-app.jpg)
 3. Click **Stop** to turn off the ADSM service.
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Save your service settings by clicking **Apply** and **OK**.
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Perform a Clean Boot
 
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
 
@@ -75,14 +107,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Perform a Windows Factory Reset
 
@@ -92,9 +126,6 @@ No advertising on the website.
 
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Save Your Files Again on Windows
 
  Try applying one or more of the potential fixes above for the “there are no more files” error to find one that works on your PC. You can also try troubleshooting that issue with some of the best freely available repair tools for Windows. With the “there are no more files” error fixed, you can save all the files as required again on your Windows PC.

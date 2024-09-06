@@ -1,7 +1,7 @@
 ---
 title: How to See Recently Opened Files on Windows
-date: 2024-09-01T05:22:28.284Z
-updated: 2024-09-02T05:22:28.284Z
+date: 2024-09-05T19:32:01.442Z
+updated: 2024-09-06T19:32:01.442Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Windows File Viewing Steps,Check Latest Open Windows Files,Windows Exp
 thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a5467f4617c51e1bd762f7f5db4.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Recently Opened Files on Windows
 
  Have you recently edited a file, then accidentally closed it and lost it somewhere? Do you want to know which files someone you're sharing your computer with opened recently? Locating recently opened files is super easy with Windows. So, whether you wish to re-edit recently closed files or track who accessed them last time, you can do so easily.
@@ -71,6 +77,3 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Dial Back to Digital Delight: Playing Vintage PC Games"
-date: 2024-09-01T05:20:22.770Z
-updated: 2024-09-02T05:20:22.770Z
+date: 2024-09-05T19:32:03.184Z
+updated: 2024-09-06T19:32:03.184Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Retro Gaming Joy,Digital Vintage Games,Old-School PC Fun,Classic PC Pl
 thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a1551bf0ada3f1e75697ff38.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dial Back to Digital Delight: Playing Vintage PC Games
 
  If there's one thing abundant today, that's digital entertainment. You can purchase thousands of titles at most popular digital storefronts and find even more completely free. What's the point of being stuck in the past?
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is DOSBox-X?
 
  DOSBox-X is a fork of the popular DOSBox app that enables a modern PC to run software made for older PCs. As its name states, it's primarily designed for Microsoft's ancient Disk Operating System, or DOS for short.
@@ -28,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
  For this article, though, we'll stick to classic DOS games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download and Install DOSBox-X
 
  DOSBox-X is free and available on Windows, Macs, and Linux. In this guide, we'll be using its Windows version.
@@ -38,6 +56,12 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOSBox-X executable in folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-executable-in-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Depending on the version you've downloaded, and if you installed or extracted it, you'll either find a shortcut to the DOSBox-X app in the **Windows Start menu**/your **Desktop**, or you'll have to visit its folder with your favorite file manager and double-click **dosbox-x.exe** to launch it.
 
  Keep that in mind, but don't launch the app yet - we first have to do some folder juggling.
@@ -55,6 +79,18 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
 
 ![DOSBox-X Working Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-working-directory.jpg)
@@ -65,21 +101,27 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOSBox-X Creating DriveC Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-creating-drivec-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Don't close your file manager yet; now is a good time to "prepare" your games. If you have them in compressed archives, extract your games into individual folders within the **C**/**DriveC** folder.
 
 ![DOSBox-X DriveC Game Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-drivec-game-folders.jpg)
 
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Setting Up the Directory
 
@@ -91,6 +133,12 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOSBox-X Configuration Tool AutoExec BAT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-autoexec-bat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see the currently empty DOSBox-X's **AutoExec**.
 
  Type **mount** in the first line, press **space** once, and then type **c**, which will be the letter of your primary drive inside DOSBox-X's virtual environment. Press **space** again, and **type the full path** to the folder you've created for use as your virtual C drive.
@@ -100,7 +148,10 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 ![DOSBox-X Configuration Tool Editing AutoExec](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-editing-autoexec.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Press **Enter** and type **c:** in the line underneath. That's how you "change the active drive" inside a DOS environment.
 
@@ -118,9 +169,6 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
  DOSBox's **Help** offers information about all its configuration options, but for now, turn your attention to those under **aspect**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Setting Up the Aspect Ratio
 
  For this guide, we'll go for **true**, which keeps the original graphics' **4:3** proportions, but scales them to fit the entire display, adding black bars on the sides of the screen. Check the aspect-related information to see if you'd prefer another approach.
@@ -133,15 +181,21 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOSBox-X Configuration Tool Configuring Render Aspect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-configuring-render-aspect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on **Save** to save all changes. On the new panel that shows up, choose **Use primary config file** and then click on **Save & Restart**.
 
 ![DOSBox-X Configuration Tool Choosing Config File and Restarting App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-choosing-config-file-and-restarting-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Launching Your Retro-Favorites With DOSBox-X
 
@@ -158,29 +212,26 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 
 ![DOSBox-X Dir Virtual C Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-virtual-c-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let's say you want to launch the classic shareware version of id's genre-defining Doom that you already have in your storage in a folder with the game's name.
 
  Type **cd doom** to "enter" the game's folder.
 
 ![DOSBox-X CD Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-cd-doom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Type **dir \*.bat** to check for any runnable batch files in the folder. You'll see two, **IAFIX.BAT** and **RUN.BAT**.
 
 ![DOSBox-X Dir Bat Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-bat-doom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  As you can probably guess from its name, the second one is what you need to launch the game. So, type **run.bat** and press **Enter**.
 
 ![DOSBox-X Doom Selecting Audio System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-selecting-audio-system.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Like all software from that era, Doom can't auto-detect the audio system used by your (virtual) PC. DOSBox-X is configured by default to emulate a classic **SoundBlaster 16** card by Creative, so choose that entry by pressing **2**.
 
  Next step, enjoy blasting some demons in Doom!
@@ -188,13 +239,13 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 ![DOSBox-X Doom Running in Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-doom-running-in-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If manually juggling games in DOSBox-X seems like a hassle, maybe it would be worth checking out a front-end like Launchbox. We saw in the past how you can [import MS-DOS games into Launchbox](https://www.makeuseof.com/how-to-import-ms-dos-games-launchbox/), and after the front-end's initial setup, playing a game will be as easy as selecting it from its menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DOS in a Box
 
  Thanks to DOSBox-X, you can have the best DOS-era computers had to offer on a window on your desktop and a collection of hundreds of the best games in a folder that will take less than 1% of your actual PC's total storage.

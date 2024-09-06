@@ -1,7 +1,7 @@
 ---
 title: Secure Your Child’s Digital Experience in Windows 11
-date: 2024-09-01T05:19:26.408Z
-updated: 2024-09-02T05:19:26.408Z
+date: 2024-09-05T19:32:03.987Z
+updated: 2024-09-06T19:32:03.987Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Child Digital Safety W11,Windows 11 Kid Secure,Protect Kids Online Win
 thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d70208081aa77b6f0d087fbe7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure Your Child’s Digital Experience in Windows 11
 
  If you're worried that your kids spend too much time playing games or that they might visit websites with inappropriate content, you should use Parental control. To set it up, you only need a Microsoft account and the best part is that you can add multiple devices, including gaming consoles.
@@ -49,7 +55,10 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
  Now, head back to the Family Safety webpage as shown before, and click your child’s account. In the left pane, you can see the categories for setting and changing permissions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Monitor and Change Permissions in Parental Control
 
@@ -58,12 +67,18 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to Use Parental Control to Limit Screen Time
 
@@ -75,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
 ![How to limit screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/edit-time-limit-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 ### How to Use Parental Control to Filter Content
@@ -86,20 +98,32 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
 ![How to filter content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/filter-content-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Also, you can block certain websites, if you think they might be inappropriate for your child.
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can[use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Keep Your Kids Safe on Windows 11
 
  Even if you're not that severe when it comes to your kids spending time on the computer, Parental control is still a helpful tool as you can monitor their activity and screen time. However, setting up Parental control software isn't a complete shield against the internet's biggest horrors, as there are ways your kids can bypass it.

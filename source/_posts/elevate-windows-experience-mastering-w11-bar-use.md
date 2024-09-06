@@ -1,7 +1,7 @@
 ---
 title: "Elevate Windows Experience: Mastering W11 Bar Use"
-date: 2024-09-01T05:22:16.546Z
-updated: 2024-09-02T05:22:16.546Z
+date: 2024-09-05T19:32:01.609Z
+updated: 2024-09-06T19:32:01.609Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 2. Click/tap on **Pin to taskbar**.  
 ![Open App Being Pinned to Windows 11 Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-pin-open-app-to-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Pin a Windows 11 App to the Taskbar From the Start Menu or All Apps Menu
 
  If there's an app from the Start menu that you use a lot, you can save an extra click by pinning it to the taskbar instead.
@@ -45,6 +51,18 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 3. Click/tap on **More** **\> Pin to taskbar**.  
 ![App Being Pinned from All Apps in Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-pin-app-from-all-apps-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Pin a Windows 11 App to the Taskbar From the Context Menu
 
  Apps can be easily pinned to the taskbar from the desktop and context menus as well.
@@ -53,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 2. Click/tap on **Show more options** **\> Pin to taskbar**.  
 ![App Being Pinned From Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-pin-app-from-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Pin a Folder to Windows 11's Taskbar
 
  You can pin a work folder, your current project, your music, or your pictures folder to the taskbar for easy access. Here's how:
@@ -64,22 +79,31 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 ![Shortcut Being Created to Pin Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-right-click-folder-to-pin-to-taskbar.jpg)
 2. **Right-click** or press and hold on the folder shortcut on your desktop, then click/tap on **Properties**.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. In the **Shortcut** tab, add the word **explorer** followed by a space, in front of the **Target** path, which as you can see in the screenshot is "C:\\Users\\Neeraj\\Pictures\\Screenshots". Then click/tap on **Apply.**  
 ![Type Explorer in Shortcut Target Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-type-explorer-in-shortcut-target-path.jpg)
 4. Click/tap on the **Change icon** button.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Under **Look for icons in this file:** type **imageres.dll** and press **Enter** as in the screenshot below. From the folder icons that appear, select a folder icon that you like, and click/tap on **OK**.  
 ![Folder Icon Being Chosen to Pin Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-choose-folder-icon-and-press-apply.jpg)
 6. Then, in the folder Properties, click/tap on **OK**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 7. The icon of the folder's shortcut on your desktop would have changed to the icon you had selected. **Right-click** or press and hold on the folder shortcut, then click/tap on **Show more options** **\> Pin to taskbar**, as in the screenshot below.  
 ![Folder Shortcut Being Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-pin-folder-shortcut-to-taskbar.jpg)
 8. Your folder is now pinned to the taskbar. Just open with a click/tap.  
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Folder Shortcut Icon Pinned to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-folder-shortcut-pinned-to-taskbar.jpg)
 9. Delete the folder shortcut on your desktop.
@@ -87,7 +111,10 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
  You will notice that the taskbar icon of a pinned folder will not show its thumbnail preview when you hover with your mouse over it. It will show on the **File Explorer** icon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Pin a File to the Windows 11 Taskbar
 
@@ -97,6 +124,12 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Once done, you will be able to open your pinned file with a click.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Pin a Drive to the Windows 11 Taskbar
 
  If you have several drives set up on your PC, you can pin them to the taskbar for quick and easy access.
@@ -105,13 +138,22 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 2. **Right-click** or press and hold on the drive, and click/tap on **Show more options > Create shortcut**.  
 ![Shortcut Being Created to Pin Drive To Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-right-click-drive-to-create-shortcut.jpg)
 3. A prompt to create the drive's shortcut on the desktop will pop up. Click/tap on **Yes** to create the shortcut.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Prompt to Create Drive Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-click-yes-on-shortcut-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After this, the process is the same as we covered above for pinning a folder from step 2 onwards. So follow those steps to pin your preferred drive to the taskbar. Of course, just replace the word "folder" with the word "drive" instead.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Pin a Website to the Taskbar From Microsoft Edge
 
  Won't it be great to have access to your daily used news or work sites at a click? Fortunately, you can easily pin them to the taskbar via Microsoft Edge:
@@ -121,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 3. Click/tap on the 3-dots menu **Settings and more** **\> More tools > Pin to taskbar**.  
 ![Website Being Pinned From Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-pin-website-from-edge-browser.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Pin a Website or Webpage to the Taskbar From Chrome
 
  If you're not a fan of Microsoft Edge, you can also pin websites and webpages you visit in Chrome instead. For instance, you can create a shortcut that automatically opens Chrome and loads up Gmail when you click on its icon on the taskbar.
@@ -142,7 +177,16 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 ![Gmail Shortcut Being Named to Pin to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-name-gmail-shortcut.jpg)
 5. The Gmail shortcut will appear on your desktop. Right-click or press and hold the shortcut then click **Show more options > Pin to taskbar**.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. The page icon will show as Google's 'G' logo on your taskbar. Now just click on it and enter your password to access your Gmail.  
 ![Gmail Shortcut Pinned To Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-gmail-shortcut-pinned-to-taskbar.jpg)
@@ -151,9 +195,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  And if you don't like the Recycle Bin sitting on your desktop, [you can add a shortcut and pin it to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-recycle-bin-taskbar-hotkey-shortcuts/).
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make More Space on the Taskbar to Pin More Apps
 
  If the taskbar is almost full and you still want to pin more apps, do that by making more space on it.
@@ -167,10 +208,25 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 4. Click on the **Down arrow** next to the **Search box** to open the options. And switch from the **Search box** to **Search icon only**. Instantly, you will find the **Search icon** on the taskbar instead of the Search box.  
 ![More Apps Pinned by Changing to Search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/16-pin-more-apps-with-more-space.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  So now, you have more space to add a few more apps or almost anything to the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Customize the Windows 11 Taskbar and Add Another Taskbar Too
 

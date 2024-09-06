@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Agenda: Linking To-Dot to IFTTT"
-date: 2024-09-01T05:18:48.837Z
-updated: 2024-09-02T05:18:48.837Z
+date: 2024-09-05T19:32:04.516Z
+updated: 2024-09-06T19:32:04.516Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,18 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 5. If prompted, click **Connect** and follow the onscreen prompt to link your IFTTT account to your Google account.  
 ![Connection page IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connection-page-ifttt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Next, click **Create trigger**.  
 ![Trigger creation page IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-creation-page-ifttt.jpg)
 2. Click the **Then That** banner. Next, type "To Do" in the search bar. Select **Microsoft To Do** when you see it.  
@@ -51,19 +63,49 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 3. Click **Create task in task list**. IFTTT will add your Microsoft To Do account by default**.**  
 ![Trigger list to do add task to list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-to-do-add-task-to-list.jpg)
 4. You can click **Add new account** to switch Microsoft accounts.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. From the **Which task list?** dropdown, select the task list that will receive the calendar trigger
 
 1. The **Task body** field contains the ingredients included in the created task; this is the task description. The ingredients are highlighted in gray. You can leave this as default or remove what you don't want to include in your task details.  
 ![Task body IFTTT To Do Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-body-ifttt-to-do-action.jpg)
 2. Click **Create action**.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IFTTT action final level scroll](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-action-final-level-scroll.jpg)
 3. Next, click the cross icon (**+**) below the **Then** banner.  
 ![Applet creation for to do ifttt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/applet-creation-for-to-do-ifttt.jpg)
 4. Type **Gmail** in the search bar. Click **Gmail** from the result.  
 ![Gmail search in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gmail-search-in-ifttt.jpg)
 5. Select **Send an email**.  
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Trigger list for Gmail IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-for-gmail-ifttt.jpg)
 6. Type the email addresses of the people you want to notify in the **To address** field. If tagging more than one email address, separate each with a comma. To tag more people, type their email addresses in the **CC** address and **BCC** address fields as required. These serve the [purpose of CC and BCC in regular emails](https://www.makeuseof.com/what-cc-bcc-mean-email/).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![More action IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/more-action-ifttt.jpg)
 7. Leave the other fields as they are. Then scroll down and click **Create** **action**.
 8. Click **Continue.**
@@ -72,6 +114,12 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  The created Applet is now running on your IFTTT account. Whenever you add a Google Calendar event, it writes that task to your Microsoft To Do list and emails the listed addresses with the details of the task. This is a great [Google Calendar tip to boost productivity](https://www.makeuseof.com/google-calendar-tips-to-boost-productivity/).
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use IFTTT for Task Replication in Microsoft To Do
 
  You can cross-schedule tasks from another task management app like Asana, Trello, or Clickup on Microsoft To Do.
@@ -83,22 +131,64 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 2. Type "Asana" in the search box and click **Asana**.  
 ![Asana search result IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-search-result-ifttt.jpg)
 3. Click **New task assigned to you in a project**. Click **Connect** if prompted and follow the onscreen instructions to link IFTTT with Asana.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asana triggers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-triggers.jpg)
 4. Select your Asana account and organization's workspace. Specify the project you want to track by pasting its URL in the **Project name or URL** box.
 5. Click **Create trigger**.  
 ![Trigger page for Asana on IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/trigger-page-for-asana-on-ifttt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click the **Then That** banner.  
 ![IFTTT Applet creation Page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-applet-creation-page-for-to-do.jpg)
 2. Type "Microsoft" in the search box and select **Microsoft To Do** when it appears.  
 ![To Do in IFTTT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-in-ifttt-search-result.jpg)
 3. Click **Create task in task list**.  
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IFTTT action page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-page-for-to-do.jpg)
 4. Select the target Microsoft to Do task list from the **Which task list?** dropdown.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IFTTT action creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page.jpg)
 5. Scroll down and click **Create action**.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IFTTT action creation page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page-for-to-do.jpg)
 6. Click **Continue.**  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Applet creation on IFTTT final steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/applet-creation-on-ifttt-final-steps.jpg)
 7. Finally, click **Finish** to deploy your Applet.  
 ![Asana and Microsoft To Do Applet final step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-and-microsoft-to-do-applet-final-step.jpg)
@@ -117,44 +207,69 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 ![Microsoft To Do IFTTT trigger list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-to-do-ifttt-trigger-list.jpg)
 4. Ensure you set the **Which task list?** dropdown to the task list used when automating task creation in the previous sections. For instance, if you're automating new task creation on "Example task," select this same task for the Trigger.  
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![IFTTT trigger creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page.jpg)
 5. Click the **Then That** banner and type "Gmail"in the search bar. Select **Gmail** when seen.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Service selection page for action IFTTT-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/service-selection-page-for-action-ifttt-1.jpg)
 6. Click **Send an email**. Next, fill in the email address fields on the following page accordingly, separating the email addresses by a comma.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Depending on your workflow, these could also be the emails you notified when creating the task.
 7. Leave the other fields as they are. Then click **Create action**.  
 ![Task creation page in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-creation-page-in-ifttt.jpg)
 8. Click **Continue**.  
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Applet creation page on IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-page-on-ifttt.jpg)
 9. Finally, click **Finish** to activate your Microsoft To Do task completion Applet.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IFTTT trigger creation page To Do task completion sample](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page-to-do-task-completion-sample.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Whenever you complete the specified task in Microsoft To Do, your IFTTT Applet will send an email notification to the listed addresses that you've completed it.
 
  Besides these examples we've provided above, IFTTT also has public Microsoft To Do Applets you can use freely. Feel free to explore these on [IFTTT](http://ifttt.com/microsoft%5Ftodo)'s Microsoft To Do public Applets page.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Automate Microsoft To Do Without Limitations
 
  IFTTT features over 700 services for automation. The only little limitation with it is that some triggers might be unsupported or not yet available. Despite this limitation, you can still link Applet units creatively to achieve your automation goal.

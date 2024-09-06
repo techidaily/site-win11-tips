@@ -1,7 +1,7 @@
 ---
 title: Reactivating Reading Voice in MS Windows Document Editor
-date: 2024-09-01T05:22:03.611Z
-updated: 2024-09-02T05:22:03.611Z
+date: 2024-09-05T19:32:01.801Z
+updated: 2024-09-06T19:32:01.801Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,30 @@ keywords: Reading Voice Edit,MS Word Reactive Use,MS Windows Readback,Doc Editor
 thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065dd6fb56cbf786d1e09002e10.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reactivating Reading Voice in MS Windows Document Editor
 
  Read Aloud is a great productivity feature, especially when you want to give your eyes a break. You can have Word read the document for you starting from your cursor and even pause or skip forward and backward to re-listen to important parts.
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Restart Microsoft Word
 
  As always, when dealing with a program malfunction, you should restart it. If there’s a temporary glitch, closing and re-launching Microsoft Word might be enough to fix the issue. Once you close Microsoft Word, make sure there’s no background process still running.
@@ -28,8 +46,26 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![Stop Word processes from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-word-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open Word and check if the problem is now solved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Enable the Read Aloud Feature
 
  You can also have Word read the document for you by pressing **Ctrl + Alt + Space**. If nothing happens when using this keyboard shortcut and Read Aloud seems to be missing from the Ribbon menu, you should enable the feature. Here’s how you can do it:
@@ -45,6 +81,12 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![Enable Word's read aloud feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-read-aloud-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
 ## 3\. Check Volume Mixer Settings
@@ -55,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![Check Volume Mixer settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-mixer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  If there’s nothing wrong with the Volume Mixer settings, move on to the next solutions.
 
 ## 4\. Update Microsoft 365
@@ -69,7 +108,10 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 ![How to update Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft365-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Repair the Word Doc
 
@@ -83,11 +125,14 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
 ![How to repair a Word document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-doc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Microsoft Word will now search and automatically fix any detected issues.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Repair Microsoft 365
 
 [Windows has plenty of built-in repair tools](https://www.makeuseof.com/tag/5-free-tools-fix-problem-windows-10/) to help you when running into a problem. So if Word is still giving you the silent treatment, go through the steps below:
@@ -103,9 +148,6 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
  If the Read Aloudfeature is still not working, go through the steps again and select **Online Repair**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Launch Word in Safe Mode
 
  Sometimes, add-ins might interfere with Word’s functionality and stop Read Aloud from working. To check if you’re dealing with a problematic add-in, launch Word in Safe Mode. Press **Windows key + R** to launch a Run dialog, type **winword / safe** and press **Enter**. Word will now open without any add-ins.
@@ -121,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Word Reading Your Docs Aloud
 

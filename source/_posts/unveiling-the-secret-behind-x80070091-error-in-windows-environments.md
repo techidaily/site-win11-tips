@@ -1,0 +1,221 @@
+---
+title: Unveiling the Secret Behind X80070091 Error in Windows Environments
+date: 2024-09-05T19:40:35.741Z
+updated: 2024-09-06T19:40:35.741Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Unveiling the Secret Behind X80070091 Error in Windows Environments
+excerpt: This Article Describes Unveiling the Secret Behind X80070091 Error in Windows Environments
+keywords: Windows X80070091 Fix,X8070091 Error Resolution,X8070091 Troubleshooting Guide,WinX8070091 Issue,X8070091 in Windows,Solving X8070091 Crashes,Overcoming X8070091 Errors
+thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg
+---
+
+## Unveiling the Secret Behind X80070091 Error in Windows Environments
+
+ Error 0x80070091 is a File Explorer issue that occurs for some users when they try to delete folders in Windows 11/10\. The error message says, “The directory is not empty," and you can't delete the folder that throws the error.
+
+ The 0x80070091 message suggests that the error occurs because a folder isn’t empty. Yet, you should be able to erase directories that contain files without any issues. Furthermore, that error can also arise for empty folders. If you’re seeing the same folder error 0x80070091 in Windows, try applying these potential fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Try Erasing the Folder With the Command Prompt
+
+ The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
+
+ Run Command Prompt with elevated (administrative) rights. Our guide about[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+
+`rmdir /s "folder path"`
+
+ You’ll need to replace**folder path** in that command with the location of whatever directory you need to delete. The location should include a drive letter and a full path for the directory like in this example:
+
+`rmdir /s "C:\Users\New folder"`
+
+![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
+
+## 2\. Restart Windows File Explorer
+
+ Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
+
+1. To view Task Manager, press**Ctrl** +**Shift** +**Esc** simultaneously.
+2. Select File Explorer on the**Processes** tab.  
+![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
+3. Press the**Restart** button for the selected Explorer process.
+
+## 3\. Scan System Files With an SFC Scan
+
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+
+![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Check for Errors With a Disk Scan
+
+ The 0x80070091 error is often due to corrupted or bad hard drive sectors. A lot of users have said they’ve resolved that issue by using the Check Disk (CHKDSK) utility for repairing bad drive sectors. This is how you can check for and repair bad sectors with Check Disk:
+
+1. Open up the Command Prompt window with administrative rights.
+2. Type in this Check Disk command and press**Enter:**  
+`chkdsk /f /r C:`
+3. Press**Y** to schedule the scan for a restart.  
+![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
+4. Click**Start** and select**Power** \>**Restart** to reboot.
+
+ If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Modify the Affected Folder’s Permissions
+
+ Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
+
+1. Open Explorer and right-click the affected folder to select**Properties** .  
+![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
+2. Click the window’s**Security** tab.
+3. Next, press the**Advanced** button.  
+![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
+4. Click**Change** beside the owner’s name.  
+![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
+5. Enter your Windows user account name inside the object name text box.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
+6. Then select the**Check Names** option and**OK** .
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Click**Replace owner on subcontainers and objects** to select that setting.
+8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Run an Antivirus Scan
+
+ Malware could also feasibly be causing error 0x80070091 on your PC. If you’re still trying to fix that issue after going through all the potential fixes above, run an antivirus scan with Windows Security or alternative third-party software. This is how to run a scan with the Windows Security app.
+
+1. Double-click a**Windows Security** (shield) icon in the system tray part of the taskbar.
+2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
+![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
+3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
+![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
+4. Press**Scan now** to start the antivirus scanning.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Then wait to see if the scan detects anything, and select**Remove** if it does.
+6. Click**Start actions** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Delete Your Folders in File Explorer Again With These Fixes
+
+ You’ll probably be able to delete the folders for which error 0x80070091 occurred after applying those potential solutions. If that error persists, the Windows registry on your PC could be corrupted. To resolve such registry issues, you might need to perform a system restore or even reset Windows 11/10.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-dos-and-donts-the-ultimate-fb-cover-video-tutorial-for-2024/"><u>[New] Dos & Don'ts The Ultimate FB Cover Video Tutorial for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>[New] In 2024, Unleash Your Potential on Telegram A Comprehensive Marketing Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>[Updated] Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-static-to-swirling-implementing-motion-blur-in-ai-designs/"><u>[Updated] From Static to Swirling Implementing Motion Blur in AI Designs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>[Updated] In 2024, Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
+<li><a href="https://facebook.techidaily.com/ban-overturned-social-network-resurgence-of-counter-immunization-spaces/"><u>Ban Overturned: Social Network Resurgence of Counter-Immunization Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detect-signs-is-it-time-for-windows-clean-slate/"><u>Detect Signs: Is It Time for Windows Clean Slate?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-diagnosing-and-fixing-cc-issues-on-windows-10/"><u>Efficiently Diagnosing and Fixing CC Issues on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/flying-vs-capturing-dji-action-gopro-max-instax360/"><u>Flying Vs. Capturing DJi Action, GoPro Max, InstaX360</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-scribbling-in-windows-11-effortlessly/"><u>Get Scribbling in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-reno-8t-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Reno 8T 5G Through Google Earth?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 15 Plus Safe and Legal</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-s23-tactical-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy S23 Tactical Edition? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-microsoft-store-repairs-fixing-code-0x80072f30-quickly/"><u>Master Microsoft Store Repairs: Fixing Code 0X80072F30 Quickly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-disabling-windows-updates/"><u>Mastering the Art of Disabling Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-command-prompt-a-guide-to-user-management/"><u>Navigating Command Prompt: A Guide to User Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-startup-hurdles-for-photoshop-on-windows-1011/"><u>Overcoming Startup Hurdles for Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-approach-locating-your-devices-mac-address-in-windows-11/"><u>Proactive Approach: Locating Your Device's MAC Address in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-windows-update-error-0x80070652/"><u>Quick Solutions for Resolving Window's Update Error 0X80070652</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-switching-between-foreign-languages-on-windows-devices/"><u>Speedy Switching Between Foreign Languages on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-gaps-between-cells-text-and-borders-in-excel-spreadsheets/"><u>Step-by-Step Guide: Adjusting Gaps Between Cells, Text, and Borders in Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-a-pie-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-audacitys-sound-fault-windows-11-os/"><u>Strategies to Tackle Audacity's Sound Fault, Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-file-management-overcoming-o365-errors-on-win-11/"><u>Streamlined File Management: Overcoming O365 Errors on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-the-process-of-adjusting-pointer-settings-in-windows-11/"><u>Streamlining the Process of Adjusting Pointer Settings in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-reverting-windows-folders-to-full-editability/"><u>Tips for Reverting Windows Folders to Full Editability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-amazing-tricks-and-tasks-achievable-using-siri-on-your-mac/"><u>Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-essential-excel-text-manipulation-techniques-using-microsoft-office/"><u>Top 9 Essential Excel Text Manipulation Techniques Using Microsoft Office</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-correct-the-missing-ksuserdll-error-message/"><u>Troubleshooting: Steps to Correct the Missing ksuser.dll Error Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-ms-office-suite-with-your-zoho-online-platform-a-step-by-step-guide/"><u>Unifying MS Office Suite with Your Zoho Online Platform: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-with-google-sheets-top-14-capabilities-missed-in-microsoft-excel/"><u>Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-of-successful-gmaps-integration-in-windows/"><u>Unveiling the Secrets of Successful GMaps Integration in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-context-menu-incorporating-copy-and-move-commands-into-folder-options-win-11/"><u>Upgrade Context Menu: Incorporating Copy & Move Commands Into Folder Options (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/work-on-excel-powerpoint-and-word-online-doc-editing-anywhere/"><u>Work on Excel, PowerPoint & Word Online Doc Editing Anywhere</u></a></li>
+</ul></div>

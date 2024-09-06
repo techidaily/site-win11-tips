@@ -1,7 +1,7 @@
 ---
 title: "The Art of Digital Preservation: Backing Up Your Epic Games Data"
-date: 2024-09-01T05:20:13.831Z
-updated: 2024-09-02T05:20:13.831Z
+date: 2024-09-05T19:32:03.339Z
+updated: 2024-09-06T19:32:03.339Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: GameDataBackup,EpicGamesSave,DigitalPreserve,BackUpDigitalData,SaveEpi
 thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a2654636b72d1c325e241fdeaf.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Art of Digital Preservation: Backing Up Your Epic Games Data
 
  Many players install and launch Windows games with Epic Games Launcher. Sometimes players need to reinstall games installed with Epic Games for troubleshooting purposes or when they get new PCs to play them on. The biggest concern players usually have about reinstalling games is losing saved game data.
@@ -31,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 4. Then click the checkbox labeled **Enable Cloud Saves** to select that option.  
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
 
 ## How to Check if a Game Supports Cloud Sync
@@ -42,22 +54,40 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
  You’ll probably find some titles in your Epic Games library don’t support the Cloud Save feature. Those are games for which you’ll need to manually back up game saves. To do that, you’ll need to find out where those games store saved data and copy and paste the data in Windows to another location before reinstalling.
@@ -69,14 +99,20 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
@@ -89,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
  Now you can ensure you don’t lose any saved gaming progress before reinstalling Epic Games titles or because of data corruption by backing up game save files with the methods above.
