@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: Stop YouTube Lagging on Chrome"
-date: 2024-09-05T19:40:16.996Z
-updated: 2024-09-06T19:40:16.996Z
+date: 2024-09-11T01:20:44.761Z
+updated: 2024-09-12T01:20:44.761Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Stop YouTube Lag,Fix Chrome Video Issues,Chrome YouTube Speed Boost,So
 thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd117a0cc25cd8642bbb251c9cc.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Troubleshooting: Stop YouTube Lagging on Chrome
 
  Do YouTube videos constantly lag in Chrome, which makes them inconvenient to watch? Several reasons could be responsible for this; your network connection could be unstable, running programs or tabs could be straining your memory resources, the video quality could be set too high, the memory saver setting could be off, or the energy saver setting could be on.
@@ -27,6 +21,20 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  If you want Chrome to stop stuttering and lagging while playing YouTube videos, here are a few fixes and checks you should try.
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 1\. Perform Some Preliminary Checks
 
@@ -39,6 +47,20 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 * Reset flags in Chrome. To do that, go to **Chrome://flags** and click on **Reset all**.  
 ![Click on Reset all to Reset the Chrome Flags in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-reset-all-to-reset-the-chrome-flags-in-chrome.jpg)
 * [Update your Windows graphics drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to allow your PC to process graphics more efficiently.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 
  If the above fixes don't resolve the issue and the lag persists, it's time for some more complex ones.
 
@@ -55,12 +77,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  Once your RAM is freed up, try playing YouTube videos again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Close Resource-Hogging Chrome Processes
 
  If freeing up your memory doesn't reduce the video lag, look for memory-hogging Chrome processes and temporarily close them. Using Chrome's Task Manager can help you do this.
@@ -71,9 +87,37 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 2. Click the **three vertical dots** in the top-right corner and navigate to **More Tools > Task manager**.  
 ![Open Task Manager in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-task-manager-in-chrome.jpg)
 3. Look at the processes with the most **memory footprint**, such as tabs, extensions, and other processes.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 4. End all processes you don't want to continue running or extensions straining your memory the most. To end any process, select it and click **End task**.
 
  Now try to play videos again and see if they lag.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Change the Chrome Performance Settings
 
@@ -88,26 +132,22 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Turn the toggle next to **Energy Saver** off and the toggle next to **Memory Saver** on.  
 ![Turn on Memory Saver and Disable Energy Saver in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-memory-saver-and-disable-energy-saver-in-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if this reduces Chrome's RAM footprint.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Reduce the Video Quality
 
  When you watch videos in high quality, it requires a higher amount of memory than when you watch them in low quality. If you habitually watch videos at 1080p or higher quality and it constantly lags, consider dropping the quality to 720p or even lower.
@@ -119,14 +159,36 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Click **Quality** and select a lower quality than the current one.  
 ![Reduce the Quality of YouTube Video in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-reduce-the-quality-of-youtube-video-in-chrome.jpg)
 
- The video won't look as good now, but it should play better.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ The video won't look as good now, but it should play better.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 6\. Check Your Internet Connection
 
  If freeing up memory resources and reducing the video quality also fails to reduce lag, the issue could be related to a lack of bandwidth. Either other devices connected to your internet connection are hogging the network resources, or your internet connection is unstable for a different reason.
@@ -147,12 +209,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  Now anything that uses your GPU should run better. If you notice things working worse instead, deactivate the setting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Enable Hardware Acceleration in Chrome
 
  When you've enabled hardware acceleration in Windows, you should do the same in Chrome. To enable hardware acceleration in Chrome, follow the steps below:
@@ -163,18 +219,20 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 4. Turn on the toggle next to **Use hardware acceleration when available**.  
 ![Enable Hardware Acceleration in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-hardware-acceleration-in-chrome-settings.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 9\. Ensure Chrome Is Up-to-Date
 
  Running an outdated version of Chrome can also slow down the browser. Updating the browser fixes existing bugs that make it perform better. Therefore, upgrading a browser to the latest version can also help improve efficiency and reduce lag. To make sure your browser is up-to-date, follow the below steps:
@@ -184,28 +242,24 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 3. Navigate to **Help > About Google Chrome**.  
 ![Click on About Google Chrome in Chrome Menu to See Whether Chrome Is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-about-google-chrome-in-chrome-menu-to-see-whether-chrome-is-up-to-date.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Google Chrome will check for updates and, if any are available, download and install them. Then, click on **Relaunch** to give your browser a fresh start. If you see the **"Chrome is up to date"** message, your browser is already up to date.
 
 ![Ensure the Chrome Browser is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-ensure-the-chrome-browser-is-up-to-date.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Binge Watch YouTube Videos Once Again
 
  The lag and stutter we experience when watching YouTube videos can truly ruin our experience. You should now better understand what causes YouTube videos to lag and stutter constantly and what changes you can make to make them run more smoothly. If nothing works and the issue persists, you should reinstall the browser.

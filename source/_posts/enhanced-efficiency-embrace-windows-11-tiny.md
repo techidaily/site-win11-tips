@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Efficiency: Embrace Windows 11 Tiny"
-date: 2024-09-05T19:37:02.113Z
-updated: 2024-09-06T19:37:02.113Z
+date: 2024-09-11T01:20:47.342Z
+updated: 2024-09-12T01:20:47.342Z
 tags:
   - windows10
   - windows11
@@ -26,41 +26,65 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 ![Tiny11 OS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-os.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
+
 ## Can You Run It on Any Old PC?
 
  Yes. It is possible to run Tiny11 on an old PC. But remember that this is a lightweight version of Windows 11 that can run with 2 GB RAM and 8 GB storage space. Someone even managed to run Tiny11 with 256 MB RAM, but the OS was barely usable. But as your install updates and apps, you will need a little bit more hardware resources to smoothly run this version of Windows 11.
 
  If you have an old desktop or laptop with 2-4 GB RAM and 32-64 GB storage, you can run Tiny 11 without any issues. Moreover, you don't need to worry about using a system with TPM 2.0 and Secure Boot because Tiny11 bypasses both these stern requirements before installation.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Set Up Tiny11
 
  If you're ready to go, here's how to get started with Tiny11:
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 1\. Downloading Tiny11 ISO File and Creating a Bootable USB Drive
 
@@ -68,21 +92,29 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 2\. Installing Tiny11
 
@@ -96,29 +128,51 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
 2. Select your country or region and click on the**Yes** button. Then, pick your preferred keyboard layout and click on the**Yes** button. Click on the**Skip** button when the setup asks for selecting a second keyboard layout.
 3. Click on the**I don’t have internet** option. Then click on**Continue with limited setup** option.  
 ![Installing Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-windows-11.jpg)
 4. Type in your device name and enter a password for the same. Click on the**Next** button and re-enter your password.
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. After that, select any three security questions, type in their corresponding answers, and click on the**Next** button.
 6. On the Privacy settings for your device page,**uncheck** all the options and click on the**Next** button.
 
 ![Windows 11 by Tiny11 in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-by-tiny11-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Tiny11: The Good Points
 
@@ -126,30 +180,52 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 ![List of installed apps in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/list-of-installed-apps-in-tiny11.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use[a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like[Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
 
  Coming to the performance aspect, we first tested it on a virtual machine with 2 GB RAM and two processor cores. The system was usable but after launching a web browser the CPU usage and Memory usage shot to 75 percent levels. When we opened a few more tabs, the CPU and RAM usage hovered in the 90-100 percent range. So, it is best if you use a system with a processor that has four or more cores and at least 4 GB RAM to run and multitask smoothly.
 
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Some Glaring Concerns With Tiny11
 
  Well, this isn’t an official/Microsoft-approved release. Tiny11 is a personal project at the moment which delivers surprisingly well on its claims. But should you install a tweaked ISO file on your primary system?
 
  Well, no. As fun as it sounds, this is clearly a fun experiment that you can do on an old computer (just to revive it). However, if you are willing to ignore these concerns, you can[install Windows 11 on a system with unsupported hardware](https://www.makeuseof.com/windows-11-hardware-requirements-shouldnt-bypass/) and run it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try a Lightweight Build of Windows 11
 
  Tiny11 showcases that Microsoft can indeed strip some useless aspects of Windows 11 to make it functional on older hardware. While TPM and Secure Boot aim to make the system more secure; they shouldn’t act as an obstruction to using Windows 11\. Moreover, Microsoft should offer the bloatware installation as an opt-in feature.

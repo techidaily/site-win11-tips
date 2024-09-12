@@ -1,7 +1,7 @@
 ---
 title: "Propel Productivity: Top 7 Ways to Use Windows 11 Smartly"
-date: 2024-09-05T19:33:10.611Z
-updated: 2024-09-06T19:33:10.611Z
+date: 2024-09-11T01:20:50.650Z
+updated: 2024-09-12T01:20:50.650Z
 tags:
   - windows10
   - windows11
@@ -20,22 +20,44 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 1\. Get Rid of Unnecessary Programs and Bloatware
 
 ![List of installed apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/list-of-installed-apps-on-windows-11.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  To make Windows apps easier to locate, it is sensible to first get rid of unnecessary software and [remove bloatware from your PC](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/). This will make searching for apps easier, and it will benefit your memory usage.
 
  To view a complete list of all apps and programs installed on your machine, hit **Windows + I** to open the settings page. Click **Apps**, then select **Installed Apps**. Now, you can view an alphabetical list of installed apps on your device. To remove an app, hit the three dots beside any app and select **Uninstall**.
@@ -46,6 +68,20 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Windows 11 taskbar beneath calculator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-taskbar-beneath-calculator-app.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The Windows taskbar offers a superfast way to open apps without having to navigate to the desktop. Windows 11 offers an easy method to [pin almost anything to the taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), so you can access your favorite programs with the click of a button.
 
  Here’s how you can pin an app to the taskbar:
@@ -53,13 +89,35 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 1. Navigate to the Windows search bar and type the name of the app.  
 ![Epic games launcher on windows 11 app search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/epic-games-launcher-on-windows-11-app-search.jpg)
 2. Right-click the app, then select **Pin to taskbar**.  
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
@@ -67,52 +125,56 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Run Dialog
 
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not all apps are easy to find, especially if you’re a developer. The Run dialogue is a powerful tool to locate programs that are harder to find on your Windows 11 device.
 
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  One of the less-known methods to open Windows apps quicker is by creating custom keyboard shortcuts. By using these shortcuts, you can open a program instantly from any location.
 
  You can assign a keyboard shortcut to any Windows app by following these steps:
@@ -125,24 +187,32 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
 ## 6\. Utilize the Quick Access Menu
 
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
  You can open the Quick Access menu in two ways:
@@ -158,12 +228,20 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you’re dealing with an overflow of open windows and need a better way to transition between apps, you’ll find this next tip helpful.
 
  The keyboard shortcut **Alt + Tab** can be used to switch windows in your workspace. To navigate to another app, simply hold **Alt** and keep tapping **Tab** until you reach the desired app. If you prefer the older retro look of the **Alt** \+ **Tab** switcher, you can hit the right **Alt** key before pressing **Tab** to navigate the old-fashioned way.
@@ -171,6 +249,20 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  The **Task View** on Windows 11 is another method to access programs quicker and keep your apps organized. This allows you to [create virtual desktops](https://www.makeuseof.com/how-to-create-virtual-desktops-in-windows-11/) and categorize open apps and windows.
 
  To enter Task View, use the keyboard shortcut **Windows +** **Tab** or hit the dedicated button beside the search bar. Now you can move apps between virtual desktops by clicking and dragging them. This will reduce overwhelm and help you [multitask better on Windows 11](https://www.makeuseof.com/windows-11-multitasking-tips/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Access Apps Faster And Improve Your Efficiency on Windows 11
 

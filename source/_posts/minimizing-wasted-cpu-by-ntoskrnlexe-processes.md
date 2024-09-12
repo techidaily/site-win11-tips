@@ -1,7 +1,7 @@
 ---
 title: Minimizing Wasted Cpu by Ntoskrnl.exe Processes
-date: 2024-09-05T19:40:41.084Z
-updated: 2024-09-06T19:40:41.084Z
+date: 2024-09-11T01:20:44.431Z
+updated: 2024-09-12T01:20:44.431Z
 tags:
   - windows10
   - windows11
@@ -20,24 +20,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Let's explore what Ntoskrnl.exe is and how to fix its high CPU usage on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Ntoskrnl.exe?
 
  Ntoskrnl.exe, also known as the Windows NT operating system kernel executable, performs critical system functions on your Windows computer. It handles essential system services such as memory management, hardware abstraction, and process scheduling. In other words, Ntoskrnl.exe manages your computer's hardware and software resources, ensuring system stability and performance.
 
  You may often see Ntoskrnl.exe running and utilizing CPU resources in your Task Manager, which is normal. This process constantly works in the background to keep your system running smoothly and efficiently. Therefore, it may consume resources. However, if Ntoskrnl.exe constantly hogs your CPU, it's a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is Ntoskrnl.exe Using Up My High CPU?
 
  To be honest, there's no clear answer. Many factors can cause Ntoskrnl.exe to use high CPU resources. You might run too many programs simultaneously, making your system work harder and taking up more resources. This situation often leads to high CPU usage, and Ntoskrnl.exe may bear the brunt of it.
@@ -46,12 +34,20 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Malware or viruses can also trigger Ntoskrnl.exe to use high CPU usage. They may mask themselves as system files and use more resources. To rule out this possibility, perform a system scan with a reputable antivirus program.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Can I Disable or Remove Ntoskrnl.exe?
 
  No, you shouldn't disable or remove Ntoskrnl.exe. As mentioned earlier, it is a critical system process that ensures your computer's smooth functioning. Disabling or removing it could cause system instability and crashes.
@@ -60,24 +56,26 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Now that we know what Ntoskrnl.exe is and why it uses so much of your CPU's resources, let's discuss fixing the problem.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Restart Your PC
 
  The first and foremost solution you should try is to restart your computer. It may seem simple, but it can often solve high CPU usage issues.
 
  When your computer restarts, it clears out system memory and refreshes its processes. The system stops running unnecessary programs and reboots the operating system. As a result, Ntoskrnl.exe's high CPU usage may subside and return to normal levels after restart.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable the Windows Search Service
 
  Windows Search Service is a system process that constantly indexes files and folders on your computer to speed up searching. However, it can sometimes cause Ntoskrnl.exe to use high CPU resources. In this case, you can disable the service temporarily and check if the CPU usage decreases.
@@ -89,11 +87,39 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 3. In the Services window, scroll down and find **Windows Search** in the list.  
 ![Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-search-service.jpg)
 4. Right-click on it and select **Properties**.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. In the **General** tab, click on the drop-down menu next to **Startup type** and select **Disabled**.  
 ![Disable Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-search-service.jpg)
 6. Click on **Apply** and then **OK** to save the changes.
 
  After you disable Windows Search Service, restart your computer and check if Ntoskrnl.exe's CPU usage has decreased.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Update the Device Drivers
 
@@ -109,18 +135,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  After updating your device drivers, restart your computer and see if it changes Ntoskrnl.exe's CPU usage.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Scan for Malicious Program
 
  As stated earlier, malware or viruses can mask themselves as system files and use high CPU resources. To rule out this possibility:
@@ -130,6 +144,20 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 3. After the scan, restart your computer and check if Ntoskrnl.exe's high CPU usage persists.
 
  If you prefer command-line tools, you can also perform a system scan and [remove malware or viruses using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). However, it requires some technical knowledge to use PowerShell effectively. Therefore, sticking to a [reputable antivirus program](https://www.makeuseof.com/windows-11-antivirus-apps/) is recommended for most users.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Use Windows Performance Toolkit
 
@@ -145,6 +173,20 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
 4. Wait for the process to complete. It may take some time.
 
  After the process ends, restart your computer and [open the System32 Folder in File Explorer](https://www.makeuseof.com/windows-11-open-system32/). Look for a file named **cpuusage.etl**. This is the report generated by the Windows Performance Toolkit. Double-click on it to open and analyze the report. It may provide insight into what's causing Ntoskrnl.exe to use high CPU resources.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Fixing Ntoskrnl.Exe's High CPU Usage on Windows
 

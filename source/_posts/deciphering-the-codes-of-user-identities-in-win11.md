@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Codes of User Identities in Win11
-date: 2024-09-05T19:37:03.545Z
-updated: 2024-09-06T19:37:03.545Z
+date: 2024-09-11T01:20:47.318Z
+updated: 2024-09-12T01:20:47.318Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,20 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Using the Command Prompt
 
  The simplest way to check the SID of the currently logged-in user on your PC is by using the whoami command. It will display the SID with the help of the “user” argument with the command. The only drawback is that it cannot display more than one user’s SID.
@@ -38,12 +46,20 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 whoami /user  
 ![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
 4. You will see the currently logged-in user’s name and the corresponding SID. You can directly select and copy the text from the Command Prompt window. But if you want to export the details to a text file for future use, you can do so by entering the following command:  
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 whoami /user > C:\SID.txt
 5. The above command will create a text file named **SID** in the **C** drive. You can open it with Notepad or any other text editor app.
 6. Close the Command Prompt window.
@@ -67,25 +83,35 @@ wmic useraccount where name="USER" get sid
 wmic useraccount where name="a" get sid  
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
 7. Close the Command Prompt window.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 3\. Using a PowerShell Cmdlet
 
  PowerShell offers the Get-WmiObject cmdlet using which you can view the SID of all the user accounts on a Windows PC. Like the WMIC method, you can view the SIDs of all users with a single command.
@@ -98,18 +124,6 @@ wmic useraccount where name="a" get sid
 Get-WmiObject win32_useraccount | Select name,sid  
 ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
 6. Close the PowerShell window.
@@ -144,21 +158,37 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Check SIDs in a Jiffy
 
  These were the methods to check the SID of a user or all the users on your Windows PC. Use the first method if you only want to see the currently logged-in user’s SID.

@@ -1,7 +1,7 @@
 ---
 title: "Simplified Workflows: NirCmd's Win Shortcut Guide"
-date: 2024-09-05T19:42:28.547Z
-updated: 2024-09-06T19:42:28.547Z
+date: 2024-09-11T01:20:43.066Z
+updated: 2024-09-12T01:20:43.066Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win Shortcut Tips,Easy Windows Commands,NirCmd Quick Start,Simplify Sy
 thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa778ea2d41cdc52aa7fdbdaa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simplified Workflows: NirCmd's Win Shortcut Guide
 
  The NirCmd software is a command-line tool you can utilize within the Command Prompt on any Windows platform. That software enables you to execute many commands that perform Windows tasks. Some of the NirCmd commands you can execute are very useful.
@@ -34,12 +28,20 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 2. Then scroll right to the bottom of that page and click the **Download\_NirCmd\_64-bit** link there.  
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
 `C:\Users\nircmd-x64`
 
@@ -51,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 `C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Input a suitable name for your NirCmd command shortcut and select **OK**.
 
  The item location box must include the full path of the extracted nircmd.exe file and one of the NirCmd commands specified below. You will need to modify the location specified above by replacing **NirCmd command** with an actual command. For example, you would need to input the following to create a desktop shortcut for the first NirCmd command specified below:
@@ -69,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -77,11 +87,39 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Examples of Handy Commands You Can Create With NirCmd
 
@@ -93,42 +131,46 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 `nircmd.exe emptybin`
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 2\. Center Align All Windows
 
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Read Out the Copied Clipboard Item
 
  This NirCmd command will read out the most recently copied text item on the Windows clipboard. Creating a hotkey for it will give you a convenient way to check what text you’ve copied to the clipboard. The NirCmd command for reading a copied clipboard item aloud is:
@@ -151,24 +193,40 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
 
 `nircmd.exe screensaver`
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 6\. Close All Open File Explorer Windows
 
  This NirCmd command shortcut closes all open File Explorer windows. It will come in handy when you need to close lots of Explorer folder windows. The NirCmd command for closing all open File Explorer windows is:
@@ -187,18 +245,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 `nircmd.exe setbrightness 60 3`
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!

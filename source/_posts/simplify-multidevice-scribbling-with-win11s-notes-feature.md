@@ -1,7 +1,7 @@
 ---
 title: Simplify Multidevice Scribbling with WIN11'S Notes Feature
-date: 2024-09-05T19:32:14.370Z
-updated: 2024-09-06T19:32:14.370Z
+date: 2024-09-11T01:20:51.421Z
+updated: 2024-09-12T01:20:51.421Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,20 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Get Started With Windows 11's Sticky Notes on Your PC
 
 ![Windows 11 Sticky Notes on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
@@ -45,6 +47,20 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 ![Notes list Windows 11 sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/notes-list-windows-11-sticky-notes.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Despite being a basic note-taking app, there are many features to stylize your notes. On the bottom formatting ribbon, you can format text using bold, italics, or strikethrough. There’s also an option to toggle bullets, perfect for making quick lists.
 
  If you use Windows Sticky Notes frequently, you may want to [open Sticky Notes at startup on Windows 11](https://www.makeuseof.com/open-sticky-notes-startup-windows/).
@@ -53,12 +69,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 ![Windows 11 Sticky Notes Sign In Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-sign-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To sync sticky notes across all your devices, you’ll need to first sign in using your Microsoft account. This step syncs your notes to the cloud and connects them to other Microsoft services required later. Here’s how to set up sync for your sticky notes:
 
 1. Click the three dots in the upper right corner of a sticky note to access the menu.
@@ -67,18 +77,46 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  If you run into any issues, there are some fixes for [Windows 11 Sticky Notes not syncing](https://www.makeuseof.com/fix-sticky-notes-not-syncing-windows-11/) you can explore.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## How to Use Your Windows Sticky Notes on iOS Devices
 
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
 
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Close
 
  Rather than offering a separate sticky notes app, Microsoft features Windows Sticky Notes as part of the Microsoft OneNote app. This [less-known feature of Microsoft OneNote](https://www.makeuseof.com/tag/7-little-known-onenote-features-will-love/) is great for those who already have experience using OneNote, although, this trick can be easily learned by anyone.
@@ -91,38 +129,62 @@ Close
 
  To create a new note, hit the plus icon in the bottom right corner of the screen. You’ll then see a display similar to the Sticky Notes app for Windows, including its text formatting options. One helpful tool is the camera button, which allows you to upload a photo from your camera or iOS photo album.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Use Your Windows Sticky Notes on Android Devices
 
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Close
 
  You can also view your sticky notes if you’re an Android user. Windows Sticky Notes is available in the Microsoft OneNote app for Android, although it is a little harder to find. Here’s how to access your sticky notes on Android devices:
@@ -134,23 +196,25 @@ Close
 
  To create a new sticky note, hit the three dots in the bottom right corner of the homepage. Then, tap **Create a Sticky Note**. The app includes many options featured on iOS, including the photo upload tool. You can change the note’s color by hitting the three dots in the top right corner. From the same menu, you can also tap the Export button to share sticky notes with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Use Windows Sticky Notes Using Microsoft Launcher
 
 ![Sticky notes widget in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-widget-in-microsoft-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sticky note window on Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-microsoft-launcher.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
 
@@ -162,34 +226,30 @@ Close
 
  As you're using a widget on a launcher, syncing may take a little longer than when using an app. However, you can sync your sticky notes manually at any point by hitting the three dots in the top right corner of the widget and selecting **Sync**.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## How to Use Sticky Notes Online
 
 ![Windows 11 Sticky Notes in Outlook Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-in-outlook-online.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Screenshot by author - Joe Brown  
 
   You can also edit Windows Sticky Notes on the web. To combine note-taking with your scheduling needs, Microsoft has integrated Windows Sticky Notes with Microsoft Outlook.
 
  Ensuring you are signed in to your Microsoft Account, you can access [Windows Sticky Notes in Outlook](https://www.onenote.com/stickynotes) directly, or you can sign in to Outlook and access the dedicated **Notes** tab. This can be found inside the Folders dropdown menu from the sidebar. For faster access to your sticky notes, you can hit the star icon next to the **Notes** title to add it to your favorites.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Windows Sticky Notes on Any Device and Boost Your Productivity
 
  If you’re in a rush and need to jot things down fast, Windows Sticky Notes is a great app for quick and easy note-taking. With these solutions, you don’t need to rely on keeping one device to take notes. Access sticky notes everywhere using this guide.

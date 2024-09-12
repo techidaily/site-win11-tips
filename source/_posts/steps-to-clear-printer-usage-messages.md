@@ -1,7 +1,7 @@
 ---
 title: Steps to Clear Printer Usage Messages
-date: 2024-09-05T19:37:34.784Z
-updated: 2024-09-06T19:37:34.784Z
+date: 2024-09-11T01:20:46.896Z
+updated: 2024-09-12T01:20:46.896Z
 tags:
   - windows10
   - windows11
@@ -14,46 +14,36 @@ keywords: Clear Print Errors,Printer Troubleshooting Guide,Remove Printer Jams,C
 thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b40ee36dae7aad2706914652.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steps to Clear Printer Usage Messages
 
  Printing documents and images is essential for many users. However, some users’ printers don’t print because of a Windows error message that says, “Another computer is using the printer.” Users have reported this error message appears when they select to print in Windows software packages.
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Restart the Printer
 
  Restarting the printer is a simple possible fix that’s worth a try. The printer could be stuck with a preceding request, which applying this solution might resolve. So, power off your printer for a few minutes and then turn it back on to see if that makes a difference.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Deselect the "Allow Windows to Manage My Default Printer" Option
 
  The **Allow Windows to manage my default printer** option sets the most recently used printer to be the default one when enabled. This can cause issues if the printer with which you’re trying to print isn’t set as default. You can turn off that setting as follows:
@@ -68,31 +58,61 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  You might see an alternative WS printer listed in Settings (most typically for Canon models). The WS stands for web services, and that printer shouldn’t be your default one. Make sure your standard printer is set as default.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Utilize the Print Troubleshooter
 
  Windows has a Printer troubleshooter that’s there to detect and resolve all manner of printing issues. So, that troubleshooter could feasibly offer a solution for the “Another computer is using the printer” error. This [how to run any troubleshooter post](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) explains how you can access that troubleshooter in the Windows 11/10 Settings app.
 
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-troubleshooter.jpg)
 
- Make sure the printer’s cable is connected to your PC before running the Printer troubleshooter if it’s a non-wireless one. Then select your printer model within the troubleshooter and apply the potential fixes suggested.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Make sure the printer’s cable is connected to your PC before running the Printer troubleshooter if it’s a non-wireless one. Then select your printer model within the troubleshooter and apply the potential fixes suggested.
+
 ## 4\. Start or Restart the Print Spooler
 
  Print spooler is a service for handling print jobs. Some users say they’ve been able to fix the “Another computer is using the printer” error by restarting that service. You can apply that resolution by following the step-by-step instructions in our [how-to restart the printer spooler article](https://www.makeuseof.com/windows-restart-print-spooler-service/). If the service isn’t already running, click its **Start** option.
 
 ![The Restart option for the Print Spooler service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Clear the Printers Folder
 
@@ -107,12 +127,20 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 5. Select everything in the Printers folder by pressing **Ctrl** \+ **A**.  
 ![The PRINTERS folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-printers-folder.jpg)
 6. Press the **Del** keyboard button to erase the selected files.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 7. Return to the Services app, right-click **Print** **spooler**, and select **Start**.
 
 ## 6\. Disconnect Previous Users
@@ -124,18 +152,46 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 3. Right-click a previous user shown on the **Users** tab and select **Disconnect**.  
 ![The Disconnect option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-users-tab.jpg)
 4. Repeat the previous step to disconnect all users other than yourself shown within Task Manager.
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 7\. Update the Printer’s Driver
 
@@ -145,12 +201,20 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 ![The printer driver downloads section on the HP website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-driver-downloads-section.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Print, Print, and Print Again on Windows
 
  Getting the “Another computer is using the printer” error fixed is essential for the many users who can’t afford to lose printing functionality. Fortunately, lots of users have resolved that printing issue with the potential Windows 11/10 fixes covered here. So, applying them will probably get that issue sorted on your Windows PC, and then you can print to your heart’s content again.

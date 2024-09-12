@@ -1,7 +1,7 @@
 ---
 title: Master Guide to Restore Lost PIN After Win 11 Crashes
-date: 2024-09-05T19:32:29.075Z
-updated: 2024-09-06T19:32:29.075Z
+date: 2024-09-11T01:20:51.237Z
+updated: 2024-09-12T01:20:51.237Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  Here are a few troubleshooting steps to help you fix this errorand log in with your PIN successfully on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Login With the Account Password
 
  If you have set up a Microsoft user account or local user account, you can use it to log in with a password. Once done, you can reset the login PIN to fix the problem. Here's how to do it.
@@ -48,42 +42,80 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 3. Next, click on the**Sign-in options.**  
 ![windows 11 sign in options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-sign-in-options-1.jpg)
 4. Click on**PIN (Windows Hello).**
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Here, you will see the options to**Change PIN** and**Remove PIN** . To change your PIN, you must know your old PIN. So, we'll proceed with**Remove PIN** to remove the current PIN and then add a new one.
 6. So, click on the**Remove** button for**Remove this sign-in option** . Click on**Remove** once more to confirm the action.  
 ![windows 11 sign in options remove pin confirm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-sign-in-options-remove-pin-confirm-1.jpg)
 7. Now you need to verify your admin credentials. So, enter your user account password and click**OK** . Windows will remove your PIN successfully.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 8. Next, click on**Set up to add a new PIN** . Enter your user account password to verify the account.  
 ![windows 11 sign in options add new pin 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-sign-in-options-add-new-pin-1.jpg)
 9. In the**Set up a PIN** dialog, type a new PIN for your account. Repeat the same in the**confirm PIN** field and click**OK** .
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
  If you want, you can also add letters and symbols to your PIN to make it secure. Make sure to select the**Include letters and symbols** option in the**Set up a PIN** dialog and then add your new PIN.
 
  To test your new PIN, press**Win + L** to lock your screen. Next, enter the new PIN in the login screen to confirm the changes.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## What If I Don't Remember My Account Password?
 
  If you have forgotten your account password, you can reset it from the sign-in screen by answering the security questions for your account.
@@ -100,28 +132,10 @@ To reset your user account password:
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Delete the NGC Folder
 
 ![delete ngc folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-ngc-folder-windows-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the issue persists when signing in with a PIN, check the NGC folder for permission issues. The NGC folder is where Windows stores your login information. If the folder is corrupted or lacks sufficient permission, it can result in the Something happened and your PIN isn't available error.
 
  To fix the corrupted folder, you'll need to delete the folder and let Windows recreate it. Here's how to delete the NGC folder to add a new PIN to your account.
@@ -133,6 +147,20 @@ To delete your NGC folder:
 3. Click on**View > Show** and select**Hidden Items** . Make sure Hidden Item option has a check mark.  
 ![show hidden item file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-hidden-item-file-explorer.jpg)
 4. Next, navigate to the following path:  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
 5. Next, right-click on the**Ngc** folder and select**Delete** . Click on**Delete** again to confirm the action.
 
@@ -142,9 +170,43 @@ To delete your NGC folder:
 
 ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
  There are[many ways to uninstall updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) , including from the Settings app and Windows Recovery Environment. If you are unable to sign in using a password, you can use the Windows Recovery Environment method to uninstall Windows updates.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Perform a System Restore Using Restore Point
 
@@ -156,35 +218,39 @@ To delete your NGC folder:
 2. Next, press and hold the**Shift** key and click on**Restart** . Click on**Restart anyway** if a confirmation prompt appears. Make sure to hold the Shift key until the PC starts to restart.  
 ![choose an option windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-1.jpg)
 3. In the**System Recovery** section, click on**Troubleshoot** .  
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
 4. Next, select**Advanced options** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on**System Restore.**  
 ![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 1. Next, your system will restart in the**System Restore** environment.  
 ![system restore windows recovery environment 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-windows-recovery-environment-1.jpg)
 2. Click on your user account name under**Choose an account to continue.**
@@ -192,15 +258,29 @@ To delete your NGC folder:
 4. In the**System Restore** dialog, select the most recent restore point and click**Next** .
 5. Follow on-screen instructions to complete the system restore. Your PC will restart with a success or failure message. Once the restore is complete, try to log in with the same PIN to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Perform a Startup Repair
 
 ![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Startup repair is a built-in troubleshooting tool on Windows to fix issues with files required to boot the OS. You can run Startup Repair from the Windows Recovery Environment. Here's how to do it.
 
@@ -212,12 +292,20 @@ To delete your NGC folder:
 
 ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  A system reset helps you reset your computer to its factory default removing all the system settings and configuration, including login credentials.
 
  Windows reset lets you keep or remove your personal files and then reinstall Windows. However, you'll need to reinstall all your third-party apps from scratch.
@@ -231,12 +319,6 @@ To perform a system reset:
 
  If you are unable to sign in, follow this guide to[factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore the PIN Sign-in Functionality on Windows 11
 
  Windows may refuse to accept your sign-in PIN if the folder containing the information is corrupted or due to system file issues. Before trying any advanced troubleshooting steps, try to use an alternate login method to sign in and remove and change your PIN. If not, you can use system repair to fix startup issues or restore your PC using a restore point.

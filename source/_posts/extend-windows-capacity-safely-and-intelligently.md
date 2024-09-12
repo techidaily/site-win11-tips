@@ -1,7 +1,7 @@
 ---
 title: Extend Windows Capacity Safely & Intelligently
-date: 2024-09-05T19:32:43.594Z
-updated: 2024-09-06T19:32:43.594Z
+date: 2024-09-11T01:20:51.000Z
+updated: 2024-09-12T01:20:51.000Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,20 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
  If one of the volumes on your Windows computer is full, you always have the option to extend it to give it more storage space. However, this can be impossible if the option to extend said volume is grayed out in Disk Management.
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Why Is the Extend Volume Option Grayed Out?
 
@@ -43,48 +57,80 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In the **Storage** section of the left panel, select **Disk Management**.
 
 ![the Disk Management section of Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-disk-management-section-of-computer-management-on-windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In the right panel, right-click the volume you want to shrink and select **Shrink Volume**.
 
 ![selecting the option to shrink a volume in Disk Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-the-option-to-shrink-volume-in-disk-management-on-windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Enter the amount of space you want to shrink (keeping in mind that you cannot exceed the amount that is available to shrink) and then click on **Shrink**.
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
 
 ## 2\. Delete the Recovery Partition
@@ -125,12 +171,6 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
  Once the command completes running, the Recovery partition will be gone and there should be some unallocated space you can use to extend the volume.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use Third-Party Software to Extend the Drive
 
  You can use other tools besides Disk Management to shrink and delete volumes on Windows. To use one of these third-party disk management programs, start by downloading [IM-Magic Partition Resizer Free](https://www.resize-c.com/), extract the ZIP file in the download location, and install it.
@@ -143,12 +183,20 @@ thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  It should take a few seconds to resize the volume, and when it finishes, you should be able to see some unallocated space, allowing you to extend the volume you want to in the first place.
 
 ## Regain Your Ability to Extend Volumes on Windows

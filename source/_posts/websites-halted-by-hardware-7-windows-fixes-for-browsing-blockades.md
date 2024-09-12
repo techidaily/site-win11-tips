@@ -1,7 +1,7 @@
 ---
 title: "Websites Halted by Hardware: 7 Windows Fixes for Browsing Blockades"
-date: 2024-09-05T19:32:44.922Z
-updated: 2024-09-06T19:32:44.922Z
+date: 2024-09-11T01:20:50.986Z
+updated: 2024-09-12T01:20:50.986Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,20 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
  Aside from that, Windows Defender Firewall restrictions or adding URL addresses to the Windows Hosts file can also prevent websites from opening. If you are tired of this issue and wish to access your favorite sites again, here are a few fixes you can try.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 1\. Perform Some Preliminary Checks
 
  You should perform the following preliminary checks first, as they may help you resolve the issue quickly:
@@ -32,18 +46,26 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
  If the above checks don't work and some websites fail to load, begin applying the remaining fixes.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982459">
+<span id="1982485">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. Use a Different Device
 
 ![two laptops placed side by side on a wooden table](https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00df3f1d4defd5e8c6891f82cb.jpg)
@@ -54,22 +76,24 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
  In this case, you can ask your administrator to unblock those websites. However, if the same websites don't open on your other device, or if you're experiencing this issue on a personal device, your ISP might have blocked those sites.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Use a Different Internet Connection
 
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Connect your device to a different internet connection to ensure the websites are not blocked by your ISP, which is more likely to happen if you are connected to an administered network connection. If another internet connection isn't available, you can temporarily turn on your mobile hotspot to access the internet.
 
  If websites open successfully on a different connection, chances are that your ISP or network administrator has blocked them. If this happens, either use a different internet connection or ask your internet service provider to unblock these websites. If you wish, you can also change your ISP.
@@ -86,12 +110,26 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
  However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should[disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Run a Netsh Command in the Windows Command Prompt
 
  If none of the above fixes have worked, you should clear the piled-up DNS cache, reset the misconfigured Winsock catalog, and remove and reinstall the TCP/IP stack. For all of this, you need to run some simple commands in the Windows Command Prompt. Here's how:
@@ -99,12 +137,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
 2. Enter the following commands one by one, pressing**Enter** after each:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -113,18 +145,26 @@ ipconfig /flushdns`
 
  If the problem persists after running the above commands, you should change your DNS server.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. Change Your DNS Server
 
 ![DNS Server Cables Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/DNS-Server-Cables.jpg)
@@ -133,18 +173,20 @@ ipconfig /flushdns`
 
  The best way to exclude this possibility is to[change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 7\. Ensure The Website Isn't Blocked in the Windows Hosts File
 
  Windows users can block access to certain websites by editing the[Windows Hosts file](https://www.makeuseof.com/windows-hosts-file-guide/) . Blocking a URL prevents users from accessing it from any browser on the same device. If you share your computer with someone else, that person might have blocked some websites in the Hosts file. Follow these steps to ensure that's not the case:
@@ -154,23 +196,25 @@ ipconfig /flushdns`
 2. Right-click on the**Hosts** file and click**Open with** .  
 ![Clicking on the Open With Button by Right-clicking on the Hosts File in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Clicking-on-the-Open-With-Button-by-Right-clicking-on-the-Hosts-File-in-the-Windows-File-Explorer.jpg)
 3. Then, select**Notepad** to open the**Hosts** file.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 4. If websites have been blocked using the Hosts file, the domain names of these websites would have probably been added at the end of this file.
 5. If you find those websites added here, delete them all.  
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
 6. After that, save the document by pressing**CTRL + S.**
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Roam Around the Internet Freely Again on Windows
 
  It can be frustrating to see some websites not open on a device. If the managed device's administrator or ISP has blocked the inaccessible websites, either change the device or switch to another internet connection or ask the relevant person to unblock them.

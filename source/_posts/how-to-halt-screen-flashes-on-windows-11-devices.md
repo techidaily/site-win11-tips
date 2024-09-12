@@ -1,7 +1,7 @@
 ---
 title: How to Halt Screen Flashes on Windows 11 Devices
-date: 2024-09-05T19:34:04.410Z
-updated: 2024-09-06T19:34:04.410Z
+date: 2024-09-11T01:20:49.951Z
+updated: 2024-09-12T01:20:49.951Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,25 @@ keywords: Stop PC Screenshots,Fix Screen Flicker Win,Prevent Flagscreen Win11,El
 thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b98e37e8d331924ca8f4791a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Halt Screen Flashes on Windows 11 Devices
 
  If your Windows 10 or Windows 11 screen is constantly flickering, it's likely because you have a troublesome application installed or an unsuitable display driver. It's time for you to resolve that annoying screen flash.
 
  The problem often begins when upgrading to Windows 10/11 from a previous version of the operating system, but it can occur at any time. We're going to show you various methods to fix a Windows 10 or Windows 11 flashing screen.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Perform This Screen Flickering Test First
 
@@ -38,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -51,6 +53,20 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
  If you have a spare monitor cable, try using it instead. Or buy a replacement online, since it's an inexpensive purchase. Cables can degrade over time, or maybe a pet has had a sneaky chew. Either way, switch the cable and see if it stops the screen flickering.
 
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 2\. Set the Correct Refresh Rate
 
@@ -62,32 +78,42 @@ To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Step 1: Remove the Driver
 
@@ -95,12 +121,6 @@ To adjust your refresh rate:
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
 3. Underneath**Advanced start-up** , click**Restart now** .
@@ -111,12 +131,20 @@ Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
@@ -124,12 +152,20 @@ Next, use Device Manager to uninstall the display driver:
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -148,12 +184,6 @@ Next, use Device Manager to uninstall the display driver:
 
  Follow the steps above to uninstall the driver, then head to the old driver page for either[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reseat Your Graphics Card
 
  If the problem isn't with your display driver, it doesn't mean your graphics card isn't to blame. If your graphics card isn't seated correctly in your motherboard, it can cause your monitor display to flicker on and off.
@@ -163,6 +193,26 @@ Next, use Device Manager to uninstall the display driver:
 [Power off your PC](https://www.makeuseof.com/windows-11-how-to-shut-down/) , unplug everything, open the case, and remove your graphics card from the motherboard. Then carefully reseat it, ensuring the card firmly clips into the motherboard. Of course, don't do this if you're not comfortable working inside a computer because you might make things worse.
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Uninstall Problematic Applications
 
@@ -185,18 +235,26 @@ If this doesn't work, uninstall the program. To do so:
 
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 To create a new account:
 
 1. Press**Windows Key + I** to open Settings.
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Screen Flickers... No More
 
  As with most Windows 10/11 issues, no single fix will work for everyone. Hopefully, one of the steps above has solved your Windows 10 or Windows 11 screen flashing problem.

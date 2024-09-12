@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Power of Shortcut Commands with Windows Narrator
-date: 2024-09-05T19:34:24.083Z
-updated: 2024-09-06T19:34:24.083Z
+date: 2024-09-11T01:20:49.693Z
+updated: 2024-09-12T01:20:49.693Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,26 @@ keywords: Windows Narrator Shortcuts,Accessibility Command Guide,Audio Navigatio
 thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13fd55f62c95158efb815f99f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unraveling the Power of Shortcut Commands with Windows Narrator
 
  Narrator is a screen reader from Microsoft that assists with navigation and access to information. It reads text, provides voice assistance, and navigates screen content. Visually impaired or low-vision individuals can better comprehend what's on their computer screens with its help.
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -43,22 +45,44 @@ thumbnail: https://thmb.techidaily.com/e80f8e773e8554c0c3bc3af8f08cf584d0a96cf13
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -182,18 +206,20 @@ This way, you can switch between the Legacy and Standard layouts.
 | Ctrl + Narrator + Down arrow                | Navigate to first child (when structural navigation is provided)      |
 | Narrator + Q                                | Move to last item in containing area                                  |
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.

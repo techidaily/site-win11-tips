@@ -1,7 +1,7 @@
 ---
 title: Triggering Windows 11 Dialer
-date: 2024-09-05T19:37:52.646Z
-updated: 2024-09-06T19:37:52.646Z
+date: 2024-09-11T01:20:46.680Z
+updated: 2024-09-12T01:20:46.680Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,24 @@ To open the Phone Dialer using this tool, follow these steps:
 1. Press**Win + S** on your keyboard then type "dialer".  
 ![Open Phone Dialer Using Windows Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-windows-search-tool.jpg)
 2. Choose the Best Match from the list of options available.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will launch your Phone Dialer application which you can use for making calls, checking contacts, and more.
 
  If you like Windows Search, check out our[Windows 10 Search cheat sheet](https://www.makeuseof.com/tag/windows-search-cheat-sheet/) for some handy tricks.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. How to Open Phone Dialer Using Run Command Dialog Box
 
@@ -60,14 +68,22 @@ To open the Phone Dialer using this tool, follow these steps:
 2. Type "dialer" in the text box and press**Enter** or click**OK** .  
 ![Open Phone Dialer Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-run-dialog-box.jpg)  
  Screenshot by Digvijay Kumar - No attribution
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will launch your computer's default Phone Dialer application.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. How to Open Phone Dialer Using Task Manager
 
@@ -79,21 +95,9 @@ To open Phone Dialer using Task Manager, do the following:
 2. Click**Run new task** at the top of Task Manager.  
 ![Open Phone Dialer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-task-manager.jpg)
 3. Next to the Open field, type "dialer" and press Enter or click**OK** . This will open the Phone Dialer application in a second.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From here, you can make calls by entering numbers into the dialer box or using one of your contacts' numbers from your address book.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open Phone Dialer Using Command Prompt
 
  Additionally, you can use the Command Prompt application to open the Phone Dialer in Windows 11\. It allows you to launch programs more quickly by typing a command rather than navigating through the Start menu or desktop icons.
@@ -104,20 +108,28 @@ To open the Phone Dialer in Windows, follow these steps:
 2. Once you've opened the window, type “dialer” and press**Enter** .  
 ![Open Phone Dialer Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will launch your Phone Dialer application on your computer screen.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. How to Open Phone Dialer Using Via Windows PowerShell
 
  The command line can be a very useful tool for getting your computer to do things quickly. However, it can be difficult to know how to access the command line if you don’t have much experience with computers.
@@ -128,6 +140,20 @@ To open the Phone Dialer in Windows, follow these steps:
 2. Search for "Windows PowerShell" and select the first result.
 3. When PowerShell is open, type "dialer" and press**Enter** .  
 ![Open Phone Dialer Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-powershell.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  This will quickly start the Phone Dialer application on your computer.
 
@@ -142,6 +168,20 @@ To open the Phone Dialer in Windows, follow these steps:
 3. When the "Create Shortcut" window appears, type "dialer" and click**Next** .  
 ![Open Phone Dialer With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-with-desktop-shortcut.jpg)
 4. Give your shortcut a name like a Phone Dialer.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Once you have made your changes, click**Finish** .
 
  A shortcut to Phone Dialer will appear on your desktop; double-click it to run it. As an alternative, you can create a shortcut using File Explorer on your desktop. The steps are as follows:
@@ -152,6 +192,20 @@ To open the Phone Dialer in Windows, follow these steps:
 * Right-click on the**dialer** (executable file) and select**Show more options > Create shortcut** .
 * Click**Yes** when prompted to confirm a shortcut. You will see the desktop shortcut on your computer screen.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 8\. How to Open Phone Dialer Using a Shortcut Key
 
  This method of opening the Phone Dialer is much faster than searching for it in the Start menu or using other options. It requires only a few keystrokes to get the job done. Here's how to do this:
@@ -161,21 +215,43 @@ To open the Phone Dialer in Windows, follow these steps:
 3. In the Shortcut field, type the shortcut character.  
 ![Open Phone Dialer Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-shortcut-key.jpg)
 4. Click**Apply > OK** to save your changes
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
  Once you've finished, press Ctrl + Alt and then type the letter or number you chose. It will only take a moment to open the Phone Dialer.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## It's Easy to Access the Phone Dialer
 
  It is simple to open the Phone Dialer in Windows. You can connect to contacts and numbers easily without digging through your address book. Try one of the many methods here if you need assistance opening this tool.

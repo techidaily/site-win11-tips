@@ -1,7 +1,7 @@
 ---
 title: "Winning Back Control: Fixing Flaky Windows Apps"
-date: 2024-09-05T19:36:02.899Z
-updated: 2024-09-06T19:36:02.899Z
+date: 2024-09-11T01:20:48.393Z
+updated: 2024-09-12T01:20:48.393Z
 tags:
   - windows10
   - windows11
@@ -14,23 +14,25 @@ keywords: Win Back Control,Fixing Windows Issues,Unstable Windows Apps,Tackling 
 thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35ff890c97d3a0607584104c84.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Winning Back Control: Fixing Flaky Windows Apps
 
  While the Microsoft Store offers a great selection of apps for Windows systems, you may sometimes encounter installation errors. One such error is “this app will not work on your device” which usually occurs when installing apps from the Store app. This error message appears with a yellow circle around an exclamation mark, even if the app is compatible.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 1\. Restart Your Computer
 
@@ -46,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 2. Type **WSReset.exe** in the dialog box and press Enter.  
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
 ## 3\. Check for Microsoft Store Updates
@@ -62,21 +58,37 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 2. Click the **Library** icon. This will be on the left side of the Store app.  
 ![Check for Microsoft Store Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-for-microsoft-store-updates.jpg)
 3. Next, click the **Get updates** button to check for available updates.
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 4. If updates are available, click **Update all** to download and install them.
 
  After following the steps above, restart your computer and see if it resolves the issue.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Run the Windows Store Apps Troubleshooter
 
@@ -91,18 +103,26 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
  After performing the instructions, try launching the app again and see if it works. If not, you can try the next solution below.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Restart the Application Identity Service
 
  Application Identity service determines and verifies the identity of Windows Store apps. So, if it’s not running correctly, you may run into this error. To restart this service, do the following:
@@ -112,23 +132,25 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 3. Scroll down to find the **Application Identity** service and double-click on it.  
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
 
  Now, restart your computer and check if the error has been resolved. If not, proceed to the next solution.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. Temporarily Disable Your Antivirus Program
 
  If you have an antivirus program installed on your computer, it could block the app from running. To check if this is the case, temporarily disable your antivirus and see if it works. Here's how to do it:
@@ -142,14 +164,22 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 6. Turn off the **Real-time protection** toggle.  
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
 
- Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
+
 ## 7\. Enable Hyper-V in Windows Features
 
  Hyper-V is a Microsoft virtualization technology that lets some Microsoft Store apps run. If it isn't enabled on your device, you may encounter the “This app will not work on your device” error when installing certain programs.
@@ -159,28 +189,24 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 8\. Perform Several Generic Windows Fixes
 
  If none of the above solutions managed to fix the error, you can try performing several generic fixes. This includes [running the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to scan for missing or corrupted files and the Deployment Image Servicing and Management tool to repair any corrupt system image.
@@ -188,6 +214,20 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
  You can also [reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) app to its default settings. This will reset the Store to its original configuration and potentially fix the error you're experiencing.
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Keep Your Apps Up and Running on Windows
 

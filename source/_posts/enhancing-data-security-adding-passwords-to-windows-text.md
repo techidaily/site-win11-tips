@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Data Security: Adding Passwords to Windows Text"
-date: 2024-09-05T19:38:28.807Z
-updated: 2024-09-06T19:38:28.807Z
+date: 2024-09-11T01:20:46.179Z
+updated: 2024-09-12T01:20:46.179Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Secure Windows Passwords,Windows Password Protection,Enhance Windows S
 thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e63fa5e698f7136621990952.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Data Security: Adding Passwords to Windows Text
 
  You can use text editors to keep private notes, codes, and other confidential data. They're simple, easy to use, and don't take many system resources. However, if you're keeping these kinds of data on text files, you should protect them by adding passwords and encryption.
@@ -28,12 +22,20 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Add Passwords to Text Files With LockNote
 
  Steganos LockNote is a portable app that lets you create password-protected basic text files. You can also use it to apply passwords to existing text files, making it easier to protect your information.
@@ -51,22 +53,58 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 2. Now you'll see the welcoming message shown below within LockNote. Erase that message and input the text or notes you want to save.  
 ![The LockNote window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-window.jpg)
 3. Go to **File > Save As.**
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the Save As window, navigate to the folder where you want to save your file.  
 ![LockNote's Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-save-as-window.jpg)
 5. Input a title in the **File name** box, then click **Save**.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 6. A password box will pop up. Enter matching passwords for the file in the two text boxes.  
 ![The set password boxes in LockNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box.jpg)
 7. Click **OK** to save the file with the set password.
 
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
  To open your password-protected text file, browse to the folder where you saved it and double-click the file. When you launch your file, a password box will appear; input the password you set and click **OK** to open it.
 
 ![The LockNote password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-password-box.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If you want to set passwords for an existing Notepad text file, open the folder that includes it, then drag and drop the Notepad file onto LockNote's window. Select **Yes** on the dialog box that asks about converting files. Input a password for the file and click **OK**. That will save a duplicate LockNote file in the same folder as the original text file.
 
@@ -76,12 +114,20 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Add Passwords to Text Files With Secure Edit
 
  Like LockNote, Secure Edit incorporates password and encryption features into your text file. However, it also lets you add images in PNG and BMP format. So, this is how you can add passwords to Windows text files with Secure Edit.
@@ -97,9 +143,37 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 2. Click Secure Edit's **File** menu.  
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
 3. Select the **Save as** option.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 6. Select somewhere to save your file.
 7. Click **Save**.
 
@@ -109,6 +183,20 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
 ![The open file with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-selection-box.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The **Visual Options** menu within Secure Edit includes customization options for the software. Click **Options** and **Visual Options** to access that menu. Then you can select four alternative themes from there.
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
@@ -117,18 +205,26 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
  PeaZip is a freeware archive utility with which you can [set up password-protected archives](https://www.makeuseof.com/windows-password-protect-zip-file/). You can apply a password to multiple Notepad text files by adding them to a password-protected archive with PeaZip.
@@ -152,24 +248,12 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
 
@@ -179,18 +263,20 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## Secure Your Text Files in Windows 11/10
 
  If you share a Windows PC with other users, you should set passwords for text files containing private notes and confidential details. Even if you don't, securing your personal notes is a good idea by applying a password. So, check out LockNote, Secure Edit, or PeaZip to protect your most confidential text files in Windows.

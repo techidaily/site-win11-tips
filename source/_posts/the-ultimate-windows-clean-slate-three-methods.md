@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Windows Clean Slate: Three Methods"
-date: 2024-09-05T19:36:55.366Z
-updated: 2024-09-06T19:36:55.366Z
+date: 2024-09-11T01:20:47.621Z
+updated: 2024-09-12T01:20:47.621Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: Windows Cleaning Guide,Clear PC Remedies,Slate-Like PC Clean,Pure Wind
 thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4fbcec56dcebaeb9d186f784.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Windows Clean Slate: Three Methods
 
  Factory resets are the nuclear solution for many Windows issues. If your computer is far slower than it once was, you have a malware infection that you can't remove, or plan to sell your machine, a reset is the most convenient option.
 
  Depending on your setup and installed version of Windows, you have a few different ways to factory reset a Windows laptop or desktop. We'll show you how to reset a Windows 11, 10, or earlier computer as easily as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before You Reset Windows, Make Sure You Back Up
 
  Before we look at how to factory reset Windows, you should ensure you have a recent backup of your data. Performing a factory reset will wipe out all your installed programs, and in some cases, your files. You don't want to leave anything behind.
@@ -46,21 +34,43 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Windows 10 Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Reset-This-PC.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Keep Your Files or Remove Everything?
 
@@ -74,18 +84,20 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Cloud Download vs. Local Reinstall
 
  You'll next have to choose how you want to reinstall Windows. There are two ways: **Cloud download** or **Local reinstall**.
@@ -98,12 +110,26 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Options When Resetting Windows 10 and 11
 
  Next, you'll see an **Additional settings** menu that has a **Current settings** section, containing a summary of what you've chosen to do so far. There's also a **Change settings** link you can click for more options.
@@ -116,20 +142,8 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Windows 10 Reset PC Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Reset-PC-Options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Confirm the Windows Factory Reset Operation
 
  Click **Confirm** when you're satisfied with the options above. The final screen before you start the factory reset is titled **Ready to reset this PC**.
@@ -139,6 +153,20 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  Finally, confirm the operation by clicking **Reset**, then wait for the process to complete. If you're factory resetting a laptop, make sure you plug it in to avoid losing power during the operation. You'll need to walk through the Windows setup procedure again once it's done.
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
@@ -150,24 +178,26 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
  While the methods listed above will work for most users, there are a few advanced ways to reset Windows, if you need them.
@@ -182,17 +212,45 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![advanced recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/troubleshoot-options-reset-this-PC.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Otherwise, you may be able to boot into the BIOS and directly load the recovery partition on your hard drive, if your PC manufacturer included one. However, if you factory reset with this method, you'll reinstall all the manufacturer bloatware. While it's not ideal, it can work if you have no other options.
 
  You can also type "create a recovery drive" into the Start menu to access a tool that lets you make your own. However, this requires a fair bit of space, and you'll have to do it before you have a problem. If you haven't already made one, you're best off making a new Windows install disk, as described in #2\.
 
  To cover all the bases: there is no way to factory reset Windows from the BIOS. While you can reset the BIOS to its default options, you can't factory reset Windows itself through the BIOS. There's also no way to factory reset your laptop without turning it on; you need power to perform all the above operations.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## If You're on an Older Version of Windows 10
 
@@ -203,6 +261,20 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  If you're on at least Windows 10 version 2004, clicking this link text will open [Microsoft's Fresh Start page](https://support.microsoft.com/en-us/windows/give-your-pc-a-fresh-start-0ef73740-b927-549b-b7c9-e6f2b48d275e) in your browser and recommend that you use method #1 above to reset. However, if you're on a version of Windows 10 that still offers this, you need to [install the latest version of Windows](https://www.makeuseof.com/update-windows-manually/) as soon as you can to keep your PC secure.
 
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Now You Know How to Factory Reset Your Windows Computer
 

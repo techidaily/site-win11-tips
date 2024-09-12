@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Faulty Windows Apps
-date: 2024-09-05T19:38:51.794Z
-updated: 2024-09-06T19:38:51.794Z
+date: 2024-09-11T01:20:45.891Z
+updated: 2024-09-12T01:20:45.891Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Window Repair Tips,App Performance Fixes,Software Bug Resolution,Fixin
 thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d17bc893106f7883eb3c1b7e3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of Fixing Faulty Windows Apps
 
  Dealing with app issues on Windows can be frustrating and disruptive to your workflow. From apps crashing frequently to not functioning properly, these problems can cause a great deal of stress. However, with a bit of troubleshooting, many of these issues can be resolved in no time.
@@ -38,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  In conclusion, apps in Windows can stop working due to both software and hardware issues. Below, we have listed the different troubleshooting methods you can try to fix such issues, regardless of what is causing them.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the App Troubleshooter
 
  The first course of action, after facing any kind of app-related issue on Windows should be running the built-in app troubleshooter. This utility is present in the Troubleshoot section of the Settings app and can detect and resolve issues like app crashes and compatibility problems.
@@ -51,6 +39,26 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
  To run it, launch the Settings app and head over to**System** \>**Troubleshoot** \>**Other troubleshooters** . Look for the Store apps troubleshooter and click on the**Run** button for it.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Once the scan has started running, wait patiently for the utility to look for potential errors in the system and generate a report based on those. If any issues are found, the troubleshooter will notify you and in most cases, will also suggest relevant fixes you can try.
 
@@ -62,46 +70,30 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  You can install the latest available updates using the Microsoft Store if the program is available on the platform. Otherwise, you can also head over to the official website of the app and install the latest version from there. Several third-party apps also have a built-in update option within the interface that you can use.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Reset App Cache
 
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Cache is the temporary data stored by programs to access the information they need, quickly without reloading it from the local storage. However, there are times when this data can get corrupt and lead to several performance issues.
 
  Fortunately, this is easy to fix. You can reset the app cache to resolve issues like crashes, slow performance, and other minor glitches. Doing so won’t harm any important data, but you are likely to lose any login information or custom settings that you may have configured in the app.
 
  To reset app cache,[launch the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) . Type wsreset.exe in the CMD window and hit Enter. Wait for the process to complete and once it is done, check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Drivers
 
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
@@ -118,6 +110,20 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  You can then take necessary steps to remove the problematic program to avoid any issues in the future.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 6\. Repair or Reset the App
 
  Windows offers a repair and reset feature for the apps as well. If an app is malfunctioning, you can first attempt to repair it. Windows will scan the app’s files and settings during the repair process and fix any issues that are identified, automatically.
@@ -130,24 +136,54 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 ![Reset Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-or-repair-settings-app-edit.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 7\. Reinstall the App
 
  Finally, if none of the troubleshooting methods help, you can uninstall the app and then reinstall it. This will clear any corrupt files alongside the old or problematic settings that might be causing the issue.
 
  However, since this action will delete all data associated with the app, make sure you create a backup of the important data. Once that is done, you can[use the Control Panel to uninstall the app](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and then reinstall a fresh version using the Microsoft Store or your browser.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Get Your Windows Apps Back on Track
 
  App issues can be a major source of headaches, especially when they occur during an important task. The troubleshooting methods listed above should help you fix most of such issues in no time. To avoid them in the future, make sure you keep your apps, system, and drivers up-to-date at all times.

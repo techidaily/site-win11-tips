@@ -1,7 +1,7 @@
 ---
 title: Overcoming Summation Issues in WinRAR Archives With Six Tactics
-date: 2024-09-05T19:41:13.800Z
-updated: 2024-09-06T19:41:13.800Z
+date: 2024-09-11T01:20:44.030Z
+updated: 2024-09-12T01:20:44.030Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,26 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
  Thankfully, you can try various troubleshooting methods to eliminate the checksum error in WinRAR. Let's check them out.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## What Is Checksum Error in WinRAR
 
  A checksum error in WinRAR occurs when the checksum value of your archive file doesn't match the expected value. WinRAR calculates the checksum value based on the content of your archive file, which helps ensure that your file doesn't contain any broken or corrupted segments.
@@ -30,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 * The files contain viruses or malware.
 * The file was not downloaded properly from the source.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable the Keep Broken Files Option
 
  By default, WinRAR automatically deletes the corruption in your archive file. While this feature generally works well, there are instances where it may delete segments that are essential for the extraction process, leading to a checksum error.
@@ -49,14 +63,28 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 2. Check the **Keep my files** option and click **OK**.  
 ![Keep my files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keep-my-files-option-2.jpg)
 
- WinRAR will now extract your archive file without deleting the corrupt or broken parts from it. After the extraction, you can [repair corrupted files in Windows](https://www.makeuseof.com/tag/best-tools-repair-corrupted-damaged-files-windows/) using different repair tools available on the market.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ WinRAR will now extract your archive file without deleting the corrupt or broken parts from it. After the extraction, you can [repair corrupted files in Windows](https://www.makeuseof.com/tag/best-tools-repair-corrupted-damaged-files-windows/) using different repair tools available on the market.
+
 ## 2\. Temporarily Disable the Security Program
 
  Often, the security program on your computer can interfere with WinRAR, causing it to display an error message. This usually occurs when the security program thinks the archive file contains malicious agents.
@@ -67,18 +95,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
  However, your antivirus might delete the extracted files, considering them threats to your computer. To prevent this from happening, [add the extracted file to Windows Security's exclusion list](https://www.makeuseof.com/windows-11-security-exclusions/). If you use a third-party antivirus program, check its user manual to learn how to add files to its exclusion list.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair the Archive File
 
  As aforementioned, the prime reason behind the WinRAR checksum error is corruption in the archive file. One way to deal with this is to [use the WinRAR built-in repair feature](http://www.makeuseof.com/windows-built-in-repair-tools/) to repair corrupt Windows files. The repair feature looks for corruption in the archive file and automatically repairs it using its repair mechanism.
@@ -89,40 +105,44 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 2. Click the **Tools** tab at the top and choose the **Repair archive** option from the context menu.  
 ![Repair archive option in WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-archive-option.jpg)
 3. Choose the **Treat the corrupt archive as RAR** option if your archive is a RAR file. Select the **Treat the corrupt archive as ZIP** option if it's a ZIP file. Then, click **OK**.  
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Repairing window of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repairing-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The WinRAR repair window will crop up and try to repair the archive file. After the process is complete, restart your computer, try to extract the file, and check if the error reappears. If yes, try the next solution on the list.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Run a CHKDSK Scan
 
  Another prime reason for the error message could be bad sectors on your hard drive. To address this situation, you can [run a CHKDSK scan](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer).
@@ -139,21 +159,43 @@ chkdsk/r C:
 
  The CHKDSK scan takes a long time to finish, so be patient. Once the scan is complete, restart your computer (see how to [restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/)) and check for the issue.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 5\. Re-Download the Archive File
 
  If you continue to experience the error while extracting the file, it is likely due to an issue that occurred during the file download process. It's possible that you were disconnected from the internet while downloading the file or your computer experienced a sudden power cut.
 
  In this case, the best course of action is to re-download the archive file. If someone sent you the file via email, request them to resend it. If you downloaded the file from a website, revisit the website and initiate a fresh download of the file.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Try a Different Extraction Tool
 
  If you’re still facing the checksum error even after trying the previous troubleshooting steps, the problem likely lies with WinRAR rather than the archive file. In such a scenario, you’re left with no option other than to use any other [extraction tool to extract your archive file](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Fixing the WinRAR Checksum Error
 

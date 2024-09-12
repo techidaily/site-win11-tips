@@ -1,7 +1,7 @@
 ---
 title: Launching Driver Verifier via Control Panel on W11
-date: 2024-09-05T19:33:39.021Z
-updated: 2024-09-06T19:33:39.021Z
+date: 2024-09-11T01:20:50.288Z
+updated: 2024-09-12T01:20:50.288Z
 tags:
   - windows10
   - windows11
@@ -20,42 +20,32 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
  With just a few simple steps, you can access this tool and begin making sure that all of your drivers are up-to-date and functioning properly. In this article, we will show you how to launch Driver Verifier Manager on Windows operating systems for immediate driver verification.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Opening the Driver Verifier Manager With a Taskbar Search
 
  The easiest way to open Driver Verifier Manager in Windows 11 is to type “verifier” in the Taskbar search and click on the result to start it.
 
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
 
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Opening the Driver Verifier Manager With Task Manager
 
  Task Manager is an essential utility built into Windows that allows you to view and manage all running processes and services. It also provides a quick way to access programs like Driver Verifier Manager, which can help troubleshoot driver compatibility issues.
@@ -68,13 +58,35 @@ To open Driver Verifier Manager using Task Manager, do the following:
 4. Type “verifier” into the text box and check the "Create this task with administrative privileges” box.  
 ![Open Driver Vefifier Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-task-manager.jpg)
 5. Now click**OK** to launch Driver Verifier Manager.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 6. When UAC prompts, click**Yes** to grant administrative rights.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
 
@@ -85,12 +97,20 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
  A desktop shortcut is a quick and easy way to open and access frequently used programs and files without leaving the desktop. As a result, you will not have to search through multiple menus and folders as you do often.
@@ -105,6 +125,20 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
  Once you have followed the above instructions, double-click the shortcut on your desktop to open Driver Verifier Manager.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 6\. Opening the Driver Verifier Manager With a Command Prompt Command
 
  In addition, if you prefer using command line methods, you can use Command Prompt to run the Driver Verifier Manager tool. Here's how you can do it:
@@ -116,12 +150,20 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Getting the Driver Verifier Manager Open, the Easy Way
 
  Driver Verifier Manager is a powerful tool for detecting issues with driver software. Hopefully one of the above methods has helped you open the tool on your system.

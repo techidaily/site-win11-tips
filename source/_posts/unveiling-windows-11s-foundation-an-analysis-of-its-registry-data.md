@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows 11’S Foundation: An Analysis of Its Registry Data"
-date: 2024-09-05T19:39:36.444Z
-updated: 2024-09-06T19:39:36.444Z
+date: 2024-09-11T01:20:45.313Z
+updated: 2024-09-12T01:20:45.313Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Win11RegistryAnalysis,Windows11DataBase,NewOSFoundations,OSRegDataInsi
 thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c462456694222e012226efef555d04fe.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling Windows 11’S Foundation: An Analysis of Its Registry Data
 
  Windows Registry stores your operating system's and third-party programs' configuration settings. Whenever Microsoft hides, removes, or tests an experimental feature, multiple registry tweaking methods pop up, offering a solution for the users. You may have also tried downloading and importing a registry file to the Windows Registry Editor to modify your system's features or settings.
@@ -51,15 +39,51 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 3. Go to the top menu bar in File Explorer and click the **View** button. Then hover on the **Show** option and select the **Preview pane** option from the context menu.  
 ![View the Registry File Contents Using File Explorer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview.jpg)
 4. The File Explorer window will now display a preview pane on the right side. You can adjust the size of the preview pane to make it manageable on a laptop.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Now, click on the registry file you want to preview. The Preview pane will display a loading screen and then display the contents of the registry file. If you're going to copy the contents of the registry file from the Preview pane, select the text, press **Ctrl + C**, and then paste it into a text editor.  
 ![View the Registry File Contents Using File Explorer Preview 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview-2.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Using Windows Notepad
 
  Notepad is an inseparable part of Windows OS; the latest version even supports the tabs feature. So, you can open multiple files without even opening another Notepad window and stacking them side by side. Repeat the following steps:
@@ -82,12 +106,34 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 4. Similarly, you can use the **type** command to open a .reg file in the terminal. The command for that is **type "D:\\e.reg"**.  
 ![View the Registry File Contents Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-cmd.jpg)
 5. After reviewing the file, type **exit** in the Command Prompt window and press **Enter** key to close it.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Using PowerShell
 
@@ -101,12 +147,20 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 ![View the Registry File Contents Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powershell.jpg)
 6. PowerShell will display the contents of the registry file. **Close** the PowerShell window afterward.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Using PowerToys Registry Preview
 
  PowerToys recently launched a new registry file preview feature. You can open and view registry files and change them from the same window. But you must [install PowerToys from GitHub](https://github.com/microsoft/PowerToys) or Microsoft Store to preview the registry file.
@@ -117,46 +171,44 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 2. Click the toggle next to the **Enable Registry Preview** option to enable the feature. Then, click on the **Launch Registry Preview** option.  
 ![View the Registry File Contents Using PowerToys 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-1.jpg)
 3. A new window will pop up. Click on the **Open File** button. Browse to the registry file location and select the file. Click on the **Open** button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The registry file will open in the left-hand side pane of the Registry Preview window. On the right, you will see the corresponding registry key and value that the registry file will change.  
 ![View the Registry File Contents Using PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-2.jpg)
 5. If you want to tweak the registry file, click on the left-hand side and type the changes. Then, you can either save the file or create a new registry file.
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Using Chrome or Any Other Browser
 
  Since the registry file only contains text, you can preview it in Chrome or Edge. Just copy the file path of the registry file. Open Chrome browser, paste the file path in the address bar, and press enter. Chrome will open the registry file in a new tab.
 
 ![View the Registry File Contents Using Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-chrome.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Easily Preview Registry Files on Windows
 
  These were the multiple methods to check the contents of the registry file on Windows 11\. The easiest way to preview the file is using the File Explorer preview pane. Alternatively, you can use the Command Prompt or PowerShell. But if you want to edit the registry file, you can use Notepad or PowerToys Registry Preview feature.

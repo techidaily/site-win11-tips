@@ -1,7 +1,7 @@
 ---
 title: Steps for Correcting Unreachable Windows Network
-date: 2024-09-05T19:38:30.190Z
-updated: 2024-09-06T19:38:30.190Z
+date: 2024-09-11T01:20:46.158Z
+updated: 2024-09-12T01:20:46.158Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Unreachable Windows NW,Window Connectivity Restore,Windows Netlink
 thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d4bbb61a362d901e0200289d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steps for Correcting Unreachable Windows Network
 
  Isn't it frustrating when you're trying to share files on a local network or update your software to the latest version, but you can't?
@@ -27,6 +21,20 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
  One of the main reasons behind such issues is the "network resource unavailable" error. This means that the resource (file) you're trying to access is no longer available for various reasons. Don't worry, as you are not alone in facing this problem.
 
  We'll look closer at the possible solutions to overcome the network resource unavailable error on Windows.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Why Does the Network Resource Unavailable Error Occur?
 
@@ -48,6 +56,20 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 
  But what if your other devices also face the same issue? In such a situation, it's probably a network-wide problem. So, reaching out to your internet service provider (ISP) for help would be wise.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Temporarily Disable Your Firewall and Antivirus
 
  If you can't access a network resource, disable your firewall as well as your antivirus software to see if that fixes the issue.
@@ -55,6 +77,20 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
  Follow our guide on [how to disable the Windows Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for the necessary steps. If disabling the firewall resolves the error, whitelist the resource source first and then re-enable the firewall.
 
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Enable Network Discovery on Your Computer
 
@@ -69,33 +105,23 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 3. Then go to **Advanced network settings > Advanced sharing settings** to access all the network sharing options.  
 ![Network And Internet Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/network-and-internet-settings-preview.jpg)
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
 ![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Clear the DNS Cache on Windows
 
  Clearing the DNS cache removes any outdated or corrupted resource information stored on your computer. This forces your computer to re-establish a new connection and re-fetch the resource without issues.
@@ -106,10 +132,38 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 2. Choose **Terminal (Admin)** from the list. If there's no such option, select **Command Prompt (Admin)**.  
 ![Terminal Admin Option Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/terminal-admin-option-power-menu.jpg)
 3. Type the DNS flush command: **ipconfig /flushdns** and press **Enter**. This will execute the command and clear the DNS resolver cache.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![IpConfig Cmd In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ipconfig-cmd-in-command-prompt.jpg)
 4. Now you can retry sharing files on the network.
 
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Reset the TCP/IP Settings
 
@@ -124,12 +178,20 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 3. Locate the **TCP/IP NetBIOS Helper** service by scrolling down. Use the right-click button and select the **Restart** option.  
 ![Windows Services App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-app-preview.jpg)
 4. Wait for a while till Windows force restarts the service. Once done, disconnect and then reconnect your internet.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
  That's not it! You need to follow some more steps to address this issue.
 
@@ -137,12 +199,6 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 
  After a restart, the changes should take effect, and you may no longer face the network resource unavailable error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clear Outdated ARP Cache
 
  Before moving on to the steps, you must know what the ARP cache is. Simply put, the Address Resolution Protocol (ARP) cache saves a unique identification ID of all the devices within your network. This helps your computer communicate with other devices efficiently.
@@ -158,12 +214,6 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 3. To remove all the outdated ARP cache entries, type in **netsh interface ip delete arpcache** and press **Enter**.  
 ![ArpCache CMD In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/arpcache-cmd-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After completing the steps, your computer will no longer store outdated ARP cache entries.
 
 ## No More Network Resource Unavailability on Windows

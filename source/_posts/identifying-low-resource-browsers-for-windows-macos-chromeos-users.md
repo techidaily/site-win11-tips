@@ -1,7 +1,7 @@
 ---
 title: Identifying Low Resource Browsers for Windows, macOS, ChromeOS Users
-date: 2024-09-05T19:36:17.700Z
-updated: 2024-09-06T19:36:17.700Z
+date: 2024-09-11T01:20:48.197Z
+updated: 2024-09-12T01:20:48.197Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,20 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## How Will the Test Be Conducted?
 
  For easier comparison, we will run the same processes on all browsers and keep them consistent across all devices. A YouTube video, WhatsApp Web, a Reddit video, and a blog-based website will be the processes we will run on each browser.
@@ -30,24 +44,26 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  For example, a browser using more RAM on a Windows device from a specific manufacturer might use less RAM on a device with more efficient RAM. To provide a baseline, we will list the specifications of the devices used in the test.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Which Browser Uses the Least Memory and CPU Resources on a Windows Device?
 
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
 
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -69,6 +85,20 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -83,30 +113,26 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -120,6 +146,26 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## What About Using Less Popular Browsers?
 
  Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
@@ -128,12 +174,6 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  But how can you test which browser consumes the least resources, aside from those we have already tested?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Test Other Browsers' Resource Consumption Yourself
 
  To check how much strain any browser puts on your device's hardware, follow these steps:
@@ -145,12 +185,20 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Use the Most Efficient Browser
 
  Browsers consume the most resources and hinder our user experience the most. Hopefully, our evaluations comparing the resources consumed by different browsers will help you choose the right one for your device. Furthermore, if the less popular browser consumes fewer resources on your device, you might be better off using it.

@@ -1,7 +1,7 @@
 ---
 title: Tips for Fixing Windows Alpha Key Problems (61 Characters)
-date: 2024-09-05T19:39:21.921Z
-updated: 2024-09-06T19:39:21.921Z
+date: 2024-09-11T01:20:45.502Z
+updated: 2024-09-12T01:20:45.502Z
 tags:
   - windows10
   - windows11
@@ -14,23 +14,25 @@ keywords: Windows Alpha Key Repair Tips,Solving Alpha Key Issues,Alpha Key Fault
 thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2f673e094959a8fdb4cdbd5b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for Fixing Windows Alpha Key Problems (61 Characters)
 
  ALT codes are a great way to quickly enter special characters, symbols, and letters into your documents or other text fields. However, sometimes they don't work as expected and can be difficult to troubleshoot.
 
  If you are experiencing problems with ALT codes on your Windows system, there are several steps you can take to try and get them working again. This guide will explain what causes this problem and how to fix it.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## What Causes Windows ALT Codes to Not Work?
 
@@ -50,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
  Doing this should allow you to use ALT codes again, as it will enable you to type characters by clicking the numeric keypad with the mouse cursor. This is especially useful if your laptop does not have a separate number pad or if you’re using a smaller keyboard without one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Modify the System Settings
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
@@ -67,14 +63,36 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 ![Turn On the Mouse keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-on-the-mouse-keys.jpg)
 5. Check the box next to**Only use mouse keys when Num lock is on** .
 
- After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+ After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 3\. Tweak the Registry Editor
 
  If the above solutions do not work, it seems that your registry has an entry that prevents you from adding Unicode characters. In that case, you may need to enable Unicode character input.
@@ -90,12 +108,6 @@ To get started, follow these steps:
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -121,27 +133,43 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. Troubleshoot With a Clean Boot
 
  If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
@@ -158,12 +186,20 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Troubleshooting Windows ALT codes
 
  ALT codes are a useful tool to have when it comes to typing special characters, but outdated software drivers or conflicting background programs may prevent it from working properly. In this case, you can rely on the information above to help you resolve the problem.

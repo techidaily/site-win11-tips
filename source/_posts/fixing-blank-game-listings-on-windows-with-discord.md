@@ -1,7 +1,7 @@
 ---
 title: Fixing Blank Game Listings on Windows with Discord
-date: 2024-09-05T19:34:18.632Z
-updated: 2024-09-06T19:34:18.632Z
+date: 2024-09-11T01:20:49.757Z
+updated: 2024-09-12T01:20:49.757Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Win Games Blank Listings,Clear Empty Game Lists PC,Remove Null Gam
 thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1628ff4b17b2024d943bf02d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Blank Game Listings on Windows with Discord
 
  Are you unable to keep your server members informed of which game you are playing because Discord's game detection feature isn't working on your Windows PC? It usually happens when users mistakenly disable the feature in Discord settings.
@@ -28,18 +22,26 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
  Below, we'll look at various solutions for getting Discord's game detection feature working again.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## But First, Some Preliminary Checks
 
  First, apply these preliminary checks before performing more advanced fixes:
@@ -58,14 +60,36 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
 
- Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Ensure That Discord's Activity Status Feature Is Enabled
 
  Discord attempts to detect your game and show it to your friends only if you enable the activity status feature. When it's off, Discord won't detect the game you're playing. If you've tweaked Discord settings or reset Discord, ensure the activity status feature wasn't accidentally disabled. Follow these steps to confirm:
@@ -74,23 +98,39 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 2. To access **User Settings**, click the **gear icon** in the bottom-left corner.  
 ![Go to Discord User Settings at the Bottom Left Corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-go-to-discord-user-settings-at-the-bottom-left-corner.jpg)
 3. Under **Activity Settings** on the left-hand side, click **Activity Privacy**.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Switch the toggle next to **Display current activity as a status message** to the right.  
 ![Switching the Toggle for Display Current Activity as a Status Message Setting to the Right by Clicking on Activity Privacy under Activity Settings in Discord User Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Switching-the-Toggle-for-Display-Current-Activity-as-a-Status-Message-Setting-to-the-Right-by-Clicking-on-Activity-Privacy-under-Activity-Settings-in-Discord-User-Settings-1.jpg)
 5. Let the changes take effect by relaunching Discord.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+
+
+
+
  Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Rule Out Game Specific Issues
 
@@ -102,18 +142,32 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 2. Right-click on it and select **Properties** from the context menu.  
 ![Clicking on the Properties Option by Right-clicking on the Game’s Executable File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clicking-on-the-Properties-Option-by-Right-clicking-on-the-Game’s-Executable-File-on-Windows-1.jpg)
 3. Go to the **Digital Signatures** tab in the **Properties** window.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the signer's name and click on **Details**.
 5. Click **View Certificate**.
 
  The game is authentic if the certificate is issued to the original developer. If not, it is a cloned copy. Hence, you should purchase an original copy of the game. However, if Discord fails to detect a single or multiple games even though they are authentic, continue applying the remaining fixes.
 
  Discord can't detect game mods, just like it won't detect pirated games. Likewise, if you are using any cheat software to get an advantage in the game, Discord may not detect it due to its real-time file tempering. Considering that, do not modify the game or enable cheat software, and it will help Discord detect your game better.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Update Discord
 
@@ -129,25 +183,21 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 2. Right-click on Discord and click **Check for Updates**.  
 ![Clicking on Check for Updates by Right-clicking on Discord in the Windows System Tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Clicking-on-Check-for-Updates-by-Right-clicking-on-Discord-in-the-Windows-System-Tray.jpg)
 3. Relaunch Discord, and hopefully, the updates will be automatically installed.
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
 ## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
 
  Your antivirus or Windows Defender Firewall can also prevent Discord from detecting the game. Discord won't be able to detect the game if its access to it has been restricted. To rule out this possibility, you must whitelist Discord in the Windows Defender Firewall or antivirus settings.
@@ -166,18 +216,26 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 5. In the box, paste the path to the game's executable file.  
 ![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
 6. Select the game from the search results.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
 
 ## 7\. Reinstall Discord
 
  If none of the fixes work and you get tired of adding the games manually, you can reinstall Discord. So, [uninstall the app from your Windows device](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), visit the [Discord website](https://discord.com/download), and download the app. After downloading, install the app; hopefully, a fresh installation will resolve the issue.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Fix Discord's Game Detection
 

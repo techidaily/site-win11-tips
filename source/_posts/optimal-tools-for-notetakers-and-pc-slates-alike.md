@@ -1,7 +1,7 @@
 ---
 title: Optimal Tools for Notetakers & PC Slates Alike
-date: 2024-09-05T19:42:17.895Z
-updated: 2024-09-06T19:42:17.895Z
+date: 2024-09-11T01:20:43.213Z
+updated: 2024-09-12T01:20:43.213Z
 tags:
   - windows10
   - windows11
@@ -24,12 +24,20 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![OneNote Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/onenote-windows-app-overview.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  OneNote is the first name that often comes to mind when discussing [digital note-taking apps](https://www.makeuseof.com/best-apps-creative-note-taking/). It has a plethora of features, making it perfect for Windows pen tablet users.
 
  While it's impossible to cover every feature of OneNote, here are some key features that might excite you:
@@ -47,16 +55,38 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 **Download:** [OneNote](https://www.onenote.com/download) (Free)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Nebo
 
 ![Nebo Note Taking App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nebo-note-taking-app-overview.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Nebo is another note-taking app that's perfect for pen-tablet users. However, unlike OneNote, which is free, Nebo comes with a price tag of $9.99\. But the real question is, does it justify its cost?
 
  We've tried Nebo on Windows, and it's not your typical note-taking app. The first time you open Nebo, it guides you through its numerous features individually. After the tutorial, it lets you create two types of documents: a note or a document.
@@ -69,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 **Download:** [Nebo](https://apps.microsoft.com/store/detail/nebo/9NBLGGH4NLB0?hl=en-us&gl=us) ($9.99)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Samsung Notes
 
 ![Samsung Notes Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-notes-windows-app-overview.jpg)
@@ -95,34 +119,38 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 **Download:** [Samsung Notes](https://apps.microsoft.com/store/detail/samsung-notes/9NBLGGH43VHV?hl=en-us&gl=us) (Free)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. GoodNotes for Windows
 
 ![GoodNotes For Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/goodnote-for-windows-app-overview.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  We've previously ranked GoodNotes as the [best note-taking app for iPads](https://www.makeuseof.com/tag/best-note-taking-app-ipad-pro/). Now, the same company has brought its expertise to the Windows platform.
 
  Here's a quick rundown of all the helpful GoodNotes features for Windows pen tablet users:
@@ -145,12 +173,26 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![Scrble Ink Windows Note Taking App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scrble-ink-windows-note-taking-app.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Scrble Ink is a premium app (costing $9.99) mainly designed for stylus users. So, if you use a computer with touch support or own a Microsoft Surface laptop, Scrble Ink is perfect for you.
 
  The app provides unlimited canvas for notes, project ideas, and sketches. One of Scrble Ink's standout features is its infinite scroll. It means when you reach the end of the page, the page will auto-scroll, allowing you to continue writing without manually scrolling.
@@ -167,12 +209,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![Bamboo Paper Windows Note Taking App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bamboo-paper-windows-note-taking-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The manufacturers of WACOM pen tablets develop Bamboo Paper. When you begin using it, it asks you to set up a notebook. Then, just like OneNote, it follows a paper notebook approach, where a notebook can contain many different pages (notes).
 
  Bamboo Paper supports many different paper types. You can add drawing and sketching paper, fine textured papers, and vintage design papers, to name a few. Besides, it gives various extraordinary pen tools, like ball pens, crayons, and watercolor brushes.
@@ -183,16 +219,24 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 **Download:** [Bamboo Paper](https://apps.microsoft.com/store/detail/bamboo-paper/9WZDNCRFJ1BH) (Free)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 7\. Xournal++
 
 ![Xournal++ Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xournal-windows-app-overview.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Xournal++ is an open-source note-taking app that surpasses every app in the list (except OneNote) regarding features. While the app looks odd because of an outdated user interface, feature-wise, it gives tough competition.
 
  When you first open it, you'll notice its clean interface. Most features are available in its **Settings** section or inside the tabs on the app ribbon. You can [annotate PDFs](https://www.makeuseof.com/windows-11-annotate-pdfs/), draw advanced shapes, and add text boxes to your notes for an overview.

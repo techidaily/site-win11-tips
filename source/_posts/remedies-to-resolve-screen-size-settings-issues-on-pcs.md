@@ -1,7 +1,7 @@
 ---
 title: Remedies to Resolve Screen Size Settings Issues on PCs
-date: 2024-09-05T19:36:13.614Z
-updated: 2024-09-06T19:36:13.614Z
+date: 2024-09-11T01:20:48.252Z
+updated: 2024-09-12T01:20:48.252Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,20 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  Let's get started.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 1\. Update or Reinstall the Display Drivers
 
  Display drivers (also known as Graphical drivers) are responsible for enabling your computer to accurately display images, videos, and other visual content. However, o​​​​​​utdated or incompatible display drivers can result in poor performance and visual glitches.
@@ -37,12 +51,20 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  In the next window, select **Search automatically for updated driver software**. From there, follow the on-screen instructions to finalize the process.
 
  If the issue persists, update the display drivers using a different approach. For example, select the "Microsoft Basic Display Adapter Driver" option when updating the drivers. Let's check out the steps you need to follow:
@@ -55,40 +77,50 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Selecting the Microsoft Basic Display Adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-the-microsoft-basic-display-adapter.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Alternatively, reinstall the **display adapters** through these steps:
 
 1. Access the display adapters as per the previous steps.
 2. Right-click your PC’s **display adapter** and select **Uninstall device**.
 3. Click the **Action** tab in the top-left corner and select **Scan for hardware changes**. Restart your device to apply these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use Safe Mode, Perform a Clean Boot, Remove Faulty Apps, or Use a System Restore
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In some cases, this issue stems from a corrupted third-party app. So, if you’ve recently installed suspicious software programs, then that’s most likely the root of the problem. And in such an instance, here are the solutions that could help:
 
 * **[Boot into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/)**: When the system is in Safe Mode, your device starts with a basic set of drivers and files essential to run the system. This can help you determine if a third-party program (or an external hardware driver) is the one causing the "grayed-out screen resolution settings" issue.
 * **[Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/)**: When you perform a clean boot, the system starts with a minimal set of drivers and startup programs. Just like Safe Mode, this can also help you determine if a third-party program or hardware driver is the one causing issues.
 * **Update or Remove Faulty Apps**: If you find that a third-party app is the one behind the issue at hand, then update it and see if that helps. Otherwise, remove the app and reinstall it from a reputed site. When deleting a suspicious program, it’s best to [use a reliable third-party uninstaller](https://www.makeuseof.com/windows-10-iobit-uninstaller-batch-uninstall/). This will remove all the residual files that might remain and cause more issues.
 * **[Perform a System Restore](https://www.makeuseof.com/use-system-restore-windows/)**: When you use a restore point, the system will undo recent changes to your system without deleting your files. So if the "inaccessible screen resolution settings" issue is a recent thing, performing a system restore should help.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Uninstall Recently Installed Updates
 
@@ -103,26 +135,8 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Uninstalling Recently Installed Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstalling-recently-installed-updates.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your device will display a list of all the installed Windows updates. Select the update you want to remove and then press **Uninstall**. From there, follow the on-screen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Windows
 
  We've discovered that existing Windows updates might cause the issue at hand, but this isn’t always the case. In other instances, you might bump into this error simply because your system needs to be updated.
@@ -139,12 +153,20 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Checking for Windows PC updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/9-Checking-for-Windows-PC-updates.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Configure the Screen Resolution Settings Using the Intel Graphics Command Center
 
  Still struggling to resolve the "grayed out screen resolution settings" issue? An easy way out could be to configure these settings indirectly using the Intel Graphics Command Center.
@@ -158,18 +180,6 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Configuring the Screen Resolution Settings Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/configuring-the-screen-resolution-settings-using-the-intel-graphics-command-center.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Use Windows' Troubleshooters
 
  You could also tackle the issue at hand by using the [Windows built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/). If this error is due to system maintenance issues, then you should run the System Maintenance troubleshooter. But if you’re dealing with hardware-related issues, then the Hardware and Devices troubleshooter could help.
@@ -190,6 +200,20 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 3. Select the **Additional troubleshooters** option on the right-hand side pane.
 4. Click the **Hardware and Devices troubleshooter** and press the **Run the troubleshooter** button. From there, follow the on-screen instructions and then restart your device.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 7\. Reset Windows
 
  At this point, the inaccessible screen resolution settings error should be resolved. But if the issue persists, then you might need to reset your device.
@@ -204,6 +228,40 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Resetting a Windows computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Resetting-a-Windows-computer.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 8\. Reinstall or Repair the Microsoft Visual C++ Programs
 
  The Microsoft Visual C++ runtime library packages are responsible for ensuring that your Windows device functions properly. If these packages are missing or get corrupted, then your device will likely bump into various issues.
@@ -217,6 +275,20 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 3. Right-click on each **Microsoft Visual C++** program and then select **Change**.
 
 ![Reinstalling or Repairing the Microsoft Visual C++ Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/4-Reinstalling-or-Repairing-the-Microsoft-Visual-C-Programs.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Click **Repair** on the pop-up screen. Finally, follow the on-screen instructions and restart your device to save these changes.
 

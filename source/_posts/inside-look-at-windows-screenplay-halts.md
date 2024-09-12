@@ -1,7 +1,7 @@
 ---
 title: Inside Look at Windows' Screenplay Halts
-date: 2024-09-05T19:37:13.387Z
-updated: 2024-09-06T19:37:13.387Z
+date: 2024-09-11T01:20:47.180Z
+updated: 2024-09-12T01:20:47.180Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Windows Scripting Pause,Windows OS Halt,Screenplay Stop,Gameplay Delay
 thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d42978b0299a0a4d322290d05.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Inside Look at Windows' Screenplay Halts
 
  Do you remember spending hours gazing at your computer screen, endlessly looking at the flying Windows logo or the mysterious 3D pipes? For most people, screen savers are a blast from the past. But older Windows users know how screen savers literally saved their screens from burn-in.
@@ -27,6 +21,20 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
  As time went by, screen savers became obsolete and now it's hard to find them in Windows settings. Your screen might not need a screen saver now, but as a nostalgic Windows user, you sure do.
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## What Are Windows Screen Savers?
 
@@ -38,12 +46,26 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 
 ![crt monitor screen burn in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/crt-monitor-screen-burn-in.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5Famber.JPG)
 
  Shutting down the system to prevent the burn-in wasn't an efficient solution given the time it took a computer and the CRT monitor to power on again.
@@ -58,18 +80,20 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
 
  With the Screen saver dialog box opened, click on the dropdown menu and select any screen saver option other than **(None)**. In Windows 11, the following options are available: 3D Text, Blank, Bubbles, Mystify, Photos, and Ribbons.
@@ -78,19 +102,41 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How to Customize Screen Savers on Windows 11
 
@@ -104,15 +150,23 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![customize windows screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-windows-screen-saver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select Fliqlo from the dropdown menu and hit **Apply > Ok** to save the changes. Also, preview the screen saver to ensure it's working correctly.
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How Have Screen Savers Changed?
 
@@ -124,12 +178,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bringing Back the Old Days With Windows Screen Savers
 
  Although they are now obsolete, you can still choose to set up a screen saver on your Windows machine. LED and LCDs are more prevalent nowadays and outperform the old CRT monitors, but this doesn't mean screen savers won't help them.

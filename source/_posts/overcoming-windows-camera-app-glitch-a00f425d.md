@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Camera App Glitch: A00F425D"
-date: 2024-09-05T19:41:30.488Z
-updated: 2024-09-06T19:41:30.488Z
+date: 2024-09-11T01:20:43.824Z
+updated: 2024-09-12T01:20:43.824Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,20 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
  As a result, users can’t capture video with the Camera app. Error 0xA00F425D has mostly been reported to happen on Windows 10, but that app error can also arise in 11\. This is how to fix error 0xA00F425D in Windows 10 and 11 if you need to resolve this issue.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Run the Camera and Recording Audio Troubleshooters
 
  Windows includes two troubleshooters that can feasibly resolve error 0xA00F425D. The camera troubleshooter specifically addresses webcam issues. Users who’ve fixed error 0xA00F425D have also found running the recording audio troubleshooter can resolve this issue.
@@ -44,32 +46,42 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 3. Click**Run** for the Camera troubleshooter.  
 ![The Run Camera troubleshooter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter.jpg)
 4. Then click**Yes** in the**Get help** window to apply automated troubleshooting.  
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 5. If the Camera troubleshooter doesn’t help much, try selecting**Run** for the Recording Audio troubleshooter.
 6. Select your PC’s microphone device in the troubleshooter.  
 ![A Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recording-audio-troubleshooter.jpg)
 7. Press**Next** to apply the troubleshooting.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Accessing troubleshooters in Windows 10 isn’t quite the same. Select**Update & Security** and Troubleshooter in Windows 10’s Settings app. Then click**Additional troubleshooter** to bring up the window from which you can open the tools. Note that Windows 10 also has an alternative**Speech** troubleshooter that can also resolve microphone issues.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. Enable Your PC’s Microphone
 
  Enabling the microphone is a confirmed solution for error 0xA00F425D. Running the Recording Audio troubleshooter might detect and enable a disabled microphone on your PC. However, you can manually enable your PC’s microphone as follows:
@@ -80,27 +92,63 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 3. Right-click your PC’s device and select**Enable device** if it’s disabled.  
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-device-option.jpg)
 4. Press**Windows** logo +**I** to go into Settings, and select**Privacy** there.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Microphone** to access settings for that device.
 6. Turn on the**Microphone access** (or**Allow apps to access your Microphone**) option.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
 
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 3\. Plug an External Webcam Into an Alternative USB Port
 
  This potential error 0xA00F425D fix is for users who utilize external webcams with the Camera app. Some people have said they resolved error 0xA00F425D by plugging their external webcams into an alternative USB 2.0 port on their PCs. It's worth a try if you use an external camera for recording.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Edit the Registry’s Platform Keys
 
  Users have also been able to get error 0xA00F425D fixed by editing two different Platform keys in the registry. This registry solution involves creating new EnableFrameServerMode DWORDs for those keys. You can apply that registry tweak within Windows 10 and 11 in the following steps:
@@ -115,12 +163,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
@@ -129,12 +171,34 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
 
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 5\. Update Your Webcam’s Driver
 
  Another possible reason for error 0xA00F425D occurring is that your webcam’s driver is outmoded or faulty. You can check if your webcam’s driver is outdated or corrupted by running a scan with Driver Booster or alternatives. Our guide on[how to update your drivers using Driver Booster](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) tells you how to utilize that utility, or you can utilize alternatives included in our[best free driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) guide.
@@ -143,32 +207,8 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/driver-booster.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clean Boot Your PC
 
  To prevent software conflicts that could potentially cause error 0xA00F425D, try setting Windows 11/10 to clean boot. Doing so will disable third-party apps and services from starting with Windows. Check out our guide about[clean booting on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for details about how to apply this potential solution by disabling such startup items with Task Manager and MSConfig.
@@ -182,6 +222,40 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Deleting your PC’s most recent Windows update would fix the error if that’s the case. You can apply such a potential resolution by manually uninstalling the latest update listed in the Control Panel’s Programs and Features applet. Our guide to[uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) includes step-by-step instructions for how to do that.
 
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Record Videos With the Camera App Again
 

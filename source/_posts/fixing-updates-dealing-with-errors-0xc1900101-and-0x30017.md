@@ -1,7 +1,7 @@
 ---
 title: "Fixing Updates: Dealing with Errors 0xC1900101 and 0X30017"
-date: 2024-09-05T19:34:53.516Z
-updated: 2024-09-06T19:34:53.516Z
+date: 2024-09-11T01:20:49.319Z
+updated: 2024-09-12T01:20:49.319Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,26 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 
  The following sections discuss the possible causes and troubleshooting methods for this error. Select the troubleshooting method that is most appropriate for your situation and proceed with it.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## What Causes the 0xC1900101 – 0x30017 Error?
 
  Here are some common reasons behind the update error under consideration:
@@ -46,6 +60,20 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -60,48 +88,66 @@ Here is how you can do that:
 
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Rule Out Corruption Issues
 
  The next thing that we recommend doing is scanning the system for corruption issues using the built-in troubleshooting utilities in Windows.
 
  To fix this, we will be using the Windows update troubleshooter, System File Checker, and DISM to find potential issues. Additionally, these utilities will resolve most of the problems they find on their own.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### 3.1 Use the Windows Update Troubleshooter
 
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
 
  Once the troubleshooter has finished scanning, check if any issues are identified. If so, the troubleshooter will recommend fixes that can resolve the issue. Click on**Apply this fix** to proceed. In case the utility fails to identify the issues, click on Close the troubleshooter and move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.2 Run SFC and DISM Scans
 
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
 
  As the name suggests, the System File Checker scans the protected system files for problems and replaces the unhealthy file components with their cached counterparts. DISM, on the other hand, is responsible for repairing a corrupt system image.
@@ -120,12 +166,6 @@ Here is how you can do that:
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Your BIOS
 
  Finally, the issue can also be caused due to a bug or corruption issues within the BIOS. Fortunately, you can resolve most of these issues by updating the BIOS to the latest available version.
@@ -134,12 +174,20 @@ Here is how you can do that:
 
  Different motherboard manufacturers have different instructions for this, so we recommend visiting the manufacturer's website for more information. Keep in mind, this can be a nerve-wracking and time-consuming process, so only proceed when you have enough time to spare.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Now You Can Upgrade Windows to the Latest Build
 
  By now, you should be able to upgrade your operating system to the latest available version. In case nothing the troubleshooting methods above do not help, we recommend proceeding with a clean installation. This will automatically upgrade the system without any errors during the procedure.

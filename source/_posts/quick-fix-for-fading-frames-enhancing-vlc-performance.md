@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Fading Frames: Enhancing VLC Performance"
-date: 2024-09-05T19:41:51.800Z
-updated: 2024-09-06T19:41:51.800Z
+date: 2024-09-11T01:20:43.544Z
+updated: 2024-09-12T01:20:43.544Z
 tags:
   - windows10
   - windows11
@@ -14,48 +14,18 @@ keywords: VLC Frame Quality,Fast Frame Repair,Improve VLC Image,Optimize Video P
 thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b31e78a51ee237f509439d21.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Fix for Fading Frames: Enhancing VLC Performance
 
  VLC is a popular media player app among Windows users, owing to its versatility, ease of use, and support for a wide range of file formats. However, like most apps, VLC can sometimes disappoint you with strange issues. One example is when it fails to play your videos smoothly and constantly lags.
 
  Fortunately, there’s no need to settle for a subpar experience as it is possible to fix this annoying issue. Here we show you seven easy ways for fixing video lag in the VLC media player for Windows.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check the File Format
 
  Although VLC media player supports nearly every popular video format available, it does not support them all. If the video you're attempting to play is in an unsupported format, you may experience lag.
 
  You can[visit VLC's official webpage](https://www.videolan.org/vlc/features.html) to check all the file formats it supports. If your video is in an unsupported format, you’ll have to convert it first. If you need help with that, check our guide on[how to convert videos for free](https://www.makeuseof.com/how-to-convert-video-files-free-winx-video-converter/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable Hardware Acceleration
 
  The hardware acceleration feature in VLC uses your GPU to accelerate the decoding process and achieve a smoother video playback. Nevertheless, there are instances when this feature malfunctions, causing videos to stutter in the VLC media player.
@@ -82,19 +52,21 @@ Restart the VLC app after this and see if the video plays smoothly.
 5. Select**High performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Disable In-Loop Deblocking Filter
 
@@ -104,6 +76,20 @@ Restart the VLC app after this and see if the video plays smoothly.
 2. Switch to the**Input / Codes** tab.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Change the Caching Value
 
@@ -120,18 +106,20 @@ Restart the VLC app after this and see if the video plays smoothly.
 7. Click the**Save** button.  
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. Reset the VLC Preferences
 
  VLC allows you to customize a number of settings and preferences that affect its behavior. However, if some of these preferences in the VLC app are not configured correctly, it could cause it to misbehave on Windows. Instead of going through each of your preferences one by one, it's easier to reset them all and start over.
@@ -146,12 +134,20 @@ To reset your VLC media player preferences, use these steps:
 
 Restart the VLC media player and check if the videos still lag.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 7\. Update or Reinstall VLC Media Player
 
  App updates are critical for any app, and VLC is no exception. If the video playback issues in the VLC media player are caused by a bug, installing newer updates should help.
@@ -162,12 +158,20 @@ To check for pending updates in the VLC media player:
 2. Click the**Help** menu at the top and select**Check for Updates** .  
 ![Check for Updates in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-for-updates-in-vlc.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If an update is available, follow the on-screen prompts to install it. After that, videos should play smoothly on Windows.
 
  If updating the VLC media player doesn't help, it's possible that some of its core app files are corrupt. In that case, you can consider uninstalling and reinstalling the VLC media player as a last resort. For that, use the following steps:
@@ -179,20 +183,36 @@ To check for pending updates in the VLC media player:
 5. Select**Uninstall** once again to confirm.  
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
 
- Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
  Such issues with the VLC app can ruin your experience. Hopefully, the solutions above have helped you resolve the video lag issue in VLC for Windows, and you are now at ease.

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Issues with Windows Character Map Functionality
-date: 2024-09-05T19:33:07.990Z
-updated: 2024-09-06T19:33:07.990Z
+date: 2024-09-11T01:20:50.692Z
+updated: 2024-09-12T01:20:50.692Z
 tags:
   - windows10
   - windows11
@@ -33,12 +33,20 @@ In order to check for available Windows updates, follow these steps:
 
  If you already have the latest version of your computer, try restarting your computer. It can often resolve small issues and is a great way to troubleshoot any problems you may experience with software or applications.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. Run the SFC and DISM Scan Tools
 
  Another way to fix this issue is to run the System File Checker (SFC) tool. This is a built-in Windows utility that scans your files and repairs any corrupted or missing ones. It also checks for incompatible software programs and hardware drivers that may be causing issues with your system.
@@ -50,12 +58,26 @@ To run the system file checker tool, follow these steps:
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The scan will take several minutes to complete, and your computer may restart several times along the way.
 
  After the SFC scan is complete, run Deployment Image Servicing and Management (DISM). This command will repair corrupted system images and restore system files. The steps are as follows:
@@ -66,12 +88,20 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 
  The process may take a while to complete. After executing the DISM command, restart your computer to check if it has resolved the issue.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Uninstall the Latest Windows Update
 
  If you've recently updated your Windows to the latest Windows version and are experiencing trouble accessing the Character Map, uninstall it. The process of uninstalling a Windows update is straightforward and simple. Here's how you do it:
@@ -81,14 +111,22 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 3. From there, select**View installed updates** in the left sidebar.  
 ![View installed updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/view-installed-updates.jpg)
 4. Look for the most recent Windows update that you installed.
-5. Once you find it, uninstall it.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+5. Once you find it, uninstall it.
+
 ## 4\. Perform a Clean Boot
 
  If you have the latest Windows version but still find your Character Map isn't working, try performing a Clean Boot. This is a process of starting Windows with a minimal set of drivers and startup programs to identify conflicts between programs or services. Here's how to do this:
@@ -100,6 +138,20 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 5. Uncheck the box labeled**Load startup items** .  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 6. Click on the**Services** tab.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 7. Select the**Hide all Microsoft services** box, then click**Disable all** .
 8. Click**Apply** to save the changes.
 9. Go to the**Startup** tab and click**Open Task Manager** .  
@@ -109,28 +161,24 @@ DISM /Online /Cleanup-Image /ScanHealthDISM.exe /Online /Cleanup-image /Restoreh
 
  After you've completed these steps, restart your computer to see if it fixes the problem.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Create a New User Profile
 
  When none of the above solutions work, check out[how to set up a new user profile on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) . This will create a separate account with its own settings, files, and applications that can help resolve conflicts with existing data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Character Map's Opening Issues
 
  It's common to have issues with the Character Map on your computer, but fortunately, the information above will help. If none of these solutions work, you can try performing a factory reset. Your computer will start over from scratch and corrupt files will be removed.

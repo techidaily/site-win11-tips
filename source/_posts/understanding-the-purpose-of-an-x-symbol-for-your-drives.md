@@ -1,7 +1,7 @@
 ---
 title: Understanding the Purpose of an X Symbol for Your Drives
-date: 2024-09-05T19:38:05.894Z
-updated: 2024-09-06T19:38:05.894Z
+date: 2024-09-11T01:20:46.497Z
+updated: 2024-09-12T01:20:46.497Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,20 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  Other possible causes for this issue include misconfigured OneDrive settings, issues with Windows File Explorer, or broken icons. If you're sick of seeing these circles, this article will show you how you can remove them.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Before We Get Started…
 
  First, perform the following preliminary checks, as they may help you get to the bottom of the problem:
@@ -32,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  If the above checks do not assist in pinpointing the cause, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Log Into OneDrive and Begin Syncing
 
  Find the OneDrive icon at the right end of the taskbar, also known as the notification area or system tray. Seeing a red cross or slanted dash on the OneDrive icon means you are no longer logged in to OneDrive, and your files are not being synced. So, you'll need to sign in again to begin syncing. To do that, follow these steps:
@@ -46,30 +54,46 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 2. Click the**Sign in** button.  
 ![Click on the Sign in Button to Log in to Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-sign-in-button-to-log-in-to-microsoft-onedrive.jpg)
 3. Enter the email address associated with your Microsoft account and click**Sign in** . If you want to sync your data to a OneDrive account created with the same Microsoft account you are using on your device, you won't have to enter a password. If it's different, you may need to enter a password.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
 4. Choose a OneDrive folder location or click**Next** to use the default location.  
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
 5. Then, follow a few on-screen instructions to log into OneDrive.
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+
+
+
+
  After logging in, reboot your device. Hopefully, a fresh sync will resolve the issue with the folder icons. But how do you proceed if you're already logged in to OneDrive?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 2\. Relink Your OneDrive Account
 
@@ -83,30 +107,40 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 7. After unlinking the account, open Windows File Explorer or the folder where you see a red circle with a white cross.
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
+
 ## 3\. Change OneDrive Settings
 
  If you see cross-hatched red circles beside files or folders when using a metered connection or battery-saving mode, you've probably configured OneDrive not to sync files in these scenarios. So, you should change these settings if that's the case. To do that, follow these steps:
@@ -115,14 +149,42 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 2. On the left sidebar, right-click on**OneDrive** and click**Show more options** .  
 ![Click on the Show More Options to Expand Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-the-show-more-options-to-expand-context-menu.jpg)
 3. Select**Settings** from the context menu.  
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
@@ -140,12 +202,20 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
@@ -159,25 +229,47 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 3. Navigate to**Installed apps** or**Apps and Features** from the right pane.  
 ![Go to Installed Apps in Apps Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/11-go-to-installed-apps-in-apps-tab-of-windows-settings-app.jpg)
 4. In the**Search apps** field, type**"OneDrive."**
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
 6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Get Rid of Red Circles on Your Windows Folders
 
  Seeing red circles on Windows folders gives the impression that your computer has a severe problem. Hopefully, now you understand why these annoying cross signs appear on your folders. In addition, the fixes discussed in the article will help you resolve this annoying problem.

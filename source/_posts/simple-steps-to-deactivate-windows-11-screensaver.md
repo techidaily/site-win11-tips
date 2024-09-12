@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Deactivate Windows 11 Screensaver
-date: 2024-09-05T19:40:03.697Z
-updated: 2024-09-06T19:40:03.697Z
+date: 2024-09-11T01:20:44.941Z
+updated: 2024-09-12T01:20:44.941Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
  Call it a personal observation, but the lock screen adds an extra step to the login process. So, if you want to remove the lock screen and go directly to the logon screen in Windows 11, this post will offer many methods to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Consider Disabling Your Lock Screen?
 
  The Windows lock screen is the first barrier to getting to the desktop. It displays a background image, date and time, and app notifications. But if you don't want to see any of those things, then disabling it makes sense. After removing the lock screen, you can go straight to the desktop after entering your PIN/Password. You can also set up a lock screen-free computer for a public computer.
@@ -33,6 +27,20 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
  Disabling the lock screen doesn't remove the logon screen. You still have to input the PIN/Password to enter the system. You can also remove the PIN/Password requirement on the logon screen to go to the desktop faster (and if privacy isn't a concern).
 
  Now, you are aware of the pros and cons of disabling the lock screen. Here are the four easy methods to disable the lock screen on Windows 11.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 1\. Use the Group Policy Editor
 
@@ -46,23 +54,25 @@ Here's how to disable the lock screen using Group Policy:
 4. Double-click on the**Do not display the lock screen** option in the Personalization options.  
 ![Group policy editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-1-1.jpg)
 5. A new window with detailed settings for the option will open. The**enabled** option will be active by default which means that the lock screen is active.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click on the**Disabled** Radio button to disable the lock screen on your system.  
 ![Disable lock screen settings in Group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-2.jpg)
 7. Now, click on the**Apply** button and click the**OK** button to finalize the changes.
 8. You need to restart your system. You will notice that there is no lock screen, and you enter the login screen straight away.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. Use the Registry Editor
 
  You can also disable the lock screen on Windows by tweaking the registry settings. But make sure to export a copy of your registry for safety purposes. It will help you revert to the previous registry settings in case of corruption. Check our detailed guide on[how to perform a registry backup](https://www.makeuseof.com/windows-11-automatic-registry-backups/) for more info.
@@ -74,12 +84,20 @@ Here's how to remove the lock screen through the registry:
 3. Navigate to the left-hand panel and right-click on the**Windows** key. Then select**New > Key** and name it**Personalization** .  
 ![Creating a new key in Registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Registry-editor-lockscreen-1.jpg)
 4. Right-click on Personalization and select**New > DWORD (32-bit) Value** . Name it as**NoLockScreen** .
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 5. Double-click on the**NoLockScreen** value and set the**Value Data** to**1** . Keep the base hexadecimal.
 6. Click on**OK** to apply changes and**Restart** your system. You won't see the lock screen when your computer boots up.  
 ![Adding a DWORD value in Registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Registry-editor-lockscreen-2.jpg)
@@ -97,12 +115,34 @@ Follow these steps to remove the lock screen with this tool:
 3. Find the**Disable Lock Screen** option under the**Boot and Logon** section. Click on the**Disable Lock Screen** checkbox.  
 ![Disable lock screen in Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-2.jpg)
 4. Now,**Restart** your system to apply the changes. You will notice that the lock screen doesn't appear anymore.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. Use Ultimate Windows Tweaker
 
@@ -116,22 +156,38 @@ Follow these steps to remove the lock screen with this tool:
 4. Click on the**Search for Tweaks** option. Type**disable lock screen** and press the**Enter** key.  
 ![Ultimate Windows Tweaker Search tool running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ultimate-windows-tweaker-search-tool.jpg)
 5. Double-click on the search result and the corresponding setting will appear in the app. Close the search window.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 6. Click on the**Disable Lock Screen** checkbox. Then, click on the**Apply Tweaks** button and close the program.  
 ![Disabling Lock Screen in Ultimate Windows Tweaker on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-lock-screen-in-ultimate-windows-tweaker.jpg)
 7. Press**Win + L** to log off. The Windows logon screen will appear instead of the usual lock screen.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Disable the Lock Screen and Log In Faster
 
  Using the Group Policy Editor is a bit of a learning curve. Moreover, Windows Home users do not have access to it. So, you can try out the registry tweak to disable the lock screen on Windows 11\. But if you want a GUI tool that helps you customize Windows, then Winaero Tweaker and Ultimate Windows Tweaker are both useful free app alternatives.

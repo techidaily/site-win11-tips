@@ -1,7 +1,7 @@
 ---
 title: "Enriched Desktop Features: Real-Time Performance Indicators"
-date: 2024-09-05T19:35:34.131Z
-updated: 2024-09-06T19:35:34.131Z
+date: 2024-09-11T01:20:48.772Z
+updated: 2024-09-12T01:20:48.772Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add System Resource Usage Details to the System Tray With Task Manager
 
  Task Manager adds one small system resource icon to the system tray that shows RAM (system memory), CPU (central processor), network, and disk drive utilization when running. However, that icon will only be visible in the system tray when you have Task Manager open on the taskbar unless configured otherwise. You can keep those system resource details in the system tray without having Task Manager open on the taskbar as follows:
@@ -35,18 +29,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 3. Select the **Hide when minimized menu** option.  
 ![The Hide when minimized option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/hide-when-minimized.jpg)
 4. Click Task Manager’s **Minimize** button.
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Selecting to minimize Task Manager will now effectively close that utility’s window, but its PC resource usage details will remain visible within the system tray. Move your cursor over the small square icon in the system tray to view a tooltip showing RAM, CPU, network, and disk utilization for your PC. Clicking that system tray icon reopens the Task Manager window on its graphical **Performance** tab.
 
@@ -54,18 +36,26 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
  Task Manager only adds one PC resource usage icon to the system tray, which is a little limited. You can add four separate RAM, CPU, network, and disk usage indicators to the system tray with Performance Monitor. That software also includes customization settings for each icon. Here's how you can add system resource usage information to your system tray with Performance Monitor.
@@ -79,17 +69,25 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 7. You’ll now see one CPU resource icon in the system tray area or overflow menu. To add the others, right-click the CPU icon and select the **Memory** tab.  
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
 
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
 
@@ -97,24 +95,34 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
 
  System Explorer is a third-party [software alternative to the Task Manager](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) you can add to Windows. That software adds more detailed PC resource usage info to the system tray than Task Manager.
@@ -127,16 +135,24 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 4. Select the **Express** radio button.  
 ![The Express Installation radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-express-installation-option.jpg)
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
 
@@ -147,6 +163,20 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 

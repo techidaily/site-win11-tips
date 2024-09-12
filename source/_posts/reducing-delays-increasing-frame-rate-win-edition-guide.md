@@ -1,7 +1,7 @@
 ---
 title: "Reducing Delays, Increasing Frame Rate: Win Edition Guide"
-date: 2024-09-05T19:40:50.995Z
-updated: 2024-09-06T19:40:50.995Z
+date: 2024-09-11T01:20:44.304Z
+updated: 2024-09-12T01:20:44.304Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fast Frame Gain,Faster Screenplay,Delay Lessons,Speedier Frames,Quick 
 thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8ecd95c240012aa4c932f917.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reducing Delays, Increasing Frame Rate: Win Edition Guide
 
  Is Roblox constantly lagging and stuttering on your Windows device? Does its frame rate drop significantly during gameplay? The lag in Roblox is typically caused due to low-end hardware that barely meets the game's requirements.
@@ -28,18 +22,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Here are some practical tips to fix the delay in Roblox and improve your gaming experience.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Ensure the Frame Rate Is Actually Low
 
  First, ensure that the frame rate is actually low in Roblox; you can check this using Roblox's in-game FPS counter. To check the game's FPS, you simply have to press the**Shift + F5** keys.
@@ -50,12 +32,26 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
  Upon finding the Fn key, see if its light is on. If you see the key glowing, it means that the Fn key is on and function keys are already enabled. If the key's light is off, then it is disabled. If it's off, press the**Fn** key to turn it on again. Then, press the same key combination (**Shift + F5)** again to see the frame rate.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. Always Run Roblox as Administrator
 
  When a process is run as an administrator, it takes precedence over other tasks. Due to this, your hardware allocates most of its resources to this specific process rather than to other processes running in its parallel.
@@ -64,24 +60,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Free Up System Resources to Support Roblox
 
  Despite Roblox being prioritized over other processes when running as administrator, other graphics-intensive applications running in parallel with it will continue to consume system resources. So, you need to take this extra burden off the hardware. This way, you can dedicate system resources exclusively to Roblox, which will significantly boost FPS.
@@ -94,12 +72,20 @@ To remove this unnecessary burden from your GPU, follow these steps:
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Change Graphics Quality
 
  Lowering the graphics quality in the Roblox settings is the easiest way to reduce lag and improve FPS. While it will inevitably degrade the visual quality, it will significantly improve overall game performance.
@@ -108,24 +94,46 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Settings in the Roblox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-in-the-roblox-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here, change the**Graphics Mode** to**Manual** and reduce the**Graphics Quality** by clicking on the minus sign.
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
 
- Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 5\. Put Roblox on High-Performance Graphics Mode
 
  Windows lets users change graphical power preferences for their apps and games. They can choose between three performance settings:**Power Saving** ,**High Performance** , and**Let Windows Decide** . Putting Roblox on high performance will increase power consumption and may strain your GPU more, but it will boost the game's FPS and reduce lag.
@@ -138,6 +146,34 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 6\. Change the Power Plan Settings
 
  Windows comes with two main power plans:**Balanced** and**High Performance** . The former power plan is preferred for laptops because it balances performance with energy consumption. In contrast, the high-performance plan consumes more power but delivers the best performance.
@@ -148,13 +184,21 @@ To remove this unnecessary burden from your GPU, follow these steps:
 2. If it isn't already selected, check the circle beside**High Performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 7\. Turn Off Visual Effects
 
@@ -170,12 +214,20 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 8\. Check for Internet Issues
 
  A slow or unstable internet connection can also cause Roblox to lag. The following tips will help you determine if your internet is causing the problem:
@@ -184,6 +236,20 @@ To remove this unnecessary burden from your GPU, follow these steps:
 * Disconnect other devices connected to your internet connection. This will ensure that your device receives the maximum bandwidth possible.
 * Even though there isn't much evidence to support this, changing the DNS settings can reduce latency slightly, which can reduce lag in online games.[Change the DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) and see if it improves Roblox's performance.
 * If available, use an Ethernet cable to connect your device to the internet, as it helps establish a stable connection.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Play Roblox Lag-Free and Get Better FPS on Windows
 

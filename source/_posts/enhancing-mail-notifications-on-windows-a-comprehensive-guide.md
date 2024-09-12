@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Mail Notifications on Windows: A Comprehensive Guide"
-date: 2024-09-05T19:39:52.355Z
-updated: 2024-09-06T19:39:52.355Z
+date: 2024-09-11T01:20:45.112Z
+updated: 2024-09-12T01:20:45.112Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,26 @@ keywords: Mail Alerts Windows Guide,Windows Notification Settings,Enhanced Email
 thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3f589c4c694fba40159c8b6c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Mail Notifications on Windows: A Comprehensive Guide
 
  Mail is a built-in Windows application that supports all popular accounts, including Outlook, Hotmail, Yahoo, Gmail, and iCloud. It also keeps you up to date with your most recent emails by sending you timely notification alerts. However, when those notifications stop working, you could miss out on important or urgent mail.
 
  If this happens to you, here are some effective troubleshooting tips that will help you fix the problem.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Check the In-App Notification Settings
 
  Your first step is to make sure that you haven't turned off notifications from the Mail app.
@@ -49,6 +51,20 @@ To access notification settings in the Mail app:
 
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Enable Mail App Notifications From Windows Settings
 
  Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned[how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
@@ -60,18 +76,20 @@ To access notification settings in the Mail app:
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -85,12 +103,20 @@ To access notification settings in the Mail app:
 7. Under**Sync options** , enable the toggle for**Email** .  
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Allow the Mail App to Run in the Background
 
  Windows lets you decide which apps and programs can run in the background. If you have denied the Mail app permission to run in the background, you will not receive notifications unless the app is open.
@@ -105,24 +131,34 @@ To access notification settings in the Mail app:
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -135,6 +171,20 @@ To access notification settings in the Mail app:
 
 Once removed, restart the Mail app and add your account again.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 6\. Turn Off Focus Assist
 
  Focus Assist is a handy Windows feature that mutes notifications for all apps unless specified otherwise. If you’ve enabled this feature, you will not receive notifications from any apps, including the Mail app.
@@ -146,18 +196,6 @@ Once removed, restart the Mail app and add your account again.
 3. Set the Focus Assist to**Off** , so you get all notifications.  
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
  If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
@@ -172,6 +210,20 @@ Once removed, restart the Mail app and add your account again.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 8\. Repair or Reset the Mail App
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
@@ -183,19 +235,21 @@ Once removed, restart the Mail app and add your account again.
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 9\. Update the Mail App
 
@@ -203,12 +257,6 @@ Once removed, restart the Mail app and add your account again.
 
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Mail App Notifications on Windows
 
  The Mail app notification issues can occur due to various factors, ranging from incorrectly configured settings to a faulty app update. In any case, going through the above-mentioned fixes should get the Mail app notifications to work again on Windows.

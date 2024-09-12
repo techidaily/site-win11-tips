@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Windows Downloads for a Smoother Valorant Experience
-date: 2024-09-05T19:41:41.004Z
-updated: 2024-09-06T19:41:41.004Z
+date: 2024-09-11T01:20:43.695Z
+updated: 2024-09-12T01:20:43.695Z
 tags:
   - windows10
   - windows11
@@ -14,30 +14,12 @@ keywords: Valorant Win Download Speed,Fast Valorant Launch,Accelerate Valorant P
 thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8cef68212efe6eba279207bd77.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Turbocharge Windows Downloads for a Smoother Valorant Experience
 
  Valorant is a popular first-person hero shooter developed by Riot Games, so there are always new people downloading the game for the first time. However, for many users, the Valorant download gets stuck on an excruciatingly slow download rate of 0.1KB/s.
 
  If you also encounter the same problem, consider trying the below solutions to resolve the issue for good.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does Valorant's Download Get Stuck on 0.1KB/s?
 
  A weak internet connection is one of the primary reasons why Valorant downloading gets stuck on 0.1KB/s. However, it's not the only potential cause. There are many more culprits that can be responsible for the problem:
@@ -48,28 +30,24 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  Thankfully, you can quickly resolve the problem with a few simple fixes.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. Restart the Download
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
  The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
@@ -86,16 +64,24 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 2. Right-click on Discord and choose**End Task** from the context menu.  
 ![End task option to close Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Along with Discord, you can also consider closing all other network-consuming applications like Chrome and Spotify from the background.
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Switch to Google's DNS Server
 
  The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
@@ -108,25 +94,47 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 4. Click on**Edit** next to**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 6. As per your DNS provider, choose**IPv4** or**IPv6** .
 7. If you choose IPv4, enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers** , respectively.
 8. If you choose IPv6, enter**2001:4860:4860::8888** and**2001:4860:4860::8844** in**Preferred** and**Alternate DNS servers** , respectively.  
 ![Edit DNS settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/IPv6-settings.jpg)
 9. Click on Save.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if you are still facing the problem.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
 
@@ -137,6 +145,20 @@ Check if you are still facing the problem.
 3. Checkmark both**Private** and**Public** boxes next to**Riot Client** .  
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
@@ -150,6 +172,26 @@ Check if you are still facing the problem.
 
  After that, follow the on-screen instruction to complete the uninstallation process.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 7\. Flush the DNS Cache
 
  The DNS cache stores data of all your computer's DNS queries for future use. However, if the DNS cache gets corrupt for some reason, it can cause connection issues.
@@ -160,12 +202,6 @@ Check if you are still facing the problem.
 2. Type**ipconfig /flushdns** and press Enter.  
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/flushdns-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait until you see the message "Successfully flushed the DNS Resolver Cache." After that, reboot the system and check for the problem.
 
 ## 8\. Update Your Network Drivers
@@ -193,14 +229,42 @@ Here are the steps you need to follow.
 3. Right-click on**RiotClientServices.exe** , hover the cursor to**Set priority** , and choose**High** from the context menu.  
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
- Relaunch the client, and you will notice that you are no longer facing the problem.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Relaunch the client, and you will notice that you are no longer facing the problem.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 10\. Reset the Network Settings
 
  Sometimes your current network settings can be the reason behind slow downloading in different applications, including Valorant. To fix this, you'll have to reset the network settings, which will reinstall the network adapters, and configure other network services back to their default values.
@@ -211,12 +275,34 @@ Here's how to reset the network settings:
 2. Click the**Reset now** button next to**Network reset** .  
 ![Reset now button in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button-1.jpg)
 3. Click**Yes** to the UAC that crops up.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Valorant Downloading Issue Fixed
 

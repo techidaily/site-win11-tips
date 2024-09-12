@@ -1,7 +1,7 @@
 ---
 title: "Reactivate Dormant Slack Notifications: A Quick Fix Guide for Win 11"
-date: 2024-09-05T19:41:23.182Z
-updated: 2024-09-06T19:41:23.182Z
+date: 2024-09-11T01:20:43.914Z
+updated: 2024-09-12T01:20:43.914Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,26 @@ keywords: Reactivate Slack Alerts,Win 11 Notification Fix,Resume Slack Notificat
 thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reactivate Dormant Slack Notifications: A Quick Fix Guide for Win 11
 
  Slack is a popular messaging app that lets you communicate and collaborate with your team more efficiently. However, you might miss important messages from your team if Slack is not sending notifications on your Windows computer.
 
  You can do a few things to troubleshoot this problem, and this guide is all about that. Here, we’ll explore eight ways to fix Slack notifications not working on Windows 11\.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Why Is Slack Not Sending Message Notifications on Windows?
 
  There could be several reasons why Slack is not sending message notifications on Windows. Among these, the most common ones are listed below:
@@ -47,37 +49,47 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Restart button in Shut Down Windows prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before trying any complex solutions, make sure to restart your computer at least once. This will eliminate any bug or glitch that might be causing the issue.
 
  To restart, press the **Alt + F4** hotkey, choose **Restart** from the drop-down menu, and click **OK.** After the restart, request a colleague to send you a message on Slack and check whether you receive its notification on your system. If the notification still doesn't come through, proceed to the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check the Slack Server Status
 
 ![Slack server status on it server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/slack-server-status.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Like any online [messaging application for desktop](https://www.makeuseof.com/best-all-in-one-messaging-platforms/), Slack's servers can experience occasional downtime. This could stem from maintenance procedures or fixing server-related issues. Various Slack services, including its notification delivery function, might experience disruptions during these situations.
 
  Therefore, if Slack is not sending notifications, make sure to check the [Slack server status page](https://status.slack.com/). If it says there’s an issue, the server team will certainly fix it in due time, and there’s nothing much you can do.
 
  However, if the Slack servers are operational and you still encounter the problem, it's possible that the Windows Focus session feature is involved.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Stop Focus Sessions on Windows
 
@@ -89,6 +101,20 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Choose **System** from the left sidebar and **Focus** from the right pane.
 3. Click the **Stop** **focus** **session** button.  
 ![Stop focus session button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-focus-session-button.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  And that’s about it. Check if you now receive notifications on Slack.
 
@@ -109,6 +135,20 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 3. Click the **Add** **ap** **ps** button and choose **Slack** from the list of installed apps that crops up.  
 ![Add apps button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-apps-button.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  That's it! Windows will now display Slack notifications even when the Do not disturb mode is active.
 
 ## 5\. Allow Slack to Send Notifications
@@ -120,14 +160,22 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 3. Enable the toggle underneath **Notifications**.  
 ![Notifications toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/notifications-toggle.jpg)
 
- Now, Windows will show all the notifications from Slack in its notification center.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Now, Windows will show all the notifications from Slack in its notification center.
+
 ## 6\. Change Slack Settings
 
  Another potential reason for the issue could be incorrect Slack settings. You'll have to correctly configure Slack settings to receive its message notifications on your computer.
@@ -137,21 +185,37 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 1. Open Slack, click your **profile icon** at the top bar, and choose **Preferences**.  
 ![Preferences option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preferences-option.jpg)
 2. Choose **Notifications** from the left sidebar and select **Direct messages, mentions &** **keywords**. You can choose **All new messages** if you want to get notified about the messages from all channels.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![Direct messages, mentions & keywords option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-messages-mentions-keywords-option.jpg)
+
  Furthermore, you must resume notifications if you have put them on pause. To do that, click your profile icon, hover your cursor to **Pause notifications**, and click **Resume notifications.**
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 7\. Clear Slack Cache Data
 
@@ -161,20 +225,8 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![Clear Cache and Restart option in Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-cache-and-restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Slack will now clear its cache data and restart automatically. Once it has restarted, check to see if Slack is sending notifications. If not, you may need to reset Slack's data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Your Slack App's Data
 
  Are you still not receiving notifications from Slack on Windows? If so, an issue with your user profile is likely causing the problem. To fix this, you'll need to reset your Slack data. This will sign you out of all your workspaces and reset the app to its original state.
@@ -185,7 +237,35 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 2. Click **Yes** on the confirmation prompt.  
 ![Yes option to reset Slack data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Now, Slack will restart automatically, and you will have to sign in to your workspace again.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Fix Slack Notifications Not Working on Windows
 

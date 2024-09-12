@@ -1,7 +1,7 @@
 ---
 title: "Quick Language Access: Navigating Through Foreign Languages on Windows"
-date: 2024-09-05T19:40:31.731Z
-updated: 2024-09-06T19:40:31.731Z
+date: 2024-09-11T01:20:44.553Z
+updated: 2024-09-12T01:20:44.553Z
 tags:
   - windows10
   - windows11
@@ -32,21 +32,49 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
  You can view the main QTranslate translation window by selecting text and pressing the**Ctrl** key twice. That window displays the selected foreign text alongside the translated content. There you can change the translation by choosing a different language on the drop-down menu and clicking**Translate** . Click the**Listen** **to text** (headphone) buttons to play an audio text-to-speech translation.
@@ -55,31 +83,73 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
  QTranslate also incorporates some**Appearance** settings with which you can customize its user interface. Click the**Theme** drop-down menu there to choose a different window style. You can customize the software’s colors by clicking the**Text** and**Frame Color** options.
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -96,46 +166,36 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
  DeepL has a hotkey for a text-capturing translation feature that isn’t enabled by default. Click the**Capture text on screen** option in the settings to enable that feature. Pressing**Ctrl** +**F8** will activate a tool with which you can select text for translation by dragging a grey box over it.
 
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Translate Text With Handy Hotkeys in Windows
 
  QTranslate’s and DeepL’s hotkeys enable you to quickly and easily translate in Windows 11 and 10\. You can press those convenient keyboard shortcuts to translate text in websites and documents across all Windows software whenever needed. The hotkey functionality those software packages provide makes them preferable alternatives to the Google and Microsoft translation tools.

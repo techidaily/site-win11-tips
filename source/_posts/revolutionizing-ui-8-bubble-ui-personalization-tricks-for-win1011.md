@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing UI: 8 Bubble UI Personalization Tricks for Win10/11"
-date: 2024-09-05T19:39:25.948Z
-updated: 2024-09-06T19:39:25.948Z
+date: 2024-09-11T01:20:45.445Z
+updated: 2024-09-12T01:20:45.445Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win10 UI Customize,Win11 UI Personalize,UI Trickset Win10,Bubble UI Pe
 thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revolutionizing UI: 8 Bubble UI Personalization Tricks for Win10/11
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
@@ -44,12 +38,20 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 2. Then click the**Customize Shortcut Icon** drop-down menu to select a**No Arrow** ,**Heart** ,**Star** , or**Win** (Windows logo) option.  
 ![The Customize Shortcut Icon drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/customize-shortcut-icon-drop-down-menu.jpg)
 3. Press the**Set** button.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 4. Click**OK** on the dialog box that prompts a restart.
 5. Then you’ll need to restart Windows for this customization to take effect.
 
@@ -63,18 +65,26 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
 
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Change the Menu Delay With WinBubble
 
  You can speed up menus a bit by reducing the menu delay. By default, Windows has a 400-millisecond menu delay, which you can cut to zero. WinBubble includes a**Menu Show Delay** option you can configure among numerous other optimization settings.
@@ -82,6 +92,26 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
  To configure that setting, select the**Optimize** tab. Click the**Menu Show Delay** option to choose a value less than 400; select**Apply** to save the new value.
 
  While you’re at it, you can also speed up the Window shutdown process a little. To do this, select WinBubble’s**Decrease Shutdown Time for services** and**Do not Clear Pagefile at Shutdown** checkboxes on the same**Optimize** tab.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 4\. How to Add New Submenus to the Context Menu
 
@@ -91,15 +121,51 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
@@ -109,22 +175,30 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![A Take the Ownership of this folder context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-the-ownership-of-this-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
  If you prefer not to stuff your desktop area with too many software shortcuts, the context menu is an ideal alternative space for them. You can add lots of shortcuts to different context menus with WinBubble without manually editing the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . This is how to add shortcuts for opening programs to the desktop’s right-click menu in Windows:
@@ -142,26 +216,22 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 7\. How to Add New Items to the Control Panel
 
  WinBubble’s**Tools** tab also includes a section that enables you to add new items to the Control Panel. You can add third-party software shortcuts to the Control Panel from there in the following steps:
@@ -179,12 +249,20 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 8\. How to Disable the Registry Editor in WinBubble
 
  The**More Policies** tab in WinBubble enables you to disable many things in Windows. It incorporates four subtabs from which you can disable desktop, Start menu, taskbar, machine, system, and Control Panel features. Plus, there are also some additional miscellaneous quick tweak settings available.
@@ -193,18 +271,20 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![The Prevent access to Registry Editor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/prevent-access-to-registry-editor-option.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## Customize Windows to Your Liking With WinBubble
 
  Those are just some of the different ways you can customize Windows 10 and 11 with WinBubble. WinBubble is packed to the rafters with many more handy settings for tweaking Windows to your heart’s content. So, have fun customizing Windows with WinBubble!

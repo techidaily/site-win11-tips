@@ -1,7 +1,7 @@
 ---
 title: Integrated File Management in PowerToys
-date: 2024-09-05T19:36:01.529Z
-updated: 2024-09-06T19:36:01.529Z
+date: 2024-09-11T01:20:48.414Z
+updated: 2024-09-12T01:20:48.414Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,25 @@ keywords: PowerToys File Hub,Integrated File System,Unified File Interface,Power
 thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f1438428a2471f9b4a0fdcaefb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Integrated File Management in PowerToys
 
  We've touched on PowerToys' PowerRename before, but it's worth going into more detail on how you can use it to batch-rename your files.
 
  Let's look at multiple scenarios for batch-renaming your files like a pro with PowerRename's powerful options.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## What Is PowerToys PowerRename?
 
@@ -38,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
  You can also[find any color anywhere on your screen with PowerToys Color Picker](https://www.makeuseof.com/powertoys-color-picker-guide/) , or[bring one of Windows 11's best features to Windows 10 with PowerToys FancyZones](https://www.makeuseof.com/control-your-windows-and-organize-your-desktop-with-powertools-fancyzones/) , for better organizing multiple windows on your monitors.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install PowerToys & Enable PowerRename
 
  Despite having the official Microsoft seal, PowerToys is an open-source project to which anyone can contribute. This makes it one of the few instances where the same Microsoft software is available on both GitHub and the Microsoft Store. Or more accurately, "almost the same".
@@ -58,18 +60,26 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![Microsoft Store Searching For PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-store-searching-for-powertoys.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  When you find the**Microsoft PowerToys** entry, click on it to visit its page. There, click on**Install** on the left to bring PowerToys onboard.
 
  After installation, run PowerToys and notice its icon on the tray. Right-click on that and choose**Settings** .
 
  The PowerRename "toy" that we'll use For this article might be disabled by default. To enable it, select the PowerRename page from the list on the left of the Settings window. Then, flick the switch on the right of**Enable PowerRename** to the right.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the PowerRename PowerToy
 
  Like most tools in PowerToys, PowerRename is accessible "outside" of the PowerToys' own window.
@@ -81,6 +91,20 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 3. Right-click on one of them and select**PowerRename** from the context menu.
 
  All the batch-renaming magic happens on the window you'll see pop up on your screen.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 1\. Simple Find & Replace
 
@@ -99,24 +123,32 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![PowerRename Simple Replace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-simple-replace.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Note that this will try to match only the first instance of the "source" string in every filename. This scenario is practical when, for example, you want to add a prefix to the filenames.
 
  If you want to match and replace every instance of the string instead, enable the**Match all occurrences** option.
 
 ![PowerRename Match All Occurrences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-match-all-occurrences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
 
 ### 2\. Filenames & Extensions
@@ -129,36 +161,46 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![PowerRename Changing File Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-changing-file-extensions.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  To do that, check the setting under**Apply to** , right below the "target string" field.
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
 
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 3\. Text Formatting
 
  Apart from renaming, PowerRename also offers some basic text formatting functionality. By using the buttons under**Text formatting** , you can tweak the files' filenames to make them lowercase, uppercase ("all caps"), capitalize their first letter, or capitalize the first letter of each word in them.
 
 ![PowerRename Text Formatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-text-formatting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The final icon, separated from the others and on the right, is the numbering toggle. Click on it, and PowerRename will add numbers inside parentheses to the filenames so that "filename.jpg" may become "filename (1).jpg".
 
  Keep in mind that Numbering doesn't work on its own, but only as an "enhancer" on top of another renaming process.
@@ -173,19 +215,41 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
  Quite helpfully, PowerRenamer offers a "cheat sheet" with a few standard RegEx syntax examples. You can find it by clicking on the little**circular icon with the i** (for "information") inside, right next to the "source field".
 
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Implementing Windows Hello Fingerprints"
-date: 2024-09-05T19:34:00.305Z
-updated: 2024-09-06T19:34:00.305Z
+date: 2024-09-11T01:20:50.003Z
+updated: 2024-09-12T01:20:50.003Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,20 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
  If you've never used Windows Hello before, stick around to find out how to set up Windows Hello fingerprint login on your Windows 11 computer to make it more secure and enable faster authentication.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## What Is Windows Hello?
 
  Windows Hello is a convenient and secure way to unlock your Windows 10 or Windows 11 PC. It facilitates quick access to your system by allowing you to sign in to your computer using your face, fingerprint, or PIN.
@@ -29,6 +43,20 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
  As such, you can choose between any of the available sign-in options, such as[PIN, facial recognition, or fingerprint recognition](https://www.makeuseof.com/face-iris-fingerprint-password-pin-most-secure/) . While PIN is available for pretty much everyone, the availability of fingerprint and facial recognition is dependent on your computer's hardware.
 
  However, generally speaking, if you have a moderately-good laptop, it very likely features a compatible fingerprint scanner. Meanwhile, if you have a PC, you can get a decent external fingerprint reader and connect it to your computer via USB.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How to Set Up Windows Hello on Windows 11
 
@@ -43,26 +71,42 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 3. On the**Accounts** page in the right-hand pane, scroll down to the**Account settings** section and tap on**Sign-in options** to expand them.  
 ![Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-pin-on-windows-11-1.jpg)
 4. Now, click on**PIN (Windows Hello)** to expand its options and hit the**Set up** button.  
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Windows Hello PIN sign-in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-pin-on-windows-11-2.jpg)
 5. Enter your account password and hit**OK** to authenticate yourself and proceed.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 6. Enter a PIN in the**New PIN** field and input it again in the**Confirm PIN** field. If you wish to include letters and symbols in your PIN, check off the Include letters and symbols option.
 7. Click**OK** to create and set the PIN as your new sign-in option.
 
@@ -77,16 +121,24 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 5. Tap on the**Set up** button.  
 ![Windows Hello fingerprint login set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-1.jpg)
 6. On the**Windows Hello setup** window, click on**Get started** , and when prompted to enter your PIN, type the PIN you created earlier.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Hello PIN authentication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-2.jpg)
 7. Swipe your finger across the fingerprint reader on your PC until it registers it completely.  
 ![Windows Hello fingerprint registration prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-3.jpg)
 8. Hit**Close** to close the setup window.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 
  If you want to be extra cautious, you can register a second finger with Windows Hello. That way, if your scanner fails to recognize one fingerprint, you can try the other one to sing-in instead of having to resort to using the PIN.
 
@@ -94,24 +146,26 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
 ![Windows Hello second fingerprint set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-a-second-fingerprint-for-windows-hello.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### How to Log Into Your Windows 11 PC Using a Fingerprint
 
  With Windows Hello enabled and fingerprint unlocking enabled on your computer, you can verify if the fingerprint scanner on your PC works by putting it to the test.
@@ -120,12 +174,6 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
  However, if this doesn't work, try another finger if you've registered it. Alternatively, enter the PIN when your PC asks you for it upon failing to recognize your fingerprint. And subsequently, remove the fingerprint login and try registering your fingerprint again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove the Windows Hello Fingerprint Login in Windows 11
 
  If you wish to remove Windows Hello fingerprint recognition on your Windows 11 computer, perhaps because it's slow or some other reason, you can get rid of it using these steps:
@@ -135,13 +183,21 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 3. Click the**Remove** button.  
 ![removing Windows Hello fingerprint login on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/removing-windows-hello-fingerprint-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Irrespective of how many fingerprints you've set, this will delete all of them for you and remove the Windows Hello fingerprint login from your computer. After you do this, you can still sign in to your PC using the PIN you generated earlier.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Sign Into Your Windows 11 PC Quickly and Securely
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging Administrative Access Through CMD
-date: 2024-09-05T19:32:30.361Z
-updated: 2024-09-06T19:32:30.361Z
+date: 2024-09-11T01:20:51.220Z
+updated: 2024-09-12T01:20:51.220Z
 tags:
   - windows10
   - windows11
@@ -14,30 +14,12 @@ keywords: Admin Access Strategies,Command Line Security,CMD Access Control,Secur
 thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9e0063ab337a82a91478e440.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Leveraging Administrative Access Through CMD
 
  The Command Prompt is a text-based interface on Windows that allows you to issue commands to perform various tasks. People usually refer to it as a command line, shell, or even by its filename. And although the Command Prompt might not be as user-friendly as Windows' graphical user interface, it offers you more control over your system.
 
  Some commands, however, require administrator-level privileges to run properly. As such, here are some quick and easy ways to open Command Prompt as an administrator in Windows.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How To Run Command Prompt as an Administrator Through the Windows Search Tool
 
  To run Command Prompt as an administrator, you can use the Windows Search feature. Here's how to do it:
@@ -50,12 +32,20 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 
  Once you've done that, Command Prompt will open with administrative privileges. From there, you can enter any commands you like; just keep in mind that they will have full system access, so use them wisely!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 2\. How to Run Command Prompt as an Administrator Using the Run Dialog
 
  If you need to run Command Prompt as an administrator in Windows 11, you can do so by using the Run dialog box. The steps are as follows:
@@ -67,12 +57,20 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
 
  If you're using the Command Prompt on a regular basis, there's a good chance you need to run it as an Administrator from time to time. Fortunately, Microsoft has made it easy to do this in Windows 11\.
@@ -83,20 +81,36 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 2. Then select **Terminal (Admin)** from the menu that appears.  
 ![Run Command Prompt Via Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Via-Quick-Access-Menu.jpg)
 3. If you see a User Account Control message, click **Yes**.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
 
  This is one of the most popular methods of opening almost every Windows program. To open a command prompt with admin access, follow these steps:
@@ -106,14 +120,36 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 3. Scroll to the bottom and select **Windows Tools** from the list.  
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
 4. Now right-click on Command Prompt and select **Run as administrator**.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 5. If UAC appears on the screen, click **Yes** to continue.
+
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
 
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
@@ -126,12 +162,6 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 3. Type "cmd" (without the quotes) into the "Open" field.  
 ![Open Command Prompt Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-Task-Manager.jpg)
 4. Click **OK** to launch the command prompt as an administrator.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. How to Run Command Prompt as an Administrator Using the Control Panel
 
@@ -143,6 +173,20 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
  There is an address bar in the File Explorer window that can be used to open Command Prompt as an administrator. In order to do this, follow these steps:
@@ -153,12 +197,20 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 4. Once you find the executable file, right-click on it and select **Run as administrator**.  
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
@@ -170,12 +222,6 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 4. Right-click on the search result, and select **Show more options > Create shortcut**.  
 ![Create Desktop Shortcut to Open Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-to-Open-Command-Prompt.jpg)
 5. Windows will ask for your confirmation before creating it, so click **Yes**.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. There will be a shortcut on your computer's desktop. To open the command prompt with admin access, right-click on it and select **Run as administrator**.
 
  You can also create a custom shortcut on your Windows 11 PC. You can do this by right-clicking on your desktop and selecting **New** \> **Shortcut**. In the "Create Shortcut" window, type "cmd.exe" and click **Next**. Specify the shortcut's name and click **Finish**.
@@ -184,12 +230,20 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
 
  If you're looking for a way to make your life a bit easier when it comes to using the Command Prompt, be sure to try out this method in Windows 11\.
@@ -198,18 +252,6 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 2. Right-click on Command Prompt and select **Pin to taskbar**.  
 ![Pin Command Prompt to taskbar tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-taskbar-tray.jpg)
 3. Now go to the taskbar, and right-click on the Command Prompt icon.
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
 
@@ -227,12 +269,46 @@ thumbnail: https://thmb.techidaily.com/e1c802d034de253a949204241dbf65a06fa99afd9
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 7. Make sure to check the **Run as administrator** box and click **OK**.
 8. Finally, click **Apply** \> **OK**, and your shortcut will be ready to use.
 
  Just press the key combination you set to open the Command Prompt as an administrator. If you get a prompt asking to confirm the operation, click **Yes** to continue.
 
  This is an easy and fast way of opening the Command Prompt as an administrator without using the search box.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Run Elevated Command Prompts Like a Pro
 

@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Positioned: Win11's 6 Image Rotation Methods"
-date: 2024-09-05T19:32:35.699Z
-updated: 2024-09-06T19:32:35.699Z
+date: 2024-09-11T01:20:51.143Z
+updated: 2024-09-12T01:20:51.143Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,26 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993645">
+<span id="1983553">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1\. How to Rotate Images With File Explorer
 
  Windows File Explorer incorporates two basic options for rotating images left and right. Those options will be adequate when you only need to apply basic rotating to images. This is how you can rotate an image in File Explorer:
@@ -47,18 +55,20 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![The rotation context menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-context-menu-options.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## 2\. How to Rotate Images With the Photos App
 
  Photos is Windows 11’s default image viewer app that includes some editing options. Among them is a basic **Rotate** option for 90-degree rightward rotation. You can rotate images with that option as follows:
@@ -73,12 +83,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![The rotation options within Photos' Crop tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-photos-crop-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that Photos’ cropping tool also has a rotation bar. You can drag the slider on that bar to freely rotate the image by any angle within a cropping box. Everything outside the cropping box area gets cut out of the picture. Rotating an image like that is one of the [different ways to crop a picture in Windows 11](https://www.makeuseof.com/crop-images-windows-11/).
 
 ## 3\. How to Rotate Images With Paint
@@ -92,22 +96,24 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 5. Click the **Rotate** button to view a small menu with three options.  
 ![Paint's Rotate options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paint-s-rotate-options.jpg)
 6. Select the **Rotate right 90°** or alternative left and 180° options.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 7. Press **Ctrl** \+ **S** to save over the original file.
 
  You can also adjust an image’s orientation with Paint’s flipping options just below the **Rotate** button. For example, clicking **Flip vertical** has the same effect as the **Rotate 180°** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Rotate Images With Edge’s Image Editor
 
  Microsoft Edge is Windows 11’s pre-installed browser that now has a built-in image editor. That feature enables you to rotate images and apply other tweaks to pictures you find online before downloading them. It’s quite similar to the image editor in the Photos app. These are the steps for rotating images with Microsoft Edge:
@@ -118,31 +124,27 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 4. Right-click a picture thumbnail and select **Edit image**.  
 ![The Edit image option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-image-option.jpg)
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
 6. Click **Save** to download the rotated image.
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Rotate Images With Online Image Tool
 
  You can rotate images without installing software with the Online Image Tool web app. Unlike Edge’s image editor, that tool enables you to upload pictures on your PC for rotation. Plus, you can upload more than one file at a time to rotate multiple images in batches. This is how you can rotate photos with the Online Image Tool in a Windows browser:
@@ -154,8 +156,36 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 5. Next, select the **90°**, **180°**, or **\-90°** rotation options.  
 ![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 
  Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
 
@@ -166,34 +196,58 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 1. Open this [IrfanView webpage](https://www.irfanview.com/64bit.htm) and download the app.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
 2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 3. Open IrfanView by double-clicking its desktop shortcut.
 4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
 5. Click on the **Image** menu.  
 ![The Rotate Left option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-option.jpg)
 6. Select the **Rotate Left** or **Rotate Right** option for the standard 90-degree rotation.
 
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
  If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
 
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## Rotate Images for a Better Orientation in Windows 11
 
  So, you don’t need Adobe Photoshop to rotate images on a Windows 11 PC. It’s easy to correct image orientation on a Windows 11 PC with any of the rotation methods above. Choose whatever image rotation method you like best.

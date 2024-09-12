@@ -1,7 +1,7 @@
 ---
 title: Rectifying Non-Responsive Paste in Chrome/Edge/Firefox
-date: 2024-09-05T19:37:20.249Z
-updated: 2024-09-06T19:37:20.249Z
+date: 2024-09-11T01:20:47.090Z
+updated: 2024-09-12T01:20:47.090Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Responsive Page Fixing,Browser Cleanup Guide,Chrome Paste Issue,Edge S
 thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1c2a7e4bae6cede878df1e2d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rectifying Non-Responsive Paste in Chrome/Edge/Firefox
 
  Are you unable to copy and paste text from a website in Chrome, Edge, Firefox, or any other browser? It usually occurs when a website disallows users from copying and pasting text from its pages.
@@ -27,6 +21,20 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
  Aside from that, misconfigured security settings, issues with the keyboard keys or copy-paste shortcut, interfering clipboard cache, and interruptions from browser extensions and third-party clipboard managers can all cause this issue.
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 1\. Perform Some Preliminary Checks
 
@@ -47,9 +55,37 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  However, if you fail to copy-paste from all websites, even those you used to copy-paste from before, the problem could be widespread. Hence, you should begin applying the remaining fixes.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 3\. Check for Problems With Your Keyboard
 
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
 
@@ -57,12 +93,20 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  However, if you can copy-paste text outside the browser but not within it, proceed to the next step.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 4\. Disable Other Active Applications
 
  If another app already uses **CTRL + C** or **CTRL + V** as a hotkey for performing a specific action, pressing the shortcut in Chrome may not copy or paste the text due to a conflict from another app. Therefore, temporarily turn off any other apps currently running on your device to see if it resolves the issue.
@@ -73,12 +117,6 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![Allow Chrome Through Your Windows Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-chrome-through-your-windows-defender-firewall-in-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each time you copy a text in Windows, the duplicate of the selected text is temporarily stored in the clipboard. In the later step, when you perform the paste operation, the data is retrieved from there.
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
@@ -91,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  Clearing the clipboard history erases all previously copied data. Therefore, you should not clean up the data in the temporary storage if you need to use it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Mini Menu Option (Microsoft Edge Only)
 
  Turning off the mini menu that appears when selecting text in Microsoft Edge resolved the copy-paste issue for some users. This feature reportedly blocks copy-pasting. So, if you are experiencing the problem in Microsoft Edge, follow these steps to turn it off:
@@ -107,12 +139,20 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 8\. Check for Browser Interference
 
  If you fail to get copy-paste to work again, ensure that the browser interference is not causing this issue. You can rule out this possibility by applying these fixes:
@@ -121,18 +161,20 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 * [Update your web browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to the latest version.
 * [Remove or turn off any extensions installed in your browser](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) that may interfere with copy-paste.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Use Alternative Methods to Copy and Paste Text
 
  If every other option fails, and you still can't copy-paste text normally, copy and paste text in your browser using the context menu. Though it isn't a quick way to copy and paste text, it is reasonably reliable and does the job most of the time.
@@ -141,20 +183,22 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
+
 ## Copy-Paste Your Text Again Effortlessly
 
  Copy-paste is one of those operations we perform almost constantly while surfing the internet. When it stops working, it's nothing short of a nightmare. Hopefully, by now, you have a clearer understanding of why the feature suddenly stops working in your browser and how to get it working again.

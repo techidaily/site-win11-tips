@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Labeling Files in Windows 11
-date: 2024-09-05T19:32:50.613Z
-updated: 2024-09-06T19:32:50.613Z
+date: 2024-09-11T01:20:50.911Z
+updated: 2024-09-12T01:20:50.911Z
 tags:
   - windows10
   - windows11
@@ -14,30 +14,12 @@ keywords: File Labeling Guide W11,Windows 11 Organization Tips,Digital File Mana
 thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef8986413adc95e66c5009be9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Essential Guide to Labeling Files in Windows 11
 
  Do you want to add extra details to your PC's folders with comments? Here’s how you can add info for a folder to the **Comments** column in Windows 11 File Explorer.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable File Explorer's Comments Column
 
  First, you must set File Explorer to show the **Comments** column that will include the comment for a folder. That column isn’t enabled by default within Explorer. Enable the **Comments** column for a folder as follows.
@@ -51,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
  A **Comments** column will now be visible in the directory opened. That is where you’ll see the comment added to a folder. You can expand the width of that column by placing the mouse cursor on the left or right side of the **Comments** column header, holding the left mouse button, and dragging the mouse cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reveal the desktop.ini File for a Folder
 
  Desktop.ini is a hidden configuration file for folders. So, you must [set Explorer to show hidden files](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to see and edit desktop.ini. You will also need to [change the icon of the folder](https://www.makeuseof.com/tag/customize-icon-windows/) to which you want to add a comment to make its desktop.ini file visible. These are the steps for revealing a folder’s desktop.ini file:
@@ -65,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 2. Select **Options** to bring up a window that includes folder settings.  
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
 3. Click **View** to access advanced Explorer settings.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
@@ -82,14 +52,56 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 5. Click **Change Icon** to view an icon selection window.  
 ![The Change Icon button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-button.jpg)
 6. Choose a different icon for the folder and select **OK**.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![The Change Icon window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-icon-window3.jpg)
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## How to Add a New Folder Comment With the Desktop.Ini File
 
@@ -100,36 +112,80 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 3. Select **Notepad** in the submenu.  
 ![The Open with submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-with-option.jpg)
 4. Enter **InfoTip=Add your comment here** in the line just beneath **\[.ShellClassInfo\]** within Notepad. You can change the **Add your comment here** text to whatever you want the comment for your folder to say.  
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
 5. Click Notepad’s **File** menu.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
 7. Click Exit on Notepad’s **File** menu.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 8. Finally, restart the Windows Explorer process with a method in this guide to restarting File Explorer.
 
  Return to the directory that includes the folder to which you’ve just added a comment. You’ll see the custom comment for the folder in the **Comments** column. You can add comments to many more folders by changing their icons and editing the desktop.ini files in them. Note that you’ll also need to enable the **Comments** column for each directory.
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Add Useful Comment Info to Your Folders on Windows 11
 

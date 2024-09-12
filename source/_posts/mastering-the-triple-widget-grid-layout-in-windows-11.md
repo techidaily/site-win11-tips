@@ -1,7 +1,7 @@
 ---
 title: Mastering the Triple Widget Grid Layout in Windows 11
-date: 2024-09-05T19:37:48.301Z
-updated: 2024-09-06T19:37:48.301Z
+date: 2024-09-11T01:20:46.730Z
+updated: 2024-09-12T01:20:46.730Z
 tags:
   - windows10
   - windows11
@@ -14,25 +14,61 @@ keywords: Win11 Widget Layout,Triple Widget Grid,Master Widget Design,Advanced W
 thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e151c9e44399471e099cac39.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Triple Widget Grid Layout in Windows 11
 
  A three-column Widget panel will let you see more information quickly, making it more useful than the current two-column Widget board. Microsoft has seen this and introduced the new three-column Widgets panel to a small set of Windows Insiders on Canary and Dev Channels.
 
  However, using some tricks, every Canary and Dev Channel user can enable the revamped Widgets panel. So, here's how to enable the three-column Widgets board on your Windows 11 Dev and Canary build, even if you're not part of the selected few to receive this feature from Microsoft.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## What's the New Widgets Board in Windows 11, and How Is It Different From the Old One?
 
 ![Windows 11 widgets pane](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-8.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The new Widgets Board offers a larger canvas with a clear separation between Widgets and the feed content. It has three columns, one for Widgets and the other two for feed content. At the time of writing, stable Windows 11 users only have a two-column Widget board housing Windows 11 widgets and the feed content.
 
 Simply put, they have no separation in the two-column Widgets view.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
@@ -48,18 +84,20 @@ Simply put, they have no separation in the two-column Widgets view.
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
 1. Open Command Prompt as an Administrator (see[how to open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for steps).
@@ -72,44 +110,54 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
 
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Widgets Board in Windows 11, Enabled
 
  The new Widgets panel offers a more organized canvas and is super simple to enable using ViveTool. After enabling the new Widgets board, every other setting remains the same.

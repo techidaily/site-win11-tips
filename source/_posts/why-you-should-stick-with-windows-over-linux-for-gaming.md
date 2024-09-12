@@ -1,7 +1,7 @@
 ---
 title: Why You Should Stick With Windows Over Linux for Gaming
-date: 2024-09-05T19:36:37.021Z
-updated: 2024-09-06T19:36:37.021Z
+date: 2024-09-11T01:20:47.971Z
+updated: 2024-09-12T01:20:47.971Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,26 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  Well, not so fast. There are still some caveats, so let's explore why the answer is not so clear-cut.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Valve's Gaming Revolution on Linux
 
  It all started back when Valve felt threatened by the Microsoft Store. That's when it came up with the idea of creating an alternative platform. It would be as easy to use as a gaming console but based on widely available PC hardware and running an "open" OS, not controlled by Microsoft.
@@ -32,38 +52,34 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
 ![SteamOS Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steamos-site.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The project failed for various reasons we won't touch on in this article. Thankfully, Valve didn't give up.
 
  The Steam Deck is the culmination of Valve's efforts in creating its own hardware and software "platform" for gaming.
 
 ![Steam Deck Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-deck-site.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam Deck's haptic touchpads carry DNA from Valve's Steam Controller. Its OS is a newer version of SteamOS. Check out our article on[everything you need to know about Valve's Steam Deck](https://www.makeuseof.com/what-is-steam-deck/) to learn more about it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Valve Brought Games to Linux
 
  Valve realized it had an unmatched collection of thousands of titles, making other platforms pale by comparison. But although it had "the library", it didn't have the most essential thing: the "platform" itself.
@@ -84,18 +100,40 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  So, is swapping to Linux now the way forward for gaming? Not quite. There are still a few problems that you won't encounter when using a Windows machine to play Steam games.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### 1\. Restrictive DRM Doesn't Like Linux
 
  DRM and its sibling, anti-cheat, are an inconvenience to gamers and have been proven to impose a toll on performance. That's the primary reason many people dislike the most popular anti-tamper solution, as we explained in our article[what is Denuvo and why everyone hates it](https://www.makeuseof.com/what-is-denuvo/) .
 
 ![Denuvo Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/denuvo-site.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Still, such solutions are also considered necessary for triple-A gaming. An "uncrackable" protection can grant a game producer a safe initial window of guaranteed sales.
 
  Anti-cheat solutions, implemented similarly to DRM, can ensure a fair gaming experience for everyone by preventing cheating. But they can also be a nuisance.
@@ -104,12 +142,20 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  Still, you might run into the occasional title that refuses to work on Linux, not because the title itself, but because its DRM or anti-cheat is incompatible with Tux's OS.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 2\. Third-Party Launcher Woes on Linux
 
  If you recently purchased a triple-A game on Steam, it probably came with an extra launcher. Most such launchers work on Linux, but one or two don't. At least, not always (hello, Rockstar Games Launcher). And Linux isn't on their creators' priority list.
@@ -120,12 +166,6 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  The game-specific launcher could "bork" as it's confused by the unexpected environment it found itself running on (AKA: Linux-pretending-to-be-Windows). A solution might be available (like directly launching the game's executable, or using some custom extra flags). But it's not a given.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Linux Emulator Support Is a Little Lacking
 
  Isn't it great that your Windows PC allows you to enjoy titles made for other platforms through the magic of emulation? The experience can be even better on Linux, thanks to lower OS overhead, better hardware drivers, and more competent memory management.
@@ -134,25 +174,41 @@ Except if you want also to play Xbox 360 games.
 
 ![Xenia Canary Emulator Running Perfect Dark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xenia-canary-emulator-running-perfect-dark.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Xenia](https://xenia.jp/) , the best (and only fully working) emulator for Xbox 360, which we saw in our guide on[how to play Xbox 360 games on PC with Xenia on Windows](https://www.makeuseof.com/xenia-xbox-360-emulator/) , is, as our guide's title states, only available on Windows.
 
  Did you also want to experiment with the new[fpPS4](https://github.com/red-prig/fpPS4) , which looks promising in emulating the PlayStation 4 on PC hardware? Yeah, that one, too, is only available on Windows—at least, for now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Linux Sports Fewer Third-Party Tools
 
 ![ReShade Cheat Engine and Creative ALchemy on Windows11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reshade-cheat-engine-and-creative-alchemy-on-windows11-desktop.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Nowadays, we can play the classics that took advantage of 3dfx's Voodoo "graphic accelerators" through custom "wrappers". Those apps add a layer of compatibility over our modern GPUs that can run classic DOS or Windows 9x 3D-accelerated titles in modern OSes. If those "modern OSes" are called "Windows".
 
@@ -162,12 +218,6 @@ Except if you want also to play Xbox 360 games.
 
  At least, you can improve your games' visuals like on Windows with[Reshade](https://reshade.me/) . You only have to use[vkBasalt](https://github.com/DadSchoorse/vkBasalt) , manually import Reshade's shaders, ensure the ones you want to use work, and customize them without a GUI. If all that sounds like a chore instead of "fun", maybe Linux gaming isn't the best option for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Windows Gives You the Latest and Greatest, Day One
 
  Seasoned gamers know it's best to avoid preordering games. A new title's trailers might make it look like the best thing since sliced bread. And yet, it might end up being "one of those bad PC ports", missing half of its promised features, or "running" like a snail on your hardware.
@@ -176,20 +226,22 @@ Except if you want also to play Xbox 360 games.
 
 ![GeForce Experience App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-experience-app.jpg)
 
- Similarly, don't expect the latest gaming-related features on the newest hardware to work on Linux from day one. At least, not without the occasional glitch here and there. RTX effects? Upscaling? Physics?[Tux Racer](https://tuxracer.sourceforge.net/) doesn't need all that fluff.
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Similarly, don't expect the latest gaming-related features on the newest hardware to work on Linux from day one. At least, not without the occasional glitch here and there. RTX effects? Upscaling? Physics?[Tux Racer](https://tuxracer.sourceforge.net/) doesn't need all that fluff.
+
 ## Don't Count Out Linux Just Yet
 
  As bad as we make gaming on Linux sound, we've only been covering the issues you'll have to face when gaming on the operating system. Thanks to the Steam Deck, WINE, and Proton, many Windows games are now playable on Linux—especially the most popular ones.
@@ -197,6 +249,20 @@ Except if you want also to play Xbox 360 games.
  Most emulators offer native Linux versions, and for every third-party utility you may use on Windows (like Cheat Engine), you can usually find even better alternatives.
 
  Linux is great because it allows you to tinker with it, customize it, and make it your own. But it might also not be for you for the same reasons: sometimes, you have to tinker with it and spend hours researching how to tweak a game's settings or mess with its files to make it work as you'd like (if at all).
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Gaming on Linux: Not the Best, but Not Far Off
 

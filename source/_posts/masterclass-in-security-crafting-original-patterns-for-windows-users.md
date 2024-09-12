@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Security: Crafting Original Patterns for Windows Users"
-date: 2024-09-05T19:42:12.557Z
-updated: 2024-09-06T19:42:12.557Z
+date: 2024-09-11T01:20:43.283Z
+updated: 2024-09-12T01:20:43.283Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Windows Security Mastery,Secure Pattern Crafting,Original Windows Desi
 thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e3916330df7f776c432bd4bea35f1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Masterclass in Security: Crafting Original Patterns for Windows Users
 
  A pattern lock is a login method for securing a device with a preset pattern. It enables you to sign in to a device by inputting a unique pattern for connecting multiple circles. The Meta Quest 2 VR headset is an example of one device for which users must set pattern locks.
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 2. Next, extract 9Locker’s archive with your favorite method for [unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folders utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-window.jpg)
 3. Double-click the **9LockerSetup.exe** file to bring up the installer.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click **Next** once and select the **I accept the terms in the license agreement** radio button.
 5. Then click **Next** to proceed with installation.
 6. Press the setup wizard’s **Finish** button after installing 9Locker.
@@ -51,6 +39,26 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 3. Draw two matching patterns on the 3x3 grid to set a lock.  
 ![The 9Locker pattern lock setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/9locker-lock-pattern-setting.jpg)
 4. Click **OK** on the Rescue Password prompt that pops up.
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Input a matching password within the **First Time** and **Second Time** text boxes.  
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
@@ -59,34 +67,78 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
 
 ![The Enter Rescue Password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password-box.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can select a different background image for the pattern lock screen. To do so, click the **Background Image** tab. Then click **Image** and choose one of the eight wallpapers for the pattern lock screen. Or you can select a custom background image from another folder.
 
 ![The Background Image tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/background-image-tab.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Alternatively, you can set a solid color for the background. Click the **Color** button on the **Background image** tab. Then choose a color on the palette and select **OK**.
 
  9Locker also has an alarm that’s set to go off after three failed pattern logins by default. There aren’t any sound settings for that alarm. However, you can disable it by deselecting the **Play Alarm Sound** checkbox on the **General Settings** tab. Or change the number of retries that set off that alarm by inputting a different value in the **After** box.
@@ -95,18 +147,6 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
  Eusing Maze Lock is an alternative to 9Locker that enables you to set a pattern lock on your Windows 11/10 PC much the same. However, this software also enables you to set locks on bigger 4x4 and 5x5 grids. This is how you can set up a pattern lock for your PC with Eusing Maze Lock:
@@ -116,18 +156,40 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 3. Click **Next** three times to install Eusing Maze Lock in a default Program Files directory.  
 ![The setup wizard for Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock-setup-wizard.jpg)
 4. Press the **Finish** button with the Launch Eusing Maze Lock checkbox selected.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 5. An Eusing Maze Lock prompt for unlocking the preset pattern lock will appear. Click **OK** to close that prompt and bring up a configuration window.
 
 1. Press the **Reset Pattern** button.
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
 6. Click **OK** on the Eusing Maze Lock window.
@@ -144,34 +206,50 @@ thumbnail: https://thmb.techidaily.com/b513a033c1a351aae3735f8454f39fad640e39163
 
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
 
  Select an option on the **Autolock computer after** drop-down menu to set an inactive time for the pattern lock screen to automatically come on.
 
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-general-tab.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  You can also set a custom wallpaper for the pattern lock screen on the **Background** tab. To do so, click the **Change Image** button to bring up a selection window. Select an image file for the background and click **Open**.
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.

@@ -1,7 +1,7 @@
 ---
 title: Identifying Causes and Solutions for a Non-Responsive Discord Overlay
-date: 2024-09-05T19:36:15.055Z
-updated: 2024-09-06T19:36:15.055Z
+date: 2024-09-11T01:20:48.232Z
+updated: 2024-09-12T01:20:48.232Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Discord Overlay Issues,Responsiveness Problems,Discord Fix Guide,Overl
 thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18de62989f967049cc703431b5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Identifying Causes and Solutions for a Non-Responsive Discord Overlay
 
  The Discord overlay feature can stop working or behave strangely for various reasons. You may have turned off the feature in Discord settings, disabled it for a particular game, or overscaled your display; the Discord app might have failed to recognize the game you're playing, or you might be pressing the wrong overlay hotkey.
@@ -39,6 +33,20 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
  If none of the above checks fixes the problem, proceed to the remaining fixes.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## 2\. Check for Incorrect Discord Settings
 
  For Discord overlay to work correctly, you must ensure three things: the overlay feature is enabled in Discord, the game you're playing is added to Discord's registered games list, and the overlay setting for that game is not disabled. Therefore, ensure the basic overlay setup isn't misconfigured before going through the rest of the fixes.
@@ -54,18 +62,40 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 5. After that, navigate to the **Registered Games** tab and see whether the game you're playing is listed under **Added Games**.  
 ![Ensure the Game is Listed in the Added Games Section of the Registered Games Tab in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-ensure-the-game-is-listed-in-the-added-games-section-of-the-registered-games-tab-in-discord-settings.jpg)
 6. If the game is already added there, skip this step. If it isn't added, run the game again while Discord is open, and the app will automatically recognize it.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 7. If Discord fails to detect the game automatically, click **Add it!**, select the game from the dropdown, and click **Add Game**.  
 ![Click on Add It And Select the Game From the Dropdown Menu in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-click-on-add-game-button-and-select-the-game-from-the-dropdown-menu-in-discord-settings.jpg)
 8. Upon seeing the game in the **Added Games** list, turn on its overlay. You can do that by clicking the **monitor icon** next to the game.  
 ![Turn On the Overlay Option for the Game in the Added Games List in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-turn-on-the-overlay-option-for-the-game-in-the-added-games-list-in-discord-settings.jpg)
 
  If any of the above settings weren't configured correctly, configuring them properly will resolve the problem.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 3\. Change the Hotkey for Discord Overlay
 
@@ -79,12 +109,6 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
  When changing it, make sure the hotkey you choose isn't already assigned to another function in the game. If you assign the same hotkey, the game will execute the in-game process instead of enabling the Discord overlay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Select the Recommended Display Scaling
 
  Discord users have reported that over-scaling the display can affect the Discord overlay's functionality. If you've changed display scaling or layout recently and the overlay has stopped working since then, you should revert these changes.
@@ -93,19 +117,35 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 ![Select the Recommended Scale Next to the Scale Dropdown in Display Settings of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-select-the-recommended-scale-next-to-the-scale-dropdown-in-display-settings-of-windows-settings-app.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you're running Windows 10, check out our guide on [how to configure display scaling](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) to select the recommended scale. The recommended scale percentage can vary depending on the screen size and resolution; select the one Windows suggests.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## 5\. Turn Off Hardware Acceleration
 
@@ -115,18 +155,6 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 ![Turn Off the Toggle Next to Hardware Acceleration in Advanced Tab of App Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-turn-off-the-toggle-next-to-hardware-acceleration-in-advanced-tab-of-app-settings-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset the Overlay Position
 
  If none of the above fixes work, reset the overlay position. This step will ensure that the overlay hasn't been pushed off-screen when you scaled the display.
@@ -139,21 +167,9 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 3. Right-click on the **settings.json** file, select **Open With** and choose **Notepad**.  
 ![Open Settings.json File with Notepad in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-open-settings-json-file-with-notepad-in-windows.jpg)
 4. Go to the second last line of the file and enter the following:  
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-`"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
-5. Then, simply press **CTRL+S** to save the document and close the file.  
-![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
+
+
+
 
 <!-- affiliate ads begin -->
 <span id="1542129">
@@ -167,6 +183,28 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+`"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
+5. Then, simply press **CTRL+S** to save the document and close the file.  
+![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Once the developer tools have been enabled, follow these steps:
 
 1. Relaunch Discord.
@@ -175,25 +213,61 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 3. Click the **double arrow icon (>>)** and select **Application**.  
 ![Select Application by Clicking the Double Arrow Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-select-application-by-clicking-the-double-arrow-icon.jpg)
 4. Expand the **Local Storage** category under **Storage**.
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 5. Look for the **"OverlayStoreV2"** or **"OverlayStore"** keys. Most likely, you will find only one of these keys.
 6. Right-click the key and select **Delete.**  
 ![Delete the OverlayStore Key by Right-clicking on It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/14-delete-the-overlaystore-key-by-right-clicking-on-it.jpg)
 7. Then, restart Discord.
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 
  Hopefully, the overlay position will be reset, and the overlay will begin working correctly.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Get the Discord Overlay Back on Track
 
  When the Discord overlay fails to show up during gameplay, we are forced to minimize the game to view texts, respond to calls, or do anything else on Discord. We've shown you what causes the feature to stop working and what fixes you can apply to resolve it. If the issue persists for too long, reach out to Discord support.
