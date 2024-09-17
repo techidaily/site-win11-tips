@@ -1,7 +1,7 @@
 ---
 title: Uncover the Truth Behind Prime's Subtitle Misfires on Windows 11
-date: 2024-09-11T01:28:40.897Z
-updated: 2024-09-12T01:28:40.897Z
+date: 2024-09-15T04:13:20.164Z
+updated: 2024-09-16T16:23:38.226Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
  In this article, we'll share five things to try when Prime Video subtitles are not working in Windows 11\. So, let's begin.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Perform Some Basic Fixes
 
@@ -39,69 +36,13 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Eliminate Browser Issues
 
@@ -110,20 +51,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -145,34 +72,31 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
- After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
  Watching your favorite movies on Prime Video can be a great way to unwind after a long day. But what if you play the title only to find that subtitles aren't working? Despite how serious it may sound, troubleshooting this issue is very easy. Simply follows the above solutions to fix Prime Video subtitles not working in Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,51 +105,21 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-guidelines-for-responsible-content-disclosure-in-online-spaces-like-fb/"><u>[New] In 2024, Guidelines for Responsible Content Disclosure in Online Spaces Like FB</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-comprehensible-explanation-of-youtubes-viewership-puzzle/"><u>[Updated] 2024 Approved A Comprehensible Explanation of YouTube's Viewership Puzzle</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-audiotrack-evaluation/"><u>[Updated] AudioTrack Evaluation</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-your-youtube-presence-with-strategic-post-publish-video-updates/"><u>2024 Approved Elevating Your YouTube Presence with Strategic Post-Publish Video Updates</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-likes-and-shares-understanding-facebooks-metaverse-vision/"><u>Beyond Likes and Shares: Understanding Facebook’s Metaverse Vision</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x9b-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X9b</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-the-windows-fatal-blue-screen-error-0x8007007e/"><u>Clearing Up the Windows Fatal Blue Screen Error: 0X8007007E</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-guide-installing-the-western-digital-ses-usb-drive-in-windows-pcs-post-2-marketing-year/"><u>Comprehensive Guide: Installing the Western Digital SES USB Drive in Windows PCs (Post-2# Marketing Year)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-error-0x8007000d-on-pcs/"><u>Deciphering and Remedying 'Error 0X8007000D' On PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deconstructing-mmc-glitches-resolving-snap-in-crashes/"><u>Deconstructing MMC Glitches: Resolving Snap-In Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-how-copilot-key-upgrades-your-windows-11-experience/"><u>Discovering How Copilot Key Upgrades Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-routes-to-activate-windows-11s-calculator/"><u>Efficient Routes to Activate Windows 11'S Calculator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips-36/"><u>Elevate Your Windows Experience with These Top 7 Tips (36)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-data-security-adding-passwords-to-windows-text/"><u>Enhancing Data Security: Adding Passwords to Windows Text</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-characters-with-windows-11-map-tool/"><u>Explore Characters with Windows 11 Map Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-guide-enhance-windows-bluetooth-device-with-full-sound-features/"><u>Fix Guide: Enhance Windows Bluetooth Device with Full Sound Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-add-trusted-sites-on-windows-11/"><u>How to Add Trusted Sites on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-completely-uninstall-wsl-on-windows-11-and-11/"><u>How to Completely Uninstall WSL on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-get-into-and-out-of-the-windows-terminals-focus-mode/"><u>How to Get Into and Out of the Windows Terminal’s Focus Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unset-custom-search-rules-in-windows-11/"><u>How to Unset Custom Search Rules in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-10-premier-historical-youtube-networks/"><u>In 2024, Explore 10 Premier Historical Youtube Networks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-package-accessibility-a-step-by-step-windows-solution/"><u>Mastering Package Accessibility: A Step-by-Step Windows Solution</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-your-playstation-5-gaming-experience-achieving-120-fps/"><u>Maximizing Your PlayStation 5 Gaming Experience: Achieving 120 FPS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-setup-for-steam-deck/"><u>Navigate Through Windows Setup for Steam Deck</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-inactive-wsreset-troubleshooting-steps/"><u>Navigating Through Inactive WSReset Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/organizing-and-naming-pro-level-windows-approach-max-156/"><u>Organizing & Naming: Pro-Level Windows Approach (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-based-thx-audio-glitches/"><u>Overcoming Windows-Based THX Audio Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-techniques-to-connect-airpods-with-windows/"><u>Proven Techniques to Connect AirPods with Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrogame-enhancement-via-retroarchs-advanced-shading-features/"><u>RetroGame Enhancement via RetroArch’s Advanced Shading Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-keyboard-use-redefine-functionality-via-fn-keys-on-windows-11/"><u>Revolutionize Keyboard Use: Redefine Functionality via FN Keys on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-unreachable-windows-network/"><u>Steps for Correcting Unreachable Windows Network</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-user-specific-ms-errors/"><u>Steps to Eliminate User-Specific MS Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-tips-for-maximizing-wsl-2-in-windows/"><u>Top 5 Tips for Maximizing WSL 2 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-purpose-of-an-x-symbol-for-your-drives/"><u>Understanding the Purpose of an X Symbol for Your Drives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-global-audiences-local-stories-crafting-engaging-instagramcaptions/"><u>[New] In 2024, Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-peeling-back-layers-of-the-metaverse-with-6-studies/"><u>[Updated] 2024 Approved Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transforming-photos-and-videos-from-instagram-to-iphones/"><u>[Updated] 2024 Approved Transforming Photos and Videos From Instagram to iPhones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-the-best-soil-sprouts-of-valheim/"><u>[Updated] Discovering the Best Soil Sprouts of Valheim</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads/"><u>2024 Approved Pioneering Marketing Top 20 Strategies for Impactful FB Video Ads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-non-functional-microsoft-store-in-windows-11/"><u>Quick Fix for Non-Functional Microsoft Store in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-problems-with-your-discord-voice-communication/"><u>Quick Solutions: Resolving Problems with Your Discord Voice Communication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-integrating-the-search-feature-into-win11s-task-manager/"><u>Re-Integrating the Search Feature Into Win11's Task Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-risks-of-ignoring-windows-11-notification-sounds/"><u>The Hidden Risks of Ignoring Windows 11 Notification Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-of-windows-credentials-with-these-top-11-strategies/"><u>Unlock the Mystery of Windows Credentials with These Top 11 Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-capabilities-of-the-garmin-gpsmap-n-series-for-enthusiastic-explorers/"><u>Unveiling the Capabilities of the Garmin GPSMAP N Series for Enthusiastic Explorers</u></a></li>
 </ul></div>
-
-
-
 

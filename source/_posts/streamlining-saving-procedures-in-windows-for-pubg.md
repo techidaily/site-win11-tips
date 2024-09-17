@@ -1,7 +1,7 @@
 ---
 title: Streamlining Saving Procedures in Windows for PUBG
-date: 2024-09-11T01:28:32.666Z
-updated: 2024-09-12T01:28:32.666Z
+date: 2024-09-13T09:05:33.510Z
+updated: 2024-09-17T02:42:46.972Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  This is an annoying issue. Players can still play PUBG but can’t change in-game settings when they aren’t saving. Is PUBG: Battlegrounds not saving settings for you? If so, here are five fixes you can try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Delete the GameUserSettings File
 
@@ -53,20 +50,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Disable Controlled Folder Access
 
  Controlled folder access blocks ransomware, and other malware, from modifying files in folders. However, that feature can also stop games from saving progress and settings when it restricts their folder access. Make sure that feature isn’t causing issues for PUBG saving settings on your PC by checking and disabling its setting like this:
@@ -78,69 +61,22 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 4. If**Controlled folder access** is enabled, click that setting to turn it off.  
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Disable Third-Party Antivirus Software
 
  Some third-party antivirus apps might also include a similar controlled folder access feature to the one in Windows Security. So, it’s recommended users with third-party antivirus utilities select to disable them via their system tray context menus.
 
  Or look through your antivirus software’s settings tabs to see if one includes a comparable controlled folder setting that restricts app access to directories and files and turn it off if it does.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Reinstall PUBG
 
@@ -151,38 +87,18 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 3. Select the**Uninstall** menu option.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
 4. Click**Uninstall** when asked to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Tweak PUBG’s Game Settings Again
 
@@ -196,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,45 +119,20 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-your-twitter-video-experience-full-hd-edition/"><u>[Updated] 2024 Approved Elevate Your Twitter Video Experience Full HD Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-timeless-titans-a-list-of-the-top-10-classic-adventure-games/"><u>[Updated] 2024 Approved Timeless Titans A List of the Top 10 Classic Adventure Games</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>[Updated] Enhancing User Experience Creating High-ROI Animated Ads for FB</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] In 2024, Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>2024 Approved Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-the-sinister-windows-c0000022-flaw/"><u>Eradicating the Sinister Windows C0000022 Flaw</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-updating-windows-security-pin/"><u>Essential Techniques for Updating Windows Security PIN</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-managing-file-names-in-win-os-max-156/"><u>Expert Strategies for Managing File Names in Win OS (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-updates-dealing-with-errors-0xc1900101-and-0x30017/"><u>Fixing Updates: Dealing with Errors 0xC1900101 and 0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gauging-the-impact-do-windows-11-widgets-boost-productivity/"><u>Gauging the Impact: Do Windows 11 Widgets Boost Productivity?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-team-talking-in-rainbow-six-siege-again-voice-chat-solutions-updated/"><u>Get Your Team Talking in Rainbow Six Siege Again! Voice Chat Solutions Updated</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Guide to Rectify Microsoft Store Error 0X80073cf3 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-safe-storage-for-files-in-win1011/"><u>How to Configure Safe Storage for Files in Win10/11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-driver-setup-made-effortless-start-here/"><u>HP Driver Setup Made Effortless - Start Here</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-blaze-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Blaze 2 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-premium-tools-for-virtual-meeting-efficiency/"><u>In 2024, Premium Tools for Virtual Meeting Efficiency</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-improve-focal-depth-in-online-platforms/"><u>In 2024, Techniques to Improve Focal Depth in Online Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-look-windows-command-center/"><u>Inside Look: Windows' Command Center</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-network-speed-into-system-ui/"><u>Integrating Network Speed Into System UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-concealment-of-wireless-networks-windows-style/"><u>Masterful Concealment of Wireless Networks, Windows Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-11s-frozen-search-within-the-user-interface/"><u>Mending Windows 11'S Frozen Search Within the User Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-the-in-place-upgrades-with-ease-in-windows-11/"><u>Navigate the In-Place Upgrades with Ease in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-windows-active-sessions/"><u>Navigate Through Windows’ Active Sessions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrect-your-device-reviving-dead-usb-connections-win/"><u>Resurrect Your Device: Reviving Dead USB Connections Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-error-resolution-in-windows-11s-setup-process/"><u>Simplifying Error Resolution in Windows 11'S Setup Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slowing-down-lifes-exuberance-in-your-windows-environment/"><u>Slowing Down Life's Exuberance in Your Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-storage-merging-files-on-windows-11/"><u>Streamlining Storage: Merging Files on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-indispensable-value-of-bsod-in-diagnostic-processes/"><u>The Indispensable Value of BSoD in Diagnostic Processes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-earnings-unlocked-strategies-for-content-creators/"><u>Vimeo Earnings Unlocked Strategies for Content Creators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011s-network-woe-how-to-resolve-error-code-0x800704b3/"><u>Win10/11's Network Woe: How to Resolve Error Code: 0X800704B3</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-growth-guide-mastering-instagram-likes-and-video/"><u>[New] In 2024, Quick Growth Guide - Mastering Instagram Likes & Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ensuring-clear-audio-in-remote-recording/"><u>2024 Approved Ensuring Clear Audio in Remote Recording</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-selling-a-comprehensive-starters-guide/"><u>2024 Approved Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-15-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/adjustment-tips-for-subtle-audio-reduction-in-logic-pro-for-2024/"><u>Adjustment Tips for Subtle Audio Reduction in Logic Pro for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-genuine-errors-for-unlicensed-adobe/"><u>Halt Genuine Errors for Unlicensed Adobe</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-background-video-to-enrich-primary-scenes/"><u>Harnessing Background Video to Enrich Primary Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>In 2024, Ideal Matches Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-class-nullifying-stealthy-windows-apps/"><u>Master Class: Nullifying Stealthy Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshot-of-uac-dialogues/"><u>Navigating Windows Screenshot of UAC Dialogues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tormented-souls-game-continuously-fails-to-load-on-windows-troubleshooting-tips/"><u>Tormented Souls Game Continuously Fails to Load on Windows - Troubleshooting Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-truth-behind-primes-subtitle-misfires-on-windows-11/"><u>Uncover the Truth Behind Prime's Subtitle Misfires on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces-for-2024/"><u>Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces for 2024</u></a></li>
 </ul></div>
-
-
-
 

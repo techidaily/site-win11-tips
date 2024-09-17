@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unrequested Launch of MSDN/StoreApp
-date: 2024-09-11T01:26:35.421Z
-updated: 2024-09-12T01:26:35.421Z
+date: 2024-09-15T23:35:25.528Z
+updated: 2024-09-17T02:56:54.395Z
 tags:
   - windows10
   - windows11
@@ -22,33 +22,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ##
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Close Microsoft Store's Background Processes
 
@@ -57,20 +34,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
  Press**Ctrl + Shift + Esc** to bring up Task Manager. There, right-click**Microsoft Store** and select**End task** .
 
 ![Close Windows Store with Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/task-manager-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##
 
@@ -87,34 +50,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![Restart Microsoft Store service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/store-service-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Re-register Microsoft Store
 
  If nothing worked until now, you could re-register the Microsoft Store app. To do it, launch PowerShell with administrative rights and paste this code:
@@ -123,19 +58,18 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  Then, press**Enter** to run it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Apply Generic Fixes for Microsoft Store Issues
 
@@ -143,19 +77,12 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  Similarly, a virus may be causing the Microsoft Store to open. Check out[how to remove malware using a Microsoft Defender offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) and give your PC a deep clean.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix the Microsoft Store App Opening Itself
 
@@ -163,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  If you’ve had enough and uninstalled it, you can still get Microsoft apps without the Microsoft Store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,46 +103,20 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-blending-and-bonding-creating-unique-image-collages/"><u>[New] Blending and Bonding Creating Unique Image Collages</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vividvistazoom-7-captivating-larger-images/"><u>[Updated] 2024 Approved VividVistaZoom 7 Captivating Larger Images</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>[Updated] Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-stories-vibrancy-via-thoughtful-interactive-qandas/"><u>2024 Approved Elevate Stories' Vibrancy via Thoughtful Interactive Q&As</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-invalid-user-alerts-fix-guide-for-windows-1111/"><u>Disabling Invalid User Alerts: Fix Guide for Windows 11/11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-90-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor 90 Lite FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicate-entryways-four-slick-steps-to-disable-a-user-on-win11/"><u>Eradicate Entryways: Four Slick Steps to Disable a User on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-data-recovery-offer-immediate-access-and-assurance/"><u>Exclusive Data Recovery Offer: Immediate Access & Assurance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-engage-clipboard-utility-within-microsoft-edges-app-guard-for-windows-11/"><u>How to Engage Clipboard Utility Within Microsoft Edge's App Guard for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-canon-ts6220-series-printer-driver-on-windows-pcs/"><u>How to Upgrade Your Canon TS6220 Series Printer Driver on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-xr21-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia XR21 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pixelpilot-video-snapshot/"><u>In 2024, PixelPilot Video Snapshot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innocuous-looking-apps-notorious-for-slowing-down-pcs/"><u>Innocuous-Looking Apps, Notorious for Slowing Down PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-driver-verifier-via-control-panel-on-w11/"><u>Launching Driver Verifier via Control Panel on W11</u></a></li>
-<li><a href="https://facebook.techidaily.com/martial-arts-circles-cut-off-digital-ties/"><u>Martial Arts Circles Cut Off Digital Ties</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/modernizing-the-user-experience-with-windows-1011-shortcuts/"><u>Modernizing the User Experience with Windows 10/11 Shortcuts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/next-gen-camera-showcase-2024-edition/"><u>Next-Gen Camera Showcase - 2024 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-non-starting-display-on-windows-11-pc/"><u>Overcoming Non-Starting Display on Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/patching-up-a-purple-problem-desktop-restoration-steps/"><u>Patching Up a Purple Problem: Desktop Restoration Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-to-stop-vscode-from-crashing-w11/"><u>Quick Fixes to Stop VSCode From Crashing W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-lsa-error-local-sec-admin-disabled-alert/"><u>Resolving LSA Error: Local Sec Admin Disabled Alert</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-windows-hello-fingerprints/"><u>Step-by-Step Guide: Implementing Windows Hello Fingerprints</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-with-mspcm-toolbar-in-windows-11/"><u>Streamlining Tasks with MSPCM Toolbar in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-managing-text-highlighting-in-windows-11/"><u>Tips for Managing Text Highlighting in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-non-microsoft-tools-for-immediate-and-accurate-screen-sniping/"><u>Top Non-Microsoft Tools For Immediate and Accurate Screen Sniping</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transforming-traditional-markets-with-virtual-engineering-for-2024/"><u>Transforming Traditional Markets with Virtual Engineering for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-ssltls-handshake-errors-on-windows/"><u>Troubleshooting Guide: How to Fix SSL/TLS Handshake Errors on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-full-potential-of-service-management-on-windows-11/"><u>Unlock the Full Potential of Service Management on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mysteries-of-windows-iscsi-initiator-access/"><u>Unraveling the Mysteries of Windows iSCSI Initiator Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-epson-xp-245-printer-drivers-available-how-to-download-and-install-on-win7810/"><u>Updated Epson XP-245 Printer Drivers Available: How to Download and Install on Win7/8/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-for-outlook-malfunctions/"><u>Winning Strategies for Outlook Malfunctions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>[New] 2024 Approved Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-gif-galore-converting-tweet-videos-at-zero-cost-for-2024/"><u>[New] GIF Galore Converting Tweet Videos at Zero Cost for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mov-storage-techniques-a-windows-10-perspective/"><u>[Updated] .mov Storage Techniques A Windows 10 Perspective</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-av1-decoded-for-starters/"><u>[Updated] In 2024, AV1 Decoded for Starters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-up-content-creation-standard-studio-vs-beta-access/"><u>2024 Approved Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conserve-power-implementing-idle-shutdown-on-windows-11-pcs/"><u>Conserve Power: Implementing Idle Shutdown on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-engaging-in-dialogue-enhance-chatgpts-learning-abilities/"><u>Does Engaging in Dialogue Enhance ChatGPT's Learning Abilities?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>In 2024, Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pioneering-progress-in-telecommunications-with-verizons-leap-to-5g/"><u>Pioneering Progress in Telecommunications with Verizon's Leap to 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
 </ul></div>
-
-
-
 

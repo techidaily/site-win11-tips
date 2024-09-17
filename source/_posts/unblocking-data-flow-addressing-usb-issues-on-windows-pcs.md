@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Data Flow: Addressing USB Issues on Windows PCs"
-date: 2024-09-11T01:25:42.137Z
-updated: 2024-09-12T01:25:42.137Z
+date: 2024-09-09T23:01:32.665Z
+updated: 2024-09-16T19:39:03.290Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Unplug and Replug the USB Stick
 
@@ -62,61 +45,26 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  If Windows still can't find any drivers, then you can try locating them yourself. Take note of the manufacturer and model number
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Format Your USB Stick
 
@@ -128,43 +76,16 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
@@ -192,60 +113,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>[New] 2024 Approved Crafting a Unique Identity Step-by-Step Audio Customizations on Android Phones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>[New] 2024 Approved How to Pin Someone on Snapchat All You Need to Know</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-mac-screen-recording-with-shortcuts/"><u>[New] 2024 Approved The Essential Guide to Mac Screen Recording with Shortcuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design/"><u>[New] GIFs That Speak Volumes Unveiling 6 Critical Strategies for Memetic Design</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>[Updated] 2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-affordable-high-quality-asmr-recording-devices-revealed/"><u>[Updated] Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-revealing-top-streamers-expert-tips-on-choosing-right/"><u>2024 Approved Revealing Top Streamers Expert Tips on Choosing Right</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>2024 Approved The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725285885854-winxvideo-ai/"><u>利用 WinxVideo AI進行預見式屏幕和網路攝影解碼方法</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-integration-playstation-5-plus-wireless-headphones/"><u>Audio Integration: PlayStation 5 + Wireless Headphones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-line-mastery-navigating-through-windows-error-messages-with-precision-and-skill/"><u>Command Line Mastery: Navigating Through Windows Error Messages with Precision and Skill</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/craft-a-tailored-clutter-free-windows-11-environment/"><u>Craft a Tailored, Clutter-Free Windows 11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-memory-safety-seven-tips-to-overcome-win11-grayouts/"><u>Elevating Memory Safety: Seven Tips to Overcome Win11 Grayouts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-for-identifying-hard-drive-vs-solid-state-drive-on-windows/"><u>Expert Tips for Identifying Hard Drive vs Solid State Drive on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-insufficient-rights-error-during-windows-setup/"><u>Fixing Insufficient Rights Error During Windows Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-brightness-controls-via-keyboard-shortcuts-on-windows-11/"><u>Guide to Fixing Brightness Controls via Keyboard Shortcuts on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-proficiently-utilize-the-windows-print-device-manager/"><u>How To Proficiently Utilize the Windows Print Device Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rescue-missing-pin-in-windows-11-after-an-error/"><u>How To Rescue Missing PIN in Windows 11 After An Error</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C55 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Curve 5G Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>In 2024, Live to Share Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-voice-customization-leaders-beyond-echo-magic/"><u>In 2024, Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cortana-data-backup-on-pc/"><u>Mastering Cortana Data Backup on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-wasted-cpu-by-ntoskrnlexe-processes/"><u>Minimizing Wasted Cpu by Ntoskrnl.exe Processes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-stabilizers-elevate-your-iphoneandroid-videography-for-2024/"><u>Optimal Stabilizers Elevate Your iPhone/Android Videography for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-easy-wi-fi-deletion-guide/"><u>Optimize Windows 11: Easy Wi-Fi Deletion Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-language-access-navigating-through-foreign-languages-on-windows/"><u>Quick Language Access: Navigating Through Foreign Languages on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073d26-on-windows-oses/"><u>Resolving Microsoft Store Error Code 0X80073D26 on Windows OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-why-you-shouldnt-turn-off-windows-11s-alerts/"><u>Revealing Why You Shouldn’t Turn Off Windows 11'S Alerts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionary-apple-home-assistant-bot-upcoming-costs-launch-timeline-and-specs-unveiled/"><u>Revolutionary Apple Home Assistant Bot - Upcoming Costs, Launch Timeline & Specs Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-shared-printer-setup-on-desktops/"><u>Streamlining Shared Printer Setup on Desktops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/struggling-with-whatsapp-status-video-downloads-easy-solutions-inside/"><u>Struggling with WhatsApp Status Video Downloads? Easy Solutions Inside!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-5-tracks-to-windows-startup-landscape/"><u>The 5 Tracks to Windows Startup Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-isdonedll-failures-on-windows-1011/"><u>Troubleshooting ISDone.dll Failures on Windows 10/11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-video-flipping-issues-fixes-for-inverted-images-on-asus-systems/"><u>Troubleshooting Video Flipping Issues: Fixes for Inverted Images on Asus Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-your-websites-potential-with-our-revolutionary-cookiebot-integration/"><u>Unlock Your Website's Potential with Our Revolutionary Cookiebot Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-behind-x80070091-error-in-windows-environments/"><u>Unveiling the Secret Behind X80070091 Error in Windows Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win1011-reactivating-unresponsive-adobe-photoshop/"><u>Win10/11: Reactivating Unresponsive Adobe Photoshop</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -253,3 +120,20 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop/"><u>[Updated] In 2024, Crafting Your Signature Tone A Comprehensive ZOOM Recording Workshop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-secrets-of-effective-screencasts/"><u>[Updated] Unveiling the Secrets of Effective Screencasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>2024 Approved Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-video-popularity-essential-seo-techniques-for-success-for-2024/"><u>Elevate Your Video Popularity Essential SEO Techniques for Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-experience-essential-cost-free-tools-for-win11/"><u>Enhance Your Experience: Essential Cost-Free Tools for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-refreshment-considering-options-beyond-windows/"><u>Old PC Refreshment: Considering Options Beyond Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-iphone-x-animoji-use-with-expert-tips-for-2024/"><u>Perfecting iPhone X Animoji Use with Expert Tips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unresponsive-usb-mouse-and-keyboard-interactions-in-windows-7-systems/"><u>Resolving Unresponsive USB Mouse and Keyboard Interactions in Windows 7 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-enabling-sandbox-in-win-11/"><u>Step-by-Step: Enabling Sandbox in Win 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/timely-team-setups-adjusting-backdrop-beforeafter-calls/"><u>Timely Team Setups Adjusting Backdrop Before/After Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-your-content-instagram-ready-videos-in-final-cut-pro-x-for-2024/"><u>Transform Your Content Instagram-Ready Videos in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs/"><u>Updated In 2024, Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs</u></a></li>
+</ul></div>
+

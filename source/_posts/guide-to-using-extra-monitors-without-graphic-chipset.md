@@ -1,7 +1,7 @@
 ---
 title: Guide to Using Extra Monitors Without Graphic Chipset
-date: 2024-09-11T01:26:15.611Z
-updated: 2024-09-12T01:26:15.611Z
+date: 2024-09-10T20:53:39.226Z
+updated: 2024-09-17T09:18:17.582Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to Check If You Have A Dedicated GPU
 
@@ -34,53 +31,11 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
 
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
@@ -88,37 +43,9 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
@@ -132,85 +59,18 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Use Your Dedicated Graphics Card When You Need It
 
  All in all, you're better off using your dedicated graphics card, especially if you are into graphically demanding applications. But if your computer doesn't have a dedicated GPU, disabling integrated graphics is not an option. The decision depends on what you're ultimately trying to achieve on your Windows computer.
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
-
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lightning-speed-view-for-windows-photos/"><u>[New] Lightning Speed View for Windows Photos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-youtube-presence-with-effective-tags/"><u>[Updated] 2024 Approved Elevating Your YouTube Presence with Effective Tags</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>[Updated] In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-skyline-your-tweets-elevating-twitter-streams/"><u>[Updated] Skyline Your Tweets Elevating Twitter Streams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-record-wizard-for-win11-enthusiasts/"><u>2024 Approved Screen Record Wizard for Win11 Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262316054-amds-ryzen-9000-now-available-on-best-buy-prices-slashed-below-launch-rates-of-previous-ryzen-models/"><u>AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-realme-narzo-60-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme Narzo 60 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enriched-desktop-features-real-time-performance-indicators/"><u>Enriched Desktop Features: Real-Time Performance Indicators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-actions-to-resolve-windowed-games-issue/"><u>Essential Actions to Resolve Windowed Games Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-reducing-disk-storage-usage-on-windows/"><u>Essential Tips for Reducing Disk Storage Usage on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-why-keeping-windows-11s-alerts-is-important/"><u>Explore Why Keeping Windows 11'S Alerts Is Important</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-non-compatible-controllers-in-windows/"><u>Guide to Reviving Non-Compatible Controllers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-you-through-windows-11-emulation-on-vmware-17/"><u>Guiding You Through Windows 11 Emulation on VMWare 17</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-the-most-recent-razer-naga-driver-version-compatible-with-windows-os/"><u>How to Download the Most Recent Razer Naga Driver Version Compatible with Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-synchronization-glitches-in-monitors/"><u>How to Fix Synchronization Glitches in Monitors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-10-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 10 & 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nifty-folding-tricks-in-windows-11-for-beginners/"><u>Nifty Folding Tricks in Windows 11 for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-performance-tracking-improving-system-tray-usage-reports/"><u>Optimize Performance Tracking: Improving System Tray Usage Reports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prologue-to-productivity-starting-windows-and-stickies-together/"><u>Prologue to Productivity: Starting Windows & Stickies Together</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-tackling-windows-steam-playback-problems/"><u>Quick Guide: Tackling Windows Steam Playback Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-hidden-wi-fi-a-guide-to-restoring-lost-connections/"><u>Reviving Your Hidden Wi-Fi: A Guide to Restoring Lost Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-shopping-redefined-by-microsofts-ai-hub/"><u>Seamless Shopping Redefined by Microsoft’s AI Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-browsing-with-proton-vpn-extension-change-email-steps-and-avoid-fake-windows-chatbots/"><u>Secure Browsing with Proton VPN Extension – Change Email Steps & Avoid Fake Windows ChatBots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-file-transfer-speed-on-microsoft-platforms/"><u>Skyrocket Your File Transfer Speed on Microsoft Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-and-kali-linux-combo/"><u>Step-by-Step Guide to Windows & Kali Linux Combo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-access-to-non-local-files/"><u>Streamlining Access to Non-Local Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-win11-package-management-using-wingetui/"><u>Streamlining Win11 Package Management Using WingetUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-survival-kit-top-13-ways-to-resurrect-windows/"><u>System Survival Kit: Top 13 Ways to Resurrect Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-graphics-errors-a-comprehensive-d3d11-fix-in-windows-1110/"><u>Tackling Graphics Errors: A Comprehensive D3D11 Fix in Windows 11/10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-6-superior-food-diary-applications-to-boost-your-well-beer/"><u>The Ultimate Selection: 6 Superior Food Diary Applications to Boost Your Well-Beer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-oculus-q2-into-windows-compatible-vr/"><u>Transforming Oculus Q2 Into Windows-Compatible VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-opening-mailcalendar-app-in-w11/"><u>Troubleshooting Non-Opening Mail/Calendar App in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-off-microsofts-intelligent-assistance/"><u>Turn Off Microsoft's Intelligent Assistance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visualizing-resources-efficiently-taskbar-display-reimagined/"><u>Visualizing Resources Efficiently: Taskbar Display Reimagined</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-screen-makeover-tailored-wallpapers-per-monitor/"><u>Windows 11 Screen Makeover: Tailored Wallpapers Per Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-phone-link-enable-or-disable-for-better-security/"><u>Windows Phone Link - Enable or Disable for Better Security?</u></a></li>
-</ul></div>
-
-
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -219,3 +79,23 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-5-ios-tools-to-download-facebook-movies-and-clips/"><u>[New] 2024 Approved Top 5 iOS Tools to Download Facebook Movies & Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-craft-individualized-farewell-soundtracks-without-spending/"><u>[Updated] 2024 Approved Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customization-charter-three-tactics-for-windows-11/"><u>Customization Charter: Three Tactics for Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-pilot-to-producer-editing-mastery-in-drone-filmmaking-for-2024/"><u>From Pilot to Producer Editing Mastery in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-firewall-essential-tips/"><u>Resetting Windows Firewall: Essential Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tap-into-speedier-entry-7-methods-to-curtail-delay-in-windows-11/"><u>Tap Into Speedier Entry: 7 Methods to Curtail Delay in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tightening-the-circle-simple-solutions-to-security-problems/"><u>Tightening the Circle: Simple Solutions to Security Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-techniques-for-successfully-uploading-ultra-hd-content-on-youtube/"><u>Top Techniques for Successfully Uploading Ultra HD Content on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-cant-print-dilemran-on-win11/"><u>Unraveling the 'Can't Print' Dilemran on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-the-chains-of-windows-11-and-10s-s-mode/"><u>Unshackling the Chains of Windows 11 & 10'S 'S Mode'</u></a></li>
+</ul></div>
+

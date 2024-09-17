@@ -1,7 +1,7 @@
 ---
 title: Instant Tips for Setting Windows Time Locally
-date: 2024-09-11T01:27:02.438Z
-updated: 2024-09-12T01:27:02.438Z
+date: 2024-09-13T00:16:44.864Z
+updated: 2024-09-16T17:09:25.471Z
 tags:
   - windows10
   - windows11
@@ -18,33 +18,16 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Did you ever experience being in a different time zone while working on your Windows computer? You've checked Windows time settings and noticed that it's not set to your current location. Suddenly, you realize that the time zone is greyed out, and you can’t configure it automatically. What do you do next? There are several scenarios where Windows cannot automatically set the time zone, and here's how to fix them.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 1\. Restart Your PC
 
  The first step when troubleshooting any Windows-related issue is to restart the computer. It seems obvious, but it often solves the problem. Rebooting flushes out cached data that could cause time zone problems. It also resets various temporary services that may prevent Windows from automatically setting the time zone.
 
  To restart your computer, save all your work and close any running applications. After that, open the Start menu and click **Restart**. Once your computer restarts, check if that fixes the issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Turn on Location Services in the Settings
 
@@ -59,26 +42,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Enable Location Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-location-services.jpg)
 
  Now restart your computer and check if Windows can set the time zone automatically.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Set the Windows Time Service to Automatic
 
@@ -96,36 +59,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 7. Click **Apply** and **OK** to save the changes.
 
  Once you've done this, restart your PC and check the time zone settings.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Tweak the Registry Editor
 
@@ -150,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
 ## 5\. Use the Group Policy Editor
@@ -164,36 +107,23 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. Click **Apply** and **OK** to save the changes.
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Reset the Windows Time Service
 
@@ -221,60 +151,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  We hope the article helped you resolve timing issues on your Windows computer. It may occur due to missing or corrupted system files or incorrect time zone settings. Make sure to try these solutions and perform a System Restore if the problem persists.
 
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamline-your-screen-captures-with-4-methods/"><u>[New] 2024 Approved Streamline Your Screen Captures with 4 Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-voice-modulation-made-easy-ranking-the-best-audio-alteration-apps-on-smartphones/"><u>[New] In 2024, Voice Modulation Made Easy Ranking the Best Audio Alteration Apps on Smartphones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unlock-full-hd-tweeting-on-your-screen-for-2024/"><u>[New] Unlock Full HD Tweeting on Your Screen for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-close-up-mode-in-roblox-playground/"><u>[Updated] 2024 Approved Mastering Close-Up Mode in Roblox Playground</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-get-a-handful-of-personalized-endings-at-zip/"><u>[Updated] Get a Handful of Personalized Endings, at Zip</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-your-screen-time-discover-these-top-7-android-adblockers-for-2024/"><u>[Updated] Master Your Screen Time Discover These Top 7 Android AdBlockers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-is-now-transformative-metaverse-techniques/"><u>2024 Approved The Future Is Now Transformative Metaverse Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/complete-windows-11-clean-install-tutorial/"><u>Complete Windows 11 Clean Install Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decode-wacatacbml-symptoms-and-solutions-for-windows-malware-woes/"><u>Decode Wacatac.B!ml: Symptoms & Solutions for Windows Malware Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-discords-auto-start-and-update-check-on-windows/"><u>Disabling Discord's Auto-Start and Update Check on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-in-file-handling-windows-edition-max-156/"><u>Efficiency in File Handling: Windows Edition (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-life-with-premium-windows-software/"><u>Enhance Life with Premium Windows Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/getting-acquainted-with-bluescreenview-a-quick-primer/"><u>Getting Acquainted with BlueScreenView: A Quick Primer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/l-lens-local-tales-how-to-transform-your-travel-experiences-into-content-for-2024/"><u>Global Lens, Local Tales How to Transform Your Travel Experiences Into Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-high-cpu-usage-from-vanguard-user-mode-service-on-windows/"><u>How to Fix High CPU Usage From Vanguard User-Mode Service on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-hide-or-block-other-wi-fi-networks-on-windows/"><u>How to Hide or Block Other Wi-Fi Networks on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-locate-and-restore-missing-pin-on-windows-11-system/"><u>How To Locate and Restore Missing PIN on Windows 11 System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-troubleshoot-your-netflix-connection-with-error-message-nw-21-7-a-complete-fixers-checklist/"><u>How to Troubleshoot Your Netflix Connection with Error Message NW-21-7: A Complete Fixer's Checklist</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-the-system-level-driver-monitor-w11/"><u>Launching the System-Level Driver Monitor W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-non-operational-obs/"><u>Mastering the Art of Restarting Non-Operational OBS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-absence-of-monitor-at-startup/"><u>Overcoming Absence of Monitor at Startup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11s-zerox-error-at-keyboard-input/"><u>Overcoming Windows 11'S Zerox Error at Keyboard Input</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-error-0x800700e1/"><u>Overcoming Windows Error 0X800700E1</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-operation-requirements-and-error-740-on-windows-11/"><u>Quick Fixes for Operation Requirements and Error 740 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-failed-attempts-office-activation-troubleshooting/"><u>Reversing Failed Attempts: Office Activation Troubleshooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-dxgierrordeviceremoved-in-oses/"><u>Steps to Address DXGI_ERROR_DEVICE_REMOVED in OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-sandboxs-zero-error-hypervisor-missing/"><u>Steps to Resolve Windows Sandbox's Zero Error Hypervisor Missing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-and-fixing-windows-discord-query-mechanism/"><u>Streamlining and Fixing Windows' Discord Query Mechanism</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/students-new-tech-ally-asus-s15-oled-review-revealed/"><u>Students' New Tech Ally: Asus S15 OLED Review Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-camouflaging-search-on-11/"><u>The Ultimate Guide to Camouflaging Search on 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-clean-slate-three-methods/"><u>The Ultimate Windows Clean Slate: Three Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbo-accelerate-your-windows-printer-pace/"><u>Turbo-Accelerate Your WIndows Printer Pace</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-choosing-the-right-dry-and-drop-proof-phone-case/"><u>Ultimate Guide: Choosing the Right Dry & Drop-Proof Phone Case</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-covert-software-on-your-pc/"><u>Uncovering Covert Software on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-win11-potential-installing-powertoys/"><u>Unlock Win11 Potential - Installing PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visual-diskspace-analyzer-tool-a-new-feature-for-windows-explorer/"><u>Visual Diskspace Analyzer Tool: A New Feature for Windows Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/which-nvidia-driver-suits-you-gameplay-or-studio/"><u>Which Nvidia Driver Suits You? - Gameplay or Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-you-should-stick-with-windows-over-linux-for-gaming/"><u>Why You Should Stick With Windows Over Linux for Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-visual-frontier-understanding-and-using-hdr-effectively/"><u>Windows 11'S Visual Frontier: Understanding and Using HDR Effectively</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -282,3 +158,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ultimate-list-of-16-starter-videos-for-more-watchers/"><u>[New] In 2024, Ultimate List of 16 Starter Videos for More Watchers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-perfect-sources-for-dj-template-video-downloads/"><u>[New] Perfect Sources for DJ Template Video Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-starting-a-live-feed/"><u>[Updated] The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams-for-2024/"><u>[Updated] The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-windows-11-tpm-removal-techniques-explored/"><u>Effortless Windows 11 TPM Removal Techniques Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-11-temporary-files-reliable-and-valid/"><u>Keeping Your Windows 11 Temporary Files Reliable & Valid</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reviving-lost-content-on-your-iphone-after-a-full-system-restore/"><u>Reviving Lost Content on Your iPhone After a Full System Restore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilizing-vscode-on-windows-11-systems/"><u>Stabilizing VSCode on Windows 11 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-s17-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo S17 Pro Phone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-incorporating-songs-seamlessly-into-powerpoint-slideshow/"><u>Ultimate Guide: Incorporating Songs Seamlessly Into PowerPoint Slideshow</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-8s-proplus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 8S Pro+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
+

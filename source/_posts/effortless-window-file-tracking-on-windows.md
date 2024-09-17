@@ -1,7 +1,7 @@
 ---
 title: Effortless Window File Tracking on Windows
-date: 2024-09-11T01:28:46.397Z
-updated: 2024-09-12T01:28:46.397Z
+date: 2024-09-14T22:59:10.587Z
+updated: 2024-09-16T18:38:41.344Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  In this article, we'll discuss how to see the recently opened files on Windows, when they were modified the last time, and how to recover them if they have been deleted.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to See Recently Opened Files on Windows
 
@@ -35,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
  While Quick Access shows only a few files opened recently (approx. 20), the Recent Items folder keeps a history of files and folders opened many days ago. So, a user can go back to check which files were opened on a particular day, even a week or month ago.
 
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### How to View Recently Opened Files in Quick Access
 
@@ -81,36 +64,9 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -122,37 +78,23 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
 
@@ -166,34 +108,17 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Access Recently Opened Files With Ease
 
  Recently opened files give us a quick overview of which files have been worked on by you or someone else recently. We hope our guide made it easy for you to access recently opened files in Quick Access and the Recent Items folder.
 
  If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,46 +127,17 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-record-google-hangout-4-solutions/"><u>[Updated] In 2024, Record Google Hangout [4 Solutions]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-resolve-hdr-video-issue-clearing-blank-display-for-2024/"><u>[Updated] Resolve HDR Video Issue Clearing Blank Display for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-the-potential-of-your-fb-cover-image-with-these-top-11-websites-for-2024/"><u>[Updated] Unlock the Potential of Your FB Cover Image with These Top 11 Websites for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-to-the-chase-speed-up-workflow-with-grouped-directories-in-win11plus11/"><u>Cut to the Chase: Speed up Workflow with Grouped Directories in Win11+11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/detailed-analysis-of-the-thrilling-overwatch-team-action-shooter-excellence/"><u>Detailed Analysis of the Thrilling Overwatch: Team Action Shooter Excellence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-print-fixes-for-common-windows-11-printer-hiccups/"><u>Easy Print Fixes for Common Windows 11 Printer Hiccups</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-mkv-to-itunes-and-avchd-conversion-with-macx-video-tool/"><u>Effortless MKV to iTunes & AVCHD Conversion with MacX Video Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-microsoft-store-crash-code-0x800704cf/"><u>Eradicating Microsoft Store Crash: Code 0X800704CF</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-11-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 11 Pro Max Stuck On Activation Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-hide-the-task-view-button-from-the-windows-11-taskbar/"><u>How to Hide the Task View Button From the Windows 11 Taskbar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y100i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y100i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-easy-ipad-and-iphone-screen-recording-for-beginners/"><u>In 2024, Easy iPad & iPhone Screen Recording for Beginners</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-tutorial-applying-computer-vhs-filters/"><u>In 2024, Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/iphone-not-powering-on-resolve-issues-arising-from-software-updates-accidents-and-moisture-exposure/"><u>IPhone Not Powering On? Resolve Issues Arising From Software Updates, Accidents, and Moisture Exposure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keep-taskmanager-front-and-center-in-windows/"><u>Keep TaskManager Front and Center in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-file-capacity-with-win-1011-tips/"><u>Managing File Capacity with Win 10/11 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-chatgpt-windows-setup-guide/"><u>Mastering ChatGPT: Windows Setup Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-summation-issues-in-winrar-archives-with-six-tactics/"><u>Overcoming Summation Issues in WinRAR Archives With Six Tactics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-access-to-off-screen-panes-win11-guide/"><u>Regaining Access to Off-Screen Panes: Win11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedy-black-and-white-errors-in-microsoft-shop/"><u>Remedy Black and White Errors in Microsoft Shop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-barriers-steam-and-windows-11-file-privilege-issue/"><u>Removing Barriers: Steam & Windows 11 File Privilege Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-11-performing-an-uncluttered-reboot/"><u>Reviving Windows 11: Performing an Uncluttered Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-sites-shutdown-top-strategies-for-windows-browsing-woes/"><u>Seamless Sites Shutdown: Top Strategies for Windows Browsing Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shorten-system-awakening-edit-boot-sequence-timing-windows-11/"><u>Shorten System Awakening: Edit Boot Sequence Timing Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-switch-toggle-microsofts-window-integrated-chat-support/"><u>Swift Switch: Toggle Microsoft’s Window-Integrated Chat Support</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-windows-intruder-bsod-crisis/"><u>Techniques to Overcome Windows' Intruder BSOD Crisis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-audio-visual-harmony-youtube-music-inclusion-guide-for-2024/"><u>The Art of Audio-Visual Harmony YouTube Music Inclusion Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fixers-manual-for-installer-errors-on-win11/"><u>The Ultimate Fixer's Manual for Installer Errors on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-dynamics-of-windows-updates/"><u>Understanding the Dynamics of Windows Updates</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 using macOS finder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-potential-mastering-the-function-fn-key/"><u>Unlocking Potential: Mastering the Function (Fn) Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-woes-re-opening-chrome-made-simple/"><u>Windows 11 Woes: Re-Opening Chrome Made Simple</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-optimizing-audio-quality-during-video-calls-on-win11-for-2024/"><u>[New] Optimizing Audio Quality During Video Calls on Win11 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-sifu-fps-drops-stuttering-on-pc/"><u>[SOLVED] Sifu FPS Drops, Stuttering on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-upload-and-share-videos-on-twitter-made-easy/"><u>2024 Approved Upload & Share Videos on Twitter Made Easy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/d-link-powerline-2000-assessment-streamlined-setup-process-and-enhanced-data-throughput/"><u>D-Link Powerline 2000 Assessment: Streamlined Setup Process and Enhanced Data Throughput</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-camon-30-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Camon 30 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-adding-dolby-atmos-to-your-pc/"><u>Step-By-Step: Adding Dolby Atmos to Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
 </ul></div>
-
-
-
 

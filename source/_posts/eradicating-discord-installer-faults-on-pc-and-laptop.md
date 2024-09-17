@@ -1,7 +1,7 @@
 ---
 title: Eradicating Discord Installer Faults on PC & Laptop
-date: 2024-09-11T01:26:32.635Z
-updated: 2024-09-12T01:26:32.635Z
+date: 2024-09-13T04:43:25.951Z
+updated: 2024-09-17T00:33:14.347Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,10 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
  Is the “Installation has failed” error preventing you from installing and utilizing Discord in Windows? If so, you don’t have to miss out on Discord. This is how you can fix the “Installation has failed” error in Windows 10 and 11.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Download the Discord Setup File Again
 
@@ -49,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
  Note that there’s also an alternative Discord Public Test Build (PTB) version available on that download page. You can try installing the PTB, which includes new experimental features, as an alternative to the standard Discord client. To do so, click the**Download Public Test Build** option further down the page instead and select**Windows** .
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
@@ -75,37 +44,10 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
 5. Select**Next** to go to the first step.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Disable Any Background Discord Processes
 
@@ -119,25 +61,12 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 5. Repeat the fourth step for all Discord-related processes.
 6. Try installing Discord after disabling related background processes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Delete Any Leftover Discord Data Folders
 
@@ -150,25 +79,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
@@ -178,19 +88,19 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
 
@@ -203,20 +113,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![The Microsoft .NET Framework 4.5 installer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microsoft-net-framework-installer-window.jpg)
 5. Click**Continue** if that option isn’t grayed out.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
@@ -224,6 +120,19 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
@@ -235,20 +144,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Get Chatting Again in Discord for Windows
 
  The potential “Installation has failed” error solutions in this guide are among the most widely confirmed ways to fix that issue in Windows 10 and 11\. The third and fourth resolutions particularly often resolve the “Installation has failed” error for users trying to reinstall Discord. However, you can also contact Discord’s support service if nothing seems to work.
@@ -259,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,52 +161,16 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[New] In 2024, Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-screen-recording-made-simple-methodical-guidebook/"><u>[New] Screen Recording Made Simple Methodical Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-accelerated-video-capture-device-and-voice-commentary-feature-for-2024/"><u>[Updated] Accelerated Video Capture Device & Voice Commentary Feature for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-achieve-flawless-audio-googles-uploading-system/"><u>[Updated] Achieve Flawless Audio Google's Uploading System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-top-10-vr-360-video-players-for-pc/"><u>[Updated] FREE Top 10 VR (360 Video) Players for PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-titles-superior-blu-ray-players-for-free-and-paid-users/"><u>[Updated] Ideal Titles Superior Blu-Ray Players for Free and Paid Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-minimalist-approach-to-podcast-livestream/"><u>2024 Approved Minimalist Approach to Podcast Livestream</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlock-creative-potential-image-curve-magic-in-ps/"><u>2024 Approved Unlock Creative Potential Image Curve Magic in PS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/advancing-audible-experience-safely-on-spotify-platforms-for-2024/"><u>Advancing Audible Experience Safely on Spotify Platforms for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/boosting-engagement-how-to-optimize-multi-streams-across-youtube-and-twitch-platforms-for-2024/"><u>Boosting Engagement How to Optimize Multi-Streams Across Youtube & Twitch Platforms for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-dual-displays-in-windows-11-easy-guide/"><u>Configuring Dual Displays in Windows 11 Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-missing-display-in-boot-sequence/"><u>Diagnosing Missing Display in Boot Sequence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-windows-methods-to-record-conversations/"><u>Effective Windows Methods to Record Conversations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-ark-gameplay-master-the-art-of-fps-boosting-on-pc/"><u>Enhance ARK Gameplay: Master the Art of FPS Boosting on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-2e-in-windows-how-to-resume-update-process/"><u>Error 2E in Windows: How to Resume Update Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/extend-windows-capacity-safely-and-intelligently/"><u>Extend Windows Capacity Safely & Intelligently</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-0x80072efd-a-windows-store-error-solution/"><u>Fixing 0X80072EFD: A Windows Store Error Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-errors-with-copypaste-feature-on-windows-11/"><u>Fixing Errors with Copy/Paste Feature on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-black-screen-issue-on-cyberpunk-2077-a-comprehensive-guide/"><u>Fixing the Black Screen Issue on Cyberpunk 2077: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacks-improve-reading-of-excel-data-on-windows-notepad/"><u>Hacks: Improve Reading of Excel Data on Windows Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-sign-out-other-users-on-windows-11/"><u>How to Sign Out Other Users on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-innovative-methods-for-time-loop-illusions/"><u>In 2024, Innovative Methods for Time Loop Illusions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-7-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 7 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-administrative-access-through-cmd/"><u>Leveraging Administrative Access Through CMD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-guide-to-restore-lost-pin-after-win-11-crashes/"><u>Master Guide to Restore Lost PIN After Win 11 Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-fixing-winget-issues-w11-style/"><u>Master the Art of Fixing Winget Issues W11 Style</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-stable-frame-rates-for-a-seamless-cold-war-experience-proven-pc-tweaks-and-adjustments-2024-insights/"><u>Mastering Stable Frame Rates for a Seamless Cold War Experience: Proven PC Tweaks & Adjustments (2024 Insights)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-browser-interactivity-enable-gesture-navigation-in-windows-11s-edge/"><u>Maximizing Browser Interactivity: Enable Gesture Navigation in Windows 11'S Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/outpace-the-windowed-wired-limit-transcending-100mbps-on-windows-pcs/"><u>Outpace the Windowed Wired Limit: Transcending 100Mbps on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfectly-positioned-win11s-6-image-rotation-methods/"><u>Perfectly Positioned: Win11's 6 Image Rotation Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenate-right-click-menus-with-effective-fixes/"><u>Rejuvenate Right-Click Menus with Effective Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-breakdown-with-mbs-services-in-windows-11/"><u>Resolving Connection Breakdown with MB's Services in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversal-of-read-only-settings-in-windows-11-storage/"><u>Reversal of Read-Only Settings in Windows 11 Storage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/websites-halted-by-hardware-7-windows-fixes-for-browsing-blockades/"><u>Websites Halted by Hardware: 7 Windows Fixes for Browsing Blockades</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-ousting-the-focused-wallpaper-symbol/"><u>Windows 11: Ousting the Focused Wallpaper Symbol</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-system-lifespan-indicator/"><u>Windows System Lifespan Indicator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-own-voice-recognition-tool-building-with-ahk-and-whisper-on-windows/"><u>Your Own Voice Recognition Tool: Building with AHK and Whisper on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-premier-producer-a-choreography-of-colors-and-tones/"><u>[New] 2024 Approved Premier Producer A Choreography of Colors & Tones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>[New] Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-windows-11-emoji-15-enablement/"><u>Essential Tweaks for Windows 11: Emoji 15 Enablement</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-overcome-freezing-in-rocket-league-gameplay/"><u>Expert Guide to Overcome Freezing in Rocket League Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/investigating-whether-sns-hdr-offers-superior-ux-for-2024/"><u>Investigating Whether SNS HDR Offers Superior UX for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-mx922-all-in-one-printer-drivers-now-available-for-pc-users/"><u>Latest Canon MX922 All-in-One Printer Drivers Now Available for PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-functionality-legacy-keys-in-windows-narrator/"><u>Maximizing Functionality: Legacy Keys in Windows Narrator</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-launchpad-experience-with-top-techniques-for-windows-11/"><u>Transforming Launchpad Experience with Top Techniques for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-underrated-features-what-you-need-to-know/"><u>Windows 11'S Underrated Features: What You Need to Know</u></a></li>
 </ul></div>
-
-
-
 

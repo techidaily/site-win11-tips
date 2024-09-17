@@ -1,7 +1,7 @@
 ---
 title: "Uncover & Purge Window's Empties: A Compre Cooking Instruction"
-date: 2024-09-11T01:25:08.524Z
-updated: 2024-09-12T01:25:08.524Z
+date: 2024-09-11T17:06:28.475Z
+updated: 2024-09-16T23:11:36.846Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 
  In this article, we'll show you how to remove empty folders from your computer with PowerShell, a Windows built-in utility, and third-party software.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Setting the Foundation to Delete Empty Folders in Windows
 
@@ -45,20 +42,6 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 
  Once you've signed in as an administrator and revealed the hidden folders, it's time to delete the empty folders.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Find and Delete Empty Folders Using Windows PowerShell
 
  If you only want to declutter a few folders, such as the ones containing your college data, there is no need to use third-party software. Interestingly, the Windows PowerShell utility can help you wipe out empty folders with just one command. Here's how:
@@ -68,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -88,36 +58,9 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 ![Successfully Locating All Empty Folders and Subfolders Using Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-successfully-locating-all-empty-folders-and-subfolders-using-windows-powershell-app.jpg)
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
 ![Deleting the Empty Folders by Running the Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-deleting-the-empty-folders-by-running-the-command-in-windows-powershell-app.jpg)
 6. Hit**Enter** and the empty subfolders will be automatically deleted.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  There's a catch, though. If you delete the empty subfolder in a folder that previously contained only that empty subfolder, the main folder also becomes empty. If you delete that empty folder by executing the command a second time, perhaps another parent folder in the tree may also become empty.
 
@@ -126,20 +69,6 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
  Similarly, you can use the above method to find empty folders on crowded drives and delete them. However, this method is limited because it doesn't allow you to delete some empty folders, leaving others intact selectively.
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
@@ -162,43 +91,23 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 ![Checking the Boxes for All Empty Files and Folders by Clicking on Select All Button in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/10-checking-the-boxes-for-all-empty-files-and-folders-by-clicking-on-select-all-button-in-empty-folder-cleaner-software.jpg)
 5. In the top-left corner, right next to**Scan** , click**Delete Empty Folders** .
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. Once the warning pop-up appears, select**Yes** to delete all empty folders successfully.  
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
 
-
-
-
+ There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
 
 ## Don't Let Empty Folders Clog Up Your Device's Organization
 
@@ -206,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
 
  Besides empty folders you deleted, many other files and folders unnecessarily burden your device, including files in Windows Temp, Recycle Bin, and LiveKernelReports. So, watch out for this extra burden and lower it regularly to keep your machine running smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,56 +128,18 @@ thumbnail: https://thmb.techidaily.com/e874e7774ed1bae47e14908261fcbf31de304eed1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-9plus-ways-to-experience-cricket-live-streaming-at-its-best/"><u>[New] 9+ Ways to Experience Cricket Live Streaming at Its Best</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-leading-stock-pictures-tales-and-internet-fame-for-2024/"><u>[New] Leading Stock Pictures' Tales and Internet Fame for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-average-revenue-what-every-view-contributes-to-creators/"><u>[Updated] 2024 Approved Average Revenue What Every View Contributes to Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[Updated] Closing Your Vlog Right Top 6 Free YouTube Outro Tools!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-the-battery-life-and-durability-of-jabras-earbuds/"><u>Assessing the Battery Life and Durability of Jabra's Earbuds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/camera-control-tips-for-unshakable-images-for-2024/"><u>Camera Control Tips for Unshakable Images for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/conquered-creativity-unleashing-photo-potential-on-snapchat/"><u>Conquered Creativity Unleashing Photo Potential on Snapchat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/delving-into-the-core-contrasts-of-apples-mac-and-microsofts-pc-find-out-how-they-differ/"><u>Delving Into the Core Contrasts of Apple's Mac and Microsoft's PC – Find Out How They Differ!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enriched-desktop-features-real-time-performance-indicators/"><u>Enriched Desktop Features: Real-Time Performance Indicators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-actions-to-resolve-windowed-games-issue/"><u>Essential Actions to Resolve Windowed Games Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-components-and-specifications-choosing-the-right-gaming-pc/"><u>Essential Components and Specifications: Choosing the Right Gaming PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-reducing-disk-storage-usage-on-windows/"><u>Essential Tips for Reducing Disk Storage Usage on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-enhanced-control-with-the-sabrent-traveling-mouse-precision-meets-convenient-cables/"><u>Experience Enhanced Control with the Sabrent Traveling Mouse - Precision Meets Convenient Cables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-why-keeping-windows-11s-alerts-is-important/"><u>Explore Why Keeping Windows 11'S Alerts Is Important</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-malwarebytes-service-connection-failures-on-windows-11-os/"><u>Fixing Malwarebytes' Service Connection Failures on Windows 11 OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>Full Guide to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/es-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-non-compatible-controllers-in-windows/"><u>Guide to Reviving Non-Compatible Controllers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-you-through-windows-11-emulation-on-vmware-17/"><u>Guiding You Through Windows 11 Emulation on VMWare 17</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-operation-failed-0x0000011b-error-on-windows-10-and-11/"><u>How to Fix the Operation Failed 0X0000011B Error on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-10-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-prioritize-calculator-visibility-in-windows/"><u>How to Prioritize Calculator Visibility in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-windows-manages-reserved-memory-resources/"><u>How Windows Manages Reserved Memory Resources</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-increase-photo-resolution-unaltered-image/"><u>In 2024, Increase Photo Resolution - Unaltered Image</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/introducing-the-ultimate-data-on-the-go-solution-the-368tb-nvme-ssd-wd-ultrastar-transporter-with-impressive-features/"><u>Introducing the Ultimate Data On-the-Go Solution: The 368TB NVMe SSD WD Ultrastar Transporter with Impressive Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-tackling-windows-steam-playback-problems/"><u>Quick Guide: Tackling Windows Steam Playback Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-hidden-depths-the-guide-to-activating-windows-private-self-view/"><u>Revealing Hidden Depths: The Guide to Activating Windows' Private Self-View</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-marketing-strategy-with-cookiebot-solutions/"><u>Revolutionize Your Marketing Strategy with Cookiebot Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-shopping-redefined-by-microsofts-ai-hub/"><u>Seamless Shopping Redefined by Microsoft’s AI Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-file-transfer-speed-on-microsoft-platforms/"><u>Skyrocket Your File Transfer Speed on Microsoft Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-access-to-non-local-files/"><u>Streamlining Access to Non-Local Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-win11-package-management-using-wingetui/"><u>Streamlining Win11 Package Management Using WingetUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-survival-kit-top-13-ways-to-resurrect-windows/"><u>System Survival Kit: Top 13 Ways to Resurrect Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-graphics-errors-a-comprehensive-d3d11-fix-in-windows-1110/"><u>Tackling Graphics Errors: A Comprehensive D3D11 Fix in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-oculus-q2-into-windows-compatible-vr/"><u>Transforming Oculus Q2 Into Windows-Compatible VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-off-microsofts-intelligent-assistance/"><u>Turn Off Microsoft's Intelligent Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-what-it-means-as-openais-top-executive-calls-for-better-control-over-artificial-intelligence/"><u>Understanding What It Means as OpenAI's Top Executive Calls for Better Control over Artificial Intelligence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visualizing-resources-efficiently-taskbar-display-reimagined/"><u>Visualizing Resources Efficiently: Taskbar Display Reimagined</u></a></li>
-<li><a href="https://facebook.techidaily.com/warning-signs-and-actions-minor-facebook-usage/"><u>Warning Signs and Actions: Minor Facebook Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-screen-makeover-tailored-wallpapers-per-monitor/"><u>Windows 11 Screen Makeover: Tailored Wallpapers Per Monitor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/0-leading-flv-to-youtube-video-converters/"><u>[New] 10 Leading FLV to YouTube Video Converters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-top-30-steadicam-choices-for-superior-dslr-footage-for-2024/"><u>[Updated] Discover Top 30 Steadicam Choices for Superior DSLR Footage for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-m4a/"><u>網路版Movavi M4A無需付費預下載 - 提高音質的線上選擇</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-youtube-premium-what-makes-it-worth-the-price-for-2024/"><u>Choosing YouTube Premium What Makes It Worth the Price for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-for-successful-play-of-modern-warfare-2-a-comprehensive-guide/"><u>Fixing Issues for Successful Play of Modern Warfare 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-dxgidll-in-win11-swift-recovery-steps-explored/"><u>Lost Dxgi.dll in Win11? Swift Recovery Steps Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-avi-video-trimming-software-for-windows-mac-android-iphone-and-online/"><u>New In 2024, Top AVI Video Trimming Software for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synergy-of-enterprises-and-immersive-virtual-worlds-for-2024/"><u>Synergy of Enterprises and Immersive Virtual Worlds for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
 </ul></div>
-
-
-
 

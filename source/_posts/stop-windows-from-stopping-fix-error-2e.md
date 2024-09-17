@@ -1,7 +1,7 @@
 ---
 title: Stop Windows From Stopping, Fix Error 2E
-date: 2024-09-11T01:24:22.833Z
-updated: 2024-09-12T01:24:22.833Z
+date: 2024-09-13T20:38:52.783Z
+updated: 2024-09-17T08:18:27.371Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  Fortunately, we've identified the steps needed to quickly resolve this issue - so be sure to take action now for smooth sailing with Windows Updates in the future.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## What Causes Windows Update Error 0x8024002e?
 
@@ -39,26 +36,6 @@ Let's now see how to fix this error code on Windows:
 ## 1\. Restart Your Computer
 
  Restarting your computer is an easy way to resolve many Windows Update errors. By restarting, you're resetting the memory of your device and clearing out any pesky bugs that may be causing trouble with error 0x8024002e. Give it a try - after rebooting, check if the issue has been resolved.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Restart the Windows Update Services
 
@@ -84,20 +61,6 @@ To restart the Windows Update service, follow these steps:
 
  Once you've completed the process, check Windows Update again to see if the error is still occurring.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 3\. Tweak the Registry Editor
 
  This solution might work if you're dealing with a corrupt or missing Windows Update setting in your registry. Be very cautious when accessing and modifying your registry, as you could be exposed to a range of unwanted issues if done incorrectly.
@@ -116,20 +79,6 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 7. Click**Apply > OK** to save the changes.  
 ![Adjust the Windows Update setting in the registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adjust-the-windows-update-setting-in-the-registry-editor.jpg)
 8. Now close the Registry Editor window and restart your computer.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  After you follow these steps, you should check to see if the 0x8024002e error has been resolved.
 
@@ -200,37 +149,24 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 5. Name the file**ResetWindowsUpdate.bat** and save it to your desktop.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. Now right-click on the batch file and select**Run as administrator** from the context menu.
 7. If UAC window pops up on the screen, click**Yes** to continue.
 
  Wait for the process to complete and then restart your computer. After you follow these steps, check to see if the 0x8024002e error is resolved.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Apply Generic Windows Update Fixes
 
@@ -238,32 +174,15 @@ net start cryptsvc`
 
  Check out[the ways to fix Windows Update errors on Windows 11](https://www.makeuseof.com/windows-11-update-error-fixes/) for more. Most of them should also work on Windows 10 machines.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Resolving Windows Update Error 0x8024002e
 
  It's easy to solve Windows Update error 0x8024002e with the fixes mentioned above. Most of the time, this issue is related to corrupted or missing system files in your Windows Update service. In case you still experience problems afterward, then a system restore should do the trick.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -272,67 +191,23 @@ net start cryptsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-best-voice-conversion-tools-for-vlogging-professionals/"><u>[New] Best Voice Conversion Tools for Vlogging Professionals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-effortless-twitpic-integration-a-video-guide-for-2024/"><u>[New] Effortless Twitpic Integration A Video Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-instagrams-hidden-gems-accessing-no-cost-filters/"><u>[New] In 2024, Exploring Instagram's Hidden Gems Accessing No-Cost Filters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-balancing-act-proper-techniques-for-stable-photos/"><u>[Updated] 2024 Approved Balancing Act Proper Techniques for Stable Photos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-rapidpace-timefreeze-film/"><u>[Updated] In 2024, RapidPace TimeFreeze Film</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-dive-into-windows-11-sound-capture-a-step-by-step-guide/"><u>2024 Approved Dive Into Windows 11 Sound Capture A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>2024 Approved Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-directory-not-empty-mistake-windows-error-x80070091/"><u>Decoding the 'Directory Not Empty' Mistake: Windows Error X80070091</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-restarting-windows-programs-in-1011/"><u>Efficiently Restarting Windows Programs in 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enriched-desktop-features-real-time-performance-indicators/"><u>Enriched Desktop Features: Real-Time Performance Indicators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-actions-to-resolve-windowed-games-issue/"><u>Essential Actions to Resolve Windowed Games Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-and-tricks-stop-dota-2-from-frequent-crashing/"><u>Expert Tips & Tricks - Stop Dota 2 From Frequent Crashing</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-roccats-gaming-mouse-controller/"><u>Get the Latest Version of Roccat's Gaming Mouse Controller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reviving-non-compatible-controllers-in-windows/"><u>Guide to Reviving Non-Compatible Controllers in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-synchronization-glitches-in-monitors/"><u>How to Fix Synchronization Glitches in Monitors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-ace-2v-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus Ace 2V to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-magic-5-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Magic 5 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>In 2024, The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrated-file-management-in-powertoys/"><u>Integrated File Management in PowerToys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-efficiency-in-accessibility-insider-secrets-for-using-narrator-shortcuts/"><u>Maximizing Efficiency in Accessibility: Insider Secrets for Using Narrator Shortcuts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-system-restore-in-windows-11-a-comprehensive-guide/"><u>Navigating System Restore in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nifty-folding-tricks-in-windows-11-for-beginners/"><u>Nifty Folding Tricks in Windows 11 for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-performance-tracking-improving-system-tray-usage-reports/"><u>Optimize Performance Tracking: Improving System Tray Usage Reports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-bluetooth-pairing-issues-on-windows-11/"><u>Overcoming Bluetooth Pairing Issues on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-window-error-terminate-denied-issue/"><u>Overcoming the Window Error: Terminate Denied Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prologue-to-productivity-starting-windows-and-stickies-together/"><u>Prologue to Productivity: Starting Windows & Stickies Together</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-tackling-windows-steam-playback-problems/"><u>Quick Guide: Tackling Windows Steam Playback Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/razers-remedy-guide-quick-reset-for-windows-1011/"><u>Razer's Remedy Guide: Quick Reset for Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-to-resolve-screen-size-settings-issues-on-pcs/"><u>Remedies to Resolve Screen Size Settings Issues on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-jvm-setup-issue-on-microsoft-os/"><u>Resolving JVM Setup Issue on Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-accessible-nvidia-display-settings/"><u>Restoring Accessible Nvidia Display Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-shopping-redefined-by-microsofts-ai-hub/"><u>Seamless Shopping Redefined by Microsoft’s AI Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-file-transfer-speed-on-microsoft-platforms/"><u>Skyrocket Your File Transfer Speed on Microsoft Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-and-kali-linux-combo/"><u>Step-by-Step Guide to Windows & Kali Linux Combo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-invalid-user-alert-in-w11-oses/"><u>Steps to Rectify Invalid User Alert in W11 OSes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-win11-package-management-using-wingetui/"><u>Streamlining Win11 Package Management Using WingetUI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surpassing-windows-internet-speed-ceiling-with-ease/"><u>Surpassing Windows Internet Speed Ceiling with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-survival-kit-top-13-ways-to-resurrect-windows/"><u>System Survival Kit: Top 13 Ways to Resurrect Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-graphics-errors-a-comprehensive-d3d11-fix-in-windows-1110/"><u>Tackling Graphics Errors: A Comprehensive D3D11 Fix in Windows 11/10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ssential-tips-for-discarding-unwanted-youtube-files-for-2024/"><u>The Essential Tips for Discarding Unwanted YouTube Files for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-intersection-of-ai-and-windows-11-user-experience/"><u>The Intersection of AI and Windows 11 User Experience</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-rhythm-revolution-crafting-mesmerizing-tiktok-dances-with-mac-for-2024/"><u>The Rhythm Revolution Crafting Mesmerizing TikTok Dances with Mac for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-opening-mailcalendar-app-in-w11/"><u>Troubleshooting Non-Opening Mail/Calendar App in W11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-steps-for-the-d3dx926dll-error-message/"><u>Ultimate Troubleshooting Steps for the 'd3dx9_26.dll' Error Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-in-windows-via-alomware-features/"><u>Unlock Potential in Windows via AlomWare Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-screen-makeover-tailored-wallpapers-per-monitor/"><u>Windows 11 Screen Makeover: Tailored Wallpapers Per Monitor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-phone-link-enable-or-disable-for-better-security/"><u>Windows Phone Link - Enable or Disable for Better Security?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windowsnotepadlightoffcommand/"><u>WindowsNotepadLightOffCommand</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-back-control-fixing-flaky-windows-apps/"><u>Winning Back Control: Fixing Flaky Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-with-warmth-fixing-color-conflicts-on-pcs/"><u>Winning with Warmth: Fixing Color Conflicts on PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>[New] 2024 Approved Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-mc-house-strategies-6-10/"><u>[New] Essential MC House Strategies #6-10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recognizing-disconnected-social-network/"><u>[New] In 2024, Recognizing Disconnected Social Network</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-facebooks-in-app-video-preferences/"><u>[Updated] 2024 Approved Unlocking Facebook's In-App Video Preferences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-cutting-edge-in-photo-framing-techniques-2023-software-guide/"><u>[Updated] The Cutting Edge in Photo Framing Techniques, 2023 Software Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-entrepreneurs-blueprint-for-profiting-from-video-content/"><u>2024 Approved The Entrepreneur's Blueprint for Profiting From Video Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-right-drivers-how-to-update-canons-mp-series-printers-for-modern-windows-oses/"><u>Get the Right Drivers: How to Update Canon's MP Series Printers for Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixed-windows-character-mapping-glitches/"><u>Guiding You Through Fixed Windows Character Mapping Glitches</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g34-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Moto G34 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-filters-through-windows-10-photos-extracting-picture-moments/"><u>In 2024, Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-stubborn-windows-previous-credentials-error/"><u>Overcoming Stubborn Windows Previous Credentials Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-3d-art-process-with-indispensable-keyboard-shortcuts/"><u>Streamline Your 3D Art Process with Indispensable Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-screen-separation-problems/"><u>Unblocking Screen Separation Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-your-visual-display-ideal-5-apps-for-personalized-time-themed-windows-screensavers/"><u>Upgrade Your Visual Display: Ideal 5 Apps for Personalized Time-Themed Windows Screensavers</u></a></li>
 </ul></div>
-
-
-
 

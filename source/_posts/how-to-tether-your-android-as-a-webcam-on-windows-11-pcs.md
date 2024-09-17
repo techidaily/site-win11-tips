@@ -1,7 +1,7 @@
 ---
 title: How to Tether Your Android as a Webcam on Windows 11 PCs
-date: 2024-09-11T01:25:47.485Z
-updated: 2024-09-12T01:25:47.485Z
+date: 2024-09-12T06:48:54.615Z
+updated: 2024-09-16T17:35:22.415Z
 tags:
   - windows10
   - windows11
@@ -16,13 +16,10 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
 ## How to Tether Your Android as a Webcam on Windows 11 PCs
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ### Key Takeaways
 
@@ -32,20 +29,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  Not satisfied with the webcam on your Windows 11 computer or don't have one at all? There's no need to worry, as you can use your Android phone's front or rear camera as a webcam on your Windows 11 PC with the help of Microsoft's Phone Link app. Let’s see how.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## What You Need to Use an Android Phone as a Webcam on Windows 11
 
  Before we start, let’s go over some prerequisites for using your Android phone as a webcam on Windows 11\.
@@ -53,20 +36,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 * Currently, only Windows 11 computers running the **Release Preview**, **Dev**, or **Canary** build of the [Windows Insider Program](https://www.makeuseof.com/windows-11-insider-program-join/) are supported.
 * The latest version of the **Link to Windows** app on both your phone and computer.
 * Your phone must be running **Android 9.0 or higher**. Not sure which version your phone is on? Check out [how to tell which version of Android you have](https://www.makeuseof.com/what-version-of-android/) and find out.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Configure Windows 11 to Use Your Android’s Camera as a Webcam
 
@@ -78,34 +47,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 4. Under the **My devices** section, enable the toggle next to **Use as a connected camera**.  
 ![Configure Windows 11 to Use Android as Webcam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/configure-windows-11-to-use-android-as-webcam.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Use Your Android Phone as a Webcam on Windows 11
 
  Once everything is set up, you can start using your Android phone as a webcam in any app on your Windows 11 PC. You can also [test the camera output in Windows](https://www.makeuseof.com/test-webcam-microphone-before-meeting/) by opening the **Settings** app and navigating to **Bluetooth & devices > Camera > Windows Virtual Camera**.
@@ -113,20 +54,6 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
  You should now see your phone’s camera feed on Windows. This will also open a tiny window on your computer, allowing you to switch between the front and rear cameras or pause video. From the same window, you can apply various effects such as background blur, auto-framing, soft focus, and HDR.
 
 ![Use Android as Webcam on Windows 11 via Phone Link App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/use-android-as-webcam-on-windows-11-via-phone-link-app.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Similar camera controls will also appear on your Android, along with a notification that reads "Your camera is connected," indicating that your camera is being used. It's worth noting that if you lock your Android phone manually or receive a phone call while using it as a webcam, the camera feed will pause automatically.
 
@@ -136,21 +63,21 @@ Close
 
 ![Disconnect Android Camera From Windows 11 Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/disconnect-android-camera-from-windows-11-computer.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  In our experience, the camera performance was excellent across different applications, and there was no lag despite the wireless connection. Once you’ve set up the feature, using your Android device as a webcam is as straightforward as changing the default camera device in your video conferencing application, provided both devices are connected through Phone Link.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Does This Compare to Apple’s Continuity Camera Feature?
 
@@ -160,54 +87,6 @@ Close
 
  Not satisfied with the webcam on your Windows 11 computer or don't have one at all? There's no need to worry, as you can use your Android phone's front or rear camera as a webcam on your Windows 11 PC with the help of Microsoft's Phone Link app. Let’s see how.
 
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-potential-key-know-how-for-technological-progress/"><u>[New] 2024 Approved Maximizing Potential Key Know-How for Technological Progress</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-high-dynamic-range-image-creation-with-lightroom/"><u>[New] Expert Techniques for High Dynamic Range Image Creation with Lightroom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ice-prowess-unleashed-2022-olympics-sprinting-spectacles/"><u>[Updated] In 2024, Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-windows-approves-deleted-items/"><u>Customizing How Windows Approves Deleted Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decision-guide-choosing-a-superior-windows-coder/"><u>Decision Guide: Choosing a Superior Windows Coder</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-audio-in-your-pc-running-windows-7/"><u>Diagnosing and Repairing Non-Functional Audio in Your PC Running Windows 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-windows-methods-to-record-conversations/"><u>Effective Windows Methods to Record Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-detect-pcs-network-settings-in-windows-ps/"><u>Efficiently Detect PC's Network Settings in Windows PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-security-with-extended-pins-on-win1011/"><u>Elevate Security with Extended PINs on Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-task-management-skills-in-windows-11-through-run-upgrade/"><u>Elevate Your Task Management Skills in Windows 11 Through Run Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-your-windows-experience-through-keys-and-discounts/"><u>Elevating Your Windows Experience Through Keys and Discounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-time-management-on-pc-choose-from-these-5-best-tools-to-create-customized-clock-screen-savers/"><u>Enhance Time Management on PC: Choose From These 5 Best Tools to Create Customized Clock Screen Savers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-2e-in-windows-how-to-resume-update-process/"><u>Error 2E in Windows: How to Resume Update Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-resolving-windows-upgrade-frustrations/"><u>Essential Techniques for Resolving Windows Upgrade Frustrations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/expertenberatung-fur-mac-software-mit-dvd-funktionen-direkt-kontaktaufnahme/"><u>Expertenberatung Für Mac-Software Mit DVD Funktionen - Direkt Kontaktaufnahme</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-0x80072efd-a-windows-store-error-solution/"><u>Fixing 0X80072EFD: A Windows Store Error Solution</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-archive-to-annotation-turning-zip-into-srt-for-2024/"><u>From Archive to Annotation Turning ZIP Into SRT for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacks-improve-reading-of-excel-data-on-windows-notepad/"><u>Hacks: Improve Reading of Excel Data on Windows Notepad</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-windows-errors-when-displays-dont-boot-up/"><u>Handling Windows Errors: When Displays Don't Boot Up</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-zoom-in-your-daily-gmail-routine-for-2024/"><u>How to Use Zoom in Your Daily Gmail Routine for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/in-depth-guide-to-the-newest-version-of-wavepad-audio-tool-strengths-weaknesses-features-and-insights/"><u>In-Depth Guide to the Newest Version of WavePad Audio Tool - Strengths, Weaknesses, Features & Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-browser-interactivity-enable-gesture-navigation-in-windows-11s-edge/"><u>Maximizing Browser Interactivity: Enable Gesture Navigation in Windows 11'S Edge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimizing-high-cpu-drain-from-dropbox-a-guide-for-windows-users/"><u>Minimizing High CPU Drain From Dropbox: A Guide for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-aoemi-for-concurrent-file-sync-on-multiple-windows-devices/"><u>Navigating AOEMi for Concurrent File Sync on Multiple Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ering-sustainability-transforming-metropolitan-environments-for-2024/"><u>Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rejuvenate-right-click-menus-with-effective-fixes/"><u>Rejuvenate Right-Click Menus with Effective Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-multidevice-scribbling-with-win11s-notes-feature/"><u>Simplify Multidevice Scribbling with WIN11'S Notes Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-made-interface-task-manager-on-win11/"><u>Tailor-Made Interface: Task Manager on Win11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-examination-samsung-galaxy-note20-ultra-5g-features-and-performance/"><u>The Definitive Examination: Samsung Galaxy Note20 Ultra 5G Features and Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-20-critical-command-prompt-commands/"><u>The Ultimate Guide to 20 Critical Command Prompt Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-notes-visually-a-guide-to-obsidian-canvas/"><u>Transform Your Notes Visually: A Guide to Obsidian Canvas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-past-and-future-unearthing-7-time-honed-elements-in-11/"><u>Windows Past and Future: Unearthing 7 Time-Honed Elements in 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-startup-configurations-simplified-guidebook/"><u>Windows Startup Configurations Simplified Guidebook</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,3 +94,22 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs/"><u>[New] Optimizing Audio & Visuals in Mobile Broadcasting via OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-strategies-that-convert-followers-into-fortune-on-instagram/"><u>[New] Strategies That Convert Followers Into Fortune on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>[Updated] 2024 Approved Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-video-space-understanding-64128gb-limits/"><u>[Updated] Video Space Understanding 64/128GB Limits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862740728-710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-interpretation-illumination-ideal-photo-to-cartoony-tools/"><u>2024 Approved Image Interpretation Illumination Ideal Photo-to-Cartoony Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-absence-in-task-managers-startups/"><u>Correcting Absence in Task Manager's Startups</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/dominate-your-niche-the-ultimate-list-of-tiktok-typography-in-23-for-2024/"><u>Dominate Your Niche The Ultimate List of TikTok Typography in '23 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-icons-reinstatement-in-win-11/"><u>Effortless Icons Reinstatement in Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>In 2024, The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/initiating-instant-integration-linking-local-files-with-cclouddrives/"><u>Initiating Instant Integration: Linking Local Files with C:/CloudDrives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multitasking-why-16gb-ram-is-a-must-have/"><u>Mastering Multitasking: Why 16GB RAM Is a Must-Have</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-memory-error-in-vmware-windows-environments/"><u>Troubleshooting 'Memory Error' In VMware Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028621251-wmamp38/"><u>WMAからMP3への無料変換ツールトップ8推薦 - 優れた品質</u></a></li>
+</ul></div>
+
