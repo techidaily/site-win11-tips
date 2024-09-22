@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Internal System Configurations on Windows 11
-date: 2024-09-10T05:21:24.626Z
-updated: 2024-09-17T04:31:27.122Z
+date: 2024-09-18T06:15:28.124Z
+updated: 2024-09-21T16:59:40.898Z
 tags:
   - windows10
   - windows11
@@ -68,20 +68,13 @@ Let's now see how to fix this problem.
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
 
@@ -100,16 +93,10 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the next pop-up page, check the**Enabled** radio button.  
@@ -130,6 +117,14 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
@@ -153,15 +148,16 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-snap-catch-strategies-for-2024/"><u>[New] Efficient Snap Catch Strategies for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-initial-cinematic-recording-dissection-for-2024/"><u>[Updated] Initial Cinematic Recording Dissection for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-your-graphics-driver-on-windows-10-and-11/"><u>How to Reset Your Graphics Driver on Windows 10 & 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-your-pc-the-ultimate-10-windows-powertoy-guide/"><u>Maximizing Your PC: The Ultimate 10 Windows PowerToy Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/optimize-video-posts-a-comprehensive-crop-and-export-method-for-2024/"><u>Optimize Video Posts A Comprehensive Crop & Export Method for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protect-privacy-with-leading-iphone-data-sanitization-software-solutions/"><u>Protect Privacy with Leading iPhone Data Sanitization Software Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-full-capabilities-of-windows-11s-mixer-features/"><u>Unlocking the Full Capabilities of Windows 11'S Mixer Features</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-streamline-your-post-production-gopro-quik-for-macbook-tutorial/"><u>Updated 2024 Approved Streamline Your Post-Production GoPro Quik for MacBook Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[New] 2024 Approved Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-effective-methods-for-downloading-audio-tracks-from-pinterest-videos/"><u>[Updated] 2024 Approved Effective Methods for Downloading Audio Tracks From Pinterest Videos</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-desktop-wallpaper-quality-on-w11/"><u>Elevating Desktop Wallpaper Quality on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 10 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a38-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A38 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-3-strategies-for-enhanced-zoom-video-conversion-techniques/"><u>In 2024, Top 3 Strategies for Enhanced Zoom Video Conversion Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-chapter-begins-baldurs-gate-3-now-launch-ready-for-enthusiastic-gamers/"><u>New Chapter Begins: Baldur's Gate 3 Now Launch-Ready for Enthusiastic Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-ea-servers-not-connecting-errors/"><u>Strategies to Rectify EA Servers Not Connecting Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quiet-command-conductive-windows-11-halt/"><u>The Quiet Command: Conductive Windows 11 Halt</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/weekly-webinar-strategies-timing-and-coordination-tips/"><u>Weekly Webinar Strategies Timing and Coordination Tips</u></a></li>
 </ul></div>
 

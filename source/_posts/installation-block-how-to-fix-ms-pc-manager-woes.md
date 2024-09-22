@@ -1,7 +1,7 @@
 ---
 title: "Installation Block: How to Fix MS PC Manager Woes"
-date: 2024-09-16T06:17:57.115Z
-updated: 2024-09-17T06:37:50.322Z
+date: 2024-09-20T06:21:15.836Z
+updated: 2024-09-21T21:25:37.837Z
 tags:
   - windows10
   - windows11
@@ -68,15 +68,22 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from[Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 . Clear the Temp Folder
 
 ![Delete content of the Temp folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Temp-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Programs and apps installed on your store temporary files in the Temp folder. But for various reasons, the Temp folder can get corrupted and cause the issue at hand.
@@ -90,6 +97,13 @@ To delete the Temp folder, follow the below instructions:
 3. Select everything inside the Temp folder by pressing the**Ctrl + A** hotkeys.
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 . Download Any Available Windows Updates
 
  Windows regularly releases updates to add new features and fix bugs and glitches. And from what it looks like, Microsoft PC Manager can fail to install on your computer due to a temporary glitch.
@@ -99,13 +113,6 @@ To delete the Temp folder, follow the below instructions:
 1. Open the Settings menu and select**Windows Update** from the left panel.
 2. Click the**Check for updates** option.  
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
 
@@ -119,13 +126,6 @@ To delete the Temp folder, follow the below instructions:
 2. In the elevated Command Prompt window, type**DISM /online /cleanup-image /restorehealth** and press**Enter** .
 3. Wait until the command is executed. Depending on your computer's health, the process can take up to 15 minutes. Sometimes the process will stick, but wait for it to complete.
 4. After the process is complete, type**sfc /scannow** and press**Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
 
@@ -157,15 +157,20 @@ Next, follow the on-screen to complete the reset process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-essential-guide-software-free-techniques-for-vimeo-downloads-for-2024/"><u>[Updated] Essential Guide Software-Free Techniques for Vimeo Downloads for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-deciphering-cloud-data-management-a-complete-analysis-of-adobes-storage-offerings/"><u>2024 Approved Deciphering Cloud Data Management A Complete Analysis of Adobe's Storage Offerings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/achieve-seamless-audio-sync-top-tips-for-eliminating-speaker-delays/"><u>Achieve Seamless Audio Sync: Top Tips for Eliminating Speaker Delays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-critical-errors-on-back-4-blood-maps-the-case-of-gobi/"><u>Diagnosing and Correcting Critical Errors on Back 4 Blood Maps: The Case of Gobi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-y78-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Y78 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-pathway-to-identifying-cybersecurity-risks-on-desktops/"><u>Personalized Pathway to Identifying Cybersecurity Risks on Desktops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/rev-up-with-these-top-10-srt-power-up-tools-for-pc-and-mac/"><u>Rev Up with These Top 10 SRT Power-Up Tools for PC and Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-pc-without-bitlockers-help-on-windows/"><u>Safeguard Your PC Without BitLocker's Help on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-breaking-down-the-basics-of-effective-timelapse-creation-using-gopro-studio/"><u>[New] Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-turn-social-media-audio-into-mp3/"><u>2024 Approved Turn Social Media Audio Into MP3</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c210-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C210</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-limitless-windows-chatai-with-freedomgpt/"><u>Explore the Limitless Windows ChatAI: With FreedomGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-unveiling-the-top-9-essential-tools/"><u>First Steps in AI: Unveiling the Top 9 Essential Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-yuva-2-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-stuck-windows-updates-with-these-tips/"><u>Navigate Through Stuck Windows Updates with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-cs2-pc-malfunctions-top-troubleshooting-tips-for-stable-gameplay/"><u>Overcome CS2 PC Malfunctions: Top Troubleshooting Tips for Stable Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-mastering-windows-hello-fingerprint-fixes/"><u>Overcoming Obstacles: Mastering Windows Hello Fingerprint Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-your-programs-size-control-on-win11/"><u>Personalizing Your Programs: Size Control on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-unresponsive-game-server-connections-in-windows-via-steam/"><u>Resolving Unresponsive Game Server Connections in Windows via Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-windows-clock-from-user-modifications/"><u>Safeguarding Windows Clock From User Modifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tranquility-in-tech-turning-off-windows-11-seamlessly/"><u>Tranquility in Tech: Turning Off Windows 11 Seamlessly</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor .</u></a></li>
 </ul></div>
 

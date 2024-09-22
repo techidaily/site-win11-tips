@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Reactivate Windows 11 Troubleshooters
-date: 2024-09-14T09:11:06.538Z
-updated: 2024-09-16T18:38:47.395Z
+date: 2024-09-18T06:05:50.931Z
+updated: 2024-09-22T00:51:48.586Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
  Many security software packages incorporate firewalls that can sometimes block Windows troubleshooters from connecting with Microsoft servers. If a third-party security app is on your PC, disable that software’s firewall component to ensure it can’t interfere with Windows troubleshooters. Then try running the troubleshooter with the firewall component disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Rename the Catroot2 and SoftwareDistribution Folders
 
  If you’re having issues with the Windows Update troubleshooter, try applying this potential solution. Users confirm renaming the catroot2 and SoftwareDistribution folders can fix the Windows Update troubleshooter not working. Those are folders that store data for Windows updates. Rename the catroot2 and SoftwareDistribution folders as follows:
@@ -80,13 +87,6 @@ net stop msiserver`
 ![The ren command for the SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rename-softwaredistribution-folder.jpg)
 4. Enter this command for renaming the catroot2 folder and press **Return**:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `ren c:\Windows\System32\catroot2 catroot2.old`  
 ![The rename catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rename-catroot2-folder.jpg)
 5. Restart services by entering and executing these commands:
@@ -98,6 +98,13 @@ net start wuauserv
 net start bits  
   
 net start msiserver`
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Modify TEMP and TMP Environment Variables
 
@@ -111,10 +118,10 @@ net start msiserver`
 5. Check the **TEMP** and **TMP** values in the System variables box. If they’re not set to **C:\\Windows\\Temp**, proceed with the next few steps to edit their values.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/environment-variables-window.jpg)
@@ -124,22 +131,8 @@ net start msiserver`
 ![The Edit System Variable window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-system-variable-window.jpg)
 3. Click **OK** on the Edit System Variable window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat the previous three steps for the TMP variable.
 5. Select **OK** on the Environment Variables window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Enable Troubleshooters in Group Policy Editor
 
@@ -152,6 +145,14 @@ net start msiserver`
 4. Click **Enabled** to re-enable troubleshooters if the policy is disabled.  
 ![The Troubleshooting: Allow users to access and run Troubleshooting Wizards policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-allow-users-to-access-and-run-troubleshooters.jpg)
 5. Press the **Apply** \> **OK** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Repeat the previous three steps for the **Troubleshooting: Allow users to access online troubleshooting content** and **Configure Security Policy for Scripted Diagnostics** policies.
 
 ## 8\. Utilize the System Restore Tool
@@ -164,6 +165,13 @@ net start msiserver`
 
  Utilizing System Restore comes with this caveat: software installed after a restoration date gets removed. This means you may need to reinstall some lost software after performing a restore. Clicking **Scan for affected programs** in System Restore shows you what software a restore point deleted.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Factory Reset Your Windows PC
 
  If troubleshooters still don’t work after applying all the resolutions above, resetting Windows is the last thing you should try. That might seem drastic for fixing troubleshooters, but reinstalling Windows with a reset will likely resolve deeper system issues that have broken them. This potential resolution will wipe all the software and apps you installed.
@@ -172,37 +180,11 @@ net start msiserver`
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Your Windows Issues With the Troubleshooters Once More
 
  Although most users can probably live without Windows troubleshooters, there’s no denying their usefulness for fixing computing issues. The potential resolutions above will likely resolve most errors that prevent Windows troubleshooters from initiating their troubleshooting. Then you can utilize the troubleshooters to help you fix Windows 10 or 11 issues again.
 
  The full error messages and codes can vary slightly and appear after users select to run the troubleshooters. Consequently, the affected Windows troubleshooters don’t work. This is how you can fix troubleshooters not working on Windows 11/10 PCs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/mpowering-learning-through-educational-videos-on-youtube-for-2024/"><u>[New] Empowering Learning Through Educational Videos on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-turning-pre-recorded-videos-into-a-captivating-live-experience-on-fb/"><u>[New] Turning Pre-Recorded Videos Into a Captivating Live Experience on FB</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>[Updated] Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dial-back-your-playlist-quick-steps-to-reverse-order/"><u>[Updated] In 2024, Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-10-high-growth-youtube-channels-that-inspire-you/"><u>[Updated] In 2024, Unveiling 10 High-Growth YouTube Channels that Inspire You</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swiftly-tweak-your-stories-frame-rates-on-instagram/"><u>[Updated] Swiftly Tweak Your Stories' Frame Rates on Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expanding-security-horizons-longer-pins-in-win1011/"><u>Expanding Security Horizons: Longer Pins in Win10/11</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-14-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 14? How to Fix it?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nubia Red Magic 8S Pro+?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-integrating-the-search-feature-into-win11s-task-manager/"><u>Re-Integrating the Search Feature Into Win11's Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-trash-woes-for-windows-11-users/"><u>Reversing Trash Woes for Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-conquer-obs-recording-issues-on-new-operating-system/"><u>Strategies to Conquer OBS Recording Issues on New Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-altering-windows-11-default-actions/"><u>The Insider's Guide to Altering Windows 11 Default Actions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -211,3 +193,19 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-powerpoint-with-voice-over-complete-how-to-guide/"><u>[New] Powerpoint with Voice Over - Complete How-To Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swf-mpeg/"><u>線上無限制 SWF 改編成 MPEG - 動視高效能格式化器</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-viral-fame-crafting-engaging-instagram-unboxing-videos-for-2024/"><u>Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuita-de-archivos-wmv-a-m4v-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos WMV a M4V en Línea Con Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-skagen-falster-3-stylish-and-advanced-technology-in-one-smartwatch/"><u>Expert Analysis of the Skagen Falster 3 - Stylish and Advanced Technology in One Smartwatch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-images-to-tiff-format-movavis-online-tool/"><u>Free Conversion of PPM Images to TIFF Format - Movavi's Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-veillez-transformer-des-fichiers-videos-en-mov-en-wma-enligne-movavi-solutions/"><u>Gratuit Veillez Transformer Des FICHIERS VIDEOS en MOV en WMA Enligne - Movavi Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-realizing-unnoticeable-connections-in-snapcircle/"><u>In 2024, Realizing Unnoticeable Connections in SnapCircle</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-the-lunapic-interface-like-a-pro-for-2024/"><u>Navigating the LunaPic Interface Like a Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/topos-player-and-videosnack-los-mejores-clientes-de-torrents-y-visualizadores/"><u>Topos Player & VideoSnack: Los Mejores Clientes De Torrents Y Visualizadores</u></a></li>
+</ul></div>
+

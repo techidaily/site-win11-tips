@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows 11'S Revolutionary Features in Recent Patch
-date: 2024-09-14T21:49:46.113Z
-updated: 2024-09-17T01:10:13.454Z
+date: 2024-09-14T20:19:58.707Z
+updated: 2024-09-21T23:48:52.741Z
 tags:
   - windows10
   - windows11
@@ -44,20 +44,39 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. A Cloud Backup Tool
 
  Windows Backup is a new cloud backup app that the Moment 4 Update introduced to Windows 11\. This tool enables you to back up files and folders to OneDrive cloud storage. It’s a straightforward tool that lets you back up folders, documents, pictures, and Windows settings to a OneDrive cloud storage account.
 
 ![The Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-backup-app.jpg)
 
- This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
 
 ## 3\. RGB Lighting Settings
 
@@ -80,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Extended Compression Support
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. An Updated Paint App
@@ -106,18 +118,18 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  Plus, the updated Paint app now supports dark mode. That means you can [select a Dark mode within Paint](https://www.makeuseof.com/dark-mode-microsoft-paint/) to turn that app black without changing the whole system theme. Or you can select alternative **Light** or **System setting** options for Paint’s theme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. A Volume Mixer in Quick Settings
 
  Windows 11’s Quick Settings has also been updated with new volume mixer settings. This means you can access options for changing apps’ volumes on the Quick Settings panel. Drag the **Volume mixer** bars on the Quick Settings panel left and right to increase or decrease the volume for open apps from there.
 
 ![The new sound output options in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/volume-mixer-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Plus, the Quick Settings panel also includes new **Output device** and **Spatial sound** settings. The **Output device** option is especially handy to have more directly accessible. You can access all of these new settings by clicking the button on the right side of the Quick Settings volume bar.
 
@@ -127,21 +139,6 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-beginners-approach-to-audio-enhancement-in-audition-for-2024/"><u>[New] A Beginner's Approach to Audio Enhancement in Audition for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-proven-methods-to-record-flawlessly-using-nvidia/"><u>[New] In 2024, Proven Methods to Record Flawlessly Using NVIDIA</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-guide-to-outstanding-hdr-cameras-for-2024/"><u>A Guide to Outstanding HDR Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-methods-to-remove-restrictions-on-blocked-windows-files/"><u>Advanced Methods to Remove Restrictions on Blocked Windows Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combatting-the-msvcr110dll-absence-a-fix-guide/"><u>Combatting the Msvcr110.dll Absence: A Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-severe-javascript-failures-within-discord-win-edition/"><u>Expert Fixes for Severe JavaScript Failures Within Discord WIN Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>In 2024, The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-stuck-gifs-in-discord-windows-edition/"><u>Mastering the Art of Fixing Stuck GIFs in Discord Windows Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nubia-z50-ultra-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nubia Z50 Ultra</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-intel-me-errors/"><u>Resolving Intel ME Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sharpen-skills-and-speed-up-valorant-tips-for-top-performance/"><u>Sharpen Skills & Speed Up: Valorant Tips for Top Performance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +146,17 @@ thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa7328
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-macs-top-5-non-bandicam-capturing-apps-for-2024/"><u>[New] Mac's Top 5 Non-Bandicam Capturing Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-professional-ipod-video-transcoder-effortless-conversion-of-videos-for-all-ipod-models-including-ipod-touch-and-ipod-nano-series/"><u>1. Professional IPod Video Transcoder: Effortless Conversion of Videos for All iPod Models Including iPod Touch and iPod Nano Series</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-convertir-un-gif-a-mpeg-sin-costo-alguno-con-movavi-online/"><u>Cómo Convertir Un GIF a MPEG Sin Costo Alguno Con Movavi Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hemen-satin-alinan-movavi-multimedia-yazilimi-seo-istekleriye-yanit/"><u>Hemen Satın Alınan Movavi Multimedia Yazılımı - SEO İstekleriye Yanıt</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-free-online-tool-for-converting-to-3gpp-movmpeg-4-without-charge/"><u>Movavi's Free Online Tool for Converting to 3GPP MOV/MPEG-4 without Charge!</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-live-gaming-streams-on-windows-via-intels-toolkit/"><u>Optimize Live Gaming Streams on Windows via Intel's Toolkit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tus-ideas-en-obra-maestra-7-tecnicas-de-grabacion-de-audio-interno-para-usuarios-de-mac-y-apps-de-movavi/"><u>Transforma Tus Ideas en Obra Maestra: 7 Técnicas De Grabación De Audio Interno Para Usuarios De Mac Y Apps De Movavi</u></a></li>
+</ul></div>
+

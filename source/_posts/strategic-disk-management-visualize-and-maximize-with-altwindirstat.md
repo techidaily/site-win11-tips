@@ -1,7 +1,7 @@
 ---
 title: "Strategic Disk Management: Visualize & Maximize with AltWinDirStat"
-date: 2024-09-13T05:18:10.020Z
-updated: 2024-09-17T05:37:55.371Z
+date: 2024-09-16T05:04:53.455Z
+updated: 2024-09-22T01:08:49.095Z
 tags:
   - windows10
   - windows11
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ![altWinDirStat Selecting What To Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-what-to-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  altWinDirStat only needs seconds to analyze your storage and present its results.
 
 ![altWinDirStat Blazing Fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-blazing-fast.jpg)
@@ -102,86 +95,12 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
  Still, you don't have to manually navigate to a file's spot: click on it on either altWinDirStat's tree view or graph, and press **CTRL** \+ **C**, or right-click and choose **Copy path**. You can then paste that path into your favorite file manager's **path field** to instantly find your file.
 
-## Locate What's Eating Up Your Disk Space in a Blink
-
- As further proof of altWinDirStat's crazy speeds and analytical prowess, we "unleashed" it on two 16TB HDDs while writing this article. The app analyzed each disk, enumerated the files, created graphs, and presented the results in no more than 25 to 30 seconds.
-
- Admittedly, relying on other apps for managing the files and folders you locate with altWinDirStat is annoying. Still, its unbelievably fast performance more than makes up for that shortcoming.
-
- WinDirStat is useful when you want to quickly see what's eating up your storage space. However, it's also slow and can be somewhat complicated. That's where its unofficial modification, altWinDirStat, comes in.
-
- Almost identical to the "vanilla" WinDirStat, altWinDirStat achieves much higher speeds while analyzing your storage. Let's see how you can use it to locate the large files that eat up your precious storage space.
-
-## How to Download and Install altWinDirStat
-
- Start by visiting [altWinDirStat's page at GitHub](https://github.com/ariccio/altWinDirStat). Click on **Releases** on the right.
-
- Scroll down to locate the **Assets** section of the latest entry (at the very top of the page). Expand it and download the version matching your PC's and OS's architecture.
-
- Most people should go for the **64-bit** "release" version, except if using an old PC that only supports 32-bit apps. Skip the "debug" versions and the source code.
-
- Since altWinDirStat doesn't require installation, save the downloaded file directly to the folder from where you'd like to run it in the future. That also means that if you save the file to a USB flash drive, you can use it as a portable app on any PC.
-
-## altWinDirStat vs. the Original WinDirStat
-
- If you're familiar with the original WinDirStat, as you'll notice when you run altWinDirStat, the two apps look almost identical. Unlike the [four best alternatives to WinDirStat](https://www.makeuseof.com/windirstat-alternatives/) that we saw in the past that take a somewhat different path, altWinDirStat is a "fork", a modified clone of the original WinDirStat.
-
- Instead of expanding on the original or adding more features, altWinDirStat goes the opposite way: it's a "streamlined" version of the original app, keeping only the functionality for analyzing how much space files "eat" and presenting the results in a user-friendly manner.
-
- The original WinDirStat is updated more frequently than altWinDirStat. However, despite all its improvements, WinDirStat remains slower than the heavily optimized altWinDirStat.
-
-## What Makes altWinDirStat the Better Option?
-
- The primary ingredient in altWinDirStat's "secret sauce" that makes it so fast is its direct scanning of a storage device's MFT instead of "crawling" through all files and folders. The MFT is a special system-managed section of the file system where the OS keeps an index of everything on a storage device.
-
- However, for altWinDirStat to access the MFT, you'll have to launch it with elevated rights. So, right-click on the app's executable and choose that you want to **Run as administrator**.
-
-![altWinDirStat Run As Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-run-as-administrator.jpg)
-
- For the best speeds while using the MFT, start your scans from the **root** of your storage devices (by "selecting their letter" instead of any folder within them). Then, click **OK** to have altWinDirStat scan the selected folder.
-
-![altWinDirStat Selecting What To Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-what-to-scan.jpg)
-
- altWinDirStat only needs seconds to analyze your storage and present its results.
-
-![altWinDirStat Blazing Fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-blazing-fast.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## How to Navigate altWinDirStat's Folder View
-
- The classic way to locate the files that take up most of your storage space with altWinDirStat is through the app's "tree navigational pane" on the top half of its window.
-
- You can freely scroll through all entries to manually locate the largest files yourself. However, it's easier to click on the **Size** column to sort the list below according to that characteristic.
-
-![altWinDirStat Finding Large Files With Size Column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-finding-large-files-with-size-column.jpg)
-
- If the list presents the smallest files at the top, click again on the Size column to reverse its sorting.
-
-## How to Use altWinDirStat's TreeMap
-
- WinDirStat's claim to fame, which many similar apps "borrowed", is its visual representation of file sizes. altWinDirStat is no different in that regard.
-
- The bottom part of its window presents this visualization, with rectangles of different sizes representing each file in the analyzed storage device. The more space a file "eats up" from your storage, the larger its rectangle.
-
- This enables you to locate the largest files with a single glance. However, altWinDirStat's graph only shows rectangles with zero extra info. You can point at a rectangle, and altWinDirStat will show the **complete path** of the file it represents at the bottom of its window, on its "status line".
-
-![altWinDirStat Selecting Space Hogs From The Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-space-hogs-from-the-preview.jpg)
-
- Alternatively, you can click on any rectangle to select it. altWinDirStat will also update its tree list view on the top of its window, selecting the file "behind" the rectangle on which you clicked.
-
-## Tips and Tricks for Using altWinDirStat
-
- By right-clicking on a large file, you should be able to delete it without exiting altWinDirStat. During our tests, though, this option was disabled.
-
- So, after locating the files you want to delete to reclaim storage space, you'll have to perform the actual deletion from another app, like Windows File Explorer, or one of [File Explorer's better alternatives and replacements](https://www.makeuseof.com/tag/best-windows-file-explorer-replacements/) that we've covered before.
-
- Still, you don't have to manually navigate to a file's spot: click on it on either altWinDirStat's tree view or graph, and press **CTRL** \+ **C**, or right-click and choose **Copy path**. You can then paste that path into your favorite file manager's **path field** to instantly find your file.
 
 ## Locate What's Eating Up Your Disk Space in a Blink
 
@@ -248,20 +167,19 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![altWinDirStat Selecting Space Hogs From The Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-space-hogs-from-the-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can click on any rectangle to select it. altWinDirStat will also update its tree list view on the top of its window, selecting the file "behind" the rectangle on which you clicked.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Using altWinDirStat
 
@@ -316,10 +234,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![altWinDirStat Blazing Fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-blazing-fast.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Navigate altWinDirStat's Folder View
@@ -329,6 +247,94 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
  You can freely scroll through all entries to manually locate the largest files yourself. However, it's easier to click on the **Size** column to sort the list below according to that characteristic.
 
 ![altWinDirStat Finding Large Files With Size Column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-finding-large-files-with-size-column.jpg)
+
+ If the list presents the smallest files at the top, click again on the Size column to reverse its sorting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Use altWinDirStat's TreeMap
+
+ WinDirStat's claim to fame, which many similar apps "borrowed", is its visual representation of file sizes. altWinDirStat is no different in that regard.
+
+ The bottom part of its window presents this visualization, with rectangles of different sizes representing each file in the analyzed storage device. The more space a file "eats up" from your storage, the larger its rectangle.
+
+ This enables you to locate the largest files with a single glance. However, altWinDirStat's graph only shows rectangles with zero extra info. You can point at a rectangle, and altWinDirStat will show the **complete path** of the file it represents at the bottom of its window, on its "status line".
+
+![altWinDirStat Selecting Space Hogs From The Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-space-hogs-from-the-preview.jpg)
+
+ Alternatively, you can click on any rectangle to select it. altWinDirStat will also update its tree list view on the top of its window, selecting the file "behind" the rectangle on which you clicked.
+
+## Tips and Tricks for Using altWinDirStat
+
+ By right-clicking on a large file, you should be able to delete it without exiting altWinDirStat. During our tests, though, this option was disabled.
+
+ So, after locating the files you want to delete to reclaim storage space, you'll have to perform the actual deletion from another app, like Windows File Explorer, or one of [File Explorer's better alternatives and replacements](https://www.makeuseof.com/tag/best-windows-file-explorer-replacements/) that we've covered before.
+
+ Still, you don't have to manually navigate to a file's spot: click on it on either altWinDirStat's tree view or graph, and press **CTRL** \+ **C**, or right-click and choose **Copy path**. You can then paste that path into your favorite file manager's **path field** to instantly find your file.
+
+## Locate What's Eating Up Your Disk Space in a Blink
+
+ As further proof of altWinDirStat's crazy speeds and analytical prowess, we "unleashed" it on two 16TB HDDs while writing this article. The app analyzed each disk, enumerated the files, created graphs, and presented the results in no more than 25 to 30 seconds.
+
+ Admittedly, relying on other apps for managing the files and folders you locate with altWinDirStat is annoying. Still, its unbelievably fast performance more than makes up for that shortcoming.
+
+ WinDirStat is useful when you want to quickly see what's eating up your storage space. However, it's also slow and can be somewhat complicated. That's where its unofficial modification, altWinDirStat, comes in.
+
+ Almost identical to the "vanilla" WinDirStat, altWinDirStat achieves much higher speeds while analyzing your storage. Let's see how you can use it to locate the large files that eat up your precious storage space.
+
+## How to Download and Install altWinDirStat
+
+ Start by visiting [altWinDirStat's page at GitHub](https://github.com/ariccio/altWinDirStat). Click on **Releases** on the right.
+
+ Scroll down to locate the **Assets** section of the latest entry (at the very top of the page). Expand it and download the version matching your PC's and OS's architecture.
+
+ Most people should go for the **64-bit** "release" version, except if using an old PC that only supports 32-bit apps. Skip the "debug" versions and the source code.
+
+ Since altWinDirStat doesn't require installation, save the downloaded file directly to the folder from where you'd like to run it in the future. That also means that if you save the file to a USB flash drive, you can use it as a portable app on any PC.
+
+## altWinDirStat vs. the Original WinDirStat
+
+ If you're familiar with the original WinDirStat, as you'll notice when you run altWinDirStat, the two apps look almost identical. Unlike the [four best alternatives to WinDirStat](https://www.makeuseof.com/windirstat-alternatives/) that we saw in the past that take a somewhat different path, altWinDirStat is a "fork", a modified clone of the original WinDirStat.
+
+ Instead of expanding on the original or adding more features, altWinDirStat goes the opposite way: it's a "streamlined" version of the original app, keeping only the functionality for analyzing how much space files "eat" and presenting the results in a user-friendly manner.
+
+ The original WinDirStat is updated more frequently than altWinDirStat. However, despite all its improvements, WinDirStat remains slower than the heavily optimized altWinDirStat.
+
+## What Makes altWinDirStat the Better Option?
+
+ The primary ingredient in altWinDirStat's "secret sauce" that makes it so fast is its direct scanning of a storage device's MFT instead of "crawling" through all files and folders. The MFT is a special system-managed section of the file system where the OS keeps an index of everything on a storage device.
+
+ However, for altWinDirStat to access the MFT, you'll have to launch it with elevated rights. So, right-click on the app's executable and choose that you want to **Run as administrator**.
+
+![altWinDirStat Run As Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-run-as-administrator.jpg)
+
+ For the best speeds while using the MFT, start your scans from the **root** of your storage devices (by "selecting their letter" instead of any folder within them). Then, click **OK** to have altWinDirStat scan the selected folder.
+
+![altWinDirStat Selecting What To Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-selecting-what-to-scan.jpg)
+
+ altWinDirStat only needs seconds to analyze your storage and present its results.
+
+![altWinDirStat Blazing Fast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-blazing-fast.jpg)
+
+## How to Navigate altWinDirStat's Folder View
+
+ The classic way to locate the files that take up most of your storage space with altWinDirStat is through the app's "tree navigational pane" on the top half of its window.
+
+ You can freely scroll through all entries to manually locate the largest files yourself. However, it's easier to click on the **Size** column to sort the list below according to that characteristic.
+
+![altWinDirStat Finding Large Files With Size Column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/altwindirstat-finding-large-files-with-size-column.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the list presents the smallest files at the top, click again on the Size column to reverse its sorting.
 
@@ -373,13 +379,17 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[Updated] 2024 Approved The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-free-enhancement-tool-for-pics-onlineapp/"><u>2024 Approved Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-cc-errors-on-the-latest-windows-os/"><u>Demystifying CC Errors on the Latest Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-premium-vr-showrooms-for-2024/"><u>Guide to Premium VR Showrooms for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shortcut-to-resolving-lengthy-gpsvc-loops/"><u>Shortcut to Resolving Lengthy GPSVC Loops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-meizu-21-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-your-complete-blueprint-iphone-ringtone-customization-method/"><u>[New] 2024 Approved Your Complete Blueprint IPhone Ringtone Customization Method</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevate-your-videography-with-top-instagram-techniques/"><u>[New] In 2024, Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-detailed-analysis-djis-raptor-4-vr-goggle-features-for-2024/"><u>[Updated] A Detailed Analysis DJi's Raptor 4 VR Goggle Features for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-surreptitious-software-without-tools/"><u>Eliminate Surreptitious Software Without Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-speech-recognition-on-microsofts-latest-os/"><u>How to Reactivate Speech Recognition on Microsoft's Latest OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-neo-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Edge 40 Neo to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-f04-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy F04 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigating-errors-related-to-incorrect-system-tokens/"><u>Mitigating Errors Related to Incorrect System Tokens</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-triumphs-earned-a-place-among-top-10-ed-tech-prowess/"><u>Mondly Triumphs, Earned a Place Among Top 10 Ed-Tech Prowess</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ext-level-of-collaboration-youtubes-elite-meetups-for-2024/"><u>The Next Level of Collaboration Youtube's Elite Meetups for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-operational-ancestry-assessment/"><u>Windows Operational Ancestry Assessment</u></a></li>
 </ul></div>
 

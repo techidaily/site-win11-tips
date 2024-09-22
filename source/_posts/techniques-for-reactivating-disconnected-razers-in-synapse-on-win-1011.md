@@ -1,7 +1,7 @@
 ---
 title: Techniques for Reactivating Disconnected Razers in Synapse on Win 10/11
-date: 2024-09-10T22:12:16.092Z
-updated: 2024-09-16T17:26:55.716Z
+date: 2024-09-15T00:18:29.716Z
+updated: 2024-09-22T02:23:23.339Z
 tags:
   - windows10
   - windows11
@@ -64,24 +64,17 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
 4. Select the**Repair** option in the window that opens.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Razer Synapse
 
@@ -105,32 +98,19 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
 1. Click**Download Now** on the[Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
 2. Double-click the downloaded**RazerSynapseInstaller\_V1.12.0.385.exe** file to open the setup wizard.  
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
 
@@ -145,6 +125,14 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 6. Then double-click the**Keyboards** category.  
 ![The Keyboards device category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboards-category.jpg)
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
 ## 6\. Disable Antivirus Utilities
@@ -153,13 +141,20 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configure Your Razer Devices in Synapse Again on Windows
@@ -181,17 +176,16 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>[New] Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-charter-three-tactics-for-windows-11/"><u>Customization Charter: Three Tactics for Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-plus-how-to-unlock-a-disabled-iphone-14-plus-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Plus How to Unlock a Disabled iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-drama-to-film-shaping-realistic-dialogue/"><u>From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-low-virtual-memory-situations-in-vmware/"><u>Mitigating Low Virtual Memory Situations in VmWare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-windows-firewall-essential-tips/"><u>Resetting Windows Firewall: Essential Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/subrip-file-creation-from-compressed-archives/"><u>SubRip File Creation From Compressed Archives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-apex-gamers-choice-of-2024-in-depth-benchmarking-and-reviews-of-leading-laptops/"><u>The Apex Gamers' Choice of 2024: In-Depth Benchmarking and Reviews of Leading Laptops</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackling-the-chains-of-windows-11-and-10s-s-mode/"><u>Unshackling the Chains of Windows 11 & 10'S 'S Mode'</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-teachers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>[New] In 2024, Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>[Updated] Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-efficient-practices-for-ps3-video-capture-setup/"><u>2024 Approved Efficient Practices for PS3 Video Capture Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-desktop-ui-in-win11-by-setting-up-a-triplet-of-widgets/"><u>Elevate Your Desktop UI in Win11 by Setting up a Triplet of Widgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-gmails-additional-security-layer-the-ultimate-how-to/"><u>Enabling Gmail's Additional Security Layer: The Ultimate How-To</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-install-displaylink-drivers-on-windows-11-8-and-7/"><u>Get the Latest: Install DisplayLink Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-xc0351000-issue-absence-of-hyprocvisor/"><u>Methods for Fixing XC0351000 Issue - Absence of Hyprocvisor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ms-pc-manager-woes-in-windows-heres-help/"><u>MS PC Manager Woes in Windows? Here's Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-unnecessary-items-from-win-11-menu/"><u>Removing Unnecessary Items From Win 11 Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-screen-settings-for-unchanging-screens/"><u>Windows 11 Screen Settings for Unchanging Screens</u></a></li>
 </ul></div>
 

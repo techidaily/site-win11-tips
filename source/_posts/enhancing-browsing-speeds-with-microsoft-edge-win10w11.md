@@ -1,7 +1,7 @@
 ---
 title: Enhancing Browsing Speeds with Microsoft Edge, Win10/W11
-date: 2024-09-09T22:43:50.271Z
-updated: 2024-09-17T06:36:41.228Z
+date: 2024-09-19T04:02:16.490Z
+updated: 2024-09-22T02:21:42.763Z
 tags:
   - windows10
   - windows11
@@ -62,21 +62,22 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
  Relaunch Microsoft Edge and check if it works faster.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Close Unnecessary Tabs
 
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Change the Tracking Prevention Setting
 
@@ -93,21 +94,7 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 5. ![Edge tracking pervention settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-tracking-protocol-1.jpg)  
  Lastly, check if this changes speeds up Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Clear Cache and Cookies
 
@@ -123,24 +110,30 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
  Then, press **See all cookies and site data**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
  Check your browser and see if the issue persists.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Disable Browser Extensions
 
@@ -151,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Flush Edge DNS
 
@@ -174,25 +174,6 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-zoom-screen-sharing/"><u>[New] Essential Tips for Zoom Screen Sharing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-ultimate-guide-to-choosing-the-right-virtual-reality-headset-for-you-mobile-vs-tethered/"><u>[Updated] 2024 Approved Your Ultimate Guide to Choosing the Right Virtual Reality Headset for You Mobile vs Tethered?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-investigating-actives-prowess-in-recording-technology/"><u>2024 Approved Investigating Active's Prowess in Recording Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-communication-intel-unison-and-windows-11-collaboration/"><u>Cutting-Edge Communication: Intel Unison and Windows 11 Collaboration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/easy-steps-to-enable-game-lending-amongst-pals-on-xbox-console/"><u>Easy Steps to Enable Game Lending Amongst Pals on Xbox Console</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-cross-device-communication-via-nearby/"><u>Empowering Cross-Device Communication via Nearby</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-inability-to-open-files-for-writing-in-windows-11/"><u>How to Rectify Inability to Open Files For Writing in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-yuva-2-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Yuva 2.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-system-usability-icon-addition-to-desktop-space/"><u>Improving System Usability: Icon Addition to Desktop Space</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v30-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V30 Lite 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-functionality-legacy-keys-in-windows-narrator/"><u>Maximizing Functionality: Legacy Keys in Windows Narrator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-eradicating-screen-lag-with-extra-displays/"><u>Quick Fixes: Eradicating Screen Lag with Extra Displays</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-downloading-and-updating-amds-radeon-rx-470-graphics-card-drivers-effortlessly/"><u>The Ultimate Guide to Downloading & Updating AMD's Radeon RX 470 Graphics Card Drivers Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-finding-lost-enhancement-tab-quick-fix-guide/"><u>Windows 11: Finding Lost Enhancement Tab - Quick Fix Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,3 +181,15 @@ thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4ef
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-elite-selection-of-stardew-customizations-and-updates-for-2024/"><u>[New] The Elite Selection of Stardew Customizations and Updates for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mint-memes-of-merriment/"><u>2024 Approved Mint Memes of Merriment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-links-to-mb-services-on-windows-11-pcs/"><u>Correcting Failed Links to MB Services on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-the-metaverse-humor-scene-with-our-top-meme-ideas/"><u>In 2024, Master the Metaverse Humor Scene with Our Top Meme Ideas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-with-canons-time-lapse-capabilities/"><u>In 2024, Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcoming-windows-11s-def5-onedrive-error/"><u>Quick-Fix Guide: Overcoming Windows 11'S DEF5 Onedrive Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-power-profiles-in-modern-windows/"><u>Restoring Default Power Profiles in Modern Windows</u></a></li>
+</ul></div>
+

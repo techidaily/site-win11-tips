@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Art: Starting up MS Paint in Win11"
-date: 2024-09-12T06:11:48.421Z
-updated: 2024-09-16T23:12:24.348Z
+date: 2024-09-15T02:49:33.323Z
+updated: 2024-09-21T19:59:27.046Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  If you're having trouble finding it, try typing "Paint" into the Start menu search bar; this should narrow down the results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Open Microsoft Paint From File Explorer
 
  Microsoft Windows Explorer is the default file management application. It provides access to your computer's files, folders, and drives, enabling you to manage them and run applications. To open Microsoft Paint with File Explorer, follow these steps:
@@ -81,10 +74,10 @@ Now that Microsoft Paint is open, you can start working.
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
@@ -97,13 +90,6 @@ To open the Microsoft Paint application, follow the steps below:
 2. In the Run dialog box, type**PowerShell** and press**Ctrl + Shift + Enter** . This will open Windows PowerShell as an administrator.
 3. Once you're in the PowerShell window, type**mspaint** and press the**Enter** key.  
 ![Open Paint Via Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-via-windows-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Microsoft Paint application will appear on your screen.
 
@@ -123,10 +109,10 @@ The Microsoft Paint application will appear on your screen.
 The Microsoft Paint application should now be open and ready to use!
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. How to Open Microsoft Paint Using a Desktop Shortcut
@@ -139,6 +125,14 @@ Here's how you can use this tool to open the Paint application:
 2. In the "Create Shortcut" window, type**mspaint.exe** and click**Next** .  
 ![Open Paint With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-with-desktop-shortcut.jpg)
 3. You can then give your shortcut a name (like Paint).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To save the changes, click**Finish** .
 
  You can also create a desktop shortcut using Windows File Explorer. Here's how:
@@ -148,6 +142,13 @@ Here's how you can use this tool to open the Paint application:
 * Click**Yes** to confirm it.
 
  A desktop shortcut will appear on your computer. Double-clicking it will open the Paint application
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. How to Open Microsoft Paint via a Shortcut Key
 
@@ -181,20 +182,17 @@ Create a desktop shortcut as explained above.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-samsungs-galaxy-s8-unveiled-redefining-video-standards/"><u>[New] In 2024, Samsung’s Galaxy S8 Unveiled Redefining Video Standards</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-demystifying-quantum-hdr-for-beginners/"><u>[Updated] 2024 Approved Demystifying Quantum HDR for Beginners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>A Step-by-Step Plan Efficient Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-next-gen-windows-with-meaningful-improvements/"><u>Crafting Next-Gen Windows with Meaningful Improvements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-adjust-application-size-with-a-press-on-windows-11/"><u>Effortlessly Adjust Application Size with a Press on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-nova-y91-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Huawei Nova Y91?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>In 2024, Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ate-content-consumption-with-these-leading-free-and-on-demand-tools-for-2024/"><u>Liberate Content Consumption with These Leading Free & On-Demand Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-lost-bluetooth-with-these-essential-win-11-solutions/"><u>Reignite Lost Bluetooth with These Essential Win 11 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-system-cooling-settings-in-windows-os/"><u>Tailoring System Cooling Settings in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-setup-rgb-lighting-windows-11/"><u>Tips to Setup RGB Lighting Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-read-only-library-error-on-win-11/"><u>Troubleshooting Steam's Read-Only Library Error on Win 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-capturing-screen-and-sound-seamlessly-on-windows-pc/"><u>Ultimate Guide: Capturing Screen & Sound Seamlessly on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-leading-edge-fb-video-repository/"><u>[New] In 2024, Leading Edge FB Video Repository</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-into-professional-mac-audio-recording-a-complete-audacity-course/"><u>[New] In 2024, Step Into Professional Mac Audio Recording A Complete Audacity Course</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-what-are-the-best-websites-to-download-amusing-and-funny-ringtones/"><u>[New] What Are the Best Websites to Download Amusing and Funny Ringtones?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cinematic-clarity-choices-best-4k-monitors-for-filmmakers/"><u>2024 Approved Cinematic Clarity Choices Best 4K Monitors for Filmmakers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3ogvmovavi/"><u>在線自由轉換MP3到OGV的方法：介紹Movavi 影片編解碼器</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-with-hp-universal-printers-on-a-windows-pc/"><u>Getting Started with HP Universal Printers on a Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-chatgpt-is-at-capacity-right-now-error-on-windows/"><u>How to Fix the ChatGPT Is at Capacity Right Now Error on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>In 2024, Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-cutting-edge-chatbot-allies-discord/"><u>In 2024, Cutting-Edge Chatbot Allies Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jp2tiff-movavi/"><u>JP2/TIFFファイルの無料オンライン変換サービス - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-aiff-en-format-wma-sans-frais-sur-movavi-en-ligne/"><u>Transformez Vos Fichiers AIFF en Format WMA Sans Frais Sur Movavi en Ligne</u></a></li>
 </ul></div>
 

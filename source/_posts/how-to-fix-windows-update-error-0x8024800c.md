@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Update Error 0X8024800C
-date: 2024-09-13T09:23:36.495Z
-updated: 2024-09-17T02:17:27.236Z
+date: 2024-09-21T02:09:22.722Z
+updated: 2024-09-22T00:52:30.738Z
 tags:
   - windows10
   - windows11
@@ -45,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  Sometimes, a simple restart can fix minor computer issues. It may also help if you experience system instability or frequently encounter this error. Restarting your computer will refresh the system, clearing out any corrupted data that may have caused this issue. So before proceeding, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) and try updating again.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows has a built-in troubleshooter tool that identifies and resolves common Windows Update problems. Here’s how to use it:
@@ -69,21 +56,7 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 ![Other trouble-shooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-trouble-shooters.jpg)
 5. Click the **Run** button next to Windows Update.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-update-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After following the above steps, the troubleshooter will scan your system for errors. When it’s done, the troubleshooter will present you with any solutions it finds. Follow the on-screen instructions and apply any recommendations to fix the problem.
 
@@ -102,6 +75,13 @@ net stop bits`
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're done, go back to the Command Prompt and type the following commands:
 
 `net start wuauserv  
@@ -109,9 +89,23 @@ net start bits`
 
  This will restart the Windows Update service and the Background Intelligent Transfer Service. Now try downloading updates for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Third-Party Antivirus Software Temporarily
 
  If you're experiencing problems updating Windows, your antivirus might be the culprit. These programs can sometimes interfere with Windows Update components, causing errors like 0x8024800C. To be sure, we recommend [disabling your antivirus temporarily](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and checking if this solves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Windows Update Components
 
@@ -184,10 +178,10 @@ net start cryptsvc`
 8. Once you have created the file, right-click on it and choose **Run as administrator**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. If you see a UAC prompt, click **Yes** to confirm.
@@ -204,23 +198,6 @@ net start cryptsvc`
 
  Having trouble downloading and installing Windows updates? You might be facing Windows Update Error 0x8024800C, which prevents your PC from accessing the latest updates and security patches. Thankfully we have some easy solutions that may help you fix this error code on your Windows PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-10-yt-channels-surging-ideas-and-insights-unleashed-for-2024/"><u>[Updated] 10 YT Channels Surging Ideas and Insights Unleashed for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-hot-30i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Hot 30i Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-turn-backwards-youtube-content-inversion-tips/"><u>In 2024, Turn Backwards YouTube Content Inversion Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-diverse-windows-partition-union/"><u>Mastering the Art of Diverse Windows Partition Union</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-defective-functionality-to-netflix-on-pc/"><u>Restoring Defective Functionality to Netflix on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-operations-for-windows-zone-visibility/"><u>Stealthy Operations for Windows Zone Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwavering-file-elimination-in-windows-11s-trash-bin-setup/"><u>Unwavering File Elimination in Windows 11'S Trash Bin Setup</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>Updated How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -228,3 +205,18 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-climbing-the-viewership-ladder-with-igtv-strategies-to-succeed-for-2024/"><u>[New] Climbing the Viewership Ladder with IGTV Strategies to Succeed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-innovative-approaches-to-color-correction-for-2024/"><u>7 Innovative Approaches to Color Correction for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-detective-duty-step-into-4-virtual-investigations/"><u>AI-Powered Detective Duty: Step Into 4 Virtual Investigations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-14-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 14</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios/"><u>New In 2024, Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-boosting-workflow-with-toolbar-in-windows-11/"><u>Step-by-Step to Boosting Workflow with Toolbar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-photos-into-windows-slideshow-wonders-7-ways/"><u>Transform Your Photos Into Windows Slideshow Wonders (7 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-0x80049dd3-type-error/"><u>Troubleshooting Windows 11: Resolving 0X80049DD3 Type Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
+</ul></div>
+

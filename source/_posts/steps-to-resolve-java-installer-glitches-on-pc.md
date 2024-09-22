@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Java Installer Glitches on PC
-date: 2024-09-12T19:55:46.760Z
-updated: 2024-09-17T00:15:27.478Z
+date: 2024-09-15T06:51:34.290Z
+updated: 2024-09-22T00:48:53.569Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 
  You can obtain that installation package by clicking the **Windows Offline (64-bit)** link on the [Java download page](https://www.java.com/en/download/manual.jsp). If you have a 32-bit Windows 10 platform, click the **Windows Offline** package link. Double-click the downloaded Java installation file to run the installer and select the **Install** option from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Java Installer File With Administrator Rights
 
  It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
@@ -68,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 6. Select the checkbox for any detected Java version.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **Next** and **Yes** to remove the selected Java version.  
 ![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
 8. Select **Yes** again to remove the Java Cache.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Click **Get Java** to download the latest version. Then try installing Java again.
 
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6
 `DISM /Online /Cleanup-Image /RestoreHealth  
   
 sfc /scannow`
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Antivirus Shields and Firewalls
 
@@ -161,19 +154,6 @@ sfc /scannow`
 5. Click **Agree** to continue with Java detection.  
 ![The Java Uninstall Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-tool.jpg)
 6. Select the checkbox for any detected Java version.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click **Next** and **Yes** to remove the selected Java version.  
 ![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
@@ -247,16 +227,17 @@ sfc /scannow`
 5. Click **Agree** to continue with Java detection.  
 ![The Java Uninstall Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-tool.jpg)
 6. Select the checkbox for any detected Java version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Next** and **Yes** to remove the selected Java version.  
 ![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
 8. Select **Yes** again to remove the Java Cache.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Click **Get Java** to download the latest version. Then try installing Java again.
 
@@ -283,6 +264,13 @@ sfc /scannow`
  Our guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup items. When you’ve done that, have another go at installing Java after rebooting Windows 11/10\. Then you can re-enable all the disabled startup items via Task Manager and MSConfig.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Java-Based Software Packages Again on Your Windows PC
 
@@ -331,6 +319,13 @@ sfc /scannow`
 ![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
 8. Select **Yes** again to remove the Java Cache.
 9. Click **Get Java** to download the latest version. Then try installing Java again.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair Windows' System Files
 
@@ -375,17 +370,16 @@ sfc /scannow`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-easy-steps-to-record-your-snapchat-screen/"><u>[New] 2024 Approved Easy Steps to Record Your Snapchat Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-secrets-to-sharing-videos-on-instagram/"><u>[Updated] Unlocking the Secrets to Sharing Videos on Instagram</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earnings-escalation-leveraging-your-youtube-channel-on-mobile-devices/"><u>Earnings Escalation Leveraging Your YouTube Channel on Mobile Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-xs-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone XS</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-inability-to-open-files-for-writing-in-windows-11/"><u>How to Rectify Inability to Open Files For Writing in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improving-system-usability-icon-addition-to-desktop-space/"><u>Improving System Usability: Icon Addition to Desktop Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-starter-pack-2023-edition-free/"><u>In 2024, Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-functionality-legacy-keys-in-windows-narrator/"><u>Maximizing Functionality: Legacy Keys in Windows Narrator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-launchpad-experience-with-top-techniques-for-windows-11/"><u>Transforming Launchpad Experience with Top Techniques for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-finding-lost-enhancement-tab-quick-fix-guide/"><u>Windows 11: Finding Lost Enhancement Tab - Quick Fix Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-8-strategies-for-striking-thumbnails-in-youtube-circles/"><u>[New] 2024 Approved Top 8 Strategies for Striking Thumbnails in YouTube Circles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-facebooks-live-features-for-optimal-performance-for-2024/"><u>[Updated] Mastering Facebook's Live Features for Optimal Performance for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[Updated] The Ultimate Guide to Watching FB Live on Roku</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-quality-ultraportables-and-deluxe-desktops-top-choices/"><u>Best Quality Ultraportables & Deluxe Desktops: Top Choices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Note 30 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-unwanted-features-to-lower-memory-usage/"><u>Disable Unwanted Features to Lower Memory Usage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ensuring-permanent-absence-from-tiktok-platform-for-2024/"><u>Ensuring Permanent Absence From TikTok Platform for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-missing-piece-regain-access-to-windows-11-enhancements/"><u>Fixing the Missing Piece: Regain Access to Window's 11 Enhancements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-analysis-selecting-the-leading-5-virtual-title-experts/"><u>In-Depth Analysis Selecting the Leading 5 Virtual Title Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win-xp7-for-group-policies/"><u>Navigating Win XP/7 for Group Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-non-connecting-wi-fi-usb-on-windows-devices/"><u>Solving Non-Connecting Wi-Fi USB on Windows Devices</u></a></li>
 </ul></div>
 

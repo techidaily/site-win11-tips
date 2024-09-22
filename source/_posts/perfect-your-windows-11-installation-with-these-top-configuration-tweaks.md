@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Windows 11 Installation with These Top Configuration Tweaks
-date: 2024-09-11T03:57:41.890Z
-updated: 2024-09-16T20:38:08.325Z
+date: 2024-09-15T21:49:58.082Z
+updated: 2024-09-21T19:32:38.899Z
 tags:
   - windows10
   - windows11
@@ -58,26 +58,26 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable Find My Device to Track Your PC
 
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out[how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
@@ -91,6 +91,19 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
 ## 7\. Set Active Hours
@@ -100,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 ![Active Hours](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-active-hours-edit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
@@ -127,13 +134,6 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 3. Click on**Colors** .  
 ![Dark Mode toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dark-mode-toggle-edit.jpg)
 4. In**Choose your mode** radio menu, select**Dark** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
 
@@ -156,20 +156,17 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-scripted-time-warps-a-cinematic-approach/"><u>[New] 2024 Approved Scripted Time Warps A Cinematic Approach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>[Updated] Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-marketing-mastery-crafting-robust-backlinks-for-growth/"><u>2024 Approved YouTube Marketing Mastery Crafting Robust Backlinks for Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-the-default-paths-of-windows-11-accounts/"><u>Customizing the Default Paths of Windows 11 Accounts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tifying-ajeys-monetization-strategy-youtube-edition/"><u>Demystifying Ajey's Monetization Strategy - YouTube Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-uninterrupted-fall-guys-gaming-on-windows-pc/"><u>Ensuring Uninterrupted Fall Guys Gaming on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-artistic-tools-on-windows-11-platform/"><u>Explore the Ultimate Artistic Tools on Windows 11 Platform</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-economic-value-of-a-million-youtube-followers/"><u>Exploring the Economic Value of a Million YouTube Followers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-terminal-back-to-standard-win11/"><u>How to Turn Your Terminal Back To Standard (Win11)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-acer-predator-triton-300-se-maximizing-value-in-a-portable-form-factor/"><u>In-Depth Analysis of the Acer Predator Triton 300 SE: Maximizing Value in a Portable Form Factor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-saving-procedures-in-windows-for-pubg/"><u>Streamlining Saving Procedures in Windows for PUBG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-steam-disc-operational-issues/"><u>The Ultimate Fix for Steam Disc Operational Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tutorial-intentionally-producing-poor-video-resolution/"><u>Tutorial: Intentionally Producing Poor Video Resolution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/which-virtual-helper-suits-your-lifestyle-more-amazons-alexa-or-google-assistant/"><u>Which Virtual Helper Suits Your Lifestyle More: Amazon's Alexa or Google Assistant?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-expert-techniques-for-capturing-minute-details-on-video-for-2024/"><u>[New] Expert Techniques for Capturing Minute Details on Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-earning-the-big-bucks-as-a-youtube-star-for-2024/"><u>[Updated] Earning the Big Bucks as a YouTube Star for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-europes-tongues-language-diversity-declared/"><u>Embrace Europe's Tongues: Language Diversity Declared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-absent-application-issue-on-windows-devices/"><u>Fixing Absent Application Issue on Windows Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-pagewide-pro-477dw-drivers-compatible-with-win11-win10-and-win8-systems/"><u>Get the Latest HP PageWide Pro 477DW Drivers: Compatible with Win11, Win10 & Win8 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-visual-quality-and-fps-in-roblox-gameplay-windows/"><u>Improving Visual Quality & FPS in Roblox Gameplay Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-free-cam-software-showdown-best-alternative-to-expensive-options/"><u>In 2024, Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24plus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S24+ Lock Screen Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recover-lost-sound-adjustments-post-windows-update/"><u>Recover Lost Sound Adjustments Post-Windows Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-mouse-gesture-setup-for-windows-11s-microsoft-edge/"><u>Step-By-Step Guide to Mouse Gesture Setup for Windows 11'S Microsoft Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-patches-deciphering-labels-and-codes/"><u>Windows Patches: Deciphering Labels & Codes</u></a></li>
 </ul></div>
 

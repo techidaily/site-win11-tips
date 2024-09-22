@@ -1,7 +1,7 @@
 ---
 title: Grasping How Windows Handles Preemptive Memory
-date: 2024-09-13T00:43:05.145Z
-updated: 2024-09-17T03:02:15.366Z
+date: 2024-09-17T17:46:45.890Z
+updated: 2024-09-22T05:38:08.646Z
 tags:
   - windows10
   - windows11
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  When disabling hardware devices, make sure you no longer need them, as you might be causing issues within your system.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Install 64-Bit Windows
 
  There are a few[differences between 32-bit and 64-bit Windows](https://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) , including the amount of Hardware Reserved Memory. As we’ve mentioned, a 64-bit Windows assigns less RAM to the Hardware Reserved Memory, so updating from 32-bit to the 64-bit Windows version should reduce the amount of reserved memory.
@@ -75,23 +68,10 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-64bit-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Set a Preferred GPU
@@ -99,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
  There’s a chance your computer has two GPUs, and one of them is better when managing high-intensive graphics tasks. Instead of using the integrated graphics card to process complex tasks, you should[choose a preferred GPU for games or editing software](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to reduce the memory reserved by Windows.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Run the Hardware and Devices Troubleshooter
@@ -121,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 4. Click**Next** to start the process.
 
 ![Running the hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-devices-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Edit Your System Configuration
 
@@ -136,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 ![Change boot settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/boot-settings-1.jpg)
 
  Keep in mind this will have a direct impact on how much memory Windows reserves to keep your system running properly. Don’t set a value too low to make sure Windows has enough resources.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Restore the BIOS to Its Default Settings
 
@@ -166,20 +160,16 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-background-sounds-with-film-trailers/"><u>[New] Harmonizing Background Sounds with Film Trailers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-immediate-capture-in-zoom-conferences-via-snap-for-2024/"><u>[New] Immediate Capture in Zoom Conferences via Snap for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] 2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>[Updated] Capture Every Moment The Premier 8 Free Screen Capture Apps for Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-edible-imagery-stepwise-food-film-making-for-2024/"><u>[Updated] Edible Imagery Stepwise Food Film Making for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unveiling-the-hidden-in-facebooks-off-activity-tracking-for-2024/"><u>[Updated] Unveiling the Hidden in Facebook's Off-Activity Tracking for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-backdrop-blurring-on-windows-11-photos/"><u>Decoding the Art of Backdrop Blurring on Windows 11 Photos</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-mc-launcher-failure-solve-0x803f8001-error/"><u>Eliminating MC Launcher Failure: Solve 0X803F8001 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forceful-printer-deletion-technique-for-fast-fixes-in-win-1011/"><u>Forceful Printer Deletion Technique for Fast Fixes in Win 10/11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-f5-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco F5 Pro 5G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightest-load-web-browsers-for-windows-macos-chromeos-users/"><u>Lightest-Load Web Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-affordable-windows-10-licensing/"><u>Navigating the World of Affordable Windows 10 Licensing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-the-autoplay-in-file-explorer/"><u>Silencing the Autoplay in File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-out-windows-11-for-a-fresh-start/"><u>Zeroing Out Windows 11 for a Fresh Start</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-presentation-mastery-8-top-screen-record-comparisons/"><u>[New] Presentation Mastery 8 Top Screen Record Comparisons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-quick-and-effective-method-for-uploading-to-dailymotion/"><u>[Updated] 2024 Approved Quick and Effective Method for Uploading to Dailymotion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellent-webcast-solutions-for-authors/"><u>[Updated] Excellent Webcast Solutions for Authors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-enrich-social-media-content-with-auto-generated-speech-for-2024/"><u>[Updated] How to Enrich Social Media Content with Auto-Generated Speech for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Hot 40i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-unison-calling-made-simple-in-windows-11-environment/"><u>Intel Unison Calling Made Simple in Windows 11 Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-zoom-hiccups-repairing-error-1132-on-windows-11/"><u>Navigating Zoom Hiccups: Repairing Error 1132 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-format-issue-with-unopenable-files-in-windows-vlc/"><u>Solving Format Issue with Unopenable Files in Windows, VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-reactivating-disconnected-razers-in-synapse-on-win-1011/"><u>Techniques for Reactivating Disconnected Razers in Synapse on Win 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>The Complete Breakdown of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-windows-troubles-step-by-step-support-guide/"><u>Unravel Windows Troubles: Step-by-Step Support Guide!</u></a></li>
 </ul></div>
 

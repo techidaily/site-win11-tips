@@ -1,7 +1,7 @@
 ---
 title: Ways Around a Non-Operational Windows Firewall
-date: 2024-09-12T06:10:05.846Z
-updated: 2024-09-16T22:53:17.182Z
+date: 2024-09-20T16:01:36.965Z
+updated: 2024-09-21T23:19:42.517Z
 tags:
   - windows10
   - windows11
@@ -96,31 +96,19 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
 3. Under "Group or user names", click on **Add**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **Apply** to save the changes and check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
 
@@ -130,26 +118,18 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-media-strategies-twitch-videos-for-fb-audience/"><u>[Updated] Social Media Strategies Twitch Videos for FB Audience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>2024 Approved Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-scheduling-combining-to-do-and-ifttt-services/"><u>Efficient Scheduling: Combining To-Do and IFTTT Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-power-schemes-back-to-windows-default/"><u>How To Reset Power Schemes Back to Window's Default</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-s23-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel S23</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-free-3gp-video-rotators/"><u>New In 2024, The Ultimate List of Free 3GP Video Rotators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-functional-lock-screen-wait-period-in-windows/"><u>Reinstating Functional Lock Screen Wait Period in Windows</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-free-video-converters-for-windows-11-in-2020-ultra-hd-to-4k-conversion-guide/"><u>Top Free Video Converters for Windows 11 in 2020 - Ultra HD to 4K Conversion Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-offline-mobile-world-choose-the-ultimate-game-for-fun-for-2024/"><u>Top Offline Mobile World - Choose the Ultimate Game for Fun for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +138,15 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/1726221405424-mp3/"><u>網路上任何影片 MP3 格式免費轉換工具列表</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alaw-wavmp3web-movavi/"><u>ALAW WAVからMP3へフリーなWebベースの音声コンバータ - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-bmp-images-to-png-for-free-with-movavis-web-service/"><u>Convert BMP Images to PNG for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ensuring-your-safety-how-regularly-contributing-to-microsoft-helps-maintain-windows-10s-secure-status-post-2025/"><u>Ensuring Your Safety: How Regularly Contributing to Microsoft Helps Maintain Windows 10'S Secure Status Post-2025</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-quick-finds-in-illustrator-a-complete-guide-using-copernic/"><u>Mastering Quick Finds in Illustrator: A Complete Guide Using Copernic</u></a></li>
+</ul></div>
+

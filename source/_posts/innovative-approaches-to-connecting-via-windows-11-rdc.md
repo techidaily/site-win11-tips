@@ -1,7 +1,7 @@
 ---
 title: Innovative Approaches to Connecting via Windows 11 RDC
-date: 2024-09-11T06:32:14.978Z
-updated: 2024-09-17T09:22:15.861Z
+date: 2024-09-19T04:25:49.255Z
+updated: 2024-09-22T06:14:13.319Z
 tags:
   - windows10
   - windows11
@@ -92,16 +92,10 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 4. Press **Enter** to open Remote Desktop Connection.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Open Remote Desktop Connection With the Start Menu
@@ -112,6 +106,14 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 2. Select the **All apps** option to view all program and folder shortcuts on the Start menu.  
 ![The Windows Tools folder shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-tools-folder-on-start-menu.jpg)
 3. Scroll down the menu and double-click **Windows Tools**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Remote Desktop Connection app in the Windows Tools folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remote-desktop-connection-app.jpg)
 4. Double-click **Remote Desktop Connection** within the Windows Tools folder.
 
@@ -138,28 +140,15 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/create-shortcut-window.png)
 3. Type **Remote Desktop Connection** in the text box.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the **Finish** button to add the shortcut to the desktop as in the screenshot directly below.  
 ![A Remote Desktop Connection shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-shortcut.png)
 5. Now you can click the new desktop shortcut to open Remote Desktop Connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That shortcut will simply open the RDC window. You can also set up a Remote Desktop Connection shortcut for a specific PC. To do that, enter **mstsc.exe /v:PC-name** in the Create Shortcut window’s item location text box. Replace **PC-name** in that item location with the actual name of a PC to connect with.
@@ -176,6 +165,14 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 2. Click inside the **Shortcut** **key** box shown in the screenshot below.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/shortcut-key-box.png)
 3. Press the **R** key to set up a **Ctrl + Alt + R** hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Apply** button to save the new keyboard shortcut.
 
  Now you can press **Ctrl + Alt + R** to bring up Remote Desktop Connection whenever you need it. However, don’t delete the desktop shortcut for it. That shortcut must remain in place for its hotkey to work.
@@ -193,27 +190,20 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options3.jpg)
 6. Input **Remote Desktop Connection** for the new key’s title.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Right-click **Remote Desktop Connection** to select **New** \> **Key** options.
 8. Next, input **command** inside the text box for the new subkey.
 9. Right-click the **(Default)** string inside the new command subkey and select **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-modify-option.jpg)
 10. Input **"C:\\Windows\\System32\\mstsc"** inside the **Value data** box and select **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-string-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can open the Remote Desktop Connection app from your desktop’s context menu. Right-click any empty area of the Windows 11 desktop to select **Show more options** for viewing the classic context menu. You’ll see a new **Remote Desktop Connection** shortcut on the classic context menu. Click that shortcut to access the Remote Desktop Connection app.
 
@@ -225,24 +215,6 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  To connect to a remote PC, you’ll need to open the Remote Desktop Connection tool. Once done, you can then enter the login credentials for the remote PC to connect to it through the Remote Desktop Connection window. As such, let's explore how to enable the Remote Desktop Connection tool on Windows 11
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-selection-best-video-calling-tools-phonepc/"><u>[New] In 2024, Ultimate Selection Best Video Calling Tools Phone/PC</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>2024 Approved In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-uncover-the-leading-free-online-subtitle-makers-srt/"><u>2024 Approved Uncover the Leading Free Online Subtitle Makers (Srt)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-methods-for-downloading-your-history-from-chatgpt-platform/"><u>Effective Methods for Downloading Your History From ChatGPT Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-windows-11-emoji-15-enablement/"><u>Essential Tweaks for Windows 11: Emoji 15 Enablement</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/lenovo-legion-go-examined-ideal-screensize-for-on-the-go-gaming-systems/"><u>Lenovo Legion Go Examined: Ideal Screensize for On-the-Go Gaming Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-access-immediate-fixes-needed/"><u>Microsoft Store Access: Immediate Fixes Needed?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/teslas-innovative-nacs-chargeport-now-powers-honda-electric-vehicles-too/"><u>Tesla's Innovative NACS Chargeport Now Powers Honda Electric Vehicles Too</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-7-ways-to-revitalize-your-windows-service-management-application/"><u>The Ultimate Guide to 7 Ways to Revitalize Your Windows Service Management Application</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/titre-comment-transformer-gratuitement-un-fichier-video-avi-en-format-mkv-avec-vlc-et-handbrake/"><u>Titre : Comment Transformer Gratuitement Un Fichier Vidéo AVI en Format MKV Avec VLC Et HandBrake</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-launchpad-experience-with-top-techniques-for-windows-11/"><u>Transforming Launchpad Experience with Top Techniques for Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-free-download-package-for-focusrite-scarlett-2i2-platinum-win-setup-and-drivers-included/"><u>Ultimate Free Download Package for Focusrite Scarlett 2I2 Platinum - Win Setup and Drivers Included</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-underrated-features-what-you-need-to-know/"><u>Windows 11'S Underrated Features: What You Need to Know</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -250,3 +222,18 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-bifrost-betrayal-gods-at-war/"><u>[New] Bifrost Betrayal Gods at War</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-your-social-reach-with-dual-display-facebook-streaming/"><u>[Updated] In 2024, Maximizing Your Social Reach with Dual Display Facebook Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-progopro-enhancing-footage-and-stability/"><u>2024 Approved ProGoPro Enhancing Footage & Stability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-takes-center-stage-in-microsofts-bing-update/"><u>AI Takes Center Stage in Microsoft's Bing Update</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/building-bonds-through-the-right-japanese-greeting/"><u>Building Bonds Through the Right Japanese Greeting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configurative-boot-mastering-startup-program-setup-in-windows-11/"><u>Configurative Boot: Mastering Startup Program Setup in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lectura-de-relojes-en-espanol-un-camino-inicial/"><u>Lectura De Relojes en Español: Un Camino Inicial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-lengthening-windows-10-restart-time-while-apps-run/"><u>Strategies for Lengthening Windows 10 Restart Time While Apps Run</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pivot-point-of-time-the-taskbar-narrative/"><u>The Pivot Point of Time: The Taskbar Narrative</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-workstations-your-tech-dreams-realized/"><u>Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
+</ul></div>
+

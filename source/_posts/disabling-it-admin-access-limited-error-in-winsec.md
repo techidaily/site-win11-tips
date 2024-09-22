@@ -1,7 +1,7 @@
 ---
 title: Disabling IT Admin Access Limited Error in WinSec
-date: 2024-09-09T16:12:30.497Z
-updated: 2024-09-16T18:27:59.560Z
+date: 2024-09-18T04:45:01.101Z
+updated: 2024-09-21T16:35:33.592Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 4. Press the**Disconnect** button and select**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
@@ -70,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
 ![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
@@ -77,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 7. Double-click the**Enable headless UI mode** policy to view it.  
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
 
@@ -90,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
@@ -137,33 +152,19 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
 5. Open the Start menu, select**Power** , and press the**Restart** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Perform a System Restore
 
  If the “Page not available” error remains after applying other potential solutions, try performing a system restore. That might work if you can select a restore point predating the “Page not available” error on your PC. Rolling Windows back to an earlier time could undo any system changes that caused the issue to arise.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Utilizing Windows Security Again
@@ -185,17 +186,20 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[New] 2024 Approved From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazon-prime-videos-social-stardom-on-twitter/"><u>[New] In 2024, Amazon Prime Video's Social Stardom on Twitter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-nearby-nuances-in-your-minecraft-realm/"><u>[Updated] Navigating Nearby Nuances in Your Minecraft Realm</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disabled-experience-in-roblox-troubleshooting-user-configs/"><u>Fixing Disabled Experience in Roblox: Troubleshooting User Configs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-the-oculus-quest-2-into-a-windows-pc-vr-headset/"><u>How to Turn the Oculus Quest 2 Into a Windows PC VR Headset</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-14-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 14 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/push-forward-charge-warnings-set-up-on-win11-systems/"><u>Push Forward Charge Warnings: Set Up on Win11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shift-your-onedrive-folder-in-windows-11/"><u>Shift Your OneDrive Folder in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-rectifying-non-operational-pc-keys/"><u>Tips for Rectifying Non-Operational PC Keys</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gpu-renaissance-amd-radeon-redux/"><u>[Updated] In 2024, GPU Renaissance AMD Radeon Redux</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-creating-top-quality-edu-videos-for-learning-platforms/"><u>[Updated] Mastering the Art of Creating Top-Quality Edu-Videos for Learning Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-approach-to-quietude-application-techniques/"><u>2024 Approved Audacity's Approach to Quietude Application Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp2avi-movavi/"><u>無限制使用的在線MP2與AVI媒體文件型式改變工具 – Movavi轉換器</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aumentar-el-volumen-de-tu-video-guia-paso-a-paso-con-movavi/"><u>Aumentar El Volumen De Tu Video: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/decoding-mqa-the-gateway-to-enhanced-sound-fidelity/"><u>Decoding MQA: The Gateway to Enhanced Sound Fidelity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-gif-creation-from-webm-files-at-no-cost-discover-movavis-powerful-tool/"><u>Effortless GIF Creation From WebM Files at No Cost - Discover Movavi's Powerful Tool!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-online-conversor-de-video-wmv-para-desktop-moveit/"><u>Gratuito Online Conversor De Vídeo WMV Para Desktop - MoveIt!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-google-duet-integration-with-gmail-a-step-by-step-guide/"><u>Mastering Google Duet Integration with Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-adobe-premiere-pro-cs6-mac-download-latest-update/"><u>New In 2024, Adobe Premiere Pro CS6 Mac Download - Latest Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-avi-to-ogv-kansbare-omzetting-gratis-door-movavi/"><u>Online AVI-to-OGV Kansbare Omzetting Gratis Door Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-to-installing-microsoft-ergonomic-keyboard-4000-get-the-latest-drivers-now/"><u>Quick & Easy Guide to Installing Microsoft Ergonomic Keyboard 4000 - Get the Latest Drivers Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-flv-en-vob-guide-complet-videomouvavi/"><u>Transformation Gratuite De Fichiers FLV en VOB : Guide Complet - VidéoMouvavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-stop-missing-cursors-now/"><u>Troubleshooting Windows 11: Stop Missing Cursors Now!</u></a></li>
 </ul></div>
 

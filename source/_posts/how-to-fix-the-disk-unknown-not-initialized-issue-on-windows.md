@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Disk Unknown Not Initialized” Issue on Windows
-date: 2024-09-10T05:51:58.905Z
-updated: 2024-09-17T08:36:16.023Z
+date: 2024-09-19T19:47:29.453Z
+updated: 2024-09-21T19:22:47.369Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Ensure you enter the correct drive letter for the scan to work.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update the Disk Drive Drivers
 
  Having outdated drivers can also disrupt the normal functioning of your disk drive, making it impossible for it to initialize. To ensure that's not the cause of the issue, you should update the disk drive drivers. Here are the steps you need to take:
@@ -67,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
@@ -89,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 4. Right-click on the problematic disk and select **Initialize to MBR Disk**. Then, click **Apply**.  
 ![Click on Initialize to MBR Disk in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-initialize-to-mbr-disk-in-the-minitool-partition-wizard.jpg)
 5. Right-click on the disk again, and then click **Rebuild MBR**. Then, click **Apply** once more.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Click on Rebuild MBR in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-rebuild-mbr-in-the-minitool-partition-wizard.jpg)
 6. Right-click the disk again and select **Create**. Then, click **OK**.
@@ -111,17 +105,18 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 5. Once the disk is selected, type **"clean"** and press **Enter** to format it.  
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
 9. Lastly, type **"assign"** and hit **Enter** to assign the drive letter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the external drive presenting the error under discussion contains essential data, you shouldn't format it, as you'll lose data this way. Before taking this route, keep that in mind.
 
@@ -135,17 +130,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  If you want to resolve this issue and successfully load the data, here are a few fixes you should try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-screencapture-pro-tips-record-your-television-easily-for-2024/"><u>[Updated] ScreenCapture Pro-Tips Record Your Television Easily for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-backdrop-blurring-on-windows-11-photos/"><u>Decoding the Art of Backdrop Blurring on Windows 11 Photos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-pixel-4a-review-just-enough-smartphone-for-most/"><u>Google Pixel 4a Review: Just Enough Smartphone for Most</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-gt-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme GT 3 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-6-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 6 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightest-load-web-browsers-for-windows-macos-chromeos-users/"><u>Lightest-Load Web Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-out-windows-11-for-a-fresh-start/"><u>Zeroing Out Windows 11 for a Fresh Start</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +137,21 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/1723808318995-facing-issues-with-chatgpt-implement-these-5-straightforward-fixes-to-resume-your-interaction/"><u>Facing Issues With ChatGPT? Implement These 5 Straightforward Fixes to Resume Your Interaction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vidma-to-go-screen-record-and-beyond-alternatives/"><u>In 2024, Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-solutions-for-thawing-out-a-stuck-computer-system/"><u>Quick Troubleshooting: Solutions for Thawing Out a Stuck Computer System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-error-x0001-in-nvidias-geforce-for-windows-devices/"><u>Resolving Error X0001 in Nvidia's GeForce for Windows Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-ai-synthesis-realized-engage-with-your-organizations-chief-tech-architect-zdnet/"><u>Seamless AI Synthesis Realized - Engage with Your Organization’s Chief Tech Architect | ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touchscreen-not-working-8-tips-to-fix-touch-problems/"><u>Tablet Touchscreen Not Working? 8 Tips to Fix Touch Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-purchasing-oculus-quest-cuisine/"><u>The Ultimate Guide: Purchasing Oculus Quest Cuisine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tick-tock-troubles-in-wintime-calibrate-now/"><u>Tick-Tock Troubles in WinTime? Calibrate Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-t2x-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo T2x 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-users-create-a-self-hosted-free-chatgpt-copy-with-gpt4all/"><u>Windows Users, Create a Self-Hosted Free ChatGPT Copy with GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-passwords-how-to-lengthen-windows-pins-efficiently/"><u>Winning at Passwords: How to Lengthen Windows Pins Efficiently</u></a></li>
+</ul></div>
+

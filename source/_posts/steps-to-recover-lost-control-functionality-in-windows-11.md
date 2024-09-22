@@ -1,7 +1,7 @@
 ---
 title: Steps to Recover Lost Control Functionality in Windows 11
-date: 2024-09-11T19:38:16.045Z
-updated: 2024-09-17T05:17:24.692Z
+date: 2024-09-21T01:34:50.887Z
+updated: 2024-09-21T23:35:16.561Z
 tags:
   - windows10
   - windows11
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 3. Choose **Other troubleshooters.**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Run** button next to Keyboard.  
@@ -91,19 +91,19 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 ![Sticky keys option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sticky-keys-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, restart your computer and check for the issue. If it continues, you can re-enable the sticky and filter keys.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Keyboard Driver
@@ -119,20 +119,27 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 5. Click **Uninstall** to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option.jpg)
 
- Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, restart your computer. Upon restart, Windows will automatically reinstall the keyboard driver.
 
 ## 6\. Download the Latest Windows Update
 
  The issue may also arise from minor bugs or glitches in your current Windows version. To fix this, [manually update Windows](https://www.makeuseof.com/update-windows-manually/) to the latest build.
 
  Upon completing the update installation, restart your system and verify the functionality of the Ctrl key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Run SFC and DISM Scans
 
@@ -141,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
  Problems with crucial system files on your PC can also affect the proper functioning of the Ctrl key. If the issue arises due to corruption in these important system files, you can run SFC and DISM scans.
 
  To learn how to run these scans, check out [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -161,22 +161,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
  If the Ctrl key is not working on your Windows computer, you've come to the right place. This guide explains how to troubleshoot and repair the Ctrl key on your computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-professionals-insight-into-morphvox-techniques-for-precise-audio-alteration/"><u>[New] Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>[Updated] 2024 Approved Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-slideshow-tools-for-iphone-series-9-13-xr-ios13/"><u>[Updated] Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13)</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/can-you-spin-videos-in-windows-media-player-understanding-the-capabilities/"><u>Can You Spin Videos in Windows Media Player? Understanding the Capabilities.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-deskjet-2600-drivers-suitable-for-windows-operating-systems-7-8-and-10/"><u>Get the Latest HP DeskJet 2600 Drivers Suitable for Windows Operating Systems 7, 8 & 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-honoring-artistry-essential-stop-motion-movies-top-15/"><u>In 2024, Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-management-console-fixing-failed-snap-creations/"><u>Mastering Windows Management Console: Fixing Failed Snap Creations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>New 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-file-explorer-in-windows-11-proactively/"><u>Reactivating File Explorer in Windows 11 Proactively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-old-games-save-in-picture-space-a-w11-guide/"><u>Unleash Old Games, Save in Picture Space: A W11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-quick-solutions-to-windows-1011-update-error-codes/"><u>Unlocking Quick Solutions to Windows 10/11 Update Error Codes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-fix-unblocking-inaccessible-networks/"><u>Win Fix: Unblocking Inaccessible Networks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +168,24 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-protect-your-data-while-turning-youtube-to-mp3-3-steps/"><u>[New] In 2024, Protect Your Data While Turning YouTube to MP3 - 3 Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-time-machine-capturing-the-essence-of-twitters-videos/"><u>[Updated] 2024 Approved Tweet Time Machine Capturing the Essence of Twitter's Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-creating-engaging-youtube-openings-and-closers-for-free/"><u>[Updated] Creating Engaging YouTube Openings & Closers for Free</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-pick-a-youtube-channel-name/"><u>[Updated] How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-solving-high-disk-utilization-on-windows-10-pcs/"><u>Complete Guide: Solving High Disk Utilization on Windows 10 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-down-waiting-time-editing-boot-sequence-timer-win11/"><u>Cutting Down Waiting Time: Editing Boot Sequence Timer Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-audacitys-sound-devices-failures/"><u>How To Correct Audacity's Sound Devices Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-dauntless-pc-crash-issues-a-comprehensive-guide/"><u>How to Resolve Dauntless PC Crash Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-file-merging-techniques-with-movavi-a-comprehensive-guide/"><u>MP4 File Merging Techniques with Movavi - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/overcoming-greyed-out-sync-options-in-windows-10-a-comprehensive-solution/"><u>Overcoming Greyed-Out Sync Options in Windows 10: A Comprehensive Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/spotify-mastery-the-ultimate-tutorial-for-blending-multiple-playlists-into-one/"><u>Spotify Mastery: The Ultimate Tutorial for Blending Multiple Playlists Into One</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-security-single-antivirus-on-windows-pcs/"><u>Streamline Security: Single Antivirus on Windows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-pictures-understanding-their-storage-location/"><u>The Journey of FaceTime Pictures: Understanding Their Storage Location</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-seamlessly-changing-keyboard-layouts-in-win-11/"><u>Transition Seamlessly: Changing Keyboard Layouts in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-screenshot-save-spaces/"><u>Windows Screenshot Save Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aac-ogg-movavi/"><u>무료 솔루션: AAC OGG 데이터를 바꾸기, 인터넷에서 - Movavi</u></a></li>
+</ul></div>
+

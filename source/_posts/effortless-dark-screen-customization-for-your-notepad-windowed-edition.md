@@ -1,7 +1,7 @@
 ---
 title: Effortless Dark Screen Customization for Your Notepad, Windowed Edition
-date: 2024-09-14T06:03:18.518Z
-updated: 2024-09-17T08:22:29.257Z
+date: 2024-09-16T17:23:07.957Z
+updated: 2024-09-22T06:55:47.613Z
 tags:
   - windows10
   - windows11
@@ -67,29 +67,9 @@ Here is how you can enable it:
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable Dark Mode in Notepad on Windows 11
 
  The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Use the Settings App
 
@@ -103,29 +83,29 @@ Here is how you can make the changes within the Settings app:
 ![Color settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/personalization-colors-1.jpg)
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Modify the Notepad Settings
 
@@ -153,8 +133,23 @@ Follow these steps to proceed:
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
 
@@ -179,17 +174,15 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-event-harmony-sourcing-perfect-dj-video-templates/"><u>[New] In 2024, Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-compelling-content-with-powerful-youtube-titles/"><u>[Updated] 2024 Approved Creating Compelling Content with Powerful YouTube Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-memes-with-a-smile-builder/"><u>[Updated] Top Memes with a Smile Builder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-against-chatgpt-in-the-ultimate-battle-of-ai-chatbots-for-daily-support/"><u>Claude Against ChatGPT in the Ultimate Battle of AI Chatbots for Daily Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-stylus-unmatched-tablet-mastery-claim/"><u>Digital Stylus: Unmatched Tablet Mastery Claim</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/evaluating-windows-11s-restricted-environment-advantages/"><u>Evaluating Windows 11’S Restricted Environment Advantages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pros-and-cons-of-vsdc-the-ultimate-guide/"><u>In 2024, Pros & Cons of VSDC The Ultimate Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-permission-based-saves-windows-edition/"><u>Navigating Through Permission-Based Saves: Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-typing-mastering-windows-11s-language-options/"><u>Transform Your Typing: Mastering Windows 11'S Language Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-data-flow-addressing-usb-issues-on-windows-pcs/"><u>Unblocking Data Flow: Addressing USB Issues on Windows PCs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/winning-at-windows-11-image-tweaking-tricks/"><u>Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[Updated] 2024 Approved Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-igtv-status-strategies-for-viewership-surge/"><u>[Updated] Elevate Your IGTV Status Strategies for Viewership Surge</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y36-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-comfort-for-your-devices-discovering-the-amazing-features-of-amazon-basics-tablet-support/"><u>Compact Comfort for Your Devices: Discovering the Amazing Features of Amazon Basics' Tablet Support!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-terminals-magic-five-playful-powers/"><u>Discover the Terminal's Magic: Five Playful Powers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recognize-and-implement-execution-monikers/"><u>How to Recognize and Implement Execution Monikers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-where-the-magic-of-video-editing-begins-on-youtube/"><u>In 2024, Where the Magic of Video Editing Begins on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/master-the-art-of-meeting-management-the-finest-10-free-recorders-for-slack/"><u>Master the Art of Meeting Management The Finest 10 Free Recorders for Slack</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-eliminate-spontaneous-key-press-responses/"><u>Methods to Eliminate Spontaneous Key Press Responses</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-editing-made-easy-a-beginners-guide-to-movie-creation/"><u>New Mac Video Editing Made Easy A Beginners Guide to Movie Creation</u></a></li>
 </ul></div>
 

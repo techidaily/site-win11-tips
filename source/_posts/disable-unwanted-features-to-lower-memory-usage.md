@@ -1,7 +1,7 @@
 ---
 title: Disable Unwanted Features to Lower Memory Usage
-date: 2024-09-14T09:11:37.735Z
-updated: 2024-09-17T03:23:24.349Z
+date: 2024-09-16T19:15:43.294Z
+updated: 2024-09-21T16:34:53.344Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  There are a few different ways you can disable the Antimalware Service Executable depending on the circumstances of your system’s performance.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Disable Real-time Protection
 
  Suppose you find the Antimalware Service Executable process consuming a lot of system resources in certain instances; in that case, you can temporarily disable[real-time](https://www.makeuseof.com/real-time-protection/) malware protection through Windows Security:
@@ -59,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 3. Look for**Virus & threat protection settings** , and then click on**Manage settings** option underneath.  
 ![real time protection windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/real-time-protection.jpg)
 4. Disable the**Real-time protection** toggle button by bringing it to the**Off** position.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Real-time protection will be turned back on automatically by Windows Security.
 
@@ -75,14 +75,15 @@ To disable Antimalware Service Executable from the Registry Editor:
 3. Right-click on the**Windows Defender** folder and select**New > DWORD (32-bit) Value** .  
 ![regedit windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/regedit-windows-defender.jpg)
 4. Enter**DisableAntiSpyware** in the**Value name** field and**1** in the**Value data** field.
-5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 ## Should You Rely on Windows Security for Windows 10 and 11?
 
@@ -103,17 +104,19 @@ To disable Antimalware Service Executable from the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitch-out-streaming-twitters-hd-visuals-seamlessly/"><u>[New] In 2024, Twitch Out Streaming Twitter's HD Visuals Seamlessly</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-secrets-to-gaining-traction-for-your-fb-page/"><u>[Updated] In 2024, Secrets to Gaining Traction for Your FB Page</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-strategize-execute-inspire-the-ultimate-guide-to-instagram-marketing-for-2024/"><u>[Updated] Strategize, Execute, Inspire The Ultimate Guide to Instagram Marketing for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tailoring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>[Updated] Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software/"><u>2024 Approved Pinnacle Tools for Subs to SRT Unveiling the Top 8 Win & Mac Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-playback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>2024 Approved Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-application-launch-halt-due-to-qt-deficiency/"><u>Guiding Through Resolving Application Launch Halt Due to Qt Deficiency</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Huawei Nova Y91</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027696294-m4a/"><u>M4Aファイル音量設定ガイド - どうやって再生オプションで音量調整する？</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-pinnacle-of-productivity/"><u>Surface Studio 2 Review: Closer to the Pinnacle of Productivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube-for-2024/"><u>Unlocking the Potential of Edu-Vids Strategies for Captivating Your Viewers on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>[Updated] 2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-online-beat-detectors-you-should-try-now-online-and-free/"><u>[Updated] 2024 Approved Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-30-whatsapp-biographies-for-every-astrology-follower/"><u>2024 Approved Top 30 WhatsApp Biographies for Every Astrology Follower</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ease-teammers-frustrations-quickly/"><u>Ease Teammers' Frustrations, Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-app-youre-trying-to-install-isnt-a-microsoft-verified-app-warning-on-windows/"><u>How to Fix “The App You’re Trying to Install Isn’t a Microsoft-Verified App” Warning on Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-gaming-on-tv-obs-guide/"><u>In 2024, Elevate Gaming on TV - OBS Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-toolbar-usage-in-mspcm-for-windows-11/"><u>Mastering Toolbar Usage in MSPCM for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sidestep-vmware-boot-failures-with-8-proven-strategies-win11/"><u>Sidestep VMware Boot Failures with 8 Proven Strategies, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-economics-of-windows-11-for-microsoft/"><u>The Economics of Windows 11 for Microsoft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-os-woes-quick-solutions-to-start-photoscape-immediately/"><u>Win OS Woes: Quick Solutions to Start Photoscape Immediately</u></a></li>
 </ul></div>
 

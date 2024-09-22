@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Your PC for Multimedia Mastery - Adopt Tdarr for Transcoding
-date: 2024-09-11T16:58:21.203Z
-updated: 2024-09-16T22:01:03.154Z
+date: 2024-09-16T20:26:16.053Z
+updated: 2024-09-21T16:32:04.014Z
 tags:
   - windows10
   - windows11
@@ -109,9 +109,24 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 5. Scrolling down on the same page, you'll find a series of **Resolution boundaries** fields. Those allow you to set custom resolutions for your media.  
 ![Tdarr Options Define Resolution Boundary Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-options-define-resolution-boundary-crop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. For example, since I only have access to **Full HD** screens, I've set "**1920**" as the width in the **Width Max** field of all resolutions above 1080p and their height as "**1188**" in their respective **Height Max** fields. This way, Tdarr will never re-encode media at a higher resolution than the native Full HD (1920 x 1080) of my monitors, producing much smaller files more quickly than if it had to deal with higher resolutions.  
 ![Tdarr Options Custom Resolution Boundary Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-options-custom-resolution-boundary-crop.jpg)
 2. You need at least one library for your media, so visit the **Libraries** page and click the **Library +** button to create one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type any name you wish in the field stating "**Library Name**".
 4. Fire up your favorite file explorer. Choose where you want to keep your media and create a folder. For this article, we used a folder named "**Videos**" at the root of the system "C" drive.
 5. Create three subfolders inside that folder. For ease of use, we've named them "**Incoming**", "**Ready**", and "**Temporary**". "Incoming" is where we will drop any unprocessed files for Tdarr to check out. "Temporary" is the folder Tdarr will use while processing files. "Ready" is where Tdarr will output processed files.  
@@ -154,22 +169,23 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 4. Move to Tdarr's main page (named "Tdarr") and scroll to the bottom, under **Status**, to find your library. Soon you will see the file you added to your Incoming folder appear there.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tdarr Media Added to Library Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-media-added-to-library-crop.jpg)
 5. Nothing will happen because your node needs to be configured to act on it. For that, scroll up to find the **Nodes** panel and click on your node name.  
-![Tdarr Node Selection Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-selection-crop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Tdarr Node Selection Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-selection-crop.jpg)
 
 1. You will see more details about the selected node, and you can use the **plus** and **minus** buttons next to **Transcode** and **Health Check** to assign to the node CPU and GPU threads for each task. This way, you control which node does what, which is especially useful in a multi-computer environment.  
 ![Tdarr Node Transcode and Health Check Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-transcode-and-health-check-crop.jpg)
@@ -177,13 +193,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 3. You can manually edit the node's configuration from here. Still, it's best to leave it as is and only manipulate it using external applications like Notepad.  
 ![Tdarr Node Config](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-config-1.jpg)
 4. Scroll down and use the drop-down menu to select which type of GPU acceleration you want the node to use (if available on your hardware).  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Tdarr Node Hardware Encoding Crop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-hardware-encoding-crop.jpg)
 5. If you want to use the PC on which the node runs for other tasks while encoding, flick the switch under **Low FFMPEG/HandBrake Process Priority** to have the node consume fewer resources and avoid choking your PC. Alternatively, [use an app like Process Lasso to take control of your CPU threads](https://www.makeuseof.com/process-lasso-take-control-of-cpu-threads/) and ensure it won't start crawling while encoding.
@@ -199,10 +208,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 ![Tdarr Re encoded File in Ready Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-re-encoded-file-in-ready-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Network & Hardware-Accelerated Encoding
@@ -219,19 +228,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 4. Make a copy of the "**Tdarr\_Node\_Config.json**" file, then open the original with a text editor (like Notepad).  
 ![Tdarr Node Config in Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-node-config-in-explorer-1.jpg)
 5. You can change the value next to "**nodeName**" to assign the node any name you wish, like "my\_laptop", to make it easier to recognize and manage what runs where. Next to "**serverIP**", enter the IP of the PC on which you run the Tdarr server. As the "**serverPort**", enter "**8266**".  
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Tdarr Editing Node Config](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tdarr-editing-node-config.jpg)
 
@@ -257,23 +253,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  If you have more than one PC in your home network, why not let them lend a helping hand when transcoding media? Tdarr can turn all your PCs into nodes of the same networked transcoder, resulting in much faster audio and video encoding. Let's see how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>[New] 2024 Approved The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-update-essential-strategies-for-social-media-savvy-for-2024/"><u>[New] Facebook Update Essential Strategies for Social Media Savvy for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tailor-your-media-auto-scaling-videos-for-instagram-via-macos/"><u>[Updated] In 2024, Tailor Your Media Auto-Scaling Videos for Instagram via MacOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-halt-live-streams-in-qt-player-for-2024/"><u>[Updated] Techniques to Halt Live Streams in QT Player for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-educators-compendium-of-video-assisted-methods-for-2024/"><u>[Updated] The Educator's Compendium of Video-Assisted Methods for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-backdrop-blurring-on-windows-11-photos/"><u>Decoding the Art of Backdrop Blurring on Windows 11 Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-hybrid-errors-top-5-approaches-for-hypervisorbsod/"><u>Eliminating Hybrid Errors: Top 5 Approaches for HYPERVISOR_BSOD</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forceful-printer-deletion-technique-for-fast-fixes-in-win-1011/"><u>Forceful Printer Deletion Technique for Fast Fixes in Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightest-load-web-browsers-for-windows-macos-chromeos-users/"><u>Lightest-Load Web Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-lost-volume-controls-post-windows-update/"><u>Regaining Lost Volume Controls Post Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-window11s-error-msresourceapptext/"><u>Resolving Window11's Error: MsResource/AppText</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -281,3 +260,19 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-decoding-social-media-storage-extracting-messages-from-messenger-for-2024/"><u>[New] Decoding Social Media Storage Extracting Messages From Messenger for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-a-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement/"><u>[Updated] 2024 Approved A Visual Guide to Subtitling Techniques for Effective Dialogue Placement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ballot-bonanza-5-best-political-game-line-ups-for-2024/"><u>[Updated] Ballot Bonanza 5 Best Political Game Line-Ups for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-foremost-10-video-subtitling-services-online/"><u>[Updated] Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ogvgif-movavi/"><u>簡便OGV文件改成GIF動畫 - Movavi免費線上轉換器解決方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-leading-free-3d-animation-tools-for-creatives-a-detailed-review/"><u>Discover the Leading Free 3D Animation Tools for Creatives – A Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-comprehensive-guide-understanding-our-shipping-and-return-procedures/"><u>Movavi's Comprehensive Guide: Understanding Our Shipping & Return Procedures</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-fundamentals-of-transcribing-audio-for-no-charge-discover-the-best-three-methods-for-2024/"><u>New Fundamentals of Transcribing Audio for No Charge - Discover the Best Three Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-these-underwhelming-ai-chatbot-extensions-top-6-to-ignore/"><u>Steer Clear of These Underwhelming AI Chatbot Extensions - Top 6 to Ignore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-instructions-setting-up-and-using-movavi-editor-on-a-pc-with-windows-os/"><u>Ultimate Instructions: Setting Up and Using Movavi Editor on a PC with Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-ram-movavi-online/"><u>무료 Wi-Fi RAM 이미지 형식 전환 - Movavi Online 시적</u></a></li>
+</ul></div>
+

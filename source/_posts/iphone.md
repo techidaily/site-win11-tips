@@ -1,7 +1,7 @@
 ---
 title: IPhone
-date: 2024-09-12 10:22:10
-updated: 2024-09-13 11:10:43
+date: 2024-09-17T20:12:13.928Z
+updated: 2024-09-22T06:54:05.825Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d863043aff159270d3e923d41f323.jpg
@@ -237,6 +237,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 使用者介面過時且不符合大眾口味
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**XnView**](https://www.xnview.com/en/)
@@ -258,6 +265,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -299,6 +313,20 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -319,6 +347,13 @@ Movavi Photo Editor
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -393,11 +428,27 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-income-tactics/"><u>[Updated] In 2024, Gamer Income Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-playthroughs-with-precision-and-flair/"><u>2024 Approved Capturing Playthroughs with Precision and Flair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/obs-studio-windowsmac/"><u>如何使用OBS Studio Windows/Mac版本：深入學習最新評論及教程，以便即時下載</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/come-riprodurre-file-avi-su-windows-11-una-guida-completa/"><u>Come Riprodurre File AVI Su Windows 11: Una Guida Completa</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-convertir-archivos-de-audio-mp2-a-formato-ogg-gratuitamente-online-con-el-servicio-de-conversion-de-movavi/"><u>Cómo Convertir Archivos De Audio MP2 a Formato OGG Gratuitamente Online Con El Servicio De Conversión De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/facile-et-gratuit-convertissez-vos-fichiers-gif-en-mp4-a-laide-de-movavi-online/"><u>Facile Et Gratuit : Convertissez Vos Fichiers GIF en MP4 À L'aide De Movavi Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-data-retrieval-tool-restore-lost-data-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Motorola Data Retrieval tool – restore lost data from Motorola Moto G14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-software-influencer-review-and-recommendations-top-picks/"><u>Movavi Software: Influencer Review & Recommendations - Top Picks!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-melhores-12-aplicativos-gratis-para-desenho-fotografico-em-mosaico-para-pc-movavi/"><u>Os Melhores 12 Aplicativos Grátis Para Desenho Fotográfico Em Mosaico Para PC - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/"><u>Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-earnings-potential-essential-view-numbers-for-2024/"><u>Unlocking Earnings Potential Essential View Numbers for 2024</u></a></li>
+</ul></div>
+

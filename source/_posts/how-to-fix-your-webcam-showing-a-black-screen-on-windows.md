@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Webcam Showing a Black Screen on Windows
-date: 2024-09-14T23:22:21.605Z
-updated: 2024-09-17T05:44:03.133Z
+date: 2024-09-20T00:49:44.469Z
+updated: 2024-09-22T04:41:12.575Z
 tags:
   - windows10
   - windows11
@@ -50,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update Webcam Drivers
 
  Another possible cause of a black screen on your Windows webcam is outdated or corrupted drivers.
@@ -105,31 +92,18 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Uninstall Camera driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-camera-driver.jpg)
 5. After finishing the process, restart your computer.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. When your computer starts, open Device Manager again and click **Action** on the toolbar.  
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
 7. Select **Scan for hardware changes**. This will prompt Windows to detect your webcam and install drivers automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once that's done, test your webcam again. It shouldn't show a black screen anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check App Permissions
 
@@ -142,30 +116,37 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![Camera in Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-in-privacy-settings.jpg)
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Scan for Malicious Programs
 
  This problem may also occur if your computer has malware or malicious apps installed. Malware can interfere with your webcam and turn the screen black.
 
  To check for malicious programs, employ trusted antivirus software and [perform a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/). Additionally, you may use the Windows Security tool to swiftly scan and eliminate any identified threats from your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Run the Hardware and Device Troubleshooter
 
@@ -178,6 +159,14 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 3. If the UAC prompt appears, click **Yes** to grant administrative privileges.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. In the Command Prompt window, enter the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
@@ -188,26 +177,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-quintessential-guide-to-secret-story-viewing-for-2024/"><u>[New] The Quintessential Guide to Secret Story Viewing for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-effective-twitter-de-following/"><u>[Updated] 2024 Approved The Ultimate Guide to Effective Twitter De-Following</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-clear-picture-perfection-the-best-online-image-enhancers/"><u>2024 Approved Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-support-and-download-optimized-drivers-for-windows-7-systems/"><u>AMD Radeon Support & Download: Optimized Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exposing-the-latest-file-usage-on-windows-systems/"><u>Exposing the Latest File Usage on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-play-8t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Play 8T in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g13-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G13 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/liberating-video-files-free-mp4-and-hd-from-facebook-posts/"><u>Liberating Video Files Free MP4 & HD From Facebook Posts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-legacy-tech-more-elder-safe-for-families/"><u>Making Legacy Tech More Elder-Safe for Families</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-tool-selection-top-6-windows-usage-measurers/"><u>Masterful Tool Selection: Top 6 Windows Usage Measurers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-13t-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi 13T</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-affordable-windows-10-licensing/"><u>Navigating the World of Affordable Windows 10 Licensing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-the-autoplay-in-file-explorer/"><u>Silencing the Autoplay in File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tap-into-speedier-entry-7-methods-to-curtail-delay-in-windows-11/"><u>Tap Into Speedier Entry: 7 Methods to Curtail Delay in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tightening-the-circle-simple-solutions-to-security-problems/"><u>Tightening the Circle: Simple Solutions to Security Problems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,3 +184,22 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-digital-game-chronicles-snappy-screenshots-for-every-moment-for-2024/"><u>[New] Digital Game Chronicles Snappy Screenshots for Every Moment for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-shield-against-random-youtube-video-plays/"><u>2024 Approved Shield Against Random YouTube Video Plays</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-simplified-guide-crafting-powerful-content-for-fb-ads/"><u>2024 Approved Simplified Guide Crafting Powerful Content for FB Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/create-visual-narratives-install-microsofts-movie-maker-on-w11-for-2024/"><u>Create Visual Narratives Install Microsoft's Movie Maker on W11 for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhance-digital-engagement-with-our-expertise-in-cookiebot-technology-solutions/"><u>Enhance Digital Engagement with Our Expertise in Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-live-stream-to-facebook-from-dji-drone-in-2024/"><u>How to Live Stream to Facebook From DJI Drone, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-10-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 10 Pro+ 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-win-settings-unearthing-group-policies/"><u>Journey Through Win Settings: Unearthing Group Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-java-rapid-android-studio-compilation-in-windows/"><u>Jumpstart Java: Rapid Android Studio Compilation in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-a-unique-win11-screener-display/"><u>Setting Up a Unique Win11 Screener Display</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/split-your-videos-with-ease-top-5-free-software-for-2024/"><u>Split Your Videos with Ease Top 5 Free Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-windows-task-movements/"><u>Techniques to Halt Windows Task Movements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-taskbar-issues-in-windows-11/"><u>Troubleshooting Taskbar Issues in Windows 11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-streamlining-audio-capture-on-desktops-expert-tips-for-using-audacity/"><u>Updated In 2024, Streamlining Audio Capture on Desktops Expert Tips for Using Audacity</u></a></li>
+</ul></div>
+

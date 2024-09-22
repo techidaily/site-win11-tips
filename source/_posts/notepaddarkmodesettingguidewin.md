@@ -1,7 +1,7 @@
 ---
 title: NotepadDarkModeSettingGuideWin
-date: 2024-09-14T03:26:35.073Z
-updated: 2024-09-17T07:44:51.152Z
+date: 2024-09-19T03:32:38.016Z
+updated: 2024-09-21T23:35:42.094Z
 tags:
   - windows10
   - windows11
@@ -68,15 +68,22 @@ Here is how you can enable it:
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
  The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Use the Settings App
 
@@ -93,13 +100,6 @@ Here is how you can make the changes within the Settings app:
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Modify the Notepad Settings
 
  In this method, we will be changing the Notepad theme to dark by accessing the Settings option within the application.
@@ -112,10 +112,10 @@ Follow these steps to proceed:
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
@@ -133,21 +133,16 @@ Follow these steps to proceed:
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
-![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
-3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
+3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
 
@@ -172,18 +167,18 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-review-for-dji-phantom-3-standard/"><u>[Updated] 2024 Approved Review for DJI Phantom 3 Standard</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50i Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdavi/"><u>DVDからAVIへの効果的なコンバートガイド</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-taskbar-operability/"><u>Ensuring Windows 11 Taskbar Operability</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-narzo-60x-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme Narzo 60x 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-uninstall-errors-in-windows-11-operating-system/"><u>Overcoming Uninstall Errors in Windows 11 Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamers-handbook-top-ranked-twitch-vod-retrievers/"><u>Streamer's Handbook: Top-Ranked Twitch VOD Retrievers</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-never-ending-journey-continuous-victory-for-the-black-survival-storyline/"><u>The Never-Ending Journey: Continuous Victory for the Black Survival Storyline</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/untangling-the-web-of-a-sluggish-connection-expert-strategies-inside/"><u>Untangling the Web of a Sluggish Connection: Expert Strategies Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-future-selecting-superior-ai-prompts-craftors/"><u>Unveiling the Future: Selecting Superior AI Prompts Craftors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-setup-integrating-google-play-store/"><u>Win11 Setup: Integrating Google Play Store</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-revolution-unlocking-the-potential-of-your-youtube-channel-on-mobile/"><u>[New] Revenue Revolution Unlocking the Potential of Your YouTube Channel on Mobile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726223015211-m4vgif-movavi/"><u>完全無料: M4VファイルをGIFに簡単変換 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-windows-registry-tweaks-guide/"><u>Command Prompt: Windows Registry Tweaks Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-inadequate-computer-specs-for-driver-compatibility/"><u>Correcting Inadequate Computer Specs for Driver Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-system-functionality-context-menu-for-swift-software-removal/"><u>Enhancing System Functionality: Context Menu for Swift Software Removal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-archive-support-on-windows-11/"><u>How to Enable Archive Support on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 90 Lite?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-resemble-macos-adopting-5-key-visual-changes/"><u>Making Windows Resemble MacOS: Adopting 5 Key Visual Changes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/pro-audio-refinement-on-windows-a-compendium-of-leading-tools-for-quieter-recording-environments/"><u>Pro Audio Refinement on Windows A Compendium of Leading Tools for Quieter Recording Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-11s-resource-monitor-when-it-fails/"><u>Resetting Windows 11'S Resource Monitor When It Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-command-line-navigation-with-netstat-on-win11/"><u>Step-by-Step: Command Line Navigation with Netstat on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-new-era-ai-enhancements-in-windows-platforms/"><u>The New Era: AI Enhancements in Windows Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-book-discovery-platforms-uncover-new-fiction-and-nonfiction-with-smart-recommendations/"><u>Top 5 AI Book Discovery Platforms: Uncover New Fiction & Nonfiction with Smart Recommendations</u></a></li>
 </ul></div>
 

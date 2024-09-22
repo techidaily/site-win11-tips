@@ -1,7 +1,7 @@
 ---
 title: Resetting Run History Loss Issue
-date: 2024-09-12T00:01:14.839Z
-updated: 2024-09-16T20:24:31.524Z
+date: 2024-09-21T06:57:49.157Z
+updated: 2024-09-21T17:33:02.585Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -77,20 +77,6 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-clip-curator-platform/"><u>[New] 2024 Approved Clip Curator Platform</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-thinkers-playground-top-10-mind-bending-rooms/"><u>[New] 2024 Approved Thinkers' Playground Top 10 Mind-Bending Rooms</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-audiovisual-synergy-infusing-music-into-vimeo-creations-for-2024/"><u>[New] Audiovisual Synergy Infusing Music Into Vimeo Creations for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-package-fail-message-a-windows-10-11-solution-guide/"><u>Decoding the 'Package Fail' Message: A Windows 10, 11 Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-android-software-for-windows-desktop-owners/"><u>Essential Android Software for Windows Desktop Owners</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 14 | Stellar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/iphone-unrecognized-by-itunes-on-your-windows-10-machine-how-to-resolve-it/"><u>IPhone Unrecognized by iTunes on Your Windows 10 Machine - How to Resolve It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revisiting-past-times-altering-windows-file-timestamps/"><u>Revisiting Past Times: Altering Windows File Timestamps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-drivers-windows-and-hp-printer-jetpro400-compatibility/"><u>Sync Drivers: Windows and HP Printer JetPro400 Compatibility</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tips-for-crafting-an-engaging-fb-timeline-memory/"><u>Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -98,3 +84,24 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premium-choice-top-12-apps-with-no-time-limit-feature/"><u>[Updated] 2024 Approved Premium Choice Top 12 Apps with No Time Limit Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-your-digital-presence-fb-video-creation-basics/"><u>[Updated] Enhancing Your Digital Presence FB Video Creation Basics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-prolong-your-snapstreak-legacy-with-ease-for-2024/"><u>[Updated] Prolong Your Snapstreak Legacy with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secure-your-fb-story-views-with-these-5-techniques/"><u>2024 Approved Secure Your FB Story Views with These 5 Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-compatibility-essential-wsl-2-advice-for-pcs/"><u>Conquer Compatibility: Essential WSL 2 Advice for PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-lenovo-ideapad-320-a-masterpiece-in-sleek-beauty-and-versatile-usage-complemented-by-lenovos-signature-keyboard/"><u>Discover the Lenovo IdeaPad 320 - A Masterpiece in Sleek Beauty and Versatile Usage Complemented by Lenovo's Signature Keyboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-v30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo V30 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-accurate-battery-life-meter-on-pcs-running-win-11/"><u>How to Reinstate Accurate Battery Life Meter on PCs Running Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photography-in-windows-11-building-impressive-slide-shows-and-fixes/"><u>Mastering the Art of Photography in Windows 11: Building Impressive Slide Shows & Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-device-management-in-system-sleep/"><u>Proactive Device Management in System Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-vanished-5ghz-connection-link-in-windows-11-swiftly/"><u>Restore Vanished 5GHz Connection Link in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slash-clutter-a-fast-way-to-remove-bloatware-in-win11/"><u>Slash Clutter: A Fast Way to Remove Bloatware in Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-nwstoreexe-malfunction-a-step-by-step-guide/"><u>Solving nw_store.exe Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-stop-keyboard-use-for-computer-running-windows/"><u>Steps to Stop Keyboard Use for Computer Running Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tactics-to-determine-igtv-viewership-success-for-2024/"><u>Tactics to Determine IGTV Viewership Success for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-screen-keep-getting-darker-understanding-10-triggers/"><u>Why Does My iPhone's Screen Keep Getting Darker? Understanding 10 Triggers</u></a></li>
+</ul></div>
+

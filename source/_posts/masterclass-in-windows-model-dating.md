@@ -1,7 +1,7 @@
 ---
 title: Masterclass in Windows Model Dating
-date: 2024-09-11T01:05:30.590Z
-updated: 2024-09-16T19:34:43.717Z
+date: 2024-09-20T16:56:15.541Z
+updated: 2024-09-21T16:14:27.082Z
 tags:
   - windows10
   - windows11
@@ -80,9 +80,29 @@ systeminfo.exe
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
@@ -92,13 +112,6 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
@@ -107,23 +120,9 @@ systeminfo | find /I "install date"
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
@@ -134,6 +133,13 @@ systeminfo | find /I "install date"
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -156,15 +162,18 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quickplay-quotient-top-10-lightning-gaming-apps/"><u>[New] Quickplay Quotient Top 10 Lightning Gaming Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enhance-quality-in-filming-and-photos-on-iphone-for-2024/"><u>[Updated] Enhance Quality in Filming & Photos on iPhone for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-strategies-altering-functional-keys-in-windows-1011/"><u>Customization Strategies: Altering Functional Keys in Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hassle-free-guide-to-fixing-discord-install-problems-fast/"><u>Hassle-Free Guide to Fixing Discord Install Problems Fast</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xr-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XR You Should Try Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-geforce-now-error-xc0f1103f-in-windows-11/"><u>Steps to Resolve GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-transformation-ai-integration-into-windows-11/"><u>The Transformation: AI Integration Into Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-synaptics-touchpad-driver-conflicts-in-windows-10/"><u>Troubleshooting and Resolving Synaptics Touchpad Driver Conflicts in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-virtualization-potential-with-hyper-v-on-windows-11/"><u>Unleash Virtualization Potential with Hyper-V on Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>Updated In 2024, The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-gopro-hero-4-black-vs-sony-fdr-x1000v-action-camera-which-is-better/"><u>2024 Approved GoPro Hero 4 Black Vs Sony FDR-X1000V Action Camera Which Is Better?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-90-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor 90? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apple-unveils-revolutionary-passkey-technology-at-wwdc-2022-zdnets-exclusive-coverage/"><u>Apple Unveils Revolutionary Passkey Technology at WWDC 2022 - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-drivers-for-your-epson-xp-640-finding-and-installing-updates-on-windows/"><u>Compatible Drivers for Your Epson XP-640: Finding and Installing Updates on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-videi-emb-a-aac-movavi-koda/"><u>Gratis Online Konverter: Vídei EMB a AAC - Movavi Koda</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-12-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 12 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-p40plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel P40+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-hd-mkv-ogg-movavi/"><u>Online 무료 HD를 사용한 MKV 값으로 OGG 파일을 변환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personnalisation-des-liens-affilies-avec-movavi-une-strategie-doptimisation-efficace-pour-le-referencement/"><u>Personnalisation Des Liens Affiliés Avec Movavi : Une Stratégie D'optimisation Efficace Pour Le Référencement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/photo-magic-expert-tricks-for-a-brighter-whiter-smile-in-photography/"><u>Photo Magic: Expert Tricks for a Brighter, Whiter Smile in Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transfert-de-fichiers-gratuits-guides-pour-convertir-vos-chansons-mp3-en-aiff-avec-movavi-online/"><u>Transfert De Fichiers Gratuits : Guides Pour Convertir Vos Chansons MP3 en AIFF Avec Movavi Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-k11-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo K11 5G Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-movie-maker-vs-movavi-video-editor-which-is-better-for-your-editing-needs/"><u>Windows Movie Maker Vs. Movavi Video Editor: Which Is Better for Your Editing Needs?</u></a></li>
 </ul></div>
 

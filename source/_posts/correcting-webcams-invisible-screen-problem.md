@@ -1,7 +1,7 @@
 ---
 title: Correcting Webcam's Invisible Screen Problem
-date: 2024-09-13T21:56:59.105Z
-updated: 2024-09-16T20:32:06.188Z
+date: 2024-09-19T04:23:12.378Z
+updated: 2024-09-22T02:39:06.545Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Webcam Drivers
@@ -69,16 +69,22 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![Update Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/update-camera-driver.jpg)
 4. On the next page, click **Search automatically for drivers**.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will prompt your computer to search the internet for the latest driver software for your webcam. Windows either finds and installs the latest driver or notifies you that you already have it.
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Roll Back Drivers
 
@@ -88,17 +94,38 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 2. Right-click on your webcam driver and choose **Properties**.  
 ![Open Webcam Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-webcam-properties.jpg)
 3. In the Properties window, switch to the **Driver** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Webcam Drivers
 
@@ -129,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![Camera in Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-in-privacy-settings.jpg)
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
 
@@ -162,35 +182,11 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Resolving Windows Webcam Black Screen Issues
 
  It doesn't matter how fancy your computer is or what OS it runs on, things are bound to go wrong. One common issue Windows users encounter is a black screen on their webcam. But with the solutions listed in this guide, you can troubleshoot and fix it quickly.
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-masterful-mac-microphone-software-ranking-the-excellent-five/"><u>[New] In 2024, Masterful Mac Microphone Software Ranking the Excellent Five</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1716070048390-updated-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[Updated] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exposing-the-latest-file-usage-on-windows-systems/"><u>Exposing the Latest File Usage on Windows Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/fortnite-no-longer-crashing-on-your-computer-a-comprehensive-guide-pc-edition-jan-24-update/"><u>Fortnite No Longer Crashing on Your Computer: A Comprehensive Guide (PC Edition - Jan '24 Update)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-your-ipad-back-online-expert-solutions-to-wi-fi-connection-woes/"><u>How To Get Your iPad Back Online: Expert Solutions to Wi-Fi Connection Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-visibility-of-your-touchpad-cursor-on-windows-11-systems/"><u>How to Restore Visibility of Your Touchpad Cursor on Windows 11 Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-maximize-productivity-with-zoom-scheduling-techniques/"><u>In 2024, Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-revolutionized-with-chatgpt-innovation/"><u>IOS Revolutionized with ChatGPT Innovation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-legacy-tech-more-elder-safe-for-families/"><u>Making Legacy Tech More Elder-Safe for Families</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-tool-selection-top-6-windows-usage-measurers/"><u>Masterful Tool Selection: Top 6 Windows Usage Measurers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-affordable-windows-10-licensing/"><u>Navigating the World of Affordable Windows 10 Licensing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-the-autoplay-in-file-explorer/"><u>Silencing the Autoplay in File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-out-windows-11-for-a-fresh-start/"><u>Zeroing Out Windows 11 for a Fresh Start</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +195,17 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[New] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-busting-myths-essential-facts-on-instagrams-reels/"><u>[New] In 2024, Busting Myths Essential Facts on Instagram's Reels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[Updated] Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descubra-os-fios-do-arquivo-ts-um-manual-instrutivo-para-desembrulhamento-e-execucao/"><u>Descubra Os Fios Do Arquivo .ts: Um Manual Instrutivo Para Desembrulhamento E Execução</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-and-install-asus-aura-interface-customizations-for-windows-users/"><u>Download & Install ASUS Aura Interface Customizations for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/organize-your-workspace-attaching-this-pc-icon-to-desktop/"><u>Organize Your Workspace: Attaching 'This PC' Icon to Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-principais-12-programas-freescreencapture-para-windows-problem/"><u>Os Principais 12 Programas FreeScreenCapture Para Windows # Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/score-the-biggest-bargains-on-mystery-boxes-websites/"><u>Score the Biggest Bargains on Mystery Boxes Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flac-wma/"><u>디지털 공간에서 FLAC WMA 오디오 파일을 자원 없이 전환하는 방법</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Override Intrusive Scrolling Behaviors on OS
-date: 2024-09-12T09:24:49.361Z
-updated: 2024-09-17T00:19:44.392Z
+date: 2024-09-16T16:00:31.762Z
+updated: 2024-09-22T02:20:14.606Z
 tags:
   - windows10
   - windows11
@@ -77,6 +77,13 @@ If the above basic checks don't help, apply the remaining fixes.
 
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Check for Touchpad Issues
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
@@ -84,6 +91,13 @@ If the above basic checks don't help, apply the remaining fixes.
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Remove or Uninstall Ghost Devices
 
@@ -93,24 +107,18 @@ If the above basic checks don't help, apply the remaining fixes.
 2. Go to the**View** tab and click**Show hidden devices** . If you see a checkmark next to this option, hidden devices are already visible. So, there is no need to click on this option since doing so will disable it again.  
 ![Clicking on the Show Hidden Devices Option in the View Tab of Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-clicking-on-the-show-hidden-devices-option-in-the-view-tab-of-device-manager.jpg)
 3. Expand the**Mice and other pointing devices** category.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Change Your Mouse Settings
 
@@ -126,36 +134,23 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
 7. After that, click on the**Additional mouse settings** link.  
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
@@ -177,21 +172,20 @@ If the above basic checks don't help, apply the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[New] In 2024, Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-masterclass-on-monetizing-moments-gaining-income-via-insta-sponsors/"><u>[New] Masterclass on Monetizing Moments Gaining Income via Insta-Sponsors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-rhythmic-reinvention-the-art-of-voice-in-free-fire-for-2024/"><u>[Updated] Rhythmic Reinvention The Art of Voice in Free Fire for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-blueprint-for-effective-lut-usage-in-editing/"><u>[Updated] The Complete Blueprint for Effective LUT Usage in Editing</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1725290512612-mp4dvd/"><u>劣化を心配することなく、簡単にMP4へ変えるDVDのリッピング手順 - 自分用ダウンロード無料版</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-prime-watching-with-proactive-subtitles-troubleshooting-in-windows-11/"><u>Enhance Your Prime Watching with Proactive Subtitles Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-performance-and-drawbacks-in-viairs-88p-handheld-compressor-a-detailed-review/"><u>Evaluating Performance & Drawbacks in Viair's 88P Handheld Compressor: A Detailed Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidance-on-fixing-uninstalls-failures-on-win-11/"><u>Guidance on Fixing Uninstalls Failures on Win 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphone-and-ios-a-beginners-approach-to-vr-videos-for-2024/"><u>IPhone & IOS A Beginner's Approach to VR Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/learn-smart-circumventing-edgenuity-video-lessons-quickly-for-2024/"><u>Learn Smart Circumventing Edgenuity Video Lessons Quickly for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-out-of-both-worlds-after-win-11s-release/"><u>Making the Most Out of Both Worlds After Win 11'S Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-plan-remedy-microsoft-store-glitch-error-0x0-in-win-10/"><u>Master Plan: Remedy Microsoft Store Glitch (Error 0X0) in Win 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-installation-of-microsofts-edge-protection-defender-aguard/"><u>Navigating Installation of Microsoft's Edge Protection: Defender Aguard</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-xc0351000-error-lack-of-hypervisor-in-windows-sandbox/"><u>Solving XC0351000 Error - Lack of Hypervisor in Windows Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-successful-application-use-after-a-windows-glitch/"><u>Unlocking Successful Application Use After a Windows Glitch</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-young-filmmakers-learn-to-make-your-own-movies/"><u>Updated Young Filmmakers Learn to Make Your Own Movies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-record-and-share-every-victory-in-obs/"><u>[Updated] Record & Share Every Victory in OBS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-archivo-avi-a-formato-ogg-sin-coste-con-nuestros-servicios-de-conversion-libres-y-faciles/"><u>Cambia Archivo AVI a Formato OGG Sin Coste Con Nuestros Servicios De Conversión Libres Y Fáciles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-12-no-cost-editors-competing-with-lightroom-a-deep-dive-into-movavi-features/"><u>Discover the Top 12 No-Cost Editors Competing with Lightroom: A Deep Dive Into Movavi Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/embed-webcam-footage-seamlessly-via-vlc-capture-feature/"><u>Embed Webcam Footage Seamlessly via VLC Capture Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-game-repositorys-visibility-on-epic-labs/"><u>Enhancing Your Game Repository's Visibility on Epic Labs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/entendiendo-las-diferencias-entre-formatos-de-archivo-tiff-vs-jpeg-elegir-el-correcto-para-su-proyecto-grafico/"><u>Entendiendo Las Diferencias Entre Formatos De Archivo: TIFF Vs. JPEG, Elegir El Correcto Para Su Proyecto Gráfico.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-voc-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Transform VOC Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme .</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tailoring-your-youtube-video-introduction-perfectly/"><u>In 2024, Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-12-mini-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 12 mini Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-18-plateformes-de-photographie-paid-a-privilegier-en-france/"><u>Top 18 Plateformes De Photographie Paid À Privilégier en France</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-wmvcoredll-not-found-issue-solutions-and-tips/"><u>Troubleshooting the wmvcore.dll Not Found Issue: Solutions and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-ts-format-a-guide-to-ts-file-extensions-and-compatibility/"><u>Understanding the TS Format: A Guide to TS File Extensions and Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-icine-donumuz-oyunculuk-sistemleriyle-haftalarak-etkinlestirme-adimlari/"><u>Windows İçine Dönümüz Oyunculuk Sistemleriyle Haftalarak Etkinleştirme Adımları</u></a></li>
 </ul></div>
 

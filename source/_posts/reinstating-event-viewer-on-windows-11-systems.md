@@ -1,7 +1,7 @@
 ---
 title: Reinstating Event Viewer on Windows 11 Systems
-date: 2024-09-09T16:26:45.276Z
-updated: 2024-09-16T18:50:27.174Z
+date: 2024-09-18T00:41:29.939Z
+updated: 2024-09-22T02:04:18.708Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  If the issue persists, this may be an issue with a recently installed Windows update, corrupt system files, and a problematic memory stick. Here are a few tips to try and resolve issues associated with the Windows Event Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Perform a System Restore
@@ -73,33 +73,39 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  Damaged or missing Windows system files can be a reason why some of your system apps are not working. To fix the issue, [run the System File Checker utility](https://www.makeuseof.com/windows-built-in-repair-tools/) to perform a scan and then run the DISM command to repair or replace the damaged files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check for Issues With the Storage Drive
 
  Some apps can stop working if the storage drive is corrupt and need repair. You can [use the built-in check disk utility on Windows to scan and repair your drive](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for data corruption.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable Windows Defender
 
  If your Event Viewer cannot load the log files, check if the action is blocked by Windows Defender. To determine the problem, [temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11 and then try to open the log files in Event Viewer.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check for Memory Leak Issues
 
  Issues with your system memory are another reason why the Event Viewer app is not working. Fortunately, Windows has a built-in [Memory Diagnostic tool to scan and detect issues with your system memory](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
  Often issues with the system memory may be due to faulty hardware. However, it is recommended to run more tests using the Memory Diagnostic tool report to get more insights into the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Perform a Windows Installation Repair
 
@@ -115,23 +121,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>[New] In 2024, Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-master-subtitles-from-srt-with-3-steps/"><u>[New] Master Subtitles From SRT with 3 Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/clarifying-misunderstandings-in-fb-data-revelations/"><u>Clarifying Misunderstandings in FB Data Revelations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-absence-in-task-managers-startups/"><u>Correcting Absence in Task Manager's Startups</u></a></li>
-<li><a href="https://fox-info.techidaily.com/darkest-hours-meet-brightest-blessings/"><u>Darkest Hours Meet Brightest Blessings</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ultimate-7-platforms-showcasing-new-movie-previews/"><u>Discover the Ultimate 7 Platforms Showcasing New Movie Previews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-icons-reinstatement-in-win-11/"><u>Effortless Icons Reinstatement in Win 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 12 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel A70 Phone without Google Account?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-instant-integration-linking-local-files-with-cclouddrives/"><u>Initiating Instant Integration: Linking Local Files with C:/CloudDrives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-multitasking-why-16gb-ram-is-a-must-have/"><u>Mastering Multitasking: Why 16GB RAM Is a Must-Have</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-memory-error-in-vmware-windows-environments/"><u>Troubleshooting 'Memory Error' In VMware Windows Environments</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-video-editing-workflow-top-adobe-premiere-plugins-free-trial/"><u>Updated 2024 Approved Revolutionize Your Video Editing Workflow Top Adobe Premiere Plugins (Free Trial)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,3 +128,17 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[New] 2024 Approved A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>[New] 2024 Approved Reddit User Bio Image Guide Size in Pixels, Type, Length</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[New] In 2024, An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-gain-currency-with-500-youtube-followers/"><u>[Updated] In 2024, Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/en-ligne-gratuite-pour-transformer-votre-video-wmv-en-mkv-utilisant-movavi-conversion-simple-et-rapide/"><u>En Ligne Gratuite Pour Transformer Votre Vidéo WMV en MKV Utilisant Movavi - Conversion Simple Et Rapide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-basics-of-asmr-video-content/"><u>In 2024, Mastering the Basics of ASMR Video Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-face-off-exploring-the-pros-and-cons-of-ring-vs-nest-doorbells/"><u>The Ultimate Face-Off: Exploring the Pros and Cons of Ring vs Nest Doorbells</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-screen-recorder-tools-ranking-the-top-15-for-your-laptop/"><u>The Ultimate Selection of Screen Recorder Tools - Ranking the Top 15 for Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-gif-sur-internet-avec-movavi-comprendre-la-conversion-facile/"><u>Transformation Gratuite De Fichiers JPG en GIF Sur Internet Avec Movavi - Comprendre La Conversion Facile</u></a></li>
+</ul></div>
+

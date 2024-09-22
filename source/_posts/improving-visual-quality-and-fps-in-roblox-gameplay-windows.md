@@ -1,7 +1,7 @@
 ---
 title: Improving Visual Quality & FPS in Roblox Gameplay Windows
-date: 2024-09-11T09:20:29.963Z
-updated: 2024-09-17T03:30:38.535Z
+date: 2024-09-17T22:52:17.489Z
+updated: 2024-09-22T00:47:44.890Z
 tags:
   - windows10
   - windows11
@@ -57,13 +57,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change Graphics Quality
 
  Lowering the graphics quality in the Roblox settings is the easiest way to reduce lag and improve FPS. While it will inevitably degrade the visual quality, it will significantly improve overall game performance.
@@ -72,19 +65,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Settings in the Roblox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-in-the-roblox-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, change the**Graphics Mode** to**Manual** and reduce the**Graphics Quality** by clicking on the minus sign.
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
@@ -92,10 +72,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
  Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Put Roblox on High-Performance Graphics Mode
@@ -110,6 +90,13 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Change the Power Plan Settings
 
  Windows comes with two main power plans:**Balanced** and**High Performance** . The former power plan is preferred for laptops because it balances performance with energy consumption. In contrast, the high-performance plan consumes more power but delivers the best performance.
@@ -122,6 +109,13 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Turn Off Visual Effects
 
  Visual Effects let you customize the appearance of your display. Enabling them improves the visual quality but strains your hardware more, which usually degrades your game's performance. If you wish to enhance your game's performance at the expense of its visual appeal, you can disable these customizations.
@@ -130,30 +124,24 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Open Adjust the Appearance and Performance of Windows From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-open-adjust-the-appearance-and-performance-of-windows-from-windows-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, in the**Performance Options** window, check the circle beside**Adjust for best performance** .
 
 ![Check the Circle Besides Adjust for best performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-circle-besides-adjust-for-best-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Check for Internet Issues
@@ -186,18 +174,19 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ive-into-a-stream-of-9-full-length-festive-flicks-no-charge-in-2024/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-iphoneandroid-screen-capture-for-google-meet-participants-for-2024/"><u>[New] IPhone/Android Screen Capture for Google Meet Participants for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-chucklechisel-app/"><u>[Updated] ChuckleChisel App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-phantom-v-fold-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Phantom V Fold to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clearing-out-your-system-how-to-erase-memory-dump-files-on-windows-10/"><u>Clearing Out Your System: How to Erase Memory Dump Files on Windows 10?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-resolving-application-launch-halt-due-to-qt-deficiency/"><u>Guiding Through Resolving Application Launch Halt Due to Qt Deficiency</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixing-system-crashes-in-windows-based-offices/"><u>Quick Guide to Fixing System Crashes in Windows-Based Offices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shaping-the-look-of-your-systems-point-of-interest/"><u>Shaping the Look of Your System's Point-of-Interest</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-mouse-clicks-in-win10/"><u>Step-by-Step Solution for Non-Responsive Mouse Clicks in Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-pinnacle-of-productivity/"><u>Surface Studio 2 Review: Closer to the Pinnacle of Productivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-low-cost-windows-11-licenses/"><u>The Insider's Guide to Low-Cost Windows 11 Licenses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-step-by-step-approach-to-professional-ps4-gaming-recordings/"><u>[New] 2024 Approved A Step-by-Step Approach to Professional PS4 Gaming Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-audio-aesthetics-weaving-tunes-into-snapchat/"><u>[Updated] Audio Aesthetics Weaving Tunes Into Snapchat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frolic-in-fun-the-best-comedy-centric-concepts-for-shorter-videos/"><u>[Updated] In 2024, Frolic in Fun The Best Comedy-Centric Concepts for Shorter Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>2024 Approved Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-google-pixel-8-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Google Pixel 8 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-for-macos-sierras-system-return-to-el-capitan/"><u>In 2024, Step-by-Step for MacOS Sierra's System Return to El Capitan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-computers-reimagined-windows-11-with-to-go-and-rufus-masterclass/"><u>Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-optimizing-battery-usage-in-windows-systems/"><u>Secrets to Optimizing Battery Usage in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-setup-for-new-win-11-users-via-double-clicked-apks/"><u>Simplified Setup for New Win 11 Users via Double-Clicked APKs</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208660770-troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unlocking-tech-secrets-thorough-reviews-and-tips-by-toms-gear-experts/"><u>Unlocking Tech Secrets: Thorough Reviews and Tips by Tom's Gear Experts</u></a></li>
 </ul></div>
 

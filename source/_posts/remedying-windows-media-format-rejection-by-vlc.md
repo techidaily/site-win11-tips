@@ -1,7 +1,7 @@
 ---
 title: Remedying Windows Media Format Rejection by VLC
-date: 2024-09-14T05:21:54.835Z
-updated: 2024-09-17T02:25:37.466Z
+date: 2024-09-18T03:36:00.565Z
+updated: 2024-09-21T18:35:52.439Z
 tags:
   - windows10
   - windows11
@@ -71,19 +71,6 @@ To rename the folder:
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.
 5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Modify the Youtube.luac VLC File to Fix Issues With YouTube Video Steaming
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
@@ -93,23 +80,9 @@ To rename the folder:
 ![youtube luac code script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-code-script.jpg)
 3. Next, press the**Win key** and type**VLC** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on the VLC Media Player icon and select**Open File Location.**  
 ![open vlc media player file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-vlc-medai-player-file-location.jpg)
 5. Next, right-click again on the**VLC media player** icon in the new**File Explore** tab and select**Open file location.**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Here, locate and open the**lua** folder.
 2. Next, open the**playlist** folder.
@@ -118,16 +91,10 @@ To rename the folder:
 4. Select**Open with** and select**Notepad++** or another text file editor to open the file.  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![youtube luac script save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-script-save.jpg)
@@ -146,9 +113,25 @@ To take ownership of a media file:
 2. Right-click on the media file and select**Properties** .  
 ![properties media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-media.jpg)
 3. In the**Properties** dialog, open the**Security** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
 5. Click the**Change** button for**Owner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![file properties advanced security change owner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner.jpg)
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
@@ -166,16 +149,30 @@ To uninstall the VLC media player:
 ![windows 11 view installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-view-installed-apps.jpg)
 3. Click on**Installed apps** and then search for VLC.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Invalid File Name and Long File Path Triggers This Error
 
@@ -196,15 +193,14 @@ To uninstall the VLC media player:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-superior-architects-cutting-edge-instagram-hlv-makers/"><u>[Updated] 2024 Approved Superior Architects Cutting-Edge Instagram HLV Makers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>[Updated] Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-speeding-up-projects-without-compromising-quality/"><u>2024 Approved Speeding Up Projects Without Compromising Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-subforsub-review-is-it-safe-to-use-for-increasing-youtube-subscribers/"><u>2024 Approved Subforsub Review? Is It Safe to Use for Increasing YouTube Subscribers?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-be-fooled-5-tips-to-avoid-fake-apps-in-the-windows-store/"><u>Don’t Be Fooled! 5 Tips to Avoid Fake Apps in the Windows Store</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-savings-in-cloud-data-services/"><u>In 2024, Unlocking Savings in Cloud Data Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-setup-integrating-google-play-store/"><u>Win11 Setup: Integrating Google Play Store</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-videography-for-sims-playtime/"><u>[New] 2024 Approved Innovative Videography for Sims Playtime</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-the-full-potential-of-zoom-and-fb-live-broadcasts/"><u>[New] Unlocking the Full Potential of ZOOM & FB Live Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-optimal-audio-on-ios-the-essentials-of-podcasting-for-2024/"><u>[Updated] Optimal Audio on iOS The Essentials of Podcasting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3gp-flv-movavi/"><u>変換器で3GP FLVフォーマットを自由にオンラインで変更する - Movaviの専用ツール</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avii-avi-movavi/"><u>免費線上改成 AviI AVI 動畫片 - 運用 Movavi 工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-de-conversor-de-video-online-gratuito-do-movavi-versao-para-arquivos-m1v/"><u>Download De Conversor De Vídeo Online Gratuito Do Movavi - Versão Para Arquivos M1V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-modificar-la-tasa-de-bits-en-audios-convertidor-mp3/"><u>Guía Paso a Paso: Modificar La Tasa De Bits en Audios - Convertidor MP3</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixel-perfecting-free-high-quality-mobile-photography-boost/"><u>In 2024, Pixel Perfecting Free, High-Quality Mobile Photography Boost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-the-basics-of-transfer-learning-explained/"><u>Understanding Artificial Intelligence: The Basics of Transfer Learning Explained</u></a></li>
 </ul></div>
 

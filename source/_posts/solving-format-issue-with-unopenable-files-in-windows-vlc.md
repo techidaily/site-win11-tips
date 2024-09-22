@@ -1,7 +1,7 @@
 ---
 title: Solving Format Issue with Unopenable Files in Windows, VLC
-date: 2024-09-13T20:23:05.580Z
-updated: 2024-09-17T05:39:11.822Z
+date: 2024-09-17T17:16:55.252Z
+updated: 2024-09-22T04:20:06.903Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,13 @@ To rename the folder:
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.
 5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Modify the Youtube.luac VLC File to Fix Issues With YouTube Video Steaming
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
@@ -80,23 +87,9 @@ To rename the folder:
 ![youtube luac code script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-code-script.jpg)
 3. Next, press the**Win key** and type**VLC** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on the VLC Media Player icon and select**Open File Location.**  
 ![open vlc media player file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-vlc-medai-player-file-location.jpg)
 5. Next, right-click again on the**VLC media player** icon in the new**File Explore** tab and select**Open file location.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Here, locate and open the**lua** folder.
 2. Next, open the**playlist** folder.
@@ -108,19 +101,6 @@ To rename the folder:
 6. Press**Ctrl + S** and click**Yes** to confirm the action.
 
  Once the file is saved, launch VLC and check if the error is resolved. If not, try to create a new text file with the above script and save it as**youtube.lua** . Next, delete the**youtube.luac** file in**VLC\\lua\\playlist** and then move the**youtube.lua** file to the same folder. Try to stream any YouTube video via VLC to check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Media File
 
@@ -135,20 +115,28 @@ To take ownership of a media file:
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
 5. Click the**Change** button for**Owner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![file properties advanced security change owner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner.jpg)
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
@@ -167,13 +155,27 @@ To uninstall the VLC media player:
 3. Click on**Installed apps** and then search for VLC.  
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Invalid File Name and Long File Path Triggers This Error
@@ -195,20 +197,19 @@ To uninstall the VLC media player:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xploring-youtubes-strategy-for-video-short-promotion-for-2024/"><u>[New] Exploring YouTube's Strategy for Video Short Promotion for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-android-3d-video-enthusiasts-choice/"><u>[Updated] Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>2024 Approved The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ace-titles-essentials-for-digital-marketing-success-for-2024/"><u>Ace Titles Essentials for Digital Marketing Success for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-not-valid-user-error-in-win11-environment/"><u>Clearing Up 'Not Valid User' Error in Win11 Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-hybrid-errors-top-5-approaches-for-hypervisorbsod/"><u>Eliminating Hybrid Errors: Top 5 Approaches for HYPERVISOR_BSOD</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-best-in-gadgets-dell-screen-noise-canceling-headset-and-high-definition-camera/"><u>Experience the Best in Gadgets: Dell Screen, Noise-Canceling Headset, and High-Definition Camera</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-startup-error-winscomrssrvdll-in-windows/"><u>How to Fix the Startup Error Winscomrssrv.dll in Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-cutting-edge-4k-video-editing-software-and-beyond/"><u>New 2024 Approved Cutting-Edge 4K Video Editing Software and Beyond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-lost-volume-controls-post-windows-update/"><u>Regaining Lost Volume Controls Post Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-file-explorer-functionality-for-windows-11/"><u>Reignite File Explorer Functionality for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speech-capture-made-easy-a-guide-to-keyboard-shortcuts-on-windows-11/"><u>Speech Capture Made Easy: A Guide to Keyboard Shortcuts on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-challenge-of-artificial-intelligence-goal-alignment/"><u>Understanding the Challenge of Artificial Intelligence Goal Alignment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-transition-dissecting-w10-and-w11s-core-enhancements/"><u>Windows Transition: Dissecting W10 and W11's Core Enhancements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-tech-in-action-sports-recording/"><u>[Updated] Leading Tech in Action Sports Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sky-high-engagement-optimizing-for-virality-and-visibility/"><u>[Updated] Sky High Engagement Optimizing for Virality and Visibility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-luxury-transforming-standard-shipments-into-memories-for-2024/"><u>[Updated] Unveiling Luxury Transforming Standard Shipments Into Memories for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-between-wirecast-and-obs-for-streaming-for-2024/"><u>Choosing Between Wirecast and OBS for Streaming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-utorrent-sync-troubles-on-pcs/"><u>Guiding Through uTorrent Sync Troubles on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 10 & 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility/"><u>In 2024, Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-zte-nubia-z60-ultra-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Nubia Z60 Ultra Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>New 2024 Approved Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-hardware-usage-visibility-through-windows-panels/"><u>Optimize Hardware Usage Visibility Through Windows Panels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-ea-servers-not-connecting-errors/"><u>Strategies to Rectify EA Servers Not Connecting Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quiet-command-conductive-windows-11-halt/"><u>The Quiet Command: Conductive Windows 11 Halt</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nail-design-101-for-video-promotion-on-youtube/"><u>Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trace-your-lost-touchpad-to-device-master/"><u>Trace Your Lost Touchpad to Device Master!</u></a></li>
 </ul></div>
 

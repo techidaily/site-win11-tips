@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Clearing Drives in WinOS
-date: 2024-09-14T20:02:09.803Z
-updated: 2024-09-17T05:37:13.295Z
+date: 2024-09-18T19:43:53.749Z
+updated: 2024-09-22T02:49:06.453Z
 tags:
   - windows10
   - windows11
@@ -83,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  If these commands came in handy, be sure to check out all the [built-in Windows tools that repair corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update the Disk Controller Driver
 
  The "disk controller driver" usually appears under a variety of names, like "Standard SATA AHCI" Controller. It is a Windows driver that establishes communication between your operating system and your hard drive. If the disk controller driver gets outdated, it can lead to disk-related errors.
@@ -101,21 +94,28 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 2. Expand the **IDE ATA/ATAPI controllers** category. Right-click on your disk controller driver (in our case, **Standard SATA AHCI Controller**) and select **Update driver**.  
 ![Windows 11 Device Manager Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-device-manager-preview.jpg)
 3. Choose **Search automatically for drivers**, then **Search for updated drivers on Windows Update**. Windows will then search for the necessary updates for your disk controller driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 Update Drivers Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-update-drivers-window.jpg)
 4. Once it installs the driver update, restart your computer. If the error black screen doesn't appear, it means your issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Try a Third-Party Disk Repair Tool
@@ -130,16 +130,24 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 2. Click on **dm.exe** to run Macrorit Partition Expert.  
 ![Macrorit Partition Expert Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-files.jpg)
 3. On the application window, select the disk or volume where your current Windows is present. For example, in our case, it's in **Disk 0**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After selecting, click on **Check Volume** from the left-hand sidebar.  
 ![Macrorit Partition Expert Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-application.jpg)
 5. Choose **Fix found errors**, **Try to fix found bad sectors**, and click **OK**.  
 ![Macrorit Partition Expert Volume Checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-volume-checker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, Macrorit Partition Expert will analyze your selected disk to check for any bad sectors and try to fix them.
@@ -158,19 +166,6 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
  Let's look at various methods to repair the disk issue on your Windows device.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-frames-per-second-for-languid-visuals/"><u>[New] 2024 Approved Ultimate Frames Per Second for Languid Visuals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-broadcasting-strategies-for-youtube-facebook-twitch-and-others/"><u>[New] In 2024, Broadcasting Strategies for YouTube, Facebook, Twitch, and Others</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-soundtracking-dreams-an-overview-of-magix-fx/"><u>[Updated] Soundtracking Dreams An Overview of Magix FX</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-destiny-decision-choose-between-ps5-and-budget-pc/"><u>Digital Destiny Decision: Choose Between PS5 & Budget PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-local-admin-login-turn-off-secure-answers-in-windows-11/"><u>Mastering Local Admin Login: Turn Off Secure Answers in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/on-location-assessing-functionality-and-efficiency-of-ampage-andes-1500-portable-power-supply/"><u>On Location: Assessing Functionality & Efficiency of Ampage Andes 1500 Portable Power Supply</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-teamup-error-80080300-in-windows-11/"><u>Troubleshooting TeamUp Error 80080300 in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanism-of-windows-11s-autobackup-feature/"><u>Understanding the Mechanism of Windows 11'S AutoBackup Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winter-wonderland-windows-celebrate-the-holiday-season/"><u>Winter Wonderland Windows: Celebrate the Holiday Season</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,3 +173,21 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/wmaflv-movavi/"><u>全てのビデオ形式における無料オンラインWMAとFLVへの変換 - Movaviプロセスガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222411252-ape-movavi/"><u>無料APEファイル変換ツールで高品質音楽を再生 - Movavi動的オンラインビデオコンバート</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-lag-expert-tips-for-smooth-play-in-outriders-on-your-computer/"><u>Banish Lag: Expert Tips for Smooth Play in Outriders on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-android-apps-for-free-photo-editing-in-may-2024-discover-the-top-picks/"><u>Best Android Apps for Free Photo Editing in May 2024: Discover the Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-des-fichiers-f4v-en-wmv-sans-frais-avec-la-solution-de-conversion-gratuite-de-movavi/"><u>Convertissez Facilement Des Fichiers F4V en WMV Sans Frais Avec La Solution De Conversion Gratuite De Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/demystifying-the-math-of-youtube-ratio-perfection-for-2024/"><u>Demystifying the Math of YouTube Ratio Perfection for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-tool-convert-your-files-from-mp3-to-ogg-format-with-ease/"><u>Free Online Tool: Convert Your Files From MP3 to Ogg Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-file-pgm-in-formato-bmp-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti File PGM in Formato BMP Online Con Movavi - Guida Istantanea</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v29-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V29 Pro FRP Without Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-audio-experience-for-pc-users-enhancing-speaker-volume-on-windows-10/"><u>Maximizing Audio Experience for PC Users: Enhancing Speaker Volume on Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-solve-these-5-common-glitches-via-dfu-mode/"><u>Revive Your iPhone: Solve These 5 Common Glitches via DFU Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/stick-and-button-showdown-best-gaming-tool/"><u>Stick & Button Showdown: Best Gaming Tool?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+</ul></div>
+

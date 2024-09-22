@@ -1,7 +1,7 @@
 ---
 title: Visualizing Thought Trails with Obsidian's Canvas
-date: 2024-09-15T04:51:48.323Z
-updated: 2024-09-16T18:41:13.039Z
+date: 2024-09-16T19:24:58.226Z
+updated: 2024-09-22T02:03:38.657Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 4. When you select an element, by left-clicking on one of its borders and dragging, you can **resize** it on the Canvas board.  
 ![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Getting Started With Connectors in Canvas
 
  When resizing elements, you might also have noticed some large dots on the center of each border. By left-clicking on one of those points and dragging, you can create visual **connectors** between elements.
@@ -68,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Obsidian Canvas Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-images.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The connectors between elements are as configurable as the elements themselves. You can click on a connector and use the mini action menu on its top to a) **remove** it, b) change its **color**, c) **center** the view on it, d) change its **direction** (back, forward, and bidirectional), or e) edit its **label**.
 
 ![Obsidian Canvas Connector Direction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-direction.jpg)
@@ -76,22 +96,15 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
 ![Obsidian Canvas Connector Labels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-labels.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don't press **Delete** to remove a connector's label; that would remove the connector itself. You can **edit** the label and erase its text. Still, it's quicker to select the new **Remove label** button that shows up on the quick actions bar if a selector has a label.
 
 ![Obsidian Canvas Connector Remove Label](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-remove-label.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Navigating Your Canvas
@@ -102,25 +115,25 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 ![Obsidian Canvas Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar.jpg)
 2. The first button, with the cog icon, offers the option to toggle two methods of element **snapping** on the board and **locking** it from edits as "Read-only". The plus and minus buttons allow you to **zoom** in and out, and the circular arrow button to **reset** the zoom level. The rectangular selector button centers the view on the **selected element**. Below are two more buttons for **undoing** and **redoing** actions. The last button, Canvas help, with a question mark, shows a panel with Canvas-related **shortcuts**.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Obsidian Canvas Sidebar Snap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar-snap.jpg)
 3. Obsidian Canvas displays a horizontal or vertical line when two or more elements' borders or centers align to help you keep your Canvas boards tidy.  
 ![Obsidian Canvas Alignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-alignment.jpg)
 4. Remember, Obsidian's other features are also active and usable on Canvas. For example, you can still keep **CTRL** pressed and point at a link to a note to see a **floating preview** of its contents.  
-![Obsidian Floating Note Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-floating-note-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Obsidian Floating Note Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-floating-note-preview.jpg)
 
 ## Getting More Out Of Obsidian Canvas
 
@@ -146,6 +159,13 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  Congratulations, you just created a GTD-compatible Kanban board! Now, you can add notes to each group, shuffle them, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Canvas Priority Matrix
 
  Also known as the Eisenhower/Covey's Matrix, the Priority Matrix is a great visual way to organize and prioritize tasks. You can learn more about this prioritization method in our article on [how to use Covey's 4 Quadrants Matrix for effective time management](https://www.makeuseof.com/use-coveys-quadrants-matrix-time-management/).
@@ -164,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 * Reconsider or act on them, and shuffle them among the quadrants of your Priority Matrix.
 * **Delete** or **Archive** them when done with any of them to keep your Priority Matrix clean.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Canvas for Everything With Obsidian
 
  With Obsidian's Canvas, the possibilities are truly endless. We saw how you can use it to do things for which you might be using other specialized apps up to now, from creating mind maps to organizing your tasks on a Priority Matrix.
@@ -181,20 +194,6 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-youtube-shorts-have-been-restored/"><u>[Updated] Your YouTube Shorts Have Been Restored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-backward-video-display-an-insight/"><u>2024 Approved Instagram's Backward Video Display An Insight</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-music-moments-character-compositions/"><u>2024 Approved Micro-Music Moments Character Compositions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a1-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A1 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-latest-windows-10-gaming-and-application-hits/"><u>In 2024, Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shutter-smarts-expert-tips-for-photo-enhancement/"><u>In 2024, Shutter Smarts Expert Tips for Photo Enhancement</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-vr-clarity-achieved/"><u>In 2024, Ultimate VR Clarity Achieved</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-keyboard-indicators-numlock-capslock-in-taskbar/"><u>Integrate Keyboard Indicators: NumLock, CapsLock in Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-resolve-microsoft-store-error-code-0x80072f30/"><u>Quick Steps to Resolve Microsoft Store Error Code 0X80072F30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-errors-with-unidentified-usb-ports/"><u>Resolving Connection Errors with Unidentified USB Ports</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -202,3 +201,17 @@ thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>[New] Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-5-best-zoom-transcription-software-free-and-paid/"><u>2024 Approved 5 Best Zoom Transcription Software [Free & Paid]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-picture-in-picture-in-browsing-with-edge/"><u>2024 Approved Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g04-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G04 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-art-starting-up-ms-paint-in-win11/"><u>From Zero to Art: Starting up MS Paint in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-tweaking-your-digital-environment-windows-11-default-actions/"><u>Guide to Tweaking Your Digital Environment: Windows 11 Default Actions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-your-pcs-aware-elements-during-sleep/"><u>Guiding Your PC's Aware Elements During Sleep</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pixels-and-players-advanced-tactics-for-recording-gaming/"><u>Pixels and Players Advanced Tactics for Recording Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-hardware-problem-detectors-in-windows/"><u>Unraveling Hardware Problem Detectors in Windows</u></a></li>
+</ul></div>
+

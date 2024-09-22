@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step to Investigate & Clean Windows 11 Logs
-date: 2024-09-13T05:13:25.038Z
-updated: 2024-09-17T04:11:31.295Z
+date: 2024-09-20T03:13:42.251Z
+updated: 2024-09-22T05:54:53.431Z
 tags:
   - windows10
   - windows11
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  This will clear the activity history for the account you're currently using.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
  If you're on Windows 11, the interface may look a little different.
@@ -76,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
@@ -90,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
@@ -109,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 **App and service** cover how you use Microsoft products. This category splits into two sections; **activity** for actions you've performed and **performance** for system logs.
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Windows 10 and Maintain Your Privacy
 
@@ -155,25 +155,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-snapshots-snatcher-app/"><u>[New] 2024 Approved Snapshots Snatcher App</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-lens-selection-tips-for-vloggers-and-editors/"><u>[Updated] Ultimate Lens Selection Tips for Vloggers & Editors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aifc/"><u>「オンラインで簡単なAIFC画像コンバート - ムーヴェイヴィ」</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-strategies-altering-functional-keys-in-windows-1011/"><u>Customization Strategies: Altering Functional Keys in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-using-extra-monitors-without-graphic-chipset/"><u>Guide to Using Extra Monitors Without Graphic Chipset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/home-theater-heroes-how-to-enjoy-fandango-entertainment-on-your-apple-tv-setup/"><u>Home Theater Heroes: How to Enjoy Fandango Entertainment on Your Apple TV Setup</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-lost-bluetooth-with-these-essential-win-11-solutions/"><u>Reignite Lost Bluetooth with These Essential Win 11 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-geforce-now-error-xc0f1103f-in-windows-11/"><u>Steps to Resolve GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-setup-rgb-lighting-windows-11/"><u>Tips to Setup RGB Lighting Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-honor-x50-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor X50 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-storage-management-for-your-apps/"><u>Windows Storage Management for Your Apps</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -181,3 +162,23 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-soundscapes-for-visual-storytelling/"><u>[New] 2024 Approved Ultimate Soundscapes for Visual Storytelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android-for-2024/"><u>[New] Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-securing-social-streaming-download-strategies-unveiled/"><u>[Updated] In 2024, Securing Social Streaming Download Strategies Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-and-ipad-screen-recording-top-methods-of-2023/"><u>[Updated] IPhone & iPad Screen Recording Top Methods of 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assemble-visual-media-for-queue-upgrade-for-2024/"><u>Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/discover-the-most-innovative-phones-and-tablets-from-the-2e-mobile-world-conference-2016-your-definitive-selection-list/"><u>Discover the Most Innovative Phones & Tablets From the 2E-Mobile World Conference 2016 – Your Definitive Selection List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-premier-streaming-apps-of-2023-a-comprehensive-review-by-movavi/"><u>Discover the Premier Streaming Apps of 2023: A Comprehensive Review by Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-s18-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo S18 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-when-lost-ark-wont-connect-tactics-for-handling-server-errors/"><u>Mastering the Fix for When Lost Ark Won't Connect: Tactics for Handling Server Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-selection-of-screen-recorder-tools-ranking-the-top-15-for-your-laptop/"><u>The Ultimate Selection of Screen Recorder Tools - Ranking the Top 15 for Your Laptop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-mais-eficientes-tecnicas-de-apagamento-vocalico-aprenda-como-desabilitar-sua-voz-online/"><u>Top 11 Mais Eficientes Técnicas De Apagamento Vocálico - Aprenda Como Desabilitar Sua Voz Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-14-best-stock-video-scenes-of-2022-free-and-premium-selections/"><u>Top 14 Best Stock Video Scenes of 2022 - Free & Premium Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-gif-sur-internet-avec-movavi-comprendre-la-conversion-facile/"><u>Transformation Gratuite De Fichiers JPG en GIF Sur Internet Avec Movavi - Comprendre La Conversion Facile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-facilement-un-mp4-en-video-flash-flv-sans-frais-movavi/"><u>Transformez Facilement Un MP4 en Vidéo Flash (FLV) Sans Frais - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-ai-mp4/"><u>무료 MP4 형식으로 바꾸기 - 온라인 AI MP4 변환 도구</u></a></li>
+</ul></div>
+

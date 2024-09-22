@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus"
-date: 2024-09-10T01:07:27.489Z
-updated: 2024-09-17T02:31:54.764Z
+date: 2024-09-17T00:29:19.052Z
+updated: 2024-09-21T20:44:16.006Z
 tags:
   - windows10
   - windows11
@@ -106,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
@@ -137,20 +131,15 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/1716069723127-new-in-2024-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] In 2024, Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>[New] In 2024, Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-zooming-techniques-for-detailed-cinematography/"><u>[New] Zooming Techniques for Detailed Cinematography</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-choreography-to-clicks-making-tiktok-dancing-videos-for-mac-for-2024/"><u>[Updated] From Choreography to Clicks Making TikTok Dancing Videos for Mac for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>2024 Approved A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-pro-level-stabilization-systems-for-streaming-content/"><u>2024 Approved Pro-Level Stabilization Systems for Streaming Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-overcoming-windows-errors/"><u>Corrective Measures for Overcoming Windows Errors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-green-tools-shaping-film-for-2024/"><u>Cutting Edge Green Tools Shaping Film for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/dial-up-discovery-mastering-quick-search-on-social-media/"><u>Dial-Up Discovery Mastering Quick Search on Social Media</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-video-flipper-tools-top-10-picks-for-rotating-footage/"><u>In 2024, Free Video Flipper Tools Top 10 Picks for Rotating Footage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-during-utorrent-setup-on-windows-systems/"><u>Overcoming Obstacles During uTorrent Setup on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-limiting-user-access-in-windows-folders/"><u>Techniques for Limiting User Access in Windows Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0xca00a009-in-windows-update/"><u>Troubleshooting Error 0xCA00A009 in Windows Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-data-potential-four-ways-to-tap-into-disk-editor-settings-on-windows-11/"><u>Unlock Data Potential: Four Ways to Tap Into Disk Editor Settings on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-insiders-guide-to-recording-and-livestreaming-sports-events/"><u>[New] 2024 Approved Insider's Guide to Recording and Livestreaming Sports Events</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-ways-to-employ-auto-gpt-in-daily-life/"><u>10 Ways to Employ Auto-GPT in Daily Life</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>2024 Approved The Ideal Starting Point Uncomplicated Gaming Edits Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aac-m4r-mp3-moveavi/"><u>AAC M4R 음성 파일에서 MP3로의 무료 인터넷 전송 변환: MoveAVi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-customizing-hotkey-behavior/"><u>Boost Productivity: Customizing Hotkey Behavior</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-vob-files-to-high-quality-flac-format-with-ease/"><u>Free Online Converter: Transform VOB Files to High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-video-converter-convert-mka-and-aac-files-using-movavi/"><u>Free Online Video Converter - Convert MKA & AAC Files Using Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-lsa-malfunctioning/"><u>Overcoming Windows LSA Malfunctioning</u></a></li>
 </ul></div>
 

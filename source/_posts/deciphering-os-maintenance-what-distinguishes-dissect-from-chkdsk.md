@@ -1,7 +1,7 @@
 ---
 title: "Deciphering OS Maintenance: What Distinguishes Dissect From Chkdsk?"
-date: 2024-09-12T08:45:31.079Z
-updated: 2024-09-17T02:44:40.279Z
+date: 2024-09-18T06:58:09.840Z
+updated: 2024-09-21T21:40:25.748Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Run CHKDSK Through File Explorer
 
  You can run CHKDSK from the command prompt. If you're uncomfortable using the Command Prompt, open **File Explorer**, click **This PC**, right-click the drive you want to check and select **Properties**.
@@ -62,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
  Select the **Tools** tab and then select **Check** in the **Error-checking** section.
 
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
@@ -91,12 +71,26 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![CHKDSK scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chkdsk-scan.jpg)
 5. Press **Enter** to scan for errors in read-only mode, which means no changes will be made.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make changes, you can use parameters with the CHKDSK command. Here are two you can use to fix problems:
 
 * To make CHKDSK fix the problems it finds, type **chkdsk /f c:** (for your C: drive).
 * To scan for bad sectors and errors, type **chkdsk /r c:**
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is SFC Scannow and When Should You Use It?
 
@@ -122,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -142,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 `Dism /Online /Cleanup-Image /CheckHealth`
 
 ![windows dism check in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-dism-check-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The scan should only take a few seconds. If no corruption is detected, you can run a more advanced scan to determine if the component store is healthy and repairable, again without making any changes, by typing:
 
@@ -157,10 +151,16 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
@@ -173,22 +173,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  If you're still having trouble, perform a System Restore. This will restore your system files, settings, and programs to a time when they worked properly. If your system wasn't damaged when the restore point was created, it may solve your corruption problems.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-ifunny-memes/"><u>[New] Navigating the World of iFunny Memes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-demystifying-drone-technology-operations-and-purposes/"><u>[Updated] In 2024, Demystifying Drone Technology Operations and Purposes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-common-glitches-in-ios-camera-roll-with-these-simple-tips/"><u>Fixing Common Glitches in iOS Camera Roll with These Simple Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-tecno-camon-20-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Tecno Camon 20 Pro 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-8000-latest-driver-downloads-compatible-with-windows-7810/"><u>NVIDIA Quadro RTX #8000: Latest Driver Downloads Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/professional-drone-selection-guide-top-5/"><u>Professional Drone Selection Guide (Top 5)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-integrating-the-search-feature-into-win11s-task-manager/"><u>Re-Integrating the Search Feature Into Win11's Task Manager</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-of-the-logitech-g515-lightspeed-tkl-mouse-compact-design-and-budget-friendly/"><u>Review of the Logitech G515 Lightspeed TKL Mouse - Compact Design and Budget-Friendly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-altering-windows-11-default-actions/"><u>The Insider's Guide to Altering Windows 11 Default Actions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/win-big-in-toms-hardware-skylake-pc-build-contest-a-complete-guide/"><u>Win Big in Tom's Hardware Skylake PC Build Contest – A Complete Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +180,21 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-chuckle-factory-spooky-androids/"><u>[New] Chuckle Factory Spooky Androids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-an-intro-to-quantum-hdr-innovations/"><u>[Updated] In 2024, An Intro to Quantum HDR Innovations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-free-online-converter-transform-wma-to-mp3-with-movavi/"><u>1. Free Online Converter: Transform WMA to MP3 with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-gopro-hero5-testing-report/"><u>2024 Approved In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-large-scale-tiktok-video-downloads/"><u>2024 Approved Mastering Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bahsedecegimiz-12-milyar-ucretli-surdurulebilir-3d-daha-acik-animation-programu/"><u>Bahsedeceğimiz 12 Milyar Ücretli Sürdürülebilir 3D Daha Açık Animation Programu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cortical-remapping-occurs-as-the-brain-adapts-to-changes-in-sensory-input-or-motor-function-following-nerve-damage/"><u>Cortical Remapping Occurs as the Brain Adapts to Changes in Sensory Input or Motor Function Following Nerve Damage.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-thrifty-tech-finds-best-cameras-on-a-dime/"><u>In 2024, Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nubia-z50s-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nubia Z50S Pro Phone Network-Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/istruzioni-semplici-per-ottenere-foto-trasparenti-sfondo-senza-problemi/"><u>Istruzioni Semplici per Ottenere Foto Trasparenti Sfondo Senza Problemi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-avi-media-player-ideal-for-all-devices-for-2024/"><u>Superior AVI Media Player - Ideal for All Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-11-free-and-premium-2d-animation-programs-of-2024-a-comprehensive-guide/"><u>Top 11 Free & Premium 2D Animation Programs of 2024: A Comprehensive Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Exact Video Editing: A Step-by-Step Guide"
-date: 2024-09-11 22:23:34
-updated: 2024-09-13 11:15:59
+date: 2024-09-19T17:25:05.352Z
+updated: 2024-09-22T01:14:02.926Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858ec27b5c29bc07659651b716.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -298,6 +305,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -325,6 +339,19 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -455,6 +482,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -510,6 +544,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +577,25 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-techniques-for-enhancing-livestream-quality/"><u>[Updated] Innovative Techniques for Enhancing Livestream Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-paid-drawing-tools-for-windows-enthusiasts/"><u>2024 Approved Free and Paid Drawing Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmamov-movavi/"><u>網站直接免費自動轉化WMA到MOV - Movavi無損格式轉換器</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lava-blaze-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lava Blaze 2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-effortless-wav-to-m4r-file-converter-download-and-use-it-for-free/"><u>Movavi's Effortless WAV-to-M4R File Converter - Download & Use It For Free!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-online-mp3-to-m4r-service-convert-your-songs-free/"><u>Movavi's Online MP3-to-M4R Service - Convert Your Songs Free!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-analysis-of-electronics-toms-hardware-experts/"><u>Precision Analysis of Electronics - Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-audio-formats-effortlessly-convert-m4a-to-m4v-at-no-cost-via-web-services/"><u>Switching Audio Formats Effortlessly - Convert M4A to M4V at No Cost via Web Services</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winx-mobile-video-converter-androidmkv-m2ts-avi-wmv/"><u>WinX Mobile Video Converter使用: AndroidデバイスへのMKV, M2TS, AVI, WMV動画変換ガイド</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-comment-enregistrer-simultanement-la-camera-laudio-et-lecran-sur-windows/"><u>WinXvideo AI: Comment Enregistrer Simultanément La Caméra, L'audio Et L'écran Sur Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gif-muvavi/"><u>オンラインで簡単にGIFファイルを無料変換 - Muvavi</u></a></li>
+</ul></div>
+

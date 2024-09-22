@@ -1,7 +1,7 @@
 ---
 title: Confronting and Correcting Windows Security Missteps
-date: 2024-09-14T22:13:01.622Z
-updated: 2024-09-17T08:43:27.574Z
+date: 2024-09-14T17:53:46.522Z
+updated: 2024-09-22T05:53:45.105Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,25 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 3. You can skip through to step five if the Windows Defender key includes a**DisableAntiSpyware** DWORD. However, users who can’t see that DWORD will need to right-click the**Windows Defender** key and select**New** \>**DWORD** .  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-new-key-options.jpg)
 4. Type**DisableAntiSpyware** in the DWORD’s text box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click the**DisableAntiSpyware** DWORD to access its**Value** box.
 6. Input**0** in the data box if that’s not the current value set.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-dword-window.jpg)
 7. Select**OK** to confirm the value for the DWORD.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
 
@@ -69,23 +84,10 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
@@ -109,16 +111,16 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-option.jpg)
 13. Press the**Quarantine** button after the scan.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
 
@@ -133,19 +135,6 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
 5. Select the policy’s**Apply** and**OK** options.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset Windows or Perform an In-Place Upgrade
 
  Resetting Windows is a troubleshooting method that restores the platform to a default (factory) configuration. The Reset this PC tool gives you a simple way to reinstall the platform and preserve user files, but you’ll need to reinstall apps.
@@ -154,22 +143,16 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
  However, you could feasibly upgrade to a new Windows version via Settings. Open**Windows Update** in the Settings app to see if there’s a version upgrade available. If so, select to upgrade to the latest Windows build from there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Run a Scan With Windows Security Again
 
@@ -190,17 +173,21 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-do-screen-recording-on-ipad/"><u>[New] In 2024, How to Do Screen Recording on iPad?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-professional-recording-apps-faceoff-obs-vs-fraps/"><u>[New] Professional Recording Apps Faceoff – OBS vs Fraps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-guide-vimeo-video-grabs/"><u>[Updated] In 2024, Ultimate Guide Vimeo Video Grabs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-undisclosed-secrets-to-growth-on-social-media/"><u>[Updated] The Undisclosed Secrets to Growth on Social Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-keyword-optimization-in-podcast-seo/"><u>2024 Approved Navigating Keyword Optimization in Podcast SEO</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-communication-intel-unison-and-windows-11-collaboration/"><u>Cutting-Edge Communication: Intel Unison and Windows 11 Collaboration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-cross-device-communication-via-nearby/"><u>Empowering Cross-Device Communication via Nearby</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-eco-friendly-visual-effect-systems-a-beginners-guide/"><u>In 2024, Top Eco-Friendly Visual Effect Systems A Beginner's Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-trailblazers-top-intro-list-for-zooids/"><u>In 2024, Trailblazers Top Intro List for Zooids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-photo-import-glitches-with-ios-devices-on-windows/"><u>Overcoming Photo Import Glitches with iOS Devices on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-eradicating-screen-lag-with-extra-displays/"><u>Quick Fixes: Eradicating Screen Lag with Extra Displays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-to-hitman-3s-connection-failed-problem/"><u>The Ultimate Solution to Hitman 3'S 'Connection Failed' Problem</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ut-buffering-time-turn-on-av1-in-youtube-settings/"><u>[New] Cut Buffering Time – Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-in-choosing-tiktok-wallpapers/"><u>[Updated] Best Practices in Choosing TikTok Wallpapers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-movie-magic-free-text-animation-basics/"><u>Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-your-environment-adding-tasks-to-folder-context-menus/"><u>Enrich Your Environment: Adding Tasks to Folder Context Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extending-the-duration-of-windows-11-shutdown-during-execution/"><u>Extending the Duration of Windows 11 Shutdown During Execution</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-htc-u23-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on HTC U23 Pro online without jailbreak</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-8-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 8 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-file-management-adding-custom-movecopy-menus/"><u>Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722893043196-top-tech-gadgets-laptops-smartphones-and-e-books-galore/"><u>Top Tech Gadgets: Laptops, Smartphones & E-Books Galore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-secure-boot-failures-wins-quick-solutions/"><u>Troubleshoot Secure Boot Failures: Win's Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-camera-issues-on-surface-pro-4-with-windows-11/"><u>Troubleshooting Steps: Fixing Camera Issues on Surface Pro 4 with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-alert-7-symptoms-needed-a-fresh-start/"><u>Windows Alert: 7 Symptoms Needed a Fresh Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
 </ul></div>
 

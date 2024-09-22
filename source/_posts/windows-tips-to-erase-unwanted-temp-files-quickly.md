@@ -1,7 +1,7 @@
 ---
 title: Windows Tips to Erase Unwanted Temp Files Quickly
-date: 2024-09-13T21:21:29.369Z
-updated: 2024-09-17T07:04:55.324Z
+date: 2024-09-15T22:48:37.646Z
+updated: 2024-09-22T06:37:05.193Z
 tags:
   - windows10
   - windows11
@@ -74,6 +74,13 @@ C:\Windows\SoftwareDistribution\Download
 
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Edit Registry Files
 
  By default, the Disk Cleanup utility does not delete temporary files that are less than seven days old. This is because Windows marks these files as active. However, if you want to delete all the temporary files, regardless of their age, you can make changes to the Windows Registry.
@@ -90,10 +97,10 @@ C:\Windows\SoftwareDistribution\Download
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC after this and try to delete temporary files once again.
@@ -104,13 +111,6 @@ C:\Windows\SoftwareDistribution\Download
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Rid of Temporary Files on Windows
 
  Clearing temporary files is a great way to free up storage space without deleting any of your apps or important data.
@@ -119,21 +119,6 @@ C:\Windows\SoftwareDistribution\Download
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-secret-whatsapp-techniques-for-maximum-impact/"><u>2024 Approved Secret WhatsApp Techniques for Maximum Impact</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-8-plus-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 8 Plus Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/best-tools-for-retrieving-lost-or-unreadable-drives-partition-recovery-solutions/"><u>Best Tools for Retrieving Lost or Unreadable Drives: Partition Recovery Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-20-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 20 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/innovative-ai-names-for-podcasts-the-ultimate-guide-for-2024/"><u>Innovative AI Names for Podcasts – The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-class-on-cutting-unwanted-backdrops/"><u>Master Class on Cutting Unwanted Backdrops</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-solutions-for-resolving-hp-envy-7640-printer-drivers/"><u>Quick Solutions for Resolving HP ENVY 7640 Printer Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-no-sound-recognition-by-windows-operating-system/"><u>Reversing No Sound Recognition by Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-system-mastering-three-windows-restarts/"><u>Revitalize Your System: Mastering Three Windows Restarts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-bsod-fix-in-windows-vmware-edition/"><u>Steps for BSOD Fix in Windows: VMware Edition</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +126,22 @@ C:\Windows\SoftwareDistribution\Download
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>[New] In 2024, Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-rhythmripper-screen-recordings-review/"><u>[New] RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-samsung-secrets-crafting-compelling-time-lapses-for-2024/"><u>[Updated] Samsung Secrets Crafting Compelling Time Lapses for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-platform-faceoff-for-quick-viewers-a-clash-between-youtube-shorts-and-tiktok/"><u>2024 Approved Platform Faceoff for Quick Viewers A Clash Between YouTube Shorts and TikTok</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a78-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A78 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/comparative-study-of-premium-video-services-for-2024/"><u>Comparative Study of Premium Video Services for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-clock-show-dates-on-windows-interface/"><u>Concealing Clock, Show Dates on Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-fundamental-techniques-to-rectify-login-conflicts-on-windows-11/"><u>Five Fundamental Techniques to Rectify Login Conflicts on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-a54-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy A54 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-functionality-of-automatic-voice-feature-on-word/"><u>Regaining Functionality of Automatic Voice Feature on Word</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-avoid-high-cpu-load-during-gameplay-on-pc/"><u>Strategies to Avoid High CPU Load During Gameplay on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tweak-enhance-f-keys-performance-in-windows-11/"><u>Tweak: Enhance F-Keys' Performance in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y200e-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y200e 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-update-and-its-companion-service/"><u>Unveiling Windows Update and Its Companion Service</u></a></li>
+</ul></div>
+

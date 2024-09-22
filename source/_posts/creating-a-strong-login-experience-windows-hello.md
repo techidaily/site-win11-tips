@@ -1,7 +1,7 @@
 ---
 title: "Creating a Strong Login Experience: Windows Hello"
-date: 2024-09-10T19:19:46.226Z
-updated: 2024-09-16T22:51:16.260Z
+date: 2024-09-14T21:40:04.643Z
+updated: 2024-09-21T18:40:38.115Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 6. Enter a PIN in the**New PIN** field and input it again in the**Confirm PIN** field. If you wish to include letters and symbols in your PIN, check off the Include letters and symbols option.
 7. Click**OK** to create and set the PIN as your new sign-in option.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Set Up a Windows Hello Fingerprint Login on Windows 11
 
  After you've created a Windows Hello PIN, setting up fingerprint recognition is simple. Use the steps below to set it up on your PC. Irrespective of whether you’re using a built-in fingerprint reader on your laptop or a[USB fingerprint scanner](https://www.makeuseof.com/tag/best-usb-fingerprint-scanners/) , the steps you need to take are the same.
@@ -64,15 +71,16 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 5. Tap on the**Set up** button.  
 ![Windows Hello fingerprint login set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-1.jpg)
 6. On the**Windows Hello setup** window, click on**Get started** , and when prompted to enter your PIN, type the PIN you created earlier.  
-![Windows Hello PIN authentication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-2.jpg)
-7. Swipe your finger across the fingerprint reader on your PC until it registers it completely.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Windows Hello PIN authentication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-2.jpg)
+7. Swipe your finger across the fingerprint reader on your PC until it registers it completely.  
 
 ![Windows Hello fingerprint registration prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-3.jpg)
 8. Hit**Close** to close the setup window.
@@ -83,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 ![Windows Hello second fingerprint set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-a-second-fingerprint-for-windows-hello.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Log Into Your Windows 11 PC Using a Fingerprint
 
  With Windows Hello enabled and fingerprint unlocking enabled on your computer, you can verify if the fingerprint scanner on your PC works by putting it to the test.
@@ -97,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
  To do this, press the**Win + L** keys to lock your PC. Now, swipe your registered finger across the fingerprint scanner on your computer. If your fingerprint scanner is functional, and you managed to register your fingerprint properly, you should've unlocked your PC by now.
 
  However, if this doesn't work, try another finger if you've registered it. Alternatively, enter the PIN when your PC asks you for it upon failing to recognize your fingerprint. And subsequently, remove the fingerprint login and try registering your fingerprint again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove the Windows Hello Fingerprint Login in Windows 11
 
@@ -106,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 2. Select**Account** from the left sidebar and tap on the**Sign-in options** on the right pane.
 3. Click the**Remove** button.  
 ![removing Windows Hello fingerprint login on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/removing-windows-hello-fingerprint-login.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Irrespective of how many fingerprints you've set, this will delete all of them for you and remove the Windows Hello fingerprint login from your computer. After you do this, you can still sign in to your PC using the PIN you generated earlier.
 
@@ -137,20 +138,18 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques/"><u>[New] 2024 Approved Cementing Your Place in YouTube by Mastering Creative Studio Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-econo-audio-amps-for-youtubers-with-limited-dough/"><u>[Updated] 2024 Approved Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-navigating-vector-editing-beyond-magixs-domain/"><u>[Updated] 2024 Approved Navigating Vector Editing Beyond Magix's Domain</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-streamlined-processes-how-to-make-and-modify-multi-snap-chats/"><u>[Updated] Streamlined Processes How To Make & Modify Multi-Snap Chats</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-universal-watcher-exclusive-local-and-live-streaming/"><u>2024 Approved The Universal Watcher Exclusive Local and Live Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-error-c0000022-a-path-to-windows-stability/"><u>Demystifying Error C0000022: A Path to Windows Stability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-be-fooled-5-tips-to-avoid-fake-apps-in-the-windows-store/"><u>Don’t Be Fooled! 5 Tips to Avoid Fake Apps in the Windows Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-ubisoft-connect-tips-and-tricks-to-overcome-setbacks/"><u>Mastering Ubisoft Connect: Tips and Tricks to Overcome Setbacks !</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-network-defenses-5-key-adjustments/"><u>Optimizing Network Defenses: 5 Key Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-uninstall-errors-in-windows-11-operating-system/"><u>Overcoming Uninstall Errors in Windows 11 Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-10-how-to-repair-a-non-functioning-search-feature/"><u>Troubleshooting Windows 10: How to Repair a Non-Functioning Search Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-behind-cozy-game-enjoyment/"><u>Unveiling the Secrets Behind Cozy Game Enjoyment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-setup-integrating-google-play-store/"><u>Win11 Setup: Integrating Google Play Store</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-iphone-x876-owners-must-have-gif-apps-guide/"><u>[Updated] 2024 Approved IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>2024 Approved Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-analytics-how-to-analyze-your-and-competitors-youtube-video/"><u>2024 Approved YouTube Analytics – How to Analyze Your and Competitor's YouTube Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aiffmp3-movavi-mp3/"><u>網路移動中的無限 AIFF至MP3 轉換 - 使用 Movavi 進行 MP3 音頻優化</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-convertisseur-video-en-ligne-changer-votre-fichier-de-la-forme-m4a-a-la-forme-mkv-facilement-movavi/"><u>Gratuit Convertisseur Vidéo en Ligne : Changer Votre Fichier De La Forme M4A À La Forme MKV Facilement - Movavi</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-11-pro-max-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 11 Pro Max for Free? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-in-depth-analysis-of-slomo-video-capture-tool/"><u>In 2024, In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-offline-gratis-scambia-il-tuo-video-in-pdf-o-html-con-il-convertitore-di-file-online-gratuito/"><u>Movavi OFFLINE GRATIS: Scambia Il Tuo Video in PDF O HTML Con Il Convertitore Di File Online Gratuito</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-innovadoras-tecnicas-para-crear-collage-de-fotografias-con-eficacia-guia-de-movavi/"><u>Top 15 Innovadoras Técnicas Para Crear Collage De Fotografías Con Eficacia - Guía De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726227642903-movwmv-movavi/"><u>オンラインで利用可能な無料MOVWMVファイル変換サービス - Movavi</u></a></li>
 </ul></div>
 

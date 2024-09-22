@@ -1,7 +1,7 @@
 ---
 title: Combatting the Common 'Open Package' Failure in Win 10/11
-date: 2024-09-12T19:12:04.360Z
-updated: 2024-09-17T00:38:48.833Z
+date: 2024-09-20T04:46:02.431Z
+updated: 2024-09-22T03:43:05.535Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scannow-command2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Installer Service
@@ -64,28 +64,8 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-service-window-1.jpg)
 4. If Windows Installer isn’t running, click its**Start** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Start button for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/start-button-1.jpg)
 5. Select**Apply** to save the new service settings.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Press the service window’s**OK** button.
 
@@ -94,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  Some users have also resolved this issue by creating new Windows admin accounts and installing the required software packages from them. To do that, you’ll need to add a new local user account via Settings and then set it to an administrator account type. You can apply this potential resolution by following the steps in our[guide to fixing Windows issues](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) by creating a new account.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-account-button-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, there’s no need to switch to the new user account you’ve set up. Log in to the new admin account you’ve set up and try downloading and installing the software you need from there. Then that software should also be available within the other user account you couldn’t install it in.
 
@@ -107,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
  If you’ve installed third-party security software, disable its antivirus component from the app’s settings tab or context menu. How you can do that varies a little bit between apps, but most of them have context menus with options for disabling their antivirus shields. Right-click the antivirus tool’s icon in the system tray and select an option for turning off its shield.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Unregister and Reregister the Windows Installer Service
 
  Windows Installer won’t work right if it’s not properly registered. So, reregistering that service could feasibly resolve the “installation package could not be opened” error for some users. This is how you can unregister and reregister Windows Installer:
@@ -117,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 `msiexec /unregister`  
 ![The unregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unregister-command-2.jpg)
 4. Then reregister Windows Installer by executing the following command:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `msiexec /regserver`
 
@@ -139,15 +126,23 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 4. Input**0** in the**Value data** box for the**NtfsDisable8dot3NameCreation** DWORD if set to anything else.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-option-2.jpg)
 5. Click**OK** to close the**Value** box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Double-click**Win31FileSystem** to bring up its**Value data** box.
 7. Set the value to**0** for the**Win31FileSystem** and click**OK** .
 8. Click the**X** (Close) button on the Registry Editor and restart Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your Software Installed Again in Windows
@@ -169,18 +164,19 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stop-stalled-profile-visits-on-facebook/"><u>[Updated] 2024 Approved Stop Stalled Profile Visits on Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-best-of-the-best-essential-tablet-sketching-tools/"><u>[Updated] 2024 Approved The Best of the Best Essential Tablet Sketching Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-scheduling-combining-to-do-and-ifttt-services/"><u>Efficient Scheduling: Combining To-Do and IFTTT Services</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-downloading-guide-for-dell-latitude-e6420-driver-updates/"><u>Effortless Downloading Guide for Dell Latitude E6420 Driver Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-professional-results-with-movavi-photo-editor-secure-yours-today/"><u>Get Professional Results with Movavi Photo Editor - Secure Yours Today!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-do-we-experience-realities-in-a-virtual-sense/"><u>How Do We Experience Realities in a Virtual Sense?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reset-power-schemes-back-to-windows-default/"><u>How To Reset Power Schemes Back to Window's Default</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-xcover-6-pro-tactical-edition-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy XCover 6 Pro Tactical Edition in Minutes | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-virtual-spaces-easily-with-this-list-of-free-online-tools/"><u>In 2024, Navigating Virtual Spaces Easily With This List of Free Online Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-audio-editors-to-remove-background-noise-from-audio-windows/"><u>New 2024 Approved Best Audio Editors to Remove Background Noise From Audio Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-unblock-valorants-in-game-voice-channel-windows/"><u>Quick Steps to Unblock Valorant's In-Game Voice Channel (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-functional-lock-screen-wait-period-in-windows/"><u>Reinstating Functional Lock Screen Wait Period in Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-definitive-guide-to-instagram-to-mp4-transformation-2-ways-for-2024/"><u>The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-gaming-recorders-that-offer-more-than-just-fbx-files/"><u>[New] Elite Gaming Recorders That Offer More Than Just FBX Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716069854497-updated-2024-approved-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[Updated] 2024 Approved Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insightful-review-best-text-overlays-for-adobe-ae/"><u>2024 Approved Insightful Review Best Text Overlays for Adobe AE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-user-interface-navigating-task-manager-filters-and-theme-adjustments-windows-11/"><u>Enhance User Interface: Navigating Task Manager Filters & Theme Adjustments (Windows 11)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-g42-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia G42 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-pcs-memory-with-these-simple-tricks/"><u>Master Your PC's Memory with These Simple Tricks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-the-new-ciso-at-abbyy-introducing-paul-nizov-to-our-leadership-team/"><u>Meet the New CISO at ABBYY: Introducing Paul Nizov to Our Leadership Team</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>New In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-roblox-error-code-262/"><u>Quick Fix for Roblox: Error Code 262</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-to-investigate-and-clean-windows-11-logs/"><u>Step-by-Step to Investigate & Clean Windows 11 Logs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-fit-onedrive-adjusting-its-location-in-windows-11/"><u>Tailor-Fit OneDrive: Adjusting Its Location in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-how-to-for-free-countdown-timers-for-2024/"><u>The Complete How-To for Free Countdown Timers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-6-window-features-phased-out-forever/"><u>Top 6 Window Features Phased Out Forever</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trouble-with-your-xbox-one-discs-here-are-12-troubleshooting-steps-to-fix-it-now/"><u>Trouble With Your Xbox One Discs? Here Are 12 Troubleshooting Steps to Fix It Now!</u></a></li>
 </ul></div>
 

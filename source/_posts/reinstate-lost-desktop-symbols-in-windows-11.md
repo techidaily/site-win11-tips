@@ -1,7 +1,7 @@
 ---
 title: Reinstate Lost Desktop Symbols in Windows 11
-date: 2024-09-16T05:34:36.132Z
-updated: 2024-09-16T21:30:40.351Z
+date: 2024-09-15T06:09:38.886Z
+updated: 2024-09-21T20:57:13.298Z
 tags:
   - windows10
   - windows11
@@ -79,13 +79,6 @@ To rebuild icon cache on Windows 11:
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -97,7 +90,21 @@ To rebuild icon cache on Windows 11:
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check the Group Policy Settings
 
@@ -114,10 +121,10 @@ To rebuild icon cache on Windows 11:
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -135,10 +142,10 @@ Follow these steps to perform a system restore on Windows:
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
@@ -150,13 +157,6 @@ Follow these steps to perform a system restore on Windows:
  To add an icon to the desktop in Windows 11, open the**Start menu** and click on**All apps** . Scroll down to the app you want to add to the desktop. Finally, drag the app shortcut to your desktop.
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
@@ -181,20 +181,18 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-broadcasting-twitch-to-facebook-friends-easily/"><u>[New] 2024 Approved Broadcasting Twitch to Facebook Friends Easily</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-achieve-superior-zoom-sound-2-essential-tweaks-explored/"><u>[New] In 2024, Achieve Superior Zoom Sound 2 Essential Tweaks Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>[Updated] Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harmonizing-hardware-sync-tips-for-android-and-windows/"><u>Harmonizing Hardware: Sync Tips for Android & Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-a-stalled-diagnostic-policies-running-functionality-guide/"><u>How to Reactivate a Stalled Diagnostic Policies Running Functionality [Guide]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-windows-chrome-error-40/"><u>How to Resolve Windows Chrome Error #40</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-red-magic-9-proplus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia Red Magic 9 Pro+? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>In 2024, Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/old-pc-refreshment-considering-options-beyond-windows/"><u>Old PC Refreshment: Considering Options Beyond Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functionality-fixing-flawed-installation-of-ccleaner/"><u>Restoring Functionality: Fixing Flawed Installation of CCleaner</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-enabling-sandbox-in-win-11/"><u>Step-by-Step: Enabling Sandbox in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/twilight-tones-in-paint-the-artists-nightlight/"><u>Twilight Tones in Paint: The Artist's Nightlight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-audience-attention-top-6-video-styles-for-2024/"><u>Unlock Audience Attention Top 6 Video Styles for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-widgets-demystified-for-beginners/"><u>Windows 11 Widgets Demystified for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-tv-shutdown-procedure/"><u>[New] Instagram TV Shutdown Procedure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-best-practices-to-master-snapchats-video-timeline/"><u>2024 Approved Discover the Best Practices to Master Snapchat's Video Timeline</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/archivage-des-films-sur-vhs-une-solution-digitale-passionnelle-chez-movavi/"><u>Archivage Des Films Sur VHS : Une Solution Digitale Passionnelle Chez Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/echoes-of-excellence-10-strategies-for-superior-sound-quality-for-2024/"><u>Echoes of Excellence 10 Strategies for Superior Sound Quality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gebruikersvrijet-trp-in-mp4-konvertiering-onafhankelijk-van-fysieke-materie-movavi/"><u>Gebruikersvrijet TRP-In MP4 Konvertiering Onafhankelijk Van Fysieke Materie - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-mp3-to-wmv-converter-en-ligne-avec-movavi-guide-complet/"><u>Gratuit MP3-to-WMV Converter en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-neo-qled-vs-oled-choosing-the-right-tv-display/"><u>In-Depth Look at Neo QLED Vs. OLED - Choosing the Right TV Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkamp4/"><u>MKAファイルをMP4に自動変換: 免責の多いウェブサイト</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ntsc-vs-pal-explained-how-to-choose-the-right-video-format-for-your-needs/"><u>NTSC Vs. PAL Explained: How to Choose the Right Video Format for Your Needs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-csgo-login-woes-five-key-strategies-to-tackle-the-no-user-logon-problem/"><u>Solve Your CSGO Login Woes: Five Key Strategies to Tackle the No User Logon Problem</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-of-the-best-lego-stop-motion-creators-for-2024/"><u>The Best of the Best Lego Stop Motion Creators for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-best-video-converter-on-iphonedesktop-for-2024/"><u>Top 8 Best Video Converter on iPhone/Desktop for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebot-technology/"><u>Unlocking Potential with Cookiebot Technology</u></a></li>
 </ul></div>
 

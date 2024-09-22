@@ -1,7 +1,7 @@
 ---
 title: "Enabling PowerShell Scripts: A Step-by-Step Guide"
-date: 2024-09-16T04:34:55.065Z
-updated: 2024-09-17T06:50:30.697Z
+date: 2024-09-20T04:47:06.945Z
+updated: 2024-09-21T23:57:14.912Z
 tags:
   - windows10
   - windows11
@@ -81,10 +81,10 @@ To change the execution policy using PowerShell:
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
@@ -97,6 +97,13 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -128,13 +135,6 @@ The below table briefly explains all the execution policy scopes:
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
  Script execution on PowerShell is disabled by default for Windows clients and set to RemoteSigned for Windows server. Power users, however, can change execution policies to run local, signed, and unsigned PowerShell scripts.
@@ -156,20 +156,12 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-android-9-youtube-download-apps/"><u>[New] 2024 Approved The Ultimate Guide to Android 9 YouTube Download Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-are-reviews-on-merchandise-streamed-for-cash/"><u>2024 Approved Are Reviews on Merchandise Streamed for Cash?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-overcoming-windows-errors/"><u>Corrective Measures for Overcoming Windows Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatched-guide-to-deciphering-and-dismantling-error-code-a00f4289-on-win11/"><u>Dispatched Guide to Deciphering & Dismantling Error Code A00F4289 on Win11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-beats-newly-trending-music-for-youtube-short-videos/"><u>Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 12</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-during-utorrent-setup-on-windows-systems/"><u>Overcoming Obstacles During uTorrent Setup on Windows Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premium-cloud-apps-for-android-the-most-reliable/"><u>Premium Cloud Apps for Android The Most Reliable</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/simple-way-to-blur-faces-in-picsart/"><u>Simple Way To Blur Faces in Picsart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-limiting-user-access-in-windows-folders/"><u>Techniques for Limiting User Access in Windows Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0xca00a009-in-windows-update/"><u>Troubleshooting Error 0xCA00A009 in Windows Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-aquatic-enhancements-for-gopro-footage/"><u>Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-data-potential-four-ways-to-tap-into-disk-editor-settings-on-windows-11/"><u>Unlock Data Potential: Four Ways to Tap Into Disk Editor Settings on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-virtual-mastery-top-5-karate-and-taekwondo-games/"><u>[New] In 2024, Virtual Mastery Top 5 Karate and Taekwondo Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-apps-to-master-sound-transformation/"><u>2024 Approved Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-aberto-ppm-para-imagens-jpeg-ferramenta-on-line-gratuita-pelo-movavi/"><u>Conversor Aberto PPM Para Imagens JPEG - Ferramenta On-Line Gratuita Pelo Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ideal-mac-compatible-skype-voice-recorders-our-top-12-picks-from-movavi/"><u>Discover the Ideal Mac-Compatible Skype Voice Recorders: Our Top 12 Picks From Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-addressing-davinci-resolve-not-responding-error-on-windows-pcs/"><u>Solution Guide: Addressing 'DaVinci Resolve Not Responding' Error on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-best-11-software-solutions-for-editing-mp4-files-on-windows-and-mac-systems/"><u>The Best 11 Software Solutions for Editing MP4 Files on Windows & Mac Systems</u></a></li>
 </ul></div>
 

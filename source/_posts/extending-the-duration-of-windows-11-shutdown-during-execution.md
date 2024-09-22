@@ -1,7 +1,7 @@
 ---
 title: Extending the Duration of Windows 11 Shutdown During Execution
-date: 2024-09-13T18:30:20.623Z
-updated: 2024-09-16T19:17:41.975Z
+date: 2024-09-19T17:05:17.738Z
+updated: 2024-09-22T04:31:19.787Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 5. Double-click this string to edit its value, which is in milliseconds. (1000 milliseconds equals one second.) By default, the value data is set to 20,000 (or 20 seconds).
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1B. How to Change WaitToKillAppTimeout for All Users
 
 This will apply altered log-off rules to all users on the PC.
@@ -72,10 +65,10 @@ This will apply altered log-off rules to all users on the PC.
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
@@ -89,6 +82,13 @@ This will apply altered log-off rules to all users on the PC.
 4. If the string doesn’t exist, create it by right-clicking in any empty space in the pane and choosing**New > String Value** . Rename it**HungAppTimeout** .
 5. Double-click this string to edit its value – again, in milliseconds. (1000 milliseconds equals 1 second.) By default, the value data is set to 5000.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
 
@@ -118,18 +118,18 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-gratitude-gift-selecting-high-quality-otus-freepaid/"><u>[New] 2024 Approved Gratitude Gift Selecting High-Quality OTUs (Free/Paid)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>[New] 2024 Approved Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-high-quality-1-ranked-4k-laptops-for-gaming/"><u>[Updated] High-Quality #1 Ranked 4K Laptops for Gaming</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-easy-youtube-file-transfer-techniques/"><u>[Updated] In 2024, Easy YouTube File Transfer Techniques</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-et-pourquoi-il-est-essentiel-de-conserver-la-haute-definition-lors-du-clonage-dun-support-dvd-techniques-pratiques/"><u>Comment Et Pourquoi Il Est Essentiel De Conserver La Haute Définition Lors Du Clonage D'un Support DVD - Techniques Pratiques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-art-of-wallpapers-for-each-monitor-in-windows-11/"><u>Explore the Art of Wallpapers for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-se-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone SE Without Previous Owner?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mic-calibration-tips-for-windows-systems/"><u>Mic Calibration Tips for Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-installation-pairing-airpods-with-windows-devices/"><u>Quick Installation: Pairing AirPods With Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-keyboard-shortcuts-for-sound-level-adjustment-win11/"><u>Tailored Keyboard Shortcuts for Sound Level Adjustment (Win11)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-stellar-guide-to-salvaging-silent-files-totan-banerjee-edition/"><u>The Stellar Guide to Salvaging Silent Files - Totan Banerjee Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-tips-for-keeping-your-desktop-unchanged/"><u>Win11 Tips for Keeping Your Desktop Unchanged</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-live-video-landscape/"><u>[New] In 2024, Navigating Twitter's Live Video Landscape</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-transforming-footage-the-ultimate-guide-to-youtube-video-editing/"><u>[New] In 2024, Transforming Footage The Ultimate Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3-audiophile-editing-tools-beyond-aviutl/"><u>「アビユートルを超える3つの最優秀編集ツール」 - Audiophile Editing Tools Beyond AviUtl</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-imagination-to-reality-in-ai-artwork/"><u>Bridging Human Imagination to Reality in AI Artwork</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explaining-the-freeze-photo-booth-film-flow/"><u>Explaining the Freeze Photo Booth Film Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-ms-resourceappnametext-error-on-windows-11/"><u>How to Fix the Ms-Resource:Appname/Text Error on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>In 2024, The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-unison-calling-made-simple-in-windows-11-environment/"><u>Intel Unison Calling Made Simple in Windows 11 Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-the-cost-of-aurora-justified-by-its-hdr-quality/"><u>Is The Cost of Aurora Justified by Its HDR Quality?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-zoom-hiccups-repairing-error-1132-on-windows-11/"><u>Navigating Zoom Hiccups: Repairing Error 1132 on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-saving-images-from-word-docs/"><u>Step-by-Step Guide: Saving Images From Word Docs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-reactivating-disconnected-razers-in-synapse-on-win-1011/"><u>Techniques for Reactivating Disconnected Razers in Synapse on Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-windows-troubles-step-by-step-support-guide/"><u>Unravel Windows Troubles: Step-by-Step Support Guide!</u></a></li>
 </ul></div>
 

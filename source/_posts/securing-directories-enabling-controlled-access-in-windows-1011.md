@@ -1,7 +1,7 @@
 ---
 title: "Securing Directories: Enabling Controlled Access in Windows 10/11"
-date: 2024-09-13T02:03:02.838Z
-updated: 2024-09-17T05:40:10.048Z
+date: 2024-09-14T17:45:10.119Z
+updated: 2024-09-22T05:48:01.623Z
 tags:
   - windows10
   - windows11
@@ -127,6 +127,14 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 3. Paste that script into Notepad by clicking in that app’s window and pressing**Ctrl** +**V** .  
 ![The controlled folder access registry script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-registry-script.jpg)
 4. Next, press**Ctrl** +**Shift** +**S** to view Notepad’s "Save as" window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
@@ -151,16 +159,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 4. Click**Yes** to erase that key.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Controlled Folder Access Exceptions
@@ -176,22 +178,15 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 4. Click**Browse all** **apps** on the menu that appears.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 6. Click**Open** to add the selected game or software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
 
@@ -212,14 +207,21 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turn-your-video-content-into-revenue-the-vimeo-monetization-way/"><u>[Updated] 2024 Approved Turn Your Video Content Into Revenue The Vimeo Monetization Way</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cutting-edge-videography-bordering-techniques-for-ig/"><u>[Updated] In 2024, Cutting-Edge Videography Bordering Techniques for IG</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-inside-vidmas-tech-a-new-era-for-video-capture/"><u>[Updated] In 2024, Inside Vidma’s Tech A New Era for Video Capture?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/doubling-your-digital-space-connect-and-configure-an-extra-monitor-with-windows-10/"><u>Doubling Your Digital Space: Connect and Configure an Extra Monitor with Windows 10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone XS to PC | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-correcting-false-device-error-windows-1011/"><u>Methods for Correcting False Device Error Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-network-connections-quickly/"><u>Navigating Through Windows Network Connections Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-spiritual-command-center-of-windows-11-explored/"><u>The Spiritual Command Center of Windows 11 Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-isolating-subjects-from-their-borders/"><u>Ultimate Guide to Isolating Subjects From Their Borders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-slideshow-how-to-create-a-slideshow-on-facebook-for-2024/"><u>[New] Facebook Slideshow How to Create a Slideshow on Facebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expanding-textual-arsenal-in-after-effects/"><u>[Updated] 2024 Approved Expanding Textual Arsenal in After Effects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-secure-your-media-download-vimeo-to-mp4/"><u>[Updated] 2024 Approved Secure Your Media Download Vimeo to MP4</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-confirming-youtube-pro-rated-earnings/"><u>[Updated] Confirming YouTube Pro-Rated Earnings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-wmampeg/"><u>「Movavi オンラインエディター：WMA/MPEGファイルを自由に変換」専用無料サービス</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-12-free-screen-recording-tools-for-macos-a-comprehensive-guide/"><u>Best 12 Free Screen Recording Tools for macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-stream-netflix-programs-simultaneously-with-family-or-friends/"><u>Easy Ways to Stream Netflix Programs Simultaneously with Family or Friends</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-7-plus-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 7 Plus From Your Apple ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-tips-for-saving-the-world-with-a-smile/"><u>Quick Tips for Saving the World with a Smile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ram-wmv/"><u>RAM WMV 영상을 쉽게 구조화하고 해제하는 방법: 비용 효율적인 온라인 도구</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-best-free-screen-recorders-for-macos-complimentary-download-options-movavi-guide/"><u>Top 12 Best Free Screen Recorders for macOS - Complimentary Download Options | Movavi Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-ogv-a-mp4-para-video-en-linea-facil-de-usar-por-parte-de-movavi-descubra-como-hacerlo-hoy/"><u>Transformación Gratuita OGV a MP4 Para Vídeo en Línea Fácil De Usar Por Parte De Movavi: Descubra Cómo Hacerlo Hoy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-mov-a-gif-une-solution-gratuite-et-facile-chez-movavi-directement-dans-votre-navigateur/"><u>Transformation MOV À GIF: Une Solution Gratuite Et Facile Chez Movavi, Directement Dans Votre Navigateur</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asf-avi/"><u>オンラインで簡単にASFファイルを変換してみませんか？ - AVIフォーム式無料コンバータ</u></a></li>
 </ul></div>
 

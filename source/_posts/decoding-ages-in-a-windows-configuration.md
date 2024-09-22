@@ -1,7 +1,7 @@
 ---
 title: Decoding Ages in a Windows Configuration
-date: 2024-09-10T06:32:15.411Z
-updated: 2024-09-16T21:45:19.203Z
+date: 2024-09-18T22:09:26.208Z
+updated: 2024-09-22T06:43:48.361Z
 tags:
   - windows10
   - windows11
@@ -80,22 +80,16 @@ systeminfo.exe
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
@@ -105,16 +99,16 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
@@ -129,10 +123,10 @@ systeminfo | find /I "install date"
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Tell Your Desktop Computer Age
@@ -162,20 +156,18 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-your-iphones-screen-recording-skills/"><u>[New] 2024 Approved Enhancing Your Iphone's Screen Recording Skills</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-rights-vs-cc-licensing/"><u>[New] 2024 Approved YouTube Rights Vs. CC Licensing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-ways-to-record-without-background-sounds-for-2024/"><u>[Updated] Innovative Ways to Record Without Background Sounds for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-broadcast-settings-for-easy-streaming-for-2024/"><u>[Updated] Navigating Discord's Broadcast Settings for Easy Streaming for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-skyrocketing-your-iphone-film-quality-essential-filmmaking-insights/"><u>[Updated] Skyrocketing Your iPhone Film Quality Essential Filmmaking Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-directdraw-problems-on-windows-11-with-precision-tactics/"><u>Eliminating DirectDraw Problems on Windows 11 with Precision Tactics</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-v27-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo V27 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lost-dxgidll-in-win11-swift-recovery-steps-explored/"><u>Lost Dxgi.dll in Win11? Swift Recovery Steps Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/raise-the-bar-on-clicking-windows-3-tips-for-faster-double-taps/"><u>Raise the Bar on Clicking: Windows' 3 Tips for Faster Double-Taps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-on-converting-mts-video-files-using-vlc-media-player/"><u>Step-by-Step Guide on Converting MTS Video Files Using VLC Media Player</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailored-keyboard-shortcuts-for-sound-level-adjustment-win11/"><u>Tailored Keyboard Shortcuts for Sound Level Adjustment (Win11)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-tips-for-keeping-your-desktop-unchanged/"><u>Win11 Tips for Keeping Your Desktop Unchanged</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-20-essential-youtube-groups-navigating-stocks/"><u>[Updated] 2024 Approved 20 Essential YouTube Groups Navigating Stocks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>2024 Approved Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>2024 Approved Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube/"><u>2024 Approved Unveiling Professional Techniques How to Refine Your Published Videos on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambio-sin-costo-de-archivos-wav-a-flac-en-linea-con-movavi-convertidor-libre/"><u>Cambio Sin Costo De Archivos Wav a Flac en Línea Con Movavi - Convertidor Libre</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-airpods-with-macbook-air-made-simple-a-comprehensive-guide/"><u>Connecting AirPods with MacBook Air Made Simple - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversor-libre-en-linea-webm-a-wav-con-movavi-herramienta-sin-coste/"><u>Conversor Libre en Línea: WEBM a WAV Con Movavi - Herramienta Sin Coste</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wav-files-to-mp4-movavi-video-editor/"><u>Free Online Converter: Change WAV Files to MP4 - Movavi Video Editor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-magic-of-time-expansion-a-comprehensive-guide-to-making-beautifully-long-movies-with-still-images-and-online-tools/"><u>In 2024, The Magic of Time Expansion A Comprehensive Guide to Making Beautifully Long Movies with Still Images & Online Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformar-videos-de-wtv-a-formato-avi-online-sin-coste-haga-lo-suyo-con-convertidor-de-movavi/"><u>Transformar Vídeos De WTV a Formato AVI Online Sin Coste - Haga Lo Suyo Con Convertidor De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformer-un-fichier-flac-au-format-mp4-gratuitement-sur-internet-convertisseur-rapide-et-efficace/"><u>Transformer Un Fichier FLAC Au Format MP4 Gratuitement Sur Internet - Convertisseur Rapide Et Efficace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flv-wav-movavi/"><u>오픈소스 FLV-WAV 이동은? 최고의 무료 바이트 조작 도구 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make Calls From Your Phone Using the Intel Unison App on Windows 11
-date: 2024-09-11T03:18:20.435Z
-updated: 2024-09-17T08:20:32.775Z
+date: 2024-09-16T00:08:12.502Z
+updated: 2024-09-21T20:42:52.053Z
 tags:
   - windows10
   - windows11
@@ -26,21 +26,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
  The reason behind this issue is that you haven’t paired your Windows 11 laptop with your phone’s Bluetooth. When you open the calls interface in the desktop app, it displays a blank screen with a message to pair with the mobile phone via Bluetooth and give access to phone contacts. So, you need to enable Bluetooth connectivity on your laptop and then pair it with the phone which has the Intel Unison app.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-creativity-with-audacity-sound-capture-on-your-mac-for-2024/"><u>[New] Unleashing Creativity with Audacity Sound Capture on Your Mac for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-snatching-solution/"><u>[Updated] In 2024, Screen Snatching Solution</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/creating-immersive-iphone-360-reels-for-social-media/"><u>Creating Immersive iPhone 360 Reels for Social Media</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-incompatible-amd-freesync-sync-signal/"><u>Fixing Incompatible AMD FreeSync Sync Signal</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-subscription-share-problems-in-family-sharing-top-6-tips/"><u>Fixing Subscription Share Problems in Family Sharing - Top 6 Tips!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-checkboxes-to-select-files-in-windows-11/"><u>How to Enable Checkboxes to Select Files in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-way-through-printer-management-in-w11-max-52-chars/"><u>Mastering Your Way Through Printer Management in W11 (Max 52 Chars)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-m4a-editing-software-for-pc-and-mac-for-2024/"><u>New Top-Rated Free M4A Editing Software for PC and Mac for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-resolution-bluetooth-try-connection-failure-fix/"><u>Quick Resolution: Bluetooth 'Try Connection' Failure Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-silent-steam-game-issues-a-fast-and-simple-guide/"><u>Resolve Silent Steam Game Issues: A Fast and Simple Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-store-cache-a-comprehensive-guide/"><u>Resolving Issues with Your Windows Store Cache: A Comprehensive Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -49,16 +34,29 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
       data-full-width-responsive="true"></ins>
     
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-released-caught-in-the-web-of-missing-shorts/"><u>[New] 2024 Approved Released Caught in the Web of Missing Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevating-posts-how-to-trend-on-social-media/"><u>[Updated] In 2024, Elevating Posts How to Trend on Social Media</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/convenient-methods-for-recording-playtime-footage-for-2024/"><u>Convenient Methods for Recording Playtime Footage for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-space-management-in-windows-revealed/"><u>Efficient Space Management in Windows, Revealed</u></a></li>
+<li><a href="https://techidaily.com/exploring-next-gen-virtual-reality-the-quest-for-true-multi-sense-immersion-with-taste-touch-and-smell-features/"><u>Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-orientation-options-for-facebook-videos/"><u>Navigating Orientation Options for Facebook Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unreachable-error-from-geforce-experience-on-pc/"><u>Overcoming Unreachable Error From GeForce Experience on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritizing-safety-in-windows-11-service-management/"><u>Prioritizing Safety in Windows 11 Service Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-win11s-5ghz-wi-fi-disconnection-fixes/"><u>Quick Tips for Win11's 5GHz Wi-Fi Disconnection Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-optimizing-battery-usage-in-windows-systems/"><u>Secrets to Optimizing Battery Usage in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-internal-system-configurations-on-windows-11/"><u>Steps to Rectify Internal System Configurations on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-removing-microsoft-points-out/"><u>Streamlined Steps for Removing Microsoft' Points Out</u></a></li>
+<li><a href="https://win11.techidaily.com/the-10-best-apps-to-replace-windows-11s-default-apps/"><u>The 10 Best Apps to Replace Windows 11'S Default Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-tv-viewing-experience-by-modifying-chromecasts-background-settings/"><u>Transform Your TV Viewing Experience by Modifying Chromecast's Background Settings</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

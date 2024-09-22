@@ -1,7 +1,7 @@
 ---
 title: How to Check Your Proxy Server Settings on Windows 11
-date: 2024-09-15T03:57:53.801Z
-updated: 2024-09-16T21:02:30.120Z
+date: 2024-09-15T02:27:11.267Z
+updated: 2024-09-22T02:27:41.441Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
  You'll see the proxy server details in the **Edit proxy server** window that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Check Your Proxy Server Settings Using Internet Options
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
  You'll get the details of your proxy server in the **Proxy Server** section.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
@@ -90,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
  You also use your browser to view your proxy server settings. To check in Google Chrome, type **chrome://net-internals/#proxy** in the address bar and press **Enter**.
 
 ![Proxy checking command in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-checking-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Microsoft Edge, type **edge: //net-internals/#proxy** and hit **Enter**.
 
@@ -122,7 +109,21 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 ![PowerShell window with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell will display the proxy server details in the result.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset the WinHTTP Proxy Settings
 
@@ -138,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 ![Direct access (no proxy server) message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-access-no-proxy-server.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the command is successfully executed, you will see a message that says **Direct access (no proxy server)**.
 
 ### 2\. Reset the WinINET Proxy Settings Using Internet Options
@@ -159,19 +153,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  You've successfully reset the WinINET proxy.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Manage Your Proxy Server Settings on Windows
 
  Using a proxy server has numerous benefits, including privacy protection, access to regionally blocked websites, and much more. However, there may be situations when you want to check your proxy server settings.
@@ -184,6 +165,19 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  Windows 11 doesn't come with a proxy server built-in, but you can [add your own server](https://www.makeuseof.com/tag/create-online-proxy-server-minutes/) settings to route your internet traffic via your proxy. You can configure a proxy server on your PC using the Settings app.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q: Should I Set Proxy On or Off?
 
  Whether to enable or disable your proxy server depends on how you want to access the internet. If you want to route your internet data via a proxy server, you should keep the option enabled on your PC. If you don't want to route your internet traffic, you can [turn off your proxy server](https://www.makeuseof.com/windows-11-disable-proxy/).
@@ -192,26 +186,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  There are both good as well as bad [proxy servers out there](https://www.makeuseof.com/tag/best-free-online-proxy-server/). As long as you get your proxy server from a trusted company, your data should be safe with it. You shouldn't trust any random proxy server on the web.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-speed-up-snap-retrieval-methods/"><u>[New] Speed Up Snap Retrieval Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-keeping-secrets-on-screen-tips-for-private-content-reduction-for-2024/"><u>[Updated] Keeping Secrets on Screen Tips for Private Content Reduction for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations/"><u>2024 Approved Perfecting the Art of Podcast Title Creation Essential Tips & Inspirations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-thrifty-filmmakers-action-camera-options/"><u>2024 Approved Thrifty Filmmaker's Action Camera Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/collaborative-effort-in-memory-tech-tsmc-partners-with-sk-hynix-on-hbm4-fabrication/"><u>Collaborative Effort in Memory Tech: TSMC Partners with SK Hynix on HBM4 Fabrication</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-art-of-windows-11-theme-adaptation-and-enhancement/"><u>Discover the Art of Windows 11 Theme Adaptation and Enhancement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-sony-xperia-10-v-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Sony Xperia 10 V Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-standard-screen-aspect-ratio/"><u>Restoring Standard Screen Aspect Ratio</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/seamless-video-enhancement-interlacing-free-conversion-techniques/"><u>Seamless Video Enhancement: Interlacing-Free Conversion Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-windows-from-monitoring-opened-software/"><u>Stop Windows From Monitoring Opened Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/timely-trim-of-microsoft-edge-tabs-win11-edition/"><u>Timely Trim of Microsoft Edge Tabs, Win11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-and-purge-windows-empties-a-compre-cooking-instruction/"><u>Uncover & Purge Window's Empties: A Compre Cooking Instruction</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-techniques-for-implementing-an-audio-decline-transition-for-2024/"><u>Updated Techniques for Implementing an Audio Decline Transition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-guide-changing-the-number-of-failed-logins-before-resetting/"><u>Windows 11 Guide: Changing the Number of Failed Logins Before Resetting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-over-windows-files-missing-dilemma/"><u>Winning Over Windows Files Missing Dilemma</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -219,3 +193,19 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-techniques-for-capturing-high-quality-skype-calls-for-2024/"><u>[Updated] Advanced Techniques for Capturing High-Quality Skype Calls for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-conquer-common-errors-during-windows-11-rollout/"><u>How to Conquer Common Errors During Windows 11 Rollout</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-computers-reimagined-windows-11-with-to-go-and-rufus-masterclass/"><u>Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-setup-for-new-win-11-users-via-double-clicked-apks/"><u>Simplified Setup for New Win 11 Users via Double-Clicked APKs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-microphone-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Microphone Issues on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-s17es-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo S17es Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-full-capabilities-of-windows-11/"><u>Unlocking the Full Capabilities of Windows 11</u></a></li>
+</ul></div>
+

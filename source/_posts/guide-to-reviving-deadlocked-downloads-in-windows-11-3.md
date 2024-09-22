@@ -1,7 +1,7 @@
 ---
 title: Guide to Reviving Deadlocked Downloads in Windows 11 (3)
-date: 2024-09-14T01:18:08.343Z
-updated: 2024-09-16T21:16:21.201Z
+date: 2024-09-14T16:51:33.395Z
+updated: 2024-09-22T02:27:30.690Z
 tags:
   - windows10
   - windows11
@@ -59,25 +59,26 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 4. Next, click **Settings** on the **General** tab.  
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
-![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
-6. Select a folder on your PC’s C: drive and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
+6. Select a folder on your PC’s C: drive and click **OK**.
 
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
@@ -88,15 +89,23 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 2. Click **Scan options** on the View & threat protection tab.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
@@ -105,26 +114,13 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -165,22 +161,6 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-apex-gk-quizmasters-video-channel-list-for-2024/"><u>[Updated] Apex GK Quizmasters' Video Channel List for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-maximize-winning-proven-tips-for-capturing-games-on-the-latest-w11-for-2024/"><u>[Updated] Maximize Winning Proven Tips for Capturing Games on the Latest W11 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-cc-errors-on-the-latest-windows-os/"><u>Demystifying CC Errors on the Latest Windows OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/editprox-in-detail-ultimate-video-editor-review/"><u>EditProX in Detail – Ultimate Video Editor Review</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/gaming-evolved-comparing-mavic-air-and-sparks-impact-for-2024/"><u>Gaming Evolved Comparing Mavic Air and Spark's Impact for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-6-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 6 Smoothly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c210-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C210 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstating-lost-connection-fix-disappearing-bluetooth-hub/"><u>Reinstating Lost Connection: Fix Disappearing Bluetooth Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-incessant-crashing-in-call-of-duty-modern-warfare/"><u>Troubleshoot Incessant Crashing in Call of Duty: Modern Warfare</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-correct-the-livekernel-event-error-117/"><u>Troubleshooting Tips to Correct the LiveKernel Event Error #117</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +168,15 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-the-spotlight-top-viewers-choice/"><u>[New] In the Spotlight Top Viewers' Choice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[Updated] Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974014848-get-your-latest-msi-windows-sound-and-audio-driver-download-fast-and-easy/"><u>Get Your Latest MSI Windows Sound & Audio Driver Download - Fast and Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-para-cambiar-tu-fotografia-de-alta-calidad-dng-a-jpg-gratuito-usando-la-herramienta-en-linea-de-movavi/"><u>Guía Para Cambiar Tu Fotografía De Alta Calidad: DNG a JPG Gratuito Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-x8b-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor X8b</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4r-a-wav-sin-costo-el-poder-de-la-conversion-online-por-movavi/"><u>M4R a WAV Sin Costo: El Poder De La Conversión Online Por Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quicktime-video-downsizing-made-simple-achieve-smaller-sizes-using-just-4-basic-tricks/"><u>QuickTime Video Downsizing Made Simple: Achieve Smaller Sizes Using Just 4 Basic Tricks</u></a></li>
+</ul></div>
+

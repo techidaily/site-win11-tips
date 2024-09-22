@@ -1,7 +1,7 @@
 ---
 title: Getting Stuck? Fixing Non-Installation of Optional Windows 11 Features
-date: 2024-09-13T17:45:00.786Z
-updated: 2024-09-16T21:09:10.307Z
+date: 2024-09-15T00:37:06.957Z
+updated: 2024-09-21T19:02:07.213Z
 tags:
   - windows10
   - windows11
@@ -96,13 +96,6 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
@@ -122,9 +115,23 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -137,6 +144,13 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -155,24 +169,10 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -181,10 +181,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
@@ -206,21 +206,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-youtube-mp3-downloader-compilation-top-10/"><u>[New] Best YouTube Mp3 Downloader Compilation (Top 10)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rinciples-of-creating-inspirational-day-to-day-visual-stories/"><u>[New] Principles of Creating Inspirational Day-to-Day Visual Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-complete-guide-to-crafting-best-in-class-yt-thumbnails-for-2024/"><u>[Updated] A Complete Guide to Crafting Best-in-Class YT Thumbnails for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-copyright-laws-and-screencasting-of-online-video-platforms-youtube/"><u>2024 Approved Copyright Laws and Screencasting of Online Video Platforms (YouTube)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ai-powered-best-titles-makers-online/"><u>AI-Powered Best Titles Makers Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-cc-errors-on-the-latest-windows-os/"><u>Demystifying CC Errors on the Latest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixed-windows-character-mapping-glitches/"><u>Guiding You Through Fixed Windows Character Mapping Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-lava-blaze-2-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Lava Blaze 2 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximize-android-screen-brightness/"><u>Maximize Android Screen Brightness</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stubborn-windows-previous-credentials-error/"><u>Overcoming Stubborn Windows Previous Credentials Error</u></a></li>
-<li><a href="https://fox-http.techidaily.com/pro-gear-for-documenting-excursions-for-2024/"><u>Pro Gear for Documenting Excursions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-screen-separation-problems/"><u>Unblocking Screen Separation Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-your-visual-display-ideal-5-apps-for-personalized-time-themed-windows-screensavers/"><u>Upgrade Your Visual Display: Ideal 5 Apps for Personalized Time-Themed Windows Screensavers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-crafting-flawless-virtual-reality-gaming-archives/"><u>[New] 2024 Approved Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-imovie-video-submissions-to-vimeo-for-2024/"><u>[New] Navigating iMovie Video Submissions to Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-deciphering-past-visual-content-inverse-queries-and-fb-techniques-for-2024/"><u>[Updated] Deciphering Past Visual Content Inverse Queries and FB Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-manual-to-measure-youtube-success-metrics/"><u>[Updated] The Essential Manual to Measure YouTube Success Metrics</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enhanced-user-experience-enhancing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Enhancing Site Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-classic-diablo-gameplay-wonders/"><u>Discovering Classic Diablo Gameplay Wonders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-setting-up-chrome-on-windows-11-devices/"><u>Essential Insights: Setting Up Chrome on Windows 11 Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-microsoft-teams-is-getting-faster-and-less-of-a-memory-hog/"><u>How Microsoft Teams Is Getting Faster and Less of a Memory Hog</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-repair-drivers-for-your-hp-screen-on-windows-10118/"><u>How to Repair Drivers for Your HP Screen on Windows 10/11/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-qbittorrent-integrated-across-separate-windows-computers/"><u>Keeping qBittorrent Integrated Across Separate Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-wi-fi-linkage-on-windows-10-with-these-effective-corrections/"><u>Restore Wi-Fi Linkage on Windows 10 With These Effective Corrections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-stuck-at-start-screen-here-are-the-fixes/"><u>Sea of Thieves Stuck at Start Screen? Here Are the Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/typing-efficiency-and-the-hidden-factor-of-refresh-intervals/"><u>Typing Efficiency and the Hidden Factor of Refresh Intervals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-windows-drive-space-a-guide-to-diskusage/"><u>Unlocking the Secrets of Windows' Drive Space: A Guide to DiskUsage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/windows-desktop-snappers-guide/"><u>Windows Desktop Snappers Guide</u></a></li>
 </ul></div>
 

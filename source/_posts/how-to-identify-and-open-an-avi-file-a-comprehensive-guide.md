@@ -1,7 +1,7 @@
 ---
 title: "How To Identify and Open an AVI File: A Comprehensive Guide"
-date: 2024-09-12 10:29:36
-updated: 2024-09-13 11:17:20
+date: 2024-09-19T03:21:24.242Z
+updated: 2024-09-21T23:44:10.567Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf91a44a7ee26654a9f6fff3c0.jpg
@@ -214,6 +214,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -270,6 +283,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -310,6 +330,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -325,6 +352,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -343,6 +377,13 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -536,11 +577,29 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-6-best-nft-makers-for-artists-to-unleash-imagination/"><u>[Updated] 6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-offline-audio-conversion-software/"><u>[Updated] In 2024, Best Offline Audio Conversion Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-guide-best-free-instagram-to-mp4-tools-windowsmac-for-2024/"><u>[Updated] Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1080p-vs-4k-quels-sont-les-avantages-de-la-video-en-haute-definition-et-comment-upscaler-a-partir-de-1080p/"><u>1080P vs 4K : Quels Sont Les Avantages De La Vidéo en Haute Définition Et Comment Upscaler À Partir De 1080P</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aif-to-mp4-online-aif/"><u>AIF to MP4 : 원탁한 컴퓨터 없이 Online AIF 변환 서비스</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-mac-based-video-conversion-programs-find-download-compare-and-utilize-professional-software/"><u>Comprehensive Guide to Mac-Based Video Conversion Programs: Find, Download, Compare, and Utilize Professional Software!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-the-problem-of-horizontal-lines-appearing-on-your-pc-screen/"><u>Expert Advice: Resolving the Problem of Horizontal Lines Appearing on Your PC Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-mp2-audio-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Change MP2 Audio Files Into MP3 Format with Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wmv-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Change WMV Files Into High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-nord-ce-3-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Nord CE 3 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>In 2024, Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-convertidor-sin-costo-para-cambiar-mpg-a-3gp-facilmente-en-linea/"><u>Móvavi - Convertidor Sin Costo Para Cambiar MPG a 3GP Fácilmente en Línea</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/seamless-video-format-transformation-converting-divx-files-to-mp4/"><u>Seamless Video Format Transformation: Converting DivX Files to MP4</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-flat-to-fabulous-converting-videos-to-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos to VR with Ease for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veelvoudig-maken-van-flac-liedjes-in-mp4-online-gratis-movavi-online-konverter/"><u>Veelvoudig Maken Van FLAC-Liedjes in MP4 Online, Gratis - Movavi Online Konverter</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Tweaking Your Digital Environment: Windows 11 Default Actions"
-date: 2024-09-11T09:24:09.718Z
-updated: 2024-09-17T09:26:37.637Z
+date: 2024-09-16T20:05:04.315Z
+updated: 2024-09-21T19:09:28.752Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ Follow these steps to proceed:
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -74,13 +81,6 @@ To proceed, follow these steps:
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
  If you are unable to change the default apps in Windows 11 despite trying the different methods mentioned above, it could be due to the following reasons:
@@ -91,6 +91,13 @@ To proceed, follow these steps:
 * The app is not compatible with your system.
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update Windows 11
 
@@ -104,21 +111,7 @@ Here is how you can do that:
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once this is done, follow one of the steps above to change the default app.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Reset the Targeted App
 
@@ -137,16 +130,10 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 6. Once the command is executed, check if you can change the default app.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall the App
@@ -160,6 +147,14 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
@@ -186,19 +181,12 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-storage-without-spending-the-comprehensive-list-of-best-30-budget-friendly-cloud-services-with-1tbplus/"><u>[Updated] 2024 Approved Storage Without Spending The Comprehensive List of Best 30 Budget-Friendly Cloud Services with 1TB+</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-user-experience-enhancements/"><u>Cookiebot-Enabled User Experience Enhancements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customization-strategies-altering-functional-keys-in-windows-1011/"><u>Customization Strategies: Altering Functional Keys in Windows 10/11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-a78-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A78 5G? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-nord-ce-3-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Nord CE 3 5G Face Lock?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-using-extra-monitors-without-graphic-chipset/"><u>Guide to Using Extra Monitors Without Graphic Chipset</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won’t Open – 2024 Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-your-youtube-presence-with-simple-seo-techniques/"><u>In 2024, Elevate Your YouTube Presence with Simple SEO Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/path-pioneering-in-win11-unveiling-the-best-practices-6-keyways/"><u>Path Pioneering in Win11: Unveiling the Best Practices (6 Keyways)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/snap-your-world-how-to-watch-360-videos-on-android/"><u>Snap Your World How to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-geforce-now-error-xc0f1103f-in-windows-11/"><u>Steps to Resolve GeForce Now Error Xc0f1103f in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-virtualization-potential-with-hyper-v-on-windows-11/"><u>Unleash Virtualization Potential with Hyper-V on Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lenovo-ideapad-320s-charming-design-and-ergonomic-lenovo-keyboard-layout-user-focused-review/"><u>Unveiling the Lenovo IdeaPad 320'S Charming Design & Ergonomic Lenovo Keyboard Layout – User-Focused Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-storage-management-for-your-apps/"><u>Windows Storage Management for Your Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-clicks-to-cash-how-jake-paul-leveraged-youtube/"><u>[New] 2024 Approved From Clicks to Cash How Jake Paul Leveraged YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-brand-with-smart-spotify-marketing/"><u>[New] Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-beginners-guide-to-youtube-image-sharing/"><u>2024 Approved The Beginner's Guide to YouTube Image Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726223515996-oggwmv-movavi/"><u>網路上無需付費，遞送Ogg格式到WMV - 利用Movavi轉檔工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4-flv-movavi/"><u>網路直接 MP4 自由轉換成 FLV - 使用Movavi媒體編輯工具</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>New 2024 Approved IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225366597-mp2ogg-movavi/"><u>무료 인터넷 바이너리 전체 MP2/OGG 변환기 - Movavi</u></a></li>
 </ul></div>
 

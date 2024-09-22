@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Win11's Power: Efficient User and Group Control"
-date: 2024-09-11T20:53:24.014Z
-updated: 2024-09-16T22:10:02.195Z
+date: 2024-09-15T05:57:13.145Z
+updated: 2024-09-21T23:55:26.650Z
 tags:
   - windows10
   - windows11
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  Since lusrmgr is a portable app, you can’t open it with the **lusrmgr.msc** command like the built-in app. To launch the program, double-click the executable file you downloaded and make the necessary changes to the user account or groups.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Manage Local Users and Groups Using the Command Prompt
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  You can use the "net localgroup" or "net user" command-line utility to manage users and groups on Windows 11/10\. It's a handy way to view, add, and delete local groups and users without using a third-party utility.
 
 ![How to Run the Command Prompt as an Administrator in Windows Thumbnail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/how-to-run-the-command-prompt-as-an-administrator-in-windows-thumbnail.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
   First, open a Command Prompt window with administrative privilege. To do this, press the **Windows** key, type **cmd**, right-click on **Command Prompt**, and select **Run as administrator**.
 
@@ -118,31 +125,7 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-from-phones-to-cameras-a-guide-to-diy-video-capturing-for-2024/"><u>[Updated] From Phones to Cameras A Guide to DIY Video Capturing for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-your-story-with-immersive-youtube-video-editing-tips-for-2024/"><u>Craft Your Story with Immersive YouTube Video Editing Tips for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30-vip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30 VIP Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-no-cost-video-editing-solutions-top-imovie-alternatives/"><u>In 2024, No-Cost Video Editing Solutions Top iMovie Alternatives</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-identification-making-your-youtube-url-stand-out/"><u>In 2024, Unique Identification Making Your YouTube URL Stand Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-chromium-on-the-latest-windows-11-os/"><u>Introduction to Chromium on the Latest Windows 11 OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-phantom-v-fold-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Phantom V Fold? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computing-with-toms-hardware-review/"><u>Navigating the World of Computing with Tom's Hardware Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-obscure-problem-how-to-resolve-steams-e84-error/"><u>Tackling the Obscure Problem: How to Resolve Steam's E84 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-protecting-your-notebooks/"><u>The Complete Guide to Protecting Your Notebooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-pc-speakers-after-hardware-changes/"><u>Unblocking PC Speakers After Hardware Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +134,24 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-clarity-web-based-high-definition-recorders/"><u>[New] In 2024, Capturing Clarity Web-Based High-Definition Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] 2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-defy-2-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Defy 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-hyper-v-in-windows-11-for-beginners/"><u>Enabling Hyper-V in Windows 11 for Beginners</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-dazzle-fine-tuning-video-chrominance-for-beauty/"><u>In 2024, Digital Dazzle Fine-Tuning Video Chrominance for Beauty</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-edition-marvels-spiderman-2-how-to-purchase-early/"><u>Limited-Edition Marvel's SpiderMan 2: How to Purchase Early</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-drive-found-solutions-in-windows/"><u>Lost Drive, Found Solutions in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-reinstating-your-creative-hub-photoscape/"><u>Overcoming Obstacles: Reinstating Your Creative Hub Photoscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-edit-network-properties-in-windows-11/"><u>Steps to Edit Network Properties in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sweep-the-competition-fixing-valorant-frames-drops/"><u>Sweep the Competition: Fixing Valorant Frames Drops</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/triton-300-se-review-where-value-meets-versatility/"><u>Triton 300 SE Review: Where Value Meets Versatility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlinking-print-screen-from-auto-opening-snipping-tool-in-win-11/"><u>Unlinking Print Screen From Auto-Opening Snipping Tool in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-elite-laptops-at-ifa-2023/"><u>Unveiling Elite Laptops at IFA 2023</u></a></li>
+</ul></div>
+

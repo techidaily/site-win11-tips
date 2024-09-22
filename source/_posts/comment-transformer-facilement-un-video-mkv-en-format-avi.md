@@ -1,7 +1,7 @@
 ---
 title: Comment Transformer Facilement Un Vidéo MKV en Format AVI?
-date: 2024-09-11 23:28:23
-updated: 2024-09-13 10:35:12
+date: 2024-09-19T02:27:46.157Z
+updated: 2024-09-22T01:33:59.239Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023e73246a1998baa96a66f8fd.jpg
@@ -191,6 +191,13 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
 
 Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完整閱讀該篇指南，請按一下下方的連結。
@@ -221,6 +228,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
@@ -243,6 +257,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
 優點：
@@ -258,6 +279,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -298,6 +326,13 @@ Movavi Photo Editor
 [免費下載](https://tools.techidaily.com/movavi/products/)[關於 Mac 版](https://tools.techidaily.com/movavi/photo-editor/)
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 常見問題集
 
@@ -393,11 +428,30 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-your-iphone-photo-craftsmanship-with-top-10-design-tips/"><u>[Updated] 2024 Approved Perfect Your iPhone Photo Craftsmanship with Top 10 Design Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-beyond-marketing-honest-review-of-recordcast/"><u>[Updated] In 2024, Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-des-fichiers-cr2-en-images-jpeg-sur-internet-et-ordinateur-guide-complet-pour-2024/"><u>Comment Transformer Des Fichiers CR2 en Images JPEG Sur Internet Et Ordinateur: Guide Complet Pour 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-beautiful-ai-appraisal-insights-on-costs-capabilities-and-comparable-tools/"><u>Comprehensive Beautiful AI Appraisal: Insights on Costs, Capabilities & Comparable Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-libre-de-fichier-ram-a-format-mp4-en-ligne-verifiez-la-solution-du-site-movavi/"><u>Conversion Libre De Fichier RAM À Format MP4 en Ligne - Vérifiez La Solution Du Site Movavi!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-mp4-converter-movavi/"><u>Free Online AVI to MP4 Converter - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-mkv-in-mp4-omzetten-onlinerevisie-met-movavi/"><u>Gratuit Gebaseerd MKV-In MP4 Omzetten - Onlinerevisie Met Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>In 2024, The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-content-development-services-by-movavi-team/"><u>Professional Content Development Services by Movavi Team</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/programele-video-editare-libera-si-intrigi-2024-oferile-la-deschiderea-continua/"><u>Programele Video Editare Libera Și Intrigi 2024 - Oferile La Deschiderea Continua</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y36i-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y36i Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-to-surveillance-owning-for-autonomy/"><u>Subscribing to Surveillance, Owning for Autonomy</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/ultimate-video-and-audio-transformation-software-macx-hd-pro-edition-on-windows-comprehensive-media-editing-solution/"><u>Ultimate Video and Audio Transformation Software: MacX HD Pro Edition on Windows - Comprehensive Media Editing Solution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-tagging-101-for-better-engagement-for-2024/"><u>YouTube Tagging 101 for Better Engagement for 2024</u></a></li>
+</ul></div>
+

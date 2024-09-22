@@ -1,7 +1,7 @@
 ---
 title: Reconciling Error Xc0f1103f in Windows 11 with NVIDIA
-date: 2024-09-15T22:06:07.501Z
-updated: 2024-09-17T03:50:04.638Z
+date: 2024-09-14T21:28:27.575Z
+updated: 2024-09-21T16:34:08.181Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Select a Power Saving GPU for the GeForce Now App
 
  This resolution applies to users with PCs that have two GPUs (graphics processing units). Selecting a power-saving integrated GPU for the GeForce Now app is a widely confirmed fix for error 0xc0f1103f. This is how you can select an integrated GPU for the GeForce Now app in Windows:
@@ -66,16 +73,17 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 9. Click**Save** to apply the selected option.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Your Graphics Card’s Driver
@@ -83,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for[updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restart All NVIDIA-Related Services
@@ -99,34 +107,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 ![NVIDIA-related-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-services-window.jpg)
 4. Right-click every NVIDIA-related service you can see and select**Restart** . If an NVIDIA service isn’t already running, select the**Start** option for it instead.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Proxy Servers
 
  Do you have a proxy server on your PC? If so, that could be causing the 0xc0f1103f error by generating a server issue. So, try disabling your proxy server on Windows via Settings or the Control Panel. Our article about[disabling your proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes instructions for how to do so.
 
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
 
@@ -140,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 ![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
 5. Then select the**Disconnect** option for the VPN.
 6. Open GeForce Now and try playing some games with the VPN disconnected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall GeForce Now
 
@@ -175,20 +169,20 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-6-ways-to-embed-facebook-live-on-a-website/"><u>[New] 6 Ways to Embed Facebook Live on a Website</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-video-lighting-techniques/"><u>[New] In 2024, Mastering Video Lighting Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-challenge-brainstroming-7-humorous-youtube-videos-for-2024/"><u>Chuckling Challenge Brainstroming 7 Humorous YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delivering-significant-gains-in-windows-11/"><u>Delivering Significant Gains in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-launcher-not-found-on-pc/"><u>Eliminating Launcher Not Found on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gear-up-performance-the-ultimate-vram-upgrade-plan-for-windows/"><u>Gear Up Performance - The Ultimate VRAM Upgrade Plan for Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-and-when-should-you-de-follow-users-mastering-unfollows-on-the-new-x-platform/"><u>How & When Should You De-Follow Users? Mastering Unfollows on the New X Platform</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a15-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A15 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-scripting-summative-stories/"><u>In 2024, Scripting Summative Stories</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-network-connections-quickly/"><u>Navigating Through Windows Network Connections Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x800704b3/"><u>Resolving Windows Error Code: 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/step-wise-approach-to-adding-icons-to-windows-11-taskbar/"><u>Step-Wise Approach to Adding Icons to Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-isolating-subjects-from-their-borders/"><u>Ultimate Guide to Isolating Subjects From Their Borders</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo .</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/"><u>Understanding and Repairing the Apple Watch's Touch Sensor Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-optimal-live-video-distributors-suite/"><u>[Updated] 2024 Approved Optimal Live Video Distributors' Suite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-soundscapes-in-hd-techniques-for-precision-recording/"><u>[Updated] Soundscapes in HD Techniques for Precision Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-install-realtek-rtl8eapdriver-for-rtl8723be-chipset-in-windows-1011/"><u>How to Correctly Install Realtek RTL8eapdriver for RTL8723BE Chipset in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recognize-and-implement-execution-monikers/"><u>How to Recognize and Implement Execution Monikers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-vivo-y200e-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y200e 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-lowering-high-cpu-demand-in-windows-by-tiworkerexe/"><u>Methods for Lowering High CPU Demand in Windows by TiWorker.exe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-monitor-resolution-setup-errors-solutions-that-worked-for-me/"><u>Overcoming Monitor Resolution Setup Errors: Solutions That Worked for Me</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011s-video-driver-restart/"><u>Overcoming Windows 10/11'S Video Driver Restart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfect-your-windows-11-installation-with-these-top-configuration-tweaks/"><u>Perfect Your Windows 11 Installation with These Top Configuration Tweaks</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-smart-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Smart 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-photo-failure-on-modern-windows-pcs/"><u>Solving Photo Failure on Modern Windows PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tailoring-your-content-strategy-for-changed-algorithms-for-2024/"><u>Tailoring Your Content Strategy for Changed Algorithms for 2024</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Sony Xperia 1 V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-potential-of-win11-remote-storage-integration/"><u>Unlocking the Potential of Win11 Remote Storage Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-error-code-fixing-unreachable-wifi-connections/"><u>Windows 11 Error Code - Fixing Unreachable WiFi Connections</u></a></li>
 </ul></div>
 

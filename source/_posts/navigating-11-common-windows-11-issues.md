@@ -1,7 +1,7 @@
 ---
 title: Navigating 11 Common Windows 11 Issues
-date: 2024-09-14T21:30:34.128Z
-updated: 2024-09-17T05:12:50.292Z
+date: 2024-09-16T22:18:13.069Z
+updated: 2024-09-22T03:23:25.966Z
 tags:
   - windows10
   - windows11
@@ -72,10 +72,10 @@ To run the audio troubleshooter:
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The File Explorer Not Working on Windows 11
@@ -97,6 +97,13 @@ To run the audio troubleshooter:
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
 
  At times the performance issue can plague even higher-end computers running Windows 11\. Check out these[best tips to speed up a Windows computer](https://www.makeuseof.com/windows-11-speed-up-tricks/) to improve your system performance.
@@ -111,6 +118,13 @@ To run the audio troubleshooter:
 
  You can likely fix performance issues with a few tweaks to your system settings and troubleshooting internal causes. In rare instances, you may need a hardware upgrade to boost your system performance.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Windows 11 Wi-Fi and Ethernet Connectivity Issues
 
  Another common issue you may encounter with Windows 11 is related to network connectivity. Irrespective of whether you are connected to a wireless or wired connection, network issues can occur due to several reasons.
@@ -123,28 +137,22 @@ To do this:
 2. Open the**Network & internet** tab and then click on**Advanced network settings.**  
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
 3. Scroll down and click on**Network reset.**  
-![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
-4. Click**Reset** now to confirm the action.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
+4. Click**Reset** now to confirm the action.
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 comes with a[Microsoft Basic Display Adapter](https://www.makeuseof.com/microsoft-basic-display-adapter-guide/) installed out of the box. It's a generic display driver that lets you access your display after a clean install and help complete the setup.
 
@@ -166,18 +174,18 @@ To do this:
 
  In addition, this can clutter the search dialog by showing unnecessary information. Fortunately, with the help of a registry tweak, you can[disable Bing web searches on Windows 11](https://www.makeuseof.com/windows-11-disable-bing-search/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Disable Annoying Ads on Your Windows 11 Device
 
  Portable Windows 11 devices tend to come with some bloatware from the manufacturer installed. Apart from these, you may find some unnecessary apps recommendation in your Start menu on Windows 11.
 
  Then there are more subtle forms of ads. You may find ads on the lock screen, start menu, device usage recommendations, notifications, and even in File Explorer. Fortunately, most of these ads can be turned off without much effort. Follow our detailed guide to[remove all the annoying ads on Windows 11](https://www.makeuseof.com/windows-11-remove-ads/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Disable Windows 11's Automatic Updates
 
@@ -190,13 +198,6 @@ To do this:
 1. Go to the[Windows Update Blocker page](https://www.sordum.org/9470/windows-update-blocker-v1-7/) and download the utility.
 2. Run the tool and select**Disable updates.**
 3. Click**Apply Now** and restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows 11's Most Frequent Issues
 
@@ -217,19 +218,18 @@ To do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-kickboxing-and-karate-game-round-up/"><u>[New] Ultimate Kickboxing & Karate Game Round-Up</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-youtube-video-titles-creator-tools/"><u>[Updated] 2024 Approved Ultimate YouTube Video Titles Creator Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-recording-google-voice-conversations/"><u>[Updated] In 2024, Step-by-Step Recording Google Voice Conversations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-motorola-razr-40-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envision-thinking-mindmappings-plus-chatgpt-synergy/"><u>Envision Thinking: Mindmappings + ChatGPT Synergy</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-free-memes-at-your-fingertips/"><u>In 2024, Excellent FREE Memes at Your Fingertips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-pathway-to-identifying-cybersecurity-risks-on-desktops/"><u>Personalized Pathway to Identifying Cybersecurity Risks on Desktops</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-s23plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel S23+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-pc-speakers-after-hardware-changes/"><u>Unblocking PC Speakers After Hardware Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonious-hubs-your-guide-to-posting-audio-on-youtube-for-2024/"><u>[New] Harmonious Hubs Your Guide to Posting Audio on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-tactics-eliminate-fbs-intrusive-video-ads-for-2024/"><u>[New] Top Tactics Eliminate FB's Intrusive Video Ads for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ocam-screen-recorder-review-and-alternative/"><u>[Updated] 2024 Approved OCam Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-vrecorder-how-to-download-and-install/"><u>[Updated] In 2024, VRecorder - How to Download and Install</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinetic-illustration-101-core-skills-and-concepts/"><u>[Updated] Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-correcting-windows-11s-zoom-failures/"><u>Deciphering and Correcting Windows 11'S Zoom Failures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-winsminecraft-lan-connectivity-barriers/"><u>How to Overcome WinsMinecraft LAN Connectivity Barriers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-no-files-mystery-on-windows-11/"><u>Solving the 'No Files' Mystery on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-steam-icons-in-desktop/"><u>Troubleshooting Missing Steam Icons in Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/window-wisdom-unique-themes-for-each-display-win-1011-edition/"><u>Window Wisdom: Unique Themes for Each Display, WIN 10/11 Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/x-plane-11-uncovered-a-breakdown-of-its-spectacular-graphics-and-advanced-features-for-pilots/"><u>X-Plane 11 Uncovered: A Breakdown of Its Spectacular Graphics & Advanced Features for Pilots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-friend-or-foe-in-latest-windows-versions/"><u>YourPhone.exe - Friend or Foe in Latest Windows Versions?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncomplicated System Management in W11 via Shortcut Buttons Guide
-date: 2024-09-15T02:09:50.028Z
-updated: 2024-09-16T17:13:13.279Z
+date: 2024-09-16T05:02:46.100Z
+updated: 2024-09-21T20:44:13.526Z
 tags:
   - windows10
   - windows11
@@ -69,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
@@ -105,29 +99,9 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
 
@@ -139,6 +113,14 @@ msdt.exe /id AudioPlaybackDiagnostic`
 4. Go into File Explorer (press**Win** +**E** to open), and bring up the directory containing the registry script’s ZIP archive.  
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
@@ -147,6 +129,13 @@ msdt.exe /id AudioPlaybackDiagnostic`
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
 
@@ -171,14 +160,20 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>[New] Boost Your Visibility with a Cutting-Edge Set of Banners!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-for-efficient-ipad-screen-recordings-for-2024/"><u>[New] Step-by-Step for Efficient iPad Screen Recordings for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-enhance-your-whatsapp-chats-ultimate-formatting-tips-and-shortcuts/"><u>1. Enhance Your WhatsApp Chats: Ultimate Formatting Tips and Shortcuts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-conversion-techniques-for-dall-e-images-from-webp-to-common-raster-types/"><u>Effortless Conversion Techniques for DALL-E √ Images From WebP to Common Raster Types</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-odbc-data-source-wizard/"><u>Exploring Windows ODBC Data Source Wizard</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-se-2022-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone SE (2022) to SIM? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instructions-for-windows-11-rgb-lighting/"><u>Instructions for Windows 11 RGB Lighting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-xc0351000-error-lack-of-hypervisor-in-windows-sandbox/"><u>Solving XC0351000 Error - Lack of Hypervisor in Windows Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-for-flawless-windows-error-handling/"><u>Unlocking Secrets for Flawless Windows Error Handling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picking-a-champion-in-video-software-vlcmx/"><u>[New] Picking a Champion in Video Software VLC/MX</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-thors-mighty-saga-ragnarok-dawns/"><u>2024 Approved Thor's Mighty Saga Ragnarok Dawns</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eling-creativity-get-green-screen-tips-from-youtube/"><u>Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fortifying-your-system-tpm-and-secure-boot-before-w11-installation/"><u>Fortifying Your System: TPM and Secure Boot Before W11 Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improving-cursor-display-clarity-in-windows-oses/"><u>Improving Cursor Display Clarity in Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-minutes-5-quick-command-prompt-tricks/"><u>Mastery in Minutes: 5 Quick Command Prompt Tricks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-reaction-video-creator-apps-for-mobile-devices/"><u>New In 2024, Top Reaction Video Creator Apps for Mobile Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/secure-and-safe-methods-for-downloading-handbrake-without-malware/"><u>Secure and Safe Methods for Downloading Handbrake Without Malware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-your-skills-in-wsl-2-for-smarter-docker-execution/"><u>Sharpen Your Skills in WSL 2 for Smarter Docker Execution</u></a></li>
+<li><a href="https://facebook.techidaily.com/sick-of-politics-3-powerful-ways-to-clean-up-facebook/"><u>Sick of Politics? 3 Powerful Ways to Clean Up Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-virtualization-your-guide-to-implementing-hyper-v-in-win-11-homes/"><u>Simplify Virtualization: Your Guide to Implementing Hyper-V in Win 11 Homes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-winning-over-credential-vault/"><u>Strategies for Winning Over Credential Vault</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y27-4g-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y27 4G</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-writers-choice-for-best-video-edits/"><u>Windows 11' Writers’ Choice for Best Video Edits</u></a></li>
 </ul></div>
 

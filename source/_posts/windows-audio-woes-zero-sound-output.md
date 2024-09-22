@@ -1,7 +1,7 @@
 ---
 title: "Windows Audio Woes: Zero Sound Output"
-date: 2024-09-15T20:39:12.009Z
-updated: 2024-09-17T03:18:15.589Z
+date: 2024-09-15T03:19:45.777Z
+updated: 2024-09-21T16:16:53.078Z
 tags:
   - windows10
   - windows11
@@ -107,33 +107,21 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 1. Next, select the **Install the hardware that I manually select from a list (Advanced)** option.  
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
 2. Click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Common hardware types**, scroll down and select **Sound, video and game controllers.**  
 ![device manager add legacy hardware common hardware types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-add-legacy-hardware-common-hardware-types.jpg)
 4. Click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select **Generic USB Audio** under **Manufacturer**. In the right pane, selec**t USB Audio OEM Device.**  
 ![device manager generic usb device audio legacy hardware add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-generic-usb-device-audioi-legacy-hardware-add.jpg)
 6. Click **Next**.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click **Next** once again to confirm the action.
 8. Wait for the installation to complete and click **Finish**. Restart your PC and check if your audio device is detected and working again.
@@ -141,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 ## 4\. Check if Your Audio Device Is Disabled
 
 ![enable audio device paly sound windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-audio-device-paly-sound-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check if you have accidentally disabled your audio device. While the audio troubleshooter should be able to detect and recommend the same, you can also enable the audio device manually.
 
@@ -160,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 5. Next, select the device and click the **Set Default** button to set the device as default**.**
 6. Restart your PC and check if the no audio output device is installed error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check if the Audio Services are Running
 
  The Windows Audio Endpoint Service and Windows Audio Service are the two essential services for the audio to work on your PC. If these services are not running, your audio device may not function properly.
@@ -170,6 +158,14 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 2. Type **services.msc** and click **OK** to open the **Services** snap-in.  
 ![Windows Audio Endpoint Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service.jpg)
 3. Next, locate and right-click on **Windows Audio Endpoint Service Builder.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select **Properties** from the context menu.  
 ![Windows Audio Endpoint Service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-startup-type-automatic.jpg)
 5. Click the drop-down for **Startup type** and select **Automatic**.
@@ -179,29 +175,22 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 8. Next, repeat the steps for the **Windows Audio service.**
 9. Once done, close the Services snap-in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Uninstall or Disable Any Third-Party Driver Updater Tools
 
  Third-party driver update utilities allow you to scan and update all the drivers for your computer from one place. While a handy tool, this may conflict with your audio component and Windows’s ability to detect the device.
 
  To fix the problem, disable or remove any driver update utility such as Avast Driver Updater installed on your PC. Then run the audio troubleshooter again to see if that helps resolve the issue. Sometimes, you may need to remove the updater app to disable it completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Repair the Windows Image With DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Deployment Image Service Management (DISM) is a built-in Windows image repair command-line utility. If the audio problem is triggered by an issue with your system image, this tool can repair the image to restore the audio functionality on your PC.
 
@@ -218,6 +207,13 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 7. Once the restore operation is complete, close the Command Prompt and restart your PC.
 8. After the restart, check if your audio device is working.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix the "No Audio Output Device Is Installed" Error
 
  When connected, Windows will detect all the audio input and output devices and install the necessary drivers automatically. To fix the no audio output device is installed error, make sure your audio device is enabled in the Sound settings.
@@ -228,25 +224,6 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
 
  This error occurs when Windows fails to detect your connected audio devices. It can be a temporary glitch, a driver-related issue, or, in some cases, caused by system file corruption. Here are a few troubleshooting steps to help you fix the No Audio Output Device installed error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-17-best-apps-to-remove-image-background/"><u>[New] 17 Best Apps to Remove Image Background</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-crafting-impact-best-9-video-thumbnail-makers-reviewed/"><u>[New] 2024 Approved Crafting Impact Best 9 Video Thumbnail Makers Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unrivaled-selection-of-top-10-mobile-video-calling-apps/"><u>[Updated] 2024 Approved Unrivaled Selection of Top 10 Mobile Video Calling Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-facetime-best-practices-unveiled/"><u>[Updated] Capturing FaceTime Best Practices Unveiled</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-seamless-transition-of-youtube-videos-into-instagram-stories-for-2024/"><u>[Updated] Seamless Transition of YouTube Videos Into Instagram Stories for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-prevent-the-input-not-supported-alert-on-computer-screens/"><u>How to Resolve and Prevent the 'Input Not Supported' Alert on Computer Screens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/inside-look-at-the-apple-ipad-air-2019-transforming-your-experience-with-media-and-productivity/"><u>Inside Look at the Apple iPad Air (2019): Transforming Your Experience with Media and Productivity</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/introducing-googles-innovative-smart-home-device-a-streaming-box-and-hub-combined/"><u>Introducing Google's Innovative Smart Home Device: A Streaming Box and Hub Combined</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-live-view-a-comprehensive-guide-to-navigating-with-google-maps/"><u>Mastering Live View: A Comprehensive Guide to Navigating with Google Maps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-win11-quick-access-to-mouse-settings/"><u>Navigating Win11: Quick Access to Mouse Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-of-windows-11s-hidden-themes-via-regedit/"><u>Revealing the Secrets of Windows 11'S Hidden Themes via Regedit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-guide-to-launch-and-setup-win-11s-sandbox/"><u>Stepwise Guide to Launch and Setup Win 11'S Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-screencast-feedback-in-powerpoint/"><u>Troubleshooting Silent Screencast Feedback in PowerPoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-onoff-touch-typing-on-your-windows-device/"><u>Turning On/Off Touch Typing on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -254,3 +231,21 @@ thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d43
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-sims-4-filming-a-comprehensive-guide/"><u>[New] In 2024, Mastering Sims 4 Filming A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-social-media-analyzing-tiktok-and-snapchat-for-2024/"><u>[Updated] Decoding Social Media Analyzing TikTok & Snapchat for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-defy-2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Defy 2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-gratis-notebook-programs-for-windows-7-users-a-comprehensive-guide-to-effortless-learning/"><u>Best Gratis Notebook Programs for Windows 7 Users: A Comprehensive Guide to Effortless Learning</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complete-guide-downloading-content-from-bg-video-successfully/"><u>Complete Guide: Downloading Content From BG Video Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-aac-files-to-mpeg-format-without-cost-using-movavis-online-tool/"><u>Convert AAC Files to MPEG Format Without Cost Using Movavi's Online Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-agni-2-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Lava Agni 2 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-yayinada-onemli-mp3lere-donusturulenecek-13-uykudur-youtube-video-hareketleri/"><u>Movavi Yayınada Önemli MP3'lere Dönüştürülenecek 13 Uykudur YouTube Video Hareketleri</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ottieni-gratuitamente-una-tua-productsrecorderproductname-di-attivazione-ora/"><u>Ottieni Gratuitamente Una Tua {{ product('srecorder').product_name}} Di Attivazione Ora!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-to-mp4-livsgrenen-gratist-og-snar-konverting/"><u>Webm-to-MP4 Livsgrenen - Gratist Og Snar Konverting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-m1v-0/"><u>우아한 Web용 M1V 영상 전환: 제공자 가격 0</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gif-muvavi/"><u>オンラインで簡単にGIFファイルを無料変換 - Muvavi</u></a></li>
+</ul></div>
+

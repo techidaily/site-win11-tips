@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows Photos Package Registration Faults
-date: 2024-09-13T22:47:48.796Z
-updated: 2024-09-16T19:48:47.245Z
+date: 2024-09-20T06:32:24.569Z
+updated: 2024-09-22T07:06:09.555Z
 tags:
   - windows10
   - windows11
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall Photos
 
  If the “Package could not be registered” error persists after applying the resolutions above, you might need to reinstall Photos to fix it. This solution is the most likely one to fix a corrupted Photos app. You can uninstall and reinstall Photos with PowerShell like this:
@@ -75,23 +82,9 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 ![The uninstall Photos command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-photos-command.jpg)
 3. To reinstall Photos, input this PowerShell command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset Windows
 
@@ -100,13 +93,20 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -127,18 +127,18 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-explore-and-review-every-application-az-screenshotters-way/"><u>2024 Approved Explore & Review Every Application - AZ Screenshotter's Way</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-windows-bluetooth-connectivity-issues/"><u>Clearing Up Windows Bluetooth Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-overcoming-windows-errors/"><u>Corrective Measures for Overcoming Windows Errors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views-for-2024/"><u>Earnings Breakdown Youtube's AdSense Payments by Thousands of Views for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-cpu-chiller-technologies-of-2024-exploring-aio-vs-air-fans/"><u>Leading CPU Chiller Technologies of 2024: Exploring AIO Vs. Air Fans</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-ai-dialogue-the-ultimate-list-of-techniques/"><u>Optimizing AI Dialogue: The Ultimate List of Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-during-utorrent-setup-on-windows-systems/"><u>Overcoming Obstacles During uTorrent Setup on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-updates-just-wont-work/"><u>Step-by-Step Fixes for When Your Windows Updates Just Won't Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-limiting-user-access-in-windows-folders/"><u>Techniques for Limiting User Access in Windows Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0xca00a009-in-windows-update/"><u>Troubleshooting Error 0xCA00A009 in Windows Update</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-5-best-free-wmv-video-editing-tools/"><u>Updated 2024 Approved The Ultimate List 5 Best Free WMV Video Editing Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-highlight-your-pc-gaming-6-effective-screen-methods/"><u>[Updated] 2024 Approved Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-windows-music-managers/"><u>[Updated] Best Windows Music Managers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unleash-potential-optimizing-short-films-in-marketing/"><u>[Updated] In 2024, Unleash Potential Optimizing Short Films in Marketing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-deactivated-vss-on-systems/"><u>Correcting Deactivated VSS on Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-look-at-sonys-next-vr-device-price-estimates-availability-forecast-specifications/"><u>Exclusive Look at Sony's Next VR Device: Price Estimates, Availability Forecast, Specifications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-excitement-of-overwatch-teamwork-skillful-shooting-and-riveting-challenges-await/"><u>Exploring the Excitement of Overwatch: Teamwork, Skillful Shooting & Riveting Challenges Await!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/high-speed-hack-quick-windows-methods-for-checking-router-speed/"><u>High-Speed Hack: Quick Windows Methods for Checking Router Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-regain-admin-privileges-on-a-pc/"><u>How to Regain Admin Privileges on a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-se-2022-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone SE (2022) SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-micro-videos-in-the-spotlight-who-wins-youtube-shorts-or-tiktok/"><u>In 2024, Micro-Videos in the Spotlight Who Wins, YouTube Shorts or TikTok?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-user-experience-with-alomware-settings-interface/"><u>Tailor User Experience with AlomWare Settings Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews & Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vocwma-movavi/"><u>VOC到WMA無成本直週天翻譯 - 利用Movavi優化</u></a></li>
 </ul></div>
 

@@ -1,0 +1,169 @@
+---
+title: Demystifying GPSVC Wait Time on PCs
+date: 2024-09-19T17:46:43.994Z
+updated: 2024-09-21T17:34:30.237Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Demystifying GPSVC Wait Time on PCs
+excerpt: This Article Describes Demystifying GPSVC Wait Time on PCs
+keywords: GPSVC Wait Reduction,PC GPSWait Troubleshooting,GPSVC Latency Fix PC,Shorten GPSVC Delay,Reducing PC GPSVc Lag,Optimize PC GPSVC Time,Minimize PC GPSVC Wait
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
+---
+
+## Demystifying GPSVC Wait Time on PCs
+
+ The "Please wait for the GPSVC" loop in Windows is a frustrating issue that can cause the system to get stuck upon a shutdown attempt. This loop is related to the Group Policy Client Service (GPSVC).
+
+ Below, we take a look at the different causes of this problem, followed by the solutions you can try to fix it.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Does “Please Wait for the GPSVC” Mean?
+
+ The "Please wait for the GPSVC" statement occurs while the system is waiting for the Group Policy Client Service (GPSVC) to complete certain active processes. This service works by managing and applying the group policies in your Windows system.
+
+ The time this service takes to complete the process can depend upon factors such as the complexity of the Group Policy settings, network connectivity, and the performance of the system. While it is generally recommended to avoid interrupting the process till it completes, there are times when this loop can take forever to end.
+
+ This normally happens due to one or more of the following reasons:
+
+* **Group Policy errors**: The Group Policy settings in your computer may have been corrupted, which is preventing the GPSVC process from completing successfully.
+* **Third-party software conflicts**: A third-party software or services might be conflicting with the GPSVC process, causing it to get stuck in a loop.
+* **System file corruption**: If the essential system files on which the Group Policy or the GPSVC processes depend become corrupted or damaged, it can lead to the system getting stuck in loops, improper shutdowns, disk errors, or malware infections.
+* **Malware or viruses**: Malware can also interrupt system processes deliberately. The malware or virus in your system might be attempting to gain control over your system by interfering with GPE.
+
+ It is essential to note that the exact cause of this loop can vary, depending upon different circumstances. However, regardless of what the cause might be, the troubleshooting methods we have listed below are sure to help you fix the issue for good.
+
+## Setting Up Your PC for Troubleshooting
+
+ To start the troubleshooting, you must be able to access your system. This can be done in two ways; you can either [perform a Windows reboot](https://www.makeuseof.com/windows-restart-methods/) to break the loop using the Ctrl + Alt + Delete menu or enter the Safe Mode.
+
+ If you have tried rebooting but the error pops up again, you can boot into the Safe Mode through Windows Recovery Environment.
+
+ This will launch the system with a set of only the necessary drivers and services. Once you are in Safe Mode, you can take further steps to diagnose the issue and fix it.
+
+ Here is how you can do that:
+
+1. Shut down your computer and use the power button to restart.
+2. When the computer is loading, use the power button to force shutdown again. You can do this by pressing and holding the power button).
+3. Repeat this twice and on the third attempt, Windows will boot into the Recovery Environment automatically.
+4. Choose **Troubleshoot** \> **Advanced options**.  
+![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
+5. Click on **Startup settings** and select **Restart**.
+6. Wait for the computer to restart and then press the 4, 5, or 6 keys to boot into Safe Mode.
+
+ Once you are in Safe Mode, proceed with the solutions we have listed below.
+
+## 1\. Restart the Group Policy Client Service
+
+ The GPSVC service itself might be dealing with a temporary glitch or a corruption error that is causing it to malfunction. The easiest way to fix issues with the service is by restarting it.
+
+ Here is how you can do that:
+
+1. Press the **Win** \+ **R** keys together to open Run.
+2. Type "services.msc" in Run and click **Enter**.
+3. In the following window, look for the Group Policy Client service and right-click on it.
+4. Choose **Properties** from the context menu.  
+![Access the Group Policy Client properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/group-policy-client-properties.jpg)
+5. Now, click on the **Stop** button, wait for a few seconds, and click **Start**.
+6. Expand the dropdown for Startup type and choose **Automatic**.
+7. Click **Apply** \> **OK** to save the changes.
+
+ You can now exit the Services window and check if the issue is resolved.
+
+## 2\. Reset the Local Group Policy Settings
+
+![Reset Group Policy using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Reset-Group-Policy-using-Command-Prompt.jpg)
+
+ As we mentioned earlier, there can be an issue with the Local Group Policy settings. To check if this is the case in your situation, you can reset the Local Group Policy settings. This will restore the configurations to the default state, eliminating any potential conflicts that may have caused the issue.
+
+ However, before you proceed, it is important to note that this will also remove any customizations or modifications you made via GPE.
+
+ If that is not a problem, follow these steps to proceed:
+
+1. Press the **Win** \+ **R** keys together to open Run.
+2. Type "cmd" in Run and press **Ctrl** \+ **Shift** \+ **Enter** keys together.
+3. Choose **Yes** in the User Account Control prompt.
+4. In Command Prompt, execute the command below:  
+`RD /S /Q "%WinDir%\System32\GroupPolicyUsers" && RD /S /Q "%WinDir%\System32\GroupPolicy"`
+5. Once the command executes, proceed with the following command:  
+`gpupdate.exe /force`
+6. Finally, restart your computer and check if the issue is resolved.
+
+## 3\. Modify the GPSVC Registry File
+
+ There is also a chance that the GPSVC registry keys are missing or corrupt, which is preventing the service from functioning properly. Such issues can be fixed by modifying the relevant values as shown below.
+
+ Before proceeding, we recommend that you [create a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/), just to be safe. Once that is done, follow these steps to proceed:
+
+1. Press the **Win** \+ **R** keys together to open Run.
+2. Type "regedit" in Run and click **Enter**.
+3. Click **Yes** in the User Account Control prompt.
+4. In the Registry Editor, navigate to the location below:  
+`​​​​​​​​​​​​​​Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost`
+5. Right-click on **Svchost** and choose **New** \> **Key**.
+6. Name this key as **GPSvcGroup**.
+7. Double-click on **GPSvcGroup** and right-click anywhere in the right pane.
+8. Choose **New** \> **DWORD (32-bit) Value** and rename this value as **AuthenticationCapabilities**.
+9. Double-click on **AuthenticationCapabilities** and select the Base to **Decimal**.
+10. Type "12320" in Value data and click **OK**.  
+![AuthenticationCapabilities key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/authentican-key.jpg)
+11. Now, create another key **CoInitializeSecurityParam** in a similar way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+12. Set its base to **Hexadecimal** and type "1" in Value data.  
+![CoInitializeSecurityParam key in the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/coinitializesecurityparam-key.jpg)
+13. Click **OK** to save the changes and then restart your PC. Hopefully, upon reboot, you will no longer face the error.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Apart from these specific fixes, you can also try [performing a system restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) or scanning the system [using the built-in SFC and DISM Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/). The former will help revert the system to an older, error-free state, while performing a system scan will help fix any corruption errors in the system that might be contributing to the problem.
+
+## GPSVC Loops on Windows, Fixed
+
+ The "Please Wait for the GPSVC" loop doesn't have to be a permanent problem. Hopefully, the solutions above will help you fix this issue for good. If the problem persists, it is always recommended to seek assistance from technical experts or Microsoft support.
+
+ Below, we take a look at the different causes of this problem, followed by the solutions you can try to fix it.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-command-center-redefined-your-pathway-through-studio-for-2024/"><u>[Updated] Command Center Redefined Your Pathway Through Studio for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-streamers-checklist-for-flawless-twitch-live-recordings/"><u>2024 Approved A Streamer's Checklist for Flawless Twitch Live Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>2024 Approved The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-gpio-interface-support-instant-download-available/"><u>AMD GPIO Interface Support - Instant Download Available</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-mov-to-3gp-converter-vrije-gratis-software-door-movavi/"><u>Gratis Online MOV-to-3GP Converter - Vrije Gratis Software Door Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-mobile-and-desktop-sound-alteration-tools-for-2024/"><u>Masterful Mobile & Desktop Sound Alteration Tools for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-ultimate-guide-to-optimizing-your-obs-setup-for-professional-quality-streaming/"><u>Movavi's Ultimate Guide to Optimizing Your OBS Setup for Professional Quality Streaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-printing-experience-with-the-newest-epson-perfection-v39-driver-windows-7810-supported/"><u>Optimize Your Printing Experience with the Newest Epson Perfection V39 Driver - Windows 7/8/10 Supported</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-leading-voice-transcription-programs/"><u>The Ultimate List: Leading Voice Transcription Programs</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x100-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X100 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-playermp3-di-file-audio-liberi-e-ottimizzati-per-windows-and-mac/"><u>Top 12 PlayerMP3 Di File Audio Liberi E Ottimizzati Per Windows & Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-flac-in-m4a-online-gratuitamente-con-convertitore-di-movavi/"><u>Trasforma I File Flac in M4A Online Gratuitamente Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-tiff-movavi/"><u>컴퓨터에서 무료 CR2 포트라이트를 TIFF로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4trp-movavi/"><u>オンラインで簡単に変換！MP4ファイルを無料のTRPコードに - Movavi</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

@@ -1,7 +1,7 @@
 ---
 title: Connectivity Made Simple with 10 Windows Steps
-date: 2024-09-11T08:15:52.225Z
-updated: 2024-09-16T19:24:11.164Z
+date: 2024-09-17T23:48:42.327Z
+updated: 2024-09-22T03:17:12.434Z
 tags:
   - windows10
   - windows11
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 
 ![Opening the Windows Network Connections Tool using File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-File-Explorers-Address-Bar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Use the Wi-Fi Icon or System Settings
 
  The Wi-Fi icon on your taskbar comes in handy when you want to [configure network-related issues](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/). But that's not all—you can also use that icon to open the Network Connections tool. Here’s how:
@@ -75,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 ![Opening the Windows Network Connections Tool using the Wi-Fi icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Wi-Fi-icon.png)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, open the Network Connections tool via the system settings through these steps:
@@ -95,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 4. Click **Change adapter options** to open the Network Connections tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt or PowerShell
@@ -120,16 +121,10 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 3. Type **ncpa.cpl** and press **Enter** to open the Network Connections tool.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use the Control Panel
@@ -158,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 
 ![Opening the Windows Network Connections Tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Task-Manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Use the Executable File in the System32 Directory
 
  Now, let's explore how to open the Network Connections tool using the relevant executable (.exe) file. This particular file is hiding somewhere in the System32 folder, so we'll show you how to locate it:
@@ -176,6 +164,13 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 5. Scroll down and select **ncpa.cpl** option to open the Network Connections tool.
 
 ![Clicking the ncpa.cpl option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-ncpa-cpl-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Create a Network Connections Desktop Shortcut
 
@@ -190,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
  From there, type **Network Connections Tool** in the name field and click **Finish**. Now, you can easily access the Network Connections tool using the desktop shortcut you've just created.
 
  That's it! You’re now able to easily access the Windows Network Connections tool. So, let's now explore tips on how to check the network connection status on your Windows device.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check Your Network Connection Status on Windows
 
@@ -231,22 +219,6 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-break-free-from-linearity-mastering-jump-cut-transitions/"><u>[New] 2024 Approved Break Free From Linearity Mastering Jump Cut Transitions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-memetic-artistry-codes/"><u>[New] Top 10 Memetic Artistry Codes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-video-counts-and-quantities-within-64128gb/"><u>[New] Video Counts & Quantities Within 64/128GB</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-capturing-live-sounds-directly-from-youtube-videos-for-2024/"><u>[Updated] Capturing Live Sounds Directly From YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-use-ringsilent-feature-on-your-iphone-here-are-other-ways-to-manage-notifications/"><u>Can't Use Ring/Silent Feature on Your iPhone? Here Are Other Ways to Manage Notifications!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-error-c0000022-a-path-to-windows-stability/"><u>Demystifying Error C0000022: A Path to Windows Stability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-be-fooled-5-tips-to-avoid-fake-apps-in-the-windows-store/"><u>Don’t Be Fooled! 5 Tips to Avoid Fake Apps in the Windows Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-network-defenses-5-key-adjustments/"><u>Optimizing Network Defenses: 5 Key Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reasons-most-people-avoid-the-leap-to-windows-11/"><u>Reasons Most People Avoid the Leap to Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/transitioning-from-apples-icloud-to-google-drive-a-personal-trial-run/"><u>Transitioning From Apple's iCloud to Google Drive - A Personal Trial Run</u></a></li>
-<li><a href="https://win11.techidaily.com/unite-pilot-and-ai-on-windows-11-after-disconnection/"><u>Unite Pilot & AI on Windows 11 After Disconnection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-true-potential-of-task-handling-on-a-windows-11-device/"><u>Unleash the True Potential of Task Handling on a Windows 11 Device</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -254,3 +226,21 @@ thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-live-play-and-log-mobile-gaming-with-samsung/"><u>[Updated] 2024 Approved Live, Play & Log Mobile Gaming with Samsung</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-quickly-stream-spotify-audio-with-integrity/"><u>[Updated] How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-vdx-quickcapture-evaluation-complete-reviews/"><u>[Updated] In 2024, VDX QuickCapture Evaluation Complete Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-omzettingen-van-ai-fysische-architecturen-online-movavi/"><u>Gratis Omzettingen Van AI-Fysische Architecturen Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-como-eliminar-y-recortar-archivos-de-video-mp4-sin-coste-alguno-desde-tu-computadora-o-servicio-online/"><u>Guía Paso a Paso: Cómo Eliminar Y Recortar Archivos De Video MP4 Sin Coste Alguno Desde Tu Computadora O Servicio Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE (2022)?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpts-fraudulent-cryptocurrency-tokens-a-compreh/"><u>Identifying BingChatGPT's Fraudulent Cryptocurrency Tokens: A Compreh</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-hot-30-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Hot 30 5G Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726218758115-mp3-movavi/"><u>MP3形式変換できる動画コンバーター - Movavi：オンライン・無料サービス</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-secretly-capturing-zoom-sessions-no-need-for-approvals/"><u>Quick Guide to Secretly Capturing Zoom Sessions – No Need for Approvals</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/simple-and-cost-free-ways-to-clone-your-favorite-facebook-videos/"><u>Simple & Cost-Free Ways to Clone Your Favorite Facebook Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-best-free-3d-vids-experience-on-pcmac-systems-for-2024/"><u>Unveiling Best Free 3D Vids Experience on PC/Mac Systems for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-elite-players-your-guide-to-the-7-best-imessage-games/"><u>Unveiling the Elite Players: Your Guide to the 7 Best iMessage Games</u></a></li>
+</ul></div>
+

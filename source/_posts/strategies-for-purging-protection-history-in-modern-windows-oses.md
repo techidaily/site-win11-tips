@@ -1,0 +1,169 @@
+---
+title: Strategies for Purging Protection History in Modern Windows OSes
+date: 2024-09-19T03:20:50.516Z
+updated: 2024-09-21T18:50:16.216Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Strategies for Purging Protection History in Modern Windows OSes
+excerpt: This Article Describes Strategies for Purging Protection History in Modern Windows OSes
+keywords: Win Protect Deletion,Cleanse Windows Security,Erase Safety Logs,Uninstall Windows Guard,Remove Shield Records,Clear Prohibition History,Wipe OS Security Archive
+thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e0810cfd55569744e9fd64a173.jpg
+---
+
+## Strategies for Purging Protection History in Modern Windows OSes
+
+ Windows Defender is Microsoft's antivirus built into your Windows PC to protect you from viruses, malware threats, and attacks. It maintains a record of its scans and actions in its Protection History folder.
+
+ Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Is the Microsoft Defender Protection History? Why Should You Clear It?
+
+ One of the best antivirus for your PC, [Windows Defender keeps getting better with some powerful upgrades](https://www.makeuseof.com/microsoft-defender-riskai-upgrade/). The detections made by Windows Defender appear on the Protection History page—which means you can view actions that Microsoft Defender Antivirus has taken on your behalf. These would be scans done to identify and block malware and other threats. And also the recommendations (highlighted in red or yellow) for actions you should take.
+
+ You also have access to all this information in a clear and easily understandable form, including Potentially Unwanted Apps that have been removed, or key services that have been turned off. The Protection History will also show the detections that appear while performing a Windows Defender Offline scan.
+
+![Protection History Page in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ProtectionHistory1.jpg)
+
+ Though Windows Defender keeps the history of its detections for 30 days, you can clear it before that time if you need to—for example, when a lot of scan logs have accumulated. Clearing the Protection History would help you make space on your PC and keep Defender running smoothly. Remember, you must be signed in as an administrator to clear the protection history so [do check if you have administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/).
+
+ Now let's see four easy ways to clear Protection History in Windows 10 and 11\.
+
+## 1\. How to Clear the Microsoft Defender's Protection History Folder
+
+ You can manually clear the Protection History by deleting the contents of the Service folder in the Windows Defender folder using File Explorer. Here's how:
+
+1. Press **Windows + R** keys to bring up the Run box.
+2. Copy and paste the path below and click on **OK** or hit **enter:** **C:\\ProgramData\\Microsoft\\Windows Defender\\Scans\\History**  
+![Defender History Folder Path Typed in Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-defender-history-folder-via-run.jpg)
+3. You can also paste the **C:\\ProgramData\\Microsoft\\Windows Defender\\Scans\\History** path in the File Explorer navigation bar and then hit **enter**.  
+![Defender History Folder Path in File Explorer Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/defender-history-folder-path-in-file-explorer.jpg)  
+ Alternatively, you can navigate to the **Defender Protection History** folder using the above path in File Explorer. If you don't see the **ProgramData** folder when you open the Local Drive, select **View** and then tick the box next to **Hidden items**.  
+![Click Hidden Items under View to See ProgramData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Click-Hidden-Items-under-View-to-See-ProgramData-Folder.jpg)
+4. Open the **Service** folder and select all the files inside it. **Right-click** and select **Delete** to clear all the files. Then exit File Explorer.  
+![Select Files in History Folder and Delete Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Select-Files-in-History-Folder-and-Delete-Them.jpg)
+5. Next, search for **Windows Security** and open it.
+6. Under **Virus & threat protection** click on **Manage settings**.  
+![Virus and Threat Protection Settings in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Virus-and-Threat-Protection-in-Windows-Security.jpg)
+7. Finally, toggle the button to **Off** and then to **On** again, for **Real-Time protection** and **Cloud-delivered protection**.
+
+## 2\. How to Clear the Microsoft Defender Protection History Using the Event Viewer
+
+ You can also manually clear the Defender Protection History via the [Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/)—a useful app to analyze the event logs on your device. Here's how:
+
+1. First, do a Windows search for **Event Viewer** and click on the app result under **Best match** to open **Event Viewer.**
+2. Under the **Event Viewer (Local)** on the left pane, expand the **Applications and Services Logs**.
+3. Under **Applications and Services Logs**, click on the down arrow next to the **Microsoft** folder.
+4. Click on **Windows** in the left pane to open the list of Windows files on the middle pane.
+5. Scroll down through the list of files on the middle pane to find **Windows Defender**.  
+![Windows Defender selected in Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Navigate-to-Windows-Defender-in-Event-Viewer.jpg)
+6. Double-click on **Windows Defender**.
+7. Then right-click on **Operational** and select **Open** to view all the past logs.  
+![Open Operational Option to View Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Operational-Option-to-View-Defender-Logs.jpg)
+8. Now you can right-click on **Operational** in the left pane and choose **Clear Log**. Or click on **Clear Log** on the right pane under **Actions**.  
+![Options to Clear Log from Left Pane or Under Actions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Options-to-Clear-Log-Of-Windows-Defender.jpg)
+9. Select **Clear** to clear the protection history. If you wish to save the protection history logs for future reference before clearing them, select **Save and Clear**.  
+![Options to Clear Logs or Save and Clear Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Clear-and-Save-and-Clear-Options-for-Defender-Logs.jpg)
+
+## 3\. How to Clear the Microsoft Defender Protection History via PowerShell
+
+ What if you want the Protection History to clear automatically after a specific number of days? You can also use a PowerShell command to do that. Let's see how to do this:
+
+1. Type **PowerShell** in the search bar. Right-click on **Windows PowerShell** under **Best match** and select **Run as administrator**. Or choose **Run as administrator** on the right search pane.
+2. Click **Yes** on the UAC prompt that appears.
+3. The **Administrator: PowerShell** window will open up. Type or copy and paste the following command and then hit **enter**:
+
+`Set-MpPreference -ScanPurgeItemsAfterDelay 7`
+
+![Command to Clear Protection History in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-Command-to-Clear-Protection-History.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The number **7** at the end of the command is the number of days after which the protection history logs will be cleared. Just change that number to specify when you want the protection history to be cleared. And it will be cleared automatically.
+
+## 4\. How to Clear the Microsoft Defender Protection History Using the Group Policy Editor
+
+ If you have a PC with Windows 10 Pro, Windows 11 Pro, or a higher version, you can also use the Group Policy Editor to clear the Defender Protection History automatically. Though there are solutions to [access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) too. But let's see how to clear Protection History via Group Policy Editor in Windows Pro and higher versions:
+
+1. Press **Win + R** keys to open the Run box. Type **gpedit.msc** to open the **Local Group Policy Editor**. Or just type **gpedit** in the search bar and click on **Edit Group Policy** under **Best match** to open it.
+2. In the **Local Group Policy Editor**, on the left pane under **Computer Configuration**, expand **Administrative Templates** by clicking on the down arrow next to it.
+3. Inside the **Administrative Templates** folder, click on **Windows Components** and the list of its components would come up on the middle pane of the **Group Policy Editor**.
+4. Then scroll down to find **Windows Defender Antivirus** and double-click on it.  
+![Navigate to Windows Defender Antivirus in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Navigate-to-Windows-Defender-Antivirus-in-Group-Policy-Editor.jpg)
+5. In the list of **Windows Defender** items, **double-click** on the **Scan** folder.
+6. In the right pane, **double-click** on **Turn on removal of items from scan history folder**. Or click **Edit policy setting** in the middle pane. This policy setting defines the number of days items should be kept in the scan history folder before being permanently removed.  
+![Turn on Removal of Items Policy in Defender Scan Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Edit-Removal-of-Items-Policy-in-Defender-Scan-Folder.jpg)
+7. Next, select **Edit policy setting** to open the policy window. It would be showing **Not Configured** by default. To set the number of days, toggle on the button next to **Enabled**. The default number of days, which is **30**, would then be set. If you set the number of days to zero, items will be kept forever and will not be automatically removed. So just change the days to whenever you want the items to be removed. Finally, click **Apply** and then **OK**.  
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Specify Number of Days to Remove Scan Items in Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Number-of-Days-to-Remove-Scan-Items.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now, you won't need to manually clear Protection History every time—the items in the scan history folder would be deleted automatically after the days you've specified.
+
+## Clear the Microsoft Defender Protection History Whenever You Want
+
+ If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
+
+ Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[New] In 2024, How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-creative-chip-success-editors-flourish-on-m1/"><u>2024 Approved Creative Chip Success Editors Flourish on M1</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-instructions-purging-dns-memory-in-windows-10-and-windows-11-environments/"><u>Comprehensive Instructions: Purging DNS Memory in Windows 10 & Windows 11 Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-of-mov-files-to-vob-format-move-itcom/"><u>Free Online Conversion of MOV Files to VOB Format - Move-it.com</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-se-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone SE Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-transform-files-effortlessly-upload-convert-aiff-to-wmv-with-movavi-for-free/"><u>How to Transform Files Effortlessly: Upload, Convert AIFF to WMV with Movavi for FREE!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-where-to-stream-what-to-watch-twitchs-challenge-to-youtube/"><u>In 2024, Where To Stream, What to Watch? Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-gratuit-du-format-audio-fichier-opus-a-mp3-sur-movavi/"><u>Transformation Gratuit Du Format Audio : Fichier OPUS À MP3 Sur Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wav-mp3ogg-movavi/"><u>WAV 파일을 쉽게 MP3/OGG로 전환하세요: Movavi의 공식 오픈소스</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221843560-3g2-mp4-movavi/"><u>구독 없이 3G2 파일을 무료 MP4 형식으로 전환하는 - Movavi 소프트웨어</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

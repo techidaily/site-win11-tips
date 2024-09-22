@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Time-Limited Window Locks
-date: 2024-09-11T00:13:57.030Z
-updated: 2024-09-16T23:21:06.549Z
+date: 2024-09-17T06:31:25.701Z
+updated: 2024-09-21T19:49:03.180Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ Now that we know how to do it, let's dive into the steps.
 
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disabling Sleep Mode and Screen Saver
 
  Next, because Windows automatically locks itself when in sleep mode, you can effectively disable auto-locking by keeping your computer from entering sleep mode. To do this:
@@ -64,10 +71,10 @@ Now that we know how to do it, let's dive into the steps.
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
@@ -76,19 +83,6 @@ Now that we know how to do it, let's dive into the steps.
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
 
@@ -127,15 +121,21 @@ Finally, restart your computer to see if a lock screen appears.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations/"><u>[New] Dynamic Dividends Boosting Social Media ROI with FB Ad Animations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[Updated] 2024 Approved The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-pace-perfectly-on-iphone-capturing-and-editing-slowed-down-videos/"><u>2024 Approved How to Pace Perfectly on iPhone Capturing & Editing Slowed Down Videos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/5-eye-opening-motivations-to-learn-a-foreign-language/"><u>5 Eye-Opening Motivations to Learn a Foreign Language</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-prime-watching-with-proactive-subtitles-troubleshooting-in-windows-11/"><u>Enhance Your Prime Watching with Proactive Subtitles Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-setting-up-your-smartaudio-device-after-initial-hiccups/"><u>Guide: Successfully Setting Up Your SmartAudio Device After Initial Hiccups</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-the-most-out-of-both-worlds-after-win-11s-release/"><u>Making the Most Out of Both Worlds After Win 11'S Release</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-drive-letters-in-windows-causes-and-corrective-measures/"><u>No Drive Letters in Windows: Causes and Corrective Measures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unboxing-the-efficient-apc-back-ups-be600m1-review-built-in-usb-charger-for-added-convenience/"><u>Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[New] In 2024, Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-reclaim-your-loss-with-these-top-10-iphone-x-hacks-for-2024/"><u>[New] Reclaim Your Loss with These Top 10 iPhone X Hacks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-church-streaming-services-for-the-digital-age/"><u>[New] Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[Updated] 2024 Approved Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-valorant-skills-free-voice-altering-awaits-you-for-2024/"><u>[Updated] Elevate Your Valorant Skills - Free Voice Altering Awaits You for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-webcam-video-pros-fast-effective-filming-steps/"><u>2024 Approved Webcam Video Pros Fast, Effective Filming Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-mp4pdf/"><u>免費WEB上で動画形式を変更: MP4からPDFへ</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-game-worlds-playing-android-apps-in-windows-11-via-google-services/"><u>Dive Into Game Worlds: Playing Android Apps in Windows 11 via Google Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/duiskaldende-guides-til-at-omskifte-mts-formatet-i-mp4-ved-brug-af-windowsmac-os/"><u>Duiskaldende Guides Til At Omskifte MTS-Formatet I MP4 Ved Brug Af Windows/Mac OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-comparison-of-leading-vob-video-players-and-best-picks-for-high-definition-viewing/"><u>Expert Comparison of Leading VOB Video Players & Best Picks for High Definition Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-your-files-from-m1v-to-mp4-with-ease-movavi/"><u>Free Online Converter: Transform Your Files From M1V to MP4 with Ease - Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/gimp-multiplatform-editor-an-in-depth-free-software-appraisal-for-graphic-designers/"><u>GIMP Multiplatform Editor: An In-Depth Free Software Appraisal for Graphic Designers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-15-best-presentation-tools-and-apps-for-crafting-stunning-windows-11-slides/"><u>Top 15 Best Presentation Tools & Apps for Crafting Stunning Windows 11 Slides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webm-mov/"><u>Webmへの変換無料 - MOVファイルを簡単に変更してください</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mpgswf-movavi/"><u>オンラインでシームレスなフリップジャパンMPGからSWFへのコストフリー変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips for Repairing Grammarly's Inactive State
-date: 2024-09-11T09:25:22.748Z
-updated: 2024-09-17T08:25:28.614Z
+date: 2024-09-19T18:52:39.985Z
+updated: 2024-09-21T19:33:31.898Z
 tags:
   - windows10
   - windows11
@@ -67,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  That's it. To verify if the issue persists, open Microsoft Word or any website where you can write (e.g., [ControlC.com](https://controlc.com/)). Start writing a sentence and see if Grammarly provides suggestions.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Adjust Your System and Grammarly Settings
@@ -100,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable Grammarly at Startup
@@ -117,6 +111,26 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 3. Locate the **Grammarly** app in the list and right-click on it. Click **Enable** from the context menu to launch Grammarly whenever you boot up your computer.  
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Sign Out and Sign In Again
 
  If Grammarly is not functioning as expected, try signing out and signing in again.
@@ -126,26 +140,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  To sign out from the Grammarly app, click the **Settings** option on its home screen. Then, navigate to the **Account** tab and click the **Sign out** button.
 
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
 
@@ -189,16 +183,16 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ![Windows Installed App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-installed-app-settings.jpg)
 4. Download and install the app again from [Grammarly.com](https://www.grammarly.com/desktop).
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Avoid downloading "cracked or modded versions" of freemium apps and services (like Grammarly), as they may contain malware that can harm your system!
 
  Reinstalling the Grammarly app is a one-shot process that resolves any ongoing issues with the app. If you're still experiencing difficulties, contact [Grammarly's support](https://support.grammarly.com/hc/en-us/requests/new#/) for further action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Hiccups While Writing With Grammarly
 
@@ -208,21 +202,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  In this article, we will guide you through some quick steps to fix common Grammarly app issues on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[New] SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-phantom-v-fold-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Phantom V Fold Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-the-default-paths-of-windows-11-accounts/"><u>Customizing the Default Paths of Windows 11 Accounts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-flawless-clipchamp-integration-on-newest-win11-version/"><u>Enable Flawless ClipChamp Integration on Newest Win11 Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-9-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 9 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-innovative-methods-for-straightforward-ios-screenshots/"><u>In 2024, Innovative Methods for Straightforward IOS Screenshots</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-stills-extraction-in-windows-11-photos-for-2024/"><u>Mastering Stills Extraction in Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-saving-procedures-in-windows-for-pubg/"><u>Streamlining Saving Procedures in Windows for PUBG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-steam-disc-operational-issues/"><u>The Ultimate Fix for Steam Disc Operational Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-25-perfect-presents-ideas-for-your-android-devotee/"><u>Top 25 Perfect Presents: Ideas for Your Android Devotee</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -230,3 +209,20 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-live-broadcast-with-periscope/"><u>[Updated] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-a6400-video-vanishing-how-to-stop-it/"><u>2024 Approved Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/abletons-soften-sound-strategies-for-2024/"><u>Ableton's Soften Sound Strategies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-the-challenge-of-filedirectory-corrupted-on-oses/"><u>Confronting the Challenge of File/Directory Corrupted on OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-stuck-fixing-non-installation-of-optional-windows-11-features/"><u>Getting Stuck? Fixing Non-Installation of Optional Windows 11 Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-office-policies-potential-consequences-of-using-chatgpt-in-the-workplace/"><u>Navigating Office Policies: Potential Consequences of Using ChatGPT in the Workplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-proxy-setup-on-the-latest-win-11/"><u>Step-by-Step Proxy Setup on the Latest Win 11</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-11-pro-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 Pro lock with iCloud</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-synergy-of-sound-the-8-premier-soundscape-titles-for-new-video-entrants/"><u>Updated In 2024, Synergy of Sound The 8 Premier Soundscape Titles for New Video Entrants</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-managing-peak-and-low-cpu-states/"><u>Windows Wizardry: Managing Peak and Low CPU States</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows' Refusal to Unfold with Double-Clicks
-date: 2024-09-11T18:31:54.287Z
-updated: 2024-09-16T22:11:59.550Z
+date: 2024-09-20T17:10:13.800Z
+updated: 2024-09-21T20:34:29.443Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Edit the Shell Registry Key
 
  Quite a few users have confirmed editing the **shell** registry key can fix the double-clicking of folders not working in Windows 11/10\. Those users changed that key’s **(Default)** string value to fix the issue. These are the steps for editing the **shell** key:
@@ -76,14 +83,14 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 ![The (Default) string value for the shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-default-string-value.jpg)
 6. Click **OK** to save the new **(Default)** string value.
 
- You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
 
 ## 5\. Edit the Mouse Registry Key
 
@@ -101,20 +108,13 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 5. Repeat the previous two steps for the **MouseHoverHeight**, **DoubleClickHeight**, and **DoubleClickWidth** strings in the **Mouse** key. Set their values to **4**, just like you did for the **MouseHoverWidth**string.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve finished adjusting those string values, exit the Registry Editor and restart your PC. If you find all those strings are already set to four, you don’t need to change them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Controlled Folder Access
 
@@ -127,24 +127,24 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 ![The tab sidebar in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-security-s-tab-sidebar.jpg)
 3. Scroll down a little and click on **Manage ransomware protection**.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
 4. Click the **Controlled folder access** toggle switch to turn off that setting.  
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Revert Windows to a Restore Point
@@ -165,20 +165,6 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
 
  This issue doesn’t necessarily mean users can’t open any folders, for they can still access directories by selecting **Open** on the right-click menu. However, selecting the **Open** context menu option isn’t the most ideal way to access them. If you can’t open folders by double-clicking them on your Windows 11/10 PC, try applying these potential fixes.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expertly-curated-list-of-10-best-windows-cameras/"><u>[New] In 2024, Expertly Curated List of 10 Best Windows Cameras</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-navigating-av1-your-initial-journey/"><u>[New] In 2024, Navigating AV1 Your Initial Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/icloud-photo-library-troubleshooting-how-to-overcome-sync-errors-successfully/"><u>ICloud Photo Library Troubleshooting - How to Overcome Sync Errors Successfully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme C55 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/s-best-time-lapse-video-editing-tools-a-comprehensive-review-for-2024/"><u>S Best Time-Lapse Video Editing Tools A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-fixes-resetting-windows-setup-post-reboot/"><u>Simple Fixes: Resetting Windows Setup Post-Reboot</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-saved-instagram-reels-tips-for-easy-retrieval-of-deleted-posts/"><u>Unveiling Saved Instagram Reels: Tips for Easy Retrieval of Deleted Posts</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -186,3 +172,22 @@ thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-turn-discord-livestreams-into-lasting-digital-memories/"><u>[New] How to Turn Discord Livestreams Into Lasting Digital Memories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-1-5-best-editors-apart-from-youtube-platform-for-2024/"><u>[Updated] 1-#5 Best Editors Apart From YouTube Platform for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-capture-clean-uninterrupted-media-snapshots/"><u>[Updated] 2024 Approved Capture Clean, Uninterrupted Media Snapshots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-artisans-guide-to-personal-branding-via-youtube/"><u>2024 Approved The Artisan's Guide to Personal Branding via YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-stranded-status-a-quick-guide-for-xbox-users/"><u>Bypassing ‘Stranded’ Status: A Quick Guide for Xbox Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-tus-audios-desde-aif-a-m4a-gratuitamente-en-linea-usando-el-innovador-software-de-movavi-para-conversiones-rapidas-y-seguras/"><u>Cambia Tus Audios Desde AIF a M4A Gratuitamente en Línea, Usando El Innovador Software De Movavi Para Conversiones Rápidas Y Seguras.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-audios-wav-directamente-al-formato-linea-congratuito-usando-herramientas-de-movavi/"><u>Convertir Audios WAV Directamente Al Formato Línea Congratuito Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dng-jpegpng/"><u>DNG 크리이프트 투 JPEG/PNG - 원격 송신용 무료 변환 서비스</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ting-success-channel-ideas-to-spark-momentum/"><u>Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-swf-to-avi-file-transformer-ultimate-guide-with-movavi-convert/"><u>Free Online Swf to Avi File Transformer - Ultimate Guide with Movavi Convert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-gratuita-de-instalacion-e-inicio-de-sesion-en-google-meet-desde-telefonos-inteligentes-y-pcs/"><u>Guía Gratuita De Instalación E Inicio De Sesión en Google Meet Desde Teléfonos Inteligentes Y PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-nexus-of-playfulness-for-young-gamers/"><u>In 2024, The Nexus of Playfulness for Young Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-13-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 13 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/standout-80s-aesthetics-for-video-editing-pros-for-2024/"><u>Standout '80S Aesthetics for Video Editing Pros for 2024</u></a></li>
+</ul></div>
+

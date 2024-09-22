@@ -1,7 +1,7 @@
 ---
 title: "Enrich Your Environment: Adding Tasks to Folder Context Menus"
-date: 2024-09-15T01:10:16.592Z
-updated: 2024-09-16T18:00:20.358Z
+date: 2024-09-15T21:43:54.465Z
+updated: 2024-09-21T19:53:07.589Z
 tags:
   - windows10
   - windows11
@@ -106,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
@@ -137,13 +131,21 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-breaking-barriers-how-to-enjoy-virtual-journeys-for-2024/"><u>[Updated] Breaking Barriers How to Enjoy Virtual Journeys for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-scheduling-combining-to-do-and-ifttt-services/"><u>Efficient Scheduling: Combining To-Do and IFTTT Services</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-negative-space-creating-youtube-reverse-videos/"><u>In 2024, Negative Space Creating YouTube Reverse Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>In 2024, Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-tips-for-setting-windows-time-locally/"><u>Instant Tips for Setting Windows Time Locally</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prepare-for-upgrading-graphics-cards-with-interchangeable-cooling-systems/"><u>Prepare for Upgrading Graphics Cards with Interchangeable Cooling Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-11-way-mastery-of-software-uninstallation/"><u>The Windows 11 Way: Mastery of Software Uninstallation</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-16-free-avi-video-rotator-tools-a-comprehensive-guide-for-all-devices/"><u>Updated 16 Free AVI Video Rotator Tools A Comprehensive Guide for All Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-through-tech-barriers-record-any-youtube-live-with-ease/"><u>[Updated] 2024 Approved Navigating Through Tech Barriers Record Any YouTube Live with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-step-by-step-guide-to-desktop-image-fusion/"><u>[Updated] A Step-by-Step Guide to Desktop Image Fusion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-starting-free-youtube-ad-campaigns-a-step-by-step-tutorial/"><u>[Updated] Starting Free YouTube Ad Campaigns A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-clarity-top-windows-11-display-tweaks/"><u>Enhancing Clarity: Top Windows 11 Display Tweaks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715701114937-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-for-finding-perfect-spot-for-gaming-drivers/"><u>Hacks for Finding Perfect Spot for Gaming Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-your-email-address-from-the-login-screen-in-windows/"><u>How to Remove Your Email Address From the Login Screen in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-astra-pilot-in-windows-11-solutions-now/"><u>Lost Astra Pilot In Windows 11: Solutions Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-word-docx-to-pdf-conversion-on-windows-11/"><u>Mastering Word Docx to PDF Conversion on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-fixing-windows-update-problems/"><u>Navigating and Fixing Windows Update Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-stabilization-tech-iphoneandroiddslr-focused/"><u>Optimal Stabilization Tech IPhone/Android/DSLR Focused</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-function-keys-on-windows-10-pcs/"><u>Restore Function Keys on Windows 10 PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-spellbreaks-pc-crash-issues-expert-guidance/"><u>Solving Spellbreak's PC Crash Issues - Expert Guidance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-could-not-start-speech-recognition-windows-error/"><u>Steps to Rectify 'Could Not Start' Speech Recognition Windows Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007278229-trouble-with-logitech-c920-heres-how-to-get-your-webcam-up-and-running-again/"><u>Trouble with Logitech C920? Here's How to Get Your Webcam Up and Running Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Windows' Hidden Features for Context Commands
-date: 2024-09-16T05:05:29.979Z
-updated: 2024-09-16T23:23:26.189Z
+date: 2024-09-20T04:29:16.197Z
+updated: 2024-09-22T04:19:14.115Z
 tags:
   - windows10
   - windows11
@@ -76,25 +76,6 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tricks-of-the-trade-for-instagram-video-preservation/"><u>[New] 2024 Approved Tricks of the Trade for Instagram Video Preservation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-6-most-used-4k-youtube-converters-to-compare/"><u>[New] 6 Most-Used 4K YouTube Converters to Compare</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fiverr-cover-content-proportions/"><u>[New] Fiverr Cover Content Proportions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-allure-vs-warnings-of-virtual-reality-worlds/"><u>[Updated] The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-windows-11-tpm-removal-techniques-explored/"><u>Effortless Windows 11 TPM Removal Techniques Explored</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-overcoming-problems-with-opening-the-nvidia-control-panel/"><u>Expert Advice: Overcoming Problems with Opening the NVIDIA Control Panel</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722961034671-get-the-new-steelseries-engine-for-enhanced-performance-on-windows-11-immediate-download-available/"><u>Get the New SteelSeries Engine for Enhanced Performance on Windows 11 – Immediate Download Available</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-tips-for-setting-windows-time-locally/"><u>Instant Tips for Setting Windows Time Locally</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-11-temporary-files-reliable-and-valid/"><u>Keeping Your Windows 11 Temporary Files Reliable & Valid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quell-windows-audio-intensity-protocols/"><u>Quell Windows' Audio Intensity Protocols</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stabilizing-vscode-on-windows-11-systems/"><u>Stabilizing VSCode on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-11-way-mastery-of-software-uninstallation/"><u>The Windows 11 Way: Mastery of Software Uninstallation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-360-view-camera-analysis/"><u>Ultimate 360-View Camera Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-on-windows-ultimate-guide-to-overcoming-slow-server-response-time/"><u>Valheim on Windows: Ultimate Guide to Overcoming Slow Server Response Time</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -103,10 +84,26 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
       data-full-width-responsive="true"></ins>
     
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-optibackup-insider-opinions/"><u>[New] In 2024, OptiBackup Insider Opinions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-best-cams-for-professional-streaming/"><u>[Updated] In 2024, The Ultimate Guide Best Cams for Professional Streaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-live-streaming-pre-recorded-videos-the-facebook-approach-for-2024/"><u>[Updated] Live Streaming Pre-Recorded Videos The Facebook Approach for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/choosing-the-right-fps-30-or-60-which-is-better-in-2024/"><u>Choosing the Right FPS 30 or 60, Which Is Better, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-images-with-movavis-on-line-tool-fast-free-from-tga-to-gif/"><u>Convert Your Images with Movavi's On-Line Tool - Fast, Free, From TGA to GIF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-votre-fichier-vers-une-video-mp4-sans-cout-utiliser-movavi-online/"><u>Convertissez Votre Fichier Vers Une Vidéo MP4 Sans Coût - Utiliser Movavi Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guida-passo-passo-per-convertire-mmf-in-mp3-online-senza-costi-con-laiuto-di-movavi-impara-come-gestire-la-tua-musica-semplicemente/"><u>Guida Passo-Passo per Convertire MMF in MP3 Online Senza Costi Con L'Aiuto Di Movavi: Impara Come Gestire La Tua Musica Semplicemente!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacer-tu-snd-lineal-sin-gastos-con-movavi-tutorial-paso-a-paso/"><u>Hacer Tu SND Lineal Sin Gastos Con Movavi: Tutorial Paso a Paso</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/le-chat-vs-chatgpt-our-in-depth-review-of-two-popular-ai-chatbots/"><u>Le Chat vs ChatGPT - Our In-Depth Review of Two Popular AI Chatbots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mxf-movavi/"><u>MXFファイルの無料オンライン変換サービス - Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>New Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

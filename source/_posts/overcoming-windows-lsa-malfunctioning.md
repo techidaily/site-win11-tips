@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows LSA Malfunctioning
-date: 2024-09-13T02:56:59.623Z
-updated: 2024-09-16T18:33:37.739Z
+date: 2024-09-18T02:13:51.466Z
+updated: 2024-09-22T04:09:35.622Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the Group Policy Settings
 
  If the above steps don't help, you might need to configure LSA manually. It involves editing the Local Group Policy Editor and setting some specific settings. However, this tool only works with Windows 11 Professional and Enterprise editions.
@@ -71,11 +64,26 @@ Administrative Templates > System > Local Security Authority
 5. Double-click **Configure LSASS to run as a protected process** in the right pane.  
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
  After making the above changes, restart your computer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -90,13 +98,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 5. In the right pane, double-click on **RunAsPPL** to open Edit DWORD (32-bit) Value.  
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
 6. Change the Value data from 0 to **2** and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
@@ -118,49 +119,24 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the LSA Protection Error on Windows
 
  Local Security Authority protection safeguards unauthorized access to system resources, such as passwords or other sensitive information. However, this feature might not work as expected due to LSA Protection Error. Thanks to the potential solutions discussed in this guide, solving the problem is easy.
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-the-free-path-of-fcp-for-2024/"><u>[Updated] Navigating the Free Path of FCP for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-playbook-for-team-call-recording-desktopmobile/"><u>[Updated] The Complete Playbook for Team Call Recording (Desktop/Mobile)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-makeup-mavens-handbook-youtube-edition/"><u>[Updated] The Makeup Maven’s Handbook YouTube Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-look-at-yahoo-messenger-and-the-decision-to-discontinue/"><u>A Comprehensive Look at Yahoo! Messenger & The Decision to Discontinue</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-the-loop-how-to-prevent-unwanted-reboots-on-your-pc-running-windows-10/"><u>Breaking the Loop: How to Prevent Unwanted Reboots on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canon-mg2900-find-and-install-the-latest-drivers-for-perfect-printing-performance/"><u>Canon MG2900 - Find & Install the Latest Drivers for Perfect Printing Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hero-session-vs-hero-session-duel/"><u>Hero Session Vs Hero Session Duel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-storage-4-methods-for-accessing-windows-disk-manager/"><u>Maximizing Storage: 4 Methods for Accessing Windows Disk Manager</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-ultimate-fixes-for-jurassic-world-evolution-crashing-issues/"><u>Overcome Technical Glitches: Ultimate Fixes for 'Jurassic World Evolution' Crashing Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethinking-remote-work-lightweight-tech-innovations/"><u>Rethinking Remote Work: Lightweight Tech Innovations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-vlc-unsupported-media-on-windows-problem/"><u>Tackling the 'VLC Unsupported Media' On-Windows Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-windows-11-bluetooth-pairing-errors/"><u>Troubleshooting Steps for Windows 11 Bluetooth Pairing Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-power-and-precision-winning-with-windows-os/"><u>Unleashing Power and Precision: Winning with Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-are-app-execution-aliases-and-how-do-you-use-them/"><u>What Are App Execution Aliases, and How Do You Use Them?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-limited-access-woes-try-these-9-innovative-solutions/"><u>Win11's Limited Access Woes? Try These 9 Innovative Solutions</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +145,23 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-first-steps-into-facebook-data-analysis-for-new-users/"><u>[New] 2024 Approved First Steps Into Facebook Data Analysis for New Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elevate-your-vision-experience-these-7-grading-styles/"><u>[New] Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-monthly-revenue-streams-for-video-content-creators/"><u>[Updated] 2024 Approved Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222411252-ape-movavi/"><u>無料APEファイル変換ツールで高品質音楽を再生 - Movavi動的オンラインビデオコンバート</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-android-apps-for-free-photo-editing-in-may-2024-discover-the-top-picks/"><u>Best Android Apps for Free Photo Editing in May 2024: Discover the Top Picks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-3gp-vers-format-swf-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP Vers Format SWF Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-tool-convert-your-files-from-mp3-to-ogg-format-with-ease/"><u>Free Online Tool: Convert Your Files From MP3 to Ogg Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuiti-convertitore-live-streaming-mxf-softonic/"><u>Gratuiti Convertitore Live Streaming MXF - Softonic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-g42-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia G42 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/necekane-rysy-tykani-jak-opravit-videovy-hledat/"><u>Nečekané Rysy Týkání - Jak Opravit Videový Hledat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-source-for-in-depth-hardware-analysis-toms-equipment-advice/"><u>The Ultimate Source for In-Depth Hardware Analysis - Tom's Equipment Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-pro-4g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-avi-in-mp4-gratuitamente-online-usando-movavi-metodo-facile-e-veloce/"><u>Trasforma I Tuoi AVI in MP4 Gratuitamente Online Usando Movavi - Metodo Facile E Veloce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-removing-fortnites-lag-free-edits-proven-solutions/"><u>Ultimate Guide: Removing Fortnite's Lag-Free Edits – Proven Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-clone-yourself-in-videos-with-filmora/"><u>Updated In 2024, Clone Yourself in Videos with Filmora</u></a></li>
+</ul></div>
+

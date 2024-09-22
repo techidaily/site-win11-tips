@@ -1,7 +1,7 @@
 ---
 title: "Lowering the Load: Strategies to Reduce UMS Impact on Your System"
-date: 2024-09-10T06:42:32.474Z
-updated: 2024-09-17T04:40:05.617Z
+date: 2024-09-16T23:35:32.126Z
+updated: 2024-09-21T20:14:52.861Z
 tags:
   - windows10
   - windows11
@@ -59,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
@@ -92,38 +86,18 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![Go to Properties of Vgc Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-properties-of-vgc-service-in-windows-services-app.jpg)
 3. Navigate to the **General** tab, and click on the **Stop** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. After that, restart the service by clicking on the **Start** button again.  
 ![Stop the Vgc Service in the General Tab of Properties Window in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-stop-the-vgc-service-in-the-general-tab-of-properties-window-in-windows-services-app.jpg)
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Overlays
 
@@ -135,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![Check the Assigned Hotkey Under Toggle Overlay Lock in the Discord's Game Overlay Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-check-the-assigned-hotkey-under-toggle-overlay-lock-in-the-discord-s-game-overlay-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Move Valorant to a Different Drive
 
  Installing Valorant on the same drive as your operating system has been reported to cause problems. If you've also installed the game on the same drive where your OS resides, it's possible that Windows security could be hindering Vanguard's activity, making it consume more resources.
@@ -142,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Install a Fresh Copy of Vanguard
@@ -155,6 +136,19 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  Once that's done, follow the instructions in our [guide on uninstalling software on Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and uninstall Vanguard. Afterward, rerun Valorant and Riot Vanguard will be installed automatically.
 
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
@@ -166,20 +160,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
  If you want to reduce the CPU usage of the Vanguard user-mode service process and play Valorant seamlessly, here are some fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[New] Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
-<li><a href="https://win-forum.techidaily.com/defend-your-data-protecting-text-file-with-simple-password-techniques-explored/"><u>Defend Your Data: Protecting Text File with Simple Password Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-window-file-tracking-on-windows/"><u>Effortless Window File Tracking on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-30-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Hot 30 5G Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pre-upgrade-knowledge-key-elements-explained/"><u>In 2024, Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-class-nullifying-stealthy-windows-apps/"><u>Master Class: Nullifying Stealthy Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshot-of-uac-dialogues/"><u>Navigating Windows Screenshot of UAC Dialogues</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tips-for-endlessly-playing-facebook-videos-for-2024/"><u>Tips for Endlessly Playing Facebook Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1720600234515-windows/"><u>ステラデータリカバリー: Windows版無料データ復旧プログラム</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +167,22 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-art-of-documenting-dynamic-ppt-presentations/"><u>[New] 2024 Approved The Art of Documenting Dynamic PPT Presentations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-navigating-gameplay-preservation-in-windows-10/"><u>[New] In 2024, Navigating Gameplay Preservation in Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-music-blends/"><u>[New] Mastering YouTube Music Blends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-beginning-to-connect-a-comprehensive-facebook-setup-walkthrough/"><u>2024 Approved Beginning to Connect A Comprehensive Facebook Setup Walkthrough</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-champion-firefox-capture-extensions/"><u>2024 Approved Champion FireFox Capture Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222597690-movavi/"><u>如何抗水印？专业指南：Movavi 编辑器和更多应用产品</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5lia6bo06ama5lq677ya55so5ycs6l2j5oqa6kgt5oplusq6auy5b2x54mh5yig5p6qic0g57ch5zau5oyh5y2x5zkm5lil6lyj5bel5yw3/"><u>一鳴驚人：用倒轉技術提高影片分析 - 簡單指南和下載工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/au-movavi/"><u>Au音楽ファイルを自由に変換! Movaviオンライン無料ツール</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-generative-ai-on-modern-day-information-manipulation-techniques/"><u>Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-convertisseur-video-avi-en-ligne-moviwizard/"><u>Gratuito Convertisseur Vidéo AVI en Ligne - MoviWizard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y77t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y77t</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-mov-en-ligne-moovavi/"><u>Transformer Gratuitement Un Fichier AVI en Format MOV en Ligne - Moovavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavim4v/"><u>ダイナミックなビデオ変換: MovaviスウィフトからM4Vへ、無償でオンライン実行可能!</u></a></li>
+</ul></div>
+

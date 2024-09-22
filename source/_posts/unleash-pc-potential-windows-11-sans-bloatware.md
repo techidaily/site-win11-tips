@@ -1,7 +1,7 @@
 ---
 title: "Unleash PC Potential: Windows 11, Sans Bloatware"
-date: 2024-09-16T04:49:51.363Z
-updated: 2024-09-17T00:54:21.706Z
+date: 2024-09-19T23:42:12.023Z
+updated: 2024-09-22T03:06:20.078Z
 tags:
   - windows10
   - windows11
@@ -43,41 +43,21 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  If you're ready to go, here's how to get started with Tiny11:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Downloading Tiny11 ISO File and Creating a Bootable USB Drive
 
  The installation method is pretty straightforward. All you need to do is to[download the Tiny11 ISO image file](https://archive.org/details/tiny-11-NTDEV/Screenshot%5F20230203-100044%5FYouTube.jpg) . It is available on the internet archive website and there isn't any official website from the makers yet. Scroll down and pick the most recent build of Tiny11 and select download.
 
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Installing Tiny11
@@ -92,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
 2. Select your country or region and click on the**Yes** button. Then, pick your preferred keyboard layout and click on the**Yes** button. Click on the**Skip** button when the setup asks for selecting a second keyboard layout.
 3. Click on the**I don’t have internet** option. Then click on**Continue with limited setup** option.  
@@ -104,24 +91,31 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tiny11: The Good Points
 
  When the system booted to the desktop for the first time, it was difficult to notice any visual difference. But as soon as you press the Start button, you will notice the difference. The start menu is almost blank with only a few basic apps like Notepad, Microsoft Store, Calculator, File Explorer, Photos, and Settings.
 
 ![List of installed apps in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/list-of-installed-apps-in-tiny11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use[a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like[Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
 
  Coming to the performance aspect, we first tested it on a virtual machine with 2 GB RAM and two processor cores. The system was usable but after launching a web browser the CPU usage and Memory usage shot to 75 percent levels. When we opened a few more tabs, the CPU and RAM usage hovered in the 90-100 percent range. So, it is best if you use a system with a processor that has four or more cores and at least 4 GB RAM to run and multitask smoothly.
 
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Glaring Concerns With Tiny11
 
@@ -148,14 +142,20 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capture-the-scene-without-breaking-the-bank-with-free-tools/"><u>[Updated] In 2024, Capture the Scene without Breaking the Bank with Free Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-golden-threshold-of-youtubes-monetization/"><u>2024 Approved The Golden Threshold of YouTube's Monetization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pioneer-bdr-xs06-slot-loading-portable-blu-ray-burner-review/"><u>Pioneer BDR-XS06 Slot Loading Portable Blu-Ray Burner Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-non-functional-microsoft-store-in-windows-11/"><u>Quick Fix for Non-Functional Microsoft Store in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-world-of-warcraft-from-crashing-easy-steps-and-tips-for-gamers/"><u>Stop 'World of Warcraft' From Crashing: Easy Steps & Tips for Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-hidden-risks-of-ignoring-windows-11-notification-sounds/"><u>The Hidden Risks of Ignoring Windows 11 Notification Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-of-windows-credentials-with-these-top-11-strategies/"><u>Unlock the Mystery of Windows Credentials with These Top 11 Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-sony-vegas-transforms-ordinary-footage-into-youtube-stardom/"><u>[New] 2024 Approved How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-warriors-echoes-celebrating-ghost-of-tsushima-analogues/"><u>[New] In 2024, Warrior's Echoes Celebrating Ghost of Tsushima Analogues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/trategic-trailer-planning-for-increased-channels-profitability-for-2024/"><u>[New] Strategic Trailer Planning for Increased Channels' Profitability for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-to-snapchat-stardom-become-a-gif-virtuoso/"><u>2024 Approved Step-by-Step to Snapchat Stardom Become a GIF Virtuoso</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226684260-pgmpng-movavi/"><u>網路無限制地免費過渡PGM到PNG - 使用Movavi改變格式</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221539564-aviswf-movavi/"><u>網頁版AVI到SWF自由下載 - MOVAVI影片轉化工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cambia-file-wav-a-formato-aiff-gratuitamente-online-con-convertitore-wav-aiff-di-movavi/"><u>Cambia File WAV a Formato AIFF Gratuitamente Online Con Convertitore WAV-AIFF Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-libre-de-wav-con-garantia-de-excelente-calidad-servicios-online/"><u>Conversión Libre De WAV Con Garantía De Excelente Calidad: Servicios Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957419681-get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-melhores-ferramentas-publicas-top-9-para-a-criacao-de-discos-oticos-em-computadores-desktopportatil/"><u>Os Melhores Ferramentas Públicas Top 9 Para a Criação De Discos Óticos Em Computadores Desktop/Portátil</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-netgear-a6100-download-updated-drivers-compatible-with-windows-operating-systems/"><u>Secure Your Netgear A6100: Download Updated Drivers Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-aiff-in-mp3-gratuitamente-con-movavi-il-metodo-piu-semplice/"><u>Trasforma I Tuoi AIFF in MP3 Gratuitamente Con Movavi - Il Metodo Più Semplice!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wav-vs-mp3-a-comprehensive-guide-for-high-quality-audio-movavi/"><u>Understanding WAV Vs. MP3: A Comprehensive Guide for High-Quality Audio - Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-moto-g23-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Moto G23? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

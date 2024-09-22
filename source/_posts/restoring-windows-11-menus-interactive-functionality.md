@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows 11 Menus' Interactive Functionality
-date: 2024-09-09T20:29:05.715Z
-updated: 2024-09-17T05:35:50.138Z
+date: 2024-09-15T16:20:56.061Z
+updated: 2024-09-21T21:26:39.367Z
 tags:
   - windows10
   - windows11
@@ -78,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-dword-window.jpg)
 7. Set the **NoViewContextMenu** value to **0** in the **data** box if it’s not already and click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Modify the ContextMenuHandlers Key
 
  Modifying the ContextMenuHandlers key is another widely confirmed way to fix the context menu. However, this registry tweak involves deleting some keys. So, we recommend you [create a System Restore point](https://www.makeuseof.com/windows-11-create-restore-point/) or [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before applying this potential solution. Then modify the ContextMenuHandlers key as follows:
@@ -88,34 +95,21 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-delete-option.jpg)
 3. Click **Yes** when prompted to provide confirmation.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat the previous two steps to erase the other subkeys in **ContextMenuHandlers**, but do not delete **WorkFolders**, **FileSyncEx**, **New**, and **Sharing**.  
 ![The ContextMenuHandlers key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/contextmenuhandlers-key.jpg)
 5. Exit Registry Editor and select to restart your Windows PC.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Update Your Mouse’s Driver
@@ -123,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
  The mouse is the peripheral with which users activate the context menu. Although not an especially likely cause, it’s possible your context menu isn’t working because your mouse’s driver is faulty or outdated. So, try updating the driver for your mouse. We have a guide about [finding and replacing old device drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) that provides details for how you can apply this potential fix.
 
 ![A mouse driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-download-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Incidentally, you check if the context menu not working is a mouse issue by utilizing the hotkey for that menu. Try pressing the **Shift** \+ **F10** hotkey when on the desktop to see if that opens the context menu. Or select a desktop shortcut and press that keyboard shortcut. If the context menu works then, there could be an issue with your mouse or its right button.
 
@@ -134,14 +135,14 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve set the clean boot, restart Windows and right-click on the desktop to see if the context menu works ok. If it does, then it’s probably better to leave the boot configuration as set. However, you can try to identify what program or service was causing the issue by gradually re-enabling disabled startup apps and services until the context menu stops working again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Disable Third-Party Context Menu Shell Extensions With CCleaner
 
@@ -154,29 +155,16 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 ![The Install option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-button.jpg)
 5. Open CCleaner and click its **Tools** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click the **Startup** and **Context Menu** tabs.
 7. Look at the Program column to identify third-party shell extensions listed there.  
 ![The Context Menu tab in CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-context-menu-tab-in-cccleaner.jpg)
 8. Select third-party shell extensions and click **Disable** to turn them off.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Desktop Context Menu Fixed With These Resolutions
@@ -187,24 +175,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  Although desktop context menu access is seldom essential, it offers handy shortcuts, especially when you've customized it. So, it’s important to fix the desktop context menu when it’s not working. If your Windows desktop context menu isn’t functioning right, try applying the troubleshooting methods below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-sky-high-creations-professional-tips-for-drone-video-mastery/"><u>[New] Sky High Creations Professional Tips for Drone Video Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snippet-showcase-cinematic-samples-for-editing-artists/"><u>[New] Snippet Showcase Cinematic Samples for Editing Artists</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-smooth-and-simple-guide-to-iphone-screensaving-process/"><u>[Updated] Smooth & Simple Guide to Iphone Screensaving Process</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-undead-uprising-your-guide-to-engrossing-zombie-playtime/"><u>[Updated] Undead Uprising Your Guide to Engrossing Zombie Playtime</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-11-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 11 Pro Max without App | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/delivering-significant-gains-in-windows-11/"><u>Delivering Significant Gains in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-enhanced-wellness-tracking-opt-for-fitbit-sense-rather-than-apple-watch/"><u>Discover Enhanced Wellness Tracking: Opt for Fitbit Sense Rather than Apple Watch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-launcher-not-found-on-pc/"><u>Eliminating Launcher Not Found on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-dvd-ripper-software-best-tools-for-converting-dvds-on-windows-11-10-8-7-vista-and-xp/"><u>Free DVD Ripper Software: Best Tools for Converting DVDs on Windows 11, 10, 8, 7, Vista & XP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gear-up-performance-the-ultimate-vram-upgrade-plan-for-windows/"><u>Gear Up Performance - The Ultimate VRAM Upgrade Plan for Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V30 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-network-connections-quickly/"><u>Navigating Through Windows Network Connections Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-problems-with-youtube-connectivity-and-performance/"><u>Overcoming Common Problems with YouTube Connectivity and Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-isolating-subjects-from-their-borders/"><u>Ultimate Guide to Isolating Subjects From Their Borders</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +182,22 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-building-engagement-with-professional-fb-video-techniques/"><u>[New] Building Engagement with Professional FB Video Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-culinary-crescendo-high-impact-food-network-monikers/"><u>[New] In 2024, Culinary Crescendo High-Impact Food Network Monikers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamline-your-filming-gameplay-on-fbx/"><u>[Updated] 2024 Approved Streamline Your Filming - Gameplay on FBX</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-quickly-snag-and-store-gifs-from-your-favorite-social-networks-for-2024/"><u>[Updated] Quickly Snag and Store GIFs From Your Favorite Social Networks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-mpegmod/"><u>使用 Movavi 自由轉換 MPEG/MOD格式 - 網上免費工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alawmp3-movavi/"><u>直接在線上將Alaw音頻轉成MP3 - 使用Movavi無限免費工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converti-file-m4a-in-formato-mp3-di-fatto-a-secco-free-on-web/"><u>Converti File .m4a in Formato .mp3 Di Fatto a Secco - Free on Web</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-convert-aifc-files-to-mp4-format-using-movavi/"><u>Free Online Converter - Convert AIFC Files to MP4 Format Using Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/historys-heaviest-battles-rts-review-of-7-epic-games/"><u>History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-get-royalty-free-music-for-your-youtube-videos/"><u>How To Get Royalty Free Music for Your YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-with-manycam-the-top-virtual-camera-software-solution/"><u>Live Streaming with ManyCam: The Top Virtual Camera Software Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr-for-2024/"><u>Quantum HDR Everything You May Want to Know About Quantum HDR for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-ts-in-mpeg-senza-costi-su-filmix-la-soluzione-piu-efficace-per-convertire-video/"><u>Trasforma I File TS in MPEG Senza Costi Su Filmix - La Soluzione Più Efficace per Convertire Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmvwebmmovavi/"><u>オンラインでのWMV/WEBMコンバーター：移行ツールとしてMovavi紹介 - ファイル変換無料プログラム</u></a></li>
+</ul></div>
+

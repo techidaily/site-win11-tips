@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Defeat the Requires Elevation Hurdle in Win 11
-date: 2024-09-16T01:32:25.834Z
-updated: 2024-09-16T20:17:17.728Z
+date: 2024-09-20T00:26:51.001Z
+updated: 2024-09-22T05:51:53.572Z
 tags:
   - windows10
   - windows11
@@ -62,22 +62,31 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -95,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
@@ -117,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 4. Select **Apply** to turn off Admin Approval Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To close the policy window, select the **OK** option.
@@ -142,41 +144,19 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-epic-zombie-battles-our-favorites-revealed/"><u>[New] 2024 Approved Epic Zombie Battles Our Favorites Revealed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-elevating-your-audioshifting-game-with-premiere-pro-for-2024/"><u>[New] Elevating Your Audioshifting Game with Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-screens-to-social-shares-your-guide-to-popular-metaverse-memes/"><u>2024 Approved From Screens to Social Shares Your Guide to Popular Metaverse Memes</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-urges-step-back-from-screen-embrace-life/"><u>Instagram Urges: Step Back From Screen, Embrace Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-email-failures-addressing-0x80072746-in-windows/"><u>Overcoming Email Failures: Addressing 0X80072746 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-uninstallation-tips-for-non-functioning-printers-on-win-1011/"><u>Quick Uninstallation Tips for Non-Functioning Printers on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-frozen-opera-downloads-on-your-pc-windows/"><u>Revitalize Frozen Opera Downloads on Your PC Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-steam-video-playback-on-pc/"><u>Strategies to Improve Steam Video Playback on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-trailblazers-opening-game-data-easily-in-windows/"><u>Tech Trailblazers: Opening Game Data Easily in Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-poco-c51-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Poco C51 Location | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-frozen-dell-mouse-on-win7/"><u>Unlock Frozen Dell Mouse on Win7</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +165,22 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-science-of-scheduling-perfect-times-for-your-ig-posts-for-2024/"><u>[Updated] The Science of Scheduling Perfect Times for Your IG Posts for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028661905-gif/"><u>「うまく動くGIFを制御する - アニメーションスピードの最適化方法」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-boost-workout-zeal-curated-list-of-top-tier-training-songs/"><u>2024 Approved Boost Workout Zeal Curated List of Top-Tier Training Songs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comprehensive-tiktok-tools-and-techniques-a-guide-for-2024/"><u>Comprehensive TikTok Tools & Techniques A Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-your-environment-adding-tasks-to-folder-context-menus/"><u>Enrich Your Environment: Adding Tasks to Folder Context Menus</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-ace-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Ace 3 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-education-with-chatgpt-top-5-applications-in-the-schooling-space/"><u>Redefining Education with ChatGPT: Top 5 Applications in the Schooling Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steam-not-functioning-for-game-launch-on-windows-11/"><u>Resolving Steam Not Functioning for Game Launch on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simplifying-audio-quality-a-guide-to-using-a-flac-normalizer/"><u>Simplifying Audio Quality: A Guide to Using a FLAC Normalizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11s-file-management-adding-custom-movecopy-menus/"><u>Tailoring Windows 11'S File Management: Adding Custom Move/Copy Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-alert-7-symptoms-needed-a-fresh-start/"><u>Windows Alert: 7 Symptoms Needed a Fresh Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/zenith-studiokit-budget-friendly-umbrella-glows/"><u>Zenith StudioKit: Budget-Friendly Umbrella Glows</u></a></li>
+</ul></div>
+

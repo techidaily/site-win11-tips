@@ -1,7 +1,7 @@
 ---
 title: How to Enable Archive Support on Windows 11
-date: 2024-09-16T01:39:43.411Z
-updated: 2024-09-17T06:15:38.138Z
+date: 2024-09-17T05:34:55.090Z
+updated: 2024-09-22T03:15:44.255Z
 tags:
   - windows10
   - windows11
@@ -85,25 +85,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-web-add-on-fb-stories-repository-app/"><u>[New] 2024 Approved Web Add-On FB Stories Repository App</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-download-optimized-geforce-rtx-3060-ti-driver-packs-perfect-for-windows-11-users/"><u>[Secure Download] Optimized GeForce RTX 3060 Ti Driver Packs - Perfect for Windows 11 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2022s-ice-showcase-a-look-at-the-best-performers/"><u>2022'S Ice Showcase A Look at the Best Performers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-overcoming-windows-errors/"><u>Corrective Measures for Overcoming Windows Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-a-spectacited-photographic-display/"><u>Crafting a Spectacited Photographic Display</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-12-mini-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 12 mini Activation Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-t2x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo T2x 5G?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-during-utorrent-setup-on-windows-systems/"><u>Overcoming Obstacles During uTorrent Setup on Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-issues-with-counter-strike-2-launch-failures/"><u>Resolving Issues with Counter-Strike 2 Launch Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-limiting-user-access-in-windows-folders/"><u>Techniques for Limiting User Access in Windows Folders</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-mechanism-of-windows-11s-autobackup-feature/"><u>Understanding the Mechanism of Windows 11'S AutoBackup Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-data-potential-four-ways-to-tap-into-disk-editor-settings-on-windows-11/"><u>Unlock Data Potential: Four Ways to Tap Into Disk Editor Settings on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-file-path-for-stored-screenshots/"><u>Windows File Path for Stored Screenshots</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,10 +93,27 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
       data-full-width-responsive="true"></ins>
     
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-meme-mastery-iphone-edition/"><u>[New] Meme Mastery IPhone Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-capture-the-essence-in-cloud-mix-free-space-plus-charged-backup-sanctuaries-for-2024/"><u>[Updated] Capture the Essence in Cloud Mix Free Space + Charged Backup Sanctuaries for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enabling-use-of-apples-map-service-in-windows-environment/"><u>Enabling Use of Apple's Map Service in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-windows-11s-sluggish-search-bar-on-the-settings-screen/"><u>How To Revive Windows 11'S Sluggish Search Bar on the Settings Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-accessible-top-10-budget-friendly-mobile-viewing-apps/"><u>In 2024, Affordable, Accessible Top 10 Budget-Friendly Mobile Viewing Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-without-hurdles-for-printer/"><u>Installation Without Hurdles for Printer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modern-standby-in-windows-os-a-critical-take/"><u>Modern Standby in Windows OS: A Critical Take</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-entrepreneurs-pathway-to-youtube-earning-success-for-2024/"><u>The Entrepreneur's Pathway to YouTube Earning Success for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-free-photo-editor-showdown-15-best-in-class/"><u>The Free Photo Editor Showdown #15 Best in Class</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pivot-point-of-time-the-taskbar-narrative/"><u>The Pivot Point of Time: The Taskbar Narrative</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-transformation-mp4-plus-srt-success-for-2024/"><u>The Ultimate Transformation MP4 + SRT Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solutions-to-fix-any-installer-fiasco-in-win11/"><u>Unlocking Solutions to Fix Any Installer Fiasco in Win11</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

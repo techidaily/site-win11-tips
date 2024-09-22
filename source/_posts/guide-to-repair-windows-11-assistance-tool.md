@@ -1,7 +1,7 @@
 ---
 title: Guide to Repair Windows 11 Assistance Tool
-date: 2024-09-14T02:58:22.847Z
-updated: 2024-09-16T22:45:43.387Z
+date: 2024-09-19T18:34:37.283Z
+updated: 2024-09-21T17:06:32.819Z
 tags:
   - windows10
   - windows11
@@ -72,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
@@ -100,17 +87,18 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 1. You can use the Services app to manage all the Windows services. To open that, press **Win + R** and type **services.msc**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -124,15 +112,23 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 2. Click on the button matching your system's architecture under the **Evergreen Standalone Installer** heading. Alternatively, click the **Download** button under the **Evergreen Bootstrapper**.  
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
@@ -146,16 +142,10 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
@@ -166,23 +156,6 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-digital-audio-wizardry-turning-fb-videos-into-mp3/"><u>[Updated] 2024 Approved Digital Audio Wizardry Turning FB Videos Into MP3</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-optimize-performance-mac-screen-recording-made-easy-for-2024/"><u>[Updated] Optimize Performance Mac Screen Recording Made Easy for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparative-analysis-of-windows-toolsets-chkdsk-sfc-and-dissect/"><u>Comparative Analysis of Windows Toolsets: CHKDSK, SFC, & Dissect</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reclaim-write-permissions-on-windows-folders/"><u>How to Reclaim Write Permissions on Windows Folders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-process-for-deleting-stickers-from-tiktok/"><u>In 2024, Step-by-Step Process for Deleting Stickers From TikTok</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-secrets-of-obs-game-capture/"><u>In 2024, Unveiling the Secrets of OBS Game Capture</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-we-encountered-an-error-in-oculus-app-setup/"><u>Overcoming We Encountered an Error in Oculus App Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/queer-movie-recommendations-top-picks-from-netflix-in-jul-24/"><u>Queer Movie Recommendations: Top Picks From Netflix in Jul '24</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-directdraw-hurdles-in-windows-1011-systems/"><u>Resolving DirectDraw Hurdles in Windows 10/11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-error-incorrect-token-usage-in-windows-os/"><u>Steps to Address “Error: Incorrect Token Usage” In Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-search-box-how-to-use-it-in-win11-tm/"><u>Unveiling the Hidden Search Box – How to Use It in Win11 TM</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -190,3 +163,23 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nlock-viral-potential-with-youtube-short-strategies/"><u>[New] Unlock Viral Potential with YouTube Short Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[Updated] 2024 Approved Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-techniques-for-saving-roblox-playback-on-mac/"><u>[Updated] In 2024, Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-oggwav/"><u>「Movaviで使いやすい無料音声ファイル形式コンバーター - OGGとWAV」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-8-windows-podcast-platforms-guide/"><u>2024 Approved Leading 8-Windows Podcast Platforms Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aplicativos-top-para-alteracao-de-rosto-em-filmes-melhores-opcoes/"><u>Aplicativos Top Para Alteração De Rosto Em Filmes - Melhores Opções</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bmp-a-tiff-trasformazione-on-line-senza-costi-con-movavi/"><u>BMP a TIFF: Trasformazione On-Line Senza Costi Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-aac-to-ogg-konverteren-via-web-professioneel-en-eenvoudig/"><u>Gratis AAC-to-Ogg Konverteren via Web - Professioneel en Eenvoudig</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-webm-to-avi-conversion-overheenlijnen-met-movavi-online-vervangend-videokunstwerk/"><u>Kostenloze Webm to Avi Conversion Overheenlijnen Met Movavi - Online Vervangend Videokunstwerk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4r-mp4-movavi/"><u>무세약 M4R를 MP4로 자유성 전환기: Movavi의 쉬운 방법 - 인터넷 연결에서 사용하시오!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviwmawebm/"><u>すべてが自由！MovaviによるWMAファイルをWEBMに驚くべき瞬間移動</u></a></li>
+</ul></div>
+

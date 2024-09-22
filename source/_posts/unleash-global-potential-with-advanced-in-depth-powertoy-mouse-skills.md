@@ -1,7 +1,7 @@
 ---
 title: Unleash Global Potential with Advanced, In-Depth PowerToy Mouse Skills
-date: 2024-09-15T22:42:59.766Z
-updated: 2024-09-16T18:31:40.277Z
+date: 2024-09-17T16:48:26.294Z
+updated: 2024-09-22T02:46:23.361Z
 tags:
   - windows10
   - windows11
@@ -64,31 +64,26 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 ![Enable PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-powertoys-peek.jpg)
 3. Now, you need to configure the shortcut key to activate the “Peek” feature. Click on the **edit** icon next to the **Activation shortcut** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the **Ctrl + Shift + Space** keys at once to set the new key combination. Click on the **Save** button.  
 ![Assign Shortcut key to PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/assign-shortcut-key-to-powertoys-peek.jpg)
 5. Press **Win + E** to open the File Explorer. **Click** on any file to select it. Then press the “Peek” shortcut key combination.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. A Peek preview window will launch and display the contents of your file.  
 ![Peek Feature in PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys-2.jpg)
 7. Click on the **Open with** button to open the file in their respective application.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Share Mouse and Preview Files With PowerToys
@@ -99,25 +94,6 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iscover-the-10-yt-channels-with-swift-ascendancy-and-intellect-for-2024/"><u>[New] Discover the 10 YT Channels with Swift Ascendancy and Intellect for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unraveling-instagrams-video-sideways-quandary/"><u>[New] In 2024, Unraveling Instagram's Video Sideways Quandary</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-neat-screen-capture-utility-win10/"><u>[Updated] 2024 Approved Neat Screen Capture Utility, Win10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/digital-disappointment-unexpected-deletion/"><u>Digital Disappointment Unexpected Deletion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-you-through-fixed-windows-character-mapping-glitches/"><u>Guiding You Through Fixed Windows Character Mapping Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-upgrade-for-hp-prodesk-z440-workstation/"><u>Latest Graphics Card Software Upgrade for HP ProDesk Z440 Workstation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stubborn-windows-previous-credentials-error/"><u>Overcoming Stubborn Windows Previous Credentials Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-trick-to-elevate-your-account-type/"><u>Quick Trick to Elevate Your Account Type</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-asus-thor-series-the-mighty-hammer-shaped-mjolnir-uninterruptible-power-supply/"><u>Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resolving-nvidia-disp-not-showed-problems/"><u>Strategies for Resolving Nvidia Disp Not Showed Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-screen-separation-problems/"><u>Unblocking Screen Separation Problems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-your-visual-display-ideal-5-apps-for-personalized-time-themed-windows-screensavers/"><u>Upgrade Your Visual Display: Ideal 5 Apps for Personalized Time-Themed Windows Screensavers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/view-count-rewards-on-youtube-per-million-in-2024/"><u>View Count Rewards on YouTube – Per Million, In 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +101,19 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-insights-for-effective-clips-blending/"><u>[Updated] 2024 Approved Expert Insights for Effective Clips Blending</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-demystifying-creator-studio-a-practical-handbook-for-2024/"><u>[Updated] Demystifying Creator Studio A Practical Handbook for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-earning-edge-exploiting-youtube-studio-for-global-viewers-for-2024/"><u>[Updated] Earning Edge Exploiting YouTube Studio for Global Viewers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-establishing-a-mac-based-sports-media-outlet-for-2024/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>2024 Approved How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-clock-show-dates-on-windows-interface/"><u>Concealing Clock, Show Dates on Windows Interface</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-phone-communication-a-step-by-step-guide-on-downloading-and-customizing-whatsapp-ringtones/"><u>Elevate Phone Communication A Step-By-Step Guide on Downloading & Customizing WhatsApp Ringtones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-stuck-fixing-non-installation-of-optional-windows-11-features/"><u>Getting Stuck? Fixing Non-Installation of Optional Windows 11 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-functionality-of-automatic-voice-feature-on-word/"><u>Regaining Functionality of Automatic Voice Feature on Word</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncovering-budget-friendly-video-communication-apps-pcmac-for-2024/"><u>Uncovering Budget-Friendly Video Communication Apps PC/MAC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-update-and-its-companion-service/"><u>Unveiling Windows Update and Its Companion Service</u></a></li>
+</ul></div>
+

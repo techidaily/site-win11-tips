@@ -1,7 +1,7 @@
 ---
 title: Correcting Deactivated VSS on Systems
-date: 2024-09-10T21:36:02.571Z
-updated: 2024-09-17T07:56:37.371Z
+date: 2024-09-20T18:18:54.961Z
+updated: 2024-09-21T22:22:09.061Z
 tags:
   - windows10
   - windows11
@@ -52,19 +52,39 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
@@ -74,19 +94,6 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to [disabling Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions for turning off that security component.
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
@@ -98,32 +105,9 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
  If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Back up and Restore Windows Again
 
  These solutions can potentially resolve many variable Volume Shadow Copy Service error messages and codes that pop up during system backup and restore operations. With Volume Shadow Copy fixed, you can back up and restore Windows with built-in system tools again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adobe-premiere-power-enhancing-your-youtube-presence/"><u>[New] 2024 Approved Adobe Premiere Power Enhancing Your YouTube Presence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[Updated] In 2024, A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-celebrating-the-greats-anime-opens-of-all-time/"><u>[Updated] In 2024, Celebrating the Greats Anime Opens of All Time</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earnings-from-a-million-youtube-globals/"><u>[Updated] In 2024, Earnings From a Million YouTube Globals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premier-picks-best-selling-oculus-rift-games/"><u>[Updated] In 2024, Premier Picks Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/audience-faces-change-as-carolyn-exits-facebook/"><u>Audience Faces Change as Carolyn Exits Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsoft-bing-with-ai-powered-search-how-your-search-experience-will-change/"><u>Microsoft Bing With AI-Powered Search: How Your Search Experience Will Change</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-guide-to-launch-and-setup-win-11s-sandbox/"><u>Stepwise Guide to Launch and Setup Win 11'S Sandbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-screencast-feedback-in-powerpoint/"><u>Troubleshooting Silent Screencast Feedback in PowerPoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-onoff-touch-typing-on-your-windows-device/"><u>Turning On/Off Touch Typing on Your Windows Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-10-neon-sign-makers-free-online-tools-for-custom-text-for-2024/"><u>Updated Top 10 Neon Sign Makers Free Online Tools for Custom Text for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It!</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +116,17 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-humor-hierarchy-the-20-most-popular-memes/"><u>[New] 2024 Approved Humor Hierarchy The 20 Most Popular Memes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snickel-and-snicker-5-best-meme-generating-apps/"><u>[New] Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unboxing-mastery-the-soundtrack-selection-guidebook-for-2024/"><u>[New] Unboxing Mastery The Soundtrack Selection Guidebook for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>Easy to Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-10-best-ai-video-editing-software-of/"><u>Top 10 Best AI Video Editing Software Of</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-vos-fichiers-rw2-en-images-png-sans-frais-avec-easyformat-pro/"><u>Transformez Vos Fichiers RW2 en Images PNG Sans Frais Avec easyFormat Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-stable-wwe-2k22-experience-on-windows-platforms/"><u>Troubleshooting Tips for a Stable WWE 2K22 Experience on Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-video-formats-mp4-and-mkv-compared-by-movavi-for-optimal-viewing-quality/"><u>Understanding Video Formats: MP4 and MKV Compared by Movavi for Optimal Viewing Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-secrets-of-macos-11-big-sur-enhancements-for-2024/"><u>Unveiling the Secrets of macOS 11 Big Sur Enhancements for 2024</u></a></li>
+</ul></div>
+

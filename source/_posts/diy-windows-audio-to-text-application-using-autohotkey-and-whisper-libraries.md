@@ -1,7 +1,7 @@
 ---
 title: DIY Window's Audio to Text Application Using AutoHotkey & Whisper Libraries
-date: 2024-09-10T00:04:57.830Z
-updated: 2024-09-17T06:35:25.087Z
+date: 2024-09-18T07:29:06.728Z
+updated: 2024-09-22T00:50:33.622Z
 tags:
   - windows10
   - windows11
@@ -70,9 +70,29 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 `; Whisper Flags:; --initial_prompt PROMPT_TEXT; --output_format txt; -o OUTPUT_FOLDER; --model MODEL_TO_USE; --task TRANSCRIBE/TRANSLATE; --language EN/EL`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Creating the GUI With AutoHotkey
 
  We suggest you split your script into sections using comments like we did to keep it organized. We'll start by defining some variables, continue to the actual GUI, and end by defining its functions.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Establishing the Hidden Variables
 
@@ -135,10 +155,10 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 ![Adding Action Buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-action-buttons-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Notice that unlike variables in GUI elements, which begin with the letter "v", function names start with "g", for "Go (to this spot of the script)".
@@ -166,13 +186,6 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  The first line "tells" AHK to show the GUI's window, while the second marks the section's end.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Functions and Functionality of Our App
 
  Although we've completed the GUI section, if you try to run the script, it will crash. That's because we're referencing non-existing functions in it. So, our next move is to create those functions.
@@ -180,10 +193,10 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 ![Button Functions Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-functions-highlighted-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The three functions we want are:
@@ -199,6 +212,13 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 `SelectFile:FileSelectFile, SelectedFileReturn`
 
 ![Adding Troubleshooting Message Box To Select File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-troubleshooting-message-box-to-select-file-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **FileSelectFile** is an AutoHotkey function that displays a typical file requester, allowing the user to select a file. **SelectedFile** is the variable in our script that will "hold" the path to the file the user selected.
 
@@ -238,13 +258,6 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Collecting Whisper Flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-collecting-whisper-flag-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, we'll "tell" AHK to use the default terminal (CMD.exe) to run Whisper's executable (that we defined with the **WhisperExecutable** variable) with the GUI's variables (that are now "assembled" in the single **WhisperFlags** variable).
 
 `RunWait, cmd.exe /c %WhisperExecutable% %WhisperFlags%`
@@ -279,36 +292,11 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  If everything worked, go back to your script and either delete or Comment out (by adding a ";" at their beginning) all the troubleshooting functionality (message boxes and copy-to-Clipboard lines).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Taking Whisper Further With AutoHotkey
 
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-script-to-screen-your-guide-to-youtube-storytelling/"><u>[New] 2024 Approved Script to Screen Your Guide to YouTube Storytelling</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-6-ways-to-record-mov-files-on-windows-11-for-2024/"><u>[New] 6 Ways to Record .mov Files on Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-track-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings/"><u>[Updated] In 2024, Track Your Traffic The Straightforward Strategy for Scrutinizing YouTube Earnings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-genuine-errors-for-unlicensed-adobe/"><u>Halt Genuine Errors for Unlicensed Adobe</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-guides-to-3d-type-exploration/"><u>In 2024, Ultimate Guides to 3D Type Exploration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instas-secrets-unveiled-the-art-of-selfie-confirmation/"><u>Insta's Secrets Unveiled The Art of Selfie Confirmation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964464482-intel-core-i9-12900k-surpasses-expectations-with-52ghz-overclock-at-just-330w-a-formidable-contender-to-the-ryzen-9-5950x/"><u>Intel Core I9-12900K Surpasses Expectations with 5.2GHz Overclock at Just 330W - A Formidable Contender to the Ryzen 9 5950X</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/leading-edge-top-5-modern-video-capture-solutions/"><u>Leading Edge Top 5 Modern Video Capture Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mysterious-print-job-by-secondary-computer/"><u>Mysterious Print Job by Secondary Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-screenshot-of-uac-dialogues/"><u>Navigating Windows Screenshot of UAC Dialogues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-no-sound-recognition-by-windows-operating-system/"><u>Reversing No Sound Recognition by Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-system-mastering-three-windows-restarts/"><u>Revitalize Your System: Mastering Three Windows Restarts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-bsod-fix-in-windows-vmware-edition/"><u>Steps for BSOD Fix in Windows: VMware Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-truth-behind-primes-subtitle-misfires-on-windows-11/"><u>Uncover the Truth Behind Prime's Subtitle Misfires on Windows 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -317,3 +305,20 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagram-copyright/"><u>[New] 2024 Approved Navigating Instagram Copyright</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematic-clarity-hub-query-responses/"><u>[New] Cinematic Clarity Hub Query Responses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-light-intensity-in-hdr-scrutinized-beneficial/"><u>2024 Approved Light Intensity in HDR Scrutinized Beneficial?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/flvavi-movavi-video-converter/"><u>无偿在线FLV文件转换为AVI格式 - 利用Movavi Video Converter功能</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversao-sem-custo-transforme-imagens-do-formato-pgm-em-bmp-atraves-da-ferramenta-online-movavi/"><u>Conversão Sem Custo: Transforme Imagens Do Formato PGM Em BMP Através Da Ferramenta Online Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/egerindeki-online-resimli-renk-guvenlikinda-boylamlarin-enjeksiyonu/"><u>Eğerindeki Online Resimli Renk Güvenlikında Boylamların Enjeksiyonu</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Pro in Lost Mode</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-best-websites-reviewed-secure-purchase-of-custom-youtube-soundtracks/"><u>In 2024, Best Websites Reviewed Secure Purchase of Custom YouTube Soundtracks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-narzo-60x-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme Narzo 60x 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-g2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo G2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/omega-series-high-definition-full-touch-workstations/"><u>Omega Series High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-mjpeg/"><u>오늘날의 가장 유용한 편리성: 무료 Wi-Fi를 사용한 MJPEG 암호화</u></a></li>
+</ul></div>
+

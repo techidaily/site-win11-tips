@@ -1,0 +1,219 @@
+---
+title: Outlook Not Syncing? Troubleshoot Windows Issues
+date: 2024-09-14T16:19:21.087Z
+updated: 2024-09-21T16:20:24.288Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Outlook Not Syncing? Troubleshoot Windows Issues
+excerpt: This Article Describes Outlook Not Syncing? Troubleshoot Windows Issues
+keywords: OutlookSyncTrouble,FixWindowsIssue,WindowsSyncError,NoOutlookSync,ResolveWindowsProblems,SyncOutlookFix,TroubleshootOutlookSync
+thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606065c397aa28c9965f8c1a6d.jpg
+---
+
+## Outlook Not Syncing? Troubleshoot Windows Issues
+
+ While Microsoft Outlook is a popular email client among Windows users, it's not without its flaws. Sometimes, Outlook can put a dent in your day when it fails to sync your emails on Windows.
+
+ Instead of switching to another email client or starting from scratch, consider applying the following fixes to resolve Outlook sync issues on Windows.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Disable Offline Mode
+
+ Sometimes, the most effective solutions are those that appear too simple to be true. If you have accidentally enabled offline mode in Outlook, the app will not connect to the servers and sync your data.
+
+ To disable offline mode in Outlook, switch to the**Send / Receive** tab and click the**Work Offline** button. Outlook will connect to the server and start syncing data.
+
+![Work Offline in MS Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/work-offline-in-ms-outlook.jpg)
+
+## 2\. Check the Junk Folder
+
+ Outlook, like most email apps, has a[spam-filtering feature](https://www.makeuseof.com/how-do-email-spam-filters-work/) that automatically identifies suspicious emails and sends them to the Junk folder. Hence, it's a good idea to check the**Junk** folder in Outlook to see if any of your missing emails have been directed there.
+
+ If you find any email that you want to move to your inbox, right-click on it and select**Junk > Not Junk** .
+
+ If you want Outlook to recognize the sender as trustworthy, select the**Always trust email from \[sender\]** checkbox and click**OK** . After that, Outlook will show all the emails from that sender in your inbox.
+
+![Mark Email as Not Junk in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mark-email-as-not-junk-in-outlook.jpg)
+
+## 3\. Review Your Email Sorting Options
+
+ Typically, Outlook places newly received emails at the top of your inbox. However, if you have previously set up a specific sorting arrangement for your messages, older emails may appear at the top instead. This may give the impression that Outlook app is not syncing properly on Windows.
+
+ You can modify the sort options in Outlook so that it displays your new emails at the top. To do so, navigate to your**Inbox** in Outlook. Click the sort drop-down menu and choose the**Date** option under**Arranged by** . Then, select**Newest on Top** at the bottom.
+
+![Outlook Email Sort Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/outlook-email-sort-options.jpg)
+
+## 4\. Repair Your Email Account
+
+ Temporary issues with your account can also prevent the Outlook app from syncing your data correctly. Fortunately, Outlook includes an account repair option that can automatically detect and fix any issues with your account. Here’s how to use it.
+
+1. Open the Outlook app and click on**File** .
+2. Switch to the**Info** tab.
+3. Click the**Account Settings** drop-down menu and select**Account Settings** .
+4. In the following window, select the problematic account and click the**Repair** option.
+5. Click**Repair** to initiate the process.  
+![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
+
+ Once your account is repaired, Outlook should sync your data without any issues.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Check Your Blocked Senders
+
+ Is Outlook not showing emails from a particular sender? That could happen if you have accidentally blocked the sender. To avoid any confusion, you should check the Blocked Senders list in Outlook and make sure none of your trusted senders are on the list.
+
+Here’s how to do that:
+
+1. Open the Outlook app and navigate to the**Home** tab.
+2. Click on**Junk** and select**Junk E-mail Options** from the resulting menu.
+3. Switch to the**Blocked Senders** tab.
+4. Select the email address you want to unblock and click the**Remove** button.
+5. Hit**Apply** followed by**OK** .  
+![Unblock Sender in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unblock-sender-in-outlook.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Once you complete the above steps, Outlook will start showing emails from that sender in your inbox.
+
+## 6\. Clear the Outlook Cache
+
+ Overwhelming cache data can also prevent the Outlook app from working correctly on Windows and lead to sync issues. If the issue is indeed caused by corrupt cache data, clearing it should help. Since clearing the cache does not affect your data, there’s no reason not to try this.
+
+To delete Outlook cache data on Windows:
+
+1. Press**Win + R** to open the Run command (see[how to open the Windows Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more).
+2. Type**%localappdata%\\Microsoft\\Outlook** in the text box and press**Enter** .
+3. In the**RoamCache** folder that appears, press**Ctrl + A** to select all the files and click the**trash icon** at the top to delete them.  
+![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7\. Create a New Outlook Profile
+
+ Your Outlook profile contains all the settings related to your email account, including server configurations, signatures, rules, and other preferences. If there’s an issue with this profile,[Outlook may get stuck while loading the profile](https://www.makeuseof.com/outlook-stuck-on-loading-profile/) or fail to sync your messages on Windows. In that case, your best option is to create and switch to a new Outlook profile.
+
+Here's how to do that:
+
+1. Press**Win + S** to open the search menu.
+2. Type**control panel** in the box and press**Enter** .
+3. In the Control Panel window, click the**View by** drop-down menu to select**Large icons** .
+4. Click on**Mail (Microsoft Outlook)** .
+5. Under**Profiles** , select**Show Profiles** .
+6. Click the**Add** button.
+7. Enter a name for your new profile, and click**OK** .
+8. Enter your account details in the**Add Account** window and hit**Next** .
+9. Select your newly created profile under**When starting Microsoft Outlook** and hit**Apply** .  
+![Create New Outlook Profile-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-outlook-profile-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 8\. Update the Outlook App
+
+ Although Outlook typically installs new updates automatically, it may not do that if you have[disabled automatic updates for the Office apps on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/) .
+
+ In that case, you can update the Outlook app manually by following the steps below.
+
+1. In the Outlook app and click the**File** menu.
+2. Select**Office Account** from the left sidebar.
+3. In the pane on the right, select**Update Options > Update Now** .  
+![Update Outlook App on Windows-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-outlook-app-on-windows-2.jpg)
+
+## 9\. Repair the Microsoft Office Suite
+
+ Finally, if none of the above fixes work, you can run the Office repair tool to fix sync issues in the Outlook app. Here are the steps you can follow.
+
+1. Press**Win + R** to open the Run dialog box.
+2. Type**appwiz.cpl** in the box and press**Enter** .
+3. In the Programs and Features window, select**Microsoft Office** on the list.
+4. Click the**Change** button at the top.
+5. Select the**Quick Repair** option and then click**Repair** .  
+![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If Outlook fails to sync your emails even after that, you can repeat the above steps to perform an**Online Repair** . This will allow the tool to carry out a more thorough repair operation and fix issues with the Outlook app.
+
+## Never Miss an Email Again on Outlook for Windows
+
+ It’s no fun when Microsoft Outlook fails to sync on your Windows computer. However, that’s no reason to switch to an alternative and settle for a mediocre experience. With any luck, one of the above fixes should get the Outlook app to sync as before.
+
+ On another note, if Outlook is not displaying any email notifications on Windows, you may be dealing with a different problem. In that case, you should review the notification settings in the Outlook app.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-privacy-prowess-how-to-disconnect-on-insta-for-2024/"><u>[New] Privacy Prowess How to Disconnect on Insta for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ustream-review-and-alternatives/"><u>[New] Ustream Review and Alternatives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[Updated] In 2024, Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones/"><u>[Updated] In 2024, Voice Transformation on the Move Best Audio Modification Tools for Smartphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-m14-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy M14 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-guide-for-brother-l2540dw-printer-on-windows-driver-download-included/"><u>Easy Install Guide for Brother L2540DW Printer on Windows - Driver Download Included</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/effortless-technique-for-enhancing-audio-quality-through-upsampling/"><u>Effortless Technique for Enhancing Audio Quality Through Upsampling</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-7-techniques-to-revitalize-stubborn-windows-services-mgmt-tool/"><u>Mastering 7 Techniques to Revitalize Stubborn Windows Services Mgmt Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-device-connectivity-errors-in-modern-windows/"><u>Overcome Device Connectivity Errors in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pros-approach-key-techniques-to-mastering-wsl-2/"><u>Pro's Approach: Key Techniques to Mastering WSL 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-11-menus-interactive-functionality/"><u>Restoring Windows 11 Menus' Interactive Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-crashing-beast-flawless-fullscreen-in-windows-11s-sonic-games/"><u>Taming The Crashing Beast: Flawless Fullscreen in Windows 11'S Sonic Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-tier-eighth-edition-of-image-blender-tool-for-2024/"><u>Top Tier Eighth Edition of Image Blender Tool for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-guide-simple-steps-for-telnet-use/"><u>Win11 Guide: Simple Steps for Telnet Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-woes-zero-sound-output/"><u>Windows Audio Woes: Zero Sound Output</u></a></li>
+</ul></div>
+

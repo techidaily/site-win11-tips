@@ -1,7 +1,7 @@
 ---
 title: Swift Remedy for Windows Zoom Crash - Error 1132
-date: 2024-09-14T03:48:03.475Z
-updated: 2024-09-16T18:34:52.442Z
+date: 2024-09-14T18:53:11.042Z
+updated: 2024-09-22T04:02:45.490Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Third-Party Antivirus/Security Software
 
  Some third-party antivirus tools also have firewalls that can potentially cause Zoom issues like error 1132\. Disable any third-party antivirus shield and firewall if you’ve installed security software on your PC. Options for disabling an antivirus tool’s shield and firewall may be separate. Select options that disable your antivirus software’s shield and firewall (if it has one) by right-clicking its system tray icon and looking through the context menu or settings tabs.
@@ -78,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  After disabling the third-party security software, try using the Zoom app again to see if that resolves the error. If it does, set up an antivirus exclusion for Zoom and allow that app through the firewall with the settings in your security software. Then you can turn on the antivirus utility’s shield protection and firewall feature again.
 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Zoom App
 
@@ -93,21 +107,14 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Windows Account
 
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 7. Select to join a Zoom meeting again.
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Join Your Zoom Meetings Again on Windows
 
@@ -150,16 +150,19 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast/"><u>[New] 2024 Approved Innovative Approaches to Live Broadcasting on Youtube with WireCast</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>[New] 2024 Approved The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>[Updated] 2024 Approved The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rapidly-rise-with-smart-instagram-reel-techniques/"><u>[Updated] Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-simplify-your-collaboration-with-easy-steps-to-use-a-virtual-board-on-all-zoom-devices/"><u>2024 Approved Simplify Your Collaboration with Easy Steps to Use a Virtual Board on All Zoom Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-convert-mkv-to-mp4-with-windows-software/"><u>Quick Guide: Convert MKV to MP4 with Windows Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-11-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-disengagement-for-a-focused-facebook-feed/"><u>Strategic Disengagement for a Focused Facebook Feed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-autostarted-microsoft-marketplace/"><u>Techniques to Prevent Autostarted Microsoft Marketplace</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-users-handbook-for-changing-windows-pin/"><u>The User's Handbook for Changing Windows PIN</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-complete-list-of-11-advanced-color-correction-and-grading-tutorials/"><u>[New] In 2024, The Complete List of 11 Advanced Color Correction & Grading Tutorials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-streaming-fb-live-on-zoom-platform/"><u>[New] Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-in-class-premium-screenshots-and-recorders-for-2024/"><u>[Updated] Best in Class Premium Screenshots & Recorders for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-excellent-4k-televisions-ranked/"><u>10 Excellent 4K Televisions Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-upgrade-windows-storage-safely/"><u>Efficient Ways to Upgrade Windows Storage Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-techniques-for-optimizing-package-dependencies-on-windows-11/"><u>Expert Techniques for Optimizing Package Dependencies on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-youtube-with-imovie-a-soundtrack-journey-for-2024/"><u>Merging Youtube with iMovie A Soundtrack Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-brightness-limitation-strategies-shared/"><u>Overcoming Windows 11 Brightness Limitation: Strategies Shared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-your-system-booting-into-windows-11s-safe-mode/"><u>Safeguard Your System: Booting Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ts-unveiled-perfect-your-360-youtube-live-experience-for-2024/"><u>Secrets Unveiled Perfect Your 360° YouTube Live Experience for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-new-backup-a-technical-examination/"><u>Windows 11'S New Backup: A Technical Examination</u></a></li>
 </ul></div>
 

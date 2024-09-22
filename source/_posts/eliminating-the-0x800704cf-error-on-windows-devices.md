@@ -1,7 +1,7 @@
 ---
 title: Eliminating the 0X800704CF Error on Windows Devices
-date: 2024-09-09T16:41:25.091Z
-updated: 2024-09-16T23:10:56.202Z
+date: 2024-09-18T01:50:12.734Z
+updated: 2024-09-22T02:53:08.287Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 ![DNS server settings on the Internet Protocol Version window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/internet-protocal-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Execute the Remove Proxy Server Command
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
 4. Restart Windows 11 or 10 after executing the command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable the Microsoft Network Component Setting Client
 
  Some users have been able to fix error 0x800704CF by disabling the**Microsoft Network Connection** setting, which is enabled by default. It’s ok to disable that component for your connection so long as you don’t need to access resources on a Microsoft network. You can disable the**Client for Microsoft Network** option as follows:
@@ -82,27 +89,22 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 4. Right-click your internet network adapter to select a**Properties** option for it.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option2.jpg)
 5. Deselect the**Client for Microsoft Networks** checkbox.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall the Network Adapter Driver
@@ -114,24 +116,18 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-context-menu-option.jpg)
 3. Select the**Delete the driver** (or**Attempt to remove the driver**) checkbox.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. ![The Delete the driver software for this device checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-window.jpg)  
  Click**Uninstall** inside the confirmation dialog window.
 5. To reinstall, click the**Action** menu.  
 ![The Scan for hardware changes option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-for-hardware-changes.jpg)
 6. Select**Scan for hardware changes** on the menu to detect and reinstall the missing network driver.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reregister the Microsoft Store App
 
@@ -155,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-option2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To apply this solution, check out our post for[resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
 
 ## Get Microsoft Store Error 0x800704CF Sorted on Your PC
@@ -183,20 +172,16 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-masterclass-in-elegance-blurring-borders-for-zoom/"><u>[New] Masterclass in Elegance Blurring Borders for Zoom</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-skype-audio-archive-mp3-techniques-free-edition/"><u>[New] Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-choice-optimal-free-srt-translation-services/"><u>[Updated] Mastering Choice Optimal Free SRT Translation Services</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-taskbar-operability/"><u>Ensuring Windows 11 Taskbar Operability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-yellow-tint-reviving-true-colors-on-laptops/"><u>Fixing Yellow Tint: Reviving True Colors on Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-launching-modern-warfare-3-mw3-a-comprehensive-guide/"><u>How to Fix a Non-Launching Modern Warfare 3 MW3: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-efficient-command-execution-via-keys-w11-edition/"><u>Introducing Efficient Command Execution via Keys, W11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-cant-add-your-folder-now-a-quick-guide-to-onedrive/"><u>Navigating Through 'Can't Add Your Folder Now': A Quick Guide to OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8007045d-error-in-win1011/"><u>Steps to Resolve 0X8007045D Error in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-printer-issues-and-solutions-quickly/"><u>Unlock Windows 11 Printer Issues & Solutions Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-wanted-learn-backup-tricks-for-notebooks/"><u>Windows Users Wanted: Learn Backup Tricks for Notebooks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[Updated] 2024 Approved Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-storytelling-borders-for-instagram-videos/"><u>[Updated] In 2024, Elevate Your Storytelling Borders for Instagram Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-text-to-voice-the-ultimate-tiktok-technique/"><u>[Updated] In 2024, Text-to-Voice The Ultimate TikTok Technique</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-stellar-15-stop-motion-films-to-remember/"><u>2024 Approved Stellar 15 Stop-Motion Films to Remember</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-changers-discovering-top-tier-gaming-webcam-technology-for-2024/"><u>Game Changers Discovering Top-Tier Gaming Webcam Technology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-location-of-your-onedrive-folder-in-windows-11/"><u>How to Change the Location of Your OneDrive Folder in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-visual-content-on-instagram-using-these-6-tools/"><u>In 2024, Transform Your Visual Content on Instagram Using These 6 Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-transforming-your-twitter-feed-adding-custom-thumbnails-to-videos/"><u>In 2024, Transforming Your Twitter Feed Adding Custom Thumbnails to Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-directx-setup-for-your-gaming-experience/"><u>Streamlining DirectX Setup for Your Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-microphone-working-common-problems-and-solutions/"><u>Why Isn't My Sound Blaster Microphone Working? - Common Problems and Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-hello-vulnerability-should-we-trust-our-fingerprints/"><u>Windows Hello Vulnerability: Should We Trust Our Fingerprints?</u></a></li>
 </ul></div>
 

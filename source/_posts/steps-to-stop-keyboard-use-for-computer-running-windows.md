@@ -1,7 +1,7 @@
 ---
 title: Steps to Stop Keyboard Use for Computer Running Windows
-date: 2024-09-13T02:00:46.060Z
-updated: 2024-09-17T06:08:05.247Z
+date: 2024-09-16T22:57:58.532Z
+updated: 2024-09-21T20:04:34.154Z
 tags:
   - windows10
   - windows11
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
  Once you see the success message, restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable the Built-in Keyboard Using an Incompatible Driver
 
  Another quirky solution to disable a built-in keyboard is to install an incompatible driver for the input device. Here's how to do it.
@@ -85,37 +92,19 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 2. Right-click on your laptop keyboard device and select **Update driver**.  
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
 3. Select **Browse my computer for drivers**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 4. Next, select **Let me pick from a list of available drivers on my computer**.  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update driver keyboard pick from list of available drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-keyboard-pick-from-list-of-available-drivers-device-manager.jpg)
 5. Uncheck the **Show compatible hardware** option.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Select a random manufacturer under the **Manufacturer** column.  
 ![install incompatible keyboard driver windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-incompatible-keyboard-driver0windows.jpg)
@@ -126,16 +115,16 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, select **Browse my computer for drivers** in the Update Drivers dialogue. Next, select **Let me pick from a list of available drivers on my computer**. Make sure the **Show compatible hardware** option is enabled. Select an **HID Keyboard Device** driver from the list and click **Next**.
 
 ![install compatible hardware driver keyboard device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-compatible-hardware-driver-keyboard-device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the driver to install. Once done, reboot your computer, and the keyboard will start working again.
 
@@ -149,18 +138,6 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
  However, since the keyboard is an integral part of your portable computer, disabling its primary input method is a little tricky. Here, we show you how to temporarily and permanently disable the laptop keyboard on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sharing-excellence-twitch-live-to-your-facebook-circle/"><u>[New] 2024 Approved Sharing Excellence Twitch Live to Your Facebook Circle</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-zero-30-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Zero 30 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-size-limits-a-win11-guide-to-overcoming-stuck-on-size-error-in-discord/"><u>Mastery over Size Limits: A Win11 Guide to Overcoming Stuck-On-Size Error in Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-geforce-scan-failures-in-windows-os/"><u>Steps to Address GeForce Scan Failures in Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-getting-netflix-up-and-running-again-on-roku/"><u>Troubleshooting Steps: Getting Netflix Up and Running Again on Roku</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-final-fantasy-xiv-from-crashing-on-desktop-systems/"><u>Ultimate Guide to Preventing Final Fantasy XIV From Crashing on Desktop Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-potential-of-past-play-retroarch-for-enhanced-gaming-achievements/"><u>Unlock Potential of Past Play: Retroarch for Enhanced Gaming Achievements</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-game-replay-utilizing-windows-and-intels-graphical-center/"><u>Winning Game Replay: Utilizing Windows & Intel's Graphical Center</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +145,20 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[New] In 2024, From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-chuckles-in-single-photos/"><u>[New] The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-linux-compatible-cutting-apps/"><u>[Updated] In 2024, Top 8 Linux-Compatible Cutting Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-taping-permissibility-concerns/"><u>[Updated] YouTube Taping Permissibility Concerns</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavioggflac/"><u>「音質を上げるためのフリーコネクト: MovaviでOGG形式をFLACに簡単変換する方法」</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/"><u>2024 Approved The Ultimate Method for IPTV Screen Recordings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-organization-on-mac-top-8-metadata-editors/"><u>Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-usb-device-not-recognized-error-a-comprehensive-guide/"><u>How to Fix 'USB Device Not Recognized' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-honor-x50-gt-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor X50 GT FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/los-10-lideres-indiscutibles-programas-mas-eficaces-de-voz-en-off-libre-y-pago-del-2024/"><u>Los 10 Líderes Indiscutibles: Programas Más Eficaces De Voz en Off Libre Y Pago Del 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-web-service-easily-convert-your-wma-audio-to-m4b-format/"><u>Movavi's No-Cost Web Service: Easily Convert Your WMA Audio to M4B Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-issues-resolved-how-to-fix-subnautica-below-zeros-stability-problems/"><u>PC Issues Resolved! How To Fix Subnautica Below Zero's Stability Problems</u></a></li>
+</ul></div>
+

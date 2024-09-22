@@ -1,7 +1,7 @@
 ---
 title: "Mastering PC Troubleshooting: Uncovering & Resolving Error Codes via Command Prompt"
-date: 2024-09-09T20:31:00.671Z
-updated: 2024-09-16T18:55:43.154Z
+date: 2024-09-21T03:19:37.322Z
+updated: 2024-09-22T06:24:56.576Z
 tags:
   - windows10
   - windows11
@@ -72,10 +72,10 @@ Here is how you can use it:
  You can[access the Event Viewer using the Command Prompt](https://www.makeuseof.com/windows-open-event-viewer/) to identify the culprit behind the error, and then proceed with the relevant solutions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Resolve the Problem Using the Command Prompt
@@ -91,13 +91,6 @@ Here is how you can use it:
  The easiest way to fix such issues is by[running the built-in SFC and DISM tools](https://www.makeuseof.com/windows-built-in-repair-tools/) via Command Prompt.
 
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SFC or the System File Checker works by scanning the protected system files to check their integrity. It will compare the files to a stable version stored in the Windows component store or the installation media. If a problem with the file is identified, the utility will automatically replace the file with its healthier counterpart and generate a report based on it.
 
@@ -125,6 +118,13 @@ Here is how you can use it:
 
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Fix Boot Issues
 
  If you are having trouble booting into Windows, or the boot time is just painfully slow, the issue is likely to be related to the boot sector or boot configuration data (BCD).
@@ -137,18 +137,19 @@ Here is how you can do that:
 2. Navigate to**Troubleshoot** \>**Advanced options** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Choose**Command Prompt** from the list of options available.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you are in the Command Prompt window, execute the following commands:  
 `bootrec /fixmbr bootrec /fixboot bootrec /rebuildbcd`
 5. If you are prompted with Add installation to boot list?, type Y and hit Enter.
 6. Once all the commands are executed, you can exit Command Prompt by typing exit and hitting Enter.
 7. Restart your computer, and you should be able to boot into Windows successfully!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Command Prompt to the Rescue
 
@@ -171,20 +172,21 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>[Updated] Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-platform-prowess-finding-your-future-in-obstwitch/"><u>2024 Approved Platform Prowess Finding Your Future in OBS/Twitch</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola Moto G73 5G FRP</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y02t-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y02T? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-windows-feedback-for-essential-alerts-only/"><u>Customize Windows Feedback for Essential Alerts Only</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-signal-in-file-explorer/"><u>Dissecting the Red “X” Signal in File Explorer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-modify-system-security-settings-in-windows-11/"><u>How To Modify System Security Settings in WIndows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-photos-ios-alignment-and-cloud-syncing/"><u>In 2024, Mastering Photos IOS Alignment and Cloud Syncing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-keyboard-indicators-numlock-capslock-in-taskbar/"><u>Integrate Keyboard Indicators: NumLock, CapsLock in Taskbar</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-uncover-belching-sound-simulation/"><u>New Uncover Belching Sound Simulation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-misidentified-gaming-feature-within-discord-windows-edition/"><u>Resolving Misidentified Gaming Feature Within Discord, Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rewriting-windows-script-policy-top-4-strategies-for-enabling-ps-loading/"><u>Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/talk-like-a-pro-introducing-gpt-plus-for-us-residents-only-us20-mo/"><u>Talk Like a Pro: Introducing GPT-Plus for US Residents Only (US$20 Mo)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-playtime-eliminating-lost-ark-pc-stability-problems/"><u>Trouble-Free Playtime: Eliminating Lost Ark PC Stability Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-restoring-audio-on-your-screen-pc-monitor-and-tv-connected-via-hdmi/"><u>Troubleshooting Steps for Restoring Audio on Your Screen: PC, Monitor & TV Connected via HDMI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-captivating-online-titles-simplified/"><u>[New] Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>[New] Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-your-path-to-photo-wizardry-the-complete-guide-to-using-the-background-erase-in-photoshop-for-2024/"><u>[New] Your Path to Photo Wizardry The Complete Guide to Using the Background Erase in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-astonishing-critique-and-comparable-products/"><u>[Updated] Astonishing Critique & Comparable Products</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-error-e1-code-in-windows-1011/"><u>Clearing Up Error E1 Code in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fresh-start-guide-essential-tactics-to-reset-your-windows/"><u>Fresh Start Guide: Essential Tactics to Reset Your Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guarded-data-flows-safeguarding-network-drives-in-winos/"><u>Guarded Data Flows: Safeguarding Network Drives in WinOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-discover-the-premier-complimentary-voice-transform-for-valorant/"><u>In 2024, Discover the Premier, Complimentary Voice Transform for Valorant</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-13-mini-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 13 mini?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-the-art-of-smooth-directx-setup-on-your-digital-device/"><u>Master the Art of Smooth DirectX Setup on Your Digital Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-revive-windows-obs-studio-launch-issues/"><u>Methods to Revive Windows OBS Studio Launch Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-updater-problem-0xca00a009/"><u>Navigating Through Windows Updater Problem 0xCA00A009</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-era-when-is-it-right-for-rtx/"><u>Nvidia's New Era: When Is It Right for RTX?</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/"><u>Unstuck with a Broken Dell Camera? Here's How to Fix It in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-update-halted-in-4-easy-ways/"><u>Windows Update Halted in 4 Easy Ways</u></a></li>
 </ul></div>
 

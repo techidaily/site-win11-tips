@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Snap-In Errors in MMC on Windows"
-date: 2024-09-11T06:54:59.673Z
-updated: 2024-09-17T06:58:06.643Z
+date: 2024-09-15T16:10:32.577Z
+updated: 2024-09-22T03:28:00.236Z
 tags:
   - windows10
   - windows11
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
  To repair the Visual C++ Redistributable package:
@@ -99,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
  This error is triggered when a snap-in malfunctions, which is often a case of broken registry configuration. To fix the issue, you can delete the broken registry sub-key for the affected snap-in. Additionally, enable/re-enable the .NET Framework 3.5\. If not, scan the system for file integrity issues with the DISM and System File Checker utility.
@@ -121,26 +121,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  Sometimes, the error may also pop up after a Blue Screen of Death (BSOD), causing one or more apps to crash. This error often occurs if the registry configuration of the snap-in is malfunctioning. Here we show a few ways to fix to help you resolve the "MMC could not create the snap-in" error and restore administrative tools access in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>[Updated] 2024 Approved Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia-for-2024/"><u>[Updated] Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-a54-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy A54 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963240455-easy-access-to-up-to-date-drivers-for-epson-xp-440-download-instructions-here/"><u>Easy Access to Up-to-Date Drivers for Epson XP-440 - Download Instructions Here!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-to-implement-hyper-v-on-windows-11-home/"><u>Essential Steps to Implement Hyper-V on Windows 11 Home</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-clearing-audacitys-sound-device-glitches-windows-11/"><u>Guide to Clearing Audacity's Sound Device Glitches Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introduction-to-chromium-on-the-latest-windows-11-os/"><u>Introduction to Chromium on the Latest Windows 11 OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-nord-3-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Nord 3 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/no-cost-no-trouble-video-introduction-kits-for-2024/"><u>No-Cost, No-Trouble Video Introduction Kits for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-obscure-problem-how-to-resolve-steams-e84-error/"><u>Tackling the Obscure Problem: How to Resolve Steam's E84 Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-protecting-your-notebooks/"><u>The Complete Guide to Protecting Your Notebooks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-pc-speakers-after-hardware-changes/"><u>Unblocking PC Speakers After Hardware Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -148,3 +128,23 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-10-innovative-platforms-revolutionizing-online-education/"><u>[Updated] 2024 Approved 10 Innovative Platforms Revolutionizing Online Education</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-creating-professional-level-xbox-screen-recordings/"><u>[Updated] 2024 Approved Creating Professional-Level Xbox Screen Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-aac/"><u>最新の無料方法で：オンラインMovavi M4B AAC ビデオコンバートガイド</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/audio-integration-in-digital-photo-albums-for-2024/"><u>Audio Integration in Digital Photo Albums for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-video-webm-directamente-a-mp4-sin-costo-alguno-usando-el-servicio-gratuitode-conversion-de-videos-en-linea/"><u>Convertir Video WebM Directamente a MP4 Sin Costo Alguno Usando El Servicio Gratuitode Conversión De Videos en Línea</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/end-audio-blackout-vocalize-tweet-videos-for-2024/"><u>End Audio Blackout Vocalize Tweet Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-crop-tool-edit-your-videos-with-ease/"><u>Free Online Crop Tool: Edit Your Videos with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-your-mac-a-complete-guide-to-leveraging-preview-features/"><u>In 2024, Mastering Your Mac A Complete Guide to Leveraging Preview Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-su-herramienta-perfecta-para-convertir-archivos-mp3-en-flac-sin-costo-alguno-online-facil-de-usar-conversor-on-line-gratis/"><u>Móvavi: Su Herramienta Perfecta Para Convertir Archivos MP3 en FLAC Sin Costo Alguno, Online Fácil De Usar - Conversor On-Line Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swf-webm/"><u>SWF WebM 전환기 - 웹에서 자원공유 용이: 실시간 코어 리소스를 모바일에 가장 적합한 형식으로 쉽게 전환</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-wma-in-formato-3gp-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi Video WMA in Formato #3GP Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gameplay-eliminating-mid-game-crashes-in-gta-5/"><u>Trouble-Free Gameplay: Eliminating Mid-Game Crashes in GTA 5</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/troubleshooting-dvhe-dvh1-format-issues-enable-dolby-vision-hevc-playback-on-windows-11/"><u>Troubleshooting DVHE-DVH1 Format Issues: Enable Dolby Vision HEVC Playback on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-issues-troubleshooting-for-flawless-zoom-cams/"><u>Zoom Issues: Troubleshooting for Flawless Zoom Cams</u></a></li>
+</ul></div>
+

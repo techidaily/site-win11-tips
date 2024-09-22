@@ -1,7 +1,7 @@
 ---
 title: Confronting the Challenge of File/Directory Corrupted on OSes
-date: 2024-09-13T17:00:46.505Z
-updated: 2024-09-17T06:57:56.112Z
+date: 2024-09-16T06:59:51.843Z
+updated: 2024-09-21T20:50:30.428Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Real-Time Antivirus Shields
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Startup Repair
@@ -79,15 +79,16 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 2. Select **Startup Repair** within the Advanced options menu.  
 ![The Start-up Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-up-repair.jpg)
 3. Next, select your Windows user account.
-4. Input your user account password.
-5. Select **Continue** to initiate the repair.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Input your user account password.
+5. Select **Continue** to initiate the repair.
 
 ## 6\. Format an External Drive
 
@@ -103,19 +104,6 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Consequently, you can’t delete or copy files on drives affected by error 0x80070570\. It is an error code that predates Windows 8, but many users still encounter this issue on the latest Windows desktop platforms. As such, here is how you can fix error 0x80070570 on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-award-winning-screenplays-for-each-genre-division/"><u>[New] Award-Winning Screenplays for Each Genre Division</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlining-your-avatar-on-google-meet-devices/"><u>[Updated] In 2024, Streamlining Your Avatar on Google Meet Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-techs-trailblazers-windows-10-redefines-user-interface/"><u>[Updated] Tech's Trailblazers Windows 10 Redefines User Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enablingdisabling-content-filter-on-modern-windows/"><u>Enabling/Disabling Content Filter on Modern Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-pin-on-windows-11-amidst-errors/"><u>How To Recover Lost PIN on Windows 11 Amidst Errors</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-playtime-fixing-minecraft-exit-failures/"><u>Streamline Playtime: Fixing Minecraft Exit Failures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-copilot-vs-copilot-pro-key-features-and-benefits-of-upgrading/"><u>Understanding Copilot Vs. Copilot Pro: Key Features & Benefits of Upgrading</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackle-onedrive-and-microsoft-id-integration-on-windows-systems/"><u>Unshackle OneDrive and Microsoft ID Integration on Windows Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +111,24 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-convert-youtube-views-into-cash-through-ads/"><u>[New] 2024 Approved How to Convert YouTube Views Into Cash Through Ads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-5-secure-methods-to-maximize-instagram-earnings/"><u>[New] 2024 Approved Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-versatile-biz-decks-free-template-and-resource-options/"><u>[New] In 2024, Versatile Biz Decks FREE Template and Resource Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-podcasts-identity-with-ai-name-makers/"><u>[New] Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-nextgen-vidhack-fb-to-mp4-download-with-no-hassle/"><u>[Updated] 2024 Approved NextGen VidHack FB to MP4 Download with No Hassle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leverage-the-best-free-pc-sound-capturer-x-recorder/"><u>[Updated] Leverage the Best Free Pc Sound Capturer – X-Recorder</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/8-powerful-photo-editing-software-to-replace-windows-10-photos-for-2024/"><u>8 Powerful Photo Editing Software to Replace Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-compatibility-essential-wsl-2-advice-for-pcs/"><u>Conquer Compatibility: Essential WSL 2 Advice for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-running-continuously-what-can-you-do/"><u>Edge Running Continuously: What Can You Do?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-excessive-c-drive-data-usage/"><u>Efficiently Tackling Excessive C: Drive Data Usage</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-accurate-battery-life-meter-on-pcs-running-win-11/"><u>How to Reinstate Accurate Battery Life Meter on PCs Running Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-windows-audio-hardware-flaws/"><u>Identifying Windows Audio Hardware Flaws</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-itel-p55plus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Itel P55+?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overhauling-non-compatible-installation-package/"><u>Overhauling: Non-Compatible Installation Package</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proactive-device-management-in-system-sleep/"><u>Proactive Device Management in System Sleep</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-stop-keyboard-use-for-computer-running-windows/"><u>Steps to Stop Keyboard Use for Computer Running Windows</u></a></li>
+</ul></div>
+

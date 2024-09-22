@@ -1,7 +1,7 @@
 ---
 title: "Windows Patches: Deciphering Labels & Codes"
-date: 2024-09-15T16:20:24.000Z
-updated: 2024-09-17T05:15:48.617Z
+date: 2024-09-19T23:22:24.868Z
+updated: 2024-09-22T01:04:50.011Z
 tags:
   - windows10
   - windows11
@@ -62,11 +62,25 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  Microsoft rolls out these updates every six months and initially, they are offered as optional updates that you must install manually using the Settings app. However, if your device with Windows installation is approaching the end of service, the system will download these updates automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Security Updates
 
  Security updates in Windows can be delivered to users in two ways: either as standalone updates or as part of cumulative updates. They aim to improve the overall security of the operating system by fixing bugs and removing malicious malware.
 
  You can install the security updates manually or allow the Windows Update feature to install them for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Hardware Updates
 
@@ -79,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding the Update Numbers
@@ -96,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  Each update package and patch released by Microsoft is assigned an update number to manage it across different Windows versions. This update number typically consists of a series of digits that include the specific sequence number for the update and the month/year on which the update was released.
 
 ![KB Number of Windows 11 Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/KB-Number-of-Windows-11-Update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The updates also include a development code name that specifies the year of release followed by the time. So if you are seeing a 22H2 update on your computer, it means that the update was released in the second half (H2) of the year 2022\. This information can be seen in the Version section of an update.
 
@@ -117,19 +118,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  This typically happens if the update you install is infected with bugs and vulnerabilities itself. The update can also conflict with the existing settings and configuration, leading to different issues and errors. In some cases, the updates you install can turn out to be incompatible with the hardware as well.
 
  If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Making Sense of Update Names and Numbers
 
@@ -150,17 +138,21 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-optimal-storage-expansion-for-sony-a7c/"><u>[New] Optimal Storage Expansion for Sony A7C</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-second-stories-explained-well/"><u>[Updated] 2024 Approved 5-Second Stories Explained Well</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-complete-breakdown-of-color-tuning-methods/"><u>[Updated] A Complete Breakdown of Color Tuning Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-tech-list-screen-recorders-with-zero-latency/"><u>[Updated] In 2024, Elite Tech List Screen Recorders with Zero Latency</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-integrated-video-workflows-on-ios/"><u>2024 Approved Integrated Video Workflows on iOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-vocal-power-access-free-audio-effects-here/"><u>2024 Approved Unleash Creative Vocal Power Access Free Audio Effects Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-mpow-bluetooth-drivers-compatible-with-windows-1087/"><u>Download and Install MPOW Bluetooth Drivers: Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-debugging-and-stabilizing-your-persona-4-golden-experience/"><u>Expert Advice on Debugging & Stabilizing Your Persona 4 Golden Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lost-dxgidll-in-win11-swift-recovery-steps-explored/"><u>Lost Dxgi.dll in Win11? Swift Recovery Steps Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-saving-woes-top-6-strategies-for-windows-users/"><u>Mastering File Saving Woes: Top 6 Strategies for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/omprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>[New] Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>2024 Approved Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-windows-11-cannot-open-file-issue-for-writing/"><u>Counteracting Windows 11: Cannot Open File Issue for Writing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/diving-deep-into-samsung-photo-enhancers-guide-for-2024/"><u>Diving Deep Into Samsung Photo Enhancers Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-space-management-in-windows-revealed/"><u>Efficient Space Management in Windows, Revealed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g14-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G14 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easywebcamusage-recordingtipsandtricks/"><u>In 2024, EasyWebCamUsage RecordingTipsAndTricks</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-moving-your-onedrive-on-win-11/"><u>Mastering the Art of Moving Your OneDrive on Win 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/melody-as-mnemonic-device-science-and-songs-to-master-multiple-languages/"><u>Melody as Mnemonic Device: Science and Songs to Master Multiple Languages</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-video-migration-youtube-to-dailymotion-process/"><u>Navigating Video Migration YouTube to Dailymotion Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outdated-systems-alert-windows-781-support-cuts-off-by-microsoft/"><u>Outdated Systems Alert: Windows 7/8.1 Support Cuts Off by Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remote-pc-management-via-ios-and-android/"><u>Remote PC Management via iOS and Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-recover-lost-control-functionality-in-windows-11/"><u>Steps to Recover Lost Control Functionality in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-top-game-download-websites-2024/"><u>The Ultimate List Top Game Download Websites 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-reconstruct-damaged-windows-registry-sections/"><u>Unveiling Techniques to Reconstruct Damaged Windows Registry Sections</u></a></li>
 </ul></div>
 

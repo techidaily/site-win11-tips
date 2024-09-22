@@ -1,7 +1,7 @@
 ---
 title: Solutions for Non-Responsive Folders in WinXP/XO11
-date: 2024-09-13T04:07:53.339Z
-updated: 2024-09-17T04:26:21.585Z
+date: 2024-09-16T03:02:36.966Z
+updated: 2024-09-22T07:21:30.094Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Edit the Shell Registry Key
 
  Quite a few users have confirmed editing the **shell** registry key can fix the double-clicking of folders not working in Windows 11/10\. Those users changed that key’s **(Default)** string value to fix the issue. These are the steps for editing the **shell** key:
@@ -74,30 +81,17 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 ![The shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shell-key.jpg)
 5. If the **Value data** box is empty, or set differently, input **none** there as in the snapshot directly below.  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The (Default) string value for the shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-default-string-value.jpg)
 6. Click **OK** to save the new **(Default)** string value.
 
- You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
 
 ## 5\. Edit the Mouse Registry Key
 
@@ -114,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 ![The MouseHoverWidth string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-mousehoverwidth-string-value.jpg)
 5. Repeat the previous two steps for the **MouseHoverHeight**, **DoubleClickHeight**, and **DoubleClickWidth** strings in the **Mouse** key. Set their values to **4**, just like you did for the **MouseHoverWidth**string.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve finished adjusting those string values, exit the Registry Editor and restart your PC. If you find all those strings are already set to four, you don’t need to change them.
 
 ## 6\. Turn Off Controlled Folder Access
@@ -133,18 +120,34 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 2. Click **Virus & threat protection** in Windows Security’s left navigation sidebar.  
 ![The tab sidebar in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-security-s-tab-sidebar.jpg)
 3. Scroll down a little and click on **Manage ransomware protection**.  
-![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
-4. Click the **Controlled folder access** toggle switch to turn off that setting.  
-![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
-
- Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
+4. Click the **Controlled folder access** toggle switch to turn off that setting.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
 
 ## 7\. Revert Windows to a Restore Point
 
@@ -156,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
  To apply this potential fix, check out our guide on [utilizing System Restore](https://www.makeuseof.com/use-system-restore-windows/). The System Restore tool will need to be enabled for you to select a restoration point. Be prepared to reinstall software packages a selected restore point deletes, which you can check by clicking **Scan for affected programs** in System Restore.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make Double-Clicking Open Folders on Windows Again
 
  Those potential fixes for double-clicking folders not working will probably resolve that Windows 11/10 issue in most cases. We can’t promise they’re guaranteed, but lots of users have confirmed some of them work.
@@ -171,24 +167,6 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
 
  This issue doesn’t necessarily mean users can’t open any folders, for they can still access directories by selecting **Open** on the right-click menu. However, selecting the **Open** context menu option isn’t the most ideal way to access them. If you can’t open folders by double-clicking them on your Windows 11/10 PC, try applying these potential fixes.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-the-perfect-voice-and-vision-for-docs/"><u>[Updated] Crafting the Perfect Voice and Vision for Docs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-iphone-user-manual-for-water-imagery/"><u>[Updated] The Ultimate iPhone User Manual for Water Imagery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-storytelling-schools-1-8-rankings-and-insights/"><u>2024 Approved Top Storytelling Schools #1-#8 Rankings & Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audew-travel-friendly-compact-air-compressor-revealed-efficiency-meets-mobility/"><u>Audew Travel-Friendly Compact Air Compressor Revealed: Efficiency Meets Mobility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-email-failures-addressing-0x80072746-in-windows/"><u>Overcoming Email Failures: Addressing 0X80072746 in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-uninstallation-tips-for-non-functioning-printers-on-win-1011/"><u>Quick Uninstallation Tips for Non-Functioning Printers on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-frozen-opera-downloads-on-your-pc-windows/"><u>Revitalize Frozen Opera Downloads on Your PC Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-steam-video-playback-on-pc/"><u>Strategies to Improve Steam Video Playback on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-trailblazers-opening-game-data-easily-in-windows/"><u>Tech Trailblazers: Opening Game Data Easily in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-image-rotation-on-your-windows-11-pc/"><u>The Art of Image Rotation on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tactics-for-resolving-critical-system-interruption-error-0xc00000e9-on-your-pc/"><u>Troubleshooting Tactics for Resolving Critical System Interruption (Error 0xC00000E9) on Your PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +174,22 @@ thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-the-process-of-making-a-twitter-account/"><u>[New] 2024 Approved Unveiling the Process of Making a Twitter Account</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders-for-2024/"><u>[New] Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>[Updated] From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/deciding-on-a-smartphone-champion-comparing-iphones-with-android-devices-for-optimal-user-experience/"><u>Deciding on a Smartphone Champion: Comparing iPhones with Android Devices for Optimal User Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mp4-and-avi-video-converter-by-movavi-convert-videos-without-cost/"><u>Free Online MP4 & AVI Video Converter by Movavi: Convert Videos without Cost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-converter-von-aifc-to-m4a-mit-movavi-beginnen-sie-jetzt/"><u>Gratis Online Converter Von AIFC-to-M4A Mit Movavi - Beginnen Sie Jetzt</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-studio-study-xvideo-studio-insights/"><u>In 2024, Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-price-guide-for-cloud-storage-services/"><u>In 2024, Ultimate Price Guide for Cloud Storage Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ouroboros-uma-lista-com-10-estrategias-inteligentes-utilizando-ia-para-elevar-a-qualidade-dos-seus-videos/"><u>Ouroboros: Uma Lista Com 10 Estratégias Inteligentes Utilizando IA Para Elevar a Qualidade Dos Seus Vídeos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifique-sua-experiencia-de-conversao-de-audio-visual-ferramenta-moveis-e-eficiente-para-videos-avi-oficinas-de-movie/"><u>Simplifique Sua Experiência De Conversão De Áudio-Visual: Ferramenta Móveis E Eficiente Para Vídeos AVI - Oficinas De Movie</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-essential-review-why-amazon-basicss-7-port-usb-30-hub-stands-out/"><u>The Essential Review: Why Amazon Basics's 7-Port USB 3.0 Hub Stands Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-3g2-in-formati-compatibili-3gp-gratuitamente-su-movavi/"><u>Trasforma I Tuoi File .3G2 in Formati Compatibili 3GP Gratuitamente Su Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-utorrent-issues-top-7-quick-fix-strategies-for-non-responsiveness/"><u>Troubleshooting Utorrent Issues: Top 7 Quick Fix Strategies for Non-Responsiveness</u></a></li>
+</ul></div>
+

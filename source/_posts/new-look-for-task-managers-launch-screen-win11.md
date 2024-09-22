@@ -1,0 +1,148 @@
+---
+title: New Look for Task Manager's Launch Screen (Win11)
+date: 2024-09-16T07:17:02.213Z
+updated: 2024-09-21T16:53:29.003Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes New Look for Task Manager's Launch Screen (Win11)
+excerpt: This Article Describes New Look for Task Manager's Launch Screen (Win11)
+keywords: Win11 Launch Screen Update,Task Manager New UI,Windows 11 Task Bar Enhancement,Modern Task Manager Interface,Taskbar Redesign Win11,Updated Launcher Design Win11,Revamped Task Manager Win11
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
+---
+
+## New Look for Task Manager's Launch Screen (Win11)
+
+ The Task Manager provides a quick overview of your system's current status and shows essential information. Its Start page displays useful details such as currently running background processes, applications, CPU, and memory utilization. If you'd like to customize its appearance, change the Start page. In this article, we’ll look at how to change the Task Manager Start page in Windows 11\.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Use Task Manager Settings
+
+ If you want to quickly change the Task Manager Start page, you can use its Settings tab. This option requires no modification to the registry editor or additional scripts to run.
+
+ To change the Task Manager Start page using Task Manager settings, do the following.
+
+1. Press **Win + R** to open the Run dialog box.
+2. Type **taskmgr** and press **Enter** to launch Task Manager.
+3. Once in Task Manager, click on **Settings** (the gear icon).
+4. You'll see a **Default Start Page** drop-down menu at the top. This is where you can select the page to display when Task Manager opens.  
+![Use Settings to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-settings-to-change-task-manager-start-page.jpg)
+
+ The options available are the following:
+
+1. Processes
+2. Performance
+3. App history
+4. Startup apps
+5. Users
+6. Details
+7. Services ​​​​
+
+ Once you make a selection, Task Manager will remember the setting and open the page you chose from now on.
+
+## 2\. Tweak the Registry Editor
+
+ The Registry Editor is another way to change the default Start page for Task Manager. The procedure is slightly more complex than using Task Manager Settings, but it offers more customization options. Be careful when modifying entries in the Registry Editor, as incorrect changes can cause errors or system instability. To avoid losing data, [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing it.
+
+ To change the Task Manager Start page using the Registry Editor, follow these steps.
+
+1. [Open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/).
+2. If the UAC prompt pops up, click **Yes** to grant administrative rights.
+3. In the left pane, navigate to the following key.  
+`Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\TaskManager`
+4. Double-click **StartUpTab** in the right pane. If there is no such entry, then right-click on the Task Manager key.
+5. From the context menu, select **New > DWORD (32-bit) Value**.
+6. Now name the value **StartUpTab** and double-click on it.  
+![Modify Registry to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-task-manager-start-page.jpg)
+7. Set its **Value data** to one of the following numbers to change the default start page:  
+`0 = Processes  
+
+1 = Performance  
+
+2 = App history  
+
+3 = Startup apps  
+
+4 = Users  
+
+5 = Details  
+
+6 = Services`
+8. Click **OK** to save the changes and close the Registry Editor window.
+
+ Next time you open Task Manager, it will display a page according to your preferences.
+
+## 3\. Use a REG File
+
+ If the registry editor isn't your thing, you can use a REG file to modify the Task Manager start page. The process does not require registry tweaking and is straightforward.
+
+ To create a .reg file, [open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) and type the following:
+
+`Windows Registry Editor Version 5.00  
+  
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\TaskManager]  
+  
+"StartUpTab"=dword:00000000`
+
+ Here, the last digit reflects the type of Start page.
+
+ For example, if you want to set **Processes** as your default start page, use **0** (**00000000**). Similarly, if you want the **Details** page to display as default, set it to **5** (**00000005**).
+
+ The other options are:
+
+`00000001 - Performance  
+  
+00000002 - App history  
+  
+00000003 - Startup apps  
+  
+00000004 - Users  
+  
+00000006 - Services`
+
+ Now, click **File** and select **Save as**. In the Save as dialog box, click the Save as type drop-down menu and select **All files**. Name the file with the **.reg** extension. For example, **TaskManagerStartPage.reg**.
+
+![Use a REG File to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-a-reg-file-to-change-task-manager-start-page.jpg)
+
+ Next, select **Desktop** from the left pane and click **Save**. Once saved, double-click on this newly created REG file. This adds the required details to the Registry Editor and changes the Task Manager start page.
+
+ If you ever want to revert the changes, delete the REG file and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Changing the Task Manager Start Page on Windows
+
+ It’s easy to customize Task Manager and change its Start page according to your preference. You can use Task Manager Settings, the Registry Editor, or a REG file to set the desired page. Once you have set the Start page, Task Manager will remember it and open that page when you launch it.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-vrecorder-guide-downloading-and-setting-up-instantly/"><u>[Updated] In 2024, VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>[Updated] Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-cover-video-all-you-need-to-know/"><u>2024 Approved Facebook Cover Video All You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decouvrez-la-fabrique-dimages-de-storyboard-methode-et-procedes-pour-creer-un-effet-visuel-persuasif/"><u>Découvrez La Fabrique D'Images De Storyboard: Méthode Et Procédés Pour Créer Un Effet Visuel Persuasif!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elemental-concepts-in-kinetic-design-workflow/"><u>In 2024, Elemental Concepts in Kinetic Design Workflow</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze 2 Phone without Google Account?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/selecting-a-new-desktop-top-8-must-know-points-before-making-your-purchase/"><u>Selecting a New Desktop: Top 8 Must-Know Points Before Making Your Purchase</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasformare-i-file-mp3-in-formato-webm-senza-costi-con-il-servizio-di-movavi/"><u>Trasformare I File MP3 in Formato WEBM Senza Costi Con Il Servizio Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-202/"><u>동영상 줄이기 기술에서 시대를 전환하는 데 도움이 되는 10가지 권장 프로그: 202</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

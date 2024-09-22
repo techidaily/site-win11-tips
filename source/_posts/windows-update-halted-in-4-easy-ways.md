@@ -1,7 +1,7 @@
 ---
 title: Windows Update Halted in 4 Easy Ways
-date: 2024-09-12T19:26:34.751Z
-updated: 2024-09-17T02:18:21.979Z
+date: 2024-09-14T18:56:23.290Z
+updated: 2024-09-21T16:12:42.753Z
 tags:
   - windows10
   - windows11
@@ -101,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
 3. Rename the key as**16.0** .
@@ -125,13 +112,26 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 9. Click**OK** .  
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
@@ -153,15 +153,17 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>[Updated] Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concept-maps-in-obsidian-note-taking/"><u>Crafting Concept Maps in Obsidian Note-Taking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-launch-screens/"><u>Creating Captivating Podcast Launch Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-device-recognition-failure-during-installation/"><u>Fixing Windows Device Recognition Failure During Installation</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-winstall-to-batch-install-apps-in-windows-11/"><u>How to Use Winstall to Batch Install Apps in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-c55-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme C55 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-error-cannot-find-binkw32dll-file-on-your-pc/"><u>Resolving the ERROR: Cannot Find Binkw32.DLL File on Your PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-wintoys-unleashing-the-full-potential-of-a-powerful-windows-app/"><u>The Complete Guide to WinToys: Unleashing the Full Potential of a Powerful Windows App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>[Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-engaging-narration-for-your-video-projects/"><u>[Updated] Crafting Engaging Narration for Your Video Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-8-software-for-linux-video-editors/"><u>[Updated] Leading 8 Software for Linux Video Editors</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-steps-to-confirm-and-secure-your-tiktok-videos-for-posting/"><u>[Updated] Steps to Confirm and Secure Your TikTok Videos for Posting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-in-depth-study-of-audafreedomaudiotools/"><u>[Updated] The In-Depth Study of AudaFreedomAudioTools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726227590973-movavi-dts-wav/"><u>如何使用 Movavi 工具，在不付錢的情況下改變 DTS 和 WAV 格式</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-meizu-21-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Meizu 21 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-animating-items-on-screen-tutorial-for-engaging-content/"><u>Techniques for Animating Items on Screen - Tutorial for Engaging Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveil-the-power-leveraging-windows-11-and-zoom-maximum-for-2024/"><u>Unveil the Power Leveraging Windows 11 and Zoom Maximum for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-most-popular-video-editing-software-among-pros/"><u>Updated In 2024, The Most Popular Video Editing Software Among Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmavobmovavi-web/"><u>WMA・VOBファイルを無料で簡単変換:Movavi Webサービス</u></a></li>
 </ul></div>
 

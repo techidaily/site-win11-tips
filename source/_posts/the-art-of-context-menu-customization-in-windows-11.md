@@ -1,7 +1,7 @@
 ---
 title: The Art of Context Menu Customization in Windows 11
-date: 2024-09-16T01:10:41.443Z
-updated: 2024-09-17T00:31:44.589Z
+date: 2024-09-17T00:01:22.089Z
+updated: 2024-09-21T22:47:15.945Z
 tags:
   - windows10
   - windows11
@@ -97,13 +97,6 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -114,21 +107,22 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -150,18 +144,20 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-the-directors-suite-powerdirector-2024-deep-dive/"><u>[New] Inside the Director's Suite PowerDirector 2024 Deep Dive</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024s-guide-to-superior-soundtracks-adding-srt-to-mp4-files/"><u>[Updated] 2024’S Guide to Superior Soundtracks – Adding SRT to MP4 Files</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elite-yoga-routines-youtubes-leading-fitness-sites/"><u>2024 Approved Elite Yoga Routines YouTube's Leading Fitness Sites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-precision-portals-to-ps3-gaming-on-windows/"><u>2024 Approved Precision Portals to Ps3 Gaming on Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unparalleled-viewing-premium-hdmi-21-gaming-monitors-ps5/"><u>2024 Approved Unparalleled Viewing Premium HDMI 2.1 Gaming Monitors [PS5]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-yellow-tint-reviving-true-colors-on-laptops/"><u>Fixing Yellow Tint: Reviving True Colors on Laptops</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>In 2024, Broadcast Repeat Looping YouTube Video Magic for Your Setup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-podcast-visibility-via-instagram-channels/"><u>In 2024, Optimizing Podcast Visibility via Instagram Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-efficient-command-execution-via-keys-w11-edition/"><u>Introducing Efficient Command Execution via Keys, W11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-cant-add-your-folder-now-a-quick-guide-to-onedrive/"><u>Navigating Through 'Can't Add Your Folder Now': A Quick Guide to OneDrive</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-11-printer-issues-and-solutions-quickly/"><u>Unlock Windows 11 Printer Issues & Solutions Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage/"><u>[New] Digital Dynamics How to Share Videos Effectively on Facebook's Stage</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>[New] In 2024, ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-clearing-the-vision-zoom-mastery-for-intimate-online-gatherings-for-2024/"><u>[Updated] Clearing the Vision Zoom Mastery for Intimate Online Gatherings for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypassing-cpu-restrictions-a-step-by-step-guide-to-installing-windows-11-on-non-compliant-processors/"><u>Bypassing CPU Restrictions: A Step-by-Step Guide to Installing Windows 11 on Non-Compliant Processors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ease-teammers-frustrations-quickly/"><u>Ease Teammers' Frustrations, Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-error-0x8024800c/"><u>How to Fix Windows Update Error 0X8024800C</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-streamers-guide-to-360-degree-live-footage/"><u>In 2024, Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-x5-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco X5 Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-toolbar-usage-in-mspcm-for-windows-11/"><u>Mastering Toolbar Usage in MSPCM for Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-frontiers-toms-hardware-evaluations-and-reviews/"><u>Navigating New Tech Frontiers: Tom's Hardware Evaluations and Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-pct-a-windows-fixers-journey/"><u>Navigating PCT: A Windows Fixer's Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-steam-service-tackling-errors-on-windows-11/"><u>Securing Steam Service: Tackling Errors on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/slow-it-down-a-comprehen/"><u>Slow It Down A Comprehen</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Updated Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-filing-excellence-ultimate-list-max-156/"><u>Windows Filing Excellence: Ultimate List (Max 156)</u></a></li>
 </ul></div>
 

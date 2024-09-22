@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for Windows 11’S Elevation Obstacle Error Code 740
-date: 2024-09-11T03:47:52.988Z
-updated: 2024-09-17T02:41:14.069Z
+date: 2024-09-18T05:09:50.054Z
+updated: 2024-09-22T05:46:58.063Z
 tags:
   - windows10
   - windows11
@@ -62,20 +62,20 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select **Yes** when asked to continue.
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 9. Then reboot Windows after closing Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Admin Approval Mode
@@ -115,30 +115,17 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. To close the policy window, select the **OK** option.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -156,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 ## Get Error 740 Sorted on Windows
@@ -164,23 +158,6 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  This is how you can fix error 740 within Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-visibility-the-most-effective-30-freefire-tags-for-video-marketing/"><u>[Updated] In 2024, Enhance Visibility The Most Effective 30 FreeFire Tags for Video Marketing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-mkv-movies-content-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Galaxy A25 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-trustworthy-hardware-delete-function-window/"><u>Crafting a Trustworthy Hardware Delete Function Window</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-nubia-red-magic-8s-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-m477-color-laserjet-printer-software-here/"><u>Get Your HP M477 Color Laserjet Printer Software Here!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-f23-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo F23 5G Without PUK Codes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>In 2024, Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-diverse-windows-partition-union/"><u>Mastering the Art of Diverse Windows Partition Union</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-landscape-of-online-interactions-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Landscape of Online Interactions: Leading Platforms - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-defective-functionality-to-netflix-on-pc/"><u>Restoring Defective Functionality to Netflix on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealthy-operations-for-windows-zone-visibility/"><u>Stealthy Operations for Windows Zone Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-adding-dolby-atmos-to-your-pc/"><u>Step-By-Step: Adding Dolby Atmos to Your PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +165,22 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-on-the-go-gyroscopic-footage-smoother/"><u>[New] On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-no-cost-2d-design-programs-to-enhance-creativity-with-transparency-features-software-and-applications-year-2024/"><u>Best No-Cost 2D Design Programs to Enhance Creativity with Transparency Features (Software & Applications) – Year 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compressao-de-videos-para-e-mailes-melhores-truques-e-dicas-por-expertos/"><u>Compressão De Vídeos Para E-Mailes: Melhores Truques E Dicas Por Expertos!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargar-el-avi-player-para-windows-10-sin-costo-guia-completa-de-instalacion-y-uso/"><u>Descargar El AVI Player Para Windows 10 Sin Costo: Guía Completa De Instalación Y Uso</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-find-and-install-the-latest-acer-aspire-drivers-in-a-windows-environment/"><u>Expert Advice: How to Find and Install the Latest Acer Aspire Drivers in a Windows Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-site-seo-performance/"><u>Harnessing the Power of Cookiebot for Enhanced Site SEO Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-cinematic-techniques-with-youtube-veterans-and-novices/"><u>Learn Cinematic Techniques with YouTube Veterans and Novices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-7025-and-nforce630a-resolved-windows-issue/"><u>Nvidia 7025 & nForce630a: Resolved Windows Issue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pulling-puzzled-listeners-intros-that-involve-for-2024/"><u>Pulling Puzzled Listeners Intros That Involve for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlining-movement-in-minecraft-expert-advice-on-using-the-teleport-command/"><u>Streamlining Movement in Minecraft: Expert Advice on Using the Teleport Command</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-archivos-mp4-al-linea-guia-definitiva-con-movavi/"><u>Transformación Gratuita De Archivos MP4 Al Línea: Guía Definitiva Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-de-conversion-dvd-a-avi-comment-utiliser-le-programme-movavi-video-converter/"><u>Tutorial De Conversion DVD À AVI: Comment Utiliser Le Programme Movavi Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slideshow-creator/"><u>현재 구매 가능: 모항감 만들기 도구 - Slideshow Creator</u></a></li>
+</ul></div>
+

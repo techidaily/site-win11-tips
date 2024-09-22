@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 10/11'S Video Driver Restart
-date: 2024-09-12T07:23:54.038Z
-updated: 2024-09-16T16:30:52.627Z
+date: 2024-09-16T19:46:42.022Z
+updated: 2024-09-22T01:14:46.262Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  If the **Scan for hardware** changes option doesn’t reinstall the GPU’s driver, download the latest driver package for your graphics card from the [Intel](https://www.intel.com/content/www/us/en/download-center/home.html), [AMD](https://www.amd.com/en/support), or [NVIDIA](https://www.nvidia.com/download/index.aspx) websites. Double-click on the downloaded driver package file to open its setup window and select the installation option there.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Lower Your Monitor’s Refresh Rate
 
  Some users have said on forums that lowering the frame rate can resolve the “Video driver crashed” error. So, that might be worth trying if your monitor has a higher maximum refresh rate. You can reduce the frame rate by lowering a monitor’s refresh rate as follows:
@@ -71,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
  The “Video driver crashed” error can sometimes occur when a game’s graphical settings are set too high. That’s more likely on lower-spec PCs with poorer GPUs that can’t handle higher graphics settings so well.
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 ![A game's Graphics Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/graphics-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can try selecting a lower graphics preset option instead. Most games have three or more graphics presets that generally change graphical settings. Selecting a lower-quality preset will automatically reduce various graphics options.
@@ -113,17 +113,17 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-dword-32-bit-value-option.jpg)
 5. Input **TDRDelay** for the key’s title.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Double-click on the **TDRDelay** registry entry.
 7. Delete the current number and enter **8** in the **Value data** box.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-edit-dword-window.jpg)
 8. Select **OK** to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart the PC after applying this registry tweak. Then, try playing games or videos to see if this error still occurs.
 
@@ -135,22 +135,6 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults/"><u>[New] In 2024, A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expand-your-gaming-library-5-best-xbox-hdds/"><u>[New] In 2024, Expand Your Gaming Library 5 Best Xbox HDDs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovation-unleashed-new-samsung-ubd-k8500-review/"><u>[Updated] Innovation Unleashed - New Samsung UBD-K8500 Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-world-of-youtube-shorts-a-filmmakers-handbook-for-2024/"><u>[Updated] Navigating the World of YouTube Shorts A Filmmaker's Handbook for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-overcoming-compression-artifacts-on-youtube-videos/"><u>[Updated] Overcoming Compression Artifacts on YouTube Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-non-functional-iphoneipad-widgets-in-just-10-easy-steps/"><u>Fix Your Non-Functional iPhone/iPad Widgets in Just 10 Easy Steps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snapseed-simplified-the-photographers-first-toolkit/"><u>In 2024, Snapseed Simplified The Photographer's First Toolkit</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-hurdles-of-code-19-errors-a-comprehensive-guide-for-windows-users/"><u>Overcoming the Hurdles of Code 19 Errors: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/purge-latency-in-win1110-with-easy-fixes/"><u>Purge Latency in Win11/10 with Easy Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-integrating-the-search-feature-into-win11s-task-manager/"><u>Re-Integrating the Search Feature Into Win11's Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-altering-windows-11-default-actions/"><u>The Insider's Guide to Altering Windows 11 Default Actions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +142,18 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enrich-your-videos-expert-recommended-players-guide/"><u>[New] 2024 Approved Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-live-feed-obs-on-instagram-app/"><u>[New] Live Feed OBS on Instagram App</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-smart-strategies-for-buying-economical-gopros/"><u>[Updated] 2024 Approved Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>[Updated] In 2024, Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-file-renaming-challenges-with-powertoys/"><u>Conquer File Renaming Challenges With PowerToys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convenient-sync-combining-onedrive-with-microsoft-id/"><u>Convenient Sync: Combining OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-skype-call-recording-tactics-for-pcsmacs/"><u>In 2024, Essential Skype Call Recording Tactics for PCs/Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-multiple-close-down-in-one-swift-action-on-windows/"><u>Master Multiple Close-Down in One Swift Action on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-chrome-file-handling-on-your-pc-windows-style/"><u>Streamline Chrome File Handling on Your PC, Windows Style</u></a></li>
+</ul></div>
+

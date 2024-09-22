@@ -1,7 +1,7 @@
 ---
 title: "Win11 and File Explorer: Stop the Crashing Cycle Now"
-date: 2024-09-15T03:31:54.955Z
-updated: 2024-09-17T04:41:29.964Z
+date: 2024-09-16T05:00:38.679Z
+updated: 2024-09-21T19:32:27.889Z
 tags:
   - windows10
   - windows11
@@ -53,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Launch Folder Windows in a Separate Process
@@ -82,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 5. Hit**Apply** followed by**OK** .  
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Run the Windows Memory Diagnostic Tool
 
  You are likely to experience such File Explorer crashes if there is an issue with your PC’s RAM. Fortunately, Windows includes a useful Memory Diagnostic tool that can examine your RAM for any potential errors. Running the tool requires a system restart, so be sure to save all your work beforehand.
@@ -103,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
 ## 7\. Troubleshoot in Clean Boot Mode
@@ -110,6 +97,19 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
  We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
@@ -141,17 +141,18 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-practices-for-shooting-nighttime-selfies-and-portraits/"><u>[New] 2024 Approved Best Practices for Shooting Nighttime Selfies & Portraits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-maximizing-efficiency-in-remote-group-meetings/"><u>[Updated] 2024 Approved Maximizing Efficiency in Remote Group Meetings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-archive-all-highlights-no-limit-savers-available-for-2024/"><u>[Updated] Archive All Highlights No Limit Savers Available for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-m14-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy M14 4G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-storage-4-methods-for-accessing-windows-disk-manager/"><u>Maximizing Storage: 4 Methods for Accessing Windows Disk Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethinking-remote-work-lightweight-tech-innovations/"><u>Rethinking Remote Work: Lightweight Tech Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-a-non-loading-steam-store-interface/"><u>Step-by-Step Solution for a Non-Loading Steam Store Interface</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-c53-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme C53 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleashing-power-and-precision-winning-with-windows-os/"><u>Unleashing Power and Precision: Winning with Windows OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-the-power-of-light-advanced-hdr-in-ps-for-2024/"><u>Unleashing the Power of Light Advanced HDR in PS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-are-app-execution-aliases-and-how-do-you-use-them/"><u>What Are App Execution Aliases, and How Do You Use Them?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-limited-access-woes-try-these-9-innovative-solutions/"><u>Win11's Limited Access Woes? Try These 9 Innovative Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evolving-from-static-snapshots-to-moving-visuals/"><u>[Updated] Evolving From Static Snapshots to Moving Visuals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-secrets-to-unlocking-costless-image-streams/"><u>[Updated] In 2024, Secrets to Unlocking Costless Image Streams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-it-admin-access-limited-error-in-winsec/"><u>Disabling IT Admin Access Limited Error in WinSec</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-upgrade-your-avi-content-to-ultra-crisp-hd-quality-for-enhanced-viewing-experience/"><u>Effortlessly Upgrade Your AVI Content to Ultra-Crisp HD Quality for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fitbit-versa-lite-review-fitness-monitoring-at-a-great-price/"><u>Fitbit Versa Lite Review: Fitness Monitoring at a Great Price</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-13-pro-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 13 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-hot-40-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Hot 40 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-amplify-volume-for-twitters-silent-videos/"><u>In 2024, Amplify Volume for Twitter's Silent Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-zte-blade-a73-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-moving-your-onedrive-on-win-11/"><u>Mastering the Art of Moving Your OneDrive on Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outdated-systems-alert-windows-781-support-cuts-off-by-microsoft/"><u>Outdated Systems Alert: Windows 7/8.1 Support Cuts Off by Microsoft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sticky-notes-management-on-windows-1110/"><u>Sticky Notes Management on Windows 11/10</u></a></li>
 </ul></div>
 

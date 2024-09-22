@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Hello Authentication Failure
-date: 2024-09-13T00:54:41.701Z
-updated: 2024-09-16T16:24:07.721Z
+date: 2024-09-16T20:08:44.547Z
+updated: 2024-09-22T02:10:36.618Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  Once you've undone both driver and Windows updates, try setting up Windows Hello biometric login again. If you continue to experience the same problem after rolling back these updates, it suggests that undoing these updates hasn't made a difference. In that case, you should reinstall the drivers and Windows update.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ensure the Windows Biometric Service Is Configured Properly
 
  When the Windows biometric service is disabled, Windows Hello fingerprint recognition won't work. To ensure this service is enabled and configured correctly, follow these steps:
@@ -56,29 +63,38 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 1. Type**"Services"** in Windows Search and open the**Services** app.  
 ![Open Services App From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-open-services-app-from-windows-search.jpg)
 2. Locate**Windows Biometric Service** .  
-![Locate Windows Biometric Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-locate-windows-biometric-service-in-windows-services-app.jpg)
-3. If you see**"Running"** next to this service in the**Status** column, it's already running. If not, it's disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Locate Windows Biometric Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-locate-windows-biometric-service-in-windows-services-app.jpg)
+3. If you see**"Running"** next to this service in the**Status** column, it's already running. If not, it's disabled.
 
 4. In either case, right-click the service and select**Properties** .  
 ![Go to Properties of Windows Biometric Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-go-to-properties-of-windows-biometric-service-in-windows-services-app.jpg)
 5. Click on the dropdown menu next to**Startup type** and select**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Select Automatic From the Startup Type Dropdown Menu in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-select-automatic-from-the-startup-type-dropdown-menu-in-the-properties-window.jpg)
 6. If it's already selected, click the**Stop** button to stop the service and then click**Start** again to restart it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Start Button to Restart the Service in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-click-start-button-to-restart-the-service-in-windows-services-app.jpg)
 
 ## 5\. Update or Reinstall the Biometric Drivers
@@ -91,21 +107,7 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 ![Update the Fingerprint Scanner Device in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-update-the-fingerprint-scanner-device-in-windows-device-manager.jpg)
 4. Then, click on**Search automatically for drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If updating the drivers does not fix the problem, right-click the biometric device again and select**Uninstall device** . After uninstalling the drivers, reboot your device, and Windows will automatically install them again. If you prefer, you can also download the relevant drivers from the manufacturer's website and install them manually.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Fast Startup
 
@@ -144,20 +146,18 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-understanding-2023s-push-for-shorter-more-impactful-facebook-videos/"><u>[New] In 2024, Understanding 2023'S Push for Shorter, More Impactful Facebook Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-stream-viewer-unraveler-for-2024/"><u>[New] Stream Viewer Unraveler for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-groupgaze-video-extractor-for-2024/"><u>[Updated] GroupGaze Video Extractor for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-vmfreeze-ups-vmware-guide/"><u>Clearing Up Windows VMfreeze-Ups: VMware Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dynamic-desktop-decoration-integrating-spotlight-images-for-wallpapers/"><u>Dynamic Desktop Decoration: Integrating Spotlight Images for Wallpapers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-gaming-potential-with-advanced-amd-radeon/"><u>Elevate Your PC's Gaming Potential With Advanced AMD Radeon</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issue-4201-in-genshin-impact-a-complete-guide/"><u>Fixing Issue 4201 in Genshin Impact - A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quicken-slow-excel-processes-on-windows-machines/"><u>How to Quicken Slow Excel Processes on Windows Machines</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y100i-power-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y100i Power 5G PC | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-macos-11-big-sur-transition-tips/"><u>In 2024, Understanding macOS 11 Big Sur Transition Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-your-phone-calls-into-windows-11-via-intel-unison/"><u>Integrating Your Phone Calls Into Windows 11 via Intel Unison</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-open-disk-space-on-windows-1011/"><u>Step-by-Step to Open Disk Space on Windows 10/11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-your-pc-after-encountering-whea-errors/"><u>Troubleshooting and Fixing Your PC After Encountering WHEA Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-silent-microphone-issues/"><u>Understanding and Fixing Silent Microphone Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-fresh-capabilities-discover-the-iphone-improvements-in-apples-recent-ios-1evolution-version-172-update/"><u>Unlocking Fresh Capabilities: Discover the iPhone Improvements in Apple's Recent iOS 1Evolution, Version 17.2 Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[New] How to React if Your Live Video Is Quashed on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-zd-soft-screen-recorder-a-comprehensive-handbook/"><u>[New] In 2024, Mastering ZD Soft Screen Recorder A Comprehensive Handbook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-storyboard-studio/"><u>[Updated] 2024 Approved Digital Storyboard Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-techniques-for-transforming-mp4-videos-into-the-versatile-oggv-file-format/"><u>Best Techniques for Transforming MP4 Videos Into the Versatile OGGV File Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-pc-and-mac-9-superior-traits-for-pcs/"><u>Comparing PC & Mac: 9 Superior Traits for PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-made-simple-android-and-windows-shared-files-guide/"><u>Connectivity Made Simple: Android & Windows Shared Files Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-scout-for-empty-folders-delete-them-in-windows/"><u>Efficiently Scout for Empty Folders, Delete Them in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/global-navigation-simplified-powertoys-peek-and-border-integration/"><u>Global Navigation Simplified - PowerToys' Peek & Border Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-addressing-error-0x800700e1-on-windows-11/"><u>Guidelines for Addressing Error 0X800700E1 on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-ps4-ce-34878-0-error-code-successfully/"><u>How to Resolve the PS4 CE-34878-0 Error Code Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-snowrunner-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Guide: How to Stop SnowRunner From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-tips-to-erase-unwanted-temp-files-quickly/"><u>Windows Tips to Erase Unwanted Temp Files Quickly</u></a></li>
 </ul></div>
 

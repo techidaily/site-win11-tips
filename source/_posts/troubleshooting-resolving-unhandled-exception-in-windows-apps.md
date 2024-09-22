@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving 'Unhandled Exception' In Windows Apps"
-date: 2024-09-12T03:54:04.853Z
-updated: 2024-09-16T21:27:01.069Z
+date: 2024-09-20T05:05:15.052Z
+updated: 2024-09-21T18:47:59.800Z
 tags:
   - windows10
   - windows11
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
  Check out our guide to learn[how to scan your PC for malware with the Microsoft Defender](https://www.makeuseof.com/windows-11-quick-security-guide/) . Or if you've installed a third-party antivirus on your PC, use that to scan for malware.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the .NET Framework Repair Tool
@@ -79,22 +73,8 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![.NET Framework Repair Tool License Terms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-tool-license-terms.jpg)
 3. The tool will start**Detecting issues** and then a window with**Recommended Changes** will open up. Review the recommended changes and click**Next** to apply them.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Recommended Changes by .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes.jpg)
 4. Once the changes are made, the**Changes complete** window will appear. Click on**Finish** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Changes Complete Window of .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes-complete.jpg)
 5. Now, restart your computer.
@@ -106,25 +86,41 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 1. In**Windows Search** , type**Windows Features** and**Turn Windows features on or off** would show up under**Best match** . Click on it.  
 ![Turn-Windows-Features-On-Or-Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off.jpg)
 2. In the Windows Features window, you'll see the**.NET Framework 3.5** and**.NET Framework 4.8** **Advanced Services** . If the box next to .NET Framework 3.5 is not filled, click in the checkbox to fill it and then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enable. NET Framework 3.5 in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-net-framework-1.jpg)
 3. The next window might alert you that **Windows needs some files from Windows Updates to finish installing some features** . Select the option**Let Windows Update download the files for you** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
 4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use System File Checker on Windows
 
@@ -151,12 +147,21 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/boost-your-ai-experience-with-chatgpt-desktop-app-why-it-beats-the-website/"><u>Boost Your AI Experience with ChatGPT Desktop App - Why It Beats the Website</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-innovative-tricks-for-captivating-boomerangs/"><u>In 2024, Innovative Tricks for Captivating Boomerangs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-non-functional-microsoft-store-in-windows-11/"><u>Quick Fix for Non-Functional Microsoft Store in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966550227-self-healing-concrete-contains-healing-agents-that-react-when-exposed-to-air-or-water-through-cracks-leading-to-crack-sealing/"><u>Self-Healing Concrete Contains Healing Agents that React when Exposed to Air or Water Through Cracks, Leading to Crack Sealing.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-hidden-risks-of-ignoring-windows-11-notification-sounds/"><u>The Hidden Risks of Ignoring Windows 11 Notification Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-mystery-of-windows-credentials-with-these-top-11-strategies/"><u>Unlock the Mystery of Windows Credentials with These Top 11 Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>2024 Approved Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-hexadrones-aviations-top-ten/"><u>2024 Approved HexaDrones Aviation's Top Ten</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-xiaomi-redmi-a2-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Xiaomi Redmi A2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commentaires-et-recommandations-dexperts-sur-le-logiciel-movavi/"><u>Commentaires Et Recommandations D'experts Sur Le Logiciel Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-13-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-on-an-iphones-technological-leap/"><u>Deciding on an iPhone's Technological Leap</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-preventing-gtfo-application-from-crashing/"><u>Expert Tips for Preventing GTFO Application From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-dts-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti DTS Online Con Movavi - Guida Istantanea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guru-da-conversao-de-audio-transforme-seus-livros-e-podcasts-m4b-em-mp3-com-seguranca-passo-a-passo/"><u>Guru Da Conversão De Audio: Transforme Seus Livros E Podcasts M4B Em MP3 Com Segurança - Passo a Passo</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-videography-essentials-7-free-audio-choices/"><u>In 2024, YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-download-graca-conversor-de-formatos-em-massa-para-3gp-e-3g2-online-gratuito/"><u>Movavi: Download Graça - Conversor De Formatos Em Massa Para 3GP E 3G2 (Online Gratuito)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-8-site-mais-confiaveis-e-populares-para-encanar-filmes-e-series-online-gratuitamente/"><u>Os 8 Site Mais Confiáveis E Populares Para Encanar Filmes E Séries Online Gratuitamente</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-stadia-connection-issues-with-your-headset/"><u>Step-by-Step Fixes for Stadia Connection Issues with Your Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-vob-en-mp4-gratuitement-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier VOB en MP4 Gratuitement - Guide Détaillé Avec Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-picture-in-picture-feature-across-all-chrome-devices-for-2024/"><u>Utilizing Picture In Picture Feature Across All Chrome Devices for 2024</u></a></li>
 </ul></div>
 

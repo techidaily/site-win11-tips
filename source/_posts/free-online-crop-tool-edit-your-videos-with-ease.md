@@ -1,7 +1,7 @@
 ---
 title: "Free Online Crop Tool: Edit Your Videos with Ease"
-date: 2024-09-12 13:14:27
-updated: 2024-09-13 12:47:24
+date: 2024-09-16T21:47:32.661Z
+updated: 2024-09-21T23:32:32.278Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8da863bde22cbea6330385384.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -270,6 +277,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -324,6 +338,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -337,6 +358,19 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -488,6 +522,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -536,11 +577,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-a-comprehensive-handbook-for-expert-srt-making/"><u>[New] 2024 Approved A Comprehensive Handbook for Expert SRT Making</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-viewer-growth-strategy-dynamic-description-templates-for-youtube-success/"><u>[New] In 2024, Viewer Growth Strategy Dynamic Description Templates for YouTube Success</u></a></li>
+<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-0x800704cf-error-on-windows-devices/"><u>Eliminating the 0X800704CF Error on Windows Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-play-experience-for-red-dead-redemption-2-eliminating-frame-rate-disruptions-and-hitches/"><u>Enhanced Play Experience for Red Dead Redemption 2: Eliminating Frame Rate Disruptions & Hitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-fundamental-techniques-to-rectify-login-conflicts-on-windows-11/"><u>Five Fundamental Techniques to Rectify Login Conflicts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-losing-windows-11-taskbar-chat-affect-you/"><u>How Does Losing Windows 11 Taskbar Chat Affect You?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-windows-memory-not-recorded-problems/"><u>How to Overcome Windows Memory Not Recorded Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-0x0000004e-fault-in-windows-10-and-11/"><u>Overcoming 0X0000004E Fault in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quick-tips-for-transcribing-audio-to-text-using-microsoft-word-for-2024/"><u>Quick Tips for Transcribing Audio to Text Using Microsoft Word for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-missing-sections-of-navigation-view/"><u>Remedying Missing Sections of Navigation View</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-hearthstone-essential-troubleshooting-steps-for-silent-issues/"><u>Reviving Audio on Hearthstone – Essential Troubleshooting Steps for Silent Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-watching-dvds-on-your-toshiba-notebook/"><u>Step-by-Step Guide: Watching DVDs on Your Toshiba Notebook</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-27-speech-recognition-tools-for-text-an-ultimate-guide-by-moveavi/"><u>Top 27 Speech Recognition Tools for Text : An Ultimate Guide by MoveAVI</u></a></li>
+</ul></div>
+

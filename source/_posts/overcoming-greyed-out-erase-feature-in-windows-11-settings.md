@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed Out Erase Feature in Windows 11 Settings
-date: 2024-09-12T21:26:59.534Z
-updated: 2024-09-16T19:57:15.134Z
+date: 2024-09-16T05:12:17.582Z
+updated: 2024-09-22T02:55:41.184Z
 tags:
   - windows10
   - windows11
@@ -78,22 +78,15 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -104,6 +97,13 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Scroll down and click on**PIN (Windows Hello).**
 5. Click on**Remove** and then on**Remove** again to confirm the action.
 6. Enter your account password and click OK to remove the PIN.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
 
@@ -124,16 +124,21 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-fb-instream-ad-impact-configuration-techniques-and-metrics/"><u>[New] 2024 Approved Maximizing FB Instream Ad Impact Configuration Techniques and Metrics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-building-impressive-facebook-slideshows-a-practical-guide/"><u>[New] Building Impressive Facebook SlideShows A Practical Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-access-to-facebook-beats-for-2024/"><u>[New] Exclusive Access to Facebook Beats for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-dismantle-that-dominating-green-distortion-in-mac-based-videos-for-2024/"><u>[Updated] Dismantle That Dominating Green Distortion in Mac-Based Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-hulu-recording-across-windows-mac-and-mobile-devices/"><u>[Updated] In 2024, Mastering Hulu Recording Across Windows, Mac, and Mobile Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-tricks-to-embrace-cameras-motion-artistry/"><u>2024 Approved IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-not-launching-errors-in-pubg-2024-a-step-by-step-guide/"><u>How to Resolve 'Not Launching' Errors in PUBG 2024 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-lockscreensaver-delay/"><u>Mastering Windows Lock/Screensaver Delay</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-claiming-game-purchases-on-steam/"><u>The Ultimate Guide to Claiming Game Purchases on Steam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80073712/"><u>Understanding and Resolving Error 0X80073712</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-maximizing-vimeo-presence-with-movies-from-wmm/"><u>[New] Maximizing Vimeo Presence with Movies From WMM</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-chronicles-expert-tips-for-story-downloads/"><u>[Updated] Instagram Chronicles Expert Tips for Story Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-innovative-gloves-for-virtual-immersion/"><u>[Updated] Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-5-top-sites-to-download-royalty-free-comedy-background-music/"><u>2024 Approved 5 Top Sites to Download Royalty Free Comedy Background Music</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/akvariat-modulokonverter-szinte-ot-rendbe-nyujto-kifejezesei-a-windowsmac-kovetszett-mxf-mp4-ararozasnal/"><u>Akváriát Módulokonverter: Szinte Öt Rendbe Nyújtó Kifejezései A Windows/Mac Követszett MXF MP4-Árarozásnál</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-overly-close-shots-how-to-optimize-your-camera-for-whatsapp-chats/"><u>Avoid Overly Close Shots: How to Optimize Your Camera for WhatsApp Chats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/como-crear-con-exito-un-curso-online-guia-completa-y-facil-de-seguir-herramientas-de-videoconferencia-con-movavi/"><u>Cómo Crear Con Éxito Un Curso Online: Guía Completa Y Fácil De Seguir - Herramientas De Videoconferencia Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/conduct-dell-point-touch-diagnostics-win7/"><u>Conduct Dell Point-Touch Diagnostics (Win7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-videos-from-mp4-to-wmv-or-vice-versa-quick-and-reliable-online-tool/"><u>Convert Videos From MP4 to WMV or Vice Versa - Quick & Reliable Online Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/copiar-e-colar-em-videos-no-formato-f4v-ferramenta-on-line-gratuitaria-do-movavi/"><u>Cópiar E Colar Em Vídeos No Formato F4V - Ferramenta On-Line Gratuitária Do Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-konverteren-van-3g2-naar-nalevinge-3gp-formaat-ondersteuning-van-movavi/"><u>Gratuit Konverteren Van 3G2 Naar Nalevinge 3GP Formaat - Ondersteuning Van Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-hardware-alert-address-missing-nvidia-card/"><u>Hidden Hardware Alert: Address Missing NVIDIA Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-mp3-flac/"><u>Movavi의 원격 공간에서 순수 더블 MP3로 FLAC를 자유히다 - 무료 도구</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/png-or-jpg-a-detailed-comparison-for-optimal-image-resolution-and-quality/"><u>PNG or JPG: A Detailed Comparison for Optimal Image Resolution and Quality.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-nvstream-user-agent-exe-issues-in-windows-a-comprehensive-guide/"><u>Resolving NVStream User Agent Exe Issues in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-for-resolving-a-corrupted-steam-game-disc/"><u>Simple Solutions for Resolving a Corrupted Steam Game Disc</u></a></li>
 </ul></div>
 

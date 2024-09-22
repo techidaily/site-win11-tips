@@ -1,7 +1,7 @@
 ---
 title: Resetting Windows 11'S Resource Monitor When It Fails
-date: 2024-09-14T03:50:20.323Z
-updated: 2024-09-17T07:22:00.706Z
+date: 2024-09-20T00:59:26.843Z
+updated: 2024-09-22T01:47:35.527Z
 tags:
   - windows10
   - windows11
@@ -58,13 +58,6 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -78,10 +71,10 @@ To do this, follow these steps:
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -100,6 +93,19 @@ sfc /scannow
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -112,13 +118,6 @@ sfc /scannow
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
 
@@ -133,6 +132,13 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -146,26 +152,27 @@ In such a case, you need to perform a clean boot as instructed below:
 4. Uncheck the**Load startup items** box.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -186,18 +193,16 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-10-excellent-cost-free-video-meeting-solutions/"><u>[Updated] 2024 Approved 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-obs-walkthrough-turn-your-screen-into-a-youtube-live-showcase-for-2024/"><u>[Updated] OBS Walkthrough Turn Your Screen Into a Youtube Live Showcase for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming/"><u>2024 Approved Leading List The Best 10 Apps for Live Racing & Rugby Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatched-guide-to-deciphering-and-dismantling-error-code-a00f4289-on-win11/"><u>Dispatched Guide to Deciphering & Dismantling Error Code A00F4289 on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-tactics-to-minimize-edge-processes/"><u>Effective Tactics to Minimize Edge Processes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-enhance-xbox-gameplay-with-best-monitor-recommendations/"><u>In 2024, Enhance Xbox Gameplay with Best Monitor Recommendations</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-f25-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo F25 Pro 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/marvelous-mac-display-selection-the-best-4k-offerings/"><u>Marvelous Mac Display Selection - The Best 4K Offerings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-retrieve-windows-backup-default-state/"><u>Methods to Retrieve Windows Backup Default State</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dism-error-code-0x800f082f-in-windows/"><u>Overcoming DISM Error Code: 0X800F082F in Windows</u></a></li>
-<li><a href="https://tools.techidaily.com/pdf-converter-ultimate/"><u>PDF Converter Ultimate</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/power-efficiency-consider-an-ssd-upgrade/"><u>Power Efficiency: Consider an SSD Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-0xca00a009-in-windows-update/"><u>Troubleshooting Error 0xCA00A009 in Windows Update</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sj7s-pioneering-star-4k-camera-the-ultimate-guide-for-action-filmmakers/"><u>[New] In 2024, SJ7's Pioneering Star 4K Camera - The Ultimate Guide for Action Filmmakers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configurative-boot-mastering-startup-program-setup-in-windows-11/"><u>Configurative Boot: Mastering Startup Program Setup in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failed-links-to-mb-services-on-windows-11-pcs/"><u>Correcting Failed Links to MB Services on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-the-wonders-of-toms-technology-insights/"><u>Delving Into Digital: The Wonders of Tom's Technology Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-seamless-crossfading-in-audacity/"><u>In 2024, Tips for Seamless Crossfading in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-overcoming-windows-11s-def5-onedrive-error/"><u>Quick-Fix Guide: Overcoming Windows 11'S DEF5 Onedrive Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-power-profiles-in-modern-windows/"><u>Restoring Default Power Profiles in Modern Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-lengthening-windows-10-restart-time-while-apps-run/"><u>Strategies for Lengthening Windows 10 Restart Time While Apps Run</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/troubleshooting-shorts-the-non-displaying-thumbnail/"><u>Troubleshooting Shorts The Non-Displaying Thumbnail</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-playtime-patterns-and-achievement-progress-through-steam-metrics/"><u>Unveiling Playtime Patterns and Achievement Progress Through Steam Metrics</u></a></li>
 </ul></div>
 

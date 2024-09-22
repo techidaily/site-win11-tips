@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Standard Image Dimensions - Expert Tips From Movavi
-date: 2024-09-10 17:46:22
-updated: 2024-09-13 12:48:10
+date: 2024-09-19T17:48:19.233Z
+updated: 2024-09-21T19:18:24.228Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba10341880dc21853871664b5973a4ab.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -344,6 +351,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -361,6 +375,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -406,6 +427,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -488,6 +516,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -536,11 +571,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-global-youtube-rich-list-pinnacle/"><u>[New] In 2024, Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-youtubthumbnail-guide-for-mac-users-for-2024/"><u>[New] The Ultimate YoutubThumbnail Guide for Mac Users for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-cost-effective-video-enhancement-vimeo-edition/"><u>2024 Approved Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-the-champion-of-this-generation-ps5-or-xbox-sx/"><u>Choosing the Champion of This Generation: PS5 or Xbox SX?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-the-challenge-of-filedirectory-corrupted-on-oses/"><u>Confronting the Challenge of File/Directory Corrupted on OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/diving-into-artificial-intelligence-a-journey-through-an-innovative-linux-terminal/"><u>Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-failure-messages-in-just-a-few-steps/"><u>How to Fix 'Audio Failure Messages' In Just a Few Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-9-signs-for-a-full-pc-reboot/"><u>Identifying 9 Signs for a Full PC Reboot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-level-streaming-tech-innovations-you-need/"><u>In 2024, Pro-Level Streaming Tech Innovations You Need</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-tools-for-image-transformation-framecraft-pro/"><u>Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/right-click-menu-evolution-integrating-program-helpers/"><u>Right-Click Menu Evolution: Integrating Program Helpers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-proxy-setup-on-the-latest-win-11/"><u>Step-by-Step Proxy Setup on the Latest Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizardry-managing-peak-and-low-cpu-states/"><u>Windows Wizardry: Managing Peak and Low CPU States</u></a></li>
+</ul></div>
+

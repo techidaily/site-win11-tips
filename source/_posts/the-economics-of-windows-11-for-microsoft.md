@@ -1,7 +1,7 @@
 ---
 title: The Economics of Windows 11 for Microsoft
-date: 2024-09-10T16:35:54.934Z
-updated: 2024-09-17T02:38:58.666Z
+date: 2024-09-16T07:09:01.690Z
+updated: 2024-09-22T06:20:27.197Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
@@ -77,22 +84,15 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
@@ -111,25 +111,6 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig-for-2024/"><u>[New] Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/here-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[New] Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>2024 Approved Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-your-key-to-effortless-igtv-media-downloads/"><u>2024 Approved Your Key to Effortless IGTV Media Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-initial-display-of-task-manager-in-windows-11/"><u>Customizing Initial Display of Task Manager in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-an-easy-to-understand-introduction-to-artifical-intelligence/"><u>Decoding AI: An Easy-to-Understand Introduction to Artifical Intelligence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/thing-uncovered-about-the-world-of-yt-shorts/"><u>Everything Uncovered About the World of YT Shorts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expanding-security-horizons-longer-pins-in-win1011/"><u>Expanding Security Horizons: Longer Pins in Win10/11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nubia-z50s-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nubia Z50S Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/installation-guide-to-dolby-atmos-for-pc-users/"><u>Installation Guide to Dolby Atmos for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-non-functional-microsoft-store-in-windows-11/"><u>Quick Fix for Non-Functional Microsoft Store in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-integrating-the-search-feature-into-win11s-task-manager/"><u>Re-Integrating the Search Feature Into Win11's Task Manager</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/seamless-adventure-awaits-in-assassins-creed-odyssey-fixed-issues-for-a-perfect-pc-gaming-session/"><u>Seamless Adventure Awaits in Assassin's Creed Odyssey: Fixed Issues for a Perfect PC Gaming Session</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-future-speaks-inspirational-metaverse-quotes-with-arvr/"><u>The Future Speaks Inspirational Metaverse Quotes with AR/VR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-insiders-guide-to-altering-windows-11-default-actions/"><u>The Insider's Guide to Altering Windows 11 Default Actions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,3 +118,15 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[Updated] 2024 Approved Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/chorus-closet-capture-download-and-listen-to-tunes/"><u>Chorus Closet Capture, Download & Listen to Tunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-rapida-allapplicazione-video-converter-di-movavi-la-soluzione-perfetta-per-lipad/"><u>Guida Rapida All'applicazione Video Converter Di Movavi: La Soluzione Perfetta per L'iPad</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-2023s-standout-youtube-music-playback-gems/"><u>In 2024, 2023'S Standout YouTube Music Playback Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-startup-speed-in-windows-11-a-quick-guide/"><u>Optimizing Startup Speed in Windows 11 – A Quick Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-muted-button-glitches-in-windows-systems/"><u>Resolving Muted Button Glitches in Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vigilance-in-action-key-windows-tasks-to-scrutinize-for-infection/"><u>Vigilance in Action: Key Windows Tasks to Scrutinize for Infection</u></a></li>
+</ul></div>
+

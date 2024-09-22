@@ -1,7 +1,7 @@
 ---
 title: "Win 11: Prevent Desktop Icon Shrinkage"
-date: 2024-09-12T05:44:45.937Z
-updated: 2024-09-17T08:33:30.795Z
+date: 2024-09-17T21:46:40.866Z
+updated: 2024-09-21T18:00:00.265Z
 tags:
   - windows10
   - windows11
@@ -56,32 +56,15 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audience-wow-factor-the-best-camera-lenses-for-youtube-stars/"><u>[New] In 2024, Audience Wow Factor The Best Camera Lenses for YouTube Stars</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>[New] Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-clear-video-borders-streamline-webcam-footage/"><u>[Updated] 2024 Approved Clear Video Borders Streamline Webcam Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-masterful-gameplay-transmission-with-obs-studio/"><u>[Updated] Masterful Gameplay Transmission with OBS Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-periscope-insights-how-to-access-and-create-user-account/"><u>[Updated] Periscope Insights How to Access and Create User Account</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-affordable-fitbit-versa-lite-exceptional-value-in-fitness-tracking/"><u>Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-unblocking-shared-printers-in-1011-os/"><u>Guide to Unblocking Shared Printers in 10/11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-lockscreensaver-delay/"><u>Mastering Windows Lock/Screensaver Delay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-technical-glitches-paramountplus-working-flawlessly-on-a-fire-tv-stick/"><u>Overcoming Technical Glitches: Paramount+ Working Flawlessly on a Fire TV Stick</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-data-flow-addressing-usb-issues-on-windows-pcs/"><u>Unblocking Data Flow: Addressing USB Issues on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80073712/"><u>Understanding and Resolving Error 0X80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-productivity-with-these-5-windows-folder-hacks/"><u>Unlock Productivity with These 5 Windows Folder Hacks</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -90,3 +73,23 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-boosting-twitch-viewership-5-key-tactics/"><u>[New] 2024 Approved Boosting Twitch Viewership 5 Key Tactics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-transforming-view-counts-innovative-uses-for-short-videos/"><u>[New] 2024 Approved Transforming View Counts Innovative Uses for Short Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-solutions-advanced-mobile-recording-on-android/"><u>2024 Approved Innovative Solutions Advanced Mobile Recording on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analisi-completa-di-apowersoft-screen-recorder-dettagli-sul-funzionamento-costi-e-piu-informazioni/"><u>Analisi Completa Di Apowersoft Screen Recorder - Dettagli Sul Funzionamento, Costi E Più Informazioni</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comparing-magix-audio-tools/"><u>Comparing MAGIX Audio Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-libera-tra-bmp-e-gif-il-perfetto-solutore-on-line-di-movavi/"><u>Conversione Libera Tra BMP E GIF: Il Perfetto Solutore On-Line Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-flac-files-into-m4a-format-with-ease-movavi/"><u>Free Online Converter: Transform FLAC Files Into M4A Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-webp-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Transform WebP Images Into JPEG Format with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-identify-and-open-an-avi-file-a-comprehensive-guide/"><u>How To Identify and Open an AVI File: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-omzetting-van-rmvb-naar-wmv-online-efficient-met-movavi/"><u>Kostenloze Omzetting Van RMVB Naar WMV Online - Efficiënt Met Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-issues-with-swtor-starting-up-expert-advice-and-fixes/"><u>Overcoming Issues with SWTOR Starting Up: Expert Advice and Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategies-for-managing-your-follow-list-on-x-when-and-why-to-unfollow/"><u>Strategies for Managing Your Follow List on [X]: When and Why To Unfollow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-video-aac-a-mp4-senza-costi-usando-il-servizio-di-conversione-online-movavi/"><u>Trasforma Video AAC a MP4 Senza Costi Usando Il Servizio Di Conversione Online Movavi</u></a></li>
+</ul></div>
+

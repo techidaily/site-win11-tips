@@ -1,7 +1,7 @@
 ---
 title: How to Fix “The App You’re Trying to Install Isn’t a Microsoft-Verified App” Warning on Windows
-date: 2024-09-12T09:27:32.079Z
-updated: 2024-09-17T03:42:59.026Z
+date: 2024-09-16T16:57:27.065Z
+updated: 2024-09-21T16:18:18.021Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ![Select Anywhere From the Dropdown Menu Next to Choose Where to Get Apps Option in Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-anywhere-from-the-dropdown-menu-next-to-choose-where-to-get-apps-option-in-apps-settings-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off the App Install Control Policy
 
  The App Install Control is a Microsoft Defender SmartScreen feature that prevents users from installing apps outside the Microsoft Store. It does this to prevent users from infecting their devices with third-party applications.
@@ -75,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 ![Disable the Policy for Configure App Install Control in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-the-policy-for-configure-app-install-control-in-windows-local-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the App Install Control Permission in the Registry Editor
@@ -95,26 +96,28 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 2. Navigate to **HKEY\_LOCAL\_MACHINE > SOFTWARE > Microsoft > Windows > CurrentVersion > Explorer**.  
 ![Go to Explorer Folder by Navigating to the Path in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-go-to-explorer-folder-by-navigating-to-the-path-in-windows-registry-editor.jpg)
 3. Right-click on **Explorer** and select **New > String value**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New String Value in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-create-new-string-value-in-windows-registry-editor.jpg)
 4. Name this new value **"AicEnabled."**  
 ![Name the Newly Created String Value AicEnabled in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-name-the-newly-created-string-value-aicenabled-in-windows-registry-editor.jpg)
 5. Double-click on the newly created string and type "**Anywhere"** in the **Value data** field.  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Type Anywhere in the Value Data Field of Newly Created String in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-type-anywhere-in-the-value-data-field-of-newly-created-string-in-windows-registry-editor.jpg)
 6. Restart the computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the above Registry tweak does not resolve the issue, turn off S mode.
 
@@ -135,25 +138,11 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 3. Click on **Go to the store** under **Switch to Windows 11 Home/Pro**, which will take you to the Microsoft Store page where you can opt out of S mode.
 4. Click the **Get** button and follow the on-screen instructions to get out of S mode.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Run the Windows Store Apps Troubleshooter
 
  If the Windows S mode isn't enabled, and you haven't restricted your operating system from downloading apps from outside Microsoft, the error could be caused by an underlying issue with the Microsoft Store. To ensure this is not the case, you should run the Windows Store Apps troubleshooter, which is a built-in tool for troubleshooting issues with the Store.
 
  If you've never run the troubleshooter before, refer to our guide on [how to run a troubleshooter on Windows 10 or 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Successfully Install Third-Party Applications Again on Windows
 
@@ -163,23 +152,6 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
  Other than that, a corrupted Microsoft Store cache, installing an app from an unofficial source, and enabling Windows S mode can also cause the error. Below, you will find a few checks and fixes you should apply to resolve the error and install the app successfully.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rethinking-content-strategy-with-instagrams-new-order-for-2024/"><u>[New] Rethinking Content Strategy with Instagram's New Order for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-media-mapping-charting-your-course-against-competitors-videos/"><u>[Updated] Strategic Media Mapping Charting Your Course Against Competitors' Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-surviving-and-thriving-adapting-to-facebooks-algorithm-changes/"><u>[Updated] Surviving and Thriving Adapting to Facebook's Algorithm Changes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>2024 Approved Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oneplus-nord-ce-3-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Nord CE 3 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-uninterrupted-fall-guys-gaming-on-windows-pc/"><u>Ensuring Uninterrupted Fall Guys Gaming on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-artistic-tools-on-windows-11-platform/"><u>Explore the Ultimate Artistic Tools on Windows 11 Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-system-calls-fault-in-windows/"><u>Guide to Resolve System Calls Fault in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-terminal-back-to-standard-win11/"><u>How to Turn Your Terminal Back To Standard (Win11)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>In 2024, From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-and-correct-windows-code-28-error-messages/"><u>Step-by-Step Solutions to Tackle and Correct Windows Code 28 Error Messages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-saving-procedures-in-windows-for-pubg/"><u>Streamlining Saving Procedures in Windows for PUBG</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-fix-for-steam-disc-operational-issues/"><u>The Ultimate Fix for Steam Disc Operational Issues</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +159,15 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[New] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-12-5g-frp-bypass-by-drfone-android/"><u>About Realme 12 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-challenge-can-it-outperform-chatgpt/"><u>Claude's Challenge: Can It Outperform ChatGPT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-cannot-read-from-disk-in-win1110/"><u>Quick Guide: Solving 'Cannot Read From Disk' In Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-shadows-reversing-a-devices-dark-mode/"><u>Switching Shadows: Reversing a Device's Dark Mode</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-guide-to-the-new-gen-3-echo-dot-with-alexa-features-and-functionality-explored/"><u>The Essential Guide to the New Gen 3 Echo Dot with Alexa: Features and Functionality Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-power-button-mastering-windows-11-discretion/"><u>The Unseen Power Button: Mastering Windows 11 Discretion</u></a></li>
+</ul></div>
+

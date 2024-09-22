@@ -1,7 +1,7 @@
 ---
 title: Zero-Delay Shutdown Tactics for Open Programs
-date: 2024-09-12T07:08:16.277Z
-updated: 2024-09-17T00:38:42.215Z
+date: 2024-09-14T21:30:58.643Z
+updated: 2024-09-22T06:04:41.489Z
 tags:
   - windows10
   - windows11
@@ -82,6 +82,13 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
@@ -108,6 +115,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From there, follow these steps:
 
 1. Press the **File** tab in the top-left corner of the text file.
@@ -123,40 +137,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use the Close All Windows Tool
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
@@ -169,6 +156,13 @@ taskkill /f /im paintdotnet.exe /T > nul
  You can customize the Close All Windows tool by clicking the **View** tab and ticking the relevant boxes. And if the tool seems a bit too complicated to use, then you can navigate to the **Help** tab to get some assistance.
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
@@ -191,18 +185,16 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[New] Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-best-action-cameras-for-hunting/"><u>[New] Top 5 Best Action Cameras for Hunting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>[Updated] Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accelerating-hevch265-encoding-tips-for-faster-video-compression/"><u>Accelerating HEVC/H.265 Encoding - Tips for Faster Video Compression</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/convenient-method-to-design-original-shorts-thumbnails/"><u>Convenient Method to Design Original Shorts Thumbnails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-unblocking-shared-printers-in-1011-os/"><u>Guide to Unblocking Shared Printers in 10/11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-lockscreensaver-delay/"><u>Mastering Windows Lock/Screensaver Delay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-stubborn-headset-mode-8-expert-fixes-revealed/"><u>Overcome Your iPhone’s Stubborn Headset Mode: 8 Expert Fixes Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-resolving-error-0x80073712/"><u>Understanding and Resolving Error 0X80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-productivity-with-these-5-windows-folder-hacks/"><u>Unlock Productivity with These 5 Windows Folder Hacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-audio-troubles-heres-how-to-restore-game-sounds/"><u>World of Warcraft Audio Troubles? Here's How to Restore Game Sounds!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-mastering-videos-with-vida/"><u>[New] The Ultimate Guide to Mastering Videos with Vida</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iuoajoodkplusodgplusodioodroodvoodioobjoeuuplusizquoduplusmfsplusizquobqpluswpiuobvoobmew9semfvzrjgrpjg7zjg4fjg4pjgqjgplnkibop6pjgznjgovjgi0i/"><u>「ビットレートが画質・音質に及ぼす影響:コーデックを理解する」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-charting-the-course-to-earnings-with-youtube-videos/"><u>2024 Approved Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/edge-running-continuously-what-can-you-do/"><u>Edge Running Continuously: What Can You Do?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-tackling-excessive-c-drive-data-usage/"><u>Efficiently Tackling Excessive C: Drive Data Usage</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-windows-audio-hardware-flaws/"><u>Identifying Windows Audio Hardware Flaws</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-sticky-notes-stand-out-on-windows/"><u>Making Sticky Notes Stand Out on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-for-virtualbox-dependencies-first/"><u>Smooth Sailing for VirtualBox: Dependencies First</u></a></li>
 </ul></div>
 

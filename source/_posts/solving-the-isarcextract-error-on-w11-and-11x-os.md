@@ -1,7 +1,7 @@
 ---
 title: Solving the ISArcExtract Error on W11 & 11X OS
-date: 2024-09-15T05:11:39.737Z
-updated: 2024-09-16T22:41:30.255Z
+date: 2024-09-15T06:10:59.715Z
+updated: 2024-09-21T20:20:33.514Z
 tags:
   - windows10
   - windows11
@@ -69,7 +69,21 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -81,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. Double-click the**VC\_redist.x64.exe** file to open an installer window.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the checkbox for agreeing to the license terms.  
@@ -100,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-Register the Referenced ISDone DLL File
@@ -123,29 +131,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -153,14 +141,14 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
- Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
 
 ## Enjoy Your Windows Games Again
 
@@ -181,17 +169,19 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-your-fb-profile-with-these-ten-effective-tactics/"><u>[New] 2024 Approved Elevate Your FB Profile with These Ten Effective Tactics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[New] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-9-critical-steps-to-double-down-on-your-tiktok-clans-growth/"><u>[New] In 2024, 9 Critical Steps to Double Down on Your TikTok Clan's Growth</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-perfected-framing-implementing-letterboxing-on-social-media-for-2024/"><u>[New] Tips for Perfected Framing Implementing Letterboxing on Social Media for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-hdr-rating-does-aurora-deliver-quality/"><u>[Updated] 2024 Approved HDR Rating Does Aurora Deliver Quality?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-next-gen-windows-with-meaningful-improvements/"><u>Crafting Next-Gen Windows with Meaningful Improvements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortlessly-adjust-application-size-with-a-press-on-windows-11/"><u>Effortlessly Adjust Application Size with a Press on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>In 2024, Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reignite-lost-bluetooth-with-these-essential-win-11-solutions/"><u>Reignite Lost Bluetooth with These Essential Win 11 Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-setup-rgb-lighting-windows-11/"><u>Tips to Setup RGB Lighting Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-read-only-library-error-on-win-11/"><u>Troubleshooting Steam's Read-Only Library Error on Win 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-voice-capture-systems-reviewed-top-7-2023-for-2024/"><u>[New] Optimal Voice Capture Systems Reviewed Top 7 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[Updated] 2024 Approved Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-des-fichiers-cr2-en-images-jpeg-sur-internet-et-ordinateur-guide-complet-pour-2024/"><u>Comment Transformer Des Fichiers CR2 en Images JPEG Sur Internet Et Ordinateur: Guide Complet Pour 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-beautiful-ai-appraisal-insights-on-costs-capabilities-and-comparable-tools/"><u>Comprehensive Beautiful AI Appraisal: Insights on Costs, Capabilities & Comparable Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-libre-de-fichier-ram-a-format-mp4-en-ligne-verifiez-la-solution-du-site-movavi/"><u>Conversion Libre De Fichier RAM À Format MP4 en Ligne - Vérifiez La Solution Du Site Movavi!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-mp4-converter-movavi/"><u>Free Online AVI to MP4 Converter - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-10t-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme 10T 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-complimentary-web-based-tool-for-mp3-to-flac-transformation-high-quality-hassle-free-upgrades/"><u>Movavi's Complimentary Web-Based Tool for MP3 to FLAC Transformation: High-Quality, Hassle-Free Upgrades!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pictureperfection-fine-tuning-image-sizes-on-insta-for-2024/"><u>PicturePerfection Fine-Tuning Image Sizes on Insta for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/programele-video-editare-libera-si-intrigi-2024-oferile-la-deschiderea-continua/"><u>Programele Video Editare Libera Și Intrigi 2024 - Oferile La Deschiderea Continua</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tuning-into-trends-effective-music-uploads-for-2024/"><u>Tuning Into Trends Effective Music Uploads for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
 </ul></div>
 

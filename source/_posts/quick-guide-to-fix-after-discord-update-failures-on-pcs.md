@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Fix After Discord Update Failures on PCs
-date: 2024-09-09T16:27:06.789Z
-updated: 2024-09-17T07:02:24.592Z
+date: 2024-09-16T06:33:46.763Z
+updated: 2024-09-22T01:09:32.418Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,19 @@ To force-stop the Discord app:
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 ## 5\. Allow Discord Through Windows Firewall
@@ -72,18 +85,18 @@ To force-stop the Discord app:
 9. Click**OK** to save the changes.  
 ![Allow Discord Through Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Discord-Through-Windows-Firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Your Antivirus Program
 
  If you have a third-party antivirus program installed on your computer, try disabling it temporarily. This will help you verify if your antivirus program is conflicting with the Discord app.
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Adjust the Date and Time Settings
 
@@ -99,13 +112,6 @@ Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Rename the Discord Update Executable File
 
  Problems with the Discord update file (update.exe) file on your PC can also cause such anomalies. This usually happens when the Discord update file becomes corrupted. An easy way to fix this is to rename the Discord update file to something else. This will force Discord to download the update file again, resolving your issue.
@@ -117,10 +123,10 @@ Restart the Discord app after this and allow it to finish updates.
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Uninstall and Reinstall Discord
@@ -137,10 +143,10 @@ To uninstall Discord from your PC:
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
@@ -170,14 +176,17 @@ To uninstall Discord from your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-dizzy-with-design-mastering-upside-down-imagery/"><u>[Updated] 2024 Approved Dizzy with Design Mastering Upside Down Imagery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unveiling-simple-smooth-gaming-video-editors-for-starters-for-2024/"><u>[Updated] Unveiling Simple, Smooth Gaming Video Editors for Starters for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s17-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S17 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/push-forward-charge-warnings-set-up-on-win11-systems/"><u>Push Forward Charge Warnings: Set Up on Win11 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-pc-issues-stop-content-warning-from-continuously-crashing/"><u>Resolving PC Issues: Stop 'Content Warning' From Continuously Crashing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shift-your-onedrive-folder-in-windows-11/"><u>Shift Your OneDrive Folder in Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/techniques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-power-of-familiarity-top-7-reasons-to-choose-win10/"><u>The Power of Familiarity: Top 7 Reasons to Choose Win10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac-for-2024/"><u>[New] Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-secrets-of-instagram-scheduling-for-2024/"><u>[New] Unlocking the Secrets of Instagram Scheduling for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmaflv-movavi/"><u>全てのビデオ形式における無料オンラインWMAとFLVへの変換 - Movaviプロセスガイド</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertissez-facilement-des-fichiers-f4v-en-wmv-sans-frais-avec-la-solution-de-conversion-gratuite-de-movavi/"><u>Convertissez Facilement Des Fichiers F4V en WMV Sans Frais Avec La Solution De Conversion Gratuite De Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-free-converter-convert-m4a-to-webm-online-with-movavi/"><u>Download Free Converter: Convert M4A to WebM Online with Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-chrome-back-on-track-expert-fixes-for-unresponsiveness/"><u>Get Your Chrome Back on Track: Expert Fixes for Unresponsiveness</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-file-pgm-in-formato-bmp-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti File PGM in Formato BMP Online Con Movavi - Guida Istantanea</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>In 2024, Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-camtasia-essentials-how-to-adjust-video-playback-speed-for-2024/"><u>New Camtasia Essentials How to Adjust Video Playback Speed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-frustrating-fiddles-a-test-for-the-bravehearted/"><u>Top Frustrating Fiddles: A Test for the Bravehearted</u></a></li>
 </ul></div>
 

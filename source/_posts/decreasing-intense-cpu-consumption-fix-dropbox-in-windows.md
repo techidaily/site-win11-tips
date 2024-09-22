@@ -1,0 +1,117 @@
+---
+title: "Decreasing Intense CPU Consumption: Fix Dropbox in Windows"
+date: 2024-09-19T03:28:27.307Z
+updated: 2024-09-22T04:11:14.777Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Decreasing Intense CPU Consumption: Fix Dropbox in Windows"
+excerpt: "This Article Describes Decreasing Intense CPU Consumption: Fix Dropbox in Windows"
+keywords: Low CPU Dropbox Windows,Reduce Dropbox CPU Usage,Optimize Dropbox Performance,Improve Windows Dropbox Speed,Slash Dropbox Energy Use,Cut Down Dropbox Load,Efficient Dropbox Run
+thumbnail: https://thmb.techidaily.com/dba9ef92930f5d20237b2a75fb5ee76b8bab75f866f82161cefcc63f630df758.jpg
+---
+
+## Decreasing Intense CPU Consumption: Fix Dropbox in Windows
+
+ Dropbox is a popular cloud storage service out there. Usually, it consumes very minimal resources while running in the background. But due to misconfigured Dropbox settings or unncessary background running applications, Dropbox can consume a lot of CPU resources.
+
+ Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Use Dropbox's Selective Sync Feature
+
+ If Dropbox is asked to synchronize a large number of files simultaneously, it can consume a high amount of your CPU's resources. To fix this problem, you can use the Dropbox Selective Sync feature.
+
+ This feature lets you remove Dropbox folders from your computer and transfer them to Dropbox online. As a result, you can save a lot of space on your computer and also reduce sync load from Dropbox.
+
+ You can use the Dropbox Selective Sync feature by following the below instructions:
+
+1. Click the **Dropbox icon** in the system tray area to open the Dropbox pop-up window.
+2. Click your profile icon in the top right corner and choose **Preferences** from the menu that crops up.  
+![Preferences option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/preferences.jpg)
+3. Switch to the **Sync** tab and click the **Select** **folder** button.  
+![Select folder option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder.jpg)
+4. Uncheck all folders you want to remove from your computer and move them to your Dropbox account.
+5. Click the **Update** button.  
+![Update option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-option.jpg)
+
+ Now, open the Task Manager (see how to [launch Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/)) and check the CPU consumption of Dropbox.
+
+## 2\. Temporarily Disable Any Active Security Program
+
+ The security app on your PC ensures the safety of your computer against both online and offline threats. However, there are instances where a security program can make changes to the Dropbox folder, which, in turn, causes Dropbox to consider these tweaks as edits.
+
+ Consequently, if the security program continues to access the Dropbox folder, it will constantly sync changes and consume significant CPU resources. To fix this, turn off the security program of your computer.
+
+ If you’re using Windows Security, check our guide to [temporarily disable Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/). Alternatively, if you’re using a third-party security application, simply right-click on its icon in the system tray area and select **Disable** from the menu that appears.
+
+## 3\. Close Any Other Active File Management Apps
+
+![End Task option in Task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-task.jpg)
+
+ Oftentimes, similar applications, like Google Drive or OneDrive, can interfere with Dropbox, leading to excessive CPU resource consumption. You can fix this by [closing all conflicting applications in the background on Windows](https://www.makeuseof.com/windows-11-disable-background-apps/).
+
+ Afterward, check if there is a decrease in CPU usage by Dropbox.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Use a Supported Hard Drive
+
+ In order to use the syncing feature of Dropbox, your computer must have a file system that supports extended attributes. If this feature is absent, Dropbox will persistently encounter sync failures, resulting in increased CPU usage. To resolve this issue, relocate your Dropbox folder to a hard drive [formatted with the NTFS file system](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Reinstall Dropbox
+
+![Dropbox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox.jpg)
+
+ If you are still facing the problem, it is likely related to an issue with the Dropbox installation files. In such cases, the best solution is to reinstall Dropbox.
+
+ To do that, first [uninstall the application](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) and then restart your computer. Next, visit the [official Dropbox website](https://www.dropbox.com/desktop) and download the installer. Once downloaded, install Dropbox on your computer.
+
+## Fixing Dropbox's High CPU Usage on Windows
+
+ It’s common for programs to consume a lot of resources, and Dropbox is no different. Whenever Dropbox consumes high CPU resources, you will notice freezing issues on your computer. It can also cause syncing failure between devices. Fortunately, you can quickly fix Dropbox's high CPU usage issue using the above solutions.
+
+ Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-critical-methods-to-record-lol-skirmishes-for-2024/"><u>[New] Critical Methods to Record LOL Skirmishes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-tailored-brand-symbols-turn-basic-templates-into-logos/"><u>[Updated] 2024 Approved Tailored Brand Symbols Turn Basic Templates Into Logos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-become-a-tiktok-phenomenon-with-self-cloning-insights/"><u>[Updated] Become a TikTok Phenomenon with Self-Cloning Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1-productvideoeditorplusproductname/"><u>1. 제공 신속한 안전성: {{ product('VideoEditorPlus').product_name}}을 위한 무료 인증 편리성</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-para-combinar-y-superponer-imagenes-con-herramientas-en-linea/"><u>Guía Fácil Para Combinar Y Superponer Imágenes Con Herramientas en Línea</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-upload-videos-on-a-mac-using-moveavi-a-step-by-step-guide/"><u>How to Upload Videos on a Mac Using Moveavi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-meizu-21-frp-bypass-by-drfone-android/"><u>In 2024, About Meizu 21 FRP Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-solution-for-changing-audio-file-types-convert-asf-to-mp3-online/"><u>Movavi's No-Cost Solution for Changing Audio File Types - Convert ASF to MP3 Online</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/train-collisions-decoded-insights-after-the-barrier-breach/"><u>Train Collisions Decoded: Insights After the Barrier Breach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-more-memory-a-guide-on-eliminating-redundant-data-for-extra-disk-capacity-featuring-movavi-insights/"><u>Unlock More Memory: A Guide on Eliminating Redundant Data for Extra Disk Capacity, Featuring Movavi Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/webpng-bmp/"><u>モバヴァイの無料WEB専用PNG BMPフォーマット変換ツール</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

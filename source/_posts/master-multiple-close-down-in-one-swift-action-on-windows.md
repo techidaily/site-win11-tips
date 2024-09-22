@@ -1,7 +1,7 @@
 ---
 title: Master Multiple Close-Down in One Swift Action on Windows
-date: 2024-09-16T09:24:34.031Z
-updated: 2024-09-16T23:27:27.168Z
+date: 2024-09-16T01:38:08.619Z
+updated: 2024-09-22T02:08:04.767Z
 tags:
   - windows10
   - windows11
@@ -82,15 +82,22 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
@@ -130,27 +137,20 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use the Close All Windows Tool
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
@@ -185,18 +185,15 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pro-video-setup-utilizing-your-logitech-webcam/"><u>[New] In 2024, Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-start-your-own-discord-channel-a-detailed-walkthrough-for-2024/"><u>[Updated] How to Start Your Own Discord Channel A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/4-ways-to-record-internal-android-audio-no-rooting-for-2024/"><u>4 Ways to Record Internal Android Audio (No Rooting) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36i Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-civi-3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Civi 3 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/netflix-trouble-heres-how-you-can-fix-it-when-it-fails-on-roku-streaming-stickbox/"><u>Netflix Trouble? Here's How You Can Fix It When It Fails on Roku Streaming Stick/Box</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/secure-your-entryway-with-vuebells-budget-friendly-video-doorbell-in-depth-review/"><u>Secure Your Entryway with VueBell's Budget-Friendly Video Doorbell - In Depth Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-protecting-your-notebooks/"><u>The Complete Guide to Protecting Your Notebooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-pc-speakers-after-hardware-changes/"><u>Unblocking PC Speakers After Hardware Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-print-settings-access-windows-11s-print-tools-max-70-chars/"><u>Unlocking Print Settings: Access Windows 11'S Print Tools (Max 70 Chars)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-microphones-for-idevices-and-their-benefits-explained-for-2024/"><u>[New] Top Microphones for iDevices & Their Benefits Explained for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-online-tv-shows/"><u>[Updated] 2024 Approved How to Record Online TV Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-wows-critical-failure-code-with-precision/"><u>Eliminating WoW's Critical Failure Code with Precision</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-s18-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo S18 Pro Phone Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-strategies-for-updating-surface-computers-software/"><u>Simplified Strategies for Updating Surface Computers' Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/solve-your-cannot-open-battlenet-error-with-these-proven-fixes/"><u>Solve Your 'Cannot Open Battle.net' Error with These Proven Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-failed-connections-with-nvidias-geforce-app/"><u>Strategies to Rectify Failed Connections with NVIDIA's GeForce App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-global-potential-with-advanced-in-depth-powertoy-mouse-skills/"><u>Unleash Global Potential with Advanced, In-Depth PowerToy Mouse Skills</u></a></li>
+<li><a href="https://techidaily.com/upcoming-windows-11-security-enhancement-auto-encryption-feature-now-available/"><u>Upcoming Windows 11 Security Enhancement: Auto-Encryption Feature Now Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-audio-configuration-exclusive-for-headphones/"><u>Xbox Audio Configuration: Exclusive for Headphones</u></a></li>
 </ul></div>
 

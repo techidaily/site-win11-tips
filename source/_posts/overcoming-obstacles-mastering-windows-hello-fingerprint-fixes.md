@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: Mastering Windows Hello Fingerprint Fixes"
-date: 2024-09-15T00:02:06.957Z
-updated: 2024-09-17T00:38:42.518Z
+date: 2024-09-20T21:06:38.434Z
+updated: 2024-09-22T07:21:49.682Z
 tags:
   - windows10
   - windows11
@@ -68,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Wait for Windows to diagnose any issues with your computer. If any issues are detected, follow the on-screen instructions to apply the recommended fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Fast Startup
@@ -93,14 +99,14 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 5. Hit **Apply** followed by **OK**.  
 ![Windows Biometric Service Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-Biometric-Service-Properties.jpg)
 
- Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
 
 ## 6\. Enable Biometrics via the Local Group Policy Editor
 
@@ -114,20 +120,14 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 4. Check if all the policies within the Biometrics folder are enabled. If not, double-click each policy one by one and set them to **Enabled**.  
 ![Biometric Policies in Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your PC one more time and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a New User Account
 
@@ -155,6 +155,19 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 6. Review all the details one more time before hitting **Finish**.  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/System-Restore-Dialog.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will restart and revert to the specified restore point. After that, the fingerprint should work as before.
 
 ## 9\. Install the Latest Windows Updates
@@ -162,19 +175,6 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Microsoft regularly releases software updates for Windows 10 and Windows 11 to add new features, improve performance, and—crucially for our purposes—fix bugs. If the fingerprint not working issue is caused by a system bug, updating Windows to its most recent version should help.
 
  You can check for new updates by going to the **Windows Update** tab in the **Settings** app. Download and install any pending updates on your PC. Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows Hello's Fingerprint Check
 
@@ -184,25 +184,6 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
  Fortunately, there are several ways to fix this annoying issue. So, let’s dive in and explore what you should do when Windows Hello fingerprint login isn’t working.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-relaxation-top-10-mobile-idle-games/"><u>[New] 2024 Approved Ultimate Relaxation Top 10 Mobile Idle Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>[New] The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-uninstall-errors-on-windows-1011/"><u>Eliminating Uninstall Errors on Windows 10/11</u></a></li>
-<li><a href="https://techidaily.com/essential-techniques-to-refresh-bios-in-a-windows-11-environment/"><u>Essential Techniques to Refresh BIOS in a Windows 11 Environment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 8 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-storage-4-methods-for-accessing-windows-disk-manager/"><u>Maximizing Storage: 4 Methods for Accessing Windows Disk Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-vlc-unsupported-media-on-windows-problem/"><u>Tackling the 'VLC Unsupported Media' On-Windows Problem</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-slowdown-question-why-is-chatgpt-4-hesitant/"><u>The Slowdown Question: Why Is ChatGPT-4 Hesitant?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-windows-11-bluetooth-pairing-errors/"><u>Troubleshooting Steps for Windows 11 Bluetooth Pairing Errors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>Updated 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-honor-70-lite-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 70 Lite 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1110-overcoming-install-failure-due-to-privilege-lacking/"><u>Win 11/10: Overcoming Install Failure Due to Privilege Lacking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11s-limited-access-woes-try-these-9-innovative-solutions/"><u>Win11's Limited Access Woes? Try These 9 Innovative Solutions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -210,3 +191,20 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-9plus-ways-to-experience-cricket-live-streaming-at-its-best/"><u>[New] 9+ Ways to Experience Cricket Live Streaming at Its Best</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovative-tactics-for-stellar-facebook-ad-videos/"><u>[New] In 2024, Innovative Tactics for Stellar Facebook Ad Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-conquering-broadcasts-merge-obs-zoom-with-ease-for-2024/"><u>[Updated] Conquering Broadcasts Merge OBS, Zoom with Ease for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-your-network-with-tp-links-re200-ac750-range-extender-a-comprehensive-review/"><u>Enhancing Your Network with TP-Link's RE200 AC750 Range Extender - A Comprehensive Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-missing-coprocessor-driver-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the 'Missing Coprocessor Driver' Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-dts-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti DTS Online Con Movavi - Guida Istantanea</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-download-graca-conversor-de-formatos-em-massa-para-3gp-e-3g2-online-gratuito/"><u>Movavi: Download Graça - Conversor De Formatos Em Massa Para 3GP E 3G2 (Online Gratuito)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-8-site-mais-confiaveis-e-populares-para-encanar-filmes-e-series-online-gratuitamente/"><u>Os 8 Site Mais Confiáveis E Populares Para Encanar Filmes E Séries Online Gratuitamente</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-role-of-vpns-in-chatgpt-access/"><u>Understanding the Role of VPNs in ChatGPT Access?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/your-top-tools-for-facebook-video-retrieval-revealed-for-2024/"><u>Your Top Tools for Facebook Video Retrieval Revealed for 2024</u></a></li>
+</ul></div>
+

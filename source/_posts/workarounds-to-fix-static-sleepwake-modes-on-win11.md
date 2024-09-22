@@ -1,7 +1,7 @@
 ---
 title: Workarounds to Fix Static Sleep/Wake Modes on Win11
-date: 2024-09-11T08:39:39.342Z
-updated: 2024-09-17T05:17:33.308Z
+date: 2024-09-16T22:19:58.785Z
+updated: 2024-09-21T18:12:44.258Z
 tags:
   - windows10
   - windows11
@@ -70,13 +70,6 @@ Here is how you can run the troubleshooter:
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Reset the Power Settings
 
  If changing the power plan did not do the trick for you, you can try resetting the power settings to their default state. They will revert to how they were when you began using Windows, thus fixing the error at hand.
@@ -91,6 +84,13 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -103,10 +103,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
@@ -142,15 +142,16 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-install.techidaily.com/connexion-to-high-definition-windows-11-audio-via-conexant-upgrade/"><u>Connexion to High Definition: Windows 11 Audio via Conexant Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dispatched-guide-to-deciphering-and-dismantling-error-code-a00f4289-on-win11/"><u>Dispatched Guide to Deciphering & Dismantling Error Code A00F4289 on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-tactics-to-minimize-edge-processes/"><u>Effective Tactics to Minimize Edge Processes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-retrieve-windows-backup-default-state/"><u>Methods to Retrieve Windows Backup Default State</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-dism-error-code-0x800f082f-in-windows/"><u>Overcoming DISM Error Code: 0X800F082F in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-reversing-rdp-monochrome/"><u>Strategies for Reversing RDP Monochrome</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-the-best-androidios-games/"><u>The Ultimate List of the Best Android/iOS Games</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-filmmakers-guide-to-stunning-spherical-videos-9-must-knows/"><u>[New] The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-correct-the-warzone-game-crash-due-to-memory-error-on-xbox-and-pc-error-id-0-1766/"><u>Expert Tips to Correct the Warzone Game Crash Due to Memory Error on Xbox & PC (Error ID: 0-1766)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fastest-and-friendliest-torrents-on-windows-our-picks/"><u>Fastest and Friendliest Torrents on Windows: Our Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-screen-clarity-is-ultrawide-or-uhd-4k-better/"><u>In 2024, Choosing Screen Clarity Is UltraWide or UHD 4K Better?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-discover-the-hottest-tiktok-reading-trends/"><u>In 2024, Discover the Hottest TikTok Reading Trends</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitech-g510-driver-software-supports-windows-operating-systems-7-to-10/"><u>Install Logitech G510 Driver Software: Supports Windows Operating Systems 7 to 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-woes-wake-slumbered-windows-1011/"><u>Keyboard Woes: Wake Slumbered Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-after-discord-update-failures-on-pcs/"><u>Quick Guide to Fix After Discord Update Failures on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstate-lost-desktop-symbols-in-windows-11/"><u>Reinstate Lost Desktop Symbols in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/turn-template-ideas-into-real-logo-artwork-for-2024/"><u>Turn Template Ideas Into Real Logo Artwork for 2024</u></a></li>
 </ul></div>
 

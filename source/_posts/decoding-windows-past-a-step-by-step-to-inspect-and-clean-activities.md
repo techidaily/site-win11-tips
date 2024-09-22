@@ -1,7 +1,7 @@
 ---
 title: "Decoding Windows' Past: A Step-by-Step to Inspect and Clean Activities"
-date: 2024-09-15T04:19:13.666Z
-updated: 2024-09-17T02:24:06.807Z
+date: 2024-09-18T01:20:28.612Z
+updated: 2024-09-22T06:54:34.000Z
 tags:
   - windows10
   - windows11
@@ -68,26 +68,19 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
@@ -95,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
@@ -121,9 +107,23 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -139,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -159,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  As such, a privacy-minded person may feel uneasy that their new PC has Windows 10\. If you'd rather not scrub the drive clean to install a different operating system, you can take steps to reduce what data Microsoft gathers about you.
 
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keeping Your Data Safe in Windows 10
 
@@ -168,22 +162,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-all-encompassing-kinetic-review-2023/"><u>[New] All-Encompassing Kinetic Review 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-potential-of-drone-footage-through-editing/"><u>[New] Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-facetime-call-recording-securing-your-conversations/"><u>[Updated] In 2024, FaceTime Call Recording Securing Your Conversations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/canoscan-lide-120-driver-software-update-how-to-download-and-install/"><u>CanoScan LiDE 120 Driver Software Update: How to Download and Install</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-your-windows-background-file-location-on-pc/"><u>Discover Your Window's Background File Location on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-blackout-6-rapid-solutions-for-your-non-functional-oculus-link/"><u>Fixing the Blackout: 6 Rapid Solutions for Your Non-Functional Oculus Link</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-dominating-the-digital-space-with-trending-content/"><u>In 2024, Dominating the Digital Space with Trending Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-low-tier-sound-diminution-tricks-with-audacity/"><u>In 2024, Introducing Low-Tier Sound Diminution Tricks with Audacity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-11-resource-occupied-alert/"><u>Resolving Windows 11: Resource Occupied Alert</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-for-higher-frame-rates-in-cs-go/"><u>Ultimate Guide for Higher Frame Rates in CS GO</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -191,3 +169,19 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-get-thousands-of-youtube-views-in-30-days-for-2024/"><u>[New] How To Get Thousands of YouTube Views in 30 Days for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-mac-snipping-utilities-essential-choices-for-2024/"><u>[New] Top 5 Mac Snipping Utilities Essential Choices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-future-of-action-cam-unveiled-intova-x/"><u>[Updated] The Future of Action Cam Unveiled Intova X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726225680624-movavi-avi/"><u>自由下載MOVavi AVI轉換器 - 無成本改變格式的解答</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/in-class-textify-your-vlogs/"><u>Best in Class Textify Your Vlogs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y36-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y36 to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimice-sus-contenidos-para-youtube-un-tutorial-sobre-edicion-de-video-con-la-herramienta-mas-poderosa-movavi-video-editor/"><u>Optimice Sus Contenidos Para YouTube: Un Tutorial Sobre Edición De Vídeo Con La Herramienta Más Poderosa, Movavi Video Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zatisteni-dvdu-s-prvnimi-programy-bezplatne-pro-windows-top-6-recomendacnich-verzech/"><u>Zátištění DVDů S Prvními Programy Bezplatné Pro Windows: Top 6 Recomendačních Verzech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/alhfth-alamn-osryaa-kmaa-alfydyo-bmoafka-movavi-tgza-fada-90/"><u>الحفظ الآمن وسريع: قمع الفيديو بموافقة Movavi - تجزئة فائدة 90٪!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jpeg-arw/"><u>오프라인 안내: JPEG파일의 무료 ARW 변환을 위한 가이드</u></a></li>
+</ul></div>
+

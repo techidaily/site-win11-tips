@@ -1,7 +1,7 @@
 ---
 title: Efficiently Change CR2 Files to JPG Using Windows
-date: 2024-09-11T02:49:33.196Z
-updated: 2024-09-17T01:03:29.091Z
+date: 2024-09-18T20:19:03.492Z
+updated: 2024-09-21T22:37:53.993Z
 tags:
   - windows10
   - windows11
@@ -86,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert CR2 Images to JPG With IrfanView
@@ -109,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go to the directory that the IrfanView files were downloaded to.
@@ -125,22 +125,15 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 5. Then click **Next** to install the plugin.  
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can open CR2 images in IrfanView, you don’t need to convert them to JPG. However, it’s still better to do so because JPG images have smaller file sizes than CR2 photos. So, you can save some drive space by converting a CR2 image to JPG and then erasing the original file. This is how you can convert a CR2 photo to JPG in IrfanView:
@@ -149,6 +142,20 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 2. Select the **Batch Conversion** option.  
 ![The Batch Conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-conversion-option.jpg)
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
 5. Select your CR2 file and click **Add**.
@@ -169,26 +176,6 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[Updated] 2024 Approved Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-streamlining-your-youtube-content-with-finalcut-pro-expertise/"><u>[Updated] 2024 Approved Streamlining Your YouTube Content with FinalCut Pro Expertise</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-a-comprehensible-guide-to-final-cut-pro/"><u>[Updated] From Novice to Expert A Comprehensible Guide to Final Cut Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-video-aesthetics-blur-background-in-microsoft-teams/"><u>2024 Approved Streamlining Video Aesthetics Blur Background in Microsoft Teams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-error-c0000022-a-path-to-windows-stability/"><u>Demystifying Error C0000022: A Path to Windows Stability</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-be-fooled-5-tips-to-avoid-fake-apps-in-the-windows-store/"><u>Don’t Be Fooled! 5 Tips to Avoid Fake Apps in the Windows Store</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-a70-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel A70 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-for-the-most-accurate-domestic-weather-stations-2024-edition/"><u>Expert Picks for the Most Accurate Domestic Weather Stations - 2024 Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-840-g3-driver-update-a-simple-guide-for-smooth-performance/"><u>HP 840 G3 Driver Update: A Simple Guide for Smooth Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovating-on-notification-settings-for-full-charges/"><u>Innovating on Notification Settings for Full Charges</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-online-presence-through-youtube-ad-and-image-marketing/"><u>Maximizing Online Presence Through YouTube Ad & Image Marketing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-network-defenses-5-key-adjustments/"><u>Optimizing Network Defenses: 5 Key Adjustments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-easy-multi-archive-extraction-for-windows-users/"><u>Quick and Easy Multi-Archive Extraction for Windows Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-resolving-access-denied-on-your-windows-pc-using-revo-uninstaller/"><u>Ultimate Guide: Resolving 'Access Denied' On Your Windows PC Using Revo Uninstaller</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-the-true-potential-of-task-handling-on-a-windows-11-device/"><u>Unleash the True Potential of Task Handling on a Windows 11 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-setup-integrating-google-play-store/"><u>Win11 Setup: Integrating Google Play Store</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +183,24 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cut-to-the-chase-convert-fb-vids-into-mp3s-for-2024/"><u>[New] Cut-to-the-Chase Convert FB Vids Into MP3s for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[Updated] 2024 Approved Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-essence-of-luts-mastering-photo-color-dynamics/"><u>[Updated] In 2024, The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavioggflac/"><u>「音質を上げるためのフリーコネクト: MovaviでOGG形式をFLACに簡単変換する方法」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertissez-gratuitement-un-fichier-3gp-en-video-avi-avec-movavi/"><u>Convertissez Gratuitement Un Fichier 3GP en Vidéo AVI Avec Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discerning-intel-processor-generation-using-windows-tactics/"><u>Discerning Intel Processor Generation Using Windows Tactics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g24-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G24 Phones with/without a PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-and-organize-files-flawlessly-in-windows-10/"><u>Navigate and Organize Files Flawlessly in Windows 지정기 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-surface-computers-latest-firmware-updates/"><u>Navigating Surface Computers' Latest Firmware Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-solving-cannot-read-from-disk-in-win1110/"><u>Quick Guide: Solving 'Cannot Read From Disk' In Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establishing-default-energy-management-in-win-11/"><u>Re-Establishing Default Energy Management in Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-shadows-reversing-a-devices-dark-mode/"><u>Switching Shadows: Reversing a Device's Dark Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-power-button-mastering-windows-11-discretion/"><u>The Unseen Power Button: Mastering Windows 11 Discretion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-pop-7-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Pop 7 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-store-apps-secure-directory-entry/"><u>Unlocking Store Apps: Secure Directory Entry</u></a></li>
+</ul></div>
+

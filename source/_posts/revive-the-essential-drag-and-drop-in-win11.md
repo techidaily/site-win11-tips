@@ -1,7 +1,7 @@
 ---
 title: Revive the Essential Drag-and-Drop in Win11
-date: 2024-09-10T21:55:55.760Z
-updated: 2024-09-17T01:25:45.297Z
+date: 2024-09-19T16:22:09.711Z
+updated: 2024-09-22T03:32:36.601Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  Reopen your app and check if the issue still occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Hardware and Devices Troubleshooter
 
  Running the Hardware and devices troubleshooter is an effective way to fix issues with your peripherals. This tool can scan all the hardware devices connected to the system, including your mouse or touchpad, and resolve any issues with them.
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 3. In the Hardware and Devices window, click **Advanced** and tick the **Apply repairs automatically** checkbox.
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall Mouse Drivers
 
@@ -75,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 4. Right-click on your mouse or touchpad device and select **Update driver**.  
 ![Update Mouse Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-mouse-driver.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen prompts to finish updating the driver.
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
@@ -97,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
  Issues with your mouse can also make it seem like the drag and drop feature is not working on Windows 11\. Try disconnecting your mouse and reconnecting it to see if that works. If you’re using a wireless mouse, swap the old batteries or charge it.
 
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Edit Registry Files
 
@@ -122,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 6. Similarly, set the value of the **DragWidth** entry value to **4**.  
 ![Drag and Drop Registry Entries on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/drag-and-drop-registry-entries-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
@@ -130,14 +131,14 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  While the default drag and drop action can help you move items quickly, you can also modify it to copy or create shortcuts for files and folders on Windows.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
@@ -147,42 +148,11 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
  You can drag and drop files from one computer to another by opening your target computer's shared folder on your main computer and dragging your files and folders onto that folder window. This copies your computer's files to your chosen computer.
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-budget-desktop-encoder-hacks-and-tips/"><u>[New] 2024 Approved Budget Desktop Encoder Hacks and Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-expansion-techniques-for-30plus-online-platforms-for-2024/"><u>[Updated] Channel Expansion Techniques for 30+ Online Platforms for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-ice-cream-snapshot-analysis-report-for-2024/"><u>[Updated] Detailed Ice Cream Snapshot Analysis Report for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pursuing-profits-the-path-to-fiscal-gains-through-videography/"><u>[Updated] Pursuing Profits The Path to Fiscal Gains Through Videography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/empower-pics-with-perimeter-blur-using-cs/"><u>Empower Pics with Perimeter Blur Using CS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-world-of-warcraft-game-crashes-with-these-easy-steps/"><u>End World of Warcraft Game Crashes with These Easy Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-functionality-to-flair-windows-10s-transition-to-11/"><u>From Functionality to Flair: Windows 10'S Transition to 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-an-end-task-option-on-the-windows-11-taskbar/"><u>How to Enable an End Task Option on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>In 2024, Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools/"><u>In 2024, Streamline Your Listening Experience Convert Spotify to YouTube with These Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolved-inf-without-digital-signs-from-3rd-party/"><u>Resolved Inf Without Digital Signs From 3Rd Party</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguard-your-pc-without-bitlockers-help-on-windows/"><u>Safeguard Your PC Without BitLocker's Help on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shortcuts-for-skipping-windows-sign-in-requirements/"><u>Shortcuts for Skipping Windows Sign-In Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +161,19 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-expert-roundup-best-free-vs-premium-windows-graphics-apps/"><u>[New] 2024 Approved Expert Roundup Best Free vs Premium Windows Graphics Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-tight-scenes-minecraft-edition/"><u>2024 Approved Navigating Tight Scenes Minecraft Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/musescore/"><u>完全ガイド：MuseScore上で最高品質「高音質」ミュージックを録音する方法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726226756915-movavi/"><u>網路無障礙公共直播服務 - MOVAVI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertisseur-gratuit-de-fichiers-wav-a-mp4-en-ligne-moveavi/"><u>Convertisseur Gratuit De Fichiers WAV À MP4 en Ligne - MoveAVI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/desde-clips-de-mov-a-finesas-de-vob-online-sin-costo-con-movavi/"><u>Desde Clips De MOV a Finesas De VOB Online Sin Costo Con Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-files-to-gif-format-by-movavi-quick-guide-and-tools/"><u>Free Conversion of PPM Files to GIF Format by Movavi: Quick Guide & Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-f5-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-20-free-video-capture-apps-compatible-with-all-devices/"><u>Top 20 Free Video Capture Apps Compatible with All Devices</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Slash Clutter: A Fast Way to Remove Bloatware in Win11"
-date: 2024-09-14T21:29:36.016Z
-updated: 2024-09-17T08:11:52.258Z
+date: 2024-09-16T06:56:14.589Z
+updated: 2024-09-21T16:17:12.512Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Uninstall Bloatware Using Windows 11 Settings
 
  The easiest way to remove bloatware is [through the Windows 11 Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/). As long as you know where to go, uninstalling bloatware (or any app, for that matter) on Windows 11 is quick and simple:
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 3. Under the **Installed apps** window, find the app you want to remove.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remove Bloatware Using Win11Debloat
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 4. Windows Defender might warn you about running an unrecognized app. If it does so, click **More Info**, then choose **Run anyway**.  
 ![Windows Protected Your PC pop up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-protected-your-pc-pop-up.jpg)
 5. User Account Control will then ask if you want the app to make changes to your device; choose **Yes** to run it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. **Win11Debloat – Setup** will then open in a new Windows PowerShell window. Type either **1** or **2** to choose the method of removing bloatware, then hit **Enter**.  
 ![Win11Debloat Powershell Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/win11debloat-powershell-setup.jpg)
@@ -124,8 +124,24 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 2. In the sidebar, click on **System**, then choose **Recovery**.  
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
 3. Click on **Reset PC**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
@@ -133,45 +149,12 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
 8. Once you’ve confirmed this setting, hit **Next**.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you click the reset button, your computer will execute a Windows 11 clean install. This will remove most third-party bloatware, although you’ll still need to remove unwanted Windows apps manually. Alternatively, you can [cleanly install Windows 11 from an ISO](https://www.makeuseof.com/how-to-clean-install-windows-11/) file to ensure a truly fresh installation.
 
  Although bloatware isn’t typically dangerous, these apps are annoying as they could slow your PC down, especially if they all launch when you turn your computer on. So by removing these apps—and quickly doing so—you’re reducing your PC’s workload, allowing it to run better.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-gamers-capturing-solutions/"><u>[New] In 2024, Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-tech-showdown-what-sets-the-ipad-pro-apart-from-the-macbook-air/"><u>Decoding the Tech Showdown: What Sets the iPad Pro Apart From the MacBook Air?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-the-simple-steps-for-removing-blank-spaces-on-your-pc-drive/"><u>Learn the Simple Steps for Removing Blank Spaces on Your PC Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-management-console-fixing-failed-snap-creations/"><u>Mastering Windows Management Console: Fixing Failed Snap Creations</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-by-the-seat-of-your-pants-with-classic-psp-on-iphone/"><u>Play by the Seat of Your Pants with Classic PSP on iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-file-explorer-in-windows-11-proactively/"><u>Reactivating File Explorer in Windows 11 Proactively</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 10 5G? | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +163,21 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-free-no-invasive-android-video-recorders-for-2024/"><u>[Updated] Best Free, No-Invasive Android Video Recorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>2024 Approved Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streaming-success-top-methods-for-online-show-recordings/"><u>2024 Approved Streaming Success Top Methods for Online Show Recordings</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/answer-cortical-remapping-involves-changes-in-the-brains-motor-cortex-allowing-patients-to-regain-movement-by-learning-new-ways-to-perform-tasks-with-affect1/"><u>Answer: Cortical Remapping Involves Changes in the Brain's Motor Cortex, Allowing Patients to Regain Movement by Learning New Ways to Perform Tasks with Affected Limbs or Using Other Muscles.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuito-y-facil-transforma-avi-a-swf-con-el-servicio-de-convertir-en-linea-de-movavi/"><u>Gratuito Y Fácil, Transforma AVI a SWF Con El Servicio De Convertir en Línea De Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-persistent-crashing-issues-in-windows-updated-guide-for-202am/"><u>How to Stop Persistent Crashing Issues in Windows (Updated Guide for 202Am)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-itel-p40plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Itel P40+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-techniques-from-video-to-audio-downloads-on-pinterest/"><u>In 2024, Ultimate Techniques From Video to Audio Downloads on Pinterest</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformez-votre-image-tiff-en-format-jpeg-faites-le-sans-frais-online-avec-movavi/"><u>Transformez Votre Image TIFF en Format JPEG Faites-Le Sans Frais - Online Avec Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/worth-it-iphoneipod-battery-swap/"><u>Worth It: IPhone/iPod Battery Swap</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amv-mpeg-movavi/"><u>무료 AMV MPEG 이미지 크론 원자 바이트로 직막 전환 - Movavi</u></a></li>
+</ul></div>
+

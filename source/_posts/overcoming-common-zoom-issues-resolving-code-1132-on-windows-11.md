@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Common Zoom Issues: Resolving Code 1132 on Windows 11"
-date: 2024-09-13T21:28:55.467Z
-updated: 2024-09-16T17:31:32.601Z
+date: 2024-09-19T16:26:15.851Z
+updated: 2024-09-21T21:14:42.916Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Third-Party Antivirus/Security Software
 
  Some third-party antivirus tools also have firewalls that can potentially cause Zoom issues like error 1132\. Disable any third-party antivirus shield and firewall if you’ve installed security software on your PC. Options for disabling an antivirus tool’s shield and firewall may be separate. Select options that disable your antivirus software’s shield and firewall (if it has one) by right-clicking its system tray icon and looking through the context menu or settings tabs.
@@ -90,10 +97,16 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click the**Download** for the Zoom Desktop Client.  
@@ -101,27 +114,20 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Windows Account
 
@@ -157,21 +163,19 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-affordable-setups-tailored-obs-for-budget-computers/"><u>[New] 2024 Approved Affordable Setups Tailored OBS for Budget Computers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-sniping-software-for-mac-users-for-2024/"><u>[New] Best Sniping Software for Mac Users for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-efface-thin-borders-for-a-seamless-youtube-experience-for-2024/"><u>[Updated] Efface Thin Borders for a Seamless YouTube Experience for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peak-engagement-title-conjurer/"><u>[Updated] Peak Engagement Title Conjurer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-windows-feedback-for-essential-alerts-only/"><u>Customize Windows Feedback for Essential Alerts Only</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/generating-attention-grabbing-video-teasers-for-2024/"><u>Generating Attention-Grabbing Video Teasers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-modify-system-security-settings-in-windows-11/"><u>How To Modify System Security Settings in WIndows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrate-keyboard-indicators-numlock-capslock-in-taskbar/"><u>Integrate Keyboard Indicators: NumLock, CapsLock in Taskbar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/iphone-unrecognized-by-itunes-on-your-windows-10-machine-how-to-resolve-it/"><u>IPhone Unrecognized by iTunes on Your Windows 10 Machine - How to Resolve It</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-to-resolve-microsoft-store-error-code-0x80072f30/"><u>Quick Steps to Resolve Microsoft Store Error Code 0X80072F30</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-connection-errors-with-unidentified-usb-ports/"><u>Resolving Connection Errors with Unidentified USB Ports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-misidentified-gaming-feature-within-discord-windows-edition/"><u>Resolving Misidentified Gaming Feature Within Discord, Windows Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rewriting-windows-script-policy-top-4-strategies-for-enabling-ps-loading/"><u>Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-master-the-art-of-choosing-best-rated-church-streams/"><u>[Updated] In 2024, Master the Art of Choosing Best-Rated Church Streams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleashing-the-power-of-whiteboards-on-zoom-platforms-across-multiple-devices/"><u>[Updated] In 2024, Unleashing the Power of Whiteboards on Zoom Platforms Across Multiple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4wmvmovavi/"><u>網路直通無限 - 優質MP4到WMV自由轉換：Movavi頂尖解決方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-ultimate-12-free-collages-applications-for-your-pc-with-our-expert-recommendations/"><u>Discover the Ultimate 12 Free Collages Applications for Your PC with Our Expert Recommendations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c50-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C50 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-magic-6-lite-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Magic 6 Lite Data? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-zet-omhet-voor-mxf-files-eenvoudigheid-en-kostenloosheid-met-movavi-solutions/"><u>Online Zet Omhet Voor MXF Files: Eenvoudigheid en Kostenloosheid Met Movavi Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scansnap-s1300i-software-upgrade-and-download-simple-steps-inside/"><u>ScanSnap S1300i Software Upgrade & Download - Simple Steps Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-activating-pip-on-android-smartphones-and-tablets/"><u>The Ultimate Tutorial for Activating PiP on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-tips-to-eliminate-lag-in-rainbow-six-siege-enjoy-seamless-gaming/"><u>Top Tips to Eliminate Lag in Rainbow Six Siege – Enjoy Seamless Gaming!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unleashing-your-creative-potential-mastery-of-vocal-overdubs/"><u>Unleashing Your Creative Potential Mastery of Vocal Overdubs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/veezie-3gp-in-gratis-online-wav-vormaat-met-movavi-konverteren-efficient/"><u>Veezie 3GP in Gratis Online WAV-Vormaat Met Movavi - Konverteren Efficiënt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726221995080-mp4-mjpeg-movavi/"><u>오픈 소스에서 제공 무용 MP4-MJPEG 전환 - MOVAVI</u></a></li>
 </ul></div>
 

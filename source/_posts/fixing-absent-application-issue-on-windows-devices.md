@@ -1,7 +1,7 @@
 ---
 title: Fixing Absent Application Issue on Windows Devices
-date: 2024-09-11T05:23:57.309Z
-updated: 2024-09-17T03:09:58.080Z
+date: 2024-09-19T00:32:43.421Z
+updated: 2024-09-21T23:14:49.546Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -80,39 +87,27 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
 4. If it's not there, right-click in the blank area and go to**New > String Value** . Then rename it to**"IsShortcut** .**"**  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
 5. If the string value is already there, right-click on it and select**Delete** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
-7. Restart your device once after that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Restart your device once after that.
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -148,19 +143,16 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bid-farewell-to-clutter-quick-and-easy-edits-on-large-drafters/"><u>[New] Bid Farewell to Clutter Quick & Easy Edits on Large Drafters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-turn-a-blank-slate-on-fb-videos/"><u>[New] Turn a Blank Slate on FB Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[Updated] 2024 Approved Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-the-world-with-these-leading-4k-cams-for-2024/"><u>Capture the World with These Leading 4K Cams for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-win11-quick-access-to-mouse-settings/"><u>Navigating Win11: Quick Access to Mouse Settings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/on-the-move-wi-fi-with-tp-links-compact-tl-wr9eb-the-ideal-travel-router/"><u>On-the-Move Wi-Fi with TP-Link's Compact TL-WR9eb: The Ideal Travel Router</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-of-windows-11s-hidden-themes-via-regedit/"><u>Revealing the Secrets of Windows 11'S Hidden Themes via Regedit</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-guide-to-launch-and-setup-win-11s-sandbox/"><u>Stepwise Guide to Launch and Setup Win 11'S Sandbox</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-12-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi 12 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-silent-screencast-feedback-in-powerpoint/"><u>Troubleshooting Silent Screencast Feedback in PowerPoint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turning-onoff-touch-typing-on-your-windows-device/"><u>Turning On/Off Touch Typing on Your Windows Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-toolkit-top-10-msistore-powerhouses/"><u>Ultimate Toolkit: Top 10 MSIStore PowerHouses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/why-is-my-iphone-heating-up-uncover-the-causes-and-remedies-for-an-overheated-device/"><u>Why Is My iPhone Heating Up? Uncover the Causes & Remedies for an Overheated Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-windows-errors-for-wow-updates/"><u>Clearing Windows Errors for WoW Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-techniques-for-reducing-video-size-for-smooth-whatsapp-sharing/"><u>Effective Techniques for Reducing Video Size for Smooth WhatsApp Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-re-register-microsoft-store-apps-on-windows-11-and-11/"><u>How to Re-Register Microsoft Store Apps on Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-20c-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 20C Phone that is Locked?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-strategies-logging-lectures-in-ppt-for-2024/"><u>Quick Strategies Logging Lectures in PPT for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skip-wsl-save-time/"><u>Skip WSL, Save Time!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-walkthrough-reading-comics-on-win11/"><u>Step-by-Step Walkthrough: Reading Comics on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-disk-management-visualize-and-maximize-with-altwindirstat/"><u>Strategic Disk Management: Visualize & Maximize with AltWinDirStat</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-installing-latest-ati-radeon-drivers-for-windows-systems/"><u>Ultimate Tutorial: Installing Latest ATI Radeon Drivers for Windows Systems</u></a></li>
 </ul></div>
 

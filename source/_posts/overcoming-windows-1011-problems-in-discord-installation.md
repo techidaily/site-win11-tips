@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 10/11 Problems in Discord Installation
-date: 2024-09-10T00:10:58.487Z
-updated: 2024-09-16T16:28:44.556Z
+date: 2024-09-19T19:49:38.657Z
+updated: 2024-09-21T17:50:36.664Z
 tags:
   - windows10
   - windows11
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
@@ -81,24 +81,18 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run the Discord Setup File as an Administrator
 
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
 
@@ -120,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Try Installing Discord in Safe Mode
 
@@ -142,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Chatting Again in Discord for Windows
 
@@ -162,20 +162,18 @@ thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-complete-srt-reference-manual-for-2024/"><u>[New] The Complete SRT Reference Manual for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhance-visuals-basic-ps-color-techniques/"><u>[Updated] 2024 Approved Enhance Visuals Basic PS Color Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>[Updated] In 2024, Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tumblr-image-format-specifications/"><u>[Updated] In 2024, Tumblr Image Format Specifications</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-enhance-your-videos-with-dynamic-camera-movements-camtasa-guide/"><u>2024 Approved Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-nubia-red-magic-8s-proplus-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Nubia Red Magic 8S Pro+.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-microsofts-recorded-protections-with-simplicity/"><u>Eliminate Microsoft's Recorded Protections with Simplicity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi K70 Pro.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalized-pathway-to-identifying-cybersecurity-risks-on-desktops/"><u>Personalized Pathway to Identifying Cybersecurity Risks on Desktops</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quickstart-guide-accelerating-your-windows-11-booting-process/"><u>QuickStart Guide: Accelerating Your Windows 11 Booting Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-and-rebooting-reviving-outdated-windows-applications/"><u>Resetting and Rebooting: Reviving Outdated Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-protecting-your-notebooks/"><u>The Complete Guide to Protecting Your Notebooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-pc-speakers-after-hardware-changes/"><u>Unblocking PC Speakers After Hardware Changes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/undoing-windows-11s-updated-search-bar-design/"><u>Undoing Windows 11'S Updated Search Bar Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-5-apple-podcast-services-for-ios-users/"><u>[New] 2024 Approved Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-diy-approach-for-animated-emoji-addition-on-nitro-free-discord-for-2024/"><u>[New] DIY Approach for Animated Emoji Addition on Nitro-Free Discord for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tudy-with-stars-the-finest-historical-channels-for-students-and-enthusiasts-for-2024/"><u>[New] Study with Stars The Finest Historical Channels for Students & Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker/"><u>[Updated] In 2024, Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-video-streams-across-networks-using-vlc-for-2024/"><u>[Updated] Navigating Video Streams Across Networks Using VLC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-microsoft-word-to-always-open-email-attachments-in-reading-view-on-windows/"><u>How to Configure Microsoft Word to Always Open Email Attachments in Reading View on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-astra-pilot-in-windows-11-solutions-now/"><u>Lost Astra Pilot In Windows 11: Solutions Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-word-docx-to-pdf-conversion-on-windows-11/"><u>Mastering Word Docx to PDF Conversion on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-the-xinput1nput-file-undetected-issues/"><u>Step-by-Step Solutions for the Xinput1_nput File Undetected Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-could-not-start-speech-recognition-windows-error/"><u>Steps to Rectify 'Could Not Start' Speech Recognition Windows Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transforming-vision-into-action-building-a-successful-fb-reel-channel/"><u>Transforming Vision Into Action Building a Successful FB Reel Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-complete-guide-fix-blender-app-continuously-crashes-on-windowsmac/"><u>Troubleshooting Complete Guide: Fix Blender App Continuously Crashes on Windows/Mac</u></a></li>
 </ul></div>
 

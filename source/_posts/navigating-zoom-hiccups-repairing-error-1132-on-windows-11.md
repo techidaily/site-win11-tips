@@ -1,7 +1,7 @@
 ---
 title: "Navigating Zoom Hiccups: Repairing Error 1132 on Windows 11"
-date: 2024-09-16T02:54:25.700Z
-updated: 2024-09-16T19:44:58.921Z
+date: 2024-09-18T23:17:53.006Z
+updated: 2024-09-22T03:56:00.060Z
 tags:
   - windows10
   - windows11
@@ -72,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
@@ -85,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
  After disabling the third-party security software, try using the Zoom app again to see if that resolves the error. If it does, set up an antivirus exclusion for Zoom and allow that app through the firewall with the settings in your security software. Then you can turn on the antivirus utility’s shield protection and firewall feature again.
 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Zoom App
 
@@ -105,6 +98,20 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
@@ -118,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 3. When you’ve set up a new local Windows user account, log out of your current one.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Sign in to the newly created user profile.
@@ -150,16 +157,16 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>[New] Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-infographic-insight-whats-hot-on-23-social-sphere/"><u>[New] In 2024, Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-beyond-the-screen-insightful-metaverse-models-summarized/"><u>2024 Approved Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-backdrop-blurring-on-windows-11-photos/"><u>Decoding the Art of Backdrop Blurring on Windows 11 Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forceful-printer-deletion-technique-for-fast-fixes-in-win-1011/"><u>Forceful Printer Deletion Technique for Fast Fixes in Win 10/11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>In 2024, Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightest-load-web-browsers-for-windows-macos-chromeos-users/"><u>Lightest-Load Web Browsers for Windows, macOS, ChromeOS Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-compatible-high-definition-avchd-mkv-mov-mp4-file-format-conversion-with-winx-hd-video-converter/"><u>Mac Compatible: High-Definition AVCHD, MKV, MOV, MP4 File Format Conversion with WinX HD Video Converter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-window11s-error-msresourceapptext/"><u>Resolving Window11's Error: MsResource/AppText</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zeroing-out-windows-11-for-a-fresh-start/"><u>Zeroing Out Windows 11 for a Fresh Start</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>[New] 2024 Approved Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-images-with-win11s-photos-building-slideshows-and-perfecting-spots/"><u>Effortless Images with Win11's Photos: Building Slideshows & Perfecting Spots</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/expertly-crafted-money-estimator-apps-for-tiktok-users-for-2024/"><u>Expertly Crafted Money Estimator Apps for TikTok Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-errors-in-windows-11s-trash-functionality/"><u>Fixing Errors in Windows 11'S Trash Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-130-music-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nokia 130 Music?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ps5-gaming-setup-top-5-display-recommendations/"><u>In 2024, PS5 Gaming Setup Top 5 Display Recommendations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-understanding-and-utilizing-facebooks-live-feature-a-complete-overview/"><u>In 2024, Understanding and Utilizing Facebook's Live Feature A Complete Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-issues-resolved-rehab-your-keystrokes-in-win10/"><u>Keyboard Issues Resolved: Rehab Your Keystrokes in Win10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-unresponsive-powershell-in-windows/"><u>Navigating Through Unresponsive PowerShell in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-11-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 11 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-20-most-powerful-chatgpt-prompts-sourced-from-github/"><u>Unveiling the 20 Most Powerful ChatGPT Prompts Sourced From GitHub</u></a></li>
 </ul></div>
 

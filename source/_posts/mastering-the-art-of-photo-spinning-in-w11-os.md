@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Photo Spinning in W11 OS
-date: 2024-09-14T09:20:20.757Z
-updated: 2024-09-16T21:40:42.402Z
+date: 2024-09-18T07:34:24.701Z
+updated: 2024-09-21T23:03:54.522Z
 tags:
   - windows10
   - windows11
@@ -83,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
@@ -95,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. How to Rotate Images With Online Image Tool
 
@@ -109,16 +122,23 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
 
  Online Image Tool also has handy tools for batch resizing, converting, and compressing pictures. Click the **Compress Any Image Format**, **Convert Image Formats**, and **Resize Batch of Images** links along the top of the web app’s page to access them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Rotate Images With IrfanView
 
@@ -128,25 +148,11 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
 2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Open IrfanView by double-clicking its desktop shortcut.
 4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
 5. Click on the **Image** menu.  
 ![The Rotate Left option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-left-option.jpg)
 6. Select the **Rotate Left** or **Rotate Right** option for the standard 90-degree rotation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to try IrfanView’s custom rotation tool, press the app’s **Ctrl** \+ **U** hotkey. Input a rotation value up to 360 within the **Angle** box. That will rotate the image by the value entered within its canvas. Then click **OK** to view the rotated image output within IrfanView.
 
@@ -158,20 +164,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
  You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-top-6-online-background-cleansers-for-pristine-photo-edits/"><u>[Updated] Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/develop-a-personalized-ai-chat-assistant-on-your-device-leveraging-nvidias-cutting-edge-rtx-gpus/"><u>Develop a Personalized AI Chat Assistant on Your Device Leveraging NVIDIA's Cutting-Edge RTX GPUs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-uninstall-errors-on-windows-1011/"><u>Eliminating Uninstall Errors on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-vlc-unsupported-media-on-windows-problem/"><u>Tackling the 'VLC Unsupported Media' On-Windows Problem</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/taking-console-crown-to-new-heights-an-experts-take-on-the-xbox-one-x-performance/"><u>Taking Console Crown to New Heights: An Expert's Take on the Xbox One X Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8k-video-codecs-optimal-choice-for-ultra-high-definition-4320p-resolution/"><u>Top 8K Video Codecs: Optimal Choice for Ultra-High Definition 4320P Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steps-for-windows-11-bluetooth-pairing-errors/"><u>Troubleshooting Steps for Windows 11 Bluetooth Pairing Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1110-overcoming-install-failure-due-to-privilege-lacking/"><u>Win 11/10: Overcoming Install Failure Due to Privilege Lacking</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +171,23 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-numbers-a-full-guide-for-measuring-youtube-success/"><u>[New] Navigating Through Numbers A Full Guide for Measuring YouTube Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>[New] Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ideal-dialogue-architect-forum/"><u>[Updated] 2024 Approved Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-crescendo-to-connectivity-linking-song-lists-across-platforms-for-2024/"><u>[Updated] Crescendo to Connectivity Linking Song Lists Across Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-venturing-beyond-reality-understanding-vr-basics/"><u>2024 Approved Venturing Beyond Reality Understanding VR Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-e-importe-archivos-gratis-desde-jpg-a-png-con-convertidor-de-imagenes-online-movavi/"><u>Descargue E Importe Archivos Gratis Desde JPG a PNG Con Convertidor De Imágenes Online - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-online-mov-to-3gp-converter-vrije-gratis-software-door-movavi/"><u>Gratis Online MOV-to-3GP Converter - Vrije Gratis Software Door Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>In 2024, Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-m4b-m/"><u>Movavi를 사용한 무료 온라인 M4B, M</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-playermp3-di-file-audio-liberi-e-ottimizzati-per-windows-and-mac/"><u>Top 12 PlayerMP3 Di File Audio Liberi E Ottimizzati Per Windows & Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-file-flac-in-m4a-online-gratuitamente-con-convertitore-di-movavi/"><u>Trasforma I File Flac in M4A Online Gratuitamente Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-computing-experience-best-windows-devices-2024/"><u>Ultimate Computing Experience - Best Windows Devices 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-artistry-a-curated-list-of-premium-3d-animation-software-for-2024/"><u>Unleash Artistry A Curated List of Premium 3D Animation Software for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-tiff-movavi/"><u>컴퓨터에서 무료 CR2 포트라이트를 TIFF로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp4trp-movavi/"><u>オンラインで簡単に変換！MP4ファイルを無料のTRPコードに - Movavi</u></a></li>
+</ul></div>
+

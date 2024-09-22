@@ -1,7 +1,7 @@
 ---
 title: How to Add or Remove the “Run as Different User” Option to Start on Windows 11
-date: 2024-09-13T01:00:06.993Z
-updated: 2024-09-16T21:45:14.983Z
+date: 2024-09-21T06:05:18.328Z
+updated: 2024-09-22T04:27:00.665Z
 tags:
   - windows10
   - windows11
@@ -74,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  To remove it, set **Value data** to **0**.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Access to the “Run as Different User” Option in the Start Menu
@@ -94,23 +88,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  No matter the case, there are several ways to add or remove the **Run as different user** option from the Start menu on Windows 11\. Here are three of them.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-24-hour-film-size-gb-measurement-guide/"><u>[New] 2024 Approved 24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovative-gb-recorder-for-games-on-fbx/"><u>[Updated] 2024 Approved Innovative GB Recorder for Games on FBX</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-x9b-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor X9b</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-complex-policies-gpresult-techniques-explored/"><u>Conquering Complex Policies: GPResult Techniques Explored</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-glowing-cursors-on-your-computer-screen/"><u>Guidelines for Glowing Cursors on Your Computer Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-0x80049dd3-voice-typing-error-in-windows-11/"><u>How to Fix the 0X80049dd3 Voice Typing Error in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-f54-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy F54 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-win11-printer-headaches-with-simple-steps/"><u>Stop Win11 Printer Headaches with Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-wintoys-unleashing-the-full-potential-of-a-powerful-windows-app/"><u>The Complete Guide to WinToys: Unleashing the Full Potential of a Powerful Windows App</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-windows-registry-explained-how-it-affects-software-management/"><u>The Windows Registry Explained: How It Affects Software Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-unsyncable-files-issue-on-pc/"><u>Troubleshooting Steam's Unsyncable Files Issue on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wmamp3mp3wma/"><u>WMAとMP3ファイル形式の明確な比較：それぞれの特徴とMP3からWMAへ変換する手順を深く掘り下げて解説</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -118,3 +95,22 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-screen-recording-hack-for-instagram-stories/"><u>[New] 2024 Approved The Ultimate Screen Recording Hack for Instagram Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-most-reliable-mac-recorders/"><u>[New] In 2024, The Ultimate Guide to the Most Reliable Mac Recorders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-key-tactics-for-implementing-films-in-school-curriculum-for-2024/"><u>[New] Key Tactics for Implementing Films in School Curriculum for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-sprint-showcase-short-track-22-glory/"><u>[Updated] In 2024, Sprint Showcase Short Track '22 Glory</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-advertising-try-all-50-available-free-youtube-banners-for-2024/"><u>[Updated] Revolutionize Advertising – Try All 50 Available FREE YouTube Banners for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhancing-your-listening-experience-the-essentials-of-recording-with-audacity-on-mac/"><u>In 2024, Enhancing Your Listening Experience The Essentials of Recording with Audacity on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-capture-setup-vr/"><u>In 2024, Horizon Capture Setup VR</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons/"><u>In 2024, How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-exit-code-1-on-pc-with-minecraft/"><u>Overcoming Exit Code 1 on PC with Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-visual-studio-code-against-windows-11-glitches/"><u>Secure Visual Studio Code Against Windows 11 Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-vm-efficiency-on-windows-with-six-tips/"><u>Skyrocketing VM Efficiency on Windows with Six Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-resolving-the-0x0000011b-error-in-win11/"><u>Troubleshooting: Resolving the 0X0000011B Error in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-for-qt-engine-startup-failure-in-programming/"><u>Unveiling Solutions for Qt Engine Startup Failure in Programming</u></a></li>
+</ul></div>
+

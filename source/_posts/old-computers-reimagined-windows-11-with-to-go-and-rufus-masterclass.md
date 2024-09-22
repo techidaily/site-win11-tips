@@ -1,7 +1,7 @@
 ---
 title: "Old Computers Reimagined: Windows 11 with To Go and Rufus Masterclass"
-date: 2024-09-12T21:22:29.883Z
-updated: 2024-09-17T07:00:16.703Z
+date: 2024-09-14T17:16:37.529Z
+updated: 2024-09-21T22:03:13.624Z
 tags:
   - windows10
   - windows11
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ![Screenshot showing selection of USB SSD in Device dropdown box of Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/05-screenshot-showing-selection-of-usb-ssd-in-device-dropdown-box-of-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot showing selection of Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/06-screenshot-showing-selection-of-disk-image-in-rufus.jpg)
 
 ![Screenshot showing selection of Windows 11 ISO as Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/07-screenshot-showing-selection-of-windows-11-iso-as-disk-image-in-rufus.jpg)
@@ -111,6 +104,13 @@ Close
 
 ![Screenshot showing selection of Windows version from the version list in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/11-screenshot-showing-selection-of-windows-version-from-the-version-list-in-rufus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot showing customization of Windows installation in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/12-screenshot-showing-customization-of-windows-installation-in-rufus.jpg)
 
 Close
@@ -119,7 +119,27 @@ Close
 
 ![Screenshot showing warning that all data in the USB SSD will be destroyed and to click OK to confirm in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/13-screenshot-showing-warning-that-all-data-in-the-usb-ssd-will-be-destroyed-and-to-click-ok-to-confirm-in-rufus.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot showing Rufus applying the Windows 11 Disk Image to the USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/14-screenshot-showing-rufus-applying-the-windows-11-disk-image-to-the-usb-ssd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Screenshot showing that Rufus completed applying the Windows 11 Disk Image to the USB SSD and is ready for boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-screenshot-showing-that-rufus-completed-applying-the-windows-11-disk-image-to-the-usb-ssd-and-is-ready-for-boot.jpg)
 
@@ -133,44 +153,37 @@ Close
 
 ![Screenshot showing the setting of the USB SSD as the first boot priority in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/16-screenshot-showing-the-setting-of-the-usb-ssd-as-the-first-boot-priority-in-bios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your computer will boot into Windows To Go. The screen shows that the computer’s **Secure Boot** is off, it does not have the TPM either.
 
 ![Screenshot showing the boot of USB SSD with the Windows 11 Disk Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/17-screenshot-showing-the-boot-of-usb-ssd-with-the-windows-11-disk-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will take a few minutes to set up everything. Since you have already set the regional options and privacy options, the installation will not ask any more questions.
 
 ![Screenshot showing Windows 11 setting everything up after boot of USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/18-screenshot-showing-windows-11-setting-everything-up-after-boot-of-usb-ssd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, you have Windows 11, completely functional on a computer that does not meet the minimum system requirements. It will still run A-OK!
 
 ![Screenshot showing Windows 11 running perfectly on a Computer that does not meet minimum requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/19-screenshot-showing-windows-11-running-perfectly-on-a-computer-that-does-not-meet-minimum-requirements.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It will also update, as a normal installation would do. There is still one thing you need to do. You did not set the password when you created the username in Rufus. This is important for security.
 
  To set the password, open **Settings** \> search for **Change your password** \> click **Password** and change it.
 
 ![Screenshot showing setting of password to the Local account of newly installed Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/20-screenshot-showing-setting-of-password-to-the-local-account-of-newly-installed-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you didn’t do that, Windows 11 will compel you to do it at the next reboot anyway.
 
@@ -208,33 +221,11 @@ Close
 * **The disk is portable across different computers—if they have the same configuration.** For example, if one computer has NVIDIA graphics with an already installed driver, the same disk will not boot on other hardware. In such case, you need to boot in safe mode and reset the drivers.
 * **Bypassing the system requirements is not a good idea overall.** Some of the features in Windows 11 provide additional security for your computer. You may need those if the computer is at risk of cyberattacks. However, this may be a good last resort if you're worried about Windows 10's loss of support.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extend Your PC's Life With Windows 11 To Go
 
  Some say that aging hardware kills a computer. But that’s not the usual case. Chromebooks in perfect condition are getting discarded because of the lack of software updates. The same will happen with the PCs that are running Windows 10, the ones that are incompatible with Windows 11\. Bypassing the system requirements can give your computer a new lease of life.
 
  There is a way to bypass these requirements and install Windows 11 on any powerful computer, even if it is old. The process is quite simple as well.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-iconic-beauty-personalities-to-follow-on-youtube-for-2024/"><u>[New] 10 Iconic Beauty Personalities to Follow on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-ai-powered-image-editor/"><u>[New] Ultimate AI-Powered Image Editor</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/isual-transcript-generator-for-2024/"><u>[New] Visual Transcript Generator for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-free-tools-for-editing-wmv-videos-online-and-offline-solutions/"><u>Best Free Tools for Editing WMV Videos - Online & Offline Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-drives-identifying-massive-storage-consumers-in-windows/"><u>Declutter Drives: Identifying Massive Storage Consumers in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-multilingual-communication-a-guide-to-using-chatgpt-for-language-translation/"><u>Mastering Multilingual Communication: A Guide to Using ChatGPT for Language Translation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-purging-of-junk-apps-from-windows-11/"><u>Rapid Purging of Junk Apps From Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-activate-rgb-in-windows-11/"><u>Steps to Activate RGB in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-ensure-win-calculator-supremacy/"><u>Steps to Ensure Win Calculator Supremacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-seamless-transition-from-browser-to-agent-gpt/"><u>The Seamless Transition: From Browser to Agent GPT</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-totan-banerjee-technique-for-bringing-lost-files-back-to-life/"><u>The Totan Banerjee Technique for Bringing Lost Files Back to Life</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -243,3 +234,23 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-voiceover-guide-for-engaging-videography/"><u>[New] 2024 Approved Voiceover Guide for Engaging Videography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-video-sharing-understanding-vimeo-membership-plans/"><u>[New] In 2024, Mastering Video Sharing Understanding Vimeo Membership Plans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-asmr-can-boost-your-health-and-happiness/"><u>[Updated] 2024 Approved How ASMR Can Boost Your Health & Happiness</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-youtube-for-dynamic-instagram-stories-for-2024/"><u>[Updated] Leveraging YouTube for Dynamic Instagram Stories for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-soundsreview-insight-for-2024/"><u>[Updated] SoundsReview Insight for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-android-moba-game-series-countdown-10/"><u>[Updated] The Ultimate Android MOBA Game Series Countdown (#10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-minmax-cpu-values-through-windows-menus/"><u>Deciphering Min/Max CPU Values Through Windows Menus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-in-depth-examination-of-vivavideo-app/"><u>In 2024, An In-Depth Examination of VivaVideo App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-11-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus 11 5G Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-view-overcoming-overscan-issues/"><u>Streamline Windows View: Overcoming Overscan Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/successful-execution-of-amd-195-on-your-os/"><u>Successful Execution of AMD 195 on Your OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-changing-your-home-screen-picture-on-pc/"><u>The Art of Changing Your Home Screen Picture on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-easy-steps-to-remove-store-app-from-win11/"><u>Three Easy Steps to Remove Store App From Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-shadowy-taskbar-snoop-in-windows-11/"><u>Unveiling the Shadowy Taskbar Snoop in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-2024-guide-to-the-leading-cloud-storage-champions/"><u>Your 2024 Guide to the Leading Cloud Storage Champions</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Creating a Personalized Speech-to-Text App for Windows
-date: 2024-09-10T05:58:08.507Z
-updated: 2024-09-16T19:41:25.715Z
+date: 2024-09-17T00:35:43.601Z
+updated: 2024-09-22T03:34:40.606Z
 tags:
   - windows10
   - windows11
@@ -84,19 +84,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 ![Defining Script Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-script-variables-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting Up the User Options
 
  When using Whisper on the command line, three of its flags allow you to define:
@@ -138,13 +125,6 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 `PromptText = Transcription of Your Name's notes`
 
 ![Defining Prompt Text Edit Field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-prompt-text-edit-field-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting Up the Action Buttons
 
@@ -207,13 +187,6 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  This will have AHK show a **Message Box** with the selected file after we choose it, which is useful when troubleshooting your script. If this message box shows your selected file's path and name, it's not your file-selecting button or function that requires fixing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Output Folder Selection
 
  The function for selecting a folder is almost identical, with only the command's name and variable changing, to show we're dealing with folders instead of files:
@@ -223,10 +196,10 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 ![Select Folder Function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder-function-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Final Function
@@ -245,6 +218,13 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Gui Submit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-gui-submit-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The following line creates a new variable called "**WhisperFlags**". It then adds to it all of the GUI's variables as flags for the Whisper command.
 
 `WhisperFlags = --initial_prompt "%PromptText%" --task %TaskType% --model %SelectedModel% --language %SelectedLanguage% --output_format %OutputFormat% -o "%SelectedFolder%" "%SelectedFile%"`
@@ -257,6 +237,13 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Runwait Whisperexecutable And Flag](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-runwait-whisperexecutable-and-flag-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For even easier troubleshooting we've also added a msgbox, as before, but also added the following line:
 
 `Clipboard = %WhisperExecutable% %WhisperFlags%`
@@ -265,16 +252,16 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Button Submit Troubleshooting Copy Command To Clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-troubleshooting-copy-command-to-clipboard-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open a terminal, paste the command from the Clipboard, and check the errors that pop up to locate potential problems.
 
 ![Checking Out The Command In Cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example, while working on the script, I initially forgot to have the prompt enclosed within quotation marks. Thus, the command failed, since Whisper tried to parse the prompt as flags.
 
@@ -292,27 +279,24 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  If everything worked, go back to your script and either delete or Comment out (by adding a ";" at their beginning) all the troubleshooting functionality (message boxes and copy-to-Clipboard lines).
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Taking Whisper Further With AutoHotkey
 
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boxed-insights-unpacking-effective-strategy/"><u>[Updated] 2024 Approved Boxed Insights Unpacking Effective Strategy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[Updated] 2024 Approved Rhythm for Rings How To Download and Cut Tamil Melodies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-breakdown-of-vivacuts-new-tools-and-features/"><u>[Updated] Step-by-Step Breakdown of VivaCut's New Tools and Features</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-best-of-both-worlds-apple-ipad-air-2020-vs-samsung-galaxy-tab-s7plus/"><u>Comparing the Best of Both Worlds: Apple iPad Air (2020) Vs. Samsung Galaxy Tab S7+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-windows-11-tpm-removal-techniques-explored/"><u>Effortless Windows 11 TPM Removal Techniques Explored</u></a></li>
-<li><a href="https://howto.techidaily.com/htc-u23-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-amazon-fire-hd-10-a-convenient-and-versatile-multimedia-hub-for-all-seasons/"><u>In-Depth Analysis of the Amazon Fire HD 10 : A Convenient and Versatile Multimedia Hub for All Seasons</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instant-tips-for-setting-windows-time-locally/"><u>Instant Tips for Setting Windows Time Locally</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-your-windows-11-temporary-files-reliable-and-valid/"><u>Keeping Your Windows 11 Temporary Files Reliable & Valid</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/premier-league-of-basketball-the-nba-2k19-digital-challenge/"><u>Premier League of Basketball: The NBA 2K19 Digital Challenge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-windows-11-way-mastery-of-software-uninstallation/"><u>The Windows 11 Way: Mastery of Software Uninstallation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -321,3 +305,19 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-achieving-high-quality-fb-video-1080p-streaming-guide/"><u>[New] Achieving High-Quality FB Video 1080P Streaming Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-slow-motion-magic-in-instagram-reels/"><u>[Updated] 2024 Approved Unlocking Slow Motion Magic in Instagram Reels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-djis-mavic-pro-visual-goggles-performance-review/"><u>[Updated] In 2024, DJi's Mavic Pro Visual Goggles Performance Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-msi-bluetooth-software-for-optimized-windows-1110-performance/"><u>Download the Newest MSI Bluetooth Software for Optimized Windows 11/10 Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-windows-access-error-annoyance/"><u>Eliminating the 'Windows Access Error' Annoyance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco X5 Phone with Broken Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-blaze-2-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Blaze 2 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-poco-x6-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Poco X6 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-clearing-drives-in-winos/"><u>Mastering the Art of Clearing Drives in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-file-unplayability-in-windows-os/"><u>Steps to Fix File Unplayability in Windows OS</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Potential: 8 Study Approaches for Windows Aficionados"
-date: 2024-09-14T05:28:01.433Z
-updated: 2024-09-17T08:03:37.694Z
+date: 2024-09-18T03:17:47.543Z
+updated: 2024-09-21T20:27:20.690Z
 tags:
   - windows10
   - windows11
@@ -102,27 +102,14 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
@@ -132,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
  Two great Windows options are OneNote and Obsidian. Both help create and organize notes easily. OneNote's expandable canvas and sections make note-taking with a stylus easy. Check our [tips to get started with OneNote](https://www.makeuseof.com/tag/use-onenote-school-10-tips-students-teachers/).
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Download Notion and Set It Up
 
@@ -144,13 +138,20 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Install ChatGPT on Your PC
 
@@ -159,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
  As it's a web-based service, you must open your browser and visit [chat.openai.com](https://chat.openai.com/) to use it. But, If you don't want to open your web browser every time, learn [how to install ChatGPT as a Windows app](https://www.makeuseof.com/run-chatgpt-windows-app/). Once done, you can one-click to open it and use it to brainstorm ideas, helpful resources, and draft outlines for your next project.
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
@@ -177,20 +171,6 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
  As a student, you can get the most out of your Windows PC with just a few tweaks. Want to know some useful ones? In this article, we’ll show you some of the best ways to set up your Windows PC like a pro.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-art-of-snapchats-boomerangs/"><u>[New] 2024 Approved Master the Art of Snapchat's Boomerangs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-inside-polarr-the-powerhouse-photo-toolkit-for-2024/"><u>[New] Inside Polarr The Powerhouse Photo Toolkit for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-seamless-integration-of-obs-and-zoom-services-for-2024/"><u>[New] Seamless Integration of OBS and Zoom Services for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-full-length-youtube-watching-mode/"><u>[Updated] Master Full-Length YouTube Watching Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/empowering-users-top-free-utilities-to-upgrade-your-pc/"><u>Empowering Users: Top Free Utilities to Upgrade Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unsupported-device-alert-during-installation-of-new-os/"><u>Overcoming Unsupported Device Alert During Installation of New OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reasons-most-people-avoid-the-leap-to-windows-11/"><u>Reasons Most People Avoid the Leap to Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-your-lost-iphone-files-with-top-data-restoration-solutions/"><u>Secure Your Lost iPhone Files with Top Data Restoration Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vintage-keys-modern-launch-enabling-windows-11-via-7/"><u>Vintage Keys, Modern Launch: Enabling Windows 11 via 7</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +178,19 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-key-pages-to-acquire-text-styling-assets/"><u>[Updated] In 2024, Key Pages to Acquire Text Styling Assets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-comprehensive-review-of-zd-soft-capture-tool/"><u>2024 Approved Comprehensive Review of ZD Soft Capture Tool</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-youtube-into-igtvs-repertoire-3-ways/"><u>2024 Approved Integrating YouTube Into IGTV's Repertoire (3 Ways)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-best-compact-audio-capturers-for-ipads-and-macs/"><u>2024 Approved The Best Compact Audio Capturers for iPads and Macs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enable-dark-scheme-in-windows-calculation-app/"><u>Enable Dark Scheme in Windows Calculation App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-well-need-your-current-windows-password-error-on-windows-11-and-11/"><u>How to Fix the “We’ll Need Your Current Windows Password” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-battle-of-live-streamers-twitch-versus-youtube/"><u>In 2024, The Battle of Live Streamers Twitch Versus YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secret-passages-to-your-pc-mastering-rdp-on-win-11/"><u>Secret Passages to Your PC: Mastering RDP on Win 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-adjusting-your-windows-10-app-icon-size-with-precision/"><u>Step-by-Step Tutorial: Adjusting Your Windows 10 App Icon Size with Precision</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-shave-time-off-epic-launcher-downloads/"><u>Strategies to Shave Time Off Epic Launcher Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-qualcomm-atheros-bluetooth-connectivity-problems-in-windows-10/"><u>Troubleshooting and Solving Qualcomm Atheros Bluetooth Connectivity Problems in Windows 10</u></a></li>
+</ul></div>
+

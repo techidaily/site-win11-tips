@@ -1,7 +1,7 @@
 ---
 title: Controlling Biometrics for Domain Admins on Windows 11
-date: 2024-09-16T05:28:34.927Z
-updated: 2024-09-16T20:51:56.218Z
+date: 2024-09-18T01:59:44.061Z
+updated: 2024-09-21T16:55:34.406Z
 tags:
   - windows10
   - windows11
@@ -62,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-key-environment-choices-for-live-sharing/"><u>[Updated] 2024 Approved Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-human-interface-ai-in-windows-tomorrow/"><u>Beyond Human Interface: AI in Windows Tomorrow</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cleared-error-device-error-48/"><u>Cleared Error - Device Error 48</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forcible-disconnectivity-of-windows-printers/"><u>Forcible Disconnectivity of Windows Printers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-discover-manycam-the-ultimate-video-enhancer-and-fake-webcam-solution/"><u>Live Streaming Made Easy: Discover ManyCam - The Ultimate Video Enhancer and Fake Webcam Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ms-sql-mastery-a-microsoft-mvps-perspective/"><u>MS SQL Mastery: A Microsoft MVP’s Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pre-purchase-wisdom-the-most-important-windows-laptop-tips/"><u>Pre-Purchase Wisdom: The Most Important Windows Laptop Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-regedit-not-found-message/"><u>Steps to Address Regedit Not Found Message</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A15 4G</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -83,16 +70,23 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
       data-full-width-responsive="true"></ins>
     
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-10-gratuitous-video-chats-with-desktop-viewing/"><u>2024 Approved Top 10 Gratuitous Video Chats with Desktop Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-income-with-movavis-rewarding-affiliate-network/"><u>Boost Your Income with Movavi's Rewarding Affiliate Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-facilement-un-video-mkv-en-format-avi/"><u>Comment Transformer Facilement Un Vidéo MKV en Format AVI?</u></a></li>
+<li><a href="https://windows11.techidaily.com/distinguishing-characteristics-of-exe-and-msi-files/"><u>Distinguishing Characteristics of EXE and MSI Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-navigating-through-its-artificial-intelligence-landscape/"><u>Google’s Gemini: Navigating Through Its Artificial Intelligence Landscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-oxygen-not-included-game-freezing-expert-advice-for-smooth-play/"><u>Overcoming 'Oxygen Not Included' Game Freezing: Expert Advice for Smooth Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-tiktok-experience-a-comprehensive-troubleshooting-manual/"><u>Revive Your TikTok Experience: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-caddy-per-display-per-computer-portatili-suggerimenti-e-consigli-di-ottimizzazione-seo/"><u>Top 12 Caddy Per Display Per Computer Portatili: Suggerimenti E Consigli Di Ottimizzazione SEO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-wma-in-ogg-gratuitamente-online-utilizzando-movavi/"><u>Trasforma I Tuoi WMA in Ogg Gratuitamente Online Utilizzando Movavi!</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

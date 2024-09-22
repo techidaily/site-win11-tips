@@ -1,7 +1,7 @@
 ---
 title: Restoring Default Power Profiles in Modern Windows
-date: 2024-09-12T08:42:34.438Z
-updated: 2024-09-16T20:27:33.047Z
+date: 2024-09-18T03:33:44.565Z
+updated: 2024-09-21T18:27:55.064Z
 tags:
   - windows10
   - windows11
@@ -69,28 +69,15 @@ To reset Windows default power plans:
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -111,16 +98,16 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use a different**powercfg** command to enable the High Performance power plan on Windows. This is useful if your system is missing only the High Performance power scheme. Here’s how to do it.
 
@@ -140,6 +127,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Manually Create the Power Plans
 
  If you don’t want to use the preset power plans, you can create your own power plans on Windows. This should work irrespective of the Modern Standby state of your computer.
@@ -152,15 +146,16 @@ To create a custom Power Plan on Windows:
 4. Next, click on**Power Options** .  
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
-![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
-6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
+6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
@@ -189,19 +184,15 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-enhance-channel-rankings-ethically-for-2024/"><u>[Updated] How to Enhance Channel Rankings Ethically for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-cost-free-text-animation-techniques/"><u>2024 Approved Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>2024 Approved The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-windows-11-guide-to-recording-games/"><u>2024 Approved The Ultimate Windows 11 Guide to Recording Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/learn-the-simple-steps-for-removing-blank-spaces-on-your-pc-drive/"><u>Learn the Simple Steps for Removing Blank Spaces on Your PC Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-management-console-fixing-failed-snap-creations/"><u>Mastering Windows Management Console: Fixing Failed Snap Creations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-media-playback-techniques-for-coupling-a-fire-stick-to-any-projector-model/"><u>Maximizing Media Playback: Techniques for Coupling a Fire Stick to Any Projector Model</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-file-explorer-in-windows-11-proactively/"><u>Reactivating File Explorer in Windows 11 Proactively</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/s-hottest-android-video-editing-apps-free-and-paid-picks-for-2024/"><u>S Hottest Android Video Editing Apps Free and Paid Picks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sculpt-your-scenes-with-fading-music-effects-in-adobe-premiere-pro/"><u>Sculpt Your Scenes with Fading Music Effects in Adobe Premiere Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-old-games-save-in-picture-space-a-w11-guide/"><u>Unleash Old Games, Save in Picture Space: A W11 Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-quick-solutions-to-windows-1011-update-error-codes/"><u>Unlocking Quick Solutions to Windows 10/11 Update Error Codes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-fix-unblocking-inaccessible-networks/"><u>Win Fix: Unblocking Inaccessible Networks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-launching-live-recordings-on-hp-computers/"><u>[Updated] 2024 Approved Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-internet-speech-capture-tools-for-2024/"><u>[Updated] Top Internet Speech Capture Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009876197-discord-overlay-troubles-resolve-the-problem-now-in-minutes/"><u>Discord Overlay Troubles? Resolve the Problem Now in Minutes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-fixed-tips-and-solutions-to-prevent-elite-dangerous-from-crashing/"><u>PC Gaming Fixed: Tips and Solutions to Prevent Elite Dangerous From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-textual-beauty-in-windows-11-writablepad/"><u>Tailoring Textual Beauty in Windows 11' WritablePad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-top-tech-problems-in-hearts-of-iron-4-solutions-revealed/"><u>Troubleshooting Top Tech Problems in Hearts of Iron 4 - Solutions Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-reducing-windows-extender-cpu/"><u>Understanding and Reducing Windows Extender CPU</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/uniting-visuals-a-pc-and-web-overlay-method-for-2024/"><u>Uniting Visuals A PC & Web Overlay Method for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-of-googles-flagship-contender-a-deep-dive-into-the-pixel-tale/"><u>Unveiling the Pros and Cons of Google's Flagship Contender: A Deep Dive Into the Pixel Tale</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-guide-to-recover-from-dxgi-device-failure/"><u>Win 11'S Guide to Recover From DXGI Device Failure</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sudo Integration in Windows: The Evolution"
-date: 2024-09-09T18:10:42.916Z
-updated: 2024-09-16T20:09:10.165Z
+date: 2024-09-21T05:52:02.297Z
+updated: 2024-09-21T22:23:22.255Z
 tags:
   - windows10
   - windows11
@@ -46,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
@@ -69,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -102,23 +96,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>[Updated] 2024 Approved Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[Updated] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-tips-for-captivate-based-demos-for-2024/"><u>[Updated] Expert Tips for Captivate-Based Demos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y17s-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y17s</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/effortless-techniques-for-converting-your-dvds-into-high-quality-avi-files/"><u>Effortless Techniques for Converting Your DVDs Into High-Quality AVI Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-inability-to-open-files-for-writing-in-windows-11/"><u>How to Rectify Inability to Open Files For Writing in Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xs-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XS Max i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-functionality-legacy-keys-in-windows-narrator/"><u>Maximizing Functionality: Legacy Keys in Windows Narrator</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-launchpad-experience-with-top-techniques-for-windows-11/"><u>Transforming Launchpad Experience with Top Techniques for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-rogue-company-how-to-prevent-pc-disruptions/"><u>Troubleshooting Rogue Company: How to Prevent PC Disruptions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-finding-lost-enhancement-tab-quick-fix-guide/"><u>Windows 11: Finding Lost Enhancement Tab - Quick Fix Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -126,3 +103,24 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premiere-cinematic-glimpses-series/"><u>[New] 2024 Approved Premiere Cinematic Glimpses Series</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-video-quality-editing-tips-for-published-content/"><u>[New] Enhancing Video Quality Editing Tips for Published Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-secrets-to-proficient-ipad-screening/"><u>[New] In 2024, Secrets to Proficient iPad Screening</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>[Updated] In 2024, Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>2024 Approved Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-war-thunder-crashes-a-step-by-step-guide-to-stability-solutions/"><u>Conquer War Thunder Crashes : A Step-by-Step Guide to Stability Solutions</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/free-conversion-change-your-files-from-torrents-to-mp4s-across-windows-android-and-mac/"><u>Free Conversion: Change Your Files From Torrents to MP4s Across Windows, Android & Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-windows-11-active-directory-printer-fails/"><u>How to Rectify Windows 11 Active Directory Printer Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovating-interaction-connect-winpc-and-galaxy-phones-flow/"><u>Innovating Interaction - Connect WinPC and Galaxy Phones Flow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-windows-view-overcoming-overscan-issues/"><u>Streamline Windows View: Overcoming Overscan Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/successful-execution-of-amd-195-on-your-os/"><u>Successful Execution of AMD 195 on Your OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-changing-your-home-screen-picture-on-pc/"><u>The Art of Changing Your Home Screen Picture on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-cutting-edge-of-physical-wellbeing-amazons-innovative-halo-fitness-device-explored/"><u>The Cutting-Edge of Physical Wellbeing: Amazon's Innovative Halo Fitness Device Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-easy-steps-to-remove-store-app-from-win11/"><u>Three Easy Steps to Remove Store App From Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12r-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-shadowy-taskbar-snoop-in-windows-11/"><u>Unveiling the Shadowy Taskbar Snoop in Windows 11</u></a></li>
+</ul></div>
+
