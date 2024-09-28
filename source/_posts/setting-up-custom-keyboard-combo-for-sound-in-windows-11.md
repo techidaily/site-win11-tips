@@ -193,77 +193,7 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[New] 2024 Approved  Humor in Captivity  Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-valheim-planting-manual/"><u>[New] 2024 Approved  The Ultimate Valheim Planting Manual</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-high-definition-at-its-peak-top-10-4k-screens/"><u>[New] High Definition at Its Peak  #Top 10 4K Screens</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-make-every-gaming-moment-memorable/"><u>[New] In 2024, Make Every Gaming Moment Memorable</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-panning-top-techniques-for-livestreaming-cricket-games/"><u>[New] Perfect Panning  Top Techniques for Livestreaming Cricket Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-chrome-no-sound/"><u>[SOLVED] Chrome No Sound</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximizing-views-optimal-youtube-thumbnails/"><u>[Updated] 2024 Approved  Maximizing Views  Optimal YouTube Thumbnails</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-video-repository-explorator/"><u>[Updated] 2024 Approved  Video Repository Explorator</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-compelling-podcast-teasers/"><u>[Updated] Crafting Compelling Podcast Teasers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-explore-the-globe-in-one-frame-iphone-360-video-guide/"><u>[Updated] In 2024, Explore the Globe in One Frame  IPhone 360 Video Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-premium-online-sound-snatchers-for-2024/"><u>[Updated] Premium Online Sound Snatchers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-10-step-plan-thriving-in-social-media-management-for-2024/"><u>[Updated] The Ultimate 10-Step Plan  Thriving in Social Media Management for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-detailed-theta-s-analysis-a-comprehensive-look/"><u>2024 Approved  Detailed Theta S Analysis  A Comprehensive Look</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>2024 Approved  Simplified Design Guide  Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftly-switch-srt-and-text-files-with-this-easy-guide/"><u>2024 Approved  Swiftly Switch SRT and Text Files with This Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-breakdown-understanding-windows-odbc-system/"><u>Comprehensive Breakdown: Understanding Windows' ODBC System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-camera-app-0xa00f425d-issue-on-windows/"><u>Correcting Camera App 0xA00F425D Issue on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-main-panel-of-windows-11-task-manager/"><u>Customizing Main Panel of Windows 11 Task Manager</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-a-guide-to-swift-winoutlook/"><u>Cut the Clutter: A Guide to Swift WinOutlook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-paudio-conundrum-windows-10-and-11s-audio-dilemma/"><u>Deciphering PAudio Conundrum: Windows 10 & 11'S Audio Dilemma</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtubes-legal-framework-for-video-creators/"><u>Decoding YouTube's Legal Framework for Video Creators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-download-methods-for-newcomers-to-windows/"><u>Direct Download Methods for Newcomers to Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/engage-and-measure-instagram-stories-as-a-data-source-for-2024/"><u>Engage and Measure  Instagram Stories as a Data Source for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-best-in-laptop-temperature-management-the-kootek-solution/"><u>Evaluating the Best in Laptop Temperature Management - The Kootek Solution</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-et-2750-printer-driver-for-windows-installed/"><u>Get Your Epson ET-2750 Printer Driver for Windows Installed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-overcome-settings-loss-after-system-shutdown/"><u>Guide to Overcome Settings Loss After System Shutdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-news-and-interests-high-memory-and-cpu-usage-on-windows-10-and-11/"><u>How to Fix News and Interests' High Memory and CPU Usage on Windows 10 and 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identifying-spyware-signs-without-tools/"><u>Identifying Spyware Signs without Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-quick-setup-for-hosting-online-seminars-on-pcmac/"><u>In 2024, Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-striking-the-right-chord-in-your-podcast-summary/"><u>In 2024, Striking the Right Chord in Your Podcast Summary</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-iomap64sys-fault-management-in-windows-pcs/"><u>Mastering IOMap64.sys Fault Management in Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-your-pcs-potential-onedrive-fails-remedied/"><u>Mastering Your PC's Potential: OneDrive Fails Remedied</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastery-in-voice-change-with-morphvox/"><u>Mastery in Voice Change with MorphVOX</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-window-11s-help-service-disruption/"><u>Mending Window 11'S Help Service Disruption</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-driver-quick-installation-steps/"><u>MFC-9330 Driver: Quick Installation Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11s-elevation-conflict-overcoming-error-740/"><u>Navigating Windows 11'S Elevation Conflict: Overcoming Error #740</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-visuals-on-win1011-by-driver-rebooting/"><u>Optimizing Visuals on Win10/11 by Driver Rebooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/paint-your-thoughts-clearly-mastering-note-taking-with-obsidian/"><u>Paint Your Thoughts Clearly - Mastering Note-Taking with Obsidian</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premiered-patterns-for-panzoid-creation/"><u>Premiered Patterns for Panzoid Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prevent-snipping-tool-start-with-print-key-in-windows-11-os/"><u>Prevent Snipping Tool Start with Print Key in Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-and-correcting-disk-readwrite-issues/"><u>Preventing and Correcting Disk Read/Write Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-vanished-recorded-run-events/"><u>Preventing Vanished Recorded Run Events</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/propel-your-productivity-key-strategies-with-windows-11/"><u>Propel Your Productivity: Key Strategies with Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-refreshing-desktop-icons-in-windows/"><u>Quick Fix: Refreshing Desktop Icons in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-sleep-windows-1011-turns-off-by-itsself/"><u>Quick Sleep: Windows 10/11 Turns Off By Itsself</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rapid-diy-techniques-that-every-indie-filmmaker-should-try-for-2024/"><u>Rapid DIY Techniques That Every Indie Filmmaker Should Try for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivate-steam-graphics-in-windows-environment/"><u>Reactivate Steam Graphics in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-automatic-voice-feature-in-ms-word/"><u>Restoring Automatic Voice Feature in MS Word</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-off-screen-windows-6-steps-for-win11/"><u>Resurrecting Off-Screen Windows: 6 Steps for Win11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/1723262399490-save-big-on-a-high-performance-cyberpower-desktop-999-with-nvidia-rtx-4060-and-more/"><u>Save Big on a High-Performance CyberPower Desktop: $999 with Nvidia RTX 4060 & More</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shut-down-specification-failure-sticker-in-os/"><u>Shut Down Specification Failure Sticker in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-windows-files-with-top-tricks-max-156/"><u>Simplify Windows Files with Top Tricks (Max 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stabilizing-the-sweep-of-your-cursor-deactivating-mouse-accel-in-win-11/"><u>Stabilizing the Sweep of Your Cursor: Deactivating Mouse Accel in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-resolve-failing-windows-discord-updates/"><u>Step by Step to Resolve Failing Windows Discord Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-critical-javascript-failure-in-discord-on-windows/"><u>Steps to Address Critical JavaScript Failure in Discord on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-preserve-windows-system-time-settings/"><u>Strategies to Preserve Windows System Time Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mechanics-behind-bot-success-and-their-appeal/"><u>The Mechanics Behind Bot Success and Their Appeal</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-breakdown-of-the-customizable-ibuypower-game-computer-where-excellence-meets-economy/"><u>The Ultimate Breakdown of the Customizable IBUYPOWER Game Computer: Where Excellence Meets Economy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-value-proposition-of-windows-11s-interactive-elements/"><u>The Value Proposition of Windows 11'S Interactive Elements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/three-methods-to-use-telnet-in-windows-11/"><u>Three Methods to Use Telnet in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-unresponsive-speakers-in-modern-os/"><u>Troubleshoot Unresponsive Speakers in Modern OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-abruptly-delete-non-responsive-printers/"><u>Windows 10/11 Hack: Abruptly Delete Non-Responsive Printers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-sound-system-enhancement-through-drivers-update-tutorial/"><u>Windows Sound System Enhancement Through Drivers Update Tutorial</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

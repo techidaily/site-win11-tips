@@ -101,40 +101,7 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-olyx-zones-the-creme-de-la-snowspeedcross/"><u>[New] OlyX-Zones  The Crème De La Snowspeedcross</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-pros-and-cons-of-hero-series-vs-polaroids-video-editors-for-2024/"><u>[Updated] Pros & Cons of Hero Series Vs. Polaroid's Video Editors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-essential-solutions-for-troubleshooting-missing-wireless-connections-in-windows-10/"><u>10 Essential Solutions for Troubleshooting Missing Wireless Connections in Windows 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-solutions-for-a-fully-operational-windows-search-bar/"><u>11 Solutions for a Fully Operational Windows Search Bar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-customize-win11-mouse-controls/"><u>A Guide to Customize Win11 Mouse Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-eradicating-d3d11-errors-in-w11-and-w10/"><u>A Step-by-Step Approach to Eradicating D3D11 Errors in W11 & W10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-stalled-downloads-with-qbittorrent-fixes/"><u>Accelerating Stalled Downloads with qBittorrent Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-locked-windows-11-themes-through-registry-expertise/"><u>Accessing Locked Windows 11 Themes Through Registry Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-empty-directory-alert-in-windows-11/"><u>Addressing Empty Directory Alert in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-default-screen-saver-in-windows-11/"><u>Adjusting Default Screen Saver in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-integration-in-windows-11-for-effective-multitasking/"><u>Android Integration in Windows 11 for Effective Multitasking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-linking-to-windows-shared-drives/"><u>Android Linking to Windows Shared Drives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/arrow-key-calm-a-guide-for-win-users/"><u>Arrow Key Calm: A Guide for Win Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-yellow-shade-from-laptop-panels/"><u>Banishing Yellow Shade From Laptop Panels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/battle-bugs-tackling-skyrims-extension-failure/"><u>Battle Bugs: Tackling Skyrim's Extension Failure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/black-friday-special-612-unlimited-win10-life/"><u>Black Friday Special: $6.12, Unlimited Win10 Life</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blockchain-against-breaches-7-windows-strategies/"><u>Blockchain Against Breaches: 7 Windows Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boldly-hiding-extra-commands-within-window-contexts-win-10/"><u>Boldly Hiding Extra Commands Within Window Contexts (Win 10)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boltgun-playtime-maximized-overcoming-computer-delays-in-warhammer-40k/"><u>Boltgun Playtime Maximized: Overcoming Computer Delays in Warhammer 40K</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-start-menu-efficiency-in-the-world-of-windows-11/"><u>Boost Your Start Menu Efficiency in the World of Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-copy-pasting-expertise/"><u>Boost Your Typing, Copy-Pasting Expertise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-taskbar-performance-on-win11/"><u>Boosting Taskbar Performance on Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brilliant-barrage-essential-gadgets-for-clips/"><u>Brilliant Barrage  Essential Gadgets for Clips</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-6s-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 6s Plus to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/discreet-audio-modulation-strategies-with-audacity/"><u>Discreet Audio Modulation Strategies with Audacity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-100-pro-easily-by-drfone-android/"><u>How To Unlock a Honor 100 Pro Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 13</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-top-youtube-cameras-a-guide-for-novices-and-pros/"><u>In 2024, Top YouTube Cameras  A Guide for Novices & Pros</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-to-use-intels-me/"><u>Upgrade Windows to Use Intel's ME</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

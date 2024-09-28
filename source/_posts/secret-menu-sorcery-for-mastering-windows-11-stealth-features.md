@@ -76,21 +76,7 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-ways-to-add-meme-text-to-videos/"><u>2024 Approved Best Ways to Add Meme Text to Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-shuttered-creations-sudden-delete-incidents/"><u>2024 Approved Shuttered Creations Sudden Delete Incidents</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversione-gratuita-online-trasforma-il-tuo-file-wmv-in-formato-mp4-con-i-migliori-servizi-di-conversione-video/"><u>Conversione Gratuita Online: Trasforma Il Tuo File WMV in Formato MP4 Con I Migliori Servizi Di Conversione Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-konverter-videi-emb-a-aac-movavi-koda/"><u>Gratis Online Konverter: Vídei EMB a AAC - Movavi Koda</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-huawei-nova-y71-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Huawei Nova Y71.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Spark 10 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-transform-your-footage-a-step-by-step-guide-to-ken-burns-effect-in-final-cut-pro/"><u>New In 2024, Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personnalisation-des-liens-affilies-avec-movavi-une-strategie-doptimisation-efficace-pour-le-referencement/"><u>Personnalisation Des Liens Affiliés Avec Movavi : Une Stratégie D'optimisation Efficace Pour Le Référencement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/photo-magic-expert-tricks-for-a-brighter-whiter-smile-in-photography/"><u>Photo Magic: Expert Tricks for a Brighter, Whiter Smile in Photography</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-90-gt-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor 90 GT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-movie-maker-vs-movavi-video-editor-which-is-better-for-your-editing-needs/"><u>Windows Movie Maker Vs. Movavi Video Editor: Which Is Better for Your Editing Needs?</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

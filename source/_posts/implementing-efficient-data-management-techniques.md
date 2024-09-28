@@ -176,42 +176,7 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-smooth-cinematography-ideal-stabilizer-tools-for-vloggers/"><u>[New] Smooth Cinematography Ideal Stabilizer Tools for Vloggers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-online-techniques-for-vhs-image-refinement/"><u>[Updated] Pioneering Online Techniques for VHS Image Refinement</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-and-blogging-videos-integration-guide/"><u>[Updated] Tweeting & Blogging Videos Integration Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-video-explanations-all-inclusive/"><u>Brief Video Explanations, All-Inclusive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detect-signs-is-it-time-for-windows-clean-slate/"><u>Detect Signs: Is It Time for Windows Clean Slate?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-diagnosing-and-fixing-cc-issues-on-windows-10/"><u>Efficiently Diagnosing and Fixing CC Issues on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-chrome-back-on-track-expert-fixes-for-unresponsiveness/"><u>Get Your Chrome Back on Track: Expert Fixes for Unresponsiveness</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-a60s-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel A60s?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 i Do? Get Answers here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-microsoft-store-repairs-fixing-code-0x80072f30-quickly/"><u>Master Microsoft Store Repairs: Fixing Code 0X80072F30 Quickly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-index-and-match/"><u>Mastering Excel: A Step-by-Step Guide to Using INDEX and MATCH</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ms-excel-a-comprehensive-tutorial-on-square-root-calculation-techniques/"><u>Mastering MS Excel: A Comprehensive Tutorial on Square Root Calculation Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-disabling-windows-updates/"><u>Mastering the Art of Disabling Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-altering-windows-registry-using-cli/"><u>Navigating and Altering Windows Registry Using CLI</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-best-top-rated-explainer-video-production-software-for-2024/"><u>New Best Top-Rated Explainer Video Production Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proactive-approach-locating-your-devices-mac-address-in-windows-11/"><u>Proactive Approach: Locating Your Device's MAC Address in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redesigning-workplace-efficiency-with-microsofts-latest-office-template-overhaul/"><u>Redesigning Workplace Efficiency with Microsoft's Latest Office Template Overhaul</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedy-steams-reacquire-unverified-files/"><u>Remedy: Steam's Reacquire Unverified Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-the-ideal-excel-chart-type-a-guide-for-presenting-your-data-effectively/"><u>Selecting the Ideal Excel Chart Type: A Guide for Presenting Your Data Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-gaps-between-cells-text-and-borders-in-excel-spreadsheets/"><u>Step-by-Step Guide: Adjusting Gaps Between Cells, Text, and Borders in Excel Spreadsheets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-creating-a-pie-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Pie Chart Using Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-audacitys-sound-fault-windows-11-os/"><u>Strategies to Tackle Audacity's Sound Fault, Windows 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-file-management-overcoming-o365-errors-on-win-11/"><u>Streamlined File Management: Overcoming O365 Errors on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-the-process-of-adjusting-pointer-settings-in-windows-11/"><u>Streamlining the Process of Adjusting Pointer Settings in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-11-amazing-tricks-and-tasks-achievable-using-siri-on-your-mac/"><u>Top 11 Amazing Tricks and Tasks Achievable Using Siri on Your Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-9-essential-excel-text-manipulation-techniques-using-microsoft-office/"><u>Top 9 Essential Excel Text Manipulation Techniques Using Microsoft Office</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unifying-ms-office-suite-with-your-zoho-online-platform-a-step-by-step-guide/"><u>Unifying MS Office Suite with Your Zoho Online Platform: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-movie-magic-with-cg-centrals-look-up-tables-luts/"><u>Unlock Movie Magic with CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-with-google-sheets-top-14-capabilities-missed-in-microsoft-excel/"><u>Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unstick-your-iphone-from-continuous-data-recovery-phase-with-these-tips/"><u>Unstick Your iPhone From Continuous 'Data Recovery' Phase with These Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-gfx-issues-solved-interface-functioning-normal/"><u>Win GFX Issues Solved: Interface Functioning Normal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/work-on-excel-powerpoint-and-word-online-doc-editing-anywhere/"><u>Work on Excel, PowerPoint & Word Online Doc Editing Anywhere</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

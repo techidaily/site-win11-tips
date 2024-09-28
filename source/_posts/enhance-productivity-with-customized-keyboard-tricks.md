@@ -162,42 +162,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-easy-path-to-popularity-two-tactics-for-youtube-fame/"><u>[Updated] 2024 Approved  Easy Path to Popularity  Two Tactics for YouTube Fame</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-displacement-your-snapchat-time-turner-guide/"><u>[Updated] Decoding Displacement  Your Snapchat Time-Turner Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-poco-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco FRP</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/breaking-down-mp4s-removing-sound-tracks-and-silence/"><u>Breaking Down MP4s Removing Sound Tracks and Silence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combining-macos-and-windows-apps-for-maximum-efficiency/"><u>Combining macOS and Windows Apps for Maximum Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convenient-customization-windows-11-and-11-portable-menu-addition/"><u>Convenient Customization: Windows 11 & 11 Portable Menu Addition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/creating-context-menus-to-signal-software-patches/"><u>Creating Context Menus to Signal Software Patches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-resolving-non-functional-gesture-inputs/"><u>Diagnosing and Resolving Non-Functional Gesture Inputs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-windows-discover-2023s-community-favorites/"><u>Elevate Windows: Discover 2023'S Community Favorites</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/engaging-audiennas-a-captivate-presentation-guide-for-2024/"><u>Engaging Audiennas  A Captivate Presentation Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-90-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-displayport-no-signal-easily/"><u>Fix DisplayPort No Signal Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-gt-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 GT to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-a56s-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo A56s 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-13t-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi 13T Pro Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-3d-lut-filters-a-photo-editing-essential/"><u>In 2024, Mastering 3D LUT Filters  A Photo Editing Essential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-your-work-and-play-with-exclusive-ms-picks/"><u>Maximize Your Work & Play with Exclusive MS Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-inconsistent-gestures-on-your-windows-device/"><u>Mending Inconsistent Gestures on Your Windows Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/"><u>Navigate Subtitle Installation in WMP Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-missing-windows-logins-with-ease/"><u>Navigating Through Missing Windows Logins with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-playnite-for-a-comprehensive-gaming-library/"><u>Optimizing Playnite for a Comprehensive Gaming Library</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-media-tool-errors-0x8007043c-and-0x90017-fixes/"><u>Overcoming Media Tool Errors: 0X8007043C and 0X90017 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reopening-hidden-nvidia-control-panel-on-w11/"><u>Reopening Hidden Nvidia Control Panel on W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-skyrim-forge-edition-launching-error-issues-easily/"><u>Resolving Skyrim Forge Edition Launching Error Issues Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-password-inclusion-for-your-windows-file-system/"><u>Seamless Password Inclusion for Your Windows File System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-code-0x80d03801-ms-store/"><u>Steps to Correct Error Code 0X80D03801 MS Store</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-email-management-pin-gmail-to-windows-taskbar/"><u>Streamline Email Management: Pin Gmail to Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/telnet-configuration-made-simple-for-win11-users/"><u>Telnet Configuration Made Simple: For Win11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-from-pin-based-login-on-windows-11-to-traditional-passwords/"><u>Transitioning From PIN-Based Login on Windows 11 to Traditional Passwords</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninterrupted-powertoys-experience-with-system-switch-up/"><u>Uninterrupted PowerToys Experience with System Switch-Up</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-how-to-fix-null-input-sounds/"><u>Unlocking the Secrets: How to Fix Null Input Sounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-woes-how-to-re-enable-the-hidden-enhancement-panel/"><u>Windows 11 Woes: How to Re-Enable the Hidden Enhancement Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-strategies-6-fast-tips-for-overcoming-ppt-save-failures/"><u>Winning Strategies: 6 Fast Tips for Overcoming PPT Save Failures</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

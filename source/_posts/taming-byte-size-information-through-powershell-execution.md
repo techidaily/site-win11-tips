@@ -124,54 +124,7 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-rpg-heritage-clashing-with-new-age-designs/"><u>[New] 2024 Approved  RPG Heritage Clashing with New-Age Designs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iscover-variety-50-complimentary-youtube-banners-available-for-2024/"><u>[New] Discover Variety – 50 Complimentary YouTube Banners Available for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-exploring-tech-worlds-dissecting-ar-mr-and-vr-for-2024/"><u>[New] Exploring Tech Worlds  Dissecting AR, MR, & VR for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-innovative-ways-to-control-your-iphones-picture-angles-for-2024/"><u>[New] Innovative Ways to Control Your iPhone's Picture Angles for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-quintessential-list-of-top-15-masterpieces-in-stop-motion-for-2024/"><u>[New] The Quintessential List of Top 15 Masterpieces in Stop Motion for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-wheres-the-community-twitch-and-youtube-side-by-side-for-2024/"><u>[New] Where's the Community? Twitch & YouTube Side by Side for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-accelerating-instagram-videos-mobile-and-desktop-tips/"><u>[Updated] Accelerating Instagram Videos  Mobile & Desktop Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-building-a-brand-in-the-metaverse-ecosystem/"><u>[Updated] Building a Brand in the Metaverse Ecosystem</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>[Updated] In 2024, Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-learn-how-to-directly-control-your-iphones-orientation/"><u>[Updated] In 2024, Learn How to Directly Control Your iPhone's Orientation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>2024 Approved  Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>2024 Approved  Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-google-pixel-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Google Pixel 8 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-line-concoctions-5-hilarious-tricks-at-work/"><u>Command Line Concoctions: 5 Hilarious Tricks at Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correction-of-windows-1011-zoom-failure-code-1132/"><u>Correction of Windows 10/11 Zoom Failure - Code 1132</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-error-on-windows-no-more-blank-screens/"><u>Fixing Steam Error on Windows: No More Blank Screens</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C12 Pro Bootloader Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-a2plus-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi A2+ online without jailbreak</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-and-update-your-logitech-c920-webcam-drivers-on-windows-11/"><u>Install and Update Your Logitech C920 Webcam Drivers on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-c460-drivers-secure-your-free-download-today/"><u>Instant Access to Samsung C460 Drivers - Secure Your Free Download Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instantly-install-hyper-v-on-your-windows-11-homesystem/"><u>Instantly Install Hyper-V on Your Windows 11 Homesystem</u></a></li>
-<li><a href="https://extra-support.techidaily.com/investigating-ffmpeg-for-intact-audio-preservation-for-2024/"><u>Investigating FFmpeg for Intact Audio Preservation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-fingertip-input-windows-tutorial/"><u>Mastering Fingertip Input: Windows Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mobility-control-deactivation-in-w11/"><u>Mastering Mobility Control Deactivation in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-guide-to-bypass-ms-teams-error-80080300-on-windows-11/"><u>Mastery Guide to Bypass MS Teams Error 80080300 on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-charmap-problems-with-ease/"><u>Mending Windows CharMap Problems with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-graphics-shortage-on-enchanted-magic-school-platform/"><u>Overcoming Graphics Shortage on Enchanted Magic School Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-steams-non-syncing-library-files/"><u>Quick Fix for Steam's Non-Syncing Library Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-disk-read-failure-issue-in-windows/"><u>Remedying the Disk Read Failure Issue in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-unresponsive-windows-webcam/"><u>Remedying Unresponsive Windows Webcam</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-disconnected-win-ethernet/"><u>Resurrecting Disconnected Win Ethernet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-dell-sound-with-updated-realtek-driver-implementation/"><u>Secure Dell Sound with Updated Realtek Driver Implementation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/selecting-optimal-windows-options-for-switch-gaming-enthusiasts/"><u>Selecting Optimal Windows Options for Switch Gaming Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-taskbar-customization-with-portables/"><u>Simplifying Taskbar Customization with Portables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-locate-and-open-windowsstore-folder/"><u>Steps to Locate and Open WindowsStore Folder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-to-22h2-windows-setbacks/"><u>Swift Solutions to 22H2 Windows Setbacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-halt-windows-shutdown-clock/"><u>Techniques to Halt Windows Shutdown Clock</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-ultimate-resource-for-morphvox-audio-transformation-for-2024/"><u>The Ultimate Resource for MorphVOX Audio Transformation for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-issue-code-30005-failed-file-creation-on-windows/"><u>Troubleshooting Issue Code 30005 - Failed File Creation on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-deleted-messages-on-gmail/"><u>Ultimate Guide: Restoring Deleted Messages on Gmail</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-gpu-potential-win-friendly-tools-ranked-1-6/"><u>Unleash GPU Potential: Win-Friendly Tools Ranked #1-#6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-optimized-web-linkage-in-your-windows-applications-today/"><u>Unlock Optimized Web Linkage in Your Windows Applications Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-windows-11s-auto-hdr-effectively/"><u>Utilizing Windows 11'S Auto HDR Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-wisdom-secrets-to-instant-dossiers-creation/"><u>Win11 Wisdom: Secrets to Instant Dossiers Creation</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

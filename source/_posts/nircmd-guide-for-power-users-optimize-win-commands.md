@@ -163,45 +163,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[New] 2024 Approved  Explore the World of Tiny Screens  Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-immediate-access-future-legacy-preserving-your-digital-moments/"><u>[New] In 2024, Immediate Access, Future Legacy  Preserving Your Digital Moments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-command-routes-for-fast-diagnostic-center-entry/"><u>10 Command Routes for Fast Diagnostic Center Entry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-straightforward-steps-to-engage-repair-tool/"><u>10 Straightforward Steps to Engage Repair Tool</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>2024 Approved  Immortalize Your Playthrough  Xbox One Screen Capture Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-reset-folder-view-settings-to-default-in-windows-11/"><u>3 Ways to Reset Folder View Settings to Default in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-command-line-capers-for-the-tech-whimsical/"><u>5 Command Line Capers for the Tech Whimsical</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-dangers-of-purchasing-low-cost-windows-licenses/"><u>6 Dangers of Purchasing Low-Cost Windows Licenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-recovering-cortana-insights-on-pcs/"><u>A Guide to Recovering Cortana Insights on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-simplified-approach-to-windows-odbc-data-management/"><u>A Simplified Approach to Windows ODBC Data Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/access-denied-seven-windows-workarounds-for-web-site-woes/"><u>Access Denied? Seven Windows Workarounds for Web Site Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-11-shutdown-interval-for-executing-jobstasks/"><u>Adjusting Windows 11 Shutdown Interval for Executing Jobs/Tasks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/androidwindows-twinning-effortless-sync-instructions/"><u>Android/Windows Twinning: Effortless Sync Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artificinas-intelligence-microsofts-innovative-ai-addition-to-windows-11-taskbar/"><u>Artificinas Intelligence: Microsoft’s Innovative AI Addition to Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-hypervisorerr-blues-in-win-10-and-11/"><u>Beating HYPERVISOR_ERR Blues in Win 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-speech-converter-transcribe-talk-with-whisper-in-windows/"><u>Become a Speech Converter: Transcribe Talk with Whisper in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-safety-wins-7-top-rated-zero-cost-pass-gen-software/"><u>Boost System Safety: Win's 7 Top Rated Zero-Cost Pass Gen Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-brainpower-the-ultimate-8-windows-guide-to-studying/"><u>Boost Your Brainpower: The Ultimate 8 Windows Guide to Studying</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-system-insight-with-elevated-task-manager-access-on-win11/"><u>Boosting System Insight with Elevated Task Manager Access on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719225198037-epic-launcher-removal-woes-in-windows-11-fix-now/"><u>Epic Launcher Removal Woes in Windows 11: Fix Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-fix-free-downloads-for-windows-7-keyboard-device-drivers/"><u>Fast Fix: Free Downloads for Windows 7 Keyboard Device Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c12-plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C12 Plus Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-tiktok-videos-all-you-want-to-know-for-2024/"><u>How to Translate TikTok Videos? All You Want to Know for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-p60-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei P60 Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 15 Plus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-record-and-edit-video-using-the-adobe-connect/"><u>In 2024, How to Record and Edit Video Using the Adobe Connect</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>In 2024, To Network, Or Not  A Detailed Guide for YouTubers Considering MNCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-chatgpts-recent-legal-issues-updates-from-google-news-stream-and-tips-for-optimal-mobile-connectivity-while-traveling/"><u>Navigating ChatGPT's Recent Legal Issues: Updates From Google News Stream & Tips for Optimal Mobile Connectivity While Traveling</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-the-features-of-the-netgear-orbi-rbs50y-in-large-area-coverage-review/"><u>Navigating Through the Features of the Netgear Orbi RBS50Y in Large Area Coverage Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-storm-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Storm 5G has been deleted</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

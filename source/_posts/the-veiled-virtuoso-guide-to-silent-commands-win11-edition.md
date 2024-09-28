@@ -76,23 +76,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-universalaccess-tv-diverse-channels-with-a-local-twist/"><u>[New] 2024 Approved UniversalAccess TV Diverse Channels with a Local Twist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-your-video-pacing-with-these-snapchat-tips/"><u>[Updated] Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-perfecting-aerial-images-key-factors-in-picking-a-gimbal-for-2024/"><u>[Updated] Perfecting Aerial Images Key Factors in Picking a Gimbal for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-perfect-bgms-and-images-elevating-remote-conferencing/"><u>2024 Approved Perfect BGMs & Images Elevating Remote Conferencing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/global-reach-of-chatgpt-a-comprehensible-guide/"><u>Global Reach of ChatGPT: A Comprehensible Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-activate-or-deactivate-network-discovery-feature-in-windows-11/"><u>Guide to Activate or Deactivate Network Discovery Feature in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-13-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 13 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-low-virtual-memory-situations-in-vmware/"><u>Mitigating Low Virtual Memory Situations in VmWare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-cant-add-your-folder-now-a-quick-guide-to-onedrive/"><u>Navigating Through 'Can't Add Your Folder Now': A Quick Guide to OneDrive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8007045d-error-in-win1011/"><u>Steps to Resolve 0X8007045D Error in Win10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-constructing-personalized-keys-in-w11/"><u>The Essential Blueprint: Constructing Personalized Keys in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unshackling-the-chains-of-windows-11-and-10s-s-mode/"><u>Unshackling the Chains of Windows 11 & 10'S 'S Mode'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-epson-tm-t88v-driver-software-for-windows-systems/"><u>Update or Fresh Install of EPSON TM-T88V Driver Software for Windows Systems</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
