@@ -1,7 +1,7 @@
 ---
 title: Reviving Inactive Heat Reduction Policy for Windows
-date: 2024-09-15T01:38:38.383Z
-updated: 2024-09-22T00:16:25.084Z
+date: 2024-09-22T18:31:21.970Z
+updated: 2024-09-28T18:53:07.349Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ Here’s how to do that.
 
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
 
  Another way to fix the system cooling policy missing from Power Options is by editing the Windows Registry. Before you proceed, please make a copy of it so you have something to restore if something goes wrong. To do that please read our guide on[how to backup and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) .
@@ -50,6 +57,13 @@ Here’s how to do that.
  Next, click on an empty part of the desktop and select**New > Text document** and name it**add-system-cooling-policy.reg** . You’ve basically[created a registry file on Windows](https://www.makeuseof.com/windows-registry-file-guide/) here.
 
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the text document, enter the following code:
 
@@ -59,6 +73,13 @@ In the text document, enter the following code:
 
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should now see the system cooling policy in the Power Options menu.
 
  To remove the system cooling policy again after you’ve made your changes, create another registry file named**add-system-cooling-policy.reg** . Then, paste the below text into the document and save it:
@@ -66,6 +87,13 @@ In the text document, enter the following code:
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000001`
 
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
 
@@ -84,18 +112,22 @@ In the text document, enter the following code:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-guide-to-free-xbox-screen-recorder-use-for-2024/"><u>[New] Comprehensive Guide to Free Xbox Screen Recorder Use for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-rise-above-the-rest-one-person-podcast-mastery/"><u>[New] In 2024, Rise Above the Rest One-Person Podcast Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[Updated] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comprehensive-techniques-recording-movies-with-windowsmacosios/"><u>[Updated] In 2024, Comprehensive Techniques Recording Movies with Windows/macOS/iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-sorry-there-is-a-problem-with-the-onedrive-servers-error-on-windows/"><u>6 Ways to Fix the “Sorry, There Is a Problem With the OneDrive Servers” Error on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-by-tom-a-detailed-look-at-latest-tech/"><u>Advanced Gadgets by Tom: A Detailed Look at Latest Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-or-huggingchat-exploring-which-language-model-takes-the-lead-in-performance/"><u>ChatGPT or HuggingChat? Exploring Which Language Model Takes the Lead in Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-service-setups-for-an-immaculate-windows-11-launch-experience/"><u>Mastering Service Setups for an Immaculate Windows 11 Launch Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-auditory-delights-in-cinema-celebrating-the-best-8-film-soundscapes-for-2024/"><u>New Auditory Delights in Cinema - Celebrating the Best 8 Film Soundscapes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-ineffective-windowed-discord-searches/"><u>Solutions for Ineffective Windowed Discord Searches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unseen-storage-hiding-files-via-image-camouflage-windows-11-style/"><u>Unseen Storage: Hiding Files via Image Camouflage, Windows 11 Style</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-kali-perfectly-integrating-linux/"><u>Win-Kali: Perfectly Integrating Linux</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-on-windows-benefits-and-risks-explored/"><u>YourPhone.exe on Windows - Benefits & Risks Explored</u></a></li>
+</ul></div>
 

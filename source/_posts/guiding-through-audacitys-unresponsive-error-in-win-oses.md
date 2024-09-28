@@ -1,7 +1,7 @@
 ---
 title: Guiding Through Audacity's Unresponsive Error in Win OSes
-date: 2024-09-19T01:29:46.858Z
-updated: 2024-09-22T01:14:47.846Z
+date: 2024-09-21T16:37:25.209Z
+updated: 2024-09-28T17:05:40.920Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Close All Communication Apps Before Running Audacity
 
  Error 9999 can arise because of other messaging and video conference apps, such as Skype, Teams, Google Meet, and Zoom, using the microphone. Such apps can run in the background when you’re utilizing Audacity on the taskbar. If you have other communication apps installed that can potentially conflict with Audacity, try closing them like this:
@@ -50,8 +57,23 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 4. Then go through the**Background processes** section to see if there are any messaging apps there. Right-click messaging app processes there and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option-1.jpg)
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
 6. Then open Audacity and try recording something again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Microphone Access for Audacity
 
@@ -64,6 +86,19 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
 
@@ -90,27 +125,20 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  However, some antivirus utilities have special features that monitor microphones, which can block mic access for certain apps. For example, Bitdefender has a**Microphone monitor** setting. Disabling your antivirus utility’s shield might not turn off such a microphone security feature. So, have a look through your security software’s tabs to see if they include any feature setting that could affect microphone access and disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perform a Clean Boot
 
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall Audacity
 
@@ -119,26 +147,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-programs-and-features-applet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** option there.[Open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and double-click the**audacity-win-3.2.4-x64.exe** file in whatever folder includes it. Then you can go through the setup wizard to reinstall Audacity.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Record Audio in Audacity Again
 
@@ -157,5 +172,24 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-discover-the-coolest-20-animated-concepts-on-tiktok/"><u>[New] Discover the Coolest 20 Animated Concepts on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-choices-of-affordable-cameras-with-full-hd/"><u>[New] Prime Choices of Affordable Cameras with Full HD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-scheduling-success-a-step-by-step-approach-to-google-meets/"><u>[Updated] In 2024, Scheduling Success A Step-by-Step Approach to Google Meets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-low-light-photos-on-ios-11-for-2024/"><u>[Updated] Mastering Low-Light Photos on iOS 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-setting-up-windows-11s-pc-manager/"><u>A Step-by-Step Approach to Setting Up Windows 11'S PC Manager</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-the-world-of-shap-explaining-ai/"><u>Diving Into the World of SHAP Explaining AI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nokia-105-classic-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia 105 Classic Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-10-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 10 & 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-slomo-recording-app-analysis-consumers/"><u>In 2024, Complete SloMo Recording App Analysis Consumers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-remote-connection-issues/"><u>Mastering Windows Remote Connection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-control-over-typing-with-these-9-fixes-for-broken-keyboard-commands-on-windows-pc/"><u>Reclaiming Control over Typing with These 9 Fixes for Broken Keyboard Commands on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-outdated-systems-why-not-windows/"><u>Rejuvenate Outdated Systems: Why Not Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-failed-signal-for-windows-steam-link/"><u>Reviving Failed Signal for Windows Steam Link</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocket-your-tech-game-with-these-top-7-windows-tips/"><u>Skyrocket Your Tech Game with These Top 7 Windows Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-stranded-xbox-on-win11-quick-troubleshooting-guide/"><u>Solving Stranded Xbox on Win11: Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004869417-unlock-dayz-drop-secrets-score-more-weapons-quickly/"><u>Unlock DayZ Drop Secrets: Score More Weapons Quickly!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Sony Xperia 5 V | Dr.fone</u></a></li>
+</ul></div>
 

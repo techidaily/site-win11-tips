@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of Windows High-DPI Settings
-date: 2024-09-15T22:47:24.691Z
-updated: 2024-09-22T01:28:33.284Z
+date: 2024-09-23T18:12:30.490Z
+updated: 2024-09-28T18:06:30.005Z
 tags:
   - windows10
   - windows11
@@ -63,7 +63,21 @@ To get started, follow the below suggestions:
 
 ![Change Your Screen Resolution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-your-screen-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've selected the new resolution, a popup menu will appear asking you to keep the settings or revert. If you're not okay with the new resolution, select**Revert** and try a different resolution and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change the DPI Settings for Apps Individually
 
@@ -75,15 +89,22 @@ To get started, follow the below suggestions:
 
 ![Change the DPI Settings for Apps Individually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-dpi-settings-for-apps-individually.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, check the box next to**Override high DPI scaling behavior,** and from the drop-down menu, select**System (Enhanced)** . After that, click**OK** to save the changes.
 
  This will change the DPI settings for the specific app and should fix any scaling issues you were having.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resolving Scaling Issues With High-Resolution Devices in Windows
@@ -105,5 +126,19 @@ To get started, follow the below suggestions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unraveling-tiktoks-veiled-prohibitive-measures/"><u>[New] 2024 Approved Unraveling TikTok's Veiled Prohibitive Measures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-choosing-a-screen-swivel-cam-for-your-needs/"><u>[New] The Ultimate Guide to Choosing a Screen Swivel Cam for Your Needs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-why-does-imovie-enforce-dimensions-for-2024/"><u>[Updated] Why Does iMovie Enforce Dimensions for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-hp-ethernet-card-drivers-for-windows-11-7-or-8-systems-at-no-cost/"><u>Download Updated HP Ethernet Card Drivers for Windows 11, 7 or 8 Systems at No Cost</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-master-download-manager-facebook-and-firefox-edition-tools/"><u>In 2024, Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-price-matrix-top-cloud-storage-firms/"><u>In 2024, The Essential Price Matrix Top Cloud Storage Firms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-game-pass-access-restoration-in-win-oses/"><u>Mastering Game Pass Access Restoration in Win OSes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigate-to-recent-fb-views-with-ease-2023-guide/"><u>Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-crash-on-launch-solutions-for-successful-game-boot-up/"><u>Sea of Thieves Crash on Launch - Solutions for Successful Game Boot-Up</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-non-responsive-services-on-windows-pcs/"><u>Steps to Rectify Non-Responsive Services on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-non-start-troubles-in-csgo-and-w11/"><u>Tackling Non-Start Troubles in CS:GO & W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-upgrade-error-xc004f050-code/"><u>Unblocking Windows Upgrade Error Xc004f050 Code</u></a></li>
+</ul></div>
 

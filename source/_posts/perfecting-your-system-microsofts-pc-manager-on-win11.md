@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Your System: Microsoft's PC Manager on Win11"
-date: 2024-09-14T18:48:17.348Z
-updated: 2024-09-22T00:33:25.992Z
+date: 2024-09-23T16:11:45.919Z
+updated: 2024-09-28T17:15:04.985Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 3. Click the**Download** button to download the setup file on your system.  
 ![Download Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-microsoft-pc-manager.jpg)
 4. Once the file downloads, visit the download location and right-click on the Microsoft PC Manager installer file. Select the**Run and administrator** option from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
@@ -51,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
  Make note that the app is still in a public beta. So, it could act finicky on your system. Moreover, accessing the official website is another sad story. It is unresponsive most of the time and downloading a measly 4 MB installer file can take time. We faced a server downtime issue while installing this app.
 
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Configure and Use Microsoft PC Manager
 
@@ -66,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
@@ -77,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
@@ -96,29 +125,15 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Free, Official Tool to Manage Your Windows PC
@@ -138,5 +153,26 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>[New] In 2024, Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>[New] Innovative Flying Selecting the Best Drone Gimbals Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-alias-transformation-on-google-meet-platforms/"><u>[New] Mastering Alias Transformation on Google Meet Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-cutting-edge-strategies-for-transmitting-obs-livestreams-to-facebook/"><u>[Updated] In 2024, Cutting-Edge Strategies for Transmitting OBS Livestreams to Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-reactivating-deactivated-voice-command/"><u>Addressing Windows 11: Reactivating Deactivated Voice Command</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/analyzing-the-variance-in-procedures-for-local-and-remote-windows-reinstallations/"><u>Analyzing the Variance in Procedures for Local and Remote Windows Reinstallations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-display-edges-harmony/"><u>Balancing Display Edges Harmony</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-windows-problems-effective-assistance-guide/"><u>Conquer Windows Problems: Effective Assistance Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-scripts-the-winexe-transformation-tutorial/"><u>Elevate Your Scripts: The WinEXE Transformation Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fotoscape-studio-comparing-paired-clients-tools/"><u>FotoScape Studio Comparing Paired Clients' Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-colored-display-in-windows-based-devices/"><u>How to Adjust Colored Display in Windows-Based Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/light-and-shade-mastery-in-photographic-edits/"><u>Light & Shade Mastery in Photographic Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-stuck-windows-enter-function/"><u>Mending the Stuck Windows 'Enter' Function</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-windows-methods-to-identify-system-gadgets/"><u>Proven Windows Methods to Identify System Gadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-supported-get-the-latest-intel-hd-graphics-630-drivers/"><u>Windows 11 Supported: Get the Latest Intel® HD Graphics 630 Drivers</u></a></li>
+</ul></div>
 

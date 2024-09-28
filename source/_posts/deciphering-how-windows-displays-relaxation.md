@@ -1,7 +1,7 @@
 ---
 title: Deciphering How Windows Displays Relaxation
-date: 2024-09-19T04:49:16.697Z
-updated: 2024-09-21T18:53:09.841Z
+date: 2024-09-24T16:03:51.919Z
+updated: 2024-09-28T18:19:27.431Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
 
  With the Screen saver dialog box opened, click on the dropdown menu and select any screen saver option other than **(None)**. In Windows 11, the following options are available: 3D Text, Blank, Bubbles, Mystify, Photos, and Ribbons.
@@ -59,7 +66,21 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Customize Screen Savers on Windows 11
 
@@ -78,10 +99,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Have Screen Savers Changed?
@@ -93,13 +114,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  After the 90s, LCDs rendered screen savers obsolete, but computer users still found them exciting, even though they were of no practical use.
 
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bringing Back the Old Days With Windows Screen Savers
 
@@ -113,8 +127,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,3 +134,27 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-14-ways-to-make-irresistible-gourmet-vids/"><u>2024 Approved 14 Ways to Make Irresistible Gourmet Vids</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-cerebral-showcase-gk-video-challenge-network/"><u>2024 Approved Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-a-secure-quick-launch-button-for-hardware-removal/"><u>Creating a Secure, Quick-Launch Button for Hardware Removal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diminish-noise-restoring-your-keys-sound-functionality/"><u>Diminish Noise: Restoring Your Key's Sound Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-k70-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi K70 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-11-pro-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 11 Pro?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-10-royale-confrontations/"><u>In 2024, Essential 10 Royale Confrontations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-exceptional-7-cameras-elevating-online-educational-vlogs/"><u>In 2024, Exceptional 7 Cameras Elevating Online Educational Vlogs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>In 2024, Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-the-dxgidll-file-missing-in-windows-11-heres-how-to-fix-it/"><u>Is the Dxgi.dll File Missing in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-terminal-configuration-basics/"><u>Mastering Windows Terminal Configuration Basics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-depths-of-diablos-first-adventure/"><u>Navigating the Depths of Diablo's First Adventure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-the-world-of-instagram-stories-easily/"><u>Navigating the World of Instagram Stories Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/rescuing-your-windows-application-performance-in-a-hurry-7-solutions/"><u>Rescuing Your Window's Application Performance in a Hurry (7 Solutions)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-lost-dxgidll-with-these-win11-hacks/"><u>Restore Your Lost Dxgi.dll with These Win11 Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-initiate-sfc-process-in-windows-1087/"><u>Steps to Initiate SFC Process in Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-pathways-open-directory-games-in-windows/"><u>The Hidden Pathways: Open Directory Games in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/yellow-tint-problem-on-iphones-try-these-9-fixing-strategies/"><u>Yellow Tint Problem on iPhones? Try These 9 Fixing Strategies!</u></a></li>
+</ul></div>
+

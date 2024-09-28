@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Xbox Controller Back on Track
-date: 2024-09-17T20:11:38.019Z
-updated: 2024-09-21T16:13:37.950Z
+date: 2024-09-22T16:32:28.254Z
+updated: 2024-09-28T16:58:59.662Z
 tags:
   - windows10
   - windows11
@@ -50,14 +50,14 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 2. Right-click anywhere on an empty spot within the Device Manager window and select **Scan for hardware changes**.  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
- Following that, your controller should appear in the Device Manager window and work as expected.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Following that, your controller should appear in the Device Manager window and work as expected.
 
 ## 4\. Run the Relevant Window Troubleshooters
 
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 4. Tick the checkbox that reads **Apply repairs automatically** and click **Next**.  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -87,7 +80,21 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 3. Click the **Run** button next to **Bluetooth**.  
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After running the above troubleshooter, try using your controller again.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall the Controller's Driver
 
@@ -112,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Controller Issues on Windows Made Easy
@@ -124,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +138,20 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-gaming-sessions-in-hd-using-obs/"><u>[New] 2024 Approved Capture Gaming Sessions in HD - Using OBS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-average-playback-period-in-high-res-20mb-content/"><u>[Updated] Average Playback Period in High-Res 20MB Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-livestream-giants-rivalry-facebook-vs-youtube-vs-periscope/"><u>2024 Approved Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-downloading-errors-in-microsoft-store/"><u>Addressing Downloading Errors in Microsoft Store</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-inactivity-lock-timer/"><u>Adjusting Windows Inactivity Lock Timer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-lav-filters-usage-and-functionality/"><u>Demystifying Windows LAV Filters Usage and Functionality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-best-online-tv-shows-and-movies-apps-to-watch-this-year/"><u>Discover the Best Online TV Shows and Movies Apps to Watch This Year</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/gold-class-selection-of-unseen-video-extractors/"><u>Gold-Class Selection of Unseen Video Extractors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbale-conversie-van-ogv-naar-gif-de-veilige-en-eenvoudige-movavi-solutiestool/"><u>Gratuit Verbale Conversie Van OGV Naar GIF: De Veilige en Eenvoudige Movavi Solutiestool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/permanent-solutions-for-avoiding-sudden-closures-and-glitches-in-snowrunner-pc-edition/"><u>Permanent Solutions for Avoiding Sudden Closures and Glitches in SnowRunner PC Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-sail-on-the-content-sea-your-youtube-account/"><u>Setting Sail on the Content Sea Your YouTube Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-solution-to-error-code-0x80070570-rescuing-damaged-files-on-windows-11/"><u>Unlocking Solution to Error Code 0X80070570: Rescuing Damaged Files on Windows 11</u></a></li>
+</ul></div>
+

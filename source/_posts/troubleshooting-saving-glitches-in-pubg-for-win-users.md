@@ -1,0 +1,149 @@
+---
+title: Troubleshooting Saving Glitches in PUBG for Win Users
+date: 2024-09-21T16:33:10.125Z
+updated: 2024-09-28T18:36:00.863Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Troubleshooting Saving Glitches in PUBG for Win Users
+excerpt: This Article Describes Troubleshooting Saving Glitches in PUBG for Win Users
+keywords: PUBG Save Issues Fix,PUBG Glitch Resolution,Troubleshoot PUBG Saves,Windows PUBG Save Errors,PUBG Win Save Fixes,Correcting PUBG Saving Problems,PUBG Save Glitch Troubleshooting
+thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b1393331c870e52c284f342d82b8ac.jpeg
+---
+
+## Troubleshooting Saving Glitches in PUBG for Win Users
+
+ Many players adjust graphical, audio, and control settings in PUBG: Battlegrounds to match their preferences. However, some players have reported they can’t change settings in PUBG: Battlegrounds because it doesn’t save them. PUBG’s settings reset for those players every time they restart the game.
+
+ This is an annoying issue. Players can still play PUBG but can’t change in-game settings when they aren’t saving. Is PUBG: Battlegrounds not saving settings for you? If so, here are five fixes you can try.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Delete the GameUserSettings File
+
+ One of the most widely confirmed solutions for PUBG not saving game settings is to delete its GameUserSettings.ini file. Deleting that configuration file will reset it, which often fixes PUBG not saving settings. Applying this potential resolution has worked for lots of players, and it could be the same for you. This is how you can delete that GameUserSettings.ini file:
+
+1. Bring up the Run command app, which you can quickly access with the Windows logo key + R hotkey.
+2. Type**%appdata%** inside Run and press**Enter** to[open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) in the AppData folder.
+3. Click AppData in Explorer’s address bar to view that directory.  
+![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
+4. Open the**Local** subfolder within the**AppData** directory.
+5. Click the**TslGame** folder to view and open it.
+6. Then open the**Saved > Config > WindowsNoEditor** folders from there.  
+![The GameUserSettings.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/gameusersettings-ini-file.jpg)
+7. Right-click the**GameUserSettings.ini** file and select**Delete** .
+8. Launch PUBG and try changing the game settings again.
+
+ Some PlayerUnknown’s Battleground players have also said that deselecting the Read-only option for the GameUserSettings.ini file can fix PUBG not saving. You can do that by right-clicking the GameUserSettings file and selecting**Properties** . Deselect (uncheck) the**Read-only** checkbox if it’s selected. Click**Apply > OK** to save the file’s attribute option.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Verify the Integrity of PUBG’s Files
+
+ Verifying game files can resolve a wide variety of gaming issues. In this case, PUBG is playable but isn’t working right because it’s not saving settings. Thus, that could be a bug verifying PUBG’s files might resolve.
+
+![The Verify Files option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/verify-files-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
+
+## 3\. Disable Controlled Folder Access
+
+ Controlled folder access blocks ransomware, and other malware, from modifying files in folders. However, that feature can also stop games from saving progress and settings when it restricts their folder access. Make sure that feature isn’t causing issues for PUBG saving settings on your PC by checking and disabling its setting like this:
+
+1. Double-click**Windows Security** (the shield icon) inside the system tray.
+2. Click the**Virus & threat protection** navigation option within the Home tab.
+3. Scroll down and click the**Manage ransomware protection** navigation option.  
+![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manage-ransomware-protection-option.jpg)
+4. If**Controlled folder access** is enabled, click that setting to turn it off.  
+![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
+
+ Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
+
+ You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Disable Third-Party Antivirus Software
+
+ Some third-party antivirus apps might also include a similar controlled folder access feature to the one in Windows Security. So, it’s recommended users with third-party antivirus utilities select to disable them via their system tray context menus.
+
+ Or look through your antivirus software’s settings tabs to see if one includes a comparable controlled folder setting that restricts app access to directories and files and turn it off if it does.
+
+## 5\. Reinstall PUBG
+
+ Reinstalling PUBG is the last resort potential fix for settings not saving if nothing else works. As PUBG is a 30-40 gigabyte game, it’s not ideal to download and reinstall it again. However, this potential resolution could fix PUBG not saving setting if caused by corrupted or missing game files. If you’re an Epic Games user, you’ll need to reinstall PUBG as follows:
+
+1. Open Epic Games Launcher, and click its**Library** tab.
+2. Click the**…** (ellipses) menu button under PUBG in your library.
+3. Select the**Uninstall** menu option.  
+![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
+4. Click**Uninstall** when asked to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
+![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
+
+ Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
+
+## Tweak PUBG’s Game Settings Again
+
+ Applying those potential resolutions will likely fix PUBG: Battlegrounds not saving settings for most players. However, we can never promise 100 percent guaranteed solutions for everybody.
+
+ You can submit a support request via the PUBG: Battlegrounds website if more troubleshooting guidance for fixing PUBG not saving settings is required.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-smilescape-turn-daily-life-into-hilarious-stories/"><u>[New] SmileScape Turn Daily Life Into Hilarious Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>[Updated] In 2024, Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-moments-10-essential-ig-tools-everyone-needs-for-2024/"><u>[Updated] Mastering Moments 10 Essential IG Tools Everyone Needs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/forge-ahead-with-stronger-windows-security-top-four-password-keepers/"><u>Forge Ahead with Stronger Windows Security: Top Four Password Keepers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-s23plus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel S23+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v15-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.5 document with digital signature service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-predominant-anydesk-issues-in-os/"><u>Strategies to Correct Predominant AnyDesk Issues in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-recovery-on-windows-11-pro/"><u>Streamlining Data Recovery on Windows 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-list-top-7-methods-to-grow-storage-without-paying/"><u>The Essential List: Top 7 Methods to Grow Storage Without Paying</u></a></li>
+</ul></div>
+

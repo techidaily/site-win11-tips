@@ -1,7 +1,7 @@
 ---
 title: Command Prompt Techniques for Windows Administrators
-date: 2024-09-21T06:14:05.564Z
-updated: 2024-09-22T04:34:03.132Z
+date: 2024-09-25T16:20:09.955Z
+updated: 2024-09-28T18:30:59.630Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
@@ -65,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  Now net user will remove the account from the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 `net user Jack /active:no`
 
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable and Disable a Domain User Account
 
@@ -153,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
 `net user Username /passwordchg:yes`
@@ -171,10 +171,10 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
@@ -189,6 +189,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
  Net user is a simple command to understand, allowing you to effectively manage your accounts from one location: Command Prompt. Of course, we haven't covered everything here, as there are too many parameters and switches to cover in a single guide.
@@ -197,8 +204,6 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -206,3 +211,22 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-monetizing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>[New] Monetizing Mastery in Your Mind The No-Ad YouTube Money Manual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-pdf-editing-skills/"><u>[Updated] Ultimate PDF Editing Skills</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-your-next-level-of-fcp-efficiency-top-10-plugins-for-2024/"><u>[Updated] Your Next Level of FCP Efficiency Top 10 Plugins for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-network-throughput-measurement/"><u>Advanced Network Throughput Measurement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digital-ecosystem-integration-windows-apps-on-iphones-pcs-and-macs-launched/"><u>Digital Ecosystem Integration: Windows Apps on iPhones, PCs and Macs Launched</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-find-and-purge-unused-windows-folders-for-a-streamlined-pc/"><u>Efficiently Find & Purge Unused Windows Folders for a Streamlined PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-rip-your-carrie-dvd-collection-and-transform-them-into-an-easy-to-watch-ipad-tv-show-library/"><u>How to Rip Your Carrie DVD Collection & Transform Them Into an Easy-to-Watch iPad TV Show Library</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-effortlessly-bypass-pin-in-windows-11-projections/"><u>Navigate Effortlessly: Bypass PIN in Windows 11 Projections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/phone-care-tips-removing-and-replacing-screen-guard-films-without-damage/"><u>Phone Care Tips: Removing and Replacing Screen Guard Films Without Damage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality-for-2024/"><u>Transform the Way You View Web Content Using MS Edge's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-outlooks-failing-notification-system-a-user-friendly-approach/"><u>Troubleshooting Outlook's Failing Notification System: A User-Friendly Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vpn-connections-failed-on-windows/"><u>Troubleshooting VPN Connections Failed on Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-free-mpeg-video-merging-solutions/"><u>Updated In 2024, The Best Free MPEG Video Merging Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-magic-vs-2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Magic Vs 2 Phone Network-Ready</u></a></li>
+</ul></div>
+

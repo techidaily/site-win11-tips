@@ -1,7 +1,7 @@
 ---
 title: Is Your Activation Key Not Working in Windows 11? How to Fix It
-date: 2024-09-17T03:34:08.512Z
-updated: 2024-09-21T22:21:04.836Z
+date: 2024-09-24T18:03:12.123Z
+updated: 2024-09-28T16:29:20.614Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check That Windows Isn’t Already Activated
 
  You can get a computer with preinstalled Windows, so you don't have to deal with the process of installing the operating system by yourself. Usually, you can set it up when you first turn on your PC.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
 ![check-activation-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-activation-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the status is**Active** , your problem stops here; you're already activated.
 
 ## 3\. Run the Activation Troubleshooter
@@ -54,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
  To access it, launch Windows Settings and go to**System > Troubleshoot > Other trouble-shooters** . There, find the**Activation** troubleshooter and click**Run** next to it.
 
 **Note** : If you don’t see the Activation troubleshooter, it means you’ve already activated Windows 11\. In this case,[check your Windows 11 product key](https://www.makeuseof.com/windows-11-find-product-key/) so you don’t try and use it for another activation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Ensure You're Using the Correct Windows Edition
 
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 ![3-download-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/3-download-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t use a genuine activation key, you won’t be able to activate Windows on your computer. Unfortunately, there are scammers out there who give out fake Windows activation keys to buyers.
@@ -95,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run an SFC Scan
 
@@ -129,5 +136,20 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-recording-iphone-7-display-a-comprehensive-guide/"><u>[New] Recording iPhone 7 Display A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-a-pros-approach-to-time-stamping-for-youtube-enthusiasts/"><u>2024 Approved Unveiling a Pro's Approach to Time Stamping for YouTube Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-storm-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Storm 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/andhd-winx/"><u>完全無料リッパー&HD動画コンバーター － WinXダウンロードセンターで最適化し、高解像度ビデオへ変換</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-and-engage-with-10-key-network-settings-in-winos/"><u>Explore and Engage with 10 Key Network Settings in WinOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y200e-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y200e 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-smartphone-apps-the-best-for-gopro-editing/"><u>In 2024, Superior Smartphone Apps The Best for GoPro Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-text-selection-in-windows-compatible-pdfs/"><u>Mastering Text Selection in Windows-Compatible PDFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-vlc-unrecognized-media-issue/"><u>Overcoming Windows VLC Unrecognized Media Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correcting-file-errors-in-windows-11/"><u>Steps to Correcting File Errors in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wireless-gateway-devices/"><u>Top-Rated Wireless Gateway Devices</u></a></li>
+</ul></div>
 

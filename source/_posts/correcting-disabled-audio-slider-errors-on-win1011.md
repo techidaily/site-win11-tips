@@ -1,7 +1,7 @@
 ---
 title: Correcting Disabled Audio Slider Errors on Win10/11
-date: 2024-09-18T16:15:40.103Z
-updated: 2024-09-22T03:58:46.227Z
+date: 2024-09-23T17:58:05.825Z
+updated: 2024-09-28T17:28:09.388Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-file-checker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Restart the Windows Explorer Process
 
  Sometimes the volume control freezes because of File Explorer issues. So, restarting the Explorer process might fix the volume control not working for some users. Restart Explorer as follows:
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 4. Click**Restart** in the bottom right corner of the**Processes** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start or Restart Windows Audio Service
@@ -73,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 ![The Automatic option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/automatic-option.jpg)
 6. Press**Apply** and**OK** to set the new Windows Audio service options.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the Scale Setting
 
  Changing the scale is a slightly curious potential fix for the volume control slider not working. However, some users have said that setting the display scale to 125 percent fixed volume control not working for them. So, try changing the**Scale** setting like this:
@@ -94,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 2. Click**Display** to access the**Scale** option.
 3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
 ![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Update the Audio Device Driver
 
@@ -110,17 +111,33 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 5. Select**Browse** **my computer for drivers** option.  
 ![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
 6. Click the**Let me** **pick** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Let me pick option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/let-me-pick-option.jpg)
 7. Select High Definition Audio and click**Next** .  
 ![The sound driver selection box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/driver-selection.jpg)
 8. Click**Yes** to install the selected audio driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Exit Device Manager and restart your desktop/laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall Your PC’s Audio Device Driver
@@ -142,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
  Our guide about[disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Windows With an In-Place Upgrade
 
  If the volume control slider still isn’t working after going through the fixes above, there could be a deeper issue that only reinstalling (or resetting) Windows will resolve. You can reinstall the OS and preserve apps and user files by performing an in-place upgrade. So, try reinstalling Windows as covered in our guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) .
@@ -160,10 +170,10 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adjust the Audio Level With the Volume Control Slider Again on Windows
@@ -183,5 +193,26 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/convert-tweety-movies-to-audible-files-for-2024/"><u>Convert Tweety Movies to Audible Files for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciph-written-as-a-dialogue-between-two-characters-user-and-assistant-in-an-online-forum-setting-discussing-the-topic-of-what-is-aggregatorhostexe-on-windo37/"><u>Deciph Written as a Dialogue Between Two Characters (User and Assistant) in an Online Forum Setting Discussing the Topic of What Is AggregatorHost.exe on Windows, and Is It Safe?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directives-for-managing-setup-service-state-in-windows/"><u>Directives for Managing Setup Service State in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11s-non-functional-function-keys-for-brightness/"><u>Fixing Windows 11'S Non-Functional Function Keys for Brightness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/future-fables-top-30-quotes-on-tomorrows-realities/"><u>Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-affected-device-access-post-error-code-22/"><u>How to Reset Affected Device Access Post-Error Code 22</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-calendar-app-on-windows-11/"><u>How to Use the Calendar App on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leveraging-fb-media-speeds-up-strategies/"><u>Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-x80072f30-in-windows/"><u>Resolving Microsoft Store Error X80072F30 in Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-high-quality-lossless-flac-audio-files-into-compressed-mp3s/"><u>Step-by-Step Guide: Converting High-Quality Lossless FLAC Audio Files Into Compressed MP3s</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-instant-uninstalling-via-windows-shortcuts/"><u>The Guide to Instant Uninstalling via Windows Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-personalized-window-pin-creation/"><u>The Ultimate Guide to Personalized Window PIN Creation</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ultimate-guide-converting-and-downloading-your-xiami-playlist-as-mp3-aac-wav-or-flac-files/"><u>Ultimate Guide: Converting and Downloading Your Xiami Playlist as MP3, AAC, WAV or FLAC Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unison-vs-phone-link-for-windows-phone-users-explored/"><u>Unison Vs. Phone Link for Windows Phone Users Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-potential-with-magix-video-pro-xs-power-tools/"><u>Unleash Potential with Magix Video Pro X's Power Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-volume-button-responding-here-are-7-fixes-that-work/"><u>Why Isn't My iPhone Volume Button Responding? Here Are 7 Fixes That Work</u></a></li>
+</ul></div>
 

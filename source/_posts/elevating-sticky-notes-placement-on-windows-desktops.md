@@ -1,7 +1,7 @@
 ---
 title: Elevating Sticky Notes Placement on Windows Desktops
-date: 2024-09-20T04:42:26.203Z
-updated: 2024-09-21T16:04:07.783Z
+date: 2024-09-27T17:15:03.797Z
+updated: 2024-09-28T19:06:10.553Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,19 @@ thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -63,13 +76,36 @@ To pin Sticky Notes using DeskPins:
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -88,12 +124,23 @@ To pin Sticky Notes using DeskPins:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-a-strong-network-how-to-form-effective-youtube-partner-relationships-for-2024/"><u>[New] Building a Strong Network How to Form Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-videos-size-and-format-tips-for-2024/"><u>[New] Mastering Instagram Videos Size and Format Tips for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-wizardry-for-bending-photos/"><u>2024 Approved Photoshop Wizardry for Bending Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-data-security-activating-controlled-folder-access/"><u>Achieve Data Security: Activating Controlled Folder Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-w11-issues-with-csgo/"><u>Addressing W11 Issues with CS:GO</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-15-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-interface-quick-menu-install/"><u>Enhancing Windows Interface: Quick Menu Install</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-quality-avi-media-reader-mobile-and-desktop/"><u>High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-x5-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco X5 for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites/"><u>New 2024 Approved Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-terminal-settings-on-windows-pc/"><u>Optimizing Terminal Settings on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-activate-hyper-v-in-windows-11/"><u>Quick Guide to Activate Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-windows-event-viewer-usability/"><u>Restoring Windows Event Viewer Usability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skyrocketing-through-efficiency-top-7-strategies-with-windows-11-39/"><u>Skyrocketing Through Efficiency: Top 7 Strategies with Windows 11 (39)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zero-number-zone-enrolling-in-whatsapp-chatgpt-seamlessly/"><u>Zero Number Zone: Enrolling in WhatsApp, ChatGPT Seamlessly</u></a></li>
+</ul></div>
 

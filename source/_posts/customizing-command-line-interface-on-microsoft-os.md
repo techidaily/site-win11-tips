@@ -1,7 +1,7 @@
 ---
 title: Customizing Command Line Interface on Microsoft OS
-date: 2024-09-14T21:56:34.678Z
-updated: 2024-09-22T01:31:32.331Z
+date: 2024-09-23T17:19:01.682Z
+updated: 2024-09-28T18:29:38.471Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,20 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 6. Click the **OK** button to save your changes.  
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Change the Default Terminal App From Windows Settings
 
  The Settings app makes it easy to set or [change the default apps on your Windows computer](https://www.makeuseof.com/change-windows-11-default-apps/). Here’s how you can use it to set your chosen terminal as the default app for Command Prompt and PowerShell.
@@ -63,13 +77,20 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 4. Use the drop-down menu next to **Terminal** to select your chosen terminal app, or choose **Let Windows decide** to undo any changes you've made previously.  
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -80,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -89,3 +108,21 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] 2024 Approved Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[New] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-compliance-rules-for-thriving-on-youtube-for-2024/"><u>[Updated] Essential Compliance Rules for Thriving on YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-12-mini-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 12 mini How to Bypass?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-storage-demands-on-windows-os/"><u>Decoding the Storage Demands on Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discreet-deletion-of-email-after-signing-in-windows/"><u>Discreet Deletion of Email After Signing In Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-restore-your-microsoft-store-registrations-win-11/"><u>Fix and Restore Your Microsoft Store Registrations (Win 11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-advanced-shortcuts-into-windows-explorer-menus/"><u>Integrating Advanced Shortcuts Into Windows Explorer Menus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17e to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-strategies-for-capturing-webinars-effectively-for-2024/"><u>Top Strategies for Capturing Webinars Effectively for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wrinkle-free-up-operator-installation/"><u>Windows Wrinkle? Free Up Operator Installation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726224949587-dngpng-movavi/"><u>オンラインでのダークネスグレー(DNG)からPNGへのフリー変換 - MOVAVIツール</u></a></li>
+</ul></div>
+

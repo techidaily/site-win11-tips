@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Update Error 0X800736cc
-date: 2024-09-17T04:29:01.979Z
-updated: 2024-09-22T01:26:16.334Z
+date: 2024-09-23T18:19:35.380Z
+updated: 2024-09-28T16:00:43.082Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
 
 ## 3\. Clear the Windows Update Cache
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
@@ -140,15 +154,28 @@ net start cryptsvc`
 8. Now, you have the batch script on your desktop. Right-click on it and select **Run as administrator**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. When the UAC pops up, click **Yes** to grant elevated privileges.
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Try Generic Windows Update Fixes
 
@@ -160,18 +187,9 @@ net start cryptsvc`
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) \- Clean Boot can identify software conflicts causing the error. It disables all non-essential services and programs from running in the background. That way, you can isolate the problematic process and resolve the issue.
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +198,27 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-competitive-overwatch-in-minutes/"><u>[Updated] 2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hand-held-balance-for-sharp-images/"><u>[Updated] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-crafting-exclusive-cover-photos-on-instagram/"><u>[Updated] In 2024, Mastering the Art of Crafting Exclusive Cover Photos on Instagram</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-converting-howstuffworks-show-videos-into-popular-formats-like-mp4-avi-and-mov/"><u>1. Step-by-Step Guide: Converting HowStuffWorks Show Videos Into Popular Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-introducing-windows-xps-media-production-hub/"><u>2024 Approved Introducing Windows XP's Media Production Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-pranks-engage-in-5-digital-delights/"><u>Command Prompt Pranks: Engage in 5 Digital Delights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-navigator-placement-of-this-pc-icons/"><u>Customizing Windows Navigator: Placement of 'This PC' Icons</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-ios-images-not-working-with-windows-1011/"><u>How to Fix iOS Images Not Working with Windows 10/11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>In 2024, The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovate-your-experience-avoiding-common-pitfalls-in-windows-11/"><u>Innovate Your Experience: Avoiding Common Pitfalls in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-modifying-windows-files/"><u>Mastering the Art of Modifying Windows Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surreptitious-shutdown-strategy-for-windows-11/"><u>Surreptitious Shutdown Strategy for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-mute-microphone-issue-during-video-recordings/"><u>Tackling Mute Microphone Issue During Video Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-window-11-screens-a-comprehensive-wallpaper-plan/"><u>Tailoring Window 11 Screens: A Comprehensive Wallpaper Plan</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-shadows-in-social-media-space/"><u>Understanding the Shadows in Social Media Space</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-the-delay-in-windows-11-adoption/"><u>Unpacking the Delay in Windows 11 Adoption</u></a></li>
+</ul></div>
+

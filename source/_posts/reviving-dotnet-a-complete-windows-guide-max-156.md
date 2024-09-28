@@ -1,7 +1,7 @@
 ---
 title: "Reviving DotNet: A Complete Windows Guide (Max 156)"
-date: 2024-09-21T00:57:25.574Z
-updated: 2024-09-21T19:19:42.904Z
+date: 2024-09-27T18:34:08.583Z
+updated: 2024-09-28T18:29:29.348Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ To run the .NET Framework Repair Tool
 6. The repair tool will perform a few tests to identify the issues. Once done, it will recommend a few changes. Read the description and click**Next** to apply the changes.
 7. Once done, click**Next** and**Finish** to close the repair tool.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair .NET Framework via Optional Features
 
  If the .NET Framework Repair Tool doesn’t work, you can disable and re-enable the feature from Optional Features to repair the framework. This process will disable and re-enable the feature fixing any issue due to temporary glitches and file corruption.
@@ -55,6 +62,13 @@ To run the .NET Framework Repair Tool
 5. Here, uncheck**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** option.
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will disable**.NET Framework** from your PC and show**Windows completed the requested changes** message. Click**Restart Now** to apply the changes.
 
@@ -79,6 +93,14 @@ After the restart:
 4. PowerShell may prompt you to install**NuGet** – a packet manager necessary to perform this action. So, type**Y** and press**Enter** .  
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
 `winget install Microsoft.dotNetFramework`
@@ -98,29 +120,9 @@ To manually install older versions of the .NET Framework:
 5. Next, follow the on-screen instructions to complete the setup.
 6. Restart your PC and then try to install the app to see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run the System File Checker Tool
 
 ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -135,6 +137,13 @@ To run the System File Checker tool:
 `sfc /scannow`
 
  The SFC tool will now scan your system files for issues and replace any corrupted files as necessary. Wait for the verification process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Many Ways to Repair .NET Framework on Windows
 
@@ -153,5 +162,18 @@ To run the System File Checker tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-hunt-best-historical-youtubes-that-every-student-should-watch/"><u>[Updated] 2024 Approved Channel Hunt Best Historical YouTubes That Every Student Should Watch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>2024 Approved From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-utorrent-performance-in-win-os/"><u>Optimizing uTorrent Performance in Win OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-protection-activating-tpm-and-secure-boot-before-w11-update/"><u>Prioritize Protection: Activating TPM and Secure Boot Before W11 Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quick-path-to-virtual-self-building-metaverse-profiles-for-2024/"><u>Quick Path to Virtual Self Building Metaverse Profiles for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reconstructing-corrupted-nikon-video-archives/"><u>Reconstructing Corrupted Nikon Video Archives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-broken-system-defragmenter-execution/"><u>Rectifying Broken System Defragmenter Execution</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-failures-on-older-windows-versions/"><u>Troubleshooting Installer Failures on Older Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-media-maker-tool-error-x90017-on-windows/"><u>Unraveling Media Maker Tool Error X.90017 On Windows</u></a></li>
+</ul></div>
 

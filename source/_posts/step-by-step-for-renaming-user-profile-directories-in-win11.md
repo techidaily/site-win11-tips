@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step for Renaming User Profile Directories in Win11
-date: 2024-09-18T06:59:26.387Z
-updated: 2024-09-22T04:32:34.251Z
+date: 2024-09-26T17:35:57.965Z
+updated: 2024-09-28T18:54:57.695Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Also, [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and exercise extreme caution while changing your user name folder. Incorrect modification to the Windows Registry can cause serious issues and may require reinstallation of the operating system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a New Administrator User Account in Windows 11
 
  To change your current user profile name, log into a different administrator account. You cannot modify an existing user account profile path from the same account.
@@ -52,8 +59,24 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 3. Click on **Family & other users** in the right pane.  
 ![Windows 11 add user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Windows-11-add-user-account.png)
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
 
 1. Click on **Add a user** **without a Microsoft account.**
@@ -79,27 +102,21 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
 
@@ -115,16 +132,17 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click away and then click **Continue** to save the changes.
 
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
@@ -135,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +160,23 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-desktop-capture-the-windows-user-guide/"><u>[New] In 2024, Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[New] In 2024, Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-self-initiating-open-of-search-bar-win11-help/"><u>Cease Self-Initiating Open of Search Bar, Win11 Help</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719364670351-create-a-gratis-local-gptclone-with-gpt4all-for-windows/"><u>Create a Gratis, Local GPTClone with GPT4All for Windows.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-a-comparative-analysis-of-standard-login-vs-microsoft-account-on-pcs/"><u>Dissecting Distinctions: A Comparative Analysis of Standard Login vs Microsoft Account on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-drive-space-without-spending-a-dime/"><u>Elevate Windows Drive Space Without Spending a Dime</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fast-and-hassle-free-install-the-latest-gtx-1660-video-card-drivers/"><u>How to Fast & Hassle-Free Install the Latest GTX 1660 Video Card Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-download-and-make-unique-instagram-ringtone-solo/"><u>In 2024, How to Download & Make Unique Instagram Ringtone Solo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11x-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11x Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-securing-your-gaming-legacy-through-fbx-capture-systems/"><u>In 2024, Securing Your Gaming Legacy Through FBX Capture Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-learning-leap-the-future-of-formal-education/"><u>Language Learning Leap: The Future of Formal Education</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-ram-essential-tweaks-for-enhanced-windows-performance/"><u>Maximizing RAM: Essential Tweaks for Enhanced Windows Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-black-screen-phenomenon-in-webcams/"><u>Overcoming Black Screen Phenomenon in Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-ailing-xbox-controllers/"><u>Restoring Functionality to Ailing Xbox Controllers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-discord-display-issues-when-sharing-your-screen/"><u>Ultimate Guide to Overcoming Discord Display Issues When Sharing Your Screen</u></a></li>
+</ul></div>
+

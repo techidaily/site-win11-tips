@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for Microsoft PC Manager in Win11
-date: 2024-09-17T23:06:07.843Z
-updated: 2024-09-22T03:03:19.141Z
+date: 2024-09-24T16:32:22.522Z
+updated: 2024-09-28T16:47:54.325Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  The app acts as a central spot to access all the useful system management tools of Windows. Apart from that, it brings many essential tools such as health checks, memory management, pop-up management, and more. We will cover each of these tools later on in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install the Microsoft PC Manager on Windows 11
 
  Firstly, you need to download the beta version of the Microsoft PC Manager app from the official website. Then you need to install it on your system. Here’s how to do it.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Microsoft PC Manager divides the tools into two sections. The first one is Cleanup tools and the second one is Security tools. When you launch the app, it always opens up the Cleanup tools list.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Cleanup Tools
 
 **Boost your PC’s Performance** is basically a memory management tool that ends all the unnecessary programs and cleans up the temporary files. The app displays the total memory in use currently and the space occupied by Temp files. Click on the**Boost** button to free up the memory and clear the temp files.
@@ -70,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on the**Proceed** button to perform all the actions listed by the Health Check tool. Then click on the**Done** button to return to the home page of the PC Manager app.
 
  The**Storage Management** section contains four tools that help you improve the storage device's health and clean the junk. It showcases the current stats of the C drive (used space and total size). Below that, there are four tools.
@@ -79,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
@@ -95,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Security Tools
 
  You can scan for threats present in your system using the Scan option in the security tab. It performs a quick scan on the C drive only. Similarly, you can check and install all the available updates for Windows without leaving the Microsoft PC Manager app.
@@ -110,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Free, Official Tool to Manage Your Windows PC
 
@@ -138,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-peeking-beyond-one-camera-limitations/"><u>[Updated] In 2024, Peeking Beyond One-Camera Limitations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-online-connectivity-failures-w11/"><u>Addressing Steam Online Connectivity Failures W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-visual-display-top-5-ideal-windows-pc-clock-themed-screensavers/"><u>Enhance Visual Display: Top 5 Ideal Windows PC Clock-Themed Screensavers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-customized-policies-to-a-singular-account-in-win-1011/"><u>Executing Customized Policies to a Singular Account in Win 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-memory-landscape-identify-ram-straightforwardly/"><u>Exploring Windows Memory Landscape: Identify RAM Straightforwardly</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-smart-8-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resurrect-your-pcs-bluetooth-on-windows-11/"><u>How to Resurrect Your PC's Bluetooth on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XS Passcode not Working?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-a14-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy A14 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-edge-40-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Edge 40 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-gpu-drivers-for-geforce-rtx-3080-ti-on-windows-platforms-win-11-8-and-7/"><u>Latest Compatible GPU Drivers for GeForce RTX 3080 Ti on Windows Platforms: Win 11, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-device-disconnection-on-win-1011/"><u>Navigating and Fixing Device Disconnection on Win 10/11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-composing-compelling-video-blogging-plots-for-2024/"><u>Secrets to Composing Compelling Video Blogging Plots for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/section-2a-understanding-the-uniform-commercial-code-ucc-and-article-2/"><u>Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-a-new-surname-username-alteration-in-windows-11/"><u>Securing a New Surname: UserName Alteration in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-stuck-sheets-and-frozen-viewport-in-excel/"><u>Solve Stuck Sheets and Frozen Viewport in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-of-the-web-10-free-online-video-compressors-with-no-downloads/"><u>Updated In 2024, The Best of the Web 10 Free Online Video Compressors with No Downloads</u></a></li>
+</ul></div>
 

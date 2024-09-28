@@ -1,7 +1,7 @@
 ---
 title: Understanding and Using the Windows Package Manager (WPM)
-date: 2024-09-18T04:50:07.793Z
-updated: 2024-09-21T20:08:10.131Z
+date: 2024-09-21T18:23:53.445Z
+updated: 2024-09-28T16:18:26.151Z
 tags:
   - windows10
   - windows11
@@ -47,17 +47,38 @@ Some examples of popular package managers include:
 * Yarn.
 * Advanced Packaging Tool (APT).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Windows Package Manager?
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
 ![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
  Winget utilizes a YAML package manifest format that makes it easy to understand and configure. Developers typically use the YAML manifest format to bundle their applications to be compatible with the Windows Package Manager.
 
  Previously, Windows users had to rely on Chocolatey—a third-party package manager specialized for Windows OS. Chocolatey is quite powerful and widely adopted by the larger Windows fraternity. On the other hand, most Windows users are not familiar or comfortable with the Windows Package Manager yet; we hope this guide will help change that.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Windows Package Manager on Windows 11
 
@@ -66,13 +87,6 @@ Some examples of popular package managers include:
  Microsoft requires your Windows system to run Windows 10 1709 or later to use winget. You will also have to[log in using your Microsoft Account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) and ensure you’re logged in on the Microsoft Store app as well.
 
  There are two main ways of installing the Windows Package Manager on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Install Winget Using the Microsoft Store
 
@@ -84,10 +98,10 @@ Some examples of popular package managers include:
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Install Winget Through PowerShell
@@ -99,16 +113,16 @@ Some examples of popular package managers include:
 `Invoke-WebRequest -Uri https://aka.ms/winget -OutFile winget.zip; Expand-Archive winget.zip -DestinationPath $Env:ProgramFiles\WindowsPowerShell\Modules\`
 3. Once the installation is completed, type the following command and press**Enter** to verify your installation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Winget on Windows 11
 
  Now that you’ve set up winget, you’ll have to learn how to use commands associated with the winget tool, including downloading, config configuring, and viewing installed applications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to Download New Applications
 
@@ -117,13 +131,6 @@ Some examples of popular package managers include:
 To download an application using winget, use the following command:
 
 `winget install <APP_NAME>`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How to Browse for Applications
 
@@ -168,5 +175,26 @@ For example, to search for zipping programs, you can type:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-comprehensive-guide-to-great-ig-videos/"><u>[New] 2024 Approved The Comprehensive Guide to Great IG Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-higher-views-on-instagram-videos/"><u>[New] Unlocking Higher Views on Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-trailblazers-guide-youtube-studio-location-unveiled/"><u>[Updated] 2024 Approved A Trailblazer’s Guide YouTube Studio Location Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-look-logitechs-elite-4k-webcam-review/"><u>[Updated] Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-step-by-step-guide-to-masterful-editing/"><u>[Updated] In 2024, A Step-by-Step Guide to Masterful Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-virtual-victors-the-leading-ladies-in-gaming/"><u>[Updated] In 2024, Virtual Victors The Leading Ladies in Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-your-ai-companion-copilot-vs-copilot-pro-explained/"><u>Choosing Your AI Companion: Copilot Vs. Copilot Pro Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-dynamic-and-user-friendly-windows-interface/"><u>Create a Dynamic and User-Friendly Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-device-names-candd-a-clear-breakdown/"><u>Dissecting Device Names (C&D): A Clear Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-your-use-of-windows-explorer-with-advanced-skills-not-ls/"><u>Enhancing Your Use of Windows Explorer with Advanced Skills, Not LS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-pl2303-usb-to-serial-adapter-drivers-for-windows-pcs-download-now/"><u>Get the Latest PL2303 USB-to-Serial Adapter Drivers for Windows PCs - Download Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unearth-windows-crash-reports-after-bsod/"><u>How to Unearth Windows' Crash Reports After BSOD</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prodigious-palette-top-10-free-sketch-apps-for-mac-users/"><u>In 2024, Prodigious Palette Top 10 Free Sketch Apps for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/low-priced-windows-keys-what-youre-really-paying-for/"><u>Low-Priced Windows Keys: What You're Really Paying For</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-20-key-cmd-commands-a-primer/"><u>Mastering 20 Key CMD Commands: A Primer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-unlocking-professional-color-correction/"><u>New Final Cut Pro Unlocking Professional Color Correction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-action-for-resolving-missing-msconfig-in-windows-1011/"><u>Swift Action for Resolving Missing MSCONFIG in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-superuser-access-challenges/"><u>Tackling Windows' Superuser Access Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-methods-resolving-wwe-2k23-freeze-in-windows-11/"><u>Top 9 Methods: Resolving WWE 2K23 Freeze in Windows 11</u></a></li>
+</ul></div>
 

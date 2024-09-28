@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Comic File Management in Win11
-date: 2024-09-20T18:51:40.592Z
-updated: 2024-09-21T23:54:14.105Z
+date: 2024-09-21T18:34:46.434Z
+updated: 2024-09-28T16:16:35.031Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Read Comic Books With Cover
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
@@ -56,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
@@ -89,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
@@ -102,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
@@ -122,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -145,5 +173,24 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>[New] 2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevate-your-video-presentation-with-these-7-free-makers/"><u>[Updated] 2024 Approved Elevate Your Video Presentation with These 7 Free Makers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetizing-success-a-strategic-approach-for-2024/"><u>[Updated] Monetizing Success A Strategic Approach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/10-best-metaverse-games-you-can-play-with-friends-for-2024/"><u>10 Best Metaverse Games You Can Play with Friends for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-focus-and-time-management-best-rated-windows-pomodoro-apps/"><u>Boost Your Focus and Time Management: Best-Rated Windows Pomodoro Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-mold-reinventing-yourself-with-a-new-username-in-windows-11/"><u>Breaking the Mold: Reinventing Yourself with a New UserName in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-linking-drives-on-new-windows-version/"><u>Efficiently Linking Drives on New Windows Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-keys-to-unlocking-email-access-issues-in-windows-11-mail-service/"><u>Five Keys to Unlocking Email Access Issues in Windows 11 Mail Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-nonstop-techsign-in-issues-in-ms-teams-windows/"><u>Fixing Nonstop TechSign In Issues in MS Teams Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-hide-the-power-button-from-the-start-menu-on-windows-11-and-11/"><u>How to Hide the Power Button From the Start Menu on Windows 11 & 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-practices-for-high-quality-remote-podcasts/"><u>In 2024, Best Practices for High-Quality Remote Podcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-updated-editor-in-dall-e-3-features-and-fixes-needed/"><u>Navigating the Updated Editor in DALL-E 3: Features & Fixes Needed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-steam-disk-write-failures-effectively/"><u>Tackling Windows Steam Disk Write Failures Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-uninstall-guide-enhancing-your-workflow-in-windows/"><u>The Ultimate Uninstall Guide: Enhancing Your Workflow in Windows</u></a></li>
+<li><a href="https://discover-community.techidaily.com/topo-5-estrategias-para-transferir-conteudo-de-dvds-para-um-pc-windows-ou-mac-em-2023/"><u>Topo 5 Estratégias Para Transferir Conteúdo De DVDs Para Um PC Windows Ou Mac Em 2023</u></a></li>
+</ul></div>
 

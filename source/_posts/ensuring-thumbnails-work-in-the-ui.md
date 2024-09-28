@@ -1,7 +1,7 @@
 ---
 title: Ensuring Thumbnails Work in the UI
-date: 2024-09-18T07:20:38.283Z
-updated: 2024-09-22T06:35:00.805Z
+date: 2024-09-23T17:01:14.644Z
+updated: 2024-09-28T16:06:04.429Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Edit the Taskband and Advanced Registry Keys
 
  Editing the Taskbar registry key is a widely confirmed solution for fixing taskbar thumbnail previews not working. This potential resolution will fix the **NumThumbnails** DWORD in that key, which might be deleted or incorrectly set. That DWORD sets the maximum number of taskbar thumbnail previews for a single minimized window. This is how you should edit the **Taskband** registry key:
@@ -50,6 +57,20 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 4. If you can’t see a **NumThumbnails** DWORD, right-click the **Taskbar** key in Registry Editor’s sidebar and select **New** \> **DWORD**.  
 ![The New > DWORD option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-dword-options.jpg)
 5. Enter **NumThumbnails** inside the DWORD name text box.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Double-click the **NumThumbnails** DWORD.  
 ![The NumThumbnails DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/numthumbnails-dword.jpg)
 7. If that **DWORD** is set at **0**, erase that number and input **10** in the **Value** box.  
@@ -60,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
  You might also need to delete a **DisablePreviewWindow** or **DisablePreviewDesktop** DWORD in the **Advanced** registry key to fix taskbar thumbnail previews not working. To do so, right-click the **DisablePreviewWindow** or **DisablePreviewDesktop** DWORD in the **Advanced** key and select **Delete** \> **Yes**. The registry location of the **Advanced** key is:
 
 `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Taskbar Thumbnails Policy Setting
 
@@ -86,13 +100,20 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can roll back Windows by following the instructions in this guide to [utilizing System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/). Applying this potential solution will remove software packages installed after the date of the selected restore point. This will mean some reinstallation of software will probably be necessary after rolling back Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your Taskbar Thumbnail Previews Fixed
@@ -101,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
 
  This issue often arises when users have multiple windows open for apps. Consequently, users only see text labels for minimized window titles. Does a similar thing happen when you try to view taskbar previews? If so, this is how you can fix taskbar thumbnail previews not working on Windows 11/10 PCs.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -110,3 +129,19 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comprehensive-techniques-pc-and-mobile-recording-meets/"><u>[New] 2024 Approved Comprehensive Techniques PC & Mobile Recording Meets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-onestepcams-evaluation-are-we-overlooking-gems-for-2024/"><u>[New] OneStepCams Evaluation Are We Overlooking Gems for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-time-your-instagram-content-for-max-engagement/"><u>2024 Approved How to Time Your Instagram Content For Max Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>2024 Approved Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/all-about-stardew-valley-on-the-mysterious-ginger-island-for-2024/"><u>All About Stardew Valley on the Mysterious Ginger Island for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-print-spooler-service-is-not-running-error-in-windows/"><u>How to Fix “The Print Spooler Service Is Not Running” Error in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-obtain-free-licensed-tunes-for-your-games-for-2024/"><u>How to Obtain Free, Licensed Tunes for Your Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-image-previews-top-4-win-friendly-viewers/"><u>Perfecting Image Previews: Top 4 Win-Friendly Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-system-operations-via-terminal-commands/"><u>Streamlining System Operations via Terminal Commands</u></a></li>
+</ul></div>
+

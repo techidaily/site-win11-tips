@@ -1,7 +1,7 @@
 ---
 title: Remedying Mandatory Requirements Problem on Win11/Win11
-date: 2024-09-18T17:18:24.713Z
-updated: 2024-09-21T20:38:28.126Z
+date: 2024-09-23T17:41:56.359Z
+updated: 2024-09-28T16:34:18.176Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,22 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 3. Click the **three-dot button** beside the Visual C++ package version specified in the error message and select **Modify**. In Windows 10, you will need to select a Visual C++ package and click **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the **Repair** option in the Visual C++ window that opens.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -60,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
@@ -81,54 +96,42 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -150,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -159,3 +160,25 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-yuneec-typhoon-q500-4k-review/"><u>2024 Approved Yuneec Typhoon Q500 4K Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolutionaries-clash-palm-2-versus-gpt-4/"><u>AI Revolutionaries Clash: PaLM 2 Versus GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/critical-steps-for-a-complete-operating-system-wipe/"><u>Critical Steps for a Complete Operating System Wipe</u></a></li>
+<li><a href="https://article-tips.techidaily.com/economical-action-filmmaking-gear-for-the-aspiring-pro/"><u>Economical Action Filmmaking Gear for the Aspiring Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-quality-fixing-blurred-and-skewed-youtube-videos/"><u>Enhancing Quality Fixing Blurred and Skewed YouTube Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-smart-8-plus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Smart 8 Plus to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laughlens-quickly-create-social-memes-and-gifs-for-2024/"><u>LaughLens Quickly Create Social Memes & Gifs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/melodicmeasurement-reaction-to-tunes-for-2024/"><u>MelodicMeasurement Reaction to Tunes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-productivity-the-top-6-win-tracking-software-choices/"><u>Propel Productivity: The Top 6 Win Tracking Software Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rearrange-screen-alignment-for-windows-users/"><u>Rearrange Screen Alignment for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-stalled-amd-driver-in-windows-environment/"><u>Remedying Stalled AMD Driver in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-this-device-is-being-used-by-someone-else-in-sound/"><u>Resolving 'This Device Is Being Used By Someone Else' In Sound</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-a51-5g-the-ultimate-affordable-5g-phone-evaluation/"><u>Samsung Galaxy A51 5G - The Ultimate Affordable 5G Phone Evaluation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-file-download-problems-in-windows/"><u>Strategies to Overcome File Download Problems in WIndows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trim-down-warmup-latency-top-tips-for-a-quicker-boot-up/"><u>Trim Down Warmup Latency – Top Tips for a Quicker Boot-Up</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-c02-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia C02? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-managing-your-network-proxy/"><u>Windows 11: Managing Your Network Proxy</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Application Termination in Windows
-date: 2024-09-19T16:27:27.729Z
-updated: 2024-09-22T02:15:48.805Z
+date: 2024-09-25T18:01:57.767Z
+updated: 2024-09-28T18:34:55.219Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
 ![Closing multiple apps using the Resource Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/closing-multiple-apps-using-the-resource-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Want to know the best part about using the Resource Monitor? This tool allows you to re-open multiple apps simultaneously with just a few clicks!
 
  Here's how to reopen your apps with the Resource Monitor:
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Command Prompt can help you troubleshoot PC issues, configure some system settings, and run your Windows apps.
 
@@ -85,13 +99,6 @@ taskkill /f /im explorer.exe
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
@@ -116,10 +123,10 @@ taskkill /f /im paintdotnet.exe /T > nul
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, follow these steps:
@@ -137,16 +144,16 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use the Close All Windows Tool
 
@@ -183,5 +190,23 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] In 2024, PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-streamline-youtube-tweets-on-chrome-performance/"><u>[Updated] In 2024, Streamline YouTube Tweets on Chrome Performance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/"><u>[Updated] Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-positive-reactions-in-a-world-of-negative-comments/"><u>2024 Approved Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-productivity-the-essentials-of-using-flow-launcher/"><u>Accelerate Productivity: The Essentials of Using Flow Launcher</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-task-managers-dynamic-speed-in-windows-11/"><u>Boost Task Manager's Dynamic Speed in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-workflow-advanced-filters-and-theme-changes-in-task-manager-windows-11/"><u>Elevate Your Workflow: Advanced Filters & Theme Changes in Task Manager (Windows 11)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-methods-to-transform-your-mts-videos-into-mp4-format-compatible-with-all-devices-on-windows-and-macos/"><u>Free Methods to Transform Your MTS Videos Into MP4 Format Compatible with All Devices on Windows and macOS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8715-fresh-driver-downloads-for-smooth-functionality-on-multiple-windows-versions/"><u>HP OfficeJet Pro 8715: Fresh Driver Downloads for Smooth Functionality on Multiple Windows Versions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/keep-your-msi-bravo-updated-easily/"><u>Keep Your MSI Bravo Updated Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-windows-headset-mic-functionality/"><u>Restore Your Windows Headset Mic Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-the-steps-msoffice-installation-on-windows-11/"><u>Simplifying the Steps: MSOffice Installation on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-alter-file-extensions-on-windows/"><u>Step by Step: How to Alter File Extensions on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-a56s-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo A56s 5G Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tricks-to-stream-pre-filmed-footage-during-facebook-livestreams-for-2024/"><u>Tricks to Stream Pre-Filmed Footage During Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-process-chrome-windows-11-link-up/"><u>Unveiling the Process: Chrome, Windows 11 Link-Up</u></a></li>
+</ul></div>
 

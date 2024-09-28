@@ -1,7 +1,7 @@
 ---
 title: "Tailoring File Dates: The Windows Edition Approach"
-date: 2024-09-20T03:20:57.106Z
-updated: 2024-09-22T05:16:53.871Z
+date: 2024-09-24T16:57:16.054Z
+updated: 2024-09-28T16:51:28.547Z
 tags:
   - windows10
   - windows11
@@ -90,11 +90,26 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
 
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -106,14 +121,28 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 4. Click the **Remove Properties and Personal Information** link.  
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -126,8 +155,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +162,23 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-window-warriors-choose-the-best-capture-apps/"><u>[New] 2024 Approved Window Warriors Choose the Best Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-posting-ultra-hd-gopro-videoclips-on-facebook-with-hevc-compression/"><u>Effortlessly Posting Ultra HD GoPro Videoclips on Facebook with HEVC Compression</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-info-on-instagrams-video-time-frame-rules/"><u>Essential Info on Instagram's Video Time Frame Rules</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-steps-to-resolve-steam-video-hiccups/"><u>Essential Steps to Resolve Steam Video Hiccups</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ideal-gaming-sets-for-children-console-choices-and-complementary-items/"><u>Ideal Gaming Sets for Children: Console Choices and Complementary Items</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-local-space-management-tips-no-file-removal-max-156-chars/"><u>Innovative Windows Local Space Management Tips (No File Removal) (Max 156 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-camera-not-detected-error-on-win11/"><u>Remedy for “Camera Not Detected” Error on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-icon-alignment-in-windows-10/"><u>Simplify Icon Alignment in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-high-cpu-usage-in-the-latest-game-version/"><u>Solving High CPU Usage in the Latest Game Version</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-pop-8-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Pop 8 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-display-embrace-wmfresh-look/"><u>Transform Windows Display: Embrace WMFresh Look</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-shortcut-tactics-for-optimal-voice-input-on-win-11/"><u>Ultimate Shortcut Tactics for Optimal Voice Input on Win 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-freeware-harmonies-to-accentuate-photo-stories/"><u>Updated 2024 Approved Freeware Harmonies to Accentuate Photo Stories</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-use-audio-ducking-to-fade-out-music-in-powerdirector-in-2024/"><u>Updated How to Use Audio Ducking to Fade Out Music in PowerDirector, In 2024</u></a></li>
+</ul></div>
+

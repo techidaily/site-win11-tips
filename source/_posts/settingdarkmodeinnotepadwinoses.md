@@ -1,7 +1,7 @@
 ---
 title: SettingDarkModeInNotepadWinOSes
-date: 2024-09-20T21:00:36.047Z
-updated: 2024-09-21T22:49:07.250Z
+date: 2024-09-23T18:54:07.606Z
+updated: 2024-09-28T16:52:53.297Z
 tags:
   - windows10
   - windows11
@@ -67,16 +67,22 @@ Here is how you can enable it:
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable Dark Mode in Notepad on Windows 11
 
  The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Use the Settings App
 
@@ -90,16 +96,16 @@ Here is how you can make the changes within the Settings app:
 ![Color settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/personalization-colors-1.jpg)
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Modify the Notepad Settings
 
@@ -116,6 +122,13 @@ Follow these steps to proceed:
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable Dark Theme in Notepad++
 
  Notepad ++ is the classic Notepad on steroids. This text editor is developed by Microsoft and offers a handful of advanced features that are not available in the classic Notepad.
@@ -129,26 +142,20 @@ Follow these steps to proceed:
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
@@ -172,5 +179,26 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-master-the-art-of-transferring-fb-vids-to-mp3-files-for-2024/"><u>[New] Master the Art of Transferring Fb Vids to MP3 Files for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-understanding-fps-making-a-choice-between-30-and-60-hertz-for-2024/"><u>[Updated] Understanding FPS Making a Choice Between 30 & 60 Hertz for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instructions-removing-videos-from-youtubes-watchlater/"><u>2024 Approved Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-14-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 14 for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-to-follow-plan-starting-over-with-windows-updates/"><u>Easy-to-Follow Plan: Starting Over with Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-your-taskbar-with-win11-tips/"><u>Enhance Your Taskbar with Win11 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-windows-11-unreachable-5ghz-wi-fi/"><u>Guide to Fixing Windows 11 - Unreachable 5GHz Wi-Fi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-error-0x00000709-operation-could-not-be-completed-on-windows/"><u>How to Fix Error 0X00000709: Operation Could Not Be Completed on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-pova-5-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Pova 5 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-movement-eradicate-slowness-on-sw-battlefront-windows/"><u>Master Movement: Eradicate Slowness on SW Battlefront Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005180403-mastering-fallout-76s-optimization-end-the-annoying-freeze-ups/"><u>Mastering Fallout 76'S Optimization - End the Annoying Freeze-Ups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsofts-surface-laptop-go-3-gains-processor-yet-fails-to-shine/"><u>Microsoft's Surface Laptop Go 3 Gains Processor, Yet Fails to Shine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fix-geforce-experience-on-windows-pcs/"><u>Quick Guide to Fix GeForce Experience on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-against-unexpected-scroll-behavior-in-os/"><u>Safeguard Against Unexpected Scroll Behavior in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-vecchinuovi-dvd-con-backup-express-una-guida-passo-passo-per-il-salvataggio-sicuro-e-veloce-in-soli-5-minuti-senza-compromettere-la-qualita22/"><u>Trasforma I Tuoi Vecchi/Nuovi DVD Con Backup Express - Una Guida Passo-Passo per Il Salvataggio Sicuro E Veloce in Soli 5 Minuti Senza Compromettere La Qualità!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-start-with-8-designed-gpts/"><u>Unleash Creativity: Start with 8 Designed GPTs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unsilencing-the-wasteland-fixing-sound-problems-for-fallout-4-on-pc/"><u>Unsilencing the Wasteland: Fixing Sound Problems for Fallout 4 on PC</u></a></li>
+</ul></div>
 

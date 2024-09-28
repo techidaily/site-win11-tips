@@ -1,7 +1,7 @@
 ---
 title: Swift Fixes to Overcome Windows 11 Unresponsive Typing Error - X80049DD3
-date: 2024-09-16T18:53:59.593Z
-updated: 2024-09-22T02:00:51.851Z
+date: 2024-09-27T18:23:53.136Z
+updated: 2024-09-28T16:07:12.902Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Windows 11 Updates
 
  Microsoft has reputedly acknowledged error 0x80049dd3, which means the big M may have released a patch update that addresses it. Windows is usually automatically updated, but there might still be some available updates your PC is missing. So, check for and install all available Windows 11 updates like this:
@@ -73,6 +80,14 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 3. Next, click the**Microphone** navigation option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if it is disabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
@@ -88,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set Up a New User Account
@@ -105,21 +120,7 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
@@ -129,14 +130,22 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
 7. Sign out of Windows 11 and log in to the newly created user account.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Try using voice typing in your new user account.
@@ -155,6 +164,14 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 4. Select the**Network reset** option, and click**Yes** to confirm.  
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-reset-now-option.jpg)
 5. Restart Windows 11 after resetting the network.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then you’ll need to reconnect your PC to the internet.
 
 ## Get Voice Typing Again on Windows 11
@@ -174,5 +191,19 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>[New] 2024 Approved Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/xploring-ajeys-youtube-revenue-for-2024/"><u>[New] Exploring Ajey's YouTube Revenue for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-zooms-capabilities-for-effective-facebook-live/"><u>[New] Perfecting Zoom's Capabilities for Effective Facebook LIVE</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decode-and-maximize-your-impact-on-instagram-with-these-insights/"><u>[Updated] Decode & Maximize Your Impact on Instagram with These Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-traffic-with-effective-youtube-titles/"><u>2024 Approved Maximizing Traffic with Effective YouTube Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-subnet-tweak-for-experienced-users-win11/"><u>Effortless Subnet Tweak for Experienced Users, Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/envisioning-the-ideal-user-experience-in-windows-11/"><u>Envisioning the Ideal User Experience in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-facile-pour-transformer-votre-fichier-mp4-en-format-wmv-avec-movavi/"><u>Guide Facile Pour Transformer Votre Fichier MP4 en Format WMV Avec Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-for-flawless-srt-construction/"><u>In 2024, The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leap-forward-in-windows-video-management-integrate-tdarrs-distributed-capabilities/"><u>Leap Forward in Windows Video Management: Integrate Tdarr's Distributed Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-files-disabling-read-only-status/"><u>Manipulating Windows Files: Disabling Read-Only Status</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-error-0xa00f425d-in-windows-camera/"><u>Steps to Eliminate Error 0xA00F425D in Windows Camera</u></a></li>
+</ul></div>
 

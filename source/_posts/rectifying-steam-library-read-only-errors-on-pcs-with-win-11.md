@@ -1,7 +1,7 @@
 ---
 title: Rectifying Steam Library Read-Only Errors on PCs with Win 11
-date: 2024-09-19T01:40:56.042Z
-updated: 2024-09-22T05:07:57.669Z
+date: 2024-09-22T16:59:17.826Z
+updated: 2024-09-28T18:30:44.825Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![Run the Steam App With Administrator Privileges-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-the-steam-app-with-administrator-privileges-1.jpg)
 4. The User Account Control window will launch. Click on the **Yes** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Grant Full Ownership of the Steam Folder
 
  If you don’t have complete ownership of the Steam folder, you can face problems while installing a game or making changes to any file or folder. Repeat the following steps to gain complete ownership of the Steam folder:
@@ -61,6 +68,14 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 7. Click on the **Full Control** checkbox to grant all the permissions for your user profile.  
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Lastly, click on the **OK** button and then close the Properties window.
 
 ## 4\. Repair the Steam Library Folder
@@ -74,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![Repair the Steam Library Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-steam-library-folder-1.jpg)
 5. The User Account Control window will pop up. Click on the **Yes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. After the repair completes, click on the **Close** button.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Re-Add the Steam Library Folder
 
@@ -93,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 4. Select a Steam library folder and then click on the **horizontal ellipsis** (three dots) button. Select the **Remove Drive** option.
 5. Now, click on the **plus** icon. Select the folder location and click on the **Add** button.
 6. Close and relaunch Steam.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Flush the Steam Download Cache
 
@@ -128,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -140,24 +155,31 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the **OK** button once again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. **Close** the Disk Management utility.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Steam Library Folder Writable Again on Windows
@@ -166,8 +188,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  If you face the same predicament, don’t fret. Let's explore multiple methods to resolve this annoying error code and help you successfully install your games on Steam again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,3 +195,19 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlocking-multi-app-playlists-synchronization-secrets/"><u>[Updated] 2024 Approved Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>[Updated] Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-playstation-simulators-top-5-selection/"><u>2024 Approved Premier PlayStation Simulators Top 5 Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-launching-apps-on-windows-11/"><u>Efficiently Launching Apps on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a78-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A78 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-g42-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia G42 5G Without PUK Codes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stifling-windows-restart-requests/"><u>Stifling Windows Restart Requests</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-environment-with-portable-utility-icons/"><u>Streamlining Windows Environment with Portable Utility Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-steam-glitches-to-ensure-smooth-gameplay-on-windows-11/"><u>Tackling Steam Glitches to Ensure Smooth Gameplay on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/whats-not-there-exploring-the-elusive-element-in-the-latest-samsung-galaxy-tab-a-2020/"><u>What's Not There? Exploring the Elusive Element in the Latest Samsung Galaxy Tab A (2020)</u></a></li>
+</ul></div>
+

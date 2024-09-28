@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Stuck or Unresponsive Media Player on Win11
-date: 2024-09-18T20:12:51.066Z
-updated: 2024-09-21T21:35:44.555Z
+date: 2024-09-25T18:02:37.710Z
+updated: 2024-09-28T17:06:14.198Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 
  If you find that your file is unsupported, use a[free online converter](https://www.makeuseof.com/tag/free-online-file-converters/) to change its format to a compatible one.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Video Library Access for the App
 
  The Media Player app may fail to show videos stored on your PC if you have inadvertently disabled video library access for the app. Here’s how you can enable it.
@@ -43,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 4. Enable the toggles next to**Video library access** and**Let apps access your video library** .
 5. Turn on the toggle next to the**Media Player** app.  
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Refresh Your Libraries
 
@@ -70,17 +90,17 @@ To disable video enhancements in Windows, use these steps:
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Relevant Windows Troubleshooters
@@ -116,13 +136,6 @@ regsvr32 wmp.dll`
 
  Restart your PC after this and then check if the Media Player app works as before.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Update the Media Player App
 
  Microsoft regularly pushes newer updates for the Media Player app to add new features, eliminate bugs and improve its performance. There’s a chance that the issues with the Media Player app are limited to the app version you are using. If that’s the case, updating to a newer version should help.
@@ -148,5 +161,21 @@ regsvr32 wmp.dll`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-compatible-console-recreation-software-ps3-for-pcs/"><u>[New] Best Compatible Console Recreation Software (PS3) for PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-clarity-web-based-high-definition-recorders/"><u>[New] Capturing Clarity Web-Based High-Definition Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-viewability-creating-custom-youtube-thumbnails/"><u>[New] In 2024, Enhancing Viewability Creating Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximizing-profits-from-a-million-viewer-baseline/"><u>[Updated] 2024 Approved Maximizing Profits From a Million-Viewer Baseline</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-tips-for-effective-mobile-video-capture-for-2024/"><u>Advanced Tips for Effective Mobile Video Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/animationpros-complete-guide-24/"><u>AnimationPros Complete Guide '24</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ephemeral-approach-to-suspending-windows-11-protection-systems/"><u>Ephemeral Approach to Suspending Windows 11 Protection Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-f23-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo F23 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-install-microsoft-works-on-windows-11-or-11/"><u>How to Install Microsoft Works on Windows 11 or 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/perfecting-your-content-chrome-compatible-tiktok-uploads/"><u>Perfecting Your Content Chrome-Compatible TikTok Uploads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unifying-partitions-in-windows-step-by-step-methods/"><u>Unifying Partitions in Windows: Step-by-Step Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
+</ul></div>
 

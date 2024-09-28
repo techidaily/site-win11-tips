@@ -1,7 +1,7 @@
 ---
 title: Quick Pasting Tips for Pre-Defined Text in Win 10/11
-date: 2024-09-21T04:17:35.265Z
-updated: 2024-09-21T16:51:42.468Z
+date: 2024-09-26T17:20:15.613Z
+updated: 2024-09-28T16:34:33.582Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -65,6 +72,14 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
@@ -88,15 +103,22 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -116,5 +138,21 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-from-dull-to-dynamic-adding-animated-effects-to-instagram-stories/"><u>[Updated] From Dull to Dynamic Adding Animated Effects to Instagram Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-next-gen-screen-capture-unleashed-apeaksofts-2023-review/"><u>[Updated] Next-Gen Screen Capture Unleashed Apeaksoft’s 2023 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-hassle-request-xbox-series-xs-refund/"><u>Avoid Hassle: Request Xbox Series X/S Refund</u></a></li>
+<li><a href="https://win-able.techidaily.com/continuous-freezing-issues-resolved-in-the-renamed-new-world/"><u>Continuous Freezing Issues Resolved in the Renamed 'New World'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-the-depth-of-complete-screenshots-via-windows-snipping-tool/"><u>Dive Into the Depth of Complete Screenshots via Windows' Snipping Tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-pc-reawakening-top-3-windows-reset-methods/"><u>Efficient PC Reawakening: Top 3 Windows Reset Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-updates-and-error-windows-0x800f0845/"><u>Fixing Updates and Error: Windows 0X800F0845</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-usb-wi-fi-adapter-not-connecting-or-working-on-windows-8-ways-to-fix-it/"><u>Is Your USB Wi-Fi Adapter Not Connecting or Working on Windows? 8 Ways to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-updating-lenovo-ideapad-100s-drivers-quickly-and-effortlessly/"><u>Step-by-Step Guide to Updating Lenovo IdeaPad 100S Drivers Quickly and Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamline-workflow-learn-io-screen-recording-for-2024/"><u>Streamline Workflow Learn IO Screen Recording for 2024</u></a></li>
+</ul></div>
 

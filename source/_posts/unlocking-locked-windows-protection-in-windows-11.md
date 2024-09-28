@@ -1,7 +1,7 @@
 ---
 title: Unlocking Locked Windows Protection in Windows 11
-date: 2024-09-16T06:25:06.719Z
-updated: 2024-09-22T01:47:20.742Z
+date: 2024-09-27T16:50:40.344Z
+updated: 2024-09-28T19:02:03.553Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Disable Third-Party Antivirus
 
  If you have an additional antivirus installed on your PC, it might be a good time to get rid of it.
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
 
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Security App
 
@@ -88,20 +88,14 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![reset and repair option in the windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-and-repair.jpg)
 
- You can also try the **Repair** option if you don't want to reset the app right off. It’s right there above the **Reset** option. As soon you click on **Repair**, the process will begin. When the Repair is complete, it’ll leave a tick option adjacent to **Repair** box.
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also try the **Repair** option if you don't want to reset the app right off. It’s right there above the **Reset** option. As soon you click on **Repair**, the process will begin. When the Repair is complete, it’ll leave a tick option adjacent to **Repair** box.
 
 ## 5\. Run an SFC and DISM Scan
 
@@ -129,16 +123,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
  When you’re done, [simply restart your PC](https://www.makeuseof.com/windows-restart-methods/) for the changes to take effect, and see if the problem persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Security Service
 
@@ -152,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![security services process in the services app on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-app-windows-11.jpg)
 
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Your PC
 
@@ -167,10 +168,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![two types of reset options in the reset this pc on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-this-pc-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s it. Follow the onscreen instructions ahead and your Windows will be formatted and reinstalled in no time. When your PC restarts, all your settings will be at ground zero again.
@@ -185,8 +186,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
  It's therefore crucial that Windows security is working at its best; this will keep your computer security airtight. In this article, we’ve laid down some of the best tricks that will help you fix Windows Security on your Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +193,22 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/astering-youtube-notes-and-alerts-implementation-for-2024/"><u>[New] Mastering YouTube Notes & Alerts Implementation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-premieres-export-woes-to-fix-srt-files-for-2024/"><u>[New] Navigating Premiere's Export Woes to Fix SRT Files for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-mic-selection-for-professional-4k-filmmaking/"><u>[New] Optimal Mic Selection for Professional 4K Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-best-signature-background-remover-online-6-incredible-tools/"><u>2024 Approved Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/can-malware-scanners-hang-up-compute-resources/"><u>Can Malware Scanners Hang Up Compute Resources?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-hdd-invisibility-glitches/"><u>Correcting HDD Invisibility Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-value-not-available-issue-in-windows/"><u>Eradicating Value Not Available Issue in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-easily-retrieve-lost-viber-chats-within-minutes-using-a-simple-trick/"><u>How to Easily Retrieve Lost Viber Chats Within Minutes Using a Simple Trick</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-lighten-load-time-for-epic-games-on-windows/"><u>How to Lighten Load Time for Epic Games on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>In 2024, Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mac-users-frustrated-by-heic-files-unlock-easy-access-with-top-ranking-heic-readers/"><u>Mac Users Frustrated by HEIC Files? Unlock Easy Access with Top-Ranking HEIC Readers!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-transfer-windows-11-auto-move-techniques/"><u>Mastering File Transfer: Windows 11 Auto-Move Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-5-mouse-gurus-autoclick-wonders-on-windows-pcs/"><u>Top 5 Mouse Gurus: Autoclick Wonders on Windows PCs</u></a></li>
+</ul></div>
+

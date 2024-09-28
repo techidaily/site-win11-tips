@@ -1,7 +1,7 @@
 ---
 title: "Mastering Weather Icons: Styling Windows 11'S System Tray"
-date: 2024-09-14T17:14:54.059Z
-updated: 2024-09-22T03:49:40.230Z
+date: 2024-09-25T18:46:32.203Z
+updated: 2024-09-28T17:56:16.249Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Weather Icon to the System Tray With Weather Bar
 
  Weather Bar is an alternative to WeatherMate that displays a temperature icon for a location in the system tray much the same. However, Weather Bar’s panel displays shows forecasts for up to 15 days and includes animation effects. This is how you can add a weather info icon to Windows 11’s system tray with Weather Bar.
@@ -65,17 +72,42 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
 
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
 
  Why have a somewhat limited one-day weather summary widget waste space on your Windows 11 taskbar? The Weather Bar and WeatherMate apps provide more extensive weather info than Windows 11’s widget. Their direct system tray access to forecasts will also save you from searching for local weather info on websites.
 
  Would you prefer to have current and forecast weather details directly accessible from the system tray instead? If so, this is how you can add a weather icon to Windows 11’s system tray for quick access to forecasts with two third-party apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,10 +117,20 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
       data-full-width-responsive="true"></ins>
     
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-your-fb-profile-picture-update/"><u>[New] 2024 Approved Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-the-pack-in-instagram-content-crafting-puzzle-feeds-for-2024/"><u>[New] Leading the Pack in Instagram Content Crafting Puzzle Feeds for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cutting-edge-techniques-for-your-instagram-story-success/"><u>[Updated] Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-free-pass-to-premium-video-editing-tools/"><u>[Updated] In 2024, The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-the-openai-api-and-what-you-can-do-with-it/"><u>A Guide to the OpenAI API and What You Can Do With It</u></a></li>
+<li><a href="https://extra-information.techidaily.com/birds-eye-briefing-critique-for-2024/"><u>Bird's Eye Briefing Critique for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gain-early-access-the-way-into-windows-11-beta/"><u>Gain Early Access: The Way Into Windows 11 Beta</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/historic-footprints-in-tech-rediscovering-7-old-world-windows-aspects/"><u>Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-f23-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo F23 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightning-bloatware-eradication-for-your-win11-system/"><u>Lightning Bloatware Eradication for Your Win11 System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-expert-advice-on-hardware-choices/"><u>Navigating Computer Gear with Tom - Expert Advice on Hardware Choices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/terminal-vs-powershell-a-closer-look-at-their-differences/"><u>Terminal Vs. PowerShell: A Closer Look at Their Differences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+</ul></div>
 

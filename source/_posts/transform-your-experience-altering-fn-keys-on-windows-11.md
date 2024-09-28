@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Experience: Altering FN Keys on Windows 11"
-date: 2024-09-19T18:37:42.351Z
-updated: 2024-09-22T02:30:22.301Z
+date: 2024-09-24T18:44:01.632Z
+updated: 2024-09-28T18:00:59.007Z
 tags:
   - windows10
   - windows11
@@ -43,11 +43,34 @@ Here is how to proceed:
 2. Alternatively, launch the Control Panel and navigate to the**Hardware and Sound** section.  
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
@@ -71,13 +94,6 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -88,6 +104,20 @@ Similarly, if you have an Acer device, follow these steps:
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 If you are a Windows 11 user, follow these steps:
@@ -104,23 +134,9 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -129,6 +145,13 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -161,5 +184,22 @@ If you are a Windows 11 user, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-quick-diy-filming-fixes-the-top-5-hacks-to-try-now/"><u>[New] In 2024, Quick DIY Filming Fixes The Top 5 Hacks to Try Now</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-rhyme-and-groove-top-20-rap-sensations-on-tiktok-today/"><u>[New] Rhyme & Groove Top 20 Rap Sensations on TikTok Today</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>[Updated] In 2024, Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-minds-on-fire-best-gk-quiz-videos-online/"><u>2024 Approved Minds on Fire Best GK Quiz Videos Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-zero-error-in-windows-sandbox-missing-hypervisor-solution/"><u>Fixing Zero Error in Windows Sandbox - Missing Hypervisor Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-unfreeze-steam-and-resume-gaming-on-windows-11/"><u>How To Swiftly Unfreeze Steam and Resume Gaming on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-a70-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel A70 Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-options-tips-for-finding-the-ideal-smartphone-cover/"><u>Navigating Through Options: Tips for Finding the Ideal Smartphone Cover</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-update-failure-navigating-disconnect-in-windows-discord/"><u>Post-Update Failure: Navigating Disconnect in Windows Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-the-clipboard-in-windows-11-with-user-centric-features/"><u>Reimagining the Clipboard in Windows 11 with User-Centric Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-addressing-windows-update-errors/"><u>Step-by-Step: Addressing Windows Update Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/swift-systems-for-rearranging-youtube-video-lineup-for-2024/"><u>Swift Systems for Rearranging YouTube Video Lineup for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-forefront-ai-an-alternative-to-chatgpt-or-not/"><u>Understanding Forefront AI – An Alternative to ChatGPT, or Not?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-in-hand-typing-enable-steps-on-windows/"><u>Unlock the Power of In-Hand Typing: Enable Steps on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-enhanced-functionality-with-ai-for-windows-11-users/"><u>Unveiling Enhanced Functionality with AI for Windows 11 Users</u></a></li>
+</ul></div>
 

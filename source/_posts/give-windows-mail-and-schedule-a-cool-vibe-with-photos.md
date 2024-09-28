@@ -1,7 +1,7 @@
 ---
 title: Give Window's Mail & Schedule A Cool Vibe with Photos
-date: 2024-09-20T20:02:58.828Z
-updated: 2024-09-22T06:14:34.203Z
+date: 2024-09-26T18:48:05.085Z
+updated: 2024-09-28T16:18:32.888Z
 tags:
   - windows10
   - windows11
@@ -48,7 +48,22 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 4. The next seven thumbnails portray colorful background images. Choose any of them and change the color of the extreme left pane to match the background or suit your liking.  
 ![Background Image Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-image-mail-app.jpg)
 5. The next 12 thumbnails are of background themes that come with the color of the left pane matched to the image. Select the one you like and you will see the theme appear on the right pane change along with its matching color on the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set a Favorite Picture as Your Mail Background
 
@@ -58,6 +73,14 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 2. In the**Background** section, scroll down and hit the**Browse** button to select a picture from your Windows PC or picture gallery.  
 ![Browse Option to Choose Picture for Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browse-to-choose-picture-mail-app.jpg)
 3. Click on**Open,** and the**Mail** app will open again with your picture on the right pane. The picture's thumbnail will be at the bottom of the**Background** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Chosen Picture On Right Pane in the Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chosen-picture-on-right-pane-mail-app.jpg)
 4. Your favorite picture will appear on the right pane when no email is selected and you can choose to match the color of the left pane with this picture. So scroll up to the**Colors** sections in the**Personalization** flyout, where you can choose from one of the 10 colors for the left pane. You'll find the option to choose your Windows accent color too.  
 ![Left Pane Color Matching With Picture in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-left-pane-color-to-match-picture.jpg)  
@@ -71,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  Now your chosen picture will appear bigger, in a wider area on the Mail app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Background or Picture to the Calendar App
@@ -90,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  So to make it appear on the left pane toggle on the**Fill entire window** option. Or hit**Browse** again to choose a new picture.
 
  If you're on Windows 11, there may be times when the Mail and Calendar apps are inaccessible. If this happens, check out[what to do if Mail and Calendar won't open on Windows 11](https://www.makeuseof.com/windows-11-mail-calendar-wont-open/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Windows With a Personal Touch
 
@@ -119,5 +135,26 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>[New] 2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>[New] 2024 Approved Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-your-creativity-convert-youtube-clips-into-dynamic-gifs/"><u>[New] In 2024, Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-fix-for-identifying-imposters-in-your-instagram-community/"><u>[New] Quick Fix for Identifying Imposters in Your Instagram Community</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-components-that-lift-you-in-youtube-viewership-for-2024/"><u>[New] The Components That Lift You in YouTube Viewership for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-leveraging-youtube-for-seamless-facebook-sharing/"><u>2024 Approved Leveraging YouTube for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-system-startup-with-auto-auditory-restart-mechanism/"><u>Boosting System Startup with Auto Auditory Restart Mechanism</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-rapport-an-interviewers-toolkit-for-2024/"><u>Building Rapport An Interviewer's Toolkit for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-firewall-essential-fixes-for-a-shutdown-system/"><u>Enabling Firewall: Essential Fixes for a Shutdown System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-sharing-capabilities-in-geforce/"><u>Enhancing File-Sharing Capabilities in GeForce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-usability-faster-uninstall-options-in-win/"><u>Enhancing Usability: Faster Uninstall Options in Win</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme V30 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/latest-ipod-video-conversion-software-upgrade-to-ipod-video-converter-v30-now-available/"><u>Latest IPod Video Conversion Software: Upgrade to iPod Video Converter v3.0 Now Available!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/put-a-halt-on-application-start-tracking-in-windows/"><u>Put a Halt on Application Start-Tracking in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-windows-settings-on-reboot/"><u>Steps for Resetting Windows Settings on Reboot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-csgo-launch-failures-on-w11/"><u>Troubleshooting CS:GO Launch Failures on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-the-door-on-stuck-wow-61-patches/"><u>Unlocking the Door on Stuck WoW 6.1 Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Loading Failures of Text Messages on Discord PC
-date: 2024-09-18T19:45:42.900Z
-updated: 2024-09-21T23:31:21.348Z
+date: 2024-09-22T16:38:39.112Z
+updated: 2024-09-28T16:06:42.610Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
@@ -65,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  If changing the network works in resolving the issue, the problem is with your ISP. In such a case,[change the DNS](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) to see if it fixes the problem. If that doesn't work, you should inform your ISP or switch to another provider.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check for Channel-Specific Issues
 
  After confirming that Discord systems are operational, the internet is working fine, and there is no temporary glitch, you should rule out channel-specific issues. For that, try switching to another channel on the same server. If the problem occurs across all channels on the same server, check that you haven't been banned.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Mute and Unmute a Channel
 
@@ -86,6 +93,26 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 4. Wait a few minutes.
 5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Mark Messages as Read
 
@@ -103,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  When this happens, Discord cuts you off from using their API, which also handles grabbing messages from servers; hence the error. Don't fret, however; these bans typically don't last longer than a day, and they won't "add a mark" to your Discord rap sheet.
 
  Unfortunately, the API ban is based on your IP address, not your account. As such, making a new account won't get around the ban.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Enable or Disable a VPN
 
@@ -127,19 +161,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Update Discord
 
  Discord automatically checks for new updates the moment you launch it. If Discord finds an update that's ready to download, it'll install it before showing you the login screen.
@@ -148,16 +169,16 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
@@ -168,10 +189,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the[Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to[Discord via Twitter](https://twitter.com/discord) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Messages Fail to Load" Error, Fixed
@@ -193,5 +214,26 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-androids-animated-adventures-top-game-list/"><u>[New] 2024 Approved Android’s Animated Adventures – Top Game List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-beaming-brilliance-for-android-video-creation/"><u>[New] In 2024, Beaming Brilliance for Android Video Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-7-secure-video-conferencing-systems-for-smbs-for-2024/"><u>[Updated] Ultimate 7 Secure Video Conferencing Systems for SMBs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerated-action-plan-for-file-explorer-restarts-on-win-11/"><u>Accelerated Action Plan for File Explorer Restarts on Win 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sing-the-riches-of-mr-beast-for-2024/"><u>Assessing the Riches of Mr. Beast for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoidance-and-remediation-for-a-frozen-resource-monitor-app-in-windows-11/"><u>Avoidance and Remediation for a Frozen Resource Monitor App in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-top-8-best-ios-tools-for-video-editing-and-conversion/"><u>Discover Top 8 Best iOS Tools for Video Editing & Conversion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/embedding-ical-into-your-windows-system-without-hassle/"><u>Embedding iCal Into Your Windows System without Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-guide-to-the-best-fileshare-apps-on-a-windows-laptop/"><u>Exclusive Guide to the Best Fileshare Apps on a Windows Laptop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-strategies-for-fbx-filming-in-video-games/"><u>Expert Strategies for FBX Filming in Video Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-your-winx-dvd-experience-with-digiartys-step-by-step-manual-and-configuration-tips/"><u>Mastering Your WinX DVD Experience with Digiarty's Step-by-Step Manual & Configuration Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/productivity-hack-instant-open-of-windows-sticky-notes-on-login/"><u>Productivity Hack: Instant Open of Windows' Sticky Notes on Login</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-taskbar-icon-anomalies/"><u>Rectifying Taskbar Icon Anomalies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-command-over-disabled-menu-functions/"><u>Regaining Command over Disabled Menu Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-cant-get-mail-errors-windows-11-edition/"><u>Strategies to Overcome Can’t Get Mail Errors, Windows 11 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-steps-solving-discords-persistent-audio-dropouts/"><u>Ultimate Troubleshooting Steps: Solving Discord's Persistent Audio Dropouts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-adventure-unlocked-mastering-kinemaster-and-top-alternatives-reviewed/"><u>Virtual Adventure Unlocked Mastering KineMaster and Top Alternatives Reviewed</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1726225239010-mp4ogg-movavi/"><u>オンラインでのフリーMP4からOggへの変換 - 動画編集ソフトウェアMovavi使用</u></a></li>
+</ul></div>
 

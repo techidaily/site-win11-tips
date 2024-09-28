@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tabs: A Step-by-Step to Windows 11 Mastery"
-date: 2024-09-16T16:13:38.686Z
-updated: 2024-09-22T06:46:34.596Z
+date: 2024-09-26T16:44:38.316Z
+updated: 2024-09-28T17:25:49.000Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
 
@@ -46,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
@@ -64,17 +78,17 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
 
@@ -99,5 +113,22 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>[New] Shooting Stars & Sedans Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ace-win-hardware-testing-with-these-premier-graphics-tools/"><u>Ace Win Hardware Testing with These Premier Graphics Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-saved-audio-configurations-winvolume-hacks/"><u>Bring Back Saved Audio Configurations: WinVolume Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-compatibility-with-windows-11-explained/"><u>Chrome Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/communicate-with-friends-on-messenger-even-without-a-facebook-id/"><u>Communicate with Friends on Messenger, Even Without a Facebook ID</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-wont-start-spotify-on-windows-1011-platforms/"><u>Curing Won't Start Spotify on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-y200e-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y200e 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y28-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Flip 5 Phone without Google Account?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-the-malfunction-of-windows-delete-operation/"><u>Reversing the Malfunction of Windows Delete Operation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-user-engagement-on-your-website-through-cookiebot-solutions/"><u>Revolutionize User Engagement on Your Website Through Cookiebot Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-printer-functionality-within-edge-guard/"><u>Triggering Printer Functionality Within Edge Guard</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-list-of-top-10-gratis-audio-capture-software-tailored-for-modern-podcasters/"><u>Updated 2024 Approved The Essential List of Top 10 Gratis Audio Capture Software Tailored for Modern Podcasters</u></a></li>
+</ul></div>
 

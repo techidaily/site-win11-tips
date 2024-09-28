@@ -1,7 +1,7 @@
 ---
 title: "Elevate Task Management: Positioning 'This PC' On Screen"
-date: 2024-09-15T17:42:58.460Z
-updated: 2024-09-21T18:53:30.371Z
+date: 2024-09-27T17:25:32.983Z
+updated: 2024-09-28T16:58:32.504Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easily Add the "This PC" Icon to Your Desktop
 
  Windows 11 doesn't display the "This PC" icon on the desktop by default, so we have to add it manually. Hopefully, the above steps will help you add this icon to your desktop and make accessing your drives much more straightforward. Taking this step will significantly enhance your productivity. If you decide to clean up your desktop in the future, follow the same steps and disable it again.
@@ -64,12 +71,18 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-recording-companion-10-best-on-spotify-platforms/"><u>[New] Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-preeminent-6-networks-driving-biz-innovation/"><u>2024 Approved Preeminent 6 Networks Driving Biz Innovation</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-alternative-applications-to-format-your-drive-on-mac-or-windows-11-systems/"><u>Best Alternative Applications to Format Your Drive on Mac or Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-using-ical-with-windows-operating-systems/"><u>Bridging the Gap: Using iCal with Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-best-surge-protector-a-guide-for-your-electronic-devices/"><u>Choosing the Best Surge Protector: A Guide for Your Electronic Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-lightrooms-artistic-control-creating-and-merging-hdr-images-for-2024/"><u>Master Lightroom's Artistic Control Creating & Merging HDR Images for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11s-voice-commands-keyboard-shortcut-essentials/"><u>Mastering Windows 11'S Voice Commands: Keyboard Shortcut Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/memory-and-cpu-efficiency-in-browsers-a-windowsmacoschromeos-comparison/"><u>Memory and CPU Efficiency in Browsers: A Windows/macOS/ChromeOS Comparison</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synchronize-and-schedule-mastering-zoom-on-your-android-phone/"><u>Synchronize & Schedule Mastering Zoom on Your Android Phone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Avoid File Lock Issues on Windows 11 Devices
-date: 2024-09-16T00:05:41.471Z
-updated: 2024-09-22T01:50:19.693Z
+date: 2024-09-24T17:36:46.584Z
+updated: 2024-09-28T16:14:21.086Z
 tags:
   - windows10
   - windows11
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -60,6 +74,14 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
@@ -69,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
 
@@ -87,6 +102,20 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 4. If you see anything suspicious, select that item and click the **Disable** button.  
 ![The Disable button on Task Manager's Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-button.jpg)
 5. Then restart your PC to see if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
@@ -110,27 +139,11 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
  The potential solutions covered here are widely confirmed to resolve the “requested resource is in use” error. If it’s not caused by malware, disabling Explorer’s preview pane, as covered in resolution two, will usually fix the issue. Users confirm running an antivirus scan in safe mode (solution three) can fix the “required resource is in use” error when caused by malware.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -139,3 +152,25 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>[New] 2024 Approved Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>[New] Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-learn-and-master-io-screen-recording-today/"><u>[New] In 2024, Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/activate-voiceover-mode-with-siri-on-apple-products-for-effortless-text-reading/"><u>Activate Voiceover Mode with Siri on Apple Products for Effortless Text Reading</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-web-speed-contrast-in-your-tech-world/"><u>Addressing the Web Speed Contrast in Your Tech World</u></a></li>
+<li><a href="https://win-tips.techidaily.com/convert-and-save-nerdcubed-show-videos-as-mp4-avi-or-mov-for-offline-viewing/"><u>Convert and Save Nerdcubed Show Videos as MP4, AVI, or MOV for Offline Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-access-to-your-visual-data-with-windows-11/"><u>Immediate Access to Your Visual Data with Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-fix-for-winerror-xc004f050/"><u>Mastering Fix for WinError Xc004f050</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-pip-google-chrome-across-devices-for-2024/"><u>Mastering PIP Google Chrome Across Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nocturnal-notions-for-iphone-photographers-for-2024/"><u>Nocturnal Notions for iPhone Photographers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-of-superior-gaming-with-amd-radeon-tweaks/"><u>Secrets of Superior Gaming with AMD Radeon Tweaks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-running-grand-theft-auto-v-solutions-to-eliminate-gameplay-hiccups/"><u>Smooth Running Grand Theft Auto V: Solutions to Eliminate Gameplay Hiccups</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-microsoft-store-fault-error-0x0-in-windows/"><u>Strategies to Resolve Microsoft Store Fault: Error 0X0 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x887a0006-for-gpu-hangs/"><u>Tackling Windows Error 0X887A0006 for GPU Hangs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-ignoring-restricted-feature-on-windows-software/"><u>Tips for Ignoring Restricted Feature on Windows Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-issue-insufficient-it-admin-rights/"><u>Troubleshooting Windows Issue: Insufficient IT Admin Rights</u></a></li>
+</ul></div>
+

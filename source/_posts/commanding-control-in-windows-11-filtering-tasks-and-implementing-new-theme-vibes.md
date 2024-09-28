@@ -1,7 +1,7 @@
 ---
 title: "Commanding Control in Windows 11: Filtering Tasks & Implementing New Theme Vibes"
-date: 2024-09-14T22:49:43.646Z
-updated: 2024-09-22T07:19:49.567Z
+date: 2024-09-24T17:32:20.975Z
+updated: 2024-09-28T16:16:23.408Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  Moreover, the Task Manager filter works across various pages—Processes, App history, Startup apps, Details, and Services.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set a Task Manager Theme Different From the Windows Theme
 
  The February 2023 KB5022913 Windows update also brought pleasing visual changes to the Task Manager.
@@ -69,13 +82,34 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![App Theme Setting in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-manager-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you select the**Use system setting** , then you'll see the current Windows theme and its colors across various areas of the Task Manager. So you could have the colors of your favorite movie theme or cool shades of a blue theme to highlight the usage statistics—-as you can see in the screenshot below.
 
 ![Task Manager With a Blue System Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-manager-blue-system-theme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And as per Microsoft, all dialogs, except for the**Run new task** and the**Properties** dialog, now support app-specific themes or Windows themes.
 
  The Task Manager also has many advanced and useful features. To access them, you can explore how to[run the Task Manager as an administrator](https://www.makeuseof.com/windows-11-task-manager-administrator/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy a Handier and More Appealing Task Manager
 
@@ -94,18 +128,22 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>[New] 2024 Approved Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-elevate-your-content-the-essential-video-tutorial-for-youtube-photos/"><u>[Updated] In 2024, Elevate Your Content The Essential Video Tutorial for YouTube Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-forth-forgotten-windows-top-6-techniques-in-win11/"><u>Bringing Forth Forgotten Windows: Top 6 Techniques in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diverging-pathways-of-ai-assistance-understanding-siri-and-chatgpts-unique-capabilities/"><u>Diverging Pathways of AI Assistance: Understanding Siri and ChatGPT's Unique Capabilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-a1x-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A1x 5G Unlock Without Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-stock-photographs-meme-lives-and-histories/"><u>In 2024, Iconic Stock Photographs Meme Lives and Histories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-metaverse-engagement-examples/"><u>In-Depth Metaverse Engagement Examples</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-action-steps-for-correcting-workspace-glitches-on-winos/"><u>Instant Action Steps for Correcting Workspace Glitches on WINOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masterclass-in-microsoft-essential-gratis-tools-for-win11/"><u>Masterclass in Microsoft: Essential Gratis Tools for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-dns-configuration-process-on-windows-11/"><u>Navigating the DNS Configuration Process on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-bio-linking-a-complete-system-on-tiktok/"><u>Perfecting Bio Linking A Complete System on TikTok</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ulse-of-printed-words-2-methods-of-bouncing-text-for-2024/"><u>The Pulse of Printed Words 2 Methods of Bouncing Text for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triggering-windows-11s-stealthy-taskbar-spotlight/"><u>Triggering Windows 11'S Stealthy Taskbar Spotlight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-potential-masterful-docx-to-pdf-migration/"><u>Unlocking Windows 11'S Potential: Masterful DOCX to PDF Migration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-high-cpu-usage-by-windows-ums-for-vanguard-users/"><u>Unraveling High CPU Usage by Windows’ UMS for Vanguard Users</u></a></li>
+</ul></div>
 

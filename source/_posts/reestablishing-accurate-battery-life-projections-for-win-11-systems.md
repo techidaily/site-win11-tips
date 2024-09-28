@@ -1,7 +1,7 @@
 ---
 title: Reestablishing Accurate Battery Life Projections for Win 11 Systems
-date: 2024-09-20T04:47:21.238Z
-updated: 2024-09-22T00:38:25.385Z
+date: 2024-09-21T17:36:43.365Z
+updated: 2024-09-28T16:48:27.642Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable the Battery Time Estimate in the Registry
 
  Whatever the cause of its disappearance, the battery time estimate is still part of the OS. And with a bit of Registry tweaking, it can be brought back into view.
@@ -44,12 +51,41 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 3. If there is no**Power** key, right-click on**Control** in the navigation panel, and select**New > Key** . Name the new registry key**Power** .  
 ![power values in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-key.jpg)
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
 ![Changing value data in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-dword.jpg)
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. You don't need to change the Value data for these, as they should default to a 0 value.
 
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
 
@@ -68,12 +104,22 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturequality-assessor-network/"><u>[Updated] In 2024, CaptureQuality Assessor Network</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplify-your-content-two-approaches-to-skyrocket-traffic/"><u>2024 Approved Amplify Your Content Two Approaches to Skyrocket Traffic</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quick-fixes-to-design-delight-canvas-top-10-tips/"><u>2024 Approved Quick Fixes to Design Delight Canva's Top 10 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-add-ons-for-disk-image-duality-on-pc/"><u>Avoiding Add-Ons for Disk Image Duality on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-a-chuckle-to-life-generating-text-memes-for-2024/"><u>Bring a Chuckle to Life Generating Text Memes for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-the-superiority-of-pcs-to-macs-in-9-areas/"><u>Dissecting the Superiority of PCs to Macs in 9 Areas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-system-performance-with-effective-use-of-windows-law-filters/"><u>Elevating System Performance with Effective Use of Window's LAW Filters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos-for-2024/"><u>Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-20/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>In 2024, Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-closed-caption-settings-in-windows-11/"><u>Mastering Closed Caption Settings in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-mystery-fixing-windows-error-code-0x0000004e/"><u>Tackling the Mystery: Fixing Windows Error Code 0X0000004E</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-p55plus-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel P55+</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/tutorial-gratuit-recuperation-des-videos-mp4-corrompues-pour-ordinateurs-de-bureau/"><u>Tutorial Gratuit : Récupération Des Vidéos MP4 Corrompues Pour Ordinateurs De Bureau</u></a></li>
+</ul></div>
 

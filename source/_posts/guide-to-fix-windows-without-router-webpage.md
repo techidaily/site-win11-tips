@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix Windows Without Router Webpage
-date: 2024-09-19T20:03:31.314Z
-updated: 2024-09-21T19:48:09.933Z
+date: 2024-09-23T16:34:06.211Z
+updated: 2024-09-28T17:03:00.515Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
@@ -69,22 +76,15 @@ To find your Default Gateway IP address for the router:
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change TCP/IP Settings for Your Network Adapter
@@ -102,15 +102,23 @@ To find your Default Gateway IP address for the router:
 6. Right-click on your**Ethernet adapter** and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
 10. Relaunch your browser and try to access the router page.
@@ -131,10 +139,10 @@ To disable Invisibility on LAN on NordVPN:
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reset Your Router to Its Factory Defaults
@@ -162,5 +170,24 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-tagging-instas-top-25-must-use-tags-for-2024/"><u>[New] Mastering the Art of Tagging Insta's Top 25 Must-Use Tags for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-video-capturing-made-simple-a-complete-guide-using-zd-software-for-2024/"><u>[New] Mastering Video Capturing Made Simple A Complete Guide Using ZD Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c53-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C53 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-a-personalized-look-with-these-easy-to-follow-theme-steps-for-win11/"><u>Achieve a Personalized Look with These Easy-to-Follow Theme Steps for Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-xpatch-puzzle-error-0x80073712/"><u>Decoding Windows XPatch Puzzle: Error 0X80073712</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-filming-gurus-on-yt-transform-your-set-with-greenscreens-for-2024/"><u>Green Filming Gurus on YT Transform Your Set with Greenscreens for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x9a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X9a Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-desktop-icon-spacing-in-windows-11-and-10/"><u>How to Change Desktop Icon Spacing in Windows 11 and 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-common-print-issues-related-to-domain-services-in-modern-windows-oses/"><u>How to Rectify Common Print Issues Related to Domain Services in Modern Windows OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-solutions-for-dead-hubs-and-usb-connectors-win-pc/"><u>Immediate Solutions for Dead Hubs & USB Connectors Win PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-approaches-to-recording-and-editing-video-vo/"><u>In 2024, Innovative Approaches to Recording and Editing Video VO</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-your-browser-limiting-edges-activity/"><u>Managing Your Browser: Limiting Edge's Activity</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-how-do-you-compress-mp4-videos-and-reduce-the-file-size-in-windows-10-for-free-in-this-article-ill-share-top-9-free-video-compression-software-f/"><u>New In 2024, How Do You Compress Mp4 Videos and Reduce the File Size in Windows 10 for Free? In This Article, Ill Share Top 9 Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-typical-directory-display-order-in-win11/"><u>Reviving Typical Directory Display Order in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-resource-building-shortcuts-for-microsofts-uwp-apps-in-windows-11/"><u>The Ultimate Resource: Building Shortcuts for Microsoft's UWP Apps in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-nord-ce-3-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Nord CE 3 5G Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

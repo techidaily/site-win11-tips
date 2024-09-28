@@ -1,7 +1,7 @@
 ---
 title: Enhancing Windows Desktop with Non-Undoable File Removal
-date: 2024-09-15T20:31:52.987Z
-updated: 2024-09-22T01:56:44.254Z
+date: 2024-09-26T17:47:19.036Z
+updated: 2024-09-28T18:44:23.584Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -50,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
@@ -59,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
@@ -66,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -96,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
  Adding Free File Wiper or Multi Trash bins to Windows will enable you to delete files and folders more securely from the desktop area. Although there are many other file shredder utilities available, few of them have comparable drag-and-drop functionality. So, Multi Trash and Free File Wiper are more unique tools for shredding files in that respect.
@@ -122,5 +144,23 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-countering-harshness-maintaining-poise-online/"><u>[New] 2024 Approved Countering Harshness Maintaining Poise Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pioneering-the-art-of-storytelling-top-youtubers-of-year-2023/"><u>[New] Pioneering the Art of Storytelling - Top YouTubers of Year 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-fix-java-non-installation-in-windows/"><u>Approaches to Fix Java Non-Installation in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevating-video-post-visibility-on-fb-groups-for-2024/"><u>Elevating Video Post Visibility on FB Groups for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pc-capture-tool-apowersofts-latest-screen-recording/"><u>In 2024, PC Capture Tool Apowersoft's Latest Screen Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://program-issues.techidaily.com/insider-tips-to-fix-apex-legends-error-leaf-the-ultimate-guide-for-gamers-facing-challenges/"><u>Insider Tips to Fix Apex Legends Error Leaf - The Ultimate Guide for Gamers Facing Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introducing-automatic-system-updates-notice-to-windows-11-ui/"><u>Introducing Automatic System Updates Notice to Windows 11 UI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-resolve-old-password-needed-alert/"><u>Quick Guide to Resolve Old Password Needed Alert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-problems-active-status-of-your-win11-license/"><u>Solving Problems: Active Status of Your Win11 License</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-secure-command-line-user-permissions-on-pc/"><u>Steps to Secure Command Line User Permissions on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-webcam-error-code-a00f4289/"><u>Troubleshooting Windows 11: Resolving Webcam Error Code A00F4289</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/using-dialer-in-win-11/"><u>Using Dialer in Win 11</u></a></li>
+</ul></div>
 

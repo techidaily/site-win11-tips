@@ -1,7 +1,7 @@
 ---
 title: Tips for a Smooth Transition Into Windows 11 Homespace
-date: 2024-09-16T07:02:42.620Z
-updated: 2024-09-22T03:08:52.204Z
+date: 2024-09-25T18:00:25.220Z
+updated: 2024-09-28T17:35:09.115Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Home Section in the Settings App
 
  After updating your Windows PC and installing Vivetool, repeat the following steps:
@@ -60,25 +74,19 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 5. Type **vivetool** and press the **Enter** key to check if the tool runs perfectly or not.  
 ![Enable the New Home Section in the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app.jpg)
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `vivetool /enable /id:42058345  
 vivetool /enable /id:42058313`
 7. **Close** the Command Prompt window.  
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Does the Enhanced Settings App Look Like?
 
@@ -94,22 +102,20 @@ vivetool /enable /id:42058313`
 
 ![New home section in the settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-home-section-in-the-settings-app-1.jpg)
 
- Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +124,22 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-audiences-on-multiple-digital-landscapes/"><u>[Updated] 2024 Approved Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-turning-tides-in-the-social-stream-boosting-post-performance/"><u>[Updated] Turning Tides in the Social Stream Boosting Post Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lenovo-thinkphone-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lenovo ThinkPhone to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-window-shifts-gone-but-not-forgotten/"><u>6 Window Shifts: Gone But Not Forgotten</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo .</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-ralink-rt3290-driver-issues-on-various-windows-versions/"><u>Effective Fixes for Ralink RT3290 Driver Issues on Various Windows Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-excel-essential-productivity-software-for-professionals-on-windows/"><u>Efficiently Excel: Essential Productivity Software for Professionals on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-writing-problems-on-windows-platforms/"><u>Eliminating Writing Problems on Windows Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-files-downloads-in-windows-11-5/"><u>Fixing Unresponsive Files Downloads in Windows 11 (5)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rw2-jpeg/"><u>RW2 JPEG 가상 스토리지에서 무세금 전화앱을 사용한 이미지 변환 - 모바비</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/seamless-workflows-how-to-set-up-automatic-proceedings-following-flip-book-publishing-on-flipbuildercom/"><u>Seamless Workflows: How to Set Up Automatic Proceedings Following Flip Book Publishing on FlipBuilder.com</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-files-save-path-problem-easy-fix-guide/"><u>Windows Files' Save Path Problem: Easy Fix Guide</u></a></li>
+</ul></div>
+

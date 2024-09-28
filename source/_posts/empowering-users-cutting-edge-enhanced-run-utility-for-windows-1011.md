@@ -1,7 +1,7 @@
 ---
 title: "Empowering Users: Cutting-Edge Enhanced Run Utility for Windows 10/11"
-date: 2024-09-19T19:54:42.967Z
-updated: 2024-09-22T06:38:44.423Z
+date: 2024-09-27T17:24:07.184Z
+updated: 2024-09-28T16:07:24.712Z
 tags:
   - windows10
   - windows11
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
@@ -104,9 +111,23 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
@@ -122,14 +143,14 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
- Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -148,5 +169,20 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-building-community-through-thoughtful-facebook-giveaways/"><u>[New] Building Community Through Thoughtful Facebook Giveaways</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-decoding-luts-the-secret-behind-enhanced-photography/"><u>[Updated] 2024 Approved Decoding LUTs The Secret Behind Enhanced Photography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-11x-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from 11X 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-auto-recommended-games-in-windows-11/"><u>Cease Auto-Recommended Games in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-functionality-reprogramming-fn-keys-on-modern-windows-pcs/"><u>Enhance Functionality: Reprogramming FN Keys on Modern Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-simple-fixes-for-your-non-operational-windows-notepad/"><u>Five Simple Fixes for Your Non-Operational Windows Notepad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-resolving-fps-dips-and-frame-rate-stutters-in-pc-version-of-battlefield-2042/"><u>Fixes Implemented: Resolving FPS Dips & Frame Rate Stutters in PC Version of Battlefield 2042</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/harness-the-power-of-hevc-hardware-for-rapid-video-encoding-and-ultimate-performance/"><u>Harness the Power of HEVC Hardware for Rapid Video Encoding and Ultimate Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719320946567-list-three-benefits-of-applying-a-cultural-relativist-approach-when-encountering-unfamiliar-customs-or-beliefs/"><u>List Three Benefits of Applying a Cultural Relativist Approach when Encountering Unfamiliar Customs or Beliefs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-data-transfer-mishaps-with-windows-usb-devices/"><u>Reversing Data Transfer Mishaps with Windows USB Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/securing-your-contents-reputation-while-gaining-a-million-viewer-engagements-for-2024/"><u>Securing Your Content's Reputation While Gaining A Million Viewer Engagements for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-editing-odyssey-journey-to-photo-mastery/"><u>The Editing Odyssey Journey to Photo Mastery</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-12t-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 12T Pro? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

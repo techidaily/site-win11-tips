@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Mandatory Requirements Issue in Windows 11/11
-date: 2024-09-19T00:58:29.944Z
-updated: 2024-09-21T17:56:37.096Z
+date: 2024-09-22T18:31:32.528Z
+updated: 2024-09-28T17:29:48.247Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,20 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 3. Click the **three-dot button** beside the Visual C++ package version specified in the error message and select **Modify**. In Windows 10, you will need to select a Visual C++ package and click **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the **Repair** option in the Visual C++ window that opens.  
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
@@ -56,8 +70,23 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click **I agree** \> **Install** in the Microsoft Visual C++ 2015-2022 window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -71,19 +100,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click **Next** to proceed to an offer for installing a Bing Bar.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Uncheck the **Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
@@ -92,38 +108,26 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
@@ -143,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -157,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +168,23 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-excellence-in-image-making-via-premium-grid-makers/"><u>[Updated] Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-tips-adding-captions-in-youtube-videos/"><u>2024 Approved Quick Tips Adding Captions in YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-to-workspace-with-windows-1011/"><u>A Seamless Shift to Workspace with Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/create-a-seamless-workflow-with-alt-tab-in-win1110/"><u>Create a Seamless Workflow with Alt-Tab in Win11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-query-templates-from-githubs-best-list/"><u>Ideal ChatGPT Query Templates From GitHub's Best List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-windows-10-for-audio-capture/"><u>In 2024, Navigating Windows 10 for Audio Capture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-resolved-repair-techniques-for-iphone-proximity-detection-problems/"><u>Issue Resolved: Repair Techniques for iPhone Proximity Detection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pivotal-techniques-for-reworking-windows-via-shortcuts/"><u>Pivotal Techniques for Reworking Windows via Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-admin-workflow-a-fresh-perspective-on-windows-uac/"><u>Reimagining Admin Workflow: A Fresh Perspective on Windows UAC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-applying-apple-maps-to-windows/"><u>Step-by-Step Guide: Applying Apple Maps to Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-headphone-malfunction-on-a-windows-7-pc/"><u>Step-by-Step Solution to Headphone Malfunction on a Windows 7 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-startup-paths-essential-steps/"><u>Unlocking Windows' Startup Paths: Essential Steps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-avs-video-editor-review-and-tutorial/"><u>Updated 2024 Approved The Ultimate Guide to AVS Video Editor Review and Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/xbox-gameplay-perfect-screen-recording-guide/"><u>Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Securing Seamlessly: 4 Practical Steps for Locking Out Windows Users"
-date: 2024-09-18T07:01:13.155Z
-updated: 2024-09-21T23:19:20.402Z
+date: 2024-09-24T19:03:09.380Z
+updated: 2024-09-28T16:27:32.445Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ To disable user accounts via Settings:
 6. If you need to enable the user account again, click the**Allow sign in** button and click**Allow** to confirm the action.
 
  Note that you must log in to your administrator account to make changes to user accounts. Also, you can only block sign-in for members of**Your family** in the Family groups from Settings. If you need to disable a local user account, you must use the PowerShell and Command Prompt methods below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable a User Account Using Windows PowerShell
 
@@ -90,10 +97,10 @@ To disable a user account using Command Prompt:
 9. Make sure to replace NewUser with the account name you want to enable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable a User Account From the Computer Management Console
@@ -116,21 +123,14 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
 3. In the**Properties** dialog, select the**Account is disabled** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
@@ -147,6 +147,26 @@ To disable a user account using Command Prompt:
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
 
@@ -167,5 +187,26 @@ To disable a user account using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-protect-and-enhance-images-with-top-tools/"><u>[New] Protect & Enhance Images with Top Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-5-best-snipping-tools-for-mac/"><u>[Updated] 5 Best Snipping Tools for Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[Updated] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obs-studio-vs-fraps-top-screen-capture-software-showdown/"><u>2024 Approved OBS Studio Vs Fraps Top Screen Capture Software Showdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-denied-secure-your-windows-environment-with-these-4-tactics/"><u>Access Denied: Secure Your Windows Environment with These 4 Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-overcome-response-incorrect-message/"><u>Easily Overcome Response Incorrect Message</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bypass-disruptions-caused-by-new-windows-updates/"><u>How to Bypass Disruptions Caused by New Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-rules-not-working-on-windows/"><u>How to Fix Outlook Rules Not Working on Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-perfection-leading-online-photo-correction-tech/"><u>In 2024, Pixels Perfection Leading Online Photo Correction Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pro-gamers-fbx-filming-techniques/"><u>In 2024, Pro Gamers' FBX Filming Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-clis-for-efficient-task-management-windows-11/"><u>Integrating CLIs for Efficient Task Management (Windows 11)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/iphone-tips-for-time-dilation-in-videography-for-2024/"><u>IPhone Tips for Time-Dilation in Videography for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-c53-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme C53</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-shortage-of-physical-storage-space-vm-errors/"><u>Resolving Shortage of Physical Storage Space (VM) Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-directdraw-crashes-in-win11-a-step-by-step-guide/"><u>Solving DirectDraw Crashes in Win11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027954399-step-by-step-guide-to-perfectly-capturing-bigo-livestream-videos-without-the-annoying-black-screen-updated/"><u>Step-by-Step Guide to Perfectly Capturing Bigo Livestream Videos Without the Annoying Black Screen (Updated)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-the-endless-cycle-of-windows-ui-issues/"><u>Stop the Endless Cycle of Windows UI Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-charging-windows-printer-performance/"><u>Turbo-Charging WIndows Printer Performance</u></a></li>
+</ul></div>
 

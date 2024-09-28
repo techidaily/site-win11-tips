@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Rearranging OneDrive Storage in Win10
-date: 2024-09-16T17:58:32.649Z
-updated: 2024-09-22T05:37:32.262Z
+date: 2024-09-24T16:27:48.779Z
+updated: 2024-09-28T18:23:02.142Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -46,18 +53,34 @@ With that done, you can now relocate your OneDrive folder.
 3. Select your OneDrive folder and in the ribbon click on the**Move to** button.  
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
@@ -69,13 +92,6 @@ With that done, you can now relocate your OneDrive folder.
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
@@ -103,5 +119,24 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-disabling-automated-podcast-suggestions-for-privacy/"><u>[New] Disabling Automated Podcast Suggestions for Privacy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-solution-for-your-windows-photo-app/"><u>A Step-by-Step Solution for Your Windows Photo App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-mastered-on-quality-hub-hd/"><u>Audio Mastered on Quality Hub (HD)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choose-freedom-for-windows-chatai-freedomgpt/"><u>Choose Freedom for Windows ChatAI: FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciding-the-best-drive-for-your-xbox-games/"><u>Deciding the Best Drive for Your Xbox Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-battery-life-awareness-charge-notification-tips-for-windows-11/"><u>Enhancing Battery Life Awareness: Charge Notification Tips for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/escape-key-blues-effective-fixes-for-a-non-operational-keys/"><u>Escape Key Blues? Effective Fixes for a Non-Operational Keys</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-restart-setting-windows-1011-to-turn-off-idly/"><u>Instant Restart: Setting Windows 10/11 to Turn Off Idly</u></a></li>
+<li><a href="https://win11.techidaily.com/revel-in-rich-software-diversity-on-windows/"><u>Revel in Rich Software Diversity on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-how-to-restore-functionality-of-msi-mystic-light-on-windows-systems/"><u>Solution Guide: How to Restore Functionality of MSI Mystic Light on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-windows-11-taskbar-for-optimal-datetime-view/"><u>Tailoring Windows 11 Taskbar for Optimal Date/Time View</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omplete-handbook-to-excellent-youtube-audio-production/"><u>The Complete Handbook to Excellent YouTube Audio Production</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-definitive-how-to-getting-the-epson-xp-410-drivers-up-and-running-on-your-window-pc/"><u>The Definitive How-To: Getting the Epson XP-410 Drivers Up and Running on Your Window PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-g2-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo G2 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unseen-windows-11-desktop-themes/"><u>Top Unseen Windows 11 Desktop Themes</u></a></li>
+</ul></div>
 

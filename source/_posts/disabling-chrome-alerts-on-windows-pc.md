@@ -1,7 +1,7 @@
 ---
 title: Disabling Chrome Alerts on Windows PC
-date: 2024-09-18T04:25:02.131Z
-updated: 2024-09-22T02:19:52.846Z
+date: 2024-09-21T18:59:45.861Z
+updated: 2024-09-28T18:40:20.175Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -50,6 +57,20 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 5. Scroll down to the**Permissions** section and click on**Notifications** .
 6. Under**Default behavior** , select**Don’t allow sites to send notifications** to disable Chrome notifications.  
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
 
@@ -73,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -98,5 +119,22 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-film-titles-that-spur-positive-change-and-action-steps/"><u>2024 Approved Film Titles That Spur Positive Change & Action Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sunset-symphony-cinematic-darkening-in-pro/"><u>2024 Approved Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-correcting-stuck-batch-files-on-windows/"><u>Comprehensively Correcting Stuck Batch Files on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-e-imprimir-su-archivo-pgf-sin-coste-adicional-con-herramientas-de-conversion-en-linea/"><u>Descargar E Imprimir Su Archivo PGF Sin Coste Adicional Con Herramientas De Conversión en Línea</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/embracing-change-how-the-unique-benefits-of-the-oura-ring-make-it-a-must-have-despite-disliking-subscriptions/"><u>Embracing Change: How the Unique Benefits of the Oura Ring Make It a Must-Have Despite Disliking Subscriptions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-12-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme 12 Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-works-into-windows-os-step-by-step-guide/"><u>Integrating Works Into Windows OS: Step by Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-devices-awake-disabling-usb-hibernate-in-win-11/"><u>Keep Devices Awake: Disabling USB Hibernate in Win 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-no1-free-dailymotion-to-mp4-converter-online/"><u>New In 2024, No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/riseabovemycam-cameras-of-tomorrow/"><u>RiseAboveMyCam Cameras of Tomorrow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-pcs-touch-interface-a-user-friendly-tutorial/"><u>Tailoring Your PC’s Touch Interface: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-apex-of-atmospheric-analysis-windows-11s-top-weather-apps/"><u>The Apex of Atmospheric Analysis: Windows 11'S Top Weather Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-and-correcting-installer-mishaps-a-win11-blueprint/"><u>Unraveling & Correcting Installer Mishaps: A Win11 Blueprint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/update-drivers-make-sure-your-graphics-card-drivers-are-up-to-date-for-optimal-performance/"><u>Update Drivers: Make Sure Your Graphics Card Drivers Are up to Date for Optimal Performance</u></a></li>
+</ul></div>
 

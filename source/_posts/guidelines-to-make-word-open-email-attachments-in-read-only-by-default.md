@@ -1,7 +1,7 @@
 ---
 title: Guidelines to Make Word Open Email Attachments in Read-Only by Default
-date: 2024-09-15T05:53:25.061Z
-updated: 2024-09-21T20:56:10.830Z
+date: 2024-09-24T18:27:50.478Z
+updated: 2024-09-28T17:35:35.221Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,20 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 6. Hit**Apply** followed by**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
 
  The Registry Editor in Windows stores important settings for Windows and its apps. If you're comfortable editing registry files, you can also use the following method to configure Word to open email attachments in reading view.
@@ -67,13 +81,20 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 7. Click**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -93,5 +114,22 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online-for-2024/"><u>[New] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-can-you-lawfully-archive-youtube-content/"><u>[Updated] 2024 Approved Can You Lawfully Archive YouTube Content?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>Cinematic Wonders with Hero5 Black A Filmmaker's Companion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-engagement-with-dynamic-text-on-instagram/"><u>Enhancing Engagement with Dynamic Text on Instagram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-depths-of-wacatacbml-signature-and-defense-for-windows-users/"><u>Exploring the Depths of Wacatac.B!ml: Signature & Defense for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-nvidia-control-panel-access-denied-error-in-windows-1110/"><u>How to Fix the NVIDIA Control Panel “Access Denied” Error in Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f34-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F34 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s24plus-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S24+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/retrieving-lost-actions-from-winrunhist/"><u>Retrieving Lost Actions From WinRunHist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-tutorial-for-turning-on-windows-11s-quick-start/"><u>Step-by-Step Tutorial for Turning On Windows 11'S Quick Start</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-to-combat-windows-1011-error-740/"><u>Swift Strategies to Combat Windows 10/11 Error 740</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-control-of-windows-read-only-constraints/"><u>Taking Control of Windows Read-Only Constraints</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-big-four-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Understanding the Big Four Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

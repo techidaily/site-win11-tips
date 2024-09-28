@@ -1,7 +1,7 @@
 ---
 title: Sharpen Skills Faster with These Top 8 Study Tips on a Windowed PC
-date: 2024-09-18T16:33:56.243Z
-updated: 2024-09-22T02:44:02.787Z
+date: 2024-09-26T18:10:46.638Z
+updated: 2024-09-28T16:30:09.584Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  Now that you have the structure, you can logically group related files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Up Google Drive for Cloud Sync
 
  As a student, you likely use Google Drive on your smartphone to store college notes, PDFs, or other such things. If you use your PC most of the time, setting up Google Drive will help you get the most out of its cross-platform functionality.
@@ -56,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 2. Run the Google Drive installer file and click on **Install**.  
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
 3. Click **Launch** and log in with your primary Google account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
 5. Click on the **Add folder** button and select the main folder location that you created before.  
@@ -74,10 +89,17 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
@@ -93,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 * [Picture-in-Picture:](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) If you prepare your digital notes from YouTube lectures, Picture-in-Picture is for you. This extension can keep YouTube lectures, music, or tutorials playing in a floating mini-player while multitasking.
 
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
@@ -136,14 +151,14 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
- We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
 ## 8\. Install ChatGPT on Your PC
 
@@ -153,14 +168,14 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Your Windows Productivity Hub Is Now Ready
 
@@ -170,8 +185,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  As a student, you can get the most out of your Windows PC with just a few tweaks. Want to know some useful ones? In this article, we’ll show you some of the best ways to set up your Windows PC like a pro.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +192,20 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-discovering-costless-software-for-streaming-sessions/"><u>2024 Approved Discovering Costless Software for Streaming Sessions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-strategic-social-media-mastery-instagrams-5-crucial-steps-with-examples/"><u>In 2024, Strategic Social Media Mastery Instagram's 5 Crucial Steps with Examples</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mystery-of-continuous-pauses-in-photo-booths-for-2024/"><u>Mystery of Continuous Pauses in Photo Booths for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-master-the-art-of-keyboard-resets-and-troubleshooting/"><u>Quick Fixes: Master the Art of Keyboard Resets and Troubleshooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-ios-device-assessment-via-apples-online-checkup/"><u>Step-by-Step Guide: IOS Device Assessment via Apple's Online Checkup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-by-unrealcefsubprocess-on-systems/"><u>Strategies to Reduce CPU and RAM Overuse by UnrealCEFSubprocess on Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-geforce-now-error-xc0f1103f/"><u>Tackling Windows 11'S GeForce Now Error Xc0f1103f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-secrets-of-running-imessage-on-windows/"><u>Uncovering the Secrets of Running iMessage on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-1111-discord-install-obstructions/"><u>Unlocking Windows 11/11 Discord Install Obstructions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-secrets-with-enhanced-scopes-in-roblox-games-for-2024/"><u>Unveiling Secrets with Enhanced Scopes in Roblox Games for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
+</ul></div>
+

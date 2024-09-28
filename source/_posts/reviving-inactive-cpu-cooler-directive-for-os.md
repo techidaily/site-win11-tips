@@ -1,7 +1,7 @@
 ---
 title: Reviving Inactive CPU Cooler Directive for OS
-date: 2024-09-20T06:08:56.884Z
-updated: 2024-09-21T21:27:01.509Z
+date: 2024-09-24T18:29:50.151Z
+updated: 2024-09-28T16:20:07.290Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ Here’s how to do that.
 
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
 
  Another way to fix the system cooling policy missing from Power Options is by editing the Windows Registry. Before you proceed, please make a copy of it so you have something to restore if something goes wrong. To do that please read our guide on[how to backup and restore the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) .
@@ -50,6 +57,13 @@ Here’s how to do that.
  Next, click on an empty part of the desktop and select**New > Text document** and name it**add-system-cooling-policy.reg** . You’ve basically[created a registry file on Windows](https://www.makeuseof.com/windows-registry-file-guide/) here.
 
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the text document, enter the following code:
 
@@ -59,6 +73,13 @@ In the text document, enter the following code:
 
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should now see the system cooling policy in the Power Options menu.
 
  To remove the system cooling policy again after you’ve made your changes, create another registry file named**add-system-cooling-policy.reg** . Then, paste the below text into the document and save it:
@@ -66,6 +87,13 @@ In the text document, enter the following code:
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000001`
 
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
 
@@ -84,12 +112,24 @@ In the text document, enter the following code:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[New] In 2024, Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-mystery-behind-apples-m1-chip/"><u>[Updated] Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-pc-moments-with-apowersoft/"><u>2024 Approved The Ultimate Guide to Capturing PC Moments with Apowersoft</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-loop-of-0xf0831-error-in-win11-os/"><u>Breaking the Loop of 0XF0831 Error in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-implementing-bluescreenview-strategies/"><u>Detailed Guide to Implementing BlueScreenView Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/digiarty-inquiry-process-explained-get-in-touch-easily/"><u>Digiarty Inquiry Process Explained - Get in Touch Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismantling-barriers-to-running-powershell-scripts-in-windows/"><u>Dismantling Barriers to Running PowerShell Scripts in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expert-tips-for-enhancing-your-gopro-cinematic-vision-for-2024/"><u>Expert Tips for Enhancing Your GoPro Cinematic Vision for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-xiaomi-unveils-next-level-screen-recording-for-photo-lovers/"><u>In 2024, Xiaomi Unveils Next-Level Screen Recording for Photo Lovers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-broadcasting-mastery-with-manycam-advanced-video-editing-virtually-captured-hd/"><u>Real-Time Broadcasting Mastery with ManyCam: Advanced Video Editing, Virtually Captured HD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-to-yahoo-email-for-good-a-step-by-nstep-guide-to-total-account-erasure/"><u>Say Goodbye to Yahoo! Email for Good: A Step-by-nStep Guide to Total Account Erasure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-proxies-on-windows-11/"><u>Step-by-Step: Changing Proxies on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stops-repeated-edge-icons-on-workspace/"><u>Stops Repeated Edge Icons on Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-scheduling-in-windows-11-calendar/"><u>Streamlining Scheduling in Windows 11 Calendar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-winning-playbook-strategies-to-eliminate-stutter-in-videos/"><u>The Winning Playbook: Strategies to Eliminate Stutter in Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-vscode-instability-in-windows-11/"><u>Troubleshooting VSCode Instability in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Opening Terminal in Quake"
-date: 2024-09-19T05:53:54.945Z
-updated: 2024-09-21T21:10:32.383Z
+date: 2024-09-24T19:05:03.644Z
+updated: 2024-09-28T18:59:49.867Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ There are two ways to open the Windows Terminal in Quake mode.
 
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ## Hiding and Restoring the Terminal Window
@@ -69,15 +76,22 @@ To reveal the window again, press the same keyboard shortcut.
 
 ![The peek window for the Windows Terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/closing-quake-mode-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't see a peek preview, you can right-click on the terminal icon in the Taskbar and select**Close Window** .
 
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
@@ -88,16 +102,17 @@ To reveal the window again, press the same keyboard shortcut.
 2. Open the startup items folder by typing**shell:startup** , then click**Ok** .  
 ![creating a shortcut to quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/auto-open-quake-mode.jpg)
 3. Right-click anywhere in the folder and select**New > Shortcut** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. For the location of the item, type:**wt.exe -w \_quake** . Click**Next** .  
 ![shortcut to automatically open quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quake-mode-shortcut.jpg)
 5. Give the shortcut a name you will recognize, such as**Terminal Quake** . Then click**Finish** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
@@ -120,5 +135,26 @@ To reveal the window again, press the same keyboard shortcut.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-diving-into-zoom-breakout-room-setups-for-2024/"><u>[Updated] Diving Into Zoom Breakout Room Setups for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-b-roll-builder-kit/"><u>[Updated] In 2024, B-Roll Builder Kit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-try-now-bluetooth-hurdle-on-pcs-and-tablets/"><u>Bypass 'Try Now' Bluetooth Hurdle on PCs & Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-the-reset-failure-count-for-incorrect-login-attempts-on-windows-11/"><u>Configuring the Reset Failure Count for Incorrect Login Attempts on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/counteracting-overcapacity-alerts-for-gpt-service/"><u>Counteracting Overcapacity Alerts for GPT Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-win-pcs-voice-input-problems/"><u>Diagnosing Win PCs' Voice Input Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-stability-for-players-destiny-2-pc-no-longer-experiences-unexpected-shutdowns/"><u>Enhanced Stability for Players: Destiny 2 PC No Longer Experiences Unexpected Shutdowns</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shedding-light-on-luts-impact-on-image-quality/"><u>In 2024, Shedding Light on LUTs' Impact on Image Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-spark-20-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Spark 20 Pro Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-inactive-pc-device-engagement/"><u>Mastery of Inactive PC Device Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-barricades-implement-these-7-windows-protections/"><u>Network Barricades: Implement These 7 Windows Protections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/samsung-bd-j5900-review-2023-update-for-2024/"><u>Samsung BD-J5900 Review - 2023 Update for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-windows-free-software-your-safety-priority-list/"><u>Secure Windows Free Software: Your Safety Priority List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/step-by-step-guide-restoring-your-pcs-mic-functionality-on-windows-11/"><u>Step-by-Step Guide: Restoring Your PC's Mic Functionality on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-music-librarys-mp3-files-to-windows-audible-cds-with-imgburn/"><u>Streamlining Your Music Library's MP3 Files to Windows' Audible CDs with ImgBurn</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-flaws-with-non-working-ccleaner-in-win1011/"><u>Techniques to Overcome Flaws with Non-Working CCleaner in Win10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-selection-celebrating-johnny-depps-outstanding-performances-in-film-1985-2015/"><u>The Ultimate Selection: Celebrating Johnny Depp's Outstanding Performances in Film (1985 - 2015)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-lifespan-of-evs-compared-to-standard-gasoline-car-expectations/"><u>Understanding the Lifespan of EVs Compared to Standard Gasoline Car Expectations</u></a></li>
+</ul></div>
 

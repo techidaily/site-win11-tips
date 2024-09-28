@@ -1,7 +1,7 @@
 ---
 title: Resolving Absence of PowerShell From Windows Explorer
-date: 2024-09-14T16:34:44.455Z
-updated: 2024-09-21T18:01:32.708Z
+date: 2024-09-23T17:16:22.384Z
+updated: 2024-09-28T18:29:26.111Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,21 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 5. Double-click on the PowerShell executable file and see if it works. If it does, right-click on it and select**Send to > Desktop (create shortcut)** .  
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
 
@@ -83,6 +97,13 @@ To run the SFC scan on Windows:
 
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 ## 5\. Update Windows PowerShell
@@ -97,13 +118,6 @@ To update PowerShell on Windows:
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
@@ -122,20 +136,19 @@ To create a new user account on Windows, use these steps.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Windows PowerShell Again
@@ -157,5 +170,26 @@ To create a new user account on Windows, use these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premium-picks-superior-vr-game-choices-for-the-cardboard-enthusiast/"><u>[New] Premium Picks Superior VR Game Choices for the Cardboard Enthusiast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tiktok-age-update-made-simple-user-friendly-techniques-for-2024/"><u>[New] TikTok Age Update Made Simple User-Friendly Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>[New] Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-audacity-for-the-mac-enthusiast-advanced-recording-techniques/"><u>[Updated] Audacity for the Mac Enthusiast Advanced Recording Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-bland-to-breathtaking-add-flare-with-stunning-icon-graphics-on-instagram-for-2024/"><u>[Updated] From Bland to Breathtaking Add Flare with Stunning Icon Graphics on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-engage-inspire-convert-strategizing-for-impactful-instavideo-content/"><u>2024 Approved Engage, Inspire, Convert Strategizing for Impactful InstaVideo Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024s-guide-to-superior-soundtracks-adding-srt-to-mp4-files/"><u>2024’S Guide to Superior Soundtracks – Adding SRT to MP4 Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-when-and-how-to-leverage-ping-on-windows/"><u>Expert Advice: When and How to Leverage Ping on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-old-user-id-prompt-in-windows-login-screen/"><u>How to Disable 'Old User ID' Prompt in Windows Login Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-smart-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Smart 7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-ways-to-make-your-windows-11-unique/"><u>Innovative Ways to Make Your Windows 11 Unique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-outlook-and-gmail-synergy-on-your-pc/"><u>Mastering Outlook & Gmail Synergy on Your PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mini3-by-ddpai-a-unique-take-on-the-typical-dashcam-experience/"><u>Mini3 by Ddpai: A Unique Take on the Typical Dashcam Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/monetization-approaches-for-microsoft-and-windows-11/"><u>Monetization Approaches for Microsoft & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-the-user-experience-in-win11-settings/"><u>Redesigning the User Experience in Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-a-frozen-xbox-app-in-windows-10/"><u>Unlocking a Frozen Xbox App in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-to-a-cleaner-win11-experience/"><u>Unveiling the Secret to a Cleaner Win11 Experience</u></a></li>
+</ul></div>
 

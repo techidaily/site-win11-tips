@@ -1,7 +1,7 @@
 ---
 title: Tips & Tricks to Wipe Email From Windowed Login
-date: 2024-09-20T17:15:54.768Z
-updated: 2024-09-21T18:47:47.117Z
+date: 2024-09-22T18:44:33.630Z
+updated: 2024-09-28T17:51:43.081Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 3. Under**Additional settings** , toggle off the switch next to **Show account details such as my email address on the sign-in screen** .  
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
 
  The Group Policy Editor (or gpedit.msc) is a handy Windows tool for configuring advanced system settings. You can also this tool to hide your email address from the Windows login screen.
@@ -48,8 +61,29 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 6. Click**Apply** followed by**OK** .  
 ![Hide Email From Windows Login Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-group-policy-editor.jpg)
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
 
@@ -71,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
  Exit the Registry Editor and restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
@@ -94,5 +134,22 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-emulator-lineup-for-playing-retro-ps1-classics/"><u>[New] 2024 Approved Superior Emulator Lineup for Playing Retro PS1 Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-grading-insights-from-dr-john-doe/"><u>[New] Unveiling the Power of Grading Insights From Dr. John Doe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-asynchronous-programming-in-javascript/"><u>[Updated] In 2024, Harnessing the Power of Asynchronous Programming in JavaScript</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>[Updated] In 2024, Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice-for-2024/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders From Theory to Practice for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-30-groundbre-writers-making-metaverse-memes-thrive/"><u>2024 Approved 30 Groundbre Writers Making Metaverse Memes Thrive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elegante-metodos-para-minimizar-tus-archivos-mp3-mediante-programas-y-soluciones-online/"><u>Elegante Métodos Para Minimizar Tus Archivos MP3 Mediante Programas Y Soluciones Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unbootable-windows-vms-via-vmware-in-win11/"><u>Eliminating Unbootable Windows VMs via VMware in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-style-adding-emoji-15-to-win11-setup/"><u>Navigate with Style: Adding Emoji 15 to Win11 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-a-lasting-deletion-toolbar-on-windows-systems/"><u>Personalizing a Lasting Deletion Toolbar on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-to-cure-the-msconfig-missing-gpeditmsc-bug/"><u>Solutions to Cure the Msconfig Missing Gpedit.msc Bug</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-applying-windows-11s-auto-hdr/"><u>Understanding and Applying Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list/"><u>Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-for-the-best-app-to-prank-your-friends-here-is-a-complete-guide-on-the-funcall-app-how-to-use-it-to-change-your-voice-/"><u>Updated 2024 Approved Are You Looking for the Best App to Prank Your Friends? Here Is a Complete Guide on the Funcall App, How to Use It to Change Your Voice, and Its Best Alternatives</u></a></li>
+</ul></div>
 

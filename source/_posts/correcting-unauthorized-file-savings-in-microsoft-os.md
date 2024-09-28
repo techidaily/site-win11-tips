@@ -1,7 +1,7 @@
 ---
 title: Correcting Unauthorized File Savings in Microsoft OS
-date: 2024-09-20T20:18:05.565Z
-updated: 2024-09-22T05:52:17.831Z
+date: 2024-09-22T17:25:00.799Z
+updated: 2024-09-28T16:53:47.616Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  After modifying the folder permissions, you should be able to save files without any problems.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Folder's Owner
 
  If changing the folder permissions does not help, you can make yourself the folder owner. This will allow you to freely access, modify, and save files in that folder. It's worth noting that you can only do this if you're [logged in with an administrative account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/).
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
 
 ## 3\. Run the App With Administrative Privileges
@@ -66,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Program Compatibility Troubleshooter
@@ -82,20 +96,27 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![Program Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Program-Compatibility-Troubleshooter.jpg)
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After completing the above steps, see if you can save files without getting any errors.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check Your Antivirus Program
 
  At times, antivirus software on your PC may become overly cautious and prevent apps from accessing specific folders. When that happens, Windows may show the "You don’t have permission to save in this location" error message.
 
  To fix this, you will need to go through your antivirus program’s settings and whitelist your app or program from there. Alternatively, you can also temporarily disable your antivirus program and then save your file. If you do this, make sure to re-enable your antivirus program afterward.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable User Account Control
 
@@ -115,19 +136,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  One way to bypass the "You don’t have permission to save in this location" error is to save your file in a different location and then move it to your desired folder. This is more of a workaround that you can use if the above methods don't work.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Create a New User Account
 
  It is possible that the error "You don't have permission to save in this location" is specific to your current user account. This can happen if some of the user account files associated with your account become corrupted. To check this possibility, try [switching to a different user account](https://www.makeuseof.com/windows-11-switch-user-accounts/) on your computer and see if you get the same error.
@@ -143,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  Sign in with your newly created account, and the error should not appear after that.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Troubleshoot the Issue in Safe Mode
 
  Safe Mode is a useful feature that can help you identify and troubleshoot various issues with your Windows PC. If none of the above methods work, you can try booting Windows in Safe Mode.
@@ -164,8 +165,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +172,19 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/break-free-from-operators-downloading-deadlock-in-windows/"><u>Break Free From Operator's Downloading Deadlock in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/executing-an-uncluttered-system-restart-in-windows-11-guide/"><u>Executing an Uncluttered System Restart in Windows 11: Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-chromebook-and-hp-beginners-guide-to-webcam-recordings/"><u>In 2024, Chromebook & HP Beginner’s Guide to Webcam Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-calls-leveraging-zoom-on-windows-10-pcs/"><u>In 2024, Streamlining Video Calls Leveraging Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multiplying-malware-defenses-think-again-windows/"><u>Multiplying Malware Defenses? Think Again, Windows!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-home-weather-solutions-expert-picks-for-the-best-in-24/"><u>Navigating Home Weather Solutions: Expert Picks for The Best in '24</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-the-world-of-facebook-cover-vids-explained-for-2024/"><u>Navigating the World of Facebook Cover Vids Explained for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedies-for-non-functional-windows-alt-codes-49-characters/"><u>Quick Remedies for Non-Functional Windows Alt Codes (49 Characters)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-finest-5-android-image-boosters/"><u>The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo A38 | Dr.fone</u></a></li>
+</ul></div>
+

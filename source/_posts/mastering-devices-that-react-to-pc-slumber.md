@@ -1,7 +1,7 @@
 ---
 title: Mastering Devices That React to PC Slumber
-date: 2024-09-16T04:06:18.789Z
-updated: 2024-09-21T20:59:25.299Z
+date: 2024-09-27T17:25:18.415Z
+updated: 2024-09-28T17:47:37.639Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  On this list, you'll see devices like your keyboard, mouse, network adapter, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check Which Devices Are Allowed to Wake Your Windows PC From Sleep Mode
 
  Command Prompt or PowerShell can also tell you which devices are permitted to wake your Windows PC from sleep mode. Here's how to find out.
@@ -57,9 +64,23 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 `powercfg -lastwake`  
 ![Check What Woke Windows From Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-What-Woke-Windows-From-Sleep.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you run the above command, Windows will tell you which device or process woke your computer from sleep mode.
 
  If you see something like**Wake History Count - 0** , it means that Windows doesn't have a record of wake history. This can happen if you've recently rebooted your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Allow or Deny a Device Permission to Wake Your Windows PC From Sleep Mode
 
@@ -76,22 +97,15 @@ To allow or deny a device permission to wake your computer:
 ![Allow or Disallow Device to Wake Computer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-or-Disallow-Device-to-Wake-Computer-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can repeat the above steps to configure power management settings for more devices if you want.
 
  Aside from your devices, your network connections, scheduled tasks, and background wake timers can also wake Windows from sleep mode. If you want to stop that from happening, check our guide on[how to prevent your Windows computer from waking up randomly](https://www.makeuseof.com/tag/stop-windows-computer-randomly-waking/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Manage Your Computer’s Sleep
 
@@ -110,5 +124,23 @@ To allow or deny a device permission to wake your computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capture-your-browser-journeenas-digital-diary-entries/"><u>[Updated] 2024 Approved Capture Your Browser Journeenas Digital Diary Entries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[Updated] In 2024, Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>[Updated] In 2024, Quick Reference How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-5-high-quality-low-speed-video-gear-for-2024/"><u>[Updated] Top 5 High-Quality Low-Speed Video Gear for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-save-analyze-the-top-8-sound-techniques/"><u>Capture, Save, Analyze The Top 8 Sound Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-security-implementing-controlled-access-in-windows/"><u>Command Security: Implementing Controlled Access in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-engage-window-management-feature-in-windows-11-end-task/"><u>How to Engage Window Management Feature in Windows 11 (End Task)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jolt-from-hibernation-freeze-on-your-pc/"><u>Jolt From Hibernation Freeze on Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-greyed-out-unlock-pin-function-in-windows-11/"><u>Overcoming Greyed Out Unlock Pin Function in Windows 11</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365826035-resolve-camera-woes-in-windows-heres-how/"><u>Resolve Camera Woes in Windows, Here’s How!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/social-media-music-rules-and-regulations/"><u>Social Media Music Rules and Regulations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-administrator-privileges-denial-in-cmd-prompt/"><u>Solving Administrator Privileges Denial in Cmd Prompt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unusual-wsl-error-4294967295-on-pcs/"><u>Tackling Unusual WSL Error 4294967295 on PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-intricacies-of-apples-ai-breakthroughs-insights-from-wwdc-2024/"><u>Unveiling the Intricacies of Apple's AI Breakthroughs: Insights From WWDC 2024</u></a></li>
+</ul></div>
 
