@@ -1,7 +1,7 @@
 ---
 title: "Fixing Common Windows Error: 0X80072f8f-0x20000"
-date: 2024-09-27T16:48:17.817Z
-updated: 2024-09-28T16:00:27.144Z
+date: 2024-10-01T17:15:40.044Z
+updated: 2024-10-03T23:03:29.731Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,10 @@ Follow these steps to run the file as administrator:
  If the error persists, it indicates that there is another cause behind it. In that case, proceed with the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use a Different USB Port
@@ -71,29 +71,44 @@ When you have created a backup, follow these steps.
 3. Once you are inside the Registry Editor, navigate to the location mentioned below:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update`
 4. Right-click in an empty area in the right pane and select**New** \>**DWORD (32-bit) Value** from the context menu.  
 ![New DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/auto-update-new-dword.jpg)
 5. Name this value as**AllowOSUpgrade** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![AllowOSUpgrade value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade.jpg)
 6. Double-click on**AllowOSUpgrade** and type**1** under Value data.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade-value-data.jpg)
 7. Hit**OK** and close the Registry Editor.
 
  You can now restart your PC and upon reboot, check if the Media Creation Tool works fine.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete the Content of the Software Distribution Folder
 
@@ -137,31 +152,23 @@ When you have created a backup, follow these steps.
 5. In the Properties dialog, change the Startup type to**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Startup type as automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/startup-type-automatic.jpg)
 6. If the service is stopped, click on the**Start button** and select**Apply** \>**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/start-service-status.jpg)
 7. Repeat the same steps for the rest of the above-mentioned services.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, check if you can run the Media Creation Tool without any issues now.
 
@@ -181,23 +188,31 @@ Here is how you can perform a clean boot in Windows:
 6. In the Startup tab, right-click on all the items and choose**Disable** .  
 ![Click on the Disable button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-program.jpg)
 7. Once done, close the Task Manager and go back to the System Configuration window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Apply** \>**OK** to save the changes.
 9. Finally, restart your computer.
 
  If the error code 0x80072f8f - 0x20000 is not present after a clean boot, it suggests that the issue was caused by a software or driver conflict. If this situation is applicable, you can either manually remove the recently installed software that you think might be leading to the issue, or[perform a system restore](https://www.makeuseof.com/tag/windows-system-restore-works/) to return to an older functioning state of the system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Your Antivirus
 
  If you are using a third-party antivirus in Windows, there is a chance that it is blocking the process of Media Creation Tool because of a false alarm. To check if this is the case, you can disable or uninstall your antivirus and then run the Media Creation Tool.
 
  If the antivirus program is the culprit, then we recommend switching to another similar service for better performance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Media Creation Tool Error, Now Resolved
 
@@ -218,22 +233,18 @@ Here is how you can perform a clean boot in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-premium-fb-extra-tools-secure-file-grabber-enhanced-firefox-use/"><u>[New] 2024 Approved Premium FB Extra Tools Secure File Grabber, Enhanced Firefox Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-updater-error-code-0xca00a009/"><u>Addressing Windows Updater Error Code: 0XCA00A009</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-gaming-with-an-immersive-multiplayer-adventure-using-ea-play-ps5/"><u>Boost Your Gaming with an Immersive Multiplayer Adventure Using EA Play PS5</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/"><u>Boosted Efficiency: Expert Tips for Optimizing Bar Use</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-site-experience/"><u>Cookiebot-Enhanced Site Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-linux-with-windows-tools/"><u>Enhancing Linux with Windows Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expedite-word-clarity-with-windows-11-help/"><u>Expedite Word Clarity with Windows 11 Help</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-elevate-taskmanager-with-a-new-cli-tab-windows-11/"><u>How to Elevate TaskManager with a New CLI Tab (Windows 11)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-c12-plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia C12 Plus via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-edge-40-neo-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Edge 40 Neo? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719336383556-mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-identify-non-recognized-usb-devices-on-win-11/"><u>Steps to Identify Non-Recognized USB Devices on Win 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-13-best-free-dvd-player-software-compatible-with-windows-11/"><u>Top 13 Best Free DVD Player Software Compatible with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-optional-windows-extras-in-7-steps/"><u>Troubleshooting Missing Optional Windows Extras in 7 Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-are-gaming-iems-and-are-they-any-good/"><u>What Are Gaming IEMs and Are They Any Good?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/jpg-pef/"><u>무료 JPG 페이로드를 PEF으로 바꾸기: 모바비의오라인 도구</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-opening-and-managing-srt-files-seamlessly/"><u>[Updated] 2024 Approved Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-6-affordable-high-definition-projectors/"><u>2024 Approved Best 6 Affordable High-Definition Projectors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-data-entry-mastering-flash-fill-and-auto-fill-in-microsoft-excel/"><u>Effortless Data Entry: Mastering Flash Fill & Auto Fill in Microsoft Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-techniques-to-craft-stunning-bubble-charts-using-excel/"><u>Effortless Techniques to Craft Stunning Bubble Charts Using Excel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/funimate-insiders-path-to-flawless-downloads-for-2024/"><u>Funimate Insider's Path to Flawless Downloads for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-officejet-pro-8610-drivers-optimized-for-all-windows-users-windows-11-to-xp/"><u>Get Updated HP Officejet Pro 8610 Drivers: Optimized for All Windows Users (Windows 11 to XP)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mac-avchdmkvwmvmp4-mac/"><u>Mac電腦支援轉檔 AVCHD/MKV/WMV/MP4 - 最佳方便無黑客化 Mac傳輸工具選</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-excel-with-essential-hotkey-techniques-and-tips/"><u>Mastering Microsoft Excel with Essential Hotkey Techniques and Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-excels-match-formula-for-efficiently-finding-cell-values-and-their-rows/"><u>Mastering Microsoft Excel's MATCH Formula for Efficiently Finding Cell Values and Their Rows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-excels-initial-spreadsheet-setup-tips-for-changing-the-standard-numbers-at-launch/"><u>Modify Excel's Initial Spreadsheet Setup: Tips for Changing the Standard Numbers at Launch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
 </ul></div>
 

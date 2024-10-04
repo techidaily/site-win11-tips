@@ -1,7 +1,7 @@
 ---
 title: The Economics of Windows 11 for Microsoft
-date: 2024-09-16T07:09:01.690Z
-updated: 2024-09-22T06:20:27.197Z
+date: 2024-09-28T00:04:42.516Z
+updated: 2024-10-03T16:01:22.284Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
 ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
@@ -62,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
@@ -84,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
 
@@ -104,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
  Microsoft shows all this sponsored content on the search page because the company was paid to do so. Microsoft's Bing Chat chatbot also displays sponsored content in its responses, thus increasing the company's overall revenue.
 
  Since Bing is well integrated into Windows 11, it is easier for Microsoft to get more people to use their search in some way or the other. The more Bing can increase its user base, the more revenue it will earn by displaying sponsored content on its page. Overall, search remains an important focus area for Microsoft to make money in Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft's Revenue Sources Are Diverse in Windows 11
 
@@ -119,5 +139,22 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sprightly-spirits-top-kid-approved-games-in-2024/"><u>[New] Sprightly Spirits Top Kid-Approved Games, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-macs-best-picks-elite-4k-monitor-showdown-for-2024/"><u>[Updated] Mac's Best Picks Elite 4K Monitor Showdown for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-discovering-8-honestly-endorsed-promotional-strategies/"><u>2024 Approved Discovering 8 Honestly-Endorsed Promotional Strategies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-never-turns-off-on-windows-11-fix/"><u>Bluetooth Never Turns Off on Windows 11 [Fix]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combining-gmail-and-outlook-on-pc-easy-steps-included/"><u>Combining Gmail & Outlook on PC: Easy Steps Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-with-startup-applications/"><u>Enhancing Taskbar with Startup Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/from-stationary-to-mobile-your-guide-to-win-11s-wi-fi-hotspot/"><u>From Stationary to Mobile: Your Guide to Win 11'S Wi-Fi Hotspot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-elevate-your-workflow-upgrade-virtualbox-to-version-70-for-w11-users/"><u>How To Elevate Your Workflow: Upgrade VirtualBox to Version 7.0 for W11 Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-beam-into-collaborative-spaces-within-tiktok/"><u>In 2024, Beam Into Collaborative Spaces Within TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-sea-of-saving-and-restoring-sticky-notes/"><u>Navigating the Sea of Saving and Restoring Sticky Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-failed-application-setup-on-microsoft-store/"><u>Navigating Through Failed Application Setup on Microsoft Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-computing-evolves-starfives-jh7110-soc-board-with-deepcomputing-and-framework-utilizes-advanced-risc-v-architecture/"><u>Next-Gen Computing Evolves: StarFive's JH7110 SoC Board with DeepComputing and Framework Utilizes Advanced RISC-V Architecture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-and-simple-guide-to-sticky-notes-in-win11/"><u>The Quick and Simple Guide to Sticky Notes in Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-x50i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor X50i to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-tech-mysteries-hardware-ids-in-windows-os/"><u>Unraveling Tech Mysteries: Hardware IDs in Windows OS</u></a></li>
+</ul></div>
 

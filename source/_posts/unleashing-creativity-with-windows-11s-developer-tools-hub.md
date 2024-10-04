@@ -1,7 +1,7 @@
 ---
 title: Unleashing Creativity with Windows 11'S Developer Tools Hub
-date: 2024-09-21T18:04:28.828Z
-updated: 2024-09-28T18:06:54.950Z
+date: 2024-10-01T16:03:15.874Z
+updated: 2024-10-03T21:39:40.626Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  As a developer using Dev Home, you no longer need to constantly switch between different apps, navigate to the relevant file system directories repeatedly, and juggle multiple sign-in identities to get the job done.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Dev Drive on Windows 11
@@ -59,27 +53,28 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 1. Navigate to **Settings > Storage > Advanced Storage Settings > Disks & volumes**, and select **Create Dev Drive**. Alternatively, you can also launch **Dev Home** and choose **Create Dev Drive**.  
 ![create dev drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-create-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
 
@@ -88,10 +83,10 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Dream Developer PC With Windows 11
@@ -100,29 +95,6 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srts-most-effective-upgrades-for-macwindows/"><u>[New] SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-basics-of-zoom-group-divisions-unveiled/"><u>[Updated] 2024 Approved Basics of Zoom Group Divisions Unveiled</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/apples-trending-app-in-157-countries/"><u>Apple's Trending App in 157 Countries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beware-deception-secrets-to-identifying-genuine-windows-store-apps/"><u>Beware Deception: Secrets to Identifying Genuine Windows Store Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-ms-teams-error-80080300-fixes-for-w11-users/"><u>Breaking Down MS Teams Error 80080300: Fixes for W11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaming-smoother-with-warhammer-40k-on-windows-no-more-stutters/"><u>Gaming Smoother with Warhammer 40K on Windows, No More Stutters</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-android-flip-digital-content-sequence/"><u>In 2024, Master Android Flip Digital Content Sequence</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-transforming-youtube-sounds-into-high-quality-wav-files/"><u>In 2024, Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y17s-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y17s Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-science-of-storage-sizing-in-windows-through-powershell/"><u>Mastering the Science of Storage Sizing in Windows Through Powershell</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-restoring-standard-user-permissions/"><u>Mastering Windows 11: Restoring Standard User Permissions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mp4-video-trimming-made-easy-top-free-tools/"><u>New 2024 Approved MP4 Video Trimming Made Easy Top Free Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-revealed-uncovering-great-indie-games/"><u>Secrets Revealed: Uncovering Great Indie Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silence-missed-specification-alert-on-windows-11/"><u>Silence Missed Specification Alert on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-vintage-gaming-journey-integrating-trophies-via-retroarch/"><u>Transform Your Vintage Gaming Journey: Integrating Trophies via Retroarch</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +102,23 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-dive-into-direct-messaging-and-video-chats-in-under-a-minute/"><u>[Updated] 2024 Approved How to Dive Into Direct Messaging & Video Chats in Under a Minute</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-directing-your-podcast-to-itunes-stores/"><u>[Updated] Directing Your Podcast to iTunes Stores</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-and-save-periscope-videos-with-these-tips/"><u>[Updated] Secure & Save Periscope Videos with These Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-watermark-instagram-photos/"><u>2024 Approved How to Watermark Instagram Photos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-integrating-playlist-videos-from-youtube-on-websites/"><u>2024 Approved Integrating Playlist Videos From YouTube on Websites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-slate-executing-a-clean-boot-in-windows-11/"><u>Clearing the Slate: Executing a Clean Boot in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-concurrent-archive-decompression-in-a-digital-age/"><u>Mastering Concurrent Archive Decompression in a Digital Age</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpos-on-user-profiles-in-windows-11-and-11/"><u>Mastering GPOs on User Profiles in Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-errors-when-attempting-to-login-to-battlenet/"><u>Overcoming Errors When Attempting to Login to Battle.net</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-text-display-error-w11s-msresource-challenge/"><u>Overcoming Text Display Error: W11's MsResource Challenge</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g84-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G84 5G has been deleted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-navigation-window-11-power-user-guide/"><u>Simplify Navigation: Window 11 Power User Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbocharge-ssds-syncing-ssd-fresh-and-windows/"><u>Turbocharge SSDs: Syncing SSD Fresh & Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-of-srt-to-sub-transition/"><u>Unlocking the Secrets of SRT-to-SUB Transition</u></a></li>
+</ul></div>
+

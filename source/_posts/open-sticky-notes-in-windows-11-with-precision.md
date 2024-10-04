@@ -1,7 +1,7 @@
 ---
 title: Open Sticky Notes in Windows 11 with Precision
-date: 2024-09-25T18:33:38.937Z
-updated: 2024-09-28T17:58:40.279Z
+date: 2024-09-30T17:48:34.315Z
+updated: 2024-10-04T01:25:19.493Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
  Now that you know what a sticky note is, let's see how to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Open Sticky Notes via Windows Search
 
  It's likely that you have used the search function on Windows to find a file or launch an application. But did you know that Sticky Notes can also be opened using Windows Search? Here's how to do this:
@@ -50,25 +43,11 @@ To open Sticky Notes using the Windows Search tool, do the following:
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
 2. Then type "Sticky Notes" into the search bar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
 
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
 
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
 
@@ -79,6 +58,20 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on the**Start** button and then select**All apps** from the menu in the upper right corner.  
 ![Open Sticky Notes Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Run-Command.jpg)
 2. Scroll down until you see**Sticky Notes** , then click to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
@@ -92,6 +85,13 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Pin Sticky Notes to the Taskbar
 
  If you're looking for an easy way to keep track of your sticky notes, try pinning them to the taskbar in Windows 11\. Here's how to do this:
@@ -101,16 +101,10 @@ To open Sticky Notes from the Start Menu, follow these steps:
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can access your sticky notes right from the taskbar.
@@ -134,24 +128,17 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-core-principles-of-crafting-convincing-video-endorsements/"><u>[Updated] Core Principles of Crafting Convincing Video Endorsements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-next-level-broadcast-software-showdown-with-obs/"><u>[Updated] In 2024, Next-Level Broadcast Software Showdown with OBS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-drive-space-recognizing-the-leviathans-in-windows-pcs/"><u>Declutter Drive Space: Recognizing the Leviathans in Windows PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/efficient-ways-to-download-and-store-youtube-like-tweet-videos-for-2024/"><u>Efficient Ways to Download and Store YouTube-Like Tweet Videos for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-rejuvenating-your-logitech-m310-mouse-through-driver-update/"><u>Guide to Rejuvenating Your Logitech M310 Mouse Through Driver Update</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/invisible-culprits-affecting-windows-11s-efficiency/"><u>Invisible Culprits Affecting Windows 11'S Efficiency</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-the-world-of-videomosaic-androids-8-freepaid-selection-for-2024/"><u>Navigating the World of Videomosaic Android's #8-Free/Paid Selection for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fifa-21s-unsuccessful-boot-dilemma-a-solution-found/"><u>Overcoming FIFA 21'S Unsuccessful Boot Dilemma: A Solution Found</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-perfection-on-iphones-and-androids-blurring-basics/"><u>Photo Perfection on iPhones & Androids Blurring Basics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-blue-screens-resulting-from-wins-intruder-exception/"><u>Quick Fixes for Blue Screens Resulting From Win's Intruder Exception</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaiming-missing-power-configurations-in-win-11-os/"><u>Reclaiming Missing Power Configurations in Win 11 OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seize-the-deal-unmissable-black-friday-612-win10/"><u>Seize the Deal: Unmissable Black Friday - $6.12 Win10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-malfunctioning-office-notification-system/"><u>Solving Malfunctioning Office Notification System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-for-successful-intel-lan-setup-on-vista/"><u>The Essentials for Successful Intel LAN Setup on Vista</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-utilizing-chatgpt-for-your-text-summaries-needs/"><u>The Pitfalls of Utilizing ChatGPT for Your Text Summaries Needs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-battlenet-not-available-errors-on-win-1011/"><u>Tips for Resolving Battle.net Not Available Errors on Win 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secure-boot-status-a-windows-bios-solution-manual/"><u>Unlocking Secure Boot Status: A Windows BIOS Solution Manual</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leading-mp4-to-facebook-mover/"><u>[Updated] 2024 Approved Leading MP4 to Facebook Mover</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>[Updated] Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-captivating-audiences-on-tiktok-by-blending-sound-and-sight/"><u>[Updated] In 2024, Captivating Audiences on TikTok by Blending Sound and Sight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-spark-10-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Spark 10 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-stubborn-epic-launcher-on-windows-11-pcs-guide/"><u>Disabling Stubborn Epic Launcher on Windows 11 PCs: Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Magic Vs 2 FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>In 2024, Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-20-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 20 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-keyboard-gurus-guide-to-windows-photos/"><u>The Keyboard Guru's Guide to Windows Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solutions-to-stop-your-pc-from-continuously-crashing/"><u>Ultimate Guide: Solutions to Stop Your PC From Continuously Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-print-management-interface/"><u>Unveiling Windows Print Management Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-the-battle-against-disk-read-failures/"><u>Winning the Battle Against Disk Read Failures</u></a></li>
 </ul></div>
 

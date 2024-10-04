@@ -1,7 +1,7 @@
 ---
 title: "Windows Under Siege: How to Spot and Expel Wacatac.B!ml Trojan"
-date: 2024-09-22T18:20:57.070Z
-updated: 2024-09-28T19:03:04.775Z
+date: 2024-10-03T00:15:11.035Z
+updated: 2024-10-03T16:08:12.145Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  Considering that, you should remove it immediately. Even Microsoft Defender warns you of its dangers in its warning message and urges you to act immediately. It raises the question; how did it get on your computer?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Did the Wacatac.B!ml Trojan Get Into Your PC?
 
  To comprehend how the Wacatac Trojan has infiltrated your PC, ask yourself the following questions:
@@ -59,6 +52,20 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 1. Visit the[VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
 ![clicking on the choose file button on the VirusTotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-on-the-choose-file-button-on-the-virus-total-official-website.jpg)
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
 3. Select the infected file and upload it.  
 ![Uploading the infected file on the VirusTotal official website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uploading-the-infected-file-on-the-virus-total-official-website.jpg)
@@ -66,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  If the scan turns up clean, it's probably a false alarm. However, whether the file is clean or the scan detects Trojans or malware, it's best to scan and remove them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove the Wacatac.B!ml Trojan From Your Device
 
  If you are sure that the Wacatac threat isn't a false positive and just want to be sure that your device isn't infected or the scan reveals that the file you've scanned is infected, you should take the following steps:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Delete the Infected File
 
@@ -87,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  If the file in which Windows Defender finds a threat is a Windows operating system file, you should be cautious before deleting it. Otherwise, it could make your computer unbootable.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove the Threat Manually
@@ -106,17 +120,17 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![Clicking on Protection History Option Under Virus & Threat Protection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Clicking-on-Protection-History-Option-Under-Virus--Threat-Protection-in-Windows-Settings-App.jpg)
 6. Click on the Wacatac's threat.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Open the**Actions** dropdown and select**Remove** .  
 ![Removing the Wacatac’s Threat by Clicking on Remove Button in the Actions Dropdown in Protection History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Removing-the-Wacatac’s-Threat-by-Clicking-on-Remove-Button-in-the-Actions-Dropdown-in-Protection-History.jpg)
 
  Run the scan again. If it doesn't remove the threat, follow the same steps and choose**Quarantine** from the**Actions** dropdown. This will prevent further virus spread. Next, move on to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan in Safe Mode
 
@@ -125,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  Afterward, you should[run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
 
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Your Operating System
 
@@ -152,14 +159,14 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 4. Hit**Enter** .  
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
- If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
 
 ## Protect Your Privacy From the Wacatac Trojan
 
@@ -180,17 +187,16 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-free-software-showdown-for-premium-audio-capture-tools/"><u>[New] In 2024, Free Software Showdown for Premium Audio Capture Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-most-effective-5-image-editing-programs-on-iphone-x-7-8/"><u>[New] Most Effective 5 Image Editing Programs on iPhone (X, 7, 8)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-increasing-clarity-with-enhanced-youtube-videos/"><u>[Updated] Increasing Clarity with Enhanced YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-together-leading-vr-accessories/"><u>2024 Approved Pushing Boundaries Together Leading VR Accessories</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-governance-matters-ceo-of-openai-speaks-out/"><u>AI Governance Matters: CEO of OpenAI Speaks Out</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-valorants-audio-sync-on-microsoft-devices/"><u>Correcting Valorant's Audio Sync on Microsoft Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/curing-the-malfunction-of-inability-to-properly-shut-down-windows-10-and-ending-up-in-a-restart-loop/"><u>Curing the Malfunction of Inability to Properly Shut Down Windows 10 and Ending Up in a Restart Loop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-setting-up-a-taskbar-on-windows-11-tablets/"><u>Guide to Setting Up a Taskbar on Windows 11 Tablets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-full-application-evaluation-through-az-video-logger/"><u>In 2024, Full Application Evaluation Through AZ Video Logger</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-relaxation-at-your-fingertips-games-you-love/"><u>In 2024, Relaxation at Your Fingertips Games You Love</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-rockalldlldll-disappearance-issue-windows/"><u>Rectifying Rockalldll.dll Disappearance Issue (Windows)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unified-tech-experience-windows-pc-and-galaxy-device-flow/"><u>Unified Tech Experience – Windows PC & Galaxy Device Flow</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-eliminate-jitters-stabilizing-techniques-for-gopro-video/"><u>[New] Eliminate Jitters Stabilizing Techniques for GoPro Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-power-of-animation-infusing-life-into-your-ig-story-texts/"><u>[New] Unlock the Power of Animation Infusing Life Into Your IG Story Texts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-diving-into-action-how-to-shoot-impressive-underwater-gopro-videos/"><u>2024 Approved Diving Into Action How to Shoot Impressive Underwater GoPro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-qr-scanning-in-the-windows-arena/"><u>Demystifying QR Scanning in the Windows Arena</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-the-missing-piece-reviving-windows-11s-lost-bluetooth/"><u>Fix the Missing Piece: Reviving Windows 11'S Lost Bluetooth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-disconnect-from-cortana-a-comprehensive-walkthrough-for-windows-tenth-users/"><u>How to Disconnect From Cortana: A Comprehensive Walkthrough for Windows Tenth Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-animation-tools-for-schools/"><u>New In 2024, The Ultimate List of Animation Tools for Schools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-xbox-app-store-crash-fixing-error-0x80073d26/"><u>Overcome Xbox App Store Crash: Fixing Error 0X80073D26</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-perplexing-problem-of-windowss-c0000005/"><u>Overcoming the Perplexing Problem of Windows's C0000005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-picks-for-play-best-fps-counter-applications-on-your-windows-11-system/"><u>Prime Picks for Play: Best FPS Counter Applications on Your Windows 11 System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-enhancing-your-half-life-alyx-gaming-experience-by-reducing-lag-and-stutter-issues/"><u>Ultimate Guide to Enhancing Your Half-Life: Alyx Gaming Experience by Reducing Lag & Stutter Issues</u></a></li>
 </ul></div>
 

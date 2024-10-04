@@ -1,7 +1,7 @@
 ---
 title: "Overview: Reverting Custom Energy Settings in WIndows"
-date: 2024-09-20T05:15:02.845Z
-updated: 2024-09-22T02:18:25.633Z
+date: 2024-10-02T01:22:38.570Z
+updated: 2024-10-03T23:28:29.138Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  If you are looking for a way to swiftly switch between power plans, don't miss our guide on the best [ways to change power plans on Windows](https://www.makeuseof.com/windows-11-change-power-plan/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reset Power Plans to Default With Command Prompt or Windows PowerShell
 
  While the Control Panel makes it simple to reset a power plan to its default settings, doing so for each power plan individually can be time-consuming. So, what if you want to reset all the power plans to their default settings at once?
@@ -61,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 `powercfg -restoredefaultschemes`  
 ![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that’s about it. Once you run the above command, Windows will reset all the power plans to their default settings. For more such useful commands, why not check our guide on the [most useful CMD commands for Windows](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resetting Windows Power Plans to Default Settings
 
@@ -71,8 +92,6 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  Whether you want to troubleshoot power-related issues or simply start afresh, resetting power plans on your Windows 10 or 11 PC is fairly straightforward. There are a couple of ways you can go about this. Let’s go through them one at a time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -81,10 +100,21 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
       data-full-width-responsive="true"></ins>
     
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-mcb-video-graphics-pack-for-youtube-channels/"><u>[New] MCB Video Graphics Pack for YouTube Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-solutions-for-streamlining-windows-display-issues/"><u>5 Solutions for Streamlining Windows Display Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-90-gt-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor 90 GT Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-network-settings-a-guide-for-win11/"><u>Adjust Network Settings: A Guide for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/augment-win11-notepad-with-genius-mentor/"><u>Augment Win11 Notepad with Genius Mentor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-persistent-edge-shortcuts/"><u>Avoiding Persistent Edge Shortcuts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-performance-with-these-12-unneeded-windows-programs/"><u>Boost Performance with These 12 Unneeded Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719369137002-conquer-windows-problems-effective-assistance-guide/"><u>Conquer Windows Problems: Effective Assistance Guide!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-viral-vortex-a-guide-to-powerful-social-media-tags/"><u>In 2024, Viral Vortex A Guide to Powerful Social Media Tags</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/light-intensity-in-hdr-scrutinized-beneficial-for-2024/"><u>Light Intensity in HDR Scrutinized Beneficial for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
+</ul></div>
 

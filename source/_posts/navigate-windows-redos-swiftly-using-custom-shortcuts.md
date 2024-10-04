@@ -1,7 +1,7 @@
 ---
 title: Navigate Windows Redos Swiftly Using Custom Shortcuts
-date: 2024-09-27T16:28:18.247Z
-updated: 2024-09-28T17:16:56.020Z
+date: 2024-10-02T22:10:02.604Z
+updated: 2024-10-03T21:34:27.303Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
  Remember, you can't use the redo command without undoing an action first.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Undo on Windows With a Keyboard Shortcut
@@ -54,18 +54,25 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
 
@@ -79,20 +86,13 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
@@ -114,24 +114,22 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-clarity-a-look-at-screensnapelite/"><u>[New] 2024 Approved Capturing Clarity A Look at 'ScreenSnapElite'</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-zooming-ahead-best-practices-for-screenshares/"><u>[New] 2024 Approved Zooming Ahead Best Practices for Screenshares</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[Updated] Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>2024 Approved The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-6-facebook-lite-video-exporters-2023-edition/"><u>2024 Approved Top 6 Facebook Lite Video Exporters - 2023 Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-chrome-clock-error-ahead-or-behind-windows-edition/"><u>Adjusting Chrome Clock Error: Ahead or Behind? (Windows Edition)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boost-viewers-interaction-via-youtube-cards-for-2024/"><u>Boost Viewers Interaction via YouTube Cards for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-system-monitoring-ram-gpu-and-cpu-status-guide/"><u>Efficient System Monitoring: RAM, GPU, and CPU Status Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-note-taking-with-obsidians-artistic-touch/"><u>Elevate Note-Taking with Obsidian's Artistic Touch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-communication-translate-foreign-words-with-hotkeys/"><u>Enhance Communication: Translate Foreign Words with Hotkeys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-message-display-on-discord-desktop/"><u>Fixing Failed Message Display on Discord Desktop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-quick-windows-picture-browser/"><u>In 2024, Unmatched Quick Windows Picture Browser</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-transform-your-footage-pro-quality-movies-made-easy/"><u>New Transform Your Footage Pro-Quality Movies Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-window-11-mails-default-html-settings-for-clarity/"><u>Overhauling Window 11 Mail's Default HTML Settings for Clarity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-rise-of-autonomous-computing-with-windows/"><u>The Rise of Autonomous Computing with Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-places-for-accessing-gratis-graphics/"><u>Top 10 Places for Accessing Gratis Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-windows-tips-top-20-cmd-commands/"><u>Transformative Windows Tips: Top 20 CMD Commands</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-best-5-gopro-filters-for-underwater-video-shooting/"><u>[New] 2024 Approved Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-channels-aesthetics-free-banners-available/"><u>[New] 2024 Approved Elevate Your Channel's Aesthetics - Free Banners Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-legalities-sharing-vids-on-social-media-platforms/"><u>[New] In 2024, Legalities Sharing Vids on Social Media Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlined-processes-for-crafting-smooth-multi-snap-videos/"><u>[Updated] In 2024, Streamlined Processes for Crafting Smooth Multi-Snap Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boost-your-tech-experience-with-top-text-interpretation-tools-on-mac/"><u>Boost Your Tech Experience with Top Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/dvdcd/"><u>DVDからCDへの変換で音楽鑑賞を向上させる手助け</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-strategies-for-overcoming-error-1152-on-windows-xp10/"><u>Efficient Strategies for Overcoming Error 1152 on Windows XP/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ps1-games-in-win-ultimate-duckstation-hacks/"><u>Mastering PS1 Games in WIN: Ultimate Duckstation Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-and-optimize-powershells-execution-policy-landscape/"><u>Navigate & Optimize PowerShell's Execution Policy Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-365-bug-30015-26-in-windows-computers/"><u>Overcoming Microsoft 365 Bug 30015-26 in Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/spotlight-on-speeding-up-your-pcs-outlook/"><u>Spotlight on Speeding Up Your PC's Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-another-software-using-device-error-in-windows/"><u>Steps to Correct Another Software Using Device Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-with-custom-sizes-on-win11/"><u>Streamlining Windows with Custom Sizes on Win11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-2-methods-for-watching-iso-and-dvd-files-on-your-android-device-without-a-disc-player/"><u>Top 2 Methods for Watching ISO and DVD Files on Your Android Device Without a Disc Player</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978261584-update-your-microsoft-sculpt-keyboard-with-these-step-by-step-instructions/"><u>Update Your Microsoft Sculpt Keyboard with These Step-by-Step Instructions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-legacy-uefi-features/"><u>Upgrading Legacy UEFI Features</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-yuva-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Yuva 2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

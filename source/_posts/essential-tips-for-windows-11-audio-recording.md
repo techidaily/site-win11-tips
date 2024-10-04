@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Windows 11 Audio Recording
-date: 2024-09-14T18:16:25.571Z
-updated: 2024-09-22T03:17:14.408Z
+date: 2024-09-28T00:13:11.076Z
+updated: 2024-10-03T22:58:41.165Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  There are a couple of different ways you can go about recording your audio in Windows 11\. You can either use the built-in Sound Recorder app or a [third-party app like Audacity to record audio](https://www.makeuseof.com/tag/6-awesome-alternatives-to-audacity-for-recording-and-editing-audio/) using your PC’s microphone. Here's how.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Record Your Audio Using the Sound Recorder App
 
  The Sound Recorder app is simple to use and can record audio in a variety of popular formats, including MP3, M4A, WAV, FLAC, and WMA. Open the Sound Recorder app from the search menu and select your preferred audio input device using the drop-down menu in the bottom left corner.
@@ -49,7 +56,21 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Record the Sound Coming From Your Windows 11 PC
 
@@ -65,26 +86,13 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 6. Hit **Apply** followed by **OK** to save changes.  
 ![Set Stereo Mix as Default Device on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-stereo-mix-as-default-device-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Record Your Audio on Windows
@@ -93,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -102,3 +108,20 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[New] In 2024, 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-visual-brilliance-top-11-videos-on-color-techniques/"><u>[New] Unlock Visual Brilliance Top 11 Videos on Color Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-images-techniques-in-color-science/"><u>2024 Approved Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-stuck-windows-applications/"><u>Breathe Life Back Into Stuck Windows Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-network-prompts-for-seamless-connections/"><u>Bridging Gaps in Network Prompts for Seamless Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-using-samsung-flow-for-device-synergy/"><u>Bridging Gaps: Using Samsung Flow for Device Synergy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-generations-of-tech-moving-software-from-previous-windows/"><u>Bridging Generations of Tech: Moving Software From Previous Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-lost-ctrl-operability-with-these-tips-for-windows-11/"><u>Bring Back Lost Ctrl Operability with These Tips for Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/efficiently-priced-flight-machines-affordable-drones-list/"><u>Efficiently Priced Flight Machines Affordable Drones List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-id-cooling-fx360-pro-is-your-best-bet-for-adequate-cooling-under-60/"><u>Why the ID-Cooling FX360 Pro Is Your Best Bet for Adequate Cooling Under $60</u></a></li>
+</ul></div>
+

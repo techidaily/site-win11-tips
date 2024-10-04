@@ -1,7 +1,7 @@
 ---
 title: Steps to Turn Batch Files Into Powerful Windows EXEs
-date: 2024-09-25T16:31:28.876Z
-updated: 2024-09-28T17:20:54.424Z
+date: 2024-09-27T17:17:05.300Z
+updated: 2024-10-04T00:44:55.629Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
  Now, there are two broad ways to go about it. First, you can rely on a handy converter and let it convert your BAT files to EXE file. But, if you’re more of a do-it-yourself person, you can also go the manual way. Let’s dive into using the in-built Windows tool first.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Convert Your Batch Files to EXE with IExpress
 
 [IExpress](https://en.wikipedia.org/wiki/IExpress) is a free Windows program, in use since Windows 2000, specifically designed to create self-extracted packages. This is what makes it super handy for converting your Batch (BAT) files into EXE ones as well.
@@ -42,6 +49,14 @@ To launch the IExpress app, follow the steps below:
 4. Enter a name for the**Package** **title** and hit**Next** again.  
 ![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
 5. Select**No prompt** and hit**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Do not display** **a license** and click on**Next** .
 7. Click on**Add** to select the batch script you want to convert, and click on the**Next** button.
 8. From the**Install Program** field, type in the following command and hit**Next** :  
@@ -49,28 +64,28 @@ cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
 
  Stick with the default option in the**Show window** and**Finished message** menu, and click**Next** . Now, in the**Package Name and Options** menu, select**Browse** to pick a target path, name the file anything you’d like, and click on**Next** . In the following few pages, click on**Next** without changing anything.
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert Batch Files to EXE With a Converter
@@ -86,21 +101,7 @@ cmd /c Calculator.bat
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Converting Batch Files to EXEs on Windows
 
@@ -121,19 +122,17 @@ cmd /c Calculator.bat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[New] Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pioneering-visual-communication-with-premiere-written-by-jane-smith-expert-in-digital-artistry-for-2024/"><u>[New] Pioneering Visual Communication with Premiere' Written by Jane Smith, Expert in Digital Artistry for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dazzle-with-directors-lighting-tips-for-captivating-clips/"><u>[Updated] 2024 Approved Dazzle with Directors' Lighting Tips for Captivating Clips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-10-best-webcam-covers-and-stickers/"><u>[Updated] 2024 Approved Top 10 Best Webcam Covers & Stickers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-enhancing-streaming-quality-using-obs-plus-zoom/"><u>[Updated] In 2024, Enhancing Streaming Quality Using OBS + Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-extra-footage-a-guide-to-b-roll-utilization/"><u>2024 Approved Leveraging Extra Footage A Guide to B Roll Utilization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/4k-brilliance-top-tips-for-selecting-a-superior-monitor-for-2024/"><u>4K Brilliance Top Tips for Selecting a Superior Monitor for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-bygone-era-to-future-tech-using-windows-7-key-in-11-setup/"><u>From Bygone Era to Future Tech: Using Windows 7 Key in 11 Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-manual-timezone-setting-in-microsoft-os/"><u>Troubleshoot Manual Timezone Setting in Microsoft OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-setup-guide-for-steam-deck-owners/"><u>Windows Setup Guide for Steam Deck Owners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-undoing-your-yt-playback-sequence/"><u>[New] The Ultimate Guide Undoing Your YT Playback Sequence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[Updated] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-guide-to-top-8-android-collaboration-platforms-for-2024/"><u>[Updated] Ultimate Guide to Top 8 Android Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-instructions-on-handling-and-repairing-a-504-gateway-delay/"><u>Clear Instructions on Handling and Repairing a 504 Gateway Delay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-0x8007251d-activation-issue-in-windows-os/"><u>Fixing the 0X8007251D Activation Issue in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-managed-settings-failures-due-to-org-policies/"><u>Fixing Windows 11: Managed Settings Failures Due to Org Policies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-solve-apex-legends-crashes-in-win11/"><u>How to Stop and Solve Apex Legends Crashes in Win11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-editing-app-can-inspire-your-children-to-make-short-moviesin-this-article-you-will-learn-more-about-some-best-video-editing-apps-for-kids-and-deci/"><u>New Video Editing App Can Inspire Your Children to Make Short Movies,in This Article, You Will Learn More About some Best Video Editing Apps for Kids and Decide Which Video Editing App Is the Right Choice for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-v27-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from V27</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-video-broadcast-software-choice-for-2024/"><u>Prime Video Broadcast Software Choice for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-0x00709-error-on-pc/"><u>Steps to Rectify 0X00709 Error on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-patches-without-wi-fi/"><u>Streamlining Windows Patches Without Wi-Fi</u></a></li>
 </ul></div>
 

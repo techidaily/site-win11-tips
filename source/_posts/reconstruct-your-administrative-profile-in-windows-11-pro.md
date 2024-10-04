@@ -1,7 +1,7 @@
 ---
 title: Reconstruct Your Administrative Profile in Windows 11 Pro
-date: 2024-09-23T19:04:15.333Z
-updated: 2024-09-28T18:57:23.768Z
+date: 2024-09-29T18:11:00.042Z
+updated: 2024-10-03T21:18:18.542Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Your Microsoft account administrator name has been successfully changed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Administrator Name Through Control Panel
@@ -60,14 +60,15 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 3. On the right side of the page, click the**Change your account name** link.  
 ![Change your account name in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-your-account-name-in-control-panel.jpg)
 4. Enter the new name and click**Change Name** .  
-![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
 
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Change the Administrator Name Through Run Command
@@ -103,16 +104,17 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 3. Select the Microsoft account you want to change and click**Properties** .  
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
 4. Under the**General** tab, enter the new name in the**Full Name** field.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** to save the changes.
 
 Your Microsoft account administrator name is now changed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make a Change to Your Windows Admin Name
 
@@ -133,24 +135,22 @@ Your Microsoft account administrator name is now changed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>[New] In 2024, Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-night-snap-strategies-unveiled/"><u>[New] IPhone Night Snap Strategies Unveiled</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/trategic-approaches-for-creating-impactful-youtubes-finality-for-2024/"><u>[New] Strategic Approaches for Creating Impactful Youtubes' Finality for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-break-free-from-linearity-mastering-jump-cut-transitions/"><u>[Updated] In 2024, Break Free From Linearity Mastering Jump Cut Transitions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-pace-in-windows-11-overcome-keyboard-latency/"><u>Boost Your Typing Pace in Windows 11: Overcome Keyboard Latency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/editing-directory-names-for-users-in-windows-11-edition/"><u>Editing Directory Names for Users in Windows 11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-microphone-errors-during-valorant-matches/"><u>Eliminating Microphone Errors During Valorant Matches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-the-netatmo-smart-weather-station-for-connectivity-conscious-consumers/"><u>Exploring the Features of the Netatmo Smart Weather Station for Connectivity-Conscious Consumers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-and-play-solutions-for-when-monster-hunter-rise-stays-silent/"><u>Fix and Play: Solutions for When Monster Hunter Rise Stays Silent</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guard-against-risks-of-custom-gpts-a-guide-to-protect-your-information-when-using-platforms-like-chatgpt/"><u>Guard Against Risks of Custom GPTs: A Guide to Protect Your Information When Using Platforms Like ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-captcha-failed-message/"><u>Guide to Fixing CAPTCHA Failed Message</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-actions-your-guide-to-repairing-windows-software-glitches/"><u>Immediate Actions: Your Guide to Repairing Windows Software Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-tyranny-of-inconsistent-colors-in-windows/"><u>Taming the Tyranny of Inconsistent Colors in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-g42-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia G42 5G Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/trimming-down-excessive-cpu-usage-in-windows-hosts/"><u>Trimming Down Excessive CPU Usage in Windows Hosts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-telnet-on-windows-11-systems/"><u>Unlocking Telnet on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-command-center-for-app-and-browser-authority/"><u>Windows Command Center for App and Browser Authority</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-comedy-best-meme-contenders-for-2024/"><u>[New] Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uide-to-securely-copying-youtube-music-tracks-safely-for-2024/"><u>[New] Guide to Securely Copying YouTube Music Tracks Safely for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-time-allocation-mastery-work-and-youtube-synergy/"><u>[New] Time Allocation Mastery Work & YouTube Synergy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-tiktok-broadcasts-with-zoom-protocols/"><u>2024 Approved Seamless TikTok Broadcasts with Zoom Protocols</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-youtube-keyword-research-made-easy/"><u>2024 Approved The Ultimate Guide YouTube Keyword Research Made Easy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hiding-the-language-indicator-in-a-smokescreen-on-win11/"><u>Hiding the Language Indicator in a Smokescreen on Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-requires-privilege-error-error-0x80070522-on-pcs/"><u>How To Address the “Requires Privilege” Error (Error 0X80070522) on PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-10-best-offline-android-games-you-can-find/"><u>In 2024, Top 10 Best Offline Android Games You Can Find</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/map-out-windows-location-for-snaps/"><u>Map Out Windows Location for Snaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-uninstalling-and-reinstalling-store-games/"><u>Overcoming Challenges: Uninstalling and Reinstalling Store Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-control-command-efficiency-on-windows-11/"><u>Reclaiming Control Command Efficiency on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-create-file-failed-with-code-32-in-windows-error-30005/"><u>Resolving Create File Failed With Code 32 in Windows Error 30005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-invalid-network-path/"><u>Resolving Windows Error: Invalid Network Path</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-fix-proc-invocation-failures-in-malwarebytes-software/"><u>Strategies to Fix Proc Invocation Failures in Malwarebytes Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/superficiel-dencodeur-video-h265-le-top-convertisseur-hevc-pour-mac-et-pc-solution-securisee/"><u>Superficiel D'encodeur Vidéo H.265 : Le Top Convertisseur HEVC Pour Mac Et PC - Solution Sécurisée</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Add or Remove the “Run as Different User” Option to Start on Windows 11
-date: 2024-09-21T06:05:18.328Z
-updated: 2024-09-22T04:27:00.665Z
+date: 2024-09-26T22:15:58.377Z
+updated: 2024-10-03T19:52:16.851Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![The Show Run as different user command on Start policy in the Local Group Policy Editor on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-as-different-user-policy-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To add **Run as different user** to the context menu in Start, set the radio button to **Enabled** and click **OK** to apply the changes. If you want to remove the option, set the radio button to **Not Configured** or **Disabled** instead.
 
 ![Editing the Show Run as different user command on Start policy in the Local Group Policy Editor on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-run-as-different-user-policy-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that user profile won’t be able to use the **Run as different user** optionin the Start menu**.**
 
@@ -59,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![run-as-different-user-value-current-user-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-as-different-user-value-current-user-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to add or remove the option for all users, head to the following key: **HKEY\_LOCAL\_MACHINE > SOFTWARE > Policies > Microsoft > Windows > Explorer**.
 
 ![run-as-different-user-value-all-users-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-as-different-user-value-all-users-windows.jpg)
@@ -67,18 +88,18 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![new-dword-explorer-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-dword-explorer-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, double-click the **ShowRunAsDifferentUserInStart** value to edit it.To add the **Run as different user** option in the Start menu, set **Value Data** to **1**.
 
 ![edit-showrunasdifferentuserinstart-value-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-showrunasdifferentuserinstart-value-windows.jpg)
 
  To remove it, set **Value data** to **0**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Access to the “Run as Different User” Option in the Start Menu
 
@@ -96,5 +117,21 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-windows-10-display-too-big/"><u>[SOLVED] Windows 10 Display Too Big</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pioneering-non-udemy-virtual-classrooms-for-learning-for-2024/"><u>[Updated] Pioneering Non-Udemy Virtual Classrooms for Learning for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-creation-of-gamers-channel-graphics/"><u>2024 Approved Step-By-Step Creation of Gamers' Channel Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-into-intel-graphic-upgrades-for-underperforming-pcs/"><u>Easing Into Intel Graphic Upgrades for Underperforming PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-a-broken-snipping-feature-in-windows-operating-systems-including-windows-11-edition/"><u>Fixing a Broken Snipping Feature in Windows Operating Systems, Including Windows 11 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/genius-widecam-f100-review-pixelated-image-and-echoing-sound/"><u>Genius WideCam F100 Review: Pixelated Image and Echoing Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-effortlessly-adjust-your-software-size-with-windows-11-keys/"><u>How to Effortlessly Adjust Your Software Size with Windows 11 Keys</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-historical-directx-titles-through-enhanced-dxvk-performance/"><u>Refreshing Historical DirectX Titles Through Enhanced DXVK Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-settings-for-steam-libraries-on-win-11-pcs/"><u>Removing Read-Only Settings for Steam Libraries on Win 11 PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/slow-motion-magic-a-complete-appraisal-of-2024-edition/"><u>Slow Motion Magic A Complete Appraisal of 2024 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-the-disabled-recycle-icon-on-win11/"><u>Unblocking the Disabled Recycle Icon on Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/guide-to-making-millions-on-youtube-from-novice-to-big-earnings/"><u>Your Guide to Making Millions on YouTube From Novice to Big Earnings</u></a></li>
+</ul></div>
 

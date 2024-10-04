@@ -1,7 +1,7 @@
 ---
 title: Navigating Lack of Router Interface Access on PC
-date: 2024-09-26T16:51:12.254Z
-updated: 2024-09-28T17:07:56.759Z
+date: 2024-09-29T01:36:31.559Z
+updated: 2024-10-04T00:18:53.444Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 * Not accessing the router’s login page over a secure HTTP protocol.
 * Temporary glitches with router settings and firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access the Login Page Over HTTPS
 
  By default, your browser uses HTTP (Hypertext Transfer Protocol) to access the login page. However, some routers' login page is only accessible when you use the secure version of HTTP, that is, Hypertext Transfer Protocol Secure(HTTPS). Before you try anything, check if you can access the router’s login page using HTTPS followed by the IP address. To do this:
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 1. Open your browser and type the following, and press Enter:  
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Verify if the IP Address Is Correct
 
@@ -75,9 +75,30 @@ To find your Default Gateway IP address for the router:
 2. Open the**Privacy and Security** tab in the left pane.  
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
@@ -93,13 +114,6 @@ To find your Default Gateway IP address for the router:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 6. Right-click on your**Ethernet adapter** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
@@ -114,10 +128,10 @@ To find your Default Gateway IP address for the router:
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
@@ -129,13 +143,6 @@ To disable Invisibility on LAN on NordVPN:
 3. Next, toggle the**Invisibility on the LAN** switch to turn it off.
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reset Your Router to Its Factory Defaults
 
  If you can’t reach the login page, check if your router is acting up. Temporary issues with the router can be fixed with a quick restart. If that doesn’t work, you can perform a factory reset to restore your router to its default settings.
@@ -145,10 +152,10 @@ To disable Invisibility on LAN on NordVPN:
  If the issue persists, consider[updating your router firmware](https://www.makeuseof.com/easy-guide-updating-router-firmware/) to add new features, performance improvements, and also any bug fixes causing the router to act up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Troubleshoot a Non-Accessible Router Login Page on Windows
@@ -170,17 +177,17 @@ To disable Invisibility on LAN on NordVPN:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/banish-the-blues-making-amazon-prime-video-work-again-on-your-device/"><u>Banish the Blues: Making Amazon Prime Video Work Again on Your Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-quick-fixes-for-slow-windows-app-connections/"><u>Bridge the Gap: Quick Fixes for Slow Windows App Connections</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/considerations-regulieres-pour-windows-video-ia-questions-souvent-posees-avec-des-answers-valides/"><u>Considérations Régulières Pour Windows Video IA : Questions Souvent Posées Avec Des Answers Valides</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-inadequate-ram-allocation-challenge-in-god-of-war-titles/"><u>Fixing the 'Inadequate RAM Allocation' Challenge in God of War Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-amateurs-to-aviators-9-top-rated-drone-editors-reviewed-for-2024/"><u>From Amateurs to Aviators 9 Top-Rated Drone Editors Reviewed for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12 FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-beginners-guide-to-pro-youtube-tech/"><u>In 2024, Beginner's Guide to Pro YouTube Tech</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-and-android-texting-woes-here-are-the-fixes-to-reconnect/"><u>IPhone and Android Texting Woes? Here Are the Fixes to Reconnect</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-non-functioning-reading-aloud-in-word-2016plus/"><u>Quick Guide to Reviving Non-Functioning Reading Aloud in Word 2016+</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-compilation-budget-friendly-editing-tools-for-2024/"><u>The Ultimate Compilation Budget-Friendly Editing Tools for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-copy-pasting-issues-across-chrome-edge-and-firefox-on-win/"><u>Troubleshooting Copy-Pasting Issues Across Chrome, Edge, & Firefox on Win</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-bypassing-tpm-with-rufus/"><u>Unlocking Windows 11: Bypassing TPM with Rufus</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-best-practices-for-distance-dialogue-capture/"><u>2024 Approved Best Practices for Distance Dialogue Capture</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-quality-unpacking-the-caixun-4k-tv-75-inches-for-budget-enthusiasts/"><u>Affordable Quality: Unpacking the Caixun 4K TV (75 Inches) for Budget Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-advice-overcoming-the-most-common-update-issues/"><u>Expert Advice: Overcoming the Most Common Update Issues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-share-youtube-videos-on-facebook-for-2024/"><u>How Can I Share YouTube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y100a-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y100A Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-energy-levels-after-high-living-in-windows/"><u>Reviving Energy Levels After High Living in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-rescue-data-revival-from-non-responsive-hdd/"><u>Stellar Rescue: Data Revival From Non-Responsive HDD</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/surrender-to-serenity-top-10-game-guides-for-2024/"><u>Surrender to Serenity Top 10 Game Guides for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-condensation-editing-youtube-video-durations-for-2024/"><u>The Art of Condensation Editing YouTube Video Durations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essence-of-windows-cab-files-and-execution-procedures/"><u>The Essence of Windows Cab Files & Execution Procedures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-overcoming-the-hypervisor-bsod-crash/"><u>Win 10/11: Overcoming the HYPERVISOR BSOD Crash</u></a></li>
 </ul></div>
 

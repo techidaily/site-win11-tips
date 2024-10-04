@@ -1,7 +1,7 @@
 ---
 title: "Navigate Win 11 Touch Settings: Resetting Initial Positions"
-date: 2024-09-23T18:03:20.974Z
-updated: 2024-09-28T16:13:17.059Z
+date: 2024-10-01T17:50:42.784Z
+updated: 2024-10-03T18:10:18.109Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ Let's explore each one.
  After deleting both values, close the Registry Editor and restart your PC to apply the changes. Now, when you open the touch keyboard, it will start showing up at the default opening position.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run a Batch File to Reset the Touch Keyboard's Default Open Position
@@ -72,10 +72,10 @@ start explorer.exe`
 ![Run Batch File to Reset Touch Keyboard Default Open Position](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-batch-file-to-reset-touch-keyboard-default-open-position.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the File name field, type "ResetTouch.bat", and choose**All Files** from the Save as type. After that, select Desktop from the left-hand side and click**Save** .
@@ -83,10 +83,10 @@ start explorer.exe`
  Once the batch file is saved, close the Notepad window. Next, double-click**ResetTouch.bat** on your Desktop to run it. This should reset your touch keyboard's default open position.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resetting the Default Position of the Touch Keyboard
@@ -110,24 +110,15 @@ start explorer.exe`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-audience-wave-top-hash-tags-to-swell-youtube-views-for-2024/"><u>[New] Audience Wave Top Hash Tags to Swell Youtube Views for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-quick-quirks-recording-presentations/"><u>[New] Quick Quirks Recording Presentations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>2024 Approved Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-blueprint-for-successful-youtube-video-plans-and-outlines/"><u>2024 Approved The Blueprint for Successful YouTube Video Plans and Outlines</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-a15-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy A15 4G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-broken-disk-organization-in-os/"><u>Addressing Broken Disk Organization in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-ftdibussys-understanding-its-role-in-windows-memory-controls/"><u>Decoding ftdibus.sys: Understanding Its Role in Windows Memory Controls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-spontaneous-file-explorer-opens/"><u>Disabling Spontaneous File Explorer Opens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-windows-11s-photo-application-blurring-feature/"><u>Expert Guide to Windows 11'S Photo Application Blurring Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>In 2024, The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-implications-of-youtube-video-savings-for-2024/"><u>Legal Implications of YouTube Video Savings for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-virtual-meetings-best-solutions/"><u>Mastering Virtual Meetings Best Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-value-save-on-upgrade-with-windows-11-pro-key/"><u>Maximize Value, Save on Upgrade with Windows 11 Pro Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-download-performance-in-the-microsoft-app-shop/"><u>Maximizing Download Performance in the Microsoft App Shop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-code-0xa00f4289-in-wincams/"><u>Navigating Through Code 0xA00F4289 in WinCams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-microsofts-safe-mode-only-coding/"><u>Navigating Through Microsoft's Safe Mode Only Coding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-bypass-oculus-setup-failures-in-windows-1110/"><u>Quick Guide to Bypass Oculus Setup Failures in Windows 11/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-administrative-tasks-a-new-approach-to-windows-uac/"><u>Streamlining Administrative Tasks: A New Approach to Windows UAC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/xbox-online-disruptions-how-to-tell-if-its-a-widespebroadcasted-setback-or-just-your-connection/"><u>Xbox Online Disruptions: How to Tell If It's a Widespebroadcasted Setback or Just Your Connection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-engagement-with-these-4-looping-video-techniques/"><u>[New] In 2024, Enhance Engagement with These 4 Looping Video Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-diy-tricks-for-professional-quality-homemade-films/"><u>[Updated] Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-steps-to-access-windows-10-advanced-startup-settings/"><u>Easy Steps to Access Windows 10 Advanced Startup Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-network-discovery-is-turned-off-error-on-windows/"><u>How to Fix the “Network Discovery Is Turned Off” Error on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>In 2024, Paving the Path for Creativity Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insight-microsofts-vcplusplus-release-rationale/"><u>Insight: Microsoft's VC++ Release Rationale</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodology-for-amending-lost-drive-issue/"><u>Methodology for Amending Lost Drive Issue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/palette-perfection-essential-techniques-to-brighten-your-photos-for-2024/"><u>Palette Perfection Essential Techniques to Brighten Your Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-app-interference-with-windows-power-control/"><u>Troubleshooting App Interference with Windows Power Control</u></a></li>
 </ul></div>
 

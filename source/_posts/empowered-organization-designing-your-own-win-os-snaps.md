@@ -1,7 +1,7 @@
 ---
 title: "Empowered Organization: Designing Your Own Win OS Snaps"
-date: 2024-09-21T17:12:48.790Z
-updated: 2024-09-28T16:48:56.382Z
+date: 2024-10-02T23:51:20.970Z
+updated: 2024-10-03T18:20:42.870Z
 tags:
   - windows10
   - windows11
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize FancyZones Settings in PowerToys
@@ -73,36 +73,36 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
 
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multitask Better With Custom Snap Layouts on Windows 11
@@ -124,17 +124,22 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-efficiency-the-editors-guide-to-speed-control/"><u>[New] Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unraveling-the-process-of-gaining-facebooks-blue-badge/"><u>[Updated] Unraveling the Process of Gaining Facebook's Blue Badge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-leading-mobile-vr-headsets-ranked/"><u>2024 Approved 10 Leading Mobile VR Headsets Ranked</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-security-enlarge-pins-best-practices-in-windows-1111/"><u>Boost Security, Enlarge Pins: Best Practices in Windows 11/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-the-words-start-talking-windows-11s-method/"><u>Cut the Words, Start Talking: Windows 11'S Method</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y77t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y77t Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-open-source-chill-beats/"><u>In 2024, Open Source Chill Beats</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y78plus-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y78+ Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-civi-3-disney-100th-anniversary-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi Civi 3 Disney 100th Anniversary Edition? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-silent-infiltrator-confronting-wacatacbml-in-your-windows-domain/"><u>The Silent Infiltrator: Confronting Wacatac.B!ml in Your Windows Domain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-clear-up-a-white-login-screen-on-windows-1011/"><u>Tips to Clear Up a White Login Screen on Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vanguard-application-requires-upgraded-cpu-current-specs-fall-short/"><u>Vanguard Application Requires Upgraded CPU - Current Specs Fall Short</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-secrets-to-crafting-compelling-openers-in-game-videos-yt-freepremium/"><u>[New] 2024 Approved Secrets to Crafting Compelling Openers in Game Videos (YT Free/Premium)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-android-mobas-a-decade-of-favorite-titles-top-10/"><u>[Updated] 2024 Approved Android MOBAs A Decade of Favorite Titles - Top 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat/"><u>[Updated] 2024 Approved Stepwise Instructions Preserve Your Memories by Uploading to Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimal-screen-record-settings-for-facetime-conversations/"><u>[Updated] In 2024, Optimal Screen Record Settings for FaceTime Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/corporate-clashes-reimagined-microsoft-blizzard-alliance-and-ai-innovations-audio-show/"><u>Corporate Clashes Reimagined: Microsoft-Blizzard Alliance and AI Innovations [Audio Show]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-the-woes-of-windows-update-error-8007000e-easy-solutions-for-speedy-success/"><u>Ending the Woes of Windows Update Error 8007000E: Easy Solutions for Speedy Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-bypassing-do-not-have-permission-windows-errors/"><u>Guide to Bypassing 'Do Not Have Permission' Windows Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intervening-persistent-reboot-into-windows-cmos-setup/"><u>Intervening Persistent Reboot Into Windows CMOS Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-ethernet-offline-issue/"><u>Overcoming Windows Ethernet Offline Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-file-damage-error-code-0x80070570-in-windows-11/"><u>Remedy for File Damage Error (Code 0X80070570) in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-narzo-60x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme Narzo 60x 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-playstation-vr-headset-with-a-personal-computer/"><u>Step-by-Step Guide: Linking Your PlayStation VR Headset with a Personal Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sync-windows-machines-powerful-video-conversion-synergy-with-tdarr-technology/"><u>Sync Windows Machines: Powerful Video Conversion Synergy with Tdarr Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-worlds-seamlessly-connect-your-winpc-and-galaxy/"><u>Uniting Worlds: Seamlessly Connect Your WinPC and Galaxy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-the-full-potential-of-your-powerpoint-slides-fixing-their-prints-on-windows/"><u>Unleashing the Full Potential of Your PowerPoint Slides: Fixing Their Prints on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-1011-error-buster-restore-connection-with-mbs-server-link/"><u>Win 10/11 Error Buster: Restore Connection with MB's Server Link</u></a></li>
 </ul></div>
 

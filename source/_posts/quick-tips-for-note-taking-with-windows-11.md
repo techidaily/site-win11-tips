@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Note-Taking with Windows 11
-date: 2024-09-24T16:39:33.165Z
-updated: 2024-09-28T16:03:05.813Z
+date: 2024-10-01T23:57:09.893Z
+updated: 2024-10-04T01:02:53.900Z
 tags:
   - windows10
   - windows11
@@ -39,29 +39,22 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ![WordPad blank document demonstrating formatting features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wordpad-blank-document-demonstrating-formatting-features.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  WordPad is another pre-installed app offering a great method to take notes without downloading software. The app’s simple design resembles Notepad but offers more advanced features—notably its rich text editor—to upgrade your note-taking.
 
  With its rich text editor, you can change the font color and style, add bulleted lists, and highlight text. WordPad also offers a feature to send documents directly as an email. Hit **File** and select **Send as email**.
 
  To access the app, go to the Start menu and search for “WordPad.” Files can be saved as a plain text file (as used in Notepad) or as a rich text document (.rtf) if you’d like to import your notes into other software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Try Windows Sticky Notes
 
 ![Windows 11 Colored Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While there are many great [sticky note apps for Windows](https://www.makeuseof.com/tag/post-screen-x-sticky-note-apps-windows/), one of the best is offered directly by the operating system. Windows Sticky Notes is a note-taking app to jot down quick thoughts and ideas.
 
@@ -71,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
  The text interface features key formatting tools, including bold, underlining, and italics. In the "style" tab, you can change the font style and increase the overall text size. The app’s cloud-based technology offers syncing to multiple devices, so you write notes wherever you are.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use Windows Clipboard to Save Snippets of Text
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
  You can access the clipboard at any point by using the shortcut **Ctrl + V**. For the most important pieces of information, you can pin notes by hitting the small pin icon. Now, you no longer have to remember bits of information while browsing online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Take Notes Easily on Windows 11
@@ -105,29 +105,6 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-podcasting-made-simple-easy-steps-to-capture-live-streams/"><u>[New] Podcasting Made Simple Easy Steps to Capture Live Streams</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-counter-facebooks-instantaneous-deletion-of-videos-for-2024/"><u>[Updated] How to Counter Facebook's Instantaneous Deletion of Videos for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[Updated] Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>2024 Approved No Fuss, Full Fun Exploring iFunny's Meme Treasure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-key-adjustments-to-reestablish-wi-fi-connectivity-in-windows-10-systems/"><u>5 Key Adjustments to Reestablish Wi-Fi Connectivity in Windows 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ancient-windows-features-you-can-still-find-in-windows-11/"><u>7 Ancient Windows Features You Can Still Find in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-overcoming-permission-denied-messages-winos/"><u>A Guide to Overcoming 'Permission Denied' Messages, WinOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-repairing-onedrive-on-windows-11/"><u>A Step-by-Step Approach to Repairing OneDrive on Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-treasure-trove-guide-to-public-domain-images/"><u>A Treasure Trove Guide to Public Domain Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-pc-search-mastering-everywhereapp/"><u>Accelerate PC Search: Mastering EverywhereApp</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-crashes-of-ccleaner-in-windows-11/"><u>Addressing Crashes of CCleaner in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-msc-error-the-printmanagement-glitch/"><u>Addressing Windows MSC Error: The 'Printmanagement' Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/anti-virus-ram-usage-strategies-for-efficiency-boost/"><u>Anti-Virus RAM Usage: Strategies for Efficiency Boost</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>In 2024, Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journey-through-updates-unveiling-lg-bp550-new-for-2024/"><u>Journey Through Updates Unveiling LG BP550 New for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>New Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-discord-latency-problems-ultimate-troubleshooting-guide/"><u>Resolving Discord Latency Problems: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/by-step-crafting-youtube-content-in-sony-vegas/"><u>Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719276038972-troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +112,22 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-free-youtube-downloads-without-programs/"><u>[New] 2024 Approved Guide Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[New] In 2024, ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dodging-account-penaltinas-on-youtube/"><u>[Updated] Dodging Account Penaltinas on Youtube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-router-models-to-boost-your-gaming-performance/"><u>Best Router Models to Boost Your Gaming Performance</u></a></li>
+<li><a href="https://win-top.techidaily.com/change-your-dpx-photos-to-jpg-at-no-cost-use-our-web-based-solution-now/"><u>Change Your DPX Photos to JPG at No Cost - Use Our Web-Based Solution Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-unnecessary-c-drive-data-overflow/"><u>Clearing Up Unnecessary C: Drive Data Overflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-pc-gaming-ps3-controller-without-cords/"><u>Direct-to-PC Gaming: PS3 Controller without Cords</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crackling-sound-from-speakers-on-pc-windows-10-and-7/"><u>How To Resolve Crackling Sound From Speakers on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lg-flat-screen-tv-insights-for-2024/"><u>LG Flat-Screen TV Insights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fn-key-configuration-for-windows-os/"><u>Mastering the Art of FN Key Configuration for Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-boot-your-windows-11-to-fix-anydesk/"><u>Re-Boot Your Windows 11 to Fix AnyDesk</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-windows-hello-fingerprint-login-on-pc/"><u>Setting Up Windows Hello Fingerprint Login on PC</u></a></li>
+</ul></div>
+

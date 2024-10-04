@@ -1,7 +1,7 @@
 ---
 title: Winning Over Windows Upgrade Anomalies at Error 0X30017
-date: 2024-09-15T01:01:56.554Z
-updated: 2024-09-21T22:47:09.985Z
+date: 2024-09-29T17:57:06.934Z
+updated: 2024-10-04T01:23:10.506Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -59,35 +66,22 @@ Here is how you can do that:
 
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rule Out Corruption Issues
 
  The next thing that we recommend doing is scanning the system for corruption issues using the built-in troubleshooting utilities in Windows.
 
  To fix this, we will be using the Windows update troubleshooter, System File Checker, and DISM to find potential issues. Additionally, these utilities will resolve most of the problems they find on their own.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.1 Use the Windows Update Troubleshooter
 
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
 
@@ -96,6 +90,13 @@ Here is how you can do that:
 ### 3.2 Run SFC and DISM Scans
 
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
 
@@ -114,10 +115,10 @@ Here is how you can do that:
 ![Update the relevant driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/keyboard-update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
@@ -147,5 +148,23 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-get-pcs-audio-capture-tool-x-recorder/"><u>[New] Get PC's Audio Capture Tool X-Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-a-winning-portfolio-with-windows-11-video-editing-skills-for-2024/"><u>[Updated] Building a Winning Portfolio with Windows 11 Video Editing Skills for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-circular-engine-kit-for-2024/"><u>[Updated] Circular Engine Kit for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secret-spotters-where-to-find-your-snappiest-ringtone/"><u>[Updated] Secret Spotters Where to Find Your Snappiest Ringtone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sonic-update-for-whatsapp-statues/"><u>2024 Approved Sonic Update for WhatsApp Statues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-cool-folder-tips-youll-love-using-on-windows/"><u>5 Cool Folder Tips You'll Love Using on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-complete-walkthrough-to-establish-java-development-kit-in-windows-11/"><u>A Complete Walkthrough to Establish Java Development Kit in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-disabling-chrome-tab-clones/"><u>A Step-by-Step Approach to Disabling Chrome Tab Clones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-overcoming-cannot-find-gpeditmsc/"><u>A Step-by-Step Guide to Overcoming Cannot Find Gpedit.msc</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapting-oculus-quest-2-for-windows-vr-software/"><u>Adapting Oculus Quest 2 for Windows VR Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-virtual-disk-startup-issues-in-windows-disk-manager/"><u>Addressing Virtual Disk Startup Issues in Windows Disk Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginner-friendly-guide-setting-up-the-jdk-on-windows-11/"><u>Beginner-Friendly Guide: Setting Up the JDK on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ntfs-file-system-error-on-windows-11-fixed/"><u>NTFS FILE SYSTEM Error on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/screen-saviors-ranked-top-8-for-ios-filmmaking-apps-for-2024/"><u>Screen Saviors Ranked Top 8 for iOS Filmmaking Apps for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-10-fearful-video-blogs-overcoming-each-challenge/"><u>Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unleash-the-80s-adding-vhs-flair-to-your-fcp-projects-for-2024/"><u>Unleash the 80S Adding VHS Flair to Your FCP Projects for 2024</u></a></li>
+</ul></div>
 

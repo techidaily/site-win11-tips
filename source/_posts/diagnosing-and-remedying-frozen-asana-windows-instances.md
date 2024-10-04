@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Remedying Frozen Asana Windows Instances
-date: 2024-09-16T23:30:50.100Z
-updated: 2024-09-21T18:58:45.422Z
+date: 2024-09-29T17:09:41.019Z
+updated: 2024-10-03T20:42:19.694Z
 tags:
   - windows10
   - windows11
@@ -70,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 5. Now, go back to the Asana app. It should prompt you with a text message saying, "**A new version of the Asana app is available.**".
 6. Click the **Restart** button on the pop-up to update Asana.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Asana Connectivity Test
 
  Sometimes, due to unknown reasons, your network may be unable to connect to Asana's servers. To handle such cases, you can visit the [Asana Help Test](https://connectivity-test.asana.com/) website.
@@ -90,6 +77,20 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
  Wait for a while and check the **WebSocket connection** status. If it says **Success**, then there's no need to worry. If you're getting a **Failed** or **Prohibited** status, contact [Asana's Support team](https://asana.com/support) with a screenshot of the diagnostics.
 
 ![Asana Diagnostics Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-diagnostics-overview.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Your Default DNS Server
 
@@ -121,23 +122,17 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 ![Asana Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Asana App
@@ -153,6 +148,14 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 3. Click the **Uninstall** option from the context menu to uninstall Asana.  
 ![Installed App Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/installed-app-settings-on-windows.jpg)
 4. After uninstalling, visit [Asana’s official website](https://asana.com/download) to download the latest version of the app.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once the download is complete, run the installer or setup file to install Asana.
 
  A fresh install will remove all the old files from your computer and replace them with new ones. Moreover, by reinstalling Asana, you can troubleshoot almost all issues related to the Asana app. So, don't fear to give it a try once!
@@ -165,8 +168,6 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
  Here, we'll explore various solutions to fix the Asana not working or loading issues on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -174,3 +175,24 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-your-youtube-presence-with-customized-subtitles/"><u>[New] 2024 Approved Elevating Your YouTube Presence with Customized Subtitles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-charting-course-essential-steps-from-concept-to-content-creation-in-review-channels-for-2024/"><u>[New] Charting Course Essential Steps From Concept to Content Creation in Review Channels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrating-zooms-features-for-enhanced-facebook-live/"><u>[New] Integrating Zoom's Features for Enhanced Facebook LIVE</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-video-edits-with-adobe-premiere/"><u>[New] Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dancefloor-dynamics-top-rated-dj-video-selections-for-2024/"><u>[Updated] Dancefloor Dynamics Top-Rated DJ Video Selections for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[Updated] In 2024, Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>2024 Approved Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-best-windows-programs-for-multimedia-editing/"><u>5 Best Windows Programs for Multimedia Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-lately-used-files-in-windows/"><u>A Step-by-Step Guide to Lately Used Files in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-write-access-denial-errors-in-windows-11-system/"><u>Addressing Write Access Denial Errors in Windows 11 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ascertain-if-your-computer-meets-11th-gen-os-needs/"><u>Ascertain If Your Computer Meets 11Th Gen OS Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-for-eluding-windows-11-explorer-errors/"><u>Best Practices for Eluding Windows 11 Explorer Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-audio-and-video-recording-on-windows-11s-snipping-tool-max-156/"><u>Blend Audio and Video Recording on Windows 11'S Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-in-win11-with-custom-cmd-commands/"><u>Boosting Efficiency in Win11 with Custom Cmd Commands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-differences-how-chatgpt-stands-out-from-microsofts-bing-ai-bot-in-10-ways/"><u>Deciphering the Differences: How ChatGPT Stands Out From Microsoft's Bing AI Bot in 10 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-creme-de-la-creme-top-six-llms-dominating-the-tech-scene/"><u>Unveiling the Crème De La Crème: Top Six LLMs Dominating the Tech Scene</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Global Navigation Simplified - PowerToys' Peek & Border Integration
-date: 2024-09-18T23:09:45.970Z
-updated: 2024-09-21T17:24:08.860Z
+date: 2024-09-30T16:05:44.976Z
+updated: 2024-10-03T20:20:22.329Z
 tags:
   - windows10
   - windows11
@@ -49,11 +49,38 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  Mouse Without Borders also permits the two computers to share their clipboard. If you copy a file that is less than 100 MB in size, it will also be copied to the clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the "Peek" Feature?
 
  The “Peek” feature enables you to preview files without opening them within an app. You can preview the contents of the file, especially when it is a batch or registry file, and examine the code. There is also a specific utility to [edit and view registry files in PowerToys](https://www.makeuseof.com/registry-preview-feature-powertoys/). Apart from that, it can also preview images, PDFs, text files, and video files. Moreover, you get the option to them open the file with a compatible application.
 
 ![Peek Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable and Use the "Peek" Feature
 
@@ -68,22 +95,15 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 ![Assign Shortcut key to PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/assign-shortcut-key-to-powertoys-peek.jpg)
 5. Press **Win + E** to open the File Explorer. **Click** on any file to select it. Then press the “Peek” shortcut key combination.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. A Peek preview window will launch and display the contents of your file.  
 ![Peek Feature in PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys-2.jpg)
 7. Click on the **Open with** button to open the file in their respective application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Share Mouse and Preview Files With PowerToys
@@ -102,5 +122,21 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-obs-camera-not-working-problem-solved/"><u>[New] In 2024, OBS Camera Not Working Problem [Solved]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-straightforward-methods-to-save-insta-story-videos-for-2024/"><u>[New] Straightforward Methods to Save Insta Story Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bridging-the-budget-barrier-channel-size-doesnt-matter-for-2024/"><u>[Updated] Bridging the Budget Barrier Channel Size Doesn't Matter for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-quickly-transform-sluggish-videos-on-android/"><u>2024 Approved Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-windows-security-bypassing-faulty-pins-easily/"><u>Enhance Windows Security: Bypassing Faulty PINs Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-windows-recovery-toolkit/"><u>Essential Routes to Windows Recovery Toolkit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-150-2023-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia 150 (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-iphones-nighttime-photo-secrets-revealed-for-2024/"><u>Illuminating iPhones Nighttime Photo Secrets Revealed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-free-minecraft-branding-tools-download/"><u>In 2024, Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-your-yt-earning-monetization-verification-steps/"><u>In 2024, Perfecting Your YT Earning Monetization Verification Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-face-editing-tools-for-iphones-and-samsungs/"><u>Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-overloaded-system-by-controlling-processes/"><u>Resolving Overloaded System by Controlling Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-retro-arc-of-gaming-shading-techniques-for-ancient-artifacts/"><u>The Retro Arc of Gaming: Shading Techniques for Ancient Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-renewal-methods-for-driver-replacement-and-update/"><u>Windows Renewal: Methods for Driver Replacement and Update</u></a></li>
+</ul></div>
 

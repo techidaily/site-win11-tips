@@ -1,7 +1,7 @@
 ---
 title: Optimize Workflow with Essential Command Shortcuts for Win11 Users
-date: 2024-09-26T17:51:42.925Z
-updated: 2024-09-28T18:49:15.630Z
+date: 2024-09-28T21:32:04.974Z
+updated: 2024-10-03T19:36:37.958Z
 tags:
   - windows10
   - windows11
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 `nircmd.exe win center alltop`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
@@ -132,18 +132,24 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
 `nircmd.exe screensaver`
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Close All Open File Explorer Windows
 
  This NirCmd command shortcut closes all open File Explorer windows. It will come in handy when you need to close lots of Explorer folder windows. The NirCmd command for closing all open File Explorer windows is:
 
 `nircmd.exe win close class CabinetWClass`
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Keep the Calculator on Top of All Windows
 
@@ -158,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 `nircmd.exe setbrightness 60 3`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Windows Task Shortcuts With NirCmd
@@ -170,27 +176,6 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[Updated] Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-giggle-grind-exploring-twitters-comedy-gold/"><u>[Updated] In 2024, Giggle Grind Exploring Twitters' Comedy Gold</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-key-steps-to-restore-mail-alert-functionality-in-windows/"><u>9 Key Steps to Restore Mail Alert Functionality in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-magic-of-devhome-in-win11-landscape/"><u>Deciphering the Magic of DevHome in Win11 Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevated-operations-consistent-admin-mode-for-terminal/"><u>Elevated Operations: Consistent Admin Mode for Terminal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explaining-and-mending-error-code-0x8007251d-a-guide/"><u>Explaining and Mending Error Code 0X8007251d: A Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/explore-the-world-in-high-definition-on-youtube/"><u>Explore the World in High Definition on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-how-to-discover-an-individuals-phone-number-online-safely-and-responsibly/"><u>Guide: How to Discover an Individual’s Phone Number Online Safely and Responsibly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-multiple-display-devices-in-windows-11/"><u>How to Configure Multiple Display Devices in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-minimize-malware-scanners-cpuram-demands/"><u>How to Minimize Malware Scanner's CPU/RAM Demands</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-yuva-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Yuva 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-elevate-learning-with-these-top-rated-animation-software-for-2024/"><u>New Elevate Learning with These Top-Rated Animation Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/start-your-chatgpt-experience-windows-guide/"><u>Start Your ChatGPT Experience: Windows Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-minecraft-glitches-with-these-fixes/"><u>Stop Minecraft Glitches with These Fixes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/text-transformation-tricks-for-media-for-2024/"><u>Text Transformation Tricks for Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tricks-for-rapid-download-experience-at-ms-store/"><u>Tricks for Rapid Download Experience at MS Store</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +183,27 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-all-encompassing-razer-camera-report/"><u>[Updated] All-Encompassing Razer Camera Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-tips-for-youtube-edits-with-sony-vegas-for-2024/"><u>[Updated] Essential Tips for YouTube Edits with Sony Vegas for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-shortcut-to-shorter-vids-on-youtube/"><u>[Updated] The Shortcut to Shorter Vids on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empowering-your-windows-mastery-of-lav-filters-application/"><u>Empowering Your Windows: Mastery of LAV Filters Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-why-modern-standby-fails-users/"><u>Exploring Why Modern Standby Fails Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/frontier-gadgets-galore-top-10-vr-accessories-for-2024/"><u>Frontier Gadgets Galore Top 10 VR Accessories for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-profile-woes-on-windows-pcs/"><u>Overcoming Chrome Profile Woes on Windows PCs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-7-video-software-for-mac/"><u>Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-pc-top-10-techniques-in-windows-repair/"><u>Revive Your PC: Top 10 Techniques in Windows Repair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enable-driver-verifier-in-windows-11/"><u>Steps to Enable Driver Verifier in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/tech-tumble-facebook-whatsapp-and-instagram-unavailable-today/"><u>Tech Tumble: Facebook, WhatsApp & Instagram Unavailable Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-synchronized-shutdown-of-multiple-windows-apps/"><u>Techniques for Synchronized Shutdown of Multiple Windows Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102392299-troubleshooting-dolby-atmos-sound-on-pc-solved/"><u>Troubleshooting Dolby Atmos Sound on PC - Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-fluctuating-print-device-settings/"><u>Troubleshooting Fluctuating Print Device Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-diverse-nvidia-driver-options-gaming-studio/"><u>Understanding Diverse Nvidia Driver Options: Gaming, Studio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-your-sound-potential-in-windows-11/"><u>Unlock Your Sound Potential in Windows 11</u></a></li>
+</ul></div>
+

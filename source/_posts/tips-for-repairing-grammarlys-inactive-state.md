@@ -1,7 +1,7 @@
 ---
 title: Tips for Repairing Grammarly's Inactive State
-date: 2024-09-19T18:52:39.985Z
-updated: 2024-09-21T19:33:31.898Z
+date: 2024-10-01T21:12:21.169Z
+updated: 2024-10-03T23:38:56.905Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  The best part is that you can troubleshoot most of these issues quickly. So, review the steps below and get your Grammarly app working on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Troubleshoot Using General Fixes
 
  There are [many reasons to use Grammarly](https://www.makeuseof.com/reasons-use-grammarly-as-content-writer/) to improve your writing. However, it might sometimes run into issues, particularly on Windows.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 * **Check Grammarly's server status:** Visit the [Grammarly Status](https://status.grammarly.com/) website to check for a server outage or downtime. Sometimes, the Grammarly API and servers go offline. And so, you can not use it during that time.
 * **Troubleshoot your slow Internet connection:** A slow Internet connection may not be ideal while using Grammarly. So, refer to our [guide on fixing slow internet](https://www.makeuseof.com/internet-slow-on-windows-laptop-not-on-phone/) for help.
 * **Turn off your proxy or VPN:** Such networking services sometimes interfere with Grammarly. We recommend disabling any proxy or VPN to check if it resolves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update the Grammarly App
 
@@ -62,16 +76,17 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 3. After the installation, click **Sign in to your existing account**.  
 ![Grammarly Setup Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-setup-screen.jpg)
 4. Once you log in with your account, click the **Activate Grammarly** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Grammarly Activation Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-activation-setup.jpg)
 
  That's it. To verify if the issue persists, open Microsoft Word or any website where you can write (e.g., [ControlC.com](https://controlc.com/)). Start writing a sentence and see if Grammarly provides suggestions.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Adjust Your System and Grammarly Settings
 
@@ -89,16 +104,17 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Click **Settings** in the bottom left corner of the window.  
 ![Grammarly App Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-homescreen.jpg)
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable Grammarly at Startup
 
@@ -111,26 +127,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 3. Locate the **Grammarly** app in the list and right-click on it. Click **Enable** from the context menu to launch Grammarly whenever you boot up your computer.  
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Sign Out and Sign In Again
 
  If Grammarly is not functioning as expected, try signing out and signing in again.
@@ -140,6 +136,19 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
  To sign out from the Grammarly app, click the **Settings** option on its home screen. Then, navigate to the **Account** tab and click the **Sign out** button.
 
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
 
@@ -152,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 3. Right-click on the **DesktopIntegrations** folder and click the **Delete** icon.  
 ![Grammarly AppData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-appdata-folder.jpg)
 4. Now restart your Grammarly app.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For a quick test, you can [open Grammarly inside Google Docs](https://www.makeuseof.com/how-to-install-use-grammarly-google-docs/) and see where the suggestion sidebar appears.
 
@@ -171,6 +187,19 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ![Microsoft NET Framework Tool Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microsoft-net-framework-tool-setup.jpg)
 4. Finally, click the **Finish** button once the repair is complete.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the Grammarly App
 
  If all previous methods fail, uninstalling and reinstalling the Grammarly app is the last resort.
@@ -182,13 +211,6 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 3. Select **Uninstall** to start the uninstallation process. If it asks for confirmation, click **Yes**.  
 ![Windows Installed App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-installed-app-settings.jpg)
 4. Download and install the app again from [Grammarly.com](https://www.grammarly.com/desktop).
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Avoid downloading "cracked or modded versions" of freemium apps and services (like Grammarly), as they may contain malware that can harm your system!
 
@@ -210,5 +232,26 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-keyword-optimization-for-higher-youtube-viewership/"><u>[New] 2024 Approved Keyword Optimization for Higher YouTube Viewership</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/voiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-review-unlocking-the-potential-with-showmore-recorder/"><u>[Updated] Expert Review Unlocking the Potential with ShowMore Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boost-conversions-with-cookiebot-the-key-to-advanced-web-personalization/"><u>Boost Conversions with Cookiebot: The Key to Advanced Web Personalization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/entendendo-a-politica-de-acesso-ao-site-movavicom-termos-e-condicoes-explicados/"><u>Entendendo a Política De Acesso Ao SITE MOVAVI.COM: Termos E Condições Explicados</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/getting-to-grips-with-windows-11s-audio-settings-quickly/"><u>Getting to Grips with Windows 11'S Audio Settings Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-wsl-registration-failure-error-code-0x80370102/"><u>How To Rectify WSL Registration Failure (Error Code 0X80370102)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-earnings-linked-to-product-reviews-in-media/"><u>Is Earnings Linked to Product Reviews in Media?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-7a-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel 7a Phone FRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-camera-innovations-revealed-future-edition-for-2024/"><u>Leading Camera Innovations Revealed - Future Edition for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-change-your-voice-for-2024/"><u>New How to Change Your Voice for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-printer-connectivity-hurdles-in-windows-11/"><u>Overcoming Printer Connectivity Hurdles in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvent-your-techs-future-away-from-windows/"><u>Reinvent Your Tech's Future, Away From Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-w11w10-bluetooth-pin-verification-failures/"><u>Strategies to Solve W11/W10 Bluetooth PIN Verification Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surge-power-the-top-5-pc-performance-tools-for-win/"><u>Surge Power: The Top 5 PC Performance Tools for Win</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-your-onedrive-placement-in-win-11/"><u>Tailor Your OneDrive Placement in Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-dvd-converter-software-from-imovie-ripper-perfect-tool-for-seamless-dvds-to-imovie-transfers/"><u>Top DVD Converter Software From iMovie Ripper - Perfect Tool for Seamless DVDs-to-iMovie Transfers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-dormant-pane-panes-ultimate-guide-to-win11/"><u>Unlocking Dormant Pane Panes: Ultimate Guide to Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-comic-reading-in-win11/"><u>Unveiling the Secrets to Comic Reading in Win11</u></a></li>
+</ul></div>
 

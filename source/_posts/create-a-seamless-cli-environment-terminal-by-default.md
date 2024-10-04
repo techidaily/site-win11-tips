@@ -1,7 +1,7 @@
 ---
 title: "Create a Seamless CLI Environment: Terminal by Default"
-date: 2024-09-14T19:09:32.709Z
-updated: 2024-09-21T23:11:04.777Z
+date: 2024-09-26T18:35:25.773Z
+updated: 2024-10-03T23:49:21.331Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,24 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 2. Choose **System** from the left sidebar and choose the **For developers** option in the right pane.  
 ![For developers option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/for-developers-option.jpg)
 3. Click the **drop-down icon** next to the **Terminal** option and choose **Windows Terminal** from the menu that appears.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Terminal option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-terminal.jpg)
 
  And that’s about it. Now, whenever you try to open a command-line program, it will be launched through the Windows Terminal app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Terminal Settings
 
@@ -57,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 2. Click the **drop-down icon** next to the **plus icon** and choose **Settings** from the context menu.  
 ![Settings option in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option-1.jpg)
 3. Choose **Startup** from the left sidebar, click the **drop-down icon** next to the **Default** **terminal** **application**, and choose **Windows** **Terminal** from the menu.  
-![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
-4. Click the **Save** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
+4. Click the **Save** button.
 
 ## How to Set Windows Terminal as Your Default Terminal App by Editing the Command Prompt Properties
 
@@ -77,24 +93,23 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 2. Right-click on the **Command** **Prompt** title bar and choose **Properties**.  
 ![Properties option in Comman Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option-1.jpg)
 3. Switch to the **Terminal tab**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
 ![Default Terminal Application drop-down menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-terminal-application-drop-down-menu.jpg)
 5. Click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Using the Windows Terminal as Your Default
 
  While Command Prompt and Windows PowerShell are useful, there are various reasons to opt for Windows Terminal. Whether you're a developer working with multiple operating systems and environments or simply seeking a more user-friendly command line tool, Windows Terminal should be your default terminal application. You can easily set it as your default terminal app using the above-mentioned methods.
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,3 +118,18 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-effortless-and-easy-video-snapshots-of-win11-for-2024/"><u>[New] Effortless & Easy Video Snapshots of Win11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-pen-tablet-glitches-and-freezes/"><u>Addressing Windows PEN Tablet Glitches and Freezes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advancing-task-management-adding-cli-to-windowed-console/"><u>Advancing Task Management: Adding CLI to Windowed Console</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-11-start-menu-preferences/"><u>Altering Windows 11 Start Menu Preferences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-forming-your-daily-mindfulness-routine-tips-and-tricks/"><u>ChatGPT's Role in Forming Your Daily Mindfulness Routine: Tips and Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clip-conquest-top-tags-for-dominating-video-trends-on-social-media-for-2024/"><u>Clip Conquest Top Tags for Dominating Video Trends on Social Media for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-downloading-and-installing-logitech-steering-wheel-drivers-on-windows-7-8-or-10/"><u>Effortless Setup: Downloading and Installing Logitech Steering Wheel Drivers on Windows 7, 8 or 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization/"><u>In 2024, Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization</u></a></li>
+</ul></div>
+

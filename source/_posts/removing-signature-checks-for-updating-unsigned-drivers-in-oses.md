@@ -1,7 +1,7 @@
 ---
 title: Removing Signature Checks for Updating Unsigned Drivers in OSes
-date: 2024-09-21T05:31:47.395Z
-updated: 2024-09-22T05:09:50.456Z
+date: 2024-09-26T23:23:21.485Z
+updated: 2024-10-03T16:04:21.799Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,21 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ![enabling the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-the-code-signing-for-driver-packages-policy.jpg)
 5. Click on **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to enable driver signature enforcement again, go back to step #4 and set the radio button to **Not configured**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Driver Signature Enforcement in PowerShell
 
@@ -82,13 +96,20 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ![turning on Test Mode in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-on-test-mode-in-terminal.jpg)
 4. Hit **Enter** to run the command.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now restart your computer, and when it boots back up, it will be in test mode. After you're done installing those drivers, don't forget to disable test mode. The command to do that is **bcdedit /set testsigning off**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You Can Install Unsigned Drivers on Windows
@@ -97,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
  In this guide, we're going to show you several ways to do it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -106,3 +125,25 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-optimizing-screen-captures-expert-techniques-for-hp-laptops-for-2024/"><u>[Updated] Optimizing Screen Captures Expert Techniques for HP Laptops for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-ipod-touch-7th-generation-review-a-smartphone-stop-gap-music-player/"><u>Apple iPod Touch (7Th Generation) Review: A Smartphone Stop-Gap Music Player</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-gaps-in-performance-dashboard-functionality/"><u>Bridging Gaps in Performance Dashboard Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-back-smooth-drag-and-drop-on-windows-11-pcs/"><u>Bring Back Smooth Drag & Drop on Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-compatibility-barriers-with-simple-fixes-in-xp-vista-and-7/"><u>Bypass Compatibility Barriers with Simple Fixes in XP, Vista & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-firewallantivirus-grant-chrome-network-access-in-windows/"><u>Bypass Firewall/Antivirus: Grant Chrome Network Access in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-unwanted-team-sign-in-prompts-on-windows-pcs/"><u>Bypassing Unwanted Team Sign-In Prompts on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/charting-your-digital-path-in-windows-11/"><u>Charting Your Digital Path in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chrome-woes-on-windows-11-a-fixers-guide-to-reopening-it/"><u>Chrome Woes on Windows 11: A Fixer’s Guide to Reopening It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-deleted-notes-on-iphone/"><u>How to Recover Deleted Notes on iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-techniques-to-compress-and-adjust-iphone-videos/"><u>In 2024, Essential Techniques to Compress and Adjust iPhone Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-2023s-most-efficient-tools-for-fb-lite-videos-download/"><u>In 2024, Unveiling 2023'S Most Efficient Tools for FB Lite Videos Download</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-uploading-videos-compliance/"><u>Mastering Twitter Uploading Videos Compliance</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-best-office-mats-of-2024-today/"><u>Selecting the Best Office Mats of 2024 Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-iphone-video-playback-issues-top-fixes-for-iphone-11-video-troubleshooting/"><u>Solving iPhone Video Playback Issues: Top Fixes for iPhone 11 Video Troubleshooting</u></a></li>
+</ul></div>
+

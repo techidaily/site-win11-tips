@@ -1,7 +1,7 @@
 ---
 title: "Configuring Ideal Screen Dimensions: Win11's Guide"
-date: 2024-09-21T18:46:32.102Z
-updated: 2024-09-28T16:40:52.383Z
+date: 2024-09-26T16:40:27.730Z
+updated: 2024-10-03T20:25:20.459Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
@@ -77,6 +77,20 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -84,13 +98,6 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
@@ -102,10 +109,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
@@ -121,16 +128,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -152,18 +153,24 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>[New] Effortless Audio Downloads These 24 Tools Split YouTube Sounds for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-initiate-direct-camera-streaming-with-vlc/"><u>[Updated] 2024 Approved Initiate Direct Camera Streaming with VLC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-introduction-to-stories-essence-and-art/"><u>2024 Approved Introduction to Stories' Essence and Art</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-pacing-with-macos-a-specialists-guide-to-srt-editing/"><u>2024 Approved Perfect Pacing with macOS A Specialist's Guide to SRT Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conducting-an-intuitive-in-place-windows-11-transition/"><u>Conducting an Intuitive, In-Place Windows 11 Transition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-managing-extraneous-tasks-on-windows/"><u>Efficiently Managing Extraneous Tasks on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-yuva-2-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Yuva 2 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-magic-6-lite-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor Magic 6 Lite Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leading-cloud-storage-vendors-a-comparative-pricing-analysis-for-2024/"><u>Leading Cloud Storage Vendors A Comparative Pricing Analysis for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-reactivate-a-non-functional-windows-download-folder/"><u>Methods to Reactivate a Non-Functional Windows Download Folder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-clearing-admin-not-allowed-message-in-os/"><u>Strategies for Clearing Admin Not Allowed Message in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-windows-1011-revamping-using-winbubble/"><u>The Complete Guide to Windows 10/11 Revamping Using WinBubble</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xclusive-guide-to-the-best-7-android-browsers-ad-free/"><u>[New] Exclusive Guide to the Best 7 Android Browsers, Ad-Free</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-success-stories-leveraging-highlights-for-growth/"><u>[New] In 2024, Instagram Success Stories Leveraging Highlights for Growth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-ranked-mac-gif-converter/"><u>[New] Top-Ranked Mac GIF Converter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>[Updated] 2024 Approved MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-typography-in-after-effects-with-premium-plug-ins/"><u>2024 Approved Transform Typography in After Effects With Premium Plug-Ins</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-moto-g04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola Moto G04 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-ais-special-properties-a-comparative-study/"><u>Deciphering AI's Special Properties: A Comparative Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-look-at-chkdsk-sfc-vs-dism-in-system-fixes/"><u>Detailed Look at CHKDSK, SFC Vs. DISM in System Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-insights-uncharted-wonders-in-windows-11/"><u>Essential Insights: Uncharted Wonders in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-disconnected-outlook-sync-on-your-windows-system/"><u>Fix Disconnected Outlook Sync on Your Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-microsoft-store-error-code-x800704cf-on-pcs/"><u>How to Rectify Microsoft Store Error Code X800704CF on PCs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>In 2024, Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-seamlessly-add-and-edit-audio-to-canvas-clips/"><u>In 2024, How to Seamlessly Add and Edit Audio to Canvas Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-microsoft-teams-issue-code-80080300-in-windows-11/"><u>Mastering Microsoft Teams Issue Code 80080300 in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>New AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-correct-password-discrepancies-top-5-methods-for-win11-network-security/"><u>Swiftly Correct Password Discrepancies: Top 5 Methods for Win11 Network Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-rearranged-input-on-microsoft-devices/"><u>Tackling Rearranged Input on Microsoft Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-responsive-resource-monitor-in-windows-11/"><u>Troubleshooting Non-Responsive Resource Monitor in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203397428-windows-update-failure-overcome-error-8007000e-with-ease-and-speed/"><u>Windows Update Failure? Overcome Error 8007000E with Ease and Speed</u></a></li>
 </ul></div>
 

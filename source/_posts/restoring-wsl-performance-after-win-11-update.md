@@ -1,7 +1,7 @@
 ---
 title: Restoring WSL Performance After Win 11 Update
-date: 2024-09-26T18:45:43.358Z
-updated: 2024-09-28T17:19:48.206Z
+date: 2024-09-29T00:04:35.761Z
+updated: 2024-10-03T21:47:05.117Z
 tags:
   - windows10
   - windows11
@@ -50,25 +50,19 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
 
 1. Search for**Turn Windows features on or off** and click the search result.
 2. In Windows Features, scroll down to find**Virtual Machine Platform** and**Windows Hypervisor Platform** .
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair the Linux Distribution App
 
@@ -80,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Force WSL to Open Using the Microsoft Store
 
@@ -99,16 +93,17 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recent Updates to Fix WSL
 
@@ -118,18 +113,24 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
 
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing WSL After Upgrading to Windows 11
 
@@ -150,18 +151,21 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>[New] 2024 Approved Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-clip-of-fame-vimeo-quick-look/"><u>[New] Clip of Fame Vimeo Quick Look</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>[New] Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-cmd-guru-understand-these-20-crucial-commands/"><u>Become a CMD Guru: Understand These 20 Crucial Commands</u></a></li>
-<li><a href="https://fox-access.techidaily.com/design-thinking-for-podcasters-constructing-efficient-rss-files-for-2024/"><u>Design Thinking for Podcasters Constructing Efficient RSS Files for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/digital-dream-team-best-screen-capture-software-online/"><u>Digital Dream Team Best Screen Capture Software Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-pc-performance-insider-tips-on-wintools/"><u>Elevate PC Performance: Insider Tips on WinTools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-iphone-image-import-something-went-wrong-error-in-windows-10-and-11/"><u>How to Fix the iPhone Image Import “Something Went Wrong” Error in Windows 10 & 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-your-ps4-remote-link-eliminating-random-drops-in-connection/"><u>Secure Your PS4 Remote Link: Eliminating Random Drops in Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-your-performance-essential-strategies-with-windows-11/"><u>Skyrocket Your Performance: Essential Strategies with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-bluetooth-check-pin-error-in-windows-oses/"><u>Strategies to Rectify Bluetooth Check Pin Error in Windows OSes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-finest-subsidized-virtual-studio-technology-plugins-for-2024/"><u>Unveiling the Finest Subsidized Virtual Studio Technology Plugins for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-tactics-for-spotify-ad-mastery/"><u>[New] Innovative Tactics for Spotify Ad Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] In 2024, Capturing Your Laptop Simple Lenovo Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superbackground-cleanup-suite/"><u>[Updated] SuperBackground Cleanup Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-full-screen-with-chrome-pip-on-any-platform/"><u>[Updated] Unlocking Full Screen with Chrome PIP on Any Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-1-choice-transcribe-youtube-videos-in-a-flash/"><u>2024 Approved 1 Choice Transcribe YouTube Videos in a Flash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-mute-issues-in-screencasts-with-powerpoint/"><u>Correcting Mute Issues in Screencasts with PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-windows-mechanism-for-allocated-ram/"><u>Delving Into Windows' Mechanism for Allocated RAM</u></a></li>
+<li><a href="https://games-able.techidaily.com/enrich-gameplay-with-advanced-focused-3d-light-panels/"><u>Enrich Gameplay with Advanced, Focused 3D Light Panels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-proactive-measures-to-counter-network-security-keys-misalignment-in-win11/"><u>Five Proactive Measures to Counter Network Security Keys Misalignment in Win11</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F04 phone? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onedrive-opening-woes-on-pc-find-solutions-here/"><u>OneDrive Opening Woes on PC? Find Solutions Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-vector-file-polishing/"><u>Superior Vector File Polishing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-and-bypassing-sound-access-issues-in-audacity-win/"><u>Troubleshooting and Bypassing Sound Access Issues in Audacity (Win)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-themes-undiscovered-so-far/"><u>Unraveling Windows 11 Themes Undiscovered So Far</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-exploring-6-unusual-visual-aspects/"><u>Windows 11: Exploring 6 Unusual Visual Aspects</u></a></li>
 </ul></div>
 

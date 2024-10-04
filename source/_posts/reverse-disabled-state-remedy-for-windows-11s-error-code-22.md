@@ -1,7 +1,7 @@
 ---
 title: "Reverse Disabled State: Remedy for Windows 11'S Error Code 22"
-date: 2024-09-27T18:26:55.869Z
-updated: 2024-09-28T16:18:07.799Z
+date: 2024-09-27T20:59:37.416Z
+updated: 2024-10-03T17:01:41.101Z
 tags:
   - windows10
   - windows11
@@ -39,33 +39,19 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
 
 ![Enable device option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-device-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage on the Device
@@ -83,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use the Hardware and Device Troubleshooter
 
@@ -116,11 +95,25 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
  After that, put back the cover of your computer and plug in all the devices.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update Your Computer's BIOS
 
  An outdated BIOS can prevent your PC from working properly with certain devices and may cause errors such as code 22\.
 
  So, make sure to update the BIOS to prevent any hardware-related issues on your system. Check out our guide on [updating BIOS in Windows](http://www.makeuseof.com/tag/update-uefi-bios-windows/) to find out how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Perform a Clean Boot
 
@@ -134,32 +127,18 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing Error Code 22 in Windows
 
  There's nothing more frustrating than not being able to use an external device because your Windows PC is not recognizing it. The "this device is disabled (code 22)" error is one such issue that can prevent you from using an external device that's connected to your system. Fortunately, you can quickly troubleshoot this error using the above solutions.
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-privacy-protection-in-videos-a-guide-to-obscuring-for-2024/"><u>[New] Privacy Protection in Videos A Guide to Obscuring for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-crafting-a-winning-windowsmac-skype-chat-circle/"><u>[Updated] 2024 Approved Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>[Updated] In 2024, Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-make-windows-look-like-macos/"><u>5 Ways to Make Windows Look Like macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activate-and-configure-powershell-execution-policies-securely/"><u>Activate & Configure PowerShell Execution Policies Securely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-system-called-fails-on-windows-1011/"><u>Addressing System Called Fails on Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjustment-assistants-best-windows-utilities-for-date-tweaking/"><u>Adjustment Assistants: Best Windows Utilities for Date Tweaking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/assessing-space-allocation-in-windows-applications/"><u>Assessing Space Allocation in Windows Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-a-marooned-experience-with-xbox-in-windows-11/"><u>Avoiding a Marooned Experience with Xbox in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beating-elusive-obs-recording-glitches-on-windows-operating-system/"><u>Beating Elusive OBS Recording Glitches on Windows Operating System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719348732386-cant-capture-sound-in-obs-on-win-11-solve-it-now/"><u>Can't Capture Sound in OBS on Win 11? Solve It Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-still-to-dynamic-the-xs-action-camera-unboxed/"><u>From Still to Dynamic The XS Action Camera Unboxed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-t2-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo T2 Pro 5G Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-nokia-c300-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Nokia C300</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-driver-refreshes-for-logitech-sound-devices/"><u>Speedy Driver Refreshes for Logitech Sound Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winos-upgrade-toolkit-medd/"><u>WinOS Upgrade Toolkit: MEDD</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -168,3 +147,24 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-worldwide-top-earners-in-the-streaming-sphere/"><u>[New] 2024 Approved Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-accelerate-your-audience-size-the-best-apps-on-androidiphone/"><u>[Updated] Accelerate Your Audience Size The Best Apps on Android/iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023-8-most-viewed-videos-on-facebook/"><u>2024 Approved 2023 | 8 Most Viewed Videos on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture/"><u>2024 Approved Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>2024 Approved Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/computing-evolution-adapting-to-the-power-of-16gb-ram/"><u>Computing Evolution: Adapting to the Power of 16GB RAM</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-black-windows-rdp-connection-issue/"><u>Correcting Black Windows RDP Connection Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-error-code-0x80d03801-in-windows-apps/"><u>Correcting Error Code 0X80D03801 in Windows Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/direct-transfer-path-youtube-content-to-dailymotion-hub-for-2024/"><u>Direct Transfer Path YouTube Content to Dailymotion Hub for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-insights-on-recording-google-video-conferences-for-2024/"><u>Essential Insights on Recording Google Video Conferences for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/examining-the-currents-of-quality-with-the-sea-tech-external-usb-blu-ray-writer/"><u>Examining the Currents of Quality with the Sea Tech External USB Blu-Ray Writer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/faster-steam-content-downloading-for-windows-users/"><u>Faster Steam Content Downloading for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video/"><u>In 2024, Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methodical-approach-for-fixing-battlenet-login-failure/"><u>Methodical Approach for Fixing Battle.net Login Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-not-online-quick-fixes-for-windows-users/"><u>Steam Not Online? Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mend: Tackle Non-Functional Keys on Windows 11 PC"
-date: 2024-09-14T22:41:09.417Z
-updated: 2024-09-22T07:31:32.658Z
+date: 2024-09-30T18:27:39.484Z
+updated: 2024-10-04T00:14:10.111Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 2. For a Bluetooth keyboard, remove the battery, wait a few minutes, and reconnect it.
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  On older Windows versions, you could’ve accessed the Hardware and Device troubleshooter via Control Panel. Now, you need a command line to access it. Here is how you can do it:
@@ -54,10 +61,17 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
@@ -77,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Keyboards Drivers
 
  There is a chance the Fn keys stopped working because of an outdated, damaged, or corrupted driver. In this case, updating the keyboard driver should fix the problem.
@@ -97,14 +104,14 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
- If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
 
 ## 7\. Check the Human Interface Device Service
 
@@ -132,5 +139,20 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-cost-efficiency-in-yt-promotional-campaigns/"><u>[New] Cost Efficiency in YT Promotional Campaigns</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-method-for-producing-captivating-video-thumbnails/"><u>[Updated] Step-by-Step Method for Producing Captivating Video Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-interface-showing-system-resources-on-taskbar/"><u>Enhancing User Interface: Showing System Resources on Taskbar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-xs-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone XS Without a Home Button</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/inside-out-mastering-io-screen-recording-tech-for-2024/"><u>Inside Out Mastering IO Screen Recording Tech for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-tech-landscape-windows-11-installation-on-macos-through-parallels/"><u>Navigate the Tech Landscape: Windows 11 Installation on MacOS Through Parallels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedures-for-enablingdisabling-windows-component/"><u>Procedures for Enabling/Disabling Windows Component</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-your-fax-covers-on-w11/"><u>Step-by-Step Guide: Adjusting Your Fax Covers on W11</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-path-less-connected-your-guide-to-leaving-facebook/"><u>The Path Less Connected: Your Guide to Leaving Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-mobile-clips-10-best-videography-smartphones/"><u>Top-Tier Mobile Clips 10 Best Videography Smartphones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/torment-tides-of-numenera-review-a-sci-fi-rpg-focused-on-worldbuilding/"><u>Torment: Tides of Numenera Review: A Sci-Fi RPG Focused on Worldbuilding</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-hidden-how-to-find-missing-wi-fi-networks-in-windows-11/"><u>Unveiling the Hidden: How to Find Missing Wi-Fi Networks in Windows 11</u></a></li>
+</ul></div>
 

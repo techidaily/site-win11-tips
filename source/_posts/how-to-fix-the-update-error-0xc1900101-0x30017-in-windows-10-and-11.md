@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Update Error 0xC1900101 – 0X30017 in Windows 10 & 11
-date: 2024-09-24T18:13:40.478Z
-updated: 2024-09-28T19:02:50.492Z
+date: 2024-09-26T16:29:15.032Z
+updated: 2024-10-03T22:01:44.961Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall Your Antivirus
 
  If you are using a third-party antivirus program on your computer, it may be blocking the system’s process of installing updates. The solution in this case is simple, as all that you need to do is disable or uninstall the security program temporarily.
@@ -64,14 +57,14 @@ Here is how you can do that:
 2. Choose**Shields control** \>**Disable until the computer is restarted** .  
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
- If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
 
 ## 3\. Rule Out Corruption Issues
 
@@ -87,28 +80,15 @@ Here is how you can do that:
 
  Once the troubleshooter has finished scanning, check if any issues are identified. If so, the troubleshooter will recommend fixes that can resolve the issue. Click on**Apply this fix** to proceed. In case the utility fails to identify the issues, click on Close the troubleshooter and move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.2 Run SFC and DISM Scans
 
 ![SFC and DISM Scan](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next thing that you should do is run the SFC and DISM scans via Command Prompt. Check out[the difference between CHKDSK, SFC, and DISM scans](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) for more information and instructions for these tools.
@@ -129,6 +109,13 @@ Here is how you can do that:
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update Your BIOS
 
  Finally, the issue can also be caused due to a bug or corruption issues within the BIOS. Fortunately, you can resolve most of these issues by updating the BIOS to the latest available version.
@@ -136,6 +123,13 @@ Here is how you can do that:
  It's good practice to update your BIOS when a new version comes out. And there are plenty of[reasons why you should update your PC's BIOS](https://www.makeuseof.com/reasons-why-you-should-update-pc-bios/) , including unlocking additional hardware support.
 
  Different motherboard manufacturers have different instructions for this, so we recommend visiting the manufacturer's website for more information. Keep in mind, this can be a nerve-wracking and time-consuming process, so only proceed when you have enough time to spare.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Now You Can Upgrade Windows to the Latest Build
 
@@ -156,18 +150,20 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-diminuendo-techniques-for-digital-ears/"><u>[Updated] In 2024, Diminuendo Techniques for Digital Ears</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-pathway-to-earning-facebook-written-by-your-assistant-for-2024/"><u>[Updated] The Pathway to Earning Facebook’ Written by Your Assistant for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>2024 Approved The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-powered-by-chatgpt-take-charge-of-your-home-automation-systems/"><u>Can AI Powered by ChatGPT Take Charge of Your Home Automation Systems?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatting-with-caution-are-independent-chatgpt-extensions-reliable/"><u>Chatting with Caution: Are Independent ChatGPT Extensions Reliable?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077s-dark-secret-how-to-fix-the-game-crashing-black-screen-error/"><u>Cyberpunk 2077'S Dark Secret: How to Fix the Game-Crashing Black Screen Error</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/future-proofing-your-home-network-top-netgear-routers/"><u>Future-Proofing Your Home Network: Top Netgear Routers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-restoration-techniques-to-reactivate-virus-protection-in-windows/"><u>Quick Restoration Techniques to Reactivate Virus Protection in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-lowering-cpu-intensity-in-gaming-windows/"><u>Solutions for Lowering CPU Intensity in Gaming Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-common-errors-in-win1011-0x8007045d/"><u>Solving Common Errors in Win10/11 - 0X8007045D</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sync-your-schedule-how-to-reset-windows-time-service/"><u>Sync Your Schedule: How to Reset Windows Time Service</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-tech-companion-asus-vivobook-s-15-review/"><u>The Ultimate Tech Companion: Asus Vivobook S 15 Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6/"><u>Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blending-iphone-videos-a-simple-guide/"><u>[New] Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ranch-raiders-best-friendly-farmers-game-roster-for-2024/"><u>[New] Ranch Raiders Best Friendly Farmer's Game Roster for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-essential-rules-for-a-positive-youtube-experience/"><u>[Updated] 2024 Approved Essential Rules for a Positive YouTube Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>2024 Approved Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-the-most-out-of-windows-backup-features/"><u>Get the Most Out of Windows Backup Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>In 2024, Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g23-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G23 Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-g54-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola G54 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-machine-11-ways-to-open-control-panel/"><u>Master Your Machine: 11 Ways to Open Control Panel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-win-11-experience-game-changing-advice-for-the-winning-side/"><u>Optimizing Your Win 11 Experience: Game-Changing Advice for the Winning Side</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-bing-chat-integration-in-windows-11/"><u>Quick Guide to Bing Chat Integration in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealthy-setups-mastering-the-invisible-menu-features/"><u>Stealthy Setups: Mastering the Invisible Menu Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-automated-file-deletion-on-windows/"><u>The Ultimate Guide to Automated File Deletion on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-to-do-if-windows-wont-show-notification-badges-on-taskbar-icons/"><u>What to Do if Windows Won’t Show Notification Badges on Taskbar Icons</u></a></li>
 </ul></div>
 

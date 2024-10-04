@@ -1,7 +1,7 @@
 ---
 title: Fixing Workplace-Monitored Edge and Chrome Browsers for PC Users
-date: 2024-09-27T17:27:54.753Z
-updated: 2024-09-28T18:51:02.324Z
+date: 2024-10-03T01:37:15.931Z
+updated: 2024-10-03T16:25:47.537Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
@@ -50,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
@@ -75,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
  If you can’t find the policies in Registry Editor, you can remove all the group policies for the User's account using Command Prompt. This will remove all the group policies, including any setup by malware. So, be sure to reconfigure any custom group policies you had before on the computer.
@@ -91,16 +111,16 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -117,17 +137,17 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run MalwareBytes AdwCleaner
 
@@ -143,23 +163,9 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -193,20 +199,22 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capture-the-best-sound-quality-your-ultimate-guidebook-to-recording-podcasts-via-zoom-for-2024/"><u>[New] Capture the Best Sound Quality Your Ultimate Guidebook to Recording Podcasts via Zoom for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715860880916-2024-approved-mastering-vrecorder-download-install/"><u>2024 Approved Mastering VRecorder Download, Install!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-rendering-cutting-down-lag-time/"><u>Enhancing Real-Time Rendering: Cutting Down Lag Time</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-loading-device-drivers-on-windows-11/"><u>Fixing Non-Loading Device Drivers on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-thrustmaster-t150-controller-drivers-swift-and-simple-download-process/"><u>Get Your Hands on Thrustmaster T150 Controller Drivers – Swift and Simple Download Process</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f34-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy F34 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solidify-the-save-feature-on-nvidias-windows-control-center/"><u>How to Solidify the Save Feature on NVidia's Windows Control Center</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/live-basketball-action-goes-digital-with-the-launch-of-nbawnba-game-streams/"><u>Live Basketball Action Goes Digital with the Launch of NBA/WNBA Game Streams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s17e-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S17e? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/gen-social-media-tactics-youtube-content-on-facebook/"><u>Next-Gen Social Media Tactics YouTube Content on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-changing-windows-11-default-applications/"><u>Step-by-Step: Changing Windows 11 Default Applications</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-heimvision-a8c-s-sunrise-alarm-clock-your-guide-to-better-mornings-with-light-technology/"><u>The HeimVision A8C S Sunrise Alarm Clock: Your Guide to Better Mornings with Light Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unnoticed-slowdown-agents-innocent-looking-apps-for-windows-11/"><u>Unnoticed Slowdown Agents: Innocent-Looking Apps for Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips-for-2024/"><u>[New] From Mundane to Memorable Transform Your Social Media Identity with These Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] In 2024, Cost-Free Match Mastery How to Stream and Slice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-10-female-gamers-on-youtube-for-2024/"><u>[New] Top 10 Female Gamers on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-use-adsense-for-youtube/"><u>[Updated] In 2024, How to Use AdSense for YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-fixing-the-issue-how-to-overcome-video-unplayable-error-224003/"><u>1. Fixing the Issue: How to Overcome 'Video Unplayable - Error 224003'</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-a56s-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo A56s 5G FRP?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-the-latest-windows-11-arm-via-iso-instructions/"><u>Installing the Latest Windows 11 ARM via ISO Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-winx-update-errors/"><u>Overcoming Common WinX Update Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-with-windows-1011s-missing-search-output/"><u>Overcoming Hurdles with Windows 10/11'S Missing Search Output</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-remedy-for-world-of-warcrafts-fatal-error-132-on-win11/"><u>Quick Remedy for World of Warcraft's Fatal Error 132 on Win11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamlessly-integrate-the-ken-burns-effect-into-camtasia/"><u>Seamlessly Integrate the Ken Burns Effect Into Camtasia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-synthetic-intelligence-the-hidden-dangers-of-machine-learning-exposure/"><u>Securing Synthetic Intelligence: The Hidden Dangers of Machine Learning Exposure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stealth-meets-practicality-asus-s15-review-analysis/"><u>Stealth Meets Practicality - ASUS S15 Review Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-resolve-disk-usage-errors-in-windows-11-os/"><u>Techniques to Resolve Disk Usage Errors in Windows 11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-to-efficient-work-implementing-outlook-preview-in-windows-11/"><u>The Pathway to Efficient Work: Implementing Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-video-uploads-on-instagram-for-2024/"><u>The Ultimate Guide to Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-zoom-full-scroll-mouse-rehabilitation-guide/"><u>Zero Zoom, Full Scroll: Mouse Rehabilitation Guide</u></a></li>
 </ul></div>
 

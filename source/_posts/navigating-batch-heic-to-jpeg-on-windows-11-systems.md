@@ -1,7 +1,7 @@
 ---
 title: Navigating Batch HEIC to JPEG on Windows 11 Systems
-date: 2024-09-23T19:10:29.463Z
-updated: 2024-09-28T19:05:18.006Z
+date: 2024-09-26T23:35:19.800Z
+updated: 2024-10-03T17:47:48.637Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![The FoneTool setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fonetool-setup-window.jpg)
 6. Click**Enjoy Now** to exit the installation and start FoneTool.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now it's time to convert images with FoneTool:
 
 1. Select the**ToolBox** tab in FoneTool’s window.
@@ -86,28 +93,15 @@ Now it's time to convert images with FoneTool:
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
@@ -118,6 +112,14 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
@@ -128,22 +130,15 @@ Now it's time to convert images with FoneTool:
 9. Click**Download all** to save the JPEG files.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
 
@@ -164,24 +159,20 @@ Now it's time to convert images with FoneTool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-capture-music-from-facebook-streams/"><u>[New] 2024 Approved Capture Music From Facebook Streams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ideal-4k-recorder-software-selections/"><u>[New] 2024 Approved Ideal 4K Recorder Software Selections</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free/"><u>[New] How to View Instagram Stories Anonymously on PC, Android and iPhone [Free]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screensnap-win10-top-quality-recorder/"><u>[Updated] ScreenSnap Win10 - Top Quality Recorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-dji-quadcopter-a-deep-dive-into-phantom-3/"><u>2024 Approved DJI Quadcopter A Deep Dive Into Phantom 3</u></a></li>
-<li><a href="https://fox-access.techidaily.com/adobe-audition-tutorial-managing-sound-curves-for-2024/"><u>Adobe Audition Tutorial Managing Sound Curves for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-recuvas-file-restoration-top-deleted-data-retrieval-software/"><u>Comprehensive Guide to Recuva's File Restoration: Top Deleted Data Retrieval Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-operation-requirement-issues-on-windows-11-and-11/"><u>Demystifying Operation Requirement Issues on Windows 11 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-iphone-picture-import-glitches/"><u>Fixing Windows 10/11 iPhone Picture Import Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/identity-infiltration-windows-fingerprints-in-the-crosshairs/"><u>Identity Infiltration: Windows Fingerprints in the Crosshairs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-recovery-for-non-functional-windows-software/"><u>Immediate Recovery for Non-Functional Windows Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-logitech-g35-microphone-drivers-on-windows-7810-systems-easily/"><u>Install Logitech G35 Microphone Drivers on Windows 7/8/10 Systems Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-win-11-gaming-landscape-with-these-fps-counters/"><u>Mastering the Win 11 Gaming Landscape with These FPS Counters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-performance-by-expanding-storage-on-your-android-smartphone-why-it-matters/"><u>Maximizing Performance by Expanding Storage on Your Android Smartphone: Why It Matters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/network-protocol-port-vulnerability-check-for-windows/"><u>Network Protocol Port Vulnerability Check for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-overlapping-app-symbols-on-pc-screen/"><u>Rectifying Overlapping App Symbols on PC Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-app-crash-common-issues-and-fixes/"><u>Resolving Windows App Crash: Common Issues & Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-surprising-alerts-in-windows-security/"><u>Troubleshooting Surprising Alerts in Windows Security</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-echoes-in-motion-mac-for-sound-artists-for-2024/"><u>[New] Echoes in Motion Mac for Sound Artists for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled-for-2024/"><u>[New] Flv Conversion for Content Creators Top 10 YouTubes Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-ingenious-approaches-to-facebook-video-ad-crafting/"><u>[New] In 2024, Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-photos-from-moving-frames-on-windows-11/"><u>[Updated] Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-visualfixpro-review-thorough-examination-of-androvid-editor/"><u>2024 Approved VisualFixPro Review – Thorough Examination of AndroVid Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-error-code-0xca00a009-in-windows-update/"><u>Deciphering Error Code 0xCA00A009 in Windows Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-list-of-iphone-and-ipad-audio-cutting-software/"><u>New The Ultimate List of iPhone and iPad Audio Cutting Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-scenes-on-screen-mastering-smooth-windows-media-playback/"><u>Seamless Scenes on Screen: Mastering Smooth Windows Media Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/seamlessly-record-your-screen-while-watching-netflix-for-2024/"><u>Seamlessly Record Your Screen While Watching Netflix for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-childs-digital-experience-in-windows-11/"><u>Secure Your Child’s Digital Experience in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-custom-keyboard-combo-for-sound-in-windows-11/"><u>Setting Up Custom Keyboard Combo for Sound in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-photo-edits-how-to-remove-backdrops-quickly/"><u>Streamlining Photo Edits: How to Remove Backdrops Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-isolate-audio-devices-on-windows-platform/"><u>Why Isolate Audio Devices on Windows Platform?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-idle-lock-custom-settings-guide/"><u>Windows Idle Lock: Custom Settings Guide</u></a></li>
 </ul></div>
 

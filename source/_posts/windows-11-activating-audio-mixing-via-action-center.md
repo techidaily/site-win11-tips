@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Activating Audio Mixing via Action Center"
-date: 2024-09-24T18:41:42.712Z
-updated: 2024-09-28T18:25:41.337Z
+date: 2024-10-02T16:29:08.980Z
+updated: 2024-10-04T00:03:14.471Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,21 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
  However, Microsoft is slowly identifying such missing features in Windows 11 and is adding an inbuilt solution for it. Recently,[Microsoft began testing an RGB lighting feature](https://www.makeuseof.com/enable-rgb-lighting-controls-windows-11/) that will eliminate the need for third-party customization apps. So, it is pretty clear that Microsoft wants to reduce the reliance on third-party apps for vital system features and tweaks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Volume Mixer in Windows 11's Action Center
 
  To enable the volume mixer in Windows 11, you will need to do the following:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Windows Insider Build and ViVeTool
@@ -75,21 +74,29 @@ vivetool /enable /id:42106010
 7. You will see a “**Successfully set feature configuration(s)** ” message. Type the**exit** command and press the enter key to close the command prompt window.  
 ![Enabling New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-new-volume-settings-in-action-center.jpg)
 8. Restart your system to allow the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Log in and press**Win + A** to open Action Center. You will notice a new volume mixer icon next to the volume bar. Click on it to reveal the complete sound settings. Both the Spatial Audio and volume mixer will be present inside.  
 ![New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-volume-settings-in-action-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adjust Your Volume Like A Pro on Windows 11
@@ -111,18 +118,19 @@ vivetool /enable /id:42106010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-lightroom-guide-creating-and-merging-stunning-hdr-images/"><u>[Updated] 2024 Approved Lightroom Guide Creating & Merging Stunning HDR Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-iphone-photography-for-vr-spheres/"><u>2024 Approved Perfecting iPhone Photography for VR Spheres</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-complete-look-at-hand-recognition-systems/"><u>A Complete Look at Hand Recognition Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customize-the-status-bar-a-guide-to-including-a-weather-icon-in-windows-11/"><u>Customize the Status Bar: A Guide to Including a Weather Icon in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-economical-dslrs-and-camcorders-4k-edition/"><u>In 2024, Economical DSLRs & Camcorders, 4K Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-livestreaming-pre-recorded-content-seamlessly-on-fb/"><u>In 2024, Livestreaming Pre-Recorded Content Seamlessly on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-preferred-programs-3d-animated-scene-design/"><u>In 2024, Preferred Programs 3D Animated Scene Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-av1-encoding-insights/"><u>In 2024, Unlocking AV1 Encoding Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-win-11-taskbar/"><u>Mastering Time Display on Win 11 Taskbar</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>Mastering Viral Videos Creating Engaging Memes for FB/Insta</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-invalid-steam-response-issue/"><u>Steps to Resolve Invalid Steam Response Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-11-bluetooth-try-connecting-error/"><u>Steps to Resolve Windows 11 Bluetooth 'Try Connecting' Error</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[New] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-gopro-content-integration-with-social-networks/"><u>[New] Maximizing GoPro Content Integration with Social Networks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-discover-the-leading-cover-photo-makers-for-facebook-profiles/"><u>[Updated] 2024 Approved Discover the Leading Cover Photo Makers for Facebook Profiles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-alternatives-to-zoom-on-desktops-and-smartphones/"><u>[Updated] 2024 Approved Leading Alternatives to Zoom on Desktops & Smartphones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-top-10-budget-friendly-youtube-spaces-for-artistry/"><u>[Updated] In 2024, Exploring the Top 10 Budget-Friendly YouTube Spaces for Artistry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clipcutting-masterwin8/"><u>ClipCutting MasterWin8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-hero-hyper-v-setup-for-w11-home-users/"><u>From Zero to Hero: Hyper-V Setup for W11 Home Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-expertly-record-and-save-your-favorite-hulu-shows-for-2024/"><u>How To Expertly Record and Save Your Favorite Hulu Shows for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-mysterious-obs-error-a-step-by-step-approach/"><u>Overcoming Mysterious OBS Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-clock-anomalies-in-google-chrome/"><u>Overcoming Windows Clock Anomalies in Google Chrome</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-text-display-issue-on-win11-msresouce/"><u>Rectifying Text Display Issue on Win11: MsResouce</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simultaneous-file-release-techniques-for-windows-enthusiasts/"><u>Simultaneous File Release Techniques for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-no-detected-fingerprint-on-windows-systems/"><u>Tackling No Detected Fingerprint on Windows Systems</u></a></li>
 </ul></div>
 

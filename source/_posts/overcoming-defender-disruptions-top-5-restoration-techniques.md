@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Defender Disruptions: Top 5 Restoration Techniques"
-date: 2024-09-20T18:29:25.883Z
-updated: 2024-09-21T16:03:43.317Z
+date: 2024-10-02T18:06:24.367Z
+updated: 2024-10-03T21:22:41.201Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/995d8276c073ea6830ba619ba4614fd047fc0375a
 * **Corrupted Windows files or malware** \- the critical system files might be corrupt, which is affecting the update functionality of Windows. Your system might also be infected with malware.
 
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Security Center Service
 
@@ -73,6 +80,20 @@ Once that is done, proceed with the steps below:
 1. Double-click on it and under Value data, type**0** .  
 ![Change the value data to 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disableantispyware-key.jpg)
 2. Do the same with the**DisableAntiVirus** value in the same window.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. After this, navigate to the following location in the Registry Editor:  
 `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`
 4. Here, right-click on the MSASCui.exe, MpCmdRun.exe, and MsMpEng.exe values one by one and choose**Delete** .  
@@ -80,10 +101,10 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -108,10 +129,10 @@ Here is how you can reset the Windows Security app:
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Remove Any Conflicting Software
@@ -139,5 +160,26 @@ Here is how you can reset the Windows Security app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-get-hooked-our-curated-12-best-pc-clicker-titles/"><u>[New] In 2024, Get Hooked Our Curated 12 Best PC Clicker Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beats-and-boundaries-breaking-barriers-in-music-videos/"><u>2024 Approved Beats & Boundaries Breaking Barriers in Music Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/erate-engagement-the-best-12-ways-to-increase-video-popularity/"><u>Accelerate Engagement - The Best 12 Ways to Increase Video Popularity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/access-universal-adb-instantly-no-complications/"><u>Access Universal ADB Instantly - No Complications!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/costly-mistakes-when-opting-for-discounted-activation-keys/"><u>Costly Mistakes When Opting for Discounted Activation Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-windows-11-taskbar-for-key-indicators/"><u>Customizing Windows 11 Taskbar for Key Indicators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-code-crash-tactics-to-tackle-script-errors-in-windows/"><u>Eliminate Code Crash: Tactics to Tackle Script Errors in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-setting-up-webcam-drivers-for-windows-7-users/"><u>Guide to Downloading and Setting up Webcam Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-correcting-mcuicnt-execution-not-found-in-win-10/"><u>Guidelines for Correcting McUICnt Execution Not Found in Win 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-6-lite-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Lite Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-x100-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo X100 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more/"><u>New 2024 Approved Breathe New Life Into Your Mac How to Clear Space for FCPX and More</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-in-motion-photography-for-2024/"><u>Pushing Boundaries in Motion Photography for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-the-secrets-to-disabling-cortana-in-windows-11/"><u>Revealing the Secrets to Disabling Cortana in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-reinstate-windows-11-search-results/"><u>Techniques to Reinstate Windows 11 Search Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-reimagined-unveiling-update-22h2-features/"><u>Windows 11 Reimagined: Unveiling Update #22H2 Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-invisibly-remove-the-language-feature/"><u>Windows 11: How to Invisibly Remove the Language Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-excellence-via-vivetool-getting-ahead-of-the-curve/"><u>Windows Excellence via ViVeTool: Getting Ahead of the Curve</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wma-to-mp4-4/"><u>WMA to MP4 無料変換アプリ 最適解の上位4つ選びます</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stopping Self-Restarting Behavior in Windows 11 OS
-date: 2024-09-27T18:03:41.628Z
-updated: 2024-09-28T18:59:17.707Z
+date: 2024-09-29T17:42:47.199Z
+updated: 2024-10-03T22:58:11.731Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the System Maintenance Troubleshooter
 
  If the shutdown box is still popping up after updating the Windows version, you should give the System Maintenance troubleshooter a chance to fix the problem for you.
@@ -49,22 +56,15 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scan Your System for Malware
 
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
  The good news is that you don’t need a third-party antivirus to fix the issue. You could [remove malware using Microsoft Defender’s offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run an SFC and DISM Scan
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start Windows in Safe Mode
@@ -106,27 +106,6 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[New] 2024 Approved Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-maximum-payload-heavy-lift-drones/"><u>[New] In 2024, Mastering Maximum Payload Heavy Lift Drones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-banner-design-rules-for-top-youtube-channels/"><u>[Updated] 2024 Approved Essential Banner Design Rules for Top YouTube Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>[Updated] 2024 Approved The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>[Updated] Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
-<li><a href="https://article-posts.techidaily.com/behind-the-headset-todays-vr-tomorrows-trials-for-2024/"><u>Behind the Headset Today's VR, Tomorrow's Trials for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-proxy-configurations-on-windows-11/"><u>Mastering the Art of Proxy Configurations on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/real-time-bandwidth-visualization-for-users/"><u>Real-Time Bandwidth Visualization for Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-old-school-gaming-adventures-integrate-trophies-through-retroarch/"><u>Revitalize Your Old-School Gaming Adventures - Integrate Trophies Through Retroarch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-app-engagement-in-modern-window-os/"><u>Speedy App Engagement in Modern Window OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-directdraw-faults-on-windows-oses/"><u>Steps to Eliminate DirectDraw Faults on Windows OSes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/m-like-a-champion-youtubes-ultimate-techniques-for-2024/"><u>Stream Like a Champion YouTube's Ultimate Techniques for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-2-and-how-it-serves-you/"><u>The Essence of Claude 2 and How It Serves You</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-choice-couch-co-op-video-games-best-picks-for-enjoying-gaming-together/"><u>Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-directdraw-a-focused-guide-for-win11-enthusiasts/"><u>Troubleshooting DirectDraw: A Focused Guide for Win11 Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-oculus-errors-on-ws11wc10-systems/"><u>Troubleshooting Oculus Errors on WS11/WC10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfettered-functions-embrace-tiny11s-power/"><u>Unfettered Functions: Embrace Tiny11's Power</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +113,20 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-google-pixel-rhythms-the-ideal-online-source/"><u>[New] Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosted-audio-visual-experience-choose-av1-on-youtube/"><u>[New] In 2024, Boosted Audio-Visual Experience Choose AV1 on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-screen-viewer-chromeos-edition/"><u>Advanced Screen Viewer ChromeOS Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/first-steps-with-windows-canary-channel-for-security/"><u>First Steps with Windows Canary Channel for Security</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6s without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>In 2024, Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y200e-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y200e 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-inner-cartoon-best-mobile-apps-for-photo-transformation/"><u>In 2024, Unleash Your Inner Cartoon Best Mobile Apps for Photo Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-digital-detective-game-with-ai-partners/"><u>Join the Digital Detective Game with AI Partners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-silence-on-windows-11-shut-down-tabs/"><u>Master Silence on Windows 11: Shut Down Tabs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-stabilization-nine-fixes-for-wwe-2k23-on-windows-11/"><u>Swift Stabilization: Nine Fixes for WWE 2K23 on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-missing-text-display-on-pc-discord/"><u>Troubleshooting Missing Text Display on PC Discord</u></a></li>
+</ul></div>
+

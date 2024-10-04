@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing Your Media Player: A Step-by-Step Guide for Win11"
-date: 2024-09-19T06:47:52.430Z
-updated: 2024-09-21T20:29:33.035Z
+date: 2024-09-26T20:24:11.762Z
+updated: 2024-10-03T16:27:58.028Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 5. Turn on the toggle next to the**Media Player** app.  
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Refresh Your Libraries
 
  If the Media Player app fails to detect your files even after enabling video library access, you can try refreshing the libraries. This will allow the app to scan your system for media files again.
@@ -57,13 +64,6 @@ To refresh libraries in the Media Player app, follow these steps:
 
  Switch to the**Library** tab and check if your media files appear now.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Video Enhancements
 
  Your Windows 11 PC ships with a video enhancement feature that can help improve your video playback experience. However, if your hardware isn’t compatible with these enhancements, you might have trouble playing videos. Hence, it’s best not to use them.
@@ -75,13 +75,6 @@ To disable video enhancements in Windows, use these steps:
 3. Click on**Video playback** .
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Relevant Windows Troubleshooters
 
@@ -95,13 +88,20 @@ To disable video enhancements in Windows, use these steps:
 ![Windows Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-troubleshooters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After running these troubleshooters, restart the Media Player app and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset the Media Player App
 
@@ -122,6 +122,13 @@ regsvr32 jscript.dll
 regsvr32 wmp.dll`
 
  Restart your PC after this and then check if the Media Player app works as before.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update the Media Player App
 
@@ -148,5 +155,26 @@ regsvr32 wmp.dll`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-exploring-the-purpose-of-instagram-story-sections/"><u>[New] 2024 Approved Exploring the Purpose of Instagram Story Sections</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[Updated] 2024 Approved The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[Updated] Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-chatter-on-the-hottest-tiktoks-for-2024/"><u>[Updated] Twitter Chatter on the Hottest TikToks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-live-streaming-software-and-app-for-all-platforms/"><u>2024 Approved Best Free Live Streaming Software and App for All Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>2024 Approved Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/4-easy-ways-to-disable-a-user-account-on-windows-11/"><u>4 Easy Ways to Disable a User Account on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6plus-strategies-for-a-superior-windows-11-taskbar-use/"><u>6+ Strategies for a Superior Windows 11 Taskbar Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-through-to-windows-11-security-control-screen/"><u>A Step-by-Step Through to Windows 11 Security Control Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-system-load-in-win11/"><u>Accelerate System Load in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-network-disconnect-in-windows-11-a-step-by-step-guide/"><u>Addressing Network Disconnect in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-terminal-backdrop/"><u>Adjusting Windows Terminal Backdrop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-utilizing-box-for-file-selections-in-win11/"><u>Boost Efficiency: Utilizing Box for File Selections in Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v30-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V30</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-webcam-setup-for-quick-recordings-on-chromebooks/"><u>In 2024, Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-achieving-official-verification-status-on-instagram/"><u>Step-by-Step Guide: Achieving Official Verification Status on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-photographers-blueprint-for-stunning-hdr-portraits/"><u>The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
+</ul></div>
 

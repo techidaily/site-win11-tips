@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Resolving Unauthorized File Saves in Win
-date: 2024-09-15T01:41:16.789Z
-updated: 2024-09-21T21:17:12.507Z
+date: 2024-09-28T20:46:49.716Z
+updated: 2024-10-03T17:35:43.588Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,36 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 3. Click the **Change** option next to the **Owner** field.  
 ![Folder Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Folder-Security-Settings-on-Windows.jpg)
 4. Select **Yes** if the User Account Control (UAC) prompt appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the **Enter the object name to select** field, type in your username, and click the **Check Names** button. Then, hit **OK**.  
 ![Change Folder Owner on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Change-Folder-Owner-on-Windows.jpg)
 6. Tick the checkbox that reads **Replace owner on subcontainers and objects**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
 
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the App With Administrative Privileges
 
@@ -64,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
  Right-click on the program that’s giving you the error and select **Run as administrator**. Select **Yes** when the User Account Control (UAC) prompt appears. After that, try saving your file in the desired folder.
 
  If this method works, you can configure the app to always run with administrative privileges. If you need help with that, refer to our guide on [how to always run apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Program Compatibility Troubleshooter
 
@@ -84,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  After completing the above steps, see if you can save files without getting any errors.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Antivirus Program
 
  At times, antivirus software on your PC may become overly cautious and prevent apps from accessing specific folders. When that happens, Windows may show the "You don’t have permission to save in this location" error message.
 
  To fix this, you will need to go through your antivirus program’s settings and whitelist your app or program from there. Alternatively, you can also temporarily disable your antivirus program and then save your file. If you do this, make sure to re-enable your antivirus program afterward.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable User Account Control
 
@@ -108,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 3. In the **User Account Control Settings** window, drag the slider to the bottom and hit **OK**.  
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
 4. Select **Yes** when the User Account Control prompt shows up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After disabling User Account Control, check to see if you can save files in the desired folder.
 
@@ -136,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sign in with your newly created account, and the error should not appear after that.
@@ -158,8 +167,6 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +174,24 @@ thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/apping-into-trending-topics-for-videography-ideas-via-google/"><u>[New] Tapping Into Trending Topics for Videography Ideas via Google</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-going-from-end-to-start-the-instagram-video-technique-for-2024/"><u>[Updated] Going From End to Start The Instagram Video Technique for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-investigating-prominently-displayed-youtube-comments/"><u>2024 Approved Investigating Prominently Displayed YouTube Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreenasolutiontowindowss-lsass-problem-step-by-step-guide/"><u>A CompreenasolutiontoWindows's Lsass Problem: Step by Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719365401948-addressing-windows-printer-issues-a-guide-for-unresponsive-print-commands/"><u>Addressing Windows Printer Issues: A Guide for Unresponsive Print Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-overview-of-the-windows-canary-security-feature/"><u>An Overview of the Windows Canary Security Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-content-policies-steam-and-gog-contrast-study/"><u>Analyzing Content Policies: Steam & GOG Contrast Study</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automatic-restart-the-windows-10-and-11-power-down-protocol/"><u>Automatic Restart: The Windows 10 & 11 Power-Down Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-a-blank-desktop-win-11-icon-fixes/"><u>Avoid a Blank Desktop: Win 11 Icon Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bid-farewell-to-your-drives-segmentation-with-these-windows-methods/"><u>Bid Farewell to Your Drive's Segmentation with These Windows Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-install-fubotv-app-on-your-roku-device-or-firestick/"><u>Complete Tutorial: Install FuboTV App on Your Roku Device or Firestick</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a24-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A24 Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-pc-guide-extract-twitters-funny-images/"><u>In 2024, PC Guide Extract Twitter's Funny Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
+</ul></div>
+

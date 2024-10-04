@@ -1,7 +1,7 @@
 ---
 title: Securing a Healthy .NET Framework Post-Fixes (Max 156)
-date: 2024-09-25T18:09:09.837Z
-updated: 2024-09-28T16:50:50.752Z
+date: 2024-09-29T01:00:16.069Z
+updated: 2024-10-03T19:31:06.256Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ To run the .NET Framework Repair Tool
 7. Once done, click**Next** and**Finish** to close the repair tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair .NET Framework via Optional Features
@@ -61,15 +61,15 @@ To run the .NET Framework Repair Tool
 ![control panel turn windows features on or off 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off-1.jpg)
 5. Here, uncheck**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will disable**.NET Framework** from your PC and show**Windows completed the requested changes** message. Click**Restart Now** to apply the changes.
 
@@ -80,15 +80,16 @@ After the restart:
 3. Click**OK** .  
 ![turn windows features on or off enable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8.jpg)
 4. Next, click on**Let Windows update download the files for you** . This process may take some time, depending on your Internet connection speed.  
-![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
-5. Once the feature is enabled, click**Restart** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
+5. Once the feature is enabled, click**Restart** to apply the changes.
 
 ## 3\. How to Repair .NET Framework Using PowerShell
 
@@ -102,15 +103,16 @@ After the restart:
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `winget install Microsoft.dotNetFramework`
 7. PowerShell will download and extract the package. You will see a successfully installed message once the process is complete.
 8. Restart your PC to apply the changes and check for any improvements.
@@ -165,16 +167,24 @@ To run the System File Checker tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-8-zero-cost-3d-plugins-the-ideal-pick-for-pcmac-users/"><u>[New] 2024 Approved Top 8 Zero-Cost 3D Plugins The Ideal Pick for PC/Mac Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-finding-the-perfect-screen-recorder-for-games/"><u>[New] In 2024, Finding the Perfect Screen Recorder for Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-real-time-photo-editing-on-the-go-cropping-techniques/"><u>[New] Real-Time Photo Editing On-the-Go Cropping Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-get-back-n-blood-game-launching-smoothly-on-windows-versions-win11107/"><u>[Solution Found] How to Get Back N Blood Game Launching Smoothly on Windows Versions (Win11/10/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-chip-solutions-the-ultimate-price-index-guide-to-pc-processors/"><u>Affordable Chip Solutions: The Ultimate Price Index Guide to PC Processors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/augment-windows-management-with-a-disk-space-analysis-tool/"><u>Augment Windows Management with a Disk Space Analysis Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-computer-utilization-monitors-on-pcs/"><u>Discover the Top 6 Computer Utilization Monitors on PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/realtek-sound-card-drivers-free-download-for-windows-11-10-and-7/"><u>Realtek Sound Card Drivers: Free Download for Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstate-missing-dxgidll-streamline-your-win11/"><u>Reinstate Missing Dxgi.dll, Streamline Your Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ways-to-wipe-old-windows-protection-markers-from-microsofts-record/"><u>Ways to Wipe Old Windows Protection Markers From Microsoft's Record</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-strategies-for-building-a-hit-youtube-video-preview/"><u>[New] In 2024, Strategies for Building a Hit YouTube Video Preview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>[New] Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snapchat-to-subscribers-jake-pauls-youtube-quest/"><u>[New] Snapchat to Subscribers Jake Paul’s Youtube Quest</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-take-360-videos-on-iphone-for-facebook/"><u>[Updated] In 2024, How to Take 360 Videos on iPhone for Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>[Updated] In 2024, Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/en-guclu-11-ts-mp4-donusturme-sistemleri-windows-mac-ve-online-alternatifleri/"><u>En Güçlü 11 TS MP4 Dönüştürme Sistemleri: Windows, Mac Ve Online Alternatifleri</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-pro-8740-driver-update-for-windows-users-version-11108/"><u>Free HP Officejet Pro 8740 Driver Update for Windows Users: Version 11/10/8!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hopping-past-unwanted-warcraft-init-freezes/"><u>Hopping Past Unwanted Warcraft Init Freezes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A05s Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-your-voice-into-text-with-openais-whisper-for-windows/"><u>How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/liberating-windows-dialogue-with-freedomgpt-engagement/"><u>Liberating Windows Dialogue: With FreedomGPT Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-gpo-data-exploration-using-gpresult-techniques/"><u>Mastering GPO Data Exploration Using GPResult Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavinpf-to-jpeg/"><u>Movaviで効率よく行うフリーオンラインNPF to JPEGコンバータ: 最新ツールとガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-reviving-snipping-tool-keys/"><u>Quick Guide to Reviving Snipping Tool Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-obs-studio-failure-to-open-windows/"><u>Resolving OBS Studio Failure to Open (Windows)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-split-view-failures-in-win-10/"><u>Tackling Split View Failures in Win 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-byte-size-information-through-powershell-execution/"><u>Taming Byte-Size Information Through PowerShell Execution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-the-clutter-a-guide-to-window-storage-overhaul/"><u>Taming the Clutter: A Guide to Window Storage Overhaul</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-perfeziona-il-tuo-contenuto-visivo-con-stabilizzazione-video-avanzata-e-conversioni-in-tempo-reale/"><u>Winxvideo AI - Perfeziona Il Tuo Contenuto Visivo Con Stabilizzazione Video Avanzata E Conversioni in Tempo Reale</u></a></li>
 </ul></div>
 

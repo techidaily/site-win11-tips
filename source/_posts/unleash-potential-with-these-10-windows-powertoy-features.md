@@ -1,7 +1,7 @@
 ---
 title: Unleash Potential with These 10 Windows PowerToy Features
-date: 2024-09-24T17:45:34.390Z
-updated: 2024-09-28T16:27:05.944Z
+date: 2024-09-26T20:23:59.950Z
+updated: 2024-10-03T18:41:30.625Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Rename Multiple Files at Once
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
  After enabling it in the PowerToys menu, right-click one of the files you want to rename and select**PowerRename** . Use the**Search** field to identify the files that PowerToys will rename.
 
 ![Rename multiple files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
 
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ![Preview files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/preview-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
 
 ## 5\. Keep any Windows on Top
@@ -93,15 +93,22 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ![PowerToys Always on Top tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-on-top-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This feature will keep the designated window in front of every other app, no matter which command you use. Even if you accidentally click**Minimize** , the window will stay up until you turn**Always on Top** off.
 
  To turn it on or off, select the window and press**Win + Ctrl +T** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Find Your Mouse
@@ -112,18 +119,18 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
  Head to**Mouse utilities** and turn on the toggle for**Enable Find My Mouse** . The next time when your cursor is lost, all you have to do is press**Left Control** twice. Also, you can use the old method of shaking the mouse, but this time, PowerToys will detect the movement and indicate your cursor position.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Manage Your Keyboard
 
  If you’re working on a project, and you have to insert special characters, you may have to copy those characters one by one or[remap your keyboard](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) . Of course, you can remap keys and shortcuts without PowerToys, but it’s a bit harder.
 
 ![PowerToys keyboard manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/keyboard-manager-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keyboard Manager allows you to remap individual keys or shortcuts. The new remap stays active as long as Keyboard Manager is enabled and PowerToys keeps running. Once you close it, your keyboard will go back to its default settings.
 
@@ -142,10 +149,17 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Keep Your Computer Awake
@@ -154,21 +168,7 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 ![Keep your computer awake with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/awake-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, instead of[changing the Power & sleep settings](https://www.makeuseof.com/windows-11-change-power-plan/) , you can use Awake. You can set Awake to keep your computer running indefinitely or for a set time. You can even choose to keep the monitor turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Of PowerToys
 
@@ -191,16 +191,24 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>[New] In 2024, The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-telegram-online-comprehensive-user-guide/"><u>[Updated] Mastering Telegram Online Comprehensive User Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-analyzing-the-financial-gains-of-podcasting/"><u>2024 Approved Analyzing the Financial Gains of Podcasting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-approach-to-using-and-revoking-windows-terminal-focus/"><u>A Practical Approach to Using & Revoking Windows Terminal Focus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-windows-11-key-combinations-for-screenshot-taking/"><u>Discover Windows 11 Key Combinations for Screenshot Taking</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-a-lengthy-filename-may-cause-system-issues/"><u>How a Lengthy Filename May Cause System Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-navigate-apples-podcast-acceptance-policy/"><u>How to Navigate Apple's Podcast Acceptance Policy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-clear-windows-cached-data/"><u>How to Swiftly Clear Windows' Cached Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/introducing-ad-free-innovation-windows-11s-modernized-start/"><u>Introducing Ad-Free Innovation: Windows 11'S Modernized Start</u></a></li>
-<li><a href="https://article-helps.techidaily.com/seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough-for-2024/"><u>Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-resolve-the-blue-screen-error-code-0x8007007e/"><u>Strategies to Resolve the Blue Screen Error: Code 0X8007007E</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-transforming-gaming-logs-alternatives-to-fbx-recording/"><u>[New] In 2024, Transforming Gaming Logs Alternatives to FBX Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-virtual-broadcast-battleground-obs-versus-shadowgl/"><u>[New] Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta/"><u>2024 Approved The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-your-screen-with-webcam-creativity/"><u>2024 Approved Transform Your Screen with Webcam Creativity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-strategy-for-windows-error-code-0x8007045d/"><u>Combat Strategy for Windows' Error Code: 0X8007045D</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-4-free-online-calendar-options-available-today/"><u>Discover the Best 4 Free Online Calendar Options Available Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-your-multi-monitor-experience-with-top-window-brightness-controls/"><u>Elevating Your Multi-Monitor Experience with Top Window Brightness Controls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-intrusive-windows-tracking-systems/"><u>Eliminate Intrusive Windows Tracking Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-reboot-loop-into-bios-setup/"><u>Fixing Windows Reboot Loop Into BIOS Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonize-your-hours-regain-windows-rhythm/"><u>Harmonize Your Hours, Regain Windows Rhythm</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-x100-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo X100 Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/howto-use-biometrics-with-windows-11-for-security/"><u>Howto: Use Biometrics with Windows 11 for Security</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-favorites-todays-10-music-moments/"><u>In 2024, Facebook's Favorites Today's #10 Music Moments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-of-adventure-arranging-the-how-to-train-your-dragon-films-correctly/"><u>Order of Adventure: Arranging the How to Train Your Dragon Films Correctly</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-folder-management-selective-move-on-windows-11/"><u>Revolutionize Folder Management: Selective Move on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-windows-11-experience-enabling-end-task-on-taskbar/"><u>Tailoring Your Windows 11 Experience: Enabling End Task on Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-office-glitch-resetting-errors/"><u>Troubleshooting Windows Office Glitch: Resetting Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-fbm-potential-top-fixes-for-pc-users/"><u>Unlocking FBM Potential: Top Fixes for PC Users</u></a></li>
 </ul></div>
 

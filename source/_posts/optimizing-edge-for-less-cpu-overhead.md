@@ -1,7 +1,7 @@
 ---
 title: Optimizing Edge for Less CPU Overhead
-date: 2024-09-24T18:25:09.525Z
-updated: 2024-09-28T18:26:16.800Z
+date: 2024-09-28T19:20:06.754Z
+updated: 2024-10-03T16:18:47.674Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 
  Spreading browser functions over several processes means that the failure of one is less likely to cause the entire browser to crash. It is also better for security, as process isolation means they don't share memory and can be given restricted privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View Edge's Processes on Windows
 
  You can see the processes Edge is using in the[Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) . This will show you the overall number of running processes but provides few details about what they are for. However, it will show you that many of the Edge processes consume minimal system resources.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 ![the task manager in the Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reduce the Number of Edge Processes on Windows
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
  But there are some simple ways to reduce the number of processes Edge uses if you're concerned about their impact on PC performance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Remove Unused Extensions
@@ -77,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
  Have a look at your installed browser extensions to see if you can remove any. Each active extension can have one or more processes running, so cleaning out your add-on clutter is an easy way to reduce the count.
 
  Check out[how to find, install, and manage extensions on Edge](https://www.makeuseof.com/find-install-manage-extensions-chrome-edge-vivaldi/) for more information on how to do this.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Change Edge's Settings
 
@@ -87,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
  Each open tab in Edge could result in ten or more processes. If you regularly leave multiple unused tabs open, closing them will instantly help to reduce the number of active processes.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is There a Better Browser Choice For Windows
@@ -124,24 +124,20 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-streamlining-video-production-green-screen-magic-unveiled/"><u>[New] Streamlining Video Production Green Screen Magic Unveiled</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-tweets-to-tomes-the-full-year-in-video/"><u>[Updated] In 2024, From Tweets to Tomes The Full Year in Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-movavi-video-pro-review-release/"><u>[Updated] Movavi Video Pro Review Release</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scripts-that-reshape-cinematic-history/"><u>[Updated] Scripts that Reshape Cinematic History</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>2024 Approved Effortless Online Transformation FF Vids to MP4 in High Definition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-your-connection-top-9-fixes-for-missing-bluetooth-in-windows-11/"><u>Bring Back Your Connection: Top 9 Fixes for Missing Bluetooth in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/decoding-the-reason-behind-the-medium-app-crashing-on-personal-computers/"><u>Decoding The Reason Behind The Medium App Crashing on Personal Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-operation-of-microsofts-phone-link-app/"><u>Demystifying the Operation of Microsoft's 'Phone Link' App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-ways-to-tackle-windows-rpc-errors-effectively/"><u>Easy Ways to Tackle Windows RPC Errors Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-impacts-of-ditching-windows-11s-taskbar-chatting-feature/"><u>Exploring Impacts of Ditching Windows 11'S Taskbar Chatting Feature</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-navigating-through-the-world-of-cosmetics-youtubes-top-artists/"><u>In 2024, Navigating Through the World of Cosmetics YouTube's Top Artists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-newbie-vlogger-tips-simple-video-concepts/"><u>In 2024, Newbie Vlogger Tips Simple Video Concepts</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>In 2024, Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-file-and-folder-combination-in-windows-11/"><u>Mastering File & Folder Combination in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/obscure-yet-outstanding-windows-11-themes/"><u>Obscure yet Outstanding Windows 11 Themes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functioning-office-outlook-alerts/"><u>Restoring Functioning Office Outlook Alerts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-blue-screen-0xc0000001-on-pc/"><u>Tackling Blue Screen 0xC0000001 on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tracking-and-tallying-windows-app-sizes/"><u>Tracking and Tallying Windows App Sizes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-broad-reach-strategy-share-your-twitch-channel-on-facebook/"><u>[New] 2024 Approved Broad Reach Strategy Share Your Twitch Channel on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-screen-with-adobe-captive-for-2024/"><u>[New] How To Record Screen With Adobe Captive for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-edge-in-online-gif-conversion-to-video-best-5/"><u>[Updated] Leading Edge in Online GIF Conversion to Video (Best 5)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-11-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme 11 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decision-guide-choosing-a-superior-windows-coder/"><u>Decision Guide: Choosing a Superior Windows Coder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-premium-live-video-solutions-with-features-like-manycams-virtual-webcams/"><u>Discover Premium Live Video Solutions with Features Like ManyCam's Virtual Webcams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-0x80072efd-a-windows-store-error-solution/"><u>Fixing 0X80072EFD: A Windows Store Error Solution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/g24-power-messages-recovery-recover-deleted-messages-from-g24-power-by-fonelab-android-recover-messages/"><u>G24 Power Messages Recovery - Recover Deleted Messages from G24 Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-improve-reading-of-excel-data-on-windows-notepad/"><u>Hacks: Improve Reading of Excel Data on Windows Notepad</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-affordable-game-controllers-under-100/"><u>In 2024, Ultimate Affordable Game Controllers Under $100</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-right-click-menus-with-effective-fixes/"><u>Rejuvenate Right-Click Menus with Effective Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-multidevice-scribbling-with-win11s-notes-feature/"><u>Simplify Multidevice Scribbling with WIN11'S Notes Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-how-to-fix-non-launching-problems-on-your-device/"><u>Star Wars Jedi: Fallen Order - How to Fix Non-Launching Problems on Your Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailor-made-interface-task-manager-on-win11/"><u>Tailor-Made Interface: Task Manager on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-20-critical-command-prompt-commands/"><u>The Ultimate Guide to 20 Critical Command Prompt Commands</u></a></li>
 </ul></div>
 

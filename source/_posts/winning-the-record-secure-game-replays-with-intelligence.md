@@ -1,7 +1,7 @@
 ---
 title: "Winning the Record: Secure Game Replays with Intelligence"
-date: 2024-09-19T17:45:26.132Z
-updated: 2024-09-22T02:59:19.876Z
+date: 2024-09-29T19:21:15.953Z
+updated: 2024-10-03T21:10:07.727Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Custom Capture Profile in Intel Graphics Command Center
 
  You’re not stuck with the default profile when capturing gameplay on Intel Graphics Command Center. You can create a custom profile to, for example, use one for saving your captures to your computer and another for streaming to Twitch.
@@ -52,10 +59,32 @@ To create a custom profile, follow the steps below:
 2. Click**Custom** (the plus sign) below the**Capture Profiles** heading. The new profile will appear on the far right as a card, and it will have a generic name like**Custom 1** .  
 ![An intel graphics command center custom profile card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-custom-profile.jpg)
 3. You can rename the custom profile by clicking the**three horizontal dots** in the top right corner of the card and selecting**Rename** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![renaming a custom profile in the intel graphics command center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-rename-custom-profile.jpg)
 4. Tweak the**Resolution** ,**Save to Location** ,**Output File Name** , and**File Format** options to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now your custom profile is ready to go.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It’s All About Capturing Awesome Gaming Moments on Windows
 
@@ -74,12 +103,18 @@ Now your custom profile is ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-demystifying-the-publics-vllo-interpretation/"><u>[Updated] 2024 Approved Demystifying the Public's VLLO Interpretation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-elite-selection-of-stardew-customizations-and-updates/"><u>[Updated] The Elite Selection of Stardew Customizations and Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond/"><u>2024 Approved Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-obs-studios-failed-to-connect-to-server-error-in-windows/"><u>7 Ways to Fix OBS Studio's Failed to Connect to Server Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-settings-to-tweak-on-a-new-windows-11-install/"><u>8 Settings to Tweak on a New Windows 11 Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719362383486-enhance-full-screen-screenshot-success-in-windows-snip-and-sketch-tool/"><u>Enhance Full-Screen Screenshot Success in Windows' Snip & Sketch Tool.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716461611385-how-to-view-youtube-statistics/"><u>How to View YouTube Statistics</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-humorous-hits-lifetime-access-to-memes/"><u>In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ical-techniques-for-rapid-deletion-of-comments/"><u>Practical Techniques for Rapid Deletion of Comments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/resolve-androidios-issues-with-fb-video-playback/"><u>Resolve Android/iOS Issues with FB Video Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719360119482-revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now</u></a></li>
+</ul></div>
 

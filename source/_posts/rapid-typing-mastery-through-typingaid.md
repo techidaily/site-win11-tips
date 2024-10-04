@@ -1,7 +1,7 @@
 ---
 title: Rapid Typing Mastery Through TypingAid
-date: 2024-09-22T19:10:11.732Z
-updated: 2024-09-28T18:56:51.234Z
+date: 2024-09-29T18:48:28.636Z
+updated: 2024-10-03T22:18:50.013Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
@@ -79,13 +79,26 @@ Then, run TypingAid.
 ![TypingAid Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Let's see the essential settings worth tweaking in TypingAid.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. General Settings
 
@@ -106,17 +119,17 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
 * **Show wordlist after X characters** defines how many characters you'll have to type for TypingAid to start showing suggestions.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
 * The rest of the options affect the appearance of the suggestion box that pops up as you're typing. You can tweak them to change where the box appears (**List appears X pixels below cursor**), its font, its opacity, and so on. You can leave them as they are since their effects are primarily aesthetic.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Programs
 
@@ -125,24 +138,24 @@ Let's see the essential settings worth tweaking in TypingAid.
 ![TypingAid Settings Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are separate fields for defining where TypingAid will be either enabled or disabled.
 
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
- It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
 
 ### 4\. Advanced
 
@@ -151,13 +164,6 @@ Let's see the essential settings worth tweaking in TypingAid.
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Putting TypingAid Into Action
 
@@ -194,18 +200,21 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-videotwit-extractor-directly-download-tweeted-media-for-mobile-for-2024/"><u>[New] VideoTwit Extractor Directly Download Tweeted Media for Mobile for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-computer-experience-with-these-6-tools/"><u>Accelerate Your Computer Experience with These 6 Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/effortlessly-capture-and-archive-your-favorite-fb-story-moments-for-2024/"><u>Effortlessly Capture and Archive Your Favorite FB Story Moments for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-x-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone X to iPad? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-xr-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone XR to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/overview-of-google-ar-sticker-and-its-alternative/"><u>Overview of Google AR Sticker and Its Alternative</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/techniques-for-restarting-disrupted-live-feeds-fb/"><u>Techniques for Restarting Disrupted Live Feeds (FB)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-teamsters-downtime-on-windows-11-10/"><u>Troubleshooting Teamsters Downtime on Windows 11, 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-god-of-war-on-windows/"><u>Troubleshooting Tips for Persistent Crashes in God of War on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-vac-denied-access-in-steam-windows/"><u>Troubleshooting VAC Denied Access in Steam Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turn-your-spoken-words-into-written-sense-using-whisper/"><u>Turn Your Spoken Words Into Written Sense Using Whisper</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-primes-premier-pieces-the-watched-and-tweeted-superstars-for-2024/"><u>[New] Prime’s Premier Pieces The #Watched & Tweeted Superstars for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>[New] The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleash-creativity-no-cost-high-quality-text-psds/"><u>[Updated] 2024 Approved Unleash Creativity No-Cost, High-Quality Text PSDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-old-dock-compatibility-with-switchs-oled/"><u>Assessing Old Dock Compatibility with Switch's OLED</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-overcome-settings-loss-after-system-shutdown/"><u>Guide to Overcome Settings Loss After System Shutdown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-70-lite-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 70 Lite 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-chatgpt-plus-right-for-you-explore-the-5-key-advantages-to-secure-your-spot-today/"><u>Is ChatGPT Plus Right for You? Explore the 5 Key Advantages to Secure Your Spot Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-pcs-potential-onedrive-fails-remedied/"><u>Mastering Your PC's Potential: OneDrive Fails Remedied</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-and-correcting-disk-readwrite-issues/"><u>Preventing and Correcting Disk Read/Write Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-automatic-voice-feature-in-ms-word/"><u>Restoring Automatic Voice Feature in MS Word</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shut-down-specification-failure-sticker-in-os/"><u>Shut Down Specification Failure Sticker in OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-preserve-windows-system-time-settings/"><u>Strategies to Preserve Windows System Time Settings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-star-wars-galaxies-the-old-republic-swtor-initialization-failures/"><u>Successfully Resolving Star Wars Galaxies The Old Republic (SWTOR) Initialization Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-methods-to-use-telnet-in-windows-11/"><u>Three Methods to Use Telnet in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-rainbow-six-siege-voice-communication-issues/"><u>Troubleshooting Guide: How to Fix Rainbow Six Siege Voice Communication Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-install-lumafusion-on-macbook-proair-or-find-suitable-alternatives/"><u>Updated 2024 Approved Install Lumafusion on MacBook Pro/Air or Find Suitable Alternatives</u></a></li>
 </ul></div>
 

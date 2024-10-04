@@ -1,7 +1,7 @@
 ---
 title: Setting Up RGB Lighting in Windows 11
-date: 2024-09-25T16:53:35.357Z
-updated: 2024-09-28T17:14:06.213Z
+date: 2024-09-30T23:08:21.961Z
+updated: 2024-10-03T18:25:29.858Z
 tags:
   - windows10
   - windows11
@@ -39,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable RGB Lighting Controls in Windows 11
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Change to the Insider Build
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
  You can download the Insider build 25295 by enrolling in the Windows Insider program and then checking for new builds using the Update Windows section in the Settings app.
 
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable RGB Lighting Using ViVeTool
 
@@ -88,13 +74,27 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Control All Your RGB Peripherals in One Place
 
@@ -115,18 +115,18 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[Updated] Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-edge-1-ranked-4k-gaming-pcs/"><u>2024 Approved Leading Edge #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002500878-fix-your-controller-issues-instantly-a-simple-solution/"><u>Fix Your Controller Issues Instantly: A Simple Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-s23-tactical-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy S23 Tactical Edition FRP In 3 Different Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Itel support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-clear-desktop-instructions-for-windows-recycle-bin-auto-empty/"><u>Master Clear Desktop: Instructions for Windows Recycle Bin Auto-Empty</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-nvidia-1080-drivers-compatible-with-windows-11/"><u>Seamless Installation: NVIDIA 1080 Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-successfully-locating-policy-management-tools/"><u>Steps to Successfully Locating Policy Management Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-savvy-tips-restarting-windows-11-apps/"><u>Tech Savvy Tips: Restarting Windows 11 Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-notepads-display-from-light-to-dark-theme-win-11/"><u>Transitioning Notepad's Display From Light to Dark Theme (Win 11)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-the-art-of-bulk-video-import-on-tiktok/"><u>[New] Mastering the Art of Bulk Video Import on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>[New] The Ultimate 4K Aerial Photography Guide MI Drone Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultra-hd-playback-best-ps5-and-hdmi-21-compatible-monitors/"><u>[Updated] 2024 Approved Ultra HD Playback Best PS5 & HDMI 2.1 Compatible Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-connectivity-using-android-phones-in-windows-11/"><u>Enhancing PC Connectivity: Using Android Phones in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/flipping-photos-for-followers-a-rotational-approach-for-insta-success-for-2024/"><u>Flipping Photos for Followers A Rotational Approach for Insta Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disable-driver-signature-enforcement-and-install-unsigned-drivers-on-windows/"><u>How to Disable Driver Signature Enforcement and Install Unsigned Drivers on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-canon-mx490-driver-on-your-windows-machine-easily/"><u>Install Updated Canon MX490 Driver on Your Windows Machine Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-raid-driver-download-and-update-windows-11-10-8-7/"><u>Intel RAID Driver Download & Update – Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-heat-efficiency-in-your-windows-11-computer/"><u>Managing Heat Efficiency in Your Windows 11 Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-linux-experience-via-windows-resources/"><u>Optimizing Linux Experience via Windows Resources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-uninstalling-older-windows-oses-causing-errors/"><u>Solutions for Uninstalling Older Windows OSes Causing Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-routes-to-mastering-win-policy-rules/"><u>The Ultimate Routes to Mastering Win Policy Rules</u></a></li>
 </ul></div>
 

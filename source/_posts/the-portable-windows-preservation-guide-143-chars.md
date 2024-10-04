@@ -1,7 +1,7 @@
 ---
 title: The Portable Windows Preservation Guide (143 Chars)
-date: 2024-09-23T16:15:24.574Z
-updated: 2024-09-28T18:21:33.727Z
+date: 2024-09-30T17:09:29.474Z
+updated: 2024-10-03T17:06:33.305Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan for the Update Files
 
  Next, you'll have to get Portable Update to search for the update files you need. So, click on the **Search** tab at the top, and then click on **Start** in the top-right corner.
 
 ![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
@@ -47,38 +61,30 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  Now, that you know what's available, it's time to download the files for offline installation.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Download the Windows Update You Want
 
  To download the files, click on the **Download** tab at the top to view the downloadable files, along with other details, such as their size, and severity. Click on the checkbox on the right of the update you want to download (you can select more than one), and then click on **Start** in the top-right corner of the screen. When selecting the files to download, make sure their **Status** column says **Not Installed**.
 
 ![the Download tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-download-tab-in-portable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the download finishes, it will disappear from the list. Portable Update will place the Windows Update files in the **Cache** folder, which is where it will look when you try to install them on the other computer.
 
 ![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you're ready to move the program over to the offline computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install the Selected Windows Updates
 
@@ -87,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 ![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
@@ -99,23 +105,6 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-convenient-ways-to-archive-your-insta-story/"><u>[Updated] Convenient Ways to Archive Your Insta Story</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>[Updated] Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-rhythm-rulebook-seamlessly-mixing-music-into-instagram-posts/"><u>2024 Approved The Rhythm Rulebook Seamlessly Mixing Music Into Instagram Posts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoidance-of-crashes-in-the-epic-launcher-for-win-users/"><u>Avoidance of Crashes in the Epic Launcher for Win Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blackview-minipc-extended-storage-mediocre-execution/"><u>Blackview MiniPC: Extended Storage, Mediocre Execution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-with-automated-folder-pairings-in-new-windows-os/"><u>Boost Efficiency with Automated Folder Pairings in New Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-efficiency-hotkeys-for-instantaneous-windows-redos/"><u>Boost Efficiency: Hotkeys for Instantaneous Windows Redos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/grossenkonvertierung-fur-facebook-videos-losungsweg-zum-erfolg/"><u>Größenkonvertierung Für Facebook-Videos: Lösungsweg Zum Erfolg</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-losing-wi-fi-connection-a-guide-with-5-tips/"><u>How to Stop Your iPhone From Losing Wi-Fi Connection: A Guide with 5 Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-defy-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Defy 2 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719298161302-overcoming-grayed-out-screensaver-in-win-os-top-fixes/"><u>Overcoming Grayed-Out Screensaver in Win OS: Top Fixes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +112,19 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-adhering-to-twitters-video-dimension-standards/"><u>[New] 2024 Approved Adhering to Twitter's Video Dimension Standards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-getting-live-on-instagram-a-simple-how-to/"><u>[Updated] Getting Live on Instagram A Simple How-To</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-manual-for-extracting-hd-from-facebook/"><u>[Updated] The Ultimate Manual for Extracting HD From Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-load-drivers-without-sie-compliance-on-pcs/"><u>How to Load Drivers Without SIE Compliance on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-chromium-from-spontaneously-launching-tabs/"><u>How to Prevent Chromium From Spontaneously Launching Tabs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-making-your-igtv-more-inclusive-with-subtitles/"><u>In 2024, Making Your IGTV More Inclusive with Subtitles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-ringtone-repository-excellent-sources/"><u>In 2024, Perfect Ringtone Repository Excellent Sources</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linguistic-harmony-installing-fonts-for-all-windows-users/"><u>Linguistic Harmony: Installing Fonts for All Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-upgrade-rejected-error-messages/"><u>Overcoming Windows Upgrade Rejected Error Messages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-vlc-video-editor-trim-and-optimize-your-videos-for-2024/"><u>Updated Mac VLC Video Editor Trim and Optimize Your Videos for 2024</u></a></li>
+</ul></div>
+

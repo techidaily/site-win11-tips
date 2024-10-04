@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Phone Link App: What Is It and How Do You Use It?"
-date: 2024-09-23T18:17:15.700Z
-updated: 2024-09-28T18:22:18.743Z
+date: 2024-10-01T16:00:28.062Z
+updated: 2024-10-04T00:47:18.041Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Screenshot of Phone Link in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Phone Link is Microsoft's answer to interacting with your mobile device from your Windows PC. The app covers your everyday needs such as viewing text messages, responding to notifications, managing photos, and making calls. You don't have to pick up and unlock your Android or iOS phone.
 
  That said, Phone Link lacks some features compared to more premium syncing options like [mirroring your Android screen directly](https://www.makeuseof.com/tag/mirror-android-screen-pc-mac-without-root/) or [using Samsung Flow with a compatible Samsung device](https://www.makeuseof.com/samsung-flow-connect-windows-galaxy/).
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  However, as a native Windows utility, it offers some advantages. Phone Link comes preinstalled on most versions of Windows 11 (and Windows 10 with the May 2019 Update) and can be quickly found in the Start menu. But if it's not installed on your PC, you may be prompted to head over to [Phone Link's Microsoft Store page](https://apps.microsoft.com/detail/9NMPJ99VJBWV?hl=en-us&gl=US) and download it from there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The System Requirements for Phone Link
@@ -60,29 +67,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 * **Android**: The phone and the Windows PC must be on the same Wi-Fi network to use Phone Link. You can additionally connect with Bluetooth for extra features like calling. The minimum specification required is Android 7.0 or above.
 * **iOS**: An iPhone can only connect through Bluetooth, so ensure that Bluetooth is switched on, and the iPhone is within range. Your iPhone should be running at least iOS 14 or above.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Phone Link With Windows
 
 ![Screenshot of the Phone Link set up screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_set_up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll have to choose between pairing an Android or an iPhone. To pair your PC with your phone, install the companion app for Android or iOS. Download and install either [Link to Windows for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2008631/https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en%5FUS) or [Link to Windows for iOS](https://apps.apple.com/us/app/link-to-windows/id6443686328) from the Google Play Store or Apple Store respectively. Then, launch Phone Link on your PC or locate it from Search on the Windows 11 taskbar.
 
@@ -94,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Next, you'll be prompted to grant some system permissions on your device. Allow or disallow to manage what you would like to sync—however, the handshake works best with full permissions. Also, not granting full permissions or enabling Battery saver mode on your phone can cause [syncing errors with Phone Link](https://www.makeuseof.com/how-to-fix-phone-link-app-not-working-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Basic Features of the Phone Link App
 
 ![Screenshot of the Phone Link photos screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Assuming you're connected with Bluetooth or Wi-Fi, Phone Link has these core features:
 
@@ -115,28 +102,14 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Screenshot of the Phone Link messages screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_messages.jpg)
 
- More advanced features, such as screen mirroring, using Android apps on your PC, and dragging and dropping files between devices, are also available. However, they are restricted to certain compatible phones, mostly under the Samsung brand. This will likely disappoint anyone without a compatible device. However, you don't lose out on much, and the bridge between the two devices is still effective, easy, and free.
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-frames-from-apples-display-max-length-156/"><u>[New] 2024 Approved Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-more-subscribers-on-youtube/"><u>[New] 2024 Approved How to Get More Subscribers on YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-get-more-followers-on-igtv-5-ways/"><u>[Updated] In 2024, How to Get More Followers on IGTV [5 Ways]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastery-of-color-grading-premiere-pros-lut-capabilities-for-2024/"><u>[Updated] Mastery of Color Grading Premiere Pro's LUT Capabilities for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-subtle-volume-diminishment-in-logic-pro-for-2024/"><u>Achieving Subtle Volume Diminishment in Logic Pro for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-missing-mfc71udll-in-windows-os/"><u>Addressing Missing Mfc71u.dll in Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correct-disabled-volume-adjustment-on-windows/"><u>Correct Disabled Volume Adjustment on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hacking-the-login-loop-in-windows-1011/"><u>Hacking the Login Loop in Windows 10/11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-stop-overwatch-from-stalling-or-freezing/"><u>How to Troubleshoot and Stop Overwatch From Stalling or Freezing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x50-gt-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X50 GT to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insightful-strategies-for-hardware-serial-numbers-on-windows/"><u>Insightful Strategies for Hardware Serial Numbers on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-with-ease-the-windows-11-touchpad-guide/"><u>Navigating with Ease: The Windows 11 Touchpad Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/productive-power-up-with-top-6-windows-apps-for-organizers/"><u>Productive Power-Up with Top 6 Windows Apps for Organizers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-walkthrough-for-finding-windows-keys-losses/"><u>The Complete Walkthrough for Finding Windows Keys Losses</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-mastery-building-hotkeys-for-repetitive-text-snapping-tasks/"><u>Windows 11 Mastery: Building Hotkeys for Repetitive Text Snapping Tasks</u></a></li>
-</ul></div>
+ More advanced features, such as screen mirroring, using Android apps on your PC, and dragging and dropping files between devices, are also available. However, they are restricted to certain compatible phones, mostly under the Samsung brand. This will likely disappoint anyone without a compatible device. However, you don't lose out on much, and the bridge between the two devices is still effective, easy, and free.
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,3 +118,22 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-deciding-on-a-personal-social-media-platform-tiktok-or-youtubes-shorts/"><u>[Updated] In 2024, Deciding on a Personal Social Media Platform TikTok or YouTubes' Shorts?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-out-loud-free-memetic-creators/"><u>[Updated] Laugh Out Loud FREE Memetic Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/"><u>[Updated] Navigating Retro Facebook Stories PC/Mobile Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nullifying-windows-update-notifications/"><u>Nullifying Windows Update Notifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slowing-the-spree-of-lifes-speed-in-your-windowed-world/"><u>Slowing the Spree of Life’s Speed in Your Windowed World</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-nvidia-cp-unauthorized-access-on-windows/"><u>Solving Nvidia CP Unauthorized Access on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-guide-to-replace-msvcr120dll-in-windows/"><u>Step-by-Step Fix Guide to Replace MSVCR120.dll in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-vac-refusal-message-on-pc/"><u>Steps to Tackle VAC Refusal Message on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-cards-of-2024-ultimate-guide-to-value-packed-gaming-gpus/"><u>Top Rated Graphics Cards of 2024: Ultimate Guide to Value-Packed Gaming GPUs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-audio-malfunctions-in-microsofts-slide-decks/"><u>Troubleshooting Audio Malfunctions In Microsoft's Slide Decks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-rainbow-six-extraction-pc-issues/"><u>Troubleshooting Tips for Resolving Rainbow Six Extraction PC Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-a23-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy A23 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

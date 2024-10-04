@@ -1,7 +1,7 @@
 ---
 title: Overcoming Server Access Denial Windows-Wise
-date: 2024-09-23T18:44:45.155Z
-updated: 2024-09-28T17:32:56.218Z
+date: 2024-09-27T16:19:17.944Z
+updated: 2024-10-04T01:25:33.073Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, Rule Out Server-Side Issues
 
  First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 * If you encounter the same error on another laptop, even when connected to a different internet connection, it is likely a server-side issue, so you should wait until the administrator fixes it.
 
  Once you're confident there is no server-side issue, apply the appropriate fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Next, Apply Preliminary Checks
 
@@ -58,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
@@ -73,33 +94,19 @@ thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
 
  Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Network Related Issues
 
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Disable or Enable Your VPN
 
@@ -117,13 +124,6 @@ Proceed to the next step if either of these changes does not help.
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
 ## Ensure the Firewall Isn't Causing the Problem
@@ -131,10 +131,10 @@ Proceed to the next step if either of these changes does not help.
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix Annoying Browser Errors on Windows
@@ -156,18 +156,24 @@ Proceed to the next step if either of these changes does not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-download-youtube-icons-quickly-web-os-specific-options-explained/"><u>[Updated] 2024 Approved Download YouTube Icons Quickly Web, OS-Specific Options Explained</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-decoding-ios-digital-screen-snatcher-secrets/"><u>2024 Approved Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-ms-defenders-restrictions-for-additional-virus-protection/"><u>Bypassing MS Defender's Restrictions for Additional Virus Protection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-mcuicntexe-non-existent-window-complaint/"><u>Dealing with McUICnt.exe Non-Existent Window Complaint</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-p55plus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel P55+ FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-redmi-a2plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Redmi A2+ Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-remove-the-background-of-an-image-using-paint-or-paint-3d/"><u>How to Remove the Background of an Image Using Paint or Paint 3D</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-defy-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Defy 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-cab-files-their-purpose-within-the-windows-domain/"><u>Insight Into CAB Files: Their Purpose Within the Windows Domain</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-modifying-login-credentials-on-win-11/"><u>Quick Guide to Modifying Login Credentials on Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-deactivated-office-alerts-in-windows/"><u>Resolving Deactivated Office Alerts in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quest-for-laughter-through-ai-is-chatgpts-joke-making-effective-and-funny/"><u>The Quest for Laughter Through AI: Is ChatGPT's Joke-Making Effective and Funny?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cost-effective-cumulus-vault-for-colossal-archives/"><u>[New] Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-gopro-mastery-top-15-dynamic-color-look-up-table-reviews/"><u>[New] In 2024, GoPro Mastery Top 15 Dynamic Color Look-Up Table Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-team-dynamics-through-effective-video-calls/"><u>[Updated] 2024 Approved Enhancing Team Dynamics Through Effective Video Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-clear-obstacle-youtube-tweets-on-google-chrome-for-2024/"><u>[Updated] Clear Obstacle YouTube Tweets on Google Chrome for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-social-media-trends/"><u>[Updated] Infographic - Social Media Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-spotlight-screenshot-preferences-efficiently-in-windows/"><u>Configure Spotlight Screenshot Preferences Efficiently in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-stealth-network-safeguarding-in-windows-settings/"><u>Crafting Stealth Network Safeguarding in Windows Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-appeal-animated-backgrounds-in-windows-11/"><u>Elevate Your PC's Appeal: Animated Backgrounds in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-fixing-authentication-in-windows-os/"><u>Essential Guide to Fixing Authentication in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-save-location-errors-in-windows-pcs/"><u>How to Correct Save Location Errors in Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-frozen-itunes-on-your-windows-system/"><u>How to Tackle Frozen iTunes on Your Windows System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-winxvideo-the-complete-ai-powered-video-editors-handbook-learn-recording-and-compression-techniques/"><u>Mastering Winxvideo: The Complete AI-Powered Video Editor's Handbook – Learn Recording and Compression Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-unable-to-link-error-guide-for-nvidia-experience-on-windows-11/"><u>Overcoming Unable to Link Error: Guide for Nvidia Experience on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-guide-youtube-videos-turned-into-engaging-animation-gifs-for-2024/"><u>Quick Guide YouTube Videos Turned Into Engaging Animation Gifs for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-getting-madden-nfl-20-running-smoothly-on-pc/"><u>Step-by-Step Solution: Getting Madden NFL 20 Running Smoothly on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-handle-not-handled-interrupt-in-windows-systems/"><u>Steps to Handle Not Handled Interrupt in Windows Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-perfect-frame-a-guide-to-polishing-videos-with-instagram-edits-for-2024/"><u>The Perfect Frame A Guide to Polishing Videos with Instagram Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-non-responsive-key-to-control-display-brightness-on-windows-11/"><u>Unblocking Non-Responsive Key to Control Display Brightness on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-power-of-your-digital-brush-on-windows-11-with-paint-cocreator-for-ai-artistry/"><u>Unleash the Power of Your Digital Brush on Windows 11 with Paint Cocreator for AI Artistry</u></a></li>
 </ul></div>
 

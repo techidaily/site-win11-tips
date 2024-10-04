@@ -1,7 +1,7 @@
 ---
 title: Master RGB Settings in Windows 11
-date: 2024-09-27T16:29:43.892Z
-updated: 2024-09-28T19:10:36.847Z
+date: 2024-09-28T16:37:19.386Z
+updated: 2024-10-03T19:14:49.564Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable RGB Lighting Controls in Windows 11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Change to the Insider Build
@@ -62,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
  You can download the Insider build 25295 by enrolling in the Windows Insider program and then checking for new builds using the Update Windows section in the Settings app.
 
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Enable RGB Lighting Using ViVeTool
 
@@ -77,23 +90,16 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 ![Enabling RGB Lighting Using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabling-rgb-lighting-using-vivetool.jpg)
 7. Once you boot to the Desktop, press**Win + I** to launch the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click on the**Personalization** option in the left-hand side menu.  
 ![RGB Lighting Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-1.jpg)
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control All Your RGB Peripherals in One Place
@@ -115,18 +121,19 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>[New] Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-adventure-top-5-methods-for-screening-minecraft-on-apple-machines-for-2024/"><u>[Updated] Capturing Adventure Top 5 Methods for Screening Minecraft on Apple Machines for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/tsutaya-vs/"><u>「TSUTAYA vs ゲオ: レンタルコストと在庫比較 - お勧めの店をご紹介」</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/avs-video-editor-a-comprehensive-analysis/"><u>AVS Video Editor A Comprehensive Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circumventing-the-failed-to-launch-lunar-client-windows-message/"><u>Circumventing the Failed to Launch: Lunar Client Windows Message</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-the-task-of-installing-gmaps-on-windows/"><u>Conquering the Task of Installing GMaps on Windows</u></a></li>
-<li><a href="https://discover-great.techidaily.com/digiarty-software-directory-comprehensive-list-of-dvd-conversion-tools-and-movie-ripping-applications/"><u>Digiarty Software Directory: Comprehensive List of DVD Conversion Tools & Movie Ripping Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-actions-and-activation-labels-in-dev-tools/"><u>Exploring Actions & Activation Labels in Dev Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-cheapest-way-designing-successful-youtube-ad-campaigns/"><u>In 2024, The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectify-restore-responsive-shortcut-keys-in-windows-11/"><u>Rectify: Restore Responsive Shortcut Keys in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safe-stepping-stones-on-windows-11-top-8-to-skip/"><u>Safe Stepping Stones on Windows 11: Top 8 To Skip</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
-<li><a href="https://win11.techidaily.com/the-rise-of-ai-in-next-gen-windows/"><u>The Rise of AI in Next-Gen Windows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-be-a-part-of-the-buzz-top-10-tiktok-tests-for-2024/"><u>[Updated] Be a Part of the Buzz Top 10 TikTok Tests for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hues-the-top-10-sites-to-download-styleful-wallpapers/"><u>[Updated] Harmonious Hues The Top 10 Sites to Download Styleful Wallpapers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-prevent-android-apps-from-running-in-the-background/"><u>Effective Techniques to Prevent Android Apps From Running in the Background</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ipad-pro-vs-macbook-pro-showdown-discover-what-sets-them-apart/"><u>IPad Pro vs MacBook Pro Showdown: Discover What Sets Them Apart</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-windows-character-map-functionality/"><u>Overcoming Issues with Windows Character Map Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-productivity-top-7-ways-to-use-windows-11-smartly/"><u>Propel Productivity: Top 7 Ways to Use Windows 11 Smartly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-lack-of-hypervisor-in-windows-sandbox-environment/"><u>Resolving Lack of Hypervisor in Windows Sandbox Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-all-harry-potter-films-sequentially/"><u>Step-by-Step Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-remove-hyber-v-from-windows-11-pro/"><u>Steps to Remove Hyber-V From Windows 11 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/techniques-and-tools-for-effective-hand-tracking/"><u>Techniques & Tools for Effective Hand Tracking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-creativity-crisis-in-modern-vr-content/"><u>The Creativity Crisis in Modern VR Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-end-of-cortana-dawn-of-four-alternatives-in-windows/"><u>The End of Cortana, Dawn of Four Alternatives in Windows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators-for-2024/"><u>Updated Demystifying AI Game Generators for 2024</u></a></li>
 </ul></div>
 

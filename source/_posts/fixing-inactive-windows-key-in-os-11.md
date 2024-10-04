@@ -1,7 +1,7 @@
 ---
 title: Fixing Inactive Windows Key in OS 11
-date: 2024-09-25T18:59:23.407Z
-updated: 2024-09-28T16:17:24.275Z
+date: 2024-10-02T21:08:36.779Z
+updated: 2024-10-04T00:20:33.383Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check That Windows Isn’t Already Activated
 
  You can get a computer with preinstalled Windows, so you don't have to deal with the process of installing the operating system by yourself. Usually, you can set it up when you first turn on your PC.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
  If the status is**Active** , your problem stops here; you're already activated.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Activation Troubleshooter
 
  If you didn’t manage to activate Windows 11 with your activation key, you can run the Activation troubleshooter to fix the problem.
@@ -60,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  There’s a chance there’s nothing wrong with the activation key or your computer, but you can't activate Windows because the digital license doesn’t match the Windows edition. If you’re trying to use a Windows Home activation key, but you’ve installed Windows Pro, there’s no way you can make it work.
 
  In this case, ask for a refund and get a digital license that matches your Windows edition.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use a Genuine Activation Key
 
@@ -83,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  This will open an official Microsoft storefront where you can buy a key without any risk of scammers.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure You're Using the Key on One Computer Only
@@ -95,29 +102,22 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Run an SFC Scan
 
  If there are any corrupted or damaged system files on your computer, you may have difficulties using the Windows activation key. In this case, you should run a System File Checker scan.
 
  Launch Command Prompt with administrative rights, type**sfc /scannow,** and press**Enter** . Windows will now search for any corrupted or damaged files and replace them automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Activation Key Blunders
 
@@ -138,17 +138,24 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-playthroughs-with-precision-and-flair-for-2024/"><u>[New] Capturing Playthroughs with Precision and Flair for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok/"><u>[Updated] 2024 Approved Crafting Compelling Storylines with Top 20 Anime Influences on TikTok</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-android-streaming-virtual-reality-content/"><u>2024 Approved Mastering Android Streaming Virtual Reality Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
-<li><a href="https://fox-http.techidaily.com/combining-youtube-harmonies-in-moving-images-for-2024/"><u>Combining YouTube Harmonies in Moving Images for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Zero 30 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-x50-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor X50 Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-model-names-unraveling-your-device-in-six-easy-ways/"><u>Mastering Model Names: Unraveling Your Device in Six Easy Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/plotting-your-path-in-the-realm-of-visual-arts-for-2024/"><u>Plotting Your Path in the Realm of Visual Arts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-smooth-asana-operations-on-pcs/"><u>Restoring Smooth Asana Operations on PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shake-free-video-post-capture-tips-and-tricks/"><u>Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-enable-digital-supervision-in-windows-11-pcs/"><u>Steps to Enable Digital Supervision in Windows 11 PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-beyond-the-lens-essential-ios-and-android-video-platforms/"><u>[New] 2024 Approved Beyond the Lens Essential iOS and Android Video Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices-for-2024/"><u>[Updated] Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-unwavering-visual-captures/"><u>A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288843583-ai/"><u>AI技術を用いてグリーンバックの背景で動画を編集: 手間のかからない自動処理方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721424669426-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nt-creators-revenue-gain-from-each-click-for-2024/"><u>Content Creators' Revenue Gain From Each Click for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-game-recommendations-on-win11/"><u>Disabling Game Recommendations on Win11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-14-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 14 Safe and Legal</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/futureling-mastering-languages-at-dubai-expo-2020/"><u>FutureLing: Mastering Languages at Dubai Expo 2020</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-internal-error-has-occurred-remote-desktop-connection-error-in-windows-10-and-11/"><u>How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editor-showdown-the-best-options-for/"><u>Mac Video Editor Showdown The Best Options For</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/off-screen-woes-reverse-them-with-these-top-6-window-revival-strategies/"><u>Off-Screen Woes? Reverse Them with These Top 6 Window Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pathways-to-the-system32-folder-in-win11/"><u>Pathways to the System32 Folder in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-from-windows-default-browser/"><u>Reducing Resource Consumption From Windows' Default Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-windows-media-player-made-simple/"><u>Starting Windows Media Player Made Simple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-pc-must-uninstall-windows-programs/"><u>Streamline Your PC: Must-Uninstall Windows Programs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-resurrection-without-the-windows-era/"><u>Tech Resurrection Without the Windows Era</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-trouble-free-opening-of-csgo-on-windows-11/"><u>Tips for Trouble-Free Opening of CS:GO on Windows 11</u></a></li>
 </ul></div>
 

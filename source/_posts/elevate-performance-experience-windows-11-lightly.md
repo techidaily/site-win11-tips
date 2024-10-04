@@ -1,7 +1,7 @@
 ---
 title: "Elevate Performance: Experience Windows 11 Lightly"
-date: 2024-09-27T17:16:12.570Z
-updated: 2024-09-28T18:43:13.065Z
+date: 2024-09-26T22:45:06.589Z
+updated: 2024-10-03T17:49:45.148Z
 tags:
   - windows10
   - windows11
@@ -33,25 +33,11 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
  NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can You Run It on Any Old PC?
 
  Yes. It is possible to run Tiny11 on an old PC. But remember that this is a lightweight version of Windows 11 that can run with 2 GB RAM and 8 GB storage space. Someone even managed to run Tiny11 with 256 MB RAM, but the OS was barely usable. But as your install updates and apps, you will need a little bit more hardware resources to smoothly run this version of Windows 11.
 
  If you have an old desktop or laptop with 2-4 GB RAM and 32-64 GB storage, you can run Tiny 11 without any issues. Moreover, you don't need to worry about using a system with TPM 2.0 and Secure Boot because Tiny11 bypasses both these stern requirements before installation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Tiny11
 
@@ -64,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Installing Tiny11
 
@@ -83,8 +76,29 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 3. Windows Installer will launch. Select the appropriate region, keyboard layout, and time and language format, and click on the**Next** button.  
 ![Select Language and Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-language-and-region.jpg)
 4. Accept the EULA by clicking on the checkbox at the bottom of the page, and then click on**Next** .
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
 2. Select your country or region and click on the**Yes** button. Then, pick your preferred keyboard layout and click on the**Yes** button. Click on the**Skip** button when the setup asks for selecting a second keyboard layout.
@@ -96,14 +110,14 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ![Windows 11 by Tiny11 in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-by-tiny11-in-action.jpg)
 
- The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
 
 ## Tiny11: The Good Points
 
@@ -116,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
  Coming to the performance aspect, we first tested it on a virtual machine with 2 GB RAM and two processor cores. The system was usable but after launching a web browser the CPU usage and Memory usage shot to 75 percent levels. When we opened a few more tabs, the CPU and RAM usage hovered in the 90-100 percent range. So, it is best if you use a system with a processor that has four or more cores and at least 4 GB RAM to run and multitask smoothly.
 
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Glaring Concerns With Tiny11
 
@@ -149,17 +156,20 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/1719316562070-boosting-window-light-in-windows-11-top-solutions-explored/"><u>Boosting Window Light in Windows 11: Top Solutions Explored!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bridge-gaps-in-distance-mastering-xbox-one-zooming/"><u>Bridge Gaps in Distance Mastering Xbox One Zooming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-innovative-pc-gear-with-toms-hardware-insights/"><u>Discover Innovative PC Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-you-dont-have-permission-to-view-this-file-error-on-windows/"><u>How to Fix the “You Don’t Have Permission to View This File” Error on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-sony-xperia-10-v-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Sony Xperia 10 V to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-seo-maze-a-guide-to-youtube-keywords-for-2024/"><u>Navigating the SEO Maze A Guide to YouTube Keywords for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/optimiza-tus-videos-para-la-excelencia-logra-la-maxima-calidad-gracias-a-winxvideo-ai/"><u>Optimiza Tus Videos Para La Excelencia: Logra La Máxima Calidad Gracias a Winxvideo AI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/past-keys-to-future-launches-utilizing-windows-7-for-windows-11-bootup/"><u>Past Keys to Future Launches: Utilizing Windows 7 for Windows 11 Bootup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-updater-roadblock-0x80073712/"><u>Resolving Updater Roadblock: 0X80073712</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-installation-of-windows-chatgpt/"><u>Step-by-Step Installation of Windows ChatGPT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design-for-2024/"><u>The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-heart-of-storytelling-engaging-dialogue-in-scripts/"><u>[New] In 2024, The Heart of Storytelling Engaging Dialogue in Scripts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-omniimageai-holistic-editing-experience-for-2024/"><u>[New] OmniImageAI Holistic Editing Experience for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[Updated] Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-types-and-methods-for-hand-detection-systems/"><u>2024 Approved Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a05-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A05 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/genuine-or-ghost-a-guide-to-spotting-windows-app-fraudsters/"><u>Genuine or Ghost? A Guide to Spotting Windows App Fraudsters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-pc-adobe-woes/"><u>Mastering Windows PC Adobe Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>Overcoming Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-cloud-errors-in-windows-os/"><u>Resolving OneDrive Cloud Errors in Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-lava-blaze-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lava Blaze 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-files-for-games-and-streamers-on-windows-systems-solved/"><u>Troubleshooting Missing Files for Games and Streamers on Windows Systems [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-convenience-the-elite-list-of-key-finders/"><u>Unlocking Convenience: The Elite List of Key Finders</u></a></li>
 </ul></div>
 

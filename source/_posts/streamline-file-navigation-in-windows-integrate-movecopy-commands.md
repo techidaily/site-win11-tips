@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Navigation in Windows: Integrate 'Move'/'Copy' Commands"
-date: 2024-09-22T16:19:10.177Z
-updated: 2024-09-28T17:51:33.950Z
+date: 2024-09-29T22:45:39.314Z
+updated: 2024-10-03T21:09:44.842Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Copy to Folder Context Menu Option
 
  The Windows context menu includes a**Copy** option, but that doesn’t enable you to select a destination for pasting the file. Thus, users must manually paste copied items into different folders after selecting that option. However, you can add a better**Copy to folder** context menu option that brings up a destination folder selection window like this:
@@ -63,16 +70,17 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 4. Type**Copy to folder** inside the text box for the new key.  
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
 
@@ -80,14 +88,14 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
 
- You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
@@ -103,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
@@ -122,10 +123,16 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
@@ -155,20 +162,20 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-controlling-playback-rate-the-netflix-speedy-guide/"><u>[New] Controlling Playback Rate The Netflix Speedy Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-visual-storytelling-what-angle-matters-most-for-2024/"><u>[New] Facebook's Visual Storytelling What Angle Matters Most for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gentle-volume-easing-methods-for-mixers/"><u>[New] Gentle Volume Easing Methods for Mixers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-androids-elite-mobile-multiplayer-battle-games/"><u>[Updated] Android's Elite Mobile Multiplayer Battle Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-retracing-instagram-pictures-roots/"><u>[Updated] The Art of Retracing Instagram Pictures' Roots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/does-windows-subsystem-enhance-linux-presence/"><u>Does Windows Subsystem Enhance Linux Presence?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-depths-of-ai-truthgpt-discovery-and-the-story-behind-mullvad-vpn-police-raid-plus-best-no-cost-games-and-essential-mechanic-keyboard-knowledge35/"><u>Exploring the Depths of AI: TruthGPT Discovery & The Story Behind Mullvad VPN Police Raid - Plus Best No-Cost Games & Essential Mechanic Keyboard Knowledge</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-craft-of-simultaneous-unzipping-with-windows-tools/"><u>Master the Craft of Simultaneous Unzipping with Windows Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-online-audio-archives-an-intuitive-guide-for-2024/"><u>Navigating Online Audio Archives An Intuitive Guide for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-and-efficient-task-management-in-ms-project/"><u>Quick and Efficient Task Management in MS Project</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-0x800713f-mail-glitch/"><u>Resolving Windows' 0X800713F Mail Glitch</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sharpening-the-sight-on-minecraft-structures/"><u>Sharpening the Sight on Minecraft Structures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-common-captioning-hurdles-on-windows-10-devices/"><u>Solving Common Captioning Hurdles on Windows 10 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/take-full-advantage-of-windows-11-features/"><u>Take Full Advantage of Windows 11 Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/earners-guide-to-best-rated-history-yt-channels-1-10-for-2024/"><u>The Learner's Guide to Best-Rated History YT Channels #1-10 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cut-the-clutter-advanced-techniques-with-youtube-studio-editor/"><u>[New] Cut the Clutter Advanced Techniques with YouTube Studio Editor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-fundamentals-of-fluent-google-meet-conversations/"><u>[New] The Fundamentals of Fluent Google Meet Conversations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-hidden-highlight-harvester/"><u>[Updated] In 2024, Hidden Highlight Harvester</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photographys-color-transformation-secrets/"><u>[Updated] Photography's Color Transformation Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-figma-project-with-clean-backgrounds/"><u>[Updated] Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-x7-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find X7 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-smudges-quick-windows-11-remedies-for-distorted-displays/"><u>Decoding Smudges: Quick Windows 11 Remedies for Distorted Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-update-of-desktop-picture-with-windows-tweaks/"><u>Effortless Update of Desktop Picture with Windows Tweaks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M14 5G FRP?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-pick-automated-video-to-text-tools/"><u>In 2024, Top Pick Automated Video to Text Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-networks-configure-win11s-dns-client-service/"><u>Mastering Networks: Configure Win11's DNS Client Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-display-failure/"><u>Overcoming Chrome Display Failure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-tactics-against-ms-store-on-windows-10/"><u>Preventive Tactics Against MS Store on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-saved-settings-in-your-battlefield-win-1110/"><u>Regaining Saved Settings in Your Battlefield (Win 11/10)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-secure-the-best-encryption-applications-of-the-year-153-chars/"><u>Win Secure: The Best Encryption Applications of the Year (153 Chars)</u></a></li>
 </ul></div>
 

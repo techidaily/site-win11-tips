@@ -1,7 +1,7 @@
 ---
 title: "File System Wizardry: Executing Archiving Operations Through CMD"
-date: 2024-09-23T19:01:37.552Z
-updated: 2024-09-28T17:51:32.576Z
+date: 2024-09-27T16:42:37.359Z
+updated: 2024-10-03T19:02:44.545Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,19 @@ Here's how to zip files using Command Prompt:
 `tar -a -c -f Compressed.zip FileName.FileExt`  
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Zip Files Using Windows PowerShell
 
  There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
@@ -57,10 +70,10 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
@@ -69,20 +82,6 @@ Here's how to zip files using Windows PowerShell:
 `
 
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
 
@@ -96,6 +95,13 @@ Here's how to zip files using Windows PowerShell:
 
 You've successfully unzipped the file.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Unzip Files Using Windows PowerShell
 
  Windows PowerShell lets you quickly unzip files on your computer. Here's how to do that:
@@ -106,10 +112,10 @@ You've successfully unzipped the file.
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
@@ -133,18 +139,14 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-foremost-companies-pioneering-vr-technology/"><u>[Updated] In 2024, Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-curate-and-connect-videos-for-watchlist/"><u>2024 Approved Curate and Connect Videos for Watchlist</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-swirling-shadows-adding-realistic-motion-to-photoshop-images/"><u>2024 Approved Swirling Shadows Adding Realistic Motion to Photoshop Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-adding-emulators-to-playnite-on-pc/"><u>A Step-by-Step Guide: Adding Emulators to Playnite on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/actions-to-take-when-facing-invalid-name-on-pc/"><u>Actions to Take When Facing Invalid Name on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjust-clockdate-display-in-window-11-interface/"><u>Adjust Clock/Date Display in Window 11 Interface</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-application-runtime-to-compensate-for-lack-of-qt-plugins/"><u>Adjusting Application Runtime to Compensate for Lack of Qt Plugins</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-sign-in-restrictions-after-errors/"><u>Adjusting Windows Sign In Restrictions After Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-being-blocked-from-chatgpt-identify-these-4-key-triggers-and-fixes/"><u>Avoid Being Blocked From ChatGPT: Identify These 4 Key Triggers and Fixes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/deciphering-online-videography-a-facebook-journey/"><u>Deciphering Online Videography A Facebook Journey</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>In 2024, Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-13t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi 13T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-increase-click-through-with-best-youtube-thumbnail-fonts/"><u>[New] 2024 Approved Increase Click-Through with Best YouTube Thumbnail Fonts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-instant-adjustment-match-youtube-to-mac-aspects/"><u>[New] 2024 Approved Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/esolved-mystery-of-absentee-shorts-for-2024/"><u>[New] Resolved Mystery of Absentee Shorts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harness-your-pc-power-multitask-effectively-on-windows-11/"><u>Harness Your PC Power: Multitask Effectively on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-m34-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy M34 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reinstate-dormant-windows-update-protocols/"><u>How To Reinstate Dormant Windows Update Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-the-ideal-state-of-windows-pcs/"><u>Investigating the Ideal State of Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-prompting-for-updates/"><u>Stop Windows From Prompting for Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-sin-coste-ni-esfuerzo-convierte-tu-m4b-a-avi-en-linea-gratuitamente-con-convertidor-movavi-web/"><u>Transformación Sin Coste Ni Esfuerzo: Convierte Tu M4B a AVI en Línea Gratuitamente Con Convertidor Movavi Web</u></a></li>
 </ul></div>
 

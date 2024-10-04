@@ -1,7 +1,7 @@
 ---
 title: Efficiently Reduce App Dimensions Using Keyboard in Windows 11
-date: 2024-09-23T16:22:41.584Z
-updated: 2024-09-28T18:23:14.596Z
+date: 2024-10-03T00:28:23.198Z
+updated: 2024-10-03T23:31:37.312Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -56,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Resize Software Windows With Custom Hotkeys
 
@@ -84,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
 4. Click the**Edit** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
@@ -91,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
@@ -100,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
@@ -115,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
- If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -145,20 +146,22 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-intrigue-initiates-the-leading-10-rogues/"><u>[New] In 2024, Intrigue Initiates The Leading 10 Rogues</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-10-unique-video-reaction-strategies-for-online-enthusiasts/"><u>[Updated] 10 Unique Video Reaction Strategies for Online Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[Updated] 2024 Approved Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-into-the-world-of-expressive-snapchat-lenses/"><u>2024 Approved Step Into the World of Expressive Snapchat Lenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/circuit-breakers-fixes-to-power-up-your-photoshop/"><u>Circuit Breakers: Fixes to Power Up Your PhotoShop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-local-connection-alternatives-google-vs-windows/"><u>Exploring Local Connection Alternatives: Google Vs. Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-free-conversion-of-arw-to-png-format-movavi/"><u>Online Free Conversion of ARW to PNG Format - Movavi</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-guide-to-inverted-footage-in-instagram/"><u>The Complete Guide to Inverted Footage in Instagram</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-new-age-of-computing-from-w10s-familiarity-to-w11s-novelty/"><u>The New Age of Computing: From W10's Familiarity to W11's Novelty</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-resolving-active-directory-printer-issues-on-win11/"><u>Tips & Tricks for Resolving Active Directory Printer Issues on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-efficiency-mastering-ms-projectenaside-from-what-ive-provided-please-give-me-5-new-book-titles-related-to-ai-in-healthcare/"><u>Unlock Efficiency: Mastering MS Project'enaside From What I've Provided, Please Give Me 5 New Book Titles Related to AI in Healthcare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-non-displaying-storepages-on-win-10/"><u>Unveiling Fixes for Non-Displaying Storepages on Win 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/years-best-sale-612-for-eternal-windows-10-life/"><u>Year's Best Sale: $6.12 for Eternal Windows 10 Life</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>[New] 2024 Approved Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dynamic-decibels-the-best-background-sounds-for-yt-shorts-for-2024/"><u>[Updated] Dynamic Decibels The Best Background Sounds for YT Shorts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[Updated] Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-your-live-feed-free-cam-recording-and-top-picks-for-2024/"><u>[Updated] Unlock Your Live Feed Free Cam Recording & Top Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>2024 Approved Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-multi-page-excel-prints-repeating-data-with-ease/"><u>Advanced Tips for Multi-Page Excel Prints: Repeating Data with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ditch-manual-data-entry-seamlessly-move-information-from-printed-forms-using-this-smartphone-technique/"><u>Ditch Manual Data Entry: Seamlessly Move Information From Printed Forms Using This Smartphone Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-techniques-for-consolidating-and-dividing-cells-within-microsoft-excel-spreadsheets/"><u>Easy Techniques for Consolidating and Dividing Cells Within Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-strategies-for-concealing-errors-and-signals-in-your-excel-spreadsheets/"><u>Effective Strategies for Concealing Errors and Signals in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-organize-your-data-with-advanced-indentation-strategies-in-excel/"><u>Efficiently Organize Your Data with Advanced Indentation Strategies in Excel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-tracking-of-changes-mastering-excels-pivot-table-for-percentage-fluctuation-analysis/"><u>Effortless Tracking of Changes: Mastering Excel's Pivot Table for Percentage Fluctuation Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/establishing-custom-default-typography-setting-standard-fonts-and-sizes-in-new-excel-sheets/"><u>Establishing Custom Default Typography: Setting Standard Fonts & Sizes in New Excel Sheets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excel-tutorial-building-your-first-radar-chart-from-scratch/"><u>Excel Tutorial: Building Your First Radar Chart From Scratch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-narzo-n55-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme Narzo N55 Phone?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/minecraft-crafting-secrets-the-art-of-mixing-an-uneasy-elixir/"><u>Minecraft Crafting Secrets: The Art of Mixing an Uneasy Elixir</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfect-digital-viewing-strategies-to-elevate-in-house-reception-via-antennas/"><u>Perfect Digital Viewing: Strategies to Elevate In-House Reception via Antennas</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-avi-video-rotation-apps-for-windows-mac-android-and-iphone-devices-for-2024/"><u>Updated Best Free AVI Video Rotation Apps for Windows, MAC, Android, and iPhone Devices for 2024</u></a></li>
 </ul></div>
 

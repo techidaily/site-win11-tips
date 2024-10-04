@@ -1,7 +1,7 @@
 ---
 title: How to Boost Your Typing Speed With TypingAid
-date: 2024-09-15T16:01:40.292Z
-updated: 2024-09-21T17:00:46.852Z
+date: 2024-10-01T23:15:30.850Z
+updated: 2024-10-03T17:07:52.202Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 
 ![TypingAid GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-github-page.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that TypingAid is also available in its original AutoHotkey script format. If you download this version, you'll also need to have AutoHotkey installed to use it. You'll find that at[AutoHotkey's official site](https://www.AutoHotkey.com/) .
 
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
@@ -52,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
 ![TypingAid Exe and AHK Versions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-exe-and-ahk-versions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can empower TypingAid to offer suggestions from the get-go instead of waiting for it to populate its database from scratch with the words you're writing. For that, though, you'll need a wordlist.
 
@@ -65,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 
 Then, run TypingAid.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Configure TypingAid
 
  TypingAid will be idle in the Windows tray after you run it and spring to life once you begin typing in any window. However, it's best to spend a few minutes setting it up to your preferences before you start using it. Right-click on its Windows tray icon and select**Settings** .
@@ -73,18 +100,18 @@ Then, run TypingAid.
 
 Let's see the essential settings worth tweaking in TypingAid.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
 
 ![TypingAid Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-general.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If you turn**Learn new words as you type** to off, TypingAid will only offer suggestions that already exist in the loaded Wordlist. Leave the option turned on to have TypingAid learn new words that you type.
 * **Minimum length of word to learn** restricts which new words TypingAid can "learn", based on their number of characters. If you leave it at the predefined value of**5** , it won't, for example, "learn" the word "fuse", no matter how many times you type it. It will only "learn" words with at least five letters.
@@ -104,13 +131,6 @@ Let's see the essential settings worth tweaking in TypingAid.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
 * The rest of the options affect the appearance of the suggestion box that pops up as you're typing. You can tweak them to change where the box appears (**List appears X pixels below cursor**), its font, its opacity, and so on. You can leave them as they are since their effects are primarily aesthetic.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Programs
 
  The**Programs** page lets you choose the apps and windows where TypingAid will be active.
@@ -121,6 +141,13 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
 
 ### 4\. Advanced
@@ -130,20 +157,13 @@ Let's see the essential settings worth tweaking in TypingAid.
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Putting TypingAid Into Action
 
@@ -178,5 +198,24 @@ Let's see the essential settings worth tweaking in TypingAid.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dynamic-viewership-statistics-platforms/"><u>[New] 2024 Approved Dynamic Viewership Statistics Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-the-artisans-guide-to-lut-crafting/"><u>[New] From Concept to Reality The Artisan's Guide to LUT Crafting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-connect-tv-audiences-with-creative-fb-livestream-strategies/"><u>[Updated] 2024 Approved Connect TV Audiences with Creative FB Livestream Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-editors-edge-boost-your-tiktok-impact/"><u>[Updated] 2024 Approved The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-microsofts-automated-update-protocol/"><u>Decoding Microsoft's Automated Update Protocol</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-remedies-for-windows-isdonedll-glitches/"><u>Efficient Remedies for Windows' ISDone.dll Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-protection-activating-tpm-and-secure-boot-before-windows-11/"><u>Elevate Your PC's Protection: Activating TPM & Secure Boot Before Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974626826-get-the-most-recent-intel-ac-9560-wifi-drivers-here/"><u>Get the Most Recent Intel AC 9560 WiFi Drivers Here!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-13-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 13 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-premium-9-clandestine-content-getters/"><u>In 2024, Premium 9 Clandestine Content Getters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-wifi-identification-faults-in-microsofts-new-os/"><u>Mending Wifi Identification Faults in Microsoft's New OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-a-dormant-tab-key-in-windows/"><u>Overcoming Obstacles: Fixing a Dormant Tab Key in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pros-and-cons-of-minecraft-realms-a-comprehensive-guide/"><u>Pros and Cons of Minecraft Realms: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracing-backdrop-images-location-in-win11-os/"><u>Tracing Backdrop Image's Location in Win11 OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-malwarebytes-service-disconnect-issue-in-windows-11/"><u>Troubleshooting Malwarebytes Service Disconnect Issue in Windows 11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-identifying-venues-with-vibrant-loud-cheers/"><u>Updated 2024 Approved Identifying Venues with Vibrant Loud Cheers</u></a></li>
+</ul></div>
 

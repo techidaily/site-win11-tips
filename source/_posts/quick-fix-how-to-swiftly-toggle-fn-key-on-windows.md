@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: How to Swiftly Toggle Fn Key on Windows"
-date: 2024-09-23T16:12:54.442Z
-updated: 2024-09-28T17:18:56.986Z
+date: 2024-09-28T16:04:35.605Z
+updated: 2024-10-03T22:36:38.950Z
 tags:
   - windows10
   - windows11
@@ -32,28 +32,28 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
  When you want to use the default functions again, you can simply unlock the Fn key again
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Lock and Unlock the Function Key in Windows
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the Keyboard
 
  In several keyboards, the Esc key acts as a Function padlock key. You will notice a small padlock icon on the Esc key if that is the case for your keyboard.
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access the BIOS Settings
 
@@ -67,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 4. Once the computer restarts, the BIOS will launch.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
@@ -87,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -125,21 +119,22 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-ultimate-9-hidden-media-extractors/"><u>[New] In 2024, Ultimate 9 Hidden Media Extractors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/os-and-android-youtube-autoplay-tricks/"><u>[New] IOS & Android YouTube AutoPlay Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-text-presets-for-visual-impact/"><u>[New] Top 10 Text Presets for Visual Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-success-in-youtubes-creator-hub-for-2024/"><u>[Updated] Crafting Success in YouTube's Creator Hub for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/complete-guide-to-disabling-the-windows-subsystem/"><u>Complete Guide to Disabling the Windows Subsystem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/focusing-gpo-application-one-user-approach-for-windows-1111/"><u>Focusing GPO Application: One-User Approach for Windows 11/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-season-8-unveiling-the-new-frame-rate-updates/"><u>Fortnite Season 8: Unveiling the New Frame Rate Updates</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-the-potential-of-diskusage-for-in-depth-drive-space-examination/"><u>Harnessing the Potential of DiskUsage for In-Depth Drive Space Examination</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/harnessing-the-power-of-instagrams-video-connectivity/"><u>Harnessing the Power of Instagram's Video Connectivity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-directx-setup-couldnt-download-the-file-error-on-windows/"><u>How to Fix the “DirectX Setup Couldn’t Download the File” Error on Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/non-amazon-streaming-options/"><u>Non-Amazon Streaming Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-troubled-tracker-fixes-for-frozen-torrents/"><u>Tackling the Troubled Tracker: Fixes for Frozen Torrents</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-tutorials-for-new-folder-navigation-in-win11/"><u>Tactical Tutorials for New Folder Navigation in Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-language-models-decoding-how-gpt-4-drives-performance-for-7-leading-apps/"><u>The Power of Language Models: Decoding How GPT-4 Drives Performance for 7 Leading Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-powershell-errors-with-script-enablement-fixes/"><u>Troubleshooting PowerShell Errors with Script Enablement Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>[Updated] 2024 Approved Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-components-in-upgrading-from-standard-to-4k-lenses/"><u>[Updated] Key Components in Upgrading From Standard to 4K Lenses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-easy-communication-sms-apps-for-ios-at-zero-cost/"><u>Affordable, Easy Communication: SMS Apps for iOS at Zero Cost</u></a></li>
+<li><a href="https://article-tips.techidaily.com/dissecting-the-dynamics-of-aurora-high-quality-outputs-for-2024/"><u>Dissecting the Dynamics of Aurora High-Quality Outputs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-shrink-windows11/"><u>DVD Shrink Windows11対応版：使いこなしガイド！対応していない場合の代替手段</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-organization-essential-productivity-software-for-windows/"><u>Effortless Organization: Essential Productivity Software for Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-skyrim-x-script-woes-on-windows/"><u>Enhance Skyrim: X-Script Woes on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-reviews-best-game-capture-apps-for-2024/"><u>Expert Reviews Best Game Capture Apps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-musical-wedding-video-montages-easy-tutorials-and-best-practices-for-sharing-your-love-story-on-youtube/"><u>Mastering the Art of Musical Wedding Video Montages - Easy Tutorials & Best Practices for Sharing Your Love Story on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/network-knights-guide-to-overcoming-obs-studios-windows-hiccup-7-ways/"><u>Network Knights' Guide to Overcoming OBS Studio's Windows Hiccup (7 Ways)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-silenced-volume-backup-procedure/"><u>Reactivating Silenced Volume Backup Procedure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-interpreting-error-messages-in-w11-using-ms-tools/"><u>Step-by-Step Guide to Interpreting Error Messages in W11 Using MS Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correcting-projector-connection-issues-in-windows/"><u>Steps for Correcting Projector Connection Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-installation-errors-head-on/"><u>Tackling Windows 11 Installation Errors Head-On</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-frontier-in-ai-beyond-chatgpt-what-lies-ahead-for-generative-models-and-bots/"><u>The Next Frontier in AI: Beyond ChatGPT - What Lies Ahead for Generative Models and Bots?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-international-communication-using-shortcuts-in-windows-os/"><u>Unlocking International Communication: Using Shortcuts in Windows OS</u></a></li>
 </ul></div>
 

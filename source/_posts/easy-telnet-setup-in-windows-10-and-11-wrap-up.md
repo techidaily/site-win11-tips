@@ -1,7 +1,7 @@
 ---
 title: Easy Telnet Setup in Windows 10 and 11 (Wrap Up)
-date: 2024-09-23T17:30:01.592Z
-updated: 2024-09-28T17:52:28.845Z
+date: 2024-10-03T00:21:37.784Z
+updated: 2024-10-03T21:34:25.879Z
 tags:
   - windows10
   - windows11
@@ -46,22 +46,15 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
@@ -82,10 +75,10 @@ To enable Telnet using Windows PowerShell:
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
@@ -103,10 +96,10 @@ Follow these steps to install Telnet using Command Prompt:
 7. Type**exit** and press**Enter** to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check the Telnet Client Status on Your PC
@@ -118,6 +111,19 @@ Follow these steps to install Telnet using Command Prompt:
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
@@ -140,22 +146,24 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>[Updated] 2024 Approved A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>[Updated] 2024 Approved Mastering AVI-to-GIF Conversion Windows & Mac Edition Using Filmora</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-revolutionize-group-calls-top-4-techniques/"><u>[Updated] Revolutionize Group Calls Top 4 Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-revealed-flawless-and-straightforward-ipad-screen-recording/"><u>[Updated] Secrets Revealed Flawless and Straightforward iPad Screen Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>[Updated] The Future of Photo Shooting Smart HDR Technology Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-via-cli-registry-edition/"><u>Advanced Windows Customization via CLI: Registry Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-your-path-upgrading-outdated-windows-driver-tech/"><u>Clear Your Path: Upgrading Outdated Windows Driver Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-mouse-game-with-cross-border-powertoys-techniques/"><u>Elevate Your Mouse Game with Cross-Border PowerToys Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-failures-from-windows-memory-tool/"><u>How To Rectify Failures From Windows Memory Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-with-toms-hardware-guidance/"><u>Mastering Technology with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/moto-g-stylus-phone-reviewed-outstanding-efficiency-and-reasonable-battery-longeve-featuring-a-convenient-pen/"><u>Moto G Stylus Phone Reviewed: Outstanding Efficiency and Reasonable Battery Longeve, Featuring a Convenient Pen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-data-flow-from-non-responsive-usb-devices-win-os/"><u>Restoring Data Flow From Non-Responsive USB Devices (Win OS)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/say-no-to-incompatibility-quick-solutions-for-vistawindows-7-users/"><u>Say No to Incompatibility: Quick Solutions for Vista/Windows 7 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamlessly-switching-on-updated-widget-selection-interface-in-windows-11/"><u>Seamlessly Switching on Updated Widget Selection Interface in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-troubleshooting-when-your-iphone-alarm-fails-to-sound/"><u>Ultimate Guide: Troubleshooting When Your iPhone Alarm Fails to Sound</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-find-x7-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Oppo Find X7 password or pattern lock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-game-saves-with-advanced-overwatch-recording/"><u>[Updated] Elevate Your Game Saves with Advanced Overwatch Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stand-out-design-and-customize-professional-logos-via-free-templates/"><u>2024 Approved Stand Out Design and Customize Professional Logos via Free Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-change-moving-software-on-a-new-windows-installation/"><u>Conquering Change: Moving Software on a New Windows Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-unsigned-updates-hiccups-in-winos/"><u>Eliminate Unsigned Updates Hiccups in WinOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-customized-keys-for-snapping-text-in-win11/"><u>Expert Guide to Customized Keys for Snapping Text in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-10t-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme 10T 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-insiders-edge-to-editing-your-look-back-story/"><u>In 2024, The Insider's Edge to Editing Your Look Back Story</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A2 Device</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-windows-1011-outlook-preview-installation/"><u>Quick Fix: Windows 10/11 - Outlook Preview Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-blocked-login-overcoming-windows-sign-in-failures/"><u>Resolving Blocked Login: Overcoming Windows Sign-In Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-your-internet-ip-through-terminal-commands/"><u>Revealing Your Internet IP Through Terminal Commands</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-tablet-use-with-windows-11s-taskbar-configuration/"><u>Simplify Your Tablet Use with Windows 11'S Taskbar Configuration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-microsoft-store-failure-with-error-code-0x00000000/"><u>Tackling Microsoft Store Failure with Error Code 0X00000000</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-non-compatible-programs-on-windows-xpvista7/"><u>Workaround for Non-Compatible Programs on Windows XP/Vista/7</u></a></li>
 </ul></div>
 

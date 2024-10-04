@@ -1,7 +1,7 @@
 ---
 title: Setting Your Preferred Window's Lock Time
-date: 2024-09-27T17:54:25.201Z
-updated: 2024-09-28T18:28:10.300Z
+date: 2024-09-30T21:03:33.287Z
+updated: 2024-10-03T21:24:37.160Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the Windows System Settings
 
  The Windows system settings always come in handy in various situations. Let’s check out how you can use them to change the Windows 10 screen lock timeout settings:
@@ -52,7 +45,21 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the Edit Plan Settings (via the Control Panel)
 
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the Command Prompt
 
  The Command Prompt is a reliable tool that can help you [troubleshoot various Windows system issues](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/). Interestingly, this tool can also help you configure the settings on your device.
@@ -121,15 +121,22 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Now, let's explore how you can change the screen saver timeout settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the System Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here's how to change the duration of the screen saver using the system settings:
@@ -151,10 +158,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Finally, press **Apply** and then press **OK** to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Local Group Policy Editor
@@ -167,13 +174,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 4. Double-click the **Screen saver timeout** option on the right-hand side.
 
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
 
@@ -212,10 +212,10 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
@@ -239,21 +239,24 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/uilding-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[New] Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlocking-cross-media-sharing-power-twitterfacebook/"><u>[New] Unlocking Cross-Media Sharing Power (Twitter/Facebook)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>2024 Approved Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-admin-restrictions-on-windows-safety-settings/"><u>Bypassing Admin Restrictions on Windows Safety Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-cleaning-for-a-functional-windows-11-space/"><u>Effortless Cleaning for a Functional Windows 11 Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-complete-framework-preview-of-pcie-gen-7-specification-closer-than-ever-to-public-debut/"><u>Explore the Complete Framework: Preview of PCIe Gen 7 Specification Closer than Ever to Public Debut</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-set-for-innovation-two-key-steps-towards-the-latest-windows-11-creators-release/"><u>Getting Set for Innovation: Two Key Steps Towards the Latest Windows 11 Creator's Release</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-15-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-13-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 13 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-disconnects-and-fixes-javascript-issues-in-discord-win-11/"><u>Mastering Disconnects & Fixes: JavaScript Issues in Discord Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-security-faults-and-fixes/"><u>Navigating Through Windows Security Faults & Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-address-offline-lsa-warning/"><u>Steps to Address Offline LSA Warning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-acer-touchpad-on-windows-11-essential-drivers-download-guide-and-tips/"><u>Troubleshoot Acer Touchpad on Windows 11: Essential Drivers Download Guide & Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] 2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-the-world-of-digital-color-grading/"><u>[New] Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-techniques-for-saving-mobile-gameplay/"><u>[Updated] In 2024, Essential Techniques for Saving Mobile Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-tech-advice-and-analysis-by-toms-hardware-experts/"><u>Advanced Tech Advice and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-insights-avoiding-ps5-expenses/"><u>Critical Insights: Avoiding PS5 Expenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ejecting-unrequested-windows-updates/"><u>Ejecting Unrequested Windows Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-hobbyist-to-pro-professionalizing-gopro-videos-for-2024/"><u>From Hobbyist to Pro Professionalizing GoPro Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-unable-to-connect-to-nvidia-geforce-experience-error-in-windows-10-and-11/"><u>How to Fix the “Unable to Connect to NVIDIA” GeForce Experience Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-hitching-windows-tasks/"><u>Immediate Fixes for Hitching Windows Tasks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-x6-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco X6 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-g24-power-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola G24 Power to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-haven-comprehensive-computer-gear-reviews/"><u>Inside Tom's Tech Haven: Comprehensive Computer Gear Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-permanent-erase-configuring-a-trash-bin-for-irreversible-deletion-in-windows-pcs-11/"><u>Mastering Permanent Erase: Configuring a Trash Bin for Irreversible Deletion in Windows PCs (11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-virtual-memory-settings-to-power-windows-11-systems/"><u>Mastering Virtual Memory Settings to Power Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-lost-drive-restore-data-stability-in-windows/"><u>Regain Lost Drive, Restore Data Stability in WINDOWS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-self-triggered-cmd-appearance-issues-in-windows/"><u>Solving Self-Triggered CMD Appearance Issues in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-biometric-access-control-windows-11-domains/"><u>Tailoring Biometric Access Control: Windows 11, Domains</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-theme-creation-in-windows-terminal/"><u>The Art of Theme Creation in Windows Terminal</u></a></li>
 </ul></div>
 

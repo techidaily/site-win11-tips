@@ -1,7 +1,7 @@
 ---
 title: Disabling Stealthy Camera Alerts on Windows 11
-date: 2024-09-18T21:58:18.826Z
-updated: 2024-09-22T04:59:21.992Z
+date: 2024-10-01T00:59:24.473Z
+updated: 2024-10-03T17:04:52.367Z
 tags:
   - windows10
   - windows11
@@ -46,11 +46,31 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check Camera History
 
  If you missed the notification, Windows 11 allows you to check which apps have accessed your camera. Launch Windows Settings and go to**Privacy & security > Camera** . There, check the**Recent activity** section.
 
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
 
@@ -69,12 +89,22 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[Updated] 2024 Approved The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>[Updated] Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-walkthrough-of-locating-and-using-component-services/"><u>Detailed Walkthrough of Locating and Using Component Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diminuireconvertire-i-file-video-da-4k-a-full-hd-su-computer-windows-o-mac/"><u>Diminuire/Convertire I File Video Da 4K a Full HD Su Computer Windows O Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-mouse-features-10-easy-steps-in-win11/"><u>Explore Mouse Features: 10 Easy Steps in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-to-grips-with-powertoys-plain-text-methods/"><u>Get to Grips With PowerToys' Plain Text Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-rectify-non-signed-updates-in-w11w10/"><u>Guide to Rectify Non-Signed Updates in W11/W10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>Harnessing the Power of HDR An Advanced Guide to PS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-lost-renderer-issue-in-ow2-on-windows/"><u>Immediate Fixes for Lost Renderer Issue in OW2 on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/next-gen-windows-os-crafted-with-artificial-intelligence/"><u>Next-Gen Windows OS Crafted with Artificial Intelligence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ornamentation/"><u>Ornamentation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/form-footage-into-visual-art-with-youtube-studio-for-2024/"><u>Transform Footage Into Visual Art with YouTube Studio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-11-photos-the-top-6-rescaling-methods/"><u>Transform Your Windows 11 Photos – The Top 6 Rescaling Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-repairing-launch-denied-situations-for-humankind/"><u>Understanding and Repairing 'Launch Denied' Situations for Humankind</u></a></li>
+</ul></div>
 

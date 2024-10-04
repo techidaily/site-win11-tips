@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Windows Hello Fingerprint Obstacles
-date: 2024-09-26T17:57:59.540Z
-updated: 2024-09-28T18:58:23.940Z
+date: 2024-09-27T23:25:13.462Z
+updated: 2024-10-03T17:48:57.894Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  If the issue persists or if you are unable to remove and re-add your fingerprint due to the "This option is currently unavailable" error on the Windows Hello page, there may be a problem with the Biometric drivers on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall the Biometric Device Driver
 
  Biometric drivers on your PC help Windows communicate with your PC's fingerprint scanner. If these drivers are outdated or malfunctioning, you may run into problems.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
  Additionally, you should also expand the **Universal Serial Bus Controllers** section in the Device Manager and look for any entries with a yellow exclamation. If you find any, right-click on them one by one and select **Uninstall device** to remove them.
 
  Restart your PC after completing the above steps and check if the issue still occurs.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
 
@@ -80,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  Use one of the many ways to [disable Fast Startup on your Windows computer](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and see if that gets the fingerprint scanner to work.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Configure Windows Biometric Service to Start Automatically
 
  The Windows Biometric Service is an essential program for Windows Hello, as it captures and manages your fingerprint data. Ideally, the service should start automatically every time Windows boots. However, this might not happen if the service is not configured correctly.
@@ -102,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  Restart your PC after this. Following that, you should be able to sign in with your fingerprint.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Enable Biometrics via the Local Group Policy Editor
 
  Another reason why Windows Hello fingerprint sign-in may not work is if the feature is disabled from the Local Group Policy. It's important to note that Group Policy Settings are only available on Professional, Education, and Enterprise editions of Windows. If you are on Windows Home, you don't need to worry about this step.
@@ -122,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 ![Biometric Policies in Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC one more time and check if the issue is still there.
@@ -140,14 +126,14 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 4. In the Microsoft account window, click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Microsoft-Account-Sign-In-Window.jpg)
 
- Set up Windows Hello fingerprint login for your new user account and see if you can sign in with your fingerprint.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Set up Windows Hello fingerprint login for your new user account and see if you can sign in with your fingerprint.
 
 ## 8\. Perform a System Restore
 
@@ -163,7 +149,21 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 6. Review all the details one more time before hitting **Finish**.  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/System-Restore-Dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will restart and revert to the specified restore point. After that, the fingerprint should work as before.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Install the Latest Windows Updates
 
@@ -179,29 +179,6 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
 
  Fortunately, there are several ways to fix this annoying issue. So, let’s dive in and explore what you should do when Windows Hello fingerprint login isn’t working.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] 2024 Approved Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-fantasy-to-reality-vrs-path/"><u>[New] From Fantasy to Reality VR’s Path</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-guide-to-premium-free-online-screen-recorders/"><u>[New] Guide to Premium Free Online Screen Recorders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-boost-creativity-with-free-audio-effects-online/"><u>[Updated] 2024 Approved Boost Creativity with Free Audio Effects Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-unrestricted-pubg-visual-sequences/"><u>[Updated] Excellent Unrestricted PUBG Visual Sequences</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubing-101-the-right-devices/"><u>[Updated] In 2024, Youtubing 101 The Right Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easily-convert-wmv-videos-to-mp4-using-a-free-tool-compatible-with-mac-osx-and-windows-10-pcs/"><u>Easily Convert WMV Videos to MP4 Using a Free Tool Compatible with Mac OSX and Windows 10 PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-window-restoration-after-dark-screens/"><u>Effortless Window Restoration After Dark Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-steps-for-fixing-fall-guys-link-failures-windows-wise/"><u>Essential Steps for Fixing Fall Guys Link Failures Windows-Wise</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-microsoft-outlooks-something-went-wrong-error-on-windows/"><u>How to Fix Microsoft Outlook's “Something Went Wrong” Error on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-save-windows-spotlight-pictures-to-use-as-wallpapers-when-you-want/"><u>How to Save Windows Spotlight Pictures to Use as Wallpapers When You Want</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-video-cutting-solutions-on-your-windows-11-system/"><u>Masterful Video Cutting Solutions on Your Windows 11 System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quelling-win1011-screen-glitches-with-ease/"><u>Quelling WIN10/11 Screen Glitches with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resetting-techniques-for-troubled-windows-11-calendars/"><u>Resetting Techniques for Troubled Windows 11 Calendars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-error-0xc0000142-in-win7win8/"><u>Resolving Error 0XC0000142 in Win7/Win8</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essential-blueprint-for-srt-file-adaptability-for-2024/"><u>The Essential Blueprint for SRT File Adaptability for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-roblox-availability-tackling-windows-settings-issue/"><u>Unblocking Roblox Availability: Tackling Windows Settings Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-exclusive-templates-for-tiktok-backdrops-for-2024/"><u>Unveiling Exclusive Templates for TikTok Backdrops for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-alert-is-ios-17-worth-it-for-enhanced-device-performance/"><u>Upgrade Alert! Is iOS 17 Worth It for Enhanced Device Performance?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,3 +186,25 @@ thumbnail: https://thmb.techidaily.com/56c09995c4310ae28019d3390616d9116d70341b8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>[New] Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-skills-style-success-your-roadmap-in-the-creative-industry-for-2024/"><u>[Updated] Skills, Style, Success Your Roadmap in the Creative Industry for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-c65-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco C65 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-iphone-from-phone-to-gaming-powerhouse/"><u>Converting iPhone: From Phone to Gaming Powerhouse</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expanding-user-experience-customizing-window-11-menus/"><u>Expanding User Experience: Customizing Window 11 Menus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-connection-to-the-remote-computer-could-not-be-established-windows-vpn-error/"><u>How to Fix the “Connection to the Remote Computer Could Not Be Established” Windows VPN Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-y100a-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo Y100A using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tweak-win11s-connection-behavior/"><u>How to Tweak Win11's Connection Behavior</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighten-system-load-streamlining-media-consumption-on-pcs/"><u>Lighten System Load: Streamlining Media Consumption on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-in-security-4-streamlined-methods-to-deactivate-windows-users/"><u>Mastery in Security: 4 Streamlined Methods to Deactivate Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/selecting-optimal-windows-options-for-switch-gaming-enthusiasts/"><u>Selecting Optimal Windows Options for Switch Gaming Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-taskbar-customization-with-portables/"><u>Simplifying Taskbar Customization with Portables</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos-for-2024/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-prevent-and-correct-operational-error-0x0000011b-on-win11/"><u>Steps to Prevent and Correct Operational Error 0X0000011B on Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-viewers-experience-with-top-mac-streamers/"><u>Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-transformez-votre-contenu-multimedia-avec-superposition-et-mise-en-relatif-stabilisation-dimages-and-videos-conversions-de-formats-editeurs-vid45/"><u>WinxVideo AI : Transformez Votre Contenu Multimédia Avec Superposition Et Mise en Relatif - Stabilisation D'Images & Vidéos, Conversions De Formats, Editeurs Vidéo Professionnels</u></a></li>
+</ul></div>
+

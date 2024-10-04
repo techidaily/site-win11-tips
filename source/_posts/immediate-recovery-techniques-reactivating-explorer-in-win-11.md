@@ -1,7 +1,7 @@
 ---
 title: "Immediate Recovery Techniques: Reactivating Explorer in Win 11"
-date: 2024-09-27T18:17:39.287Z
-updated: 2024-09-28T18:20:16.757Z
+date: 2024-09-27T17:50:39.288Z
+updated: 2024-10-03T21:11:05.973Z
 tags:
   - windows10
   - windows11
@@ -52,73 +52,163 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 
 ![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
 
+ Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
+
+## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
+
+ Do you like to have more control when you restart File Explorer? Maybe you don't want to immediately restart it because you're testing something on your computer and need it to use as few resources as possible.
+
+ If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
+
+![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
+
+1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
+2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
+3. Now, press **Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
+4. Go to **File > Run new task** from the Task Manager's menu bar.
+5. You'll be prompted to enter the name of the process you want to run. Type **explorer.exe** and click **OK**.
+
+![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
+
+ The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
+
+## 3\. Restart Windows Explorer Manually Using Command Prompt
+
+ The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
+
+ We'll use two separate commands to kill the **Explorer.exe** process and start it back up in this method. This manual method to restart File Explorer can be handy for Windows 11 users, since the above doesn't work on the newer OS.
+
+1. Type **command prompt** in the Start menu search bar and open it. To stop **File Explorer** from running, type the following command and hit **Enter**:  
+`taskkill /f /im explorer.exe`
+2. When you're ready to re-run it, use this command and press **Enter**:  
+`start explorer.exe`  
+![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
+
+ After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
+
+## 4\. Use a Batch File to Restart File Explorer in Windows
+
+ A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
+
+ All the [commands stored in a Windows batch file will execute automatically](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) in sequential order once you open it. We'll use the same two commands we used in the Command Prompt method, except you'll store it as a batch file on your desktop for easy access:
+
+1. Use the **Start** menu search bar to find and open **Notepad**. Now, copy/paste or type the following lines:  
+`taskkill /f /im explorer.exe  
+start explorer.exe  
+exit`
+2. Click **File > Save As** from Notepad's menu bar.
+3. Set the **Save as type** to **All Files** and add **.bat** at the end of the file name. Select a location you can quickly access, like the **Desktop** folder, and click **Save**. This will save the Notepad document as a batch file.
+
+![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
+
+ All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
+
+ Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
+
+ When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
+
+## What Is File Explorer in Windows?
+
+ File Explorer is the built-in file manager for Windows devices. You use it to navigate through various directories and browse for files within the operating system. It starts running in the background as soon as your computer boots up.
+
+ If you're someone who switched from a Mac, think of File Explorer as Microsoft's equivalent of Finder in macOS. You can open a new File Explorer window by simply clicking the **folder** icon in the taskbar.
+
+ Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
+
+## 1\. Restart File Explorer Using Task Manager
+
+ Task Manager is a built-in system monitor that lets you start or end a process on your computer. These processes can be active programs, services, and other tasks that run in the background while you use your PC. Many people use Task Manager to [monitor RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
+
+ Since File Explorer is a process that always runs in the background, using Task Manager to restart it is a natural option. Here's what you need to do:
+
+1. Right-click anywhere that's empty on the taskbar and select **Task Manager** from the context menu to get started. Alternatively, you can press **Ctrl + Shift + Esc** on your keyboard.
+2. If you don't see the following window and get the simple view instead on Windows 10, click **More details**.
+3. Next, scroll through the list of active processes and find **Windows Explorer**. Clicking the **Name** header to sort in ABC order can help here.
+4. Select **Windows Explorer** and click **Restart** (or **Restart task** on Windows 11).
+
+![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
+
+ Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
+
+## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
+
+ Do you like to have more control when you restart File Explorer? Maybe you don't want to immediately restart it because you're testing something on your computer and need it to use as few resources as possible.
+
+ If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
+
+![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
+
 <!-- affiliate ads begin -->
-<span id="1983551">
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
+2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
+3. Now, press **Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
+4. Go to **File > Run new task** from the Task Manager's menu bar.
+5. You'll be prompted to enter the name of the process you want to run. Type **explorer.exe** and click **OK**.
+
+![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
+
+## 3\. Restart Windows Explorer Manually Using Command Prompt
+
+ The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
+
+ We'll use two separate commands to kill the **Explorer.exe** process and start it back up in this method. This manual method to restart File Explorer can be handy for Windows 11 users, since the above doesn't work on the newer OS.
+
+1. Type **command prompt** in the Start menu search bar and open it. To stop **File Explorer** from running, type the following command and hit **Enter**:  
+`taskkill /f /im explorer.exe`
+2. When you're ready to re-run it, use this command and press **Enter**:  
+`start explorer.exe`  
+![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
+
+ After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
+
+## 4\. Use a Batch File to Restart File Explorer in Windows
+
+ A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
+
+ All the [commands stored in a Windows batch file will execute automatically](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) in sequential order once you open it. We'll use the same two commands we used in the Command Prompt method, except you'll store it as a batch file on your desktop for easy access:
+
+1. Use the **Start** menu search bar to find and open **Notepad**. Now, copy/paste or type the following lines:  
+`taskkill /f /im explorer.exe  
+start explorer.exe  
+exit`
+2. Click **File > Save As** from Notepad's menu bar.
+3. Set the **Save as type** to **All Files** and add **.bat** at the end of the file name. Select a location you can quickly access, like the **Desktop** folder, and click **Save**. This will save the Notepad document as a batch file.
+
+![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
+
+ All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
+
+ Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
+
+ When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
- Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
-
-## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
-
- Do you like to have more control when you restart File Explorer? Maybe you don't want to immediately restart it because you're testing something on your computer and need it to use as few resources as possible.
-
- If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
-
-![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
-
-1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
-2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
-3. Now, press **Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
-4. Go to **File > Run new task** from the Task Manager's menu bar.
-5. You'll be prompted to enter the name of the process you want to run. Type **explorer.exe** and click **OK**.
-
-![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
-
- The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
-
-## 3\. Restart Windows Explorer Manually Using Command Prompt
-
- The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
-
- We'll use two separate commands to kill the **Explorer.exe** process and start it back up in this method. This manual method to restart File Explorer can be handy for Windows 11 users, since the above doesn't work on the newer OS.
-
-1. Type **command prompt** in the Start menu search bar and open it. To stop **File Explorer** from running, type the following command and hit **Enter**:  
-`taskkill /f /im explorer.exe`
-2. When you're ready to re-run it, use this command and press **Enter**:  
-`start explorer.exe`  
-![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
-
- After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
-
-## 4\. Use a Batch File to Restart File Explorer in Windows
-
- A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
-
- All the [commands stored in a Windows batch file will execute automatically](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) in sequential order once you open it. We'll use the same two commands we used in the Command Prompt method, except you'll store it as a batch file on your desktop for easy access:
-
-1. Use the **Start** menu search bar to find and open **Notepad**. Now, copy/paste or type the following lines:  
-`taskkill /f /im explorer.exe  
-start explorer.exe  
-exit`
-2. Click **File > Save As** from Notepad's menu bar.
-3. Set the **Save as type** to **All Files** and add **.bat** at the end of the file name. Select a location you can quickly access, like the **Desktop** folder, and click **Save**. This will save the Notepad document as a batch file.
-
-![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
-
- All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
-
- Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
-
- When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
 
 ## What Is File Explorer in Windows?
 
@@ -129,10 +219,10 @@ exit`
  Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Restart File Explorer Using Task Manager
@@ -148,103 +238,26 @@ exit`
 
 ![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
 
- Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
-
-## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
-
- Do you like to have more control when you restart File Explorer? Maybe you don't want to immediately restart it because you're testing something on your computer and need it to use as few resources as possible.
-
- If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
-
-![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
-
-1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
-2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
-3. Now, press **Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
-4. Go to **File > Run new task** from the Task Manager's menu bar.
-5. You'll be prompted to enter the name of the process you want to run. Type **explorer.exe** and click **OK**.
-
-![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
-
- The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
-
-## 3\. Restart Windows Explorer Manually Using Command Prompt
-
- The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
-
- We'll use two separate commands to kill the **Explorer.exe** process and start it back up in this method. This manual method to restart File Explorer can be handy for Windows 11 users, since the above doesn't work on the newer OS.
-
-1. Type **command prompt** in the Start menu search bar and open it. To stop **File Explorer** from running, type the following command and hit **Enter**:  
-`taskkill /f /im explorer.exe`
-2. When you're ready to re-run it, use this command and press **Enter**:  
-`start explorer.exe`  
-![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
-
- After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
-
-## 4\. Use a Batch File to Restart File Explorer in Windows
-
- A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
-
- All the [commands stored in a Windows batch file will execute automatically](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) in sequential order once you open it. We'll use the same two commands we used in the Command Prompt method, except you'll store it as a batch file on your desktop for easy access:
-
-1. Use the **Start** menu search bar to find and open **Notepad**. Now, copy/paste or type the following lines:  
-`taskkill /f /im explorer.exe  
-start explorer.exe  
-exit`
-2. Click **File > Save As** from Notepad's menu bar.
-3. Set the **Save as type** to **All Files** and add **.bat** at the end of the file name. Select a location you can quickly access, like the **Desktop** folder, and click **Save**. This will save the Notepad document as a batch file.
-
-![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
-
- All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
-
- Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
-
- When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## What Is File Explorer in Windows?
-
- File Explorer is the built-in file manager for Windows devices. You use it to navigate through various directories and browse for files within the operating system. It starts running in the background as soon as your computer boots up.
-
- If you're someone who switched from a Mac, think of File Explorer as Microsoft's equivalent of Finder in macOS. You can open a new File Explorer window by simply clicking the **folder** icon in the taskbar.
-
- Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
-
-## 1\. Restart File Explorer Using Task Manager
-
- Task Manager is a built-in system monitor that lets you start or end a process on your computer. These processes can be active programs, services, and other tasks that run in the background while you use your PC. Many people use Task Manager to [monitor RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
-
- Since File Explorer is a process that always runs in the background, using Task Manager to restart it is a natural option. Here's what you need to do:
-
-1. Right-click anywhere that's empty on the taskbar and select **Task Manager** from the context menu to get started. Alternatively, you can press **Ctrl + Shift + Esc** on your keyboard.
-2. If you don't see the following window and get the simple view instead on Windows 10, click **More details**.
-3. Next, scroll through the list of active processes and find **Windows Explorer**. Clicking the **Name** header to sort in ABC order can help here.
-4. Select **Windows Explorer** and click **Restart** (or **Restart task** on Windows 11).
-
-![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
@@ -256,10 +269,10 @@ exit`
 ![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
@@ -269,6 +282,13 @@ exit`
 5. You'll be prompted to enter the name of the process you want to run. Type **explorer.exe** and click **OK**.
 
 ![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
 
@@ -328,13 +348,6 @@ exit`
 
 ![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
 
 ## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
@@ -344,13 +357,6 @@ exit`
  If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
 
 ![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
 2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
@@ -410,15 +416,17 @@ exit`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unlocking-your-potential-with-ez-grabber-software/"><u>[New] In 2024, Unlocking Your Potential with EZ Grabber Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>[New] Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-operative-brightness-fn-button-on-windows-11/"><u>Addressing Non-Operative Brightness Fn Button on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-winrars-summation-anomalies-with-six-fixes/"><u>Addressing WinRAR's Summation Anomalies with Six Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-docx-to-pdf-conversion-on-modern-windows/"><u>Advanced Tips for Docx-to-PDF Conversion on Modern Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/easy-steps-to-record-and-screen-capture-ios-2023/"><u>Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-record-audio-with-audacity-on-mac-in-2024/"><u>How to Record Audio with Audacity on Mac, In 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-magic-v2-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Magic V2 Lock Screen Password</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-techniques-for-getting-rid-of-backgrounds-in-figma-for-2024/"><u>Professional Techniques for Getting Rid of Backgrounds in Figma for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-titlestext-to-video-on-photos-app-in-windows-10/"><u>[New] How to Add Titles/Text to Video on Photos App in Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevating-your-android-experience-through-recording/"><u>[Updated] 2024 Approved Elevating Your Android Experience Through Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>2024 Approved Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nubia-red-magic-8s-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nubia Red Magic 8S Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exe-vs-msi-understanding-file-distinctions/"><u>EXE vs MSI: Understanding File Distinctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-hide-taskbars-search-in-windows-11/"><u>Expert Tips: Hide Taskbar's Search in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-free-animation-software-for-windows-and-mac/"><u>New No Budget? No Problem! Free Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-standard-user-restrictions-now/"><u>Override Standard User Restrictions Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-slow-typing-response-time-for-windows-10-users/"><u>Resolving Slow Typing Response Time for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tracking-the-heat-levels-of-your-apple-macbook-proair/"><u>Step-by-Step: Tracking the Heat Levels of Your Apple MacBook Pro/Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-supercharging-your-windows/"><u>The Ultimate Guide to Supercharging Your Windows</u></a></li>
 </ul></div>
 

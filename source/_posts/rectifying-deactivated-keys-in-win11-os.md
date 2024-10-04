@@ -1,7 +1,7 @@
 ---
 title: Rectifying Deactivated Keys in Win11 OS
-date: 2024-09-25T18:34:16.851Z
-updated: 2024-09-28T19:11:58.802Z
+date: 2024-09-30T21:28:00.812Z
+updated: 2024-10-03T20:32:20.227Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check That Windows Isn’t Already Activated
 
  You can get a computer with preinstalled Windows, so you don't have to deal with the process of installing the operating system by yourself. Usually, you can set it up when you first turn on your PC.
@@ -45,20 +52,14 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 ![check-activation-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-activation-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the status is**Active** , your problem stops here; you're already activated.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Activation Troubleshooter
 
@@ -75,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  In this case, ask for a refund and get a digital license that matches your Windows edition.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use a Genuine Activation Key
@@ -95,29 +96,22 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  This will open an official Microsoft storefront where you can buy a key without any risk of scammers.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Ensure You're Using the Key on One Computer Only
 
  Even if you’re sure that you have a genuine activation key and license, you can’t use them for more than one computer. If you already used the key, you’ll have to deactivate Windows 11 by uninstalling the product key.
 
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run an SFC Scan
 
@@ -144,22 +138,19 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-best-practices-for-livestreaming-and-archiving-sports-events/"><u>[New] Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-expert-tags-analyzer-software-fb-tweet-and-insta-edition/"><u>2024 Approved Expert Tags Analyzer Software FB, Tweet & Insta Edition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-audio-extraction-methods-from-online-videos-for-2024/"><u>Easy Audio Extraction Methods From Online Videos for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-manage-windows-applications-without-admin-rights/"><u>How to Manage Windows Applications Without Admin Rights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insiders-look-at-windows-boot-configuration-management/"><u>Insider's Look at Windows Boot Configuration Management</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lexical-exchange-a-universal-story-of-language-adaptation/"><u>Lexical Exchange: A Universal Story of Language Adaptation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-directories-a-breeze-with-win11-essentials/"><u>Making Directories a Breeze with Win11 Essentials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-overcome-windows-file-not-found-error/"><u>Methods to Overcome Windows 'File Not Found' Error</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/loggers-guide-to-top-10-youtube-editing-techniques-for-2024/"><u>New Vloggers' Guide to Top 10 YouTube Editing Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-the-empty-folder-error-message-on-win-11/"><u>Removing the 'Empty Folder' Error Message on Win 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-boot-failures-a-guide-to-diagnosing-post-related-errors/"><u>Resolving Boot Failures: A Guide to Diagnosing Post-Related Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-glitches-with-ps/"><u>Resolving Windows Glitches with PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-case-for-how-win11-wins-over-macos/"><u>The Case For: How Win11 Wins over macOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrading-to-optimal-windows-audios-through-driver-revision/"><u>Upgrading to Optimal Windows Audios Through Driver Revision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unraveling-the-mystery-of-online-video-sharing-for-2024/"><u>[New] Unraveling the Mystery of Online Video Sharing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-performance-discover-the-top-8-webcams-today/"><u>[Updated] Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-revolutionizing-the-workforce-transforming-traditional-roles-from-training-to-ethics-the-future-of-employment-explained-zdnet/"><u>AI Revolutionizing the Workforce: Transforming Traditional Roles From Training to Ethics - The Future of Employment Explained | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-functionality-gpt4all-explored/"><u>Clarity in Functionality: GPT4All Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/eufy-t8200-analyzed-a-comprehensive-review-of-subscription-free-video-doorbells/"><u>Eufy T8200 Analyzed: A Comprehensive Review of Subscription-Free Video Doorbells</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-12-pro-max-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 12 Pro Max IMEI Checker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-mastery-using-ctrlplustab-for-system-tray-control/"><u>Minimize Mastery: Using Ctrl+Tab for System Tray Control</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-intricacies-a-guide-to-windows-11s-components/"><u>Navigate the Intricacies: A Guide to Windows 11'S Components</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-to-printer-sharing-in-win11/"><u>Overcoming Obstacles to Printer Sharing in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-the-aw-snap-crash-on-your-chrome-window/"><u>Preventing the “Aw, Snap!” Crash on Your Chrome Window</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sightline-synopsis-study/"><u>Sightline Synopsis Study</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-proplus-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 Pro+ 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-emailcalendar-integrate-fav-photos/"><u>Transform Windows' Email/Calendar: Integrate Fav Photos</u></a></li>
 </ul></div>
 

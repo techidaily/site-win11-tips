@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Registry Corrections in 11
-date: 2024-09-24T16:25:38.121Z
-updated: 2024-09-28T17:29:16.999Z
+date: 2024-10-02T19:28:26.061Z
+updated: 2024-10-03T18:07:26.182Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/7077ddd1132ef7b304c8a4c6d57fc2c4c3da823c4
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the Disk Cleanup Tool
 
  Rather than installing a third-party cleanup tool, try the Windows Disk Cleanup utility. It is an old yet trustworthy utility included with every copy of Windows OS. You can use it to clear system clutter which also clears registry associations of some apps. Repeat the following steps:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/7077ddd1132ef7b304c8a4c6d57fc2c4c3da823c4
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Try the Automatic Repair Tool
 
@@ -78,13 +78,20 @@ thumbnail: https://thmb.techidaily.com/7077ddd1132ef7b304c8a4c6d57fc2c4c3da823c4
 4. Patiently wait for the utility to scan and replace files on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **Close** the command prompt window and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Try a DISM Scan
 
@@ -96,20 +103,13 @@ thumbnail: https://thmb.techidaily.com/7077ddd1132ef7b304c8a4c6d57fc2c4c3da823c4
 3. Wait for the tools to scan and repair the problems with the system image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Finally,**close** the command prompt and restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Import an Old Registry Backup
 
@@ -121,7 +121,28 @@ Here’s how you can import an old backup in Windows Registry:
 2. Go to the top bar in the Registry Editor window and click on**File > Import** .  
 ![Importing old registry backup in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/importing-old-registry-backup-in-windows-11.jpg)
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait for a few minutes for the import to complete.**Restart** your system.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Check for Malware on Your System
 
@@ -150,23 +171,9 @@ Repeat the following steps to perform a system restore:
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your Registry Safe From Corruption
 
@@ -187,18 +194,24 @@ Repeat the following steps to perform a system restore:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-full-screen-in-obs-no-more-worry-for-2024/"><u>[Updated] Full Screen in Obs, No More Worry for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dynamic-website-content-incorporating-youtube-playlists/"><u>[Updated] In 2024, Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerating-battery-health-monitoring-set-up-full-charge-indicators-in-win11/"><u>Accelerating Battery Health Monitoring: Set Up Full Charge Indicators in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-error-code-30015-26-in-microsoft-365-for-users/"><u>Addressing Error Code 30015-26 in Microsoft 365 for Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-windows-setup-service-operation-levels/"><u>Adjusting Windows Setup Service Operation Levels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-to-master-voice-activated-accessibility-on-windows/"><u>Advanced Techniques to Master Voice-Activated Accessibility on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-file-management-in-windows-11/"><u>Boosting File Management in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722137049218-impatient-for-a-chatbot-on-your-pc-discover-an-amazing-open-source-substitute-now/"><u>Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/public-perceptions-unveiling-vllo-realities/"><u>Public Perceptions Unveiling VLLO Realities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-facebook-video-sounds-ultimate-troubleshooting-guide-for-a-noisy-free-viewing-experience-on-windows-pcs/"><u>Revive Your Facebook Video Sounds: Ultimate Troubleshooting Guide for a Noisy-Free Viewing Experience on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-getting-microsoft-store-back-online-after-failure-to-open/"><u>Solution Guide: Getting Microsoft Store Back Online After Failure to Open</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tips-for-a-pristine-image-canvas-background-technique/"><u>Tips for a Pristine Image Canva's Background Technique</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-does-fbs-oversight-board-govern/"><u>What Does FB’s Oversight Board Govern?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-your-first-stride-into-snapseed-land/"><u>[New] 2024 Approved Navigating Your First Stride Into Snapseed Land</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nokia-g22-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nokia G22 Phone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/here-legal-restrictions-to-recording-youtube-videos-in-2024/"><u>Are There Legal Restrictions to Recording YouTube Videos, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-corrupted-file-error-0x80070570-anxiety-in-windows-11/"><u>Conquering Corrupted File (Error 0X80070570) Anxiety in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-oculus-rift-into-a-windows-vr-device/"><u>Converting Oculus Rift Into a Windows VR Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-file-security-master-the-art-of-password-protected-text-documents/"><u>DIY File Security: Master the Art of Password-Protected Text Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-computer-experience-top-10-must-know-powertoy-features/"><u>Elevate Your Computer Experience: Top 10 Must-Know PowerToy Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-barriers-fix-steam-remote-play-woes/"><u>Eliminating Barriers: Fix Steam Remote Play Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-restrictions-save-permissions-fix-windows-way/"><u>Eliminating Restrictions: Save Permissions Fix Window's Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/youtube-to-insta-a-video-posting-guide/"><u>From YouTube to Insta A Video Posting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-restore-missing-default-power-plans-on-windows-11/"><u>How to Restore Missing Default Power Plans on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>In 2024, Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-transferring-twitter-videos-to-whatsapp-effortlessly/"><u>In 2024, Transferring Twitter Videos to WhatsApp Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013442900-quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recapture-retro-essence-expert-tips-for-retroarcs-shader-use/"><u>Recapture Retro Essence: Expert Tips for RetroArc's Shader Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-infinix-hot-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-graphics-card-compatibility-issues-with-fortnite-on-windows/"><u>Resolving Graphics Card Compatibility Issues with Fortnite on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-protection-stick-to-single-antivirus-software-in-windows/"><u>Simplify Protection: Stick to Single Antivirus Software in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-securing-administrator-access-on-windows/"><u>Steps for Securing Administrator Access on Windows</u></a></li>
 </ul></div>
 

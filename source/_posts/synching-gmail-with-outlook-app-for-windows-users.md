@@ -1,7 +1,7 @@
 ---
 title: Synching Gmail with Outlook App for Windows Users
-date: 2024-09-24T18:16:53.017Z
-updated: 2024-09-28T17:53:16.107Z
+date: 2024-10-01T22:48:37.388Z
+updated: 2024-10-03T17:07:48.323Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -46,28 +53,22 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
@@ -75,17 +76,17 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -107,22 +108,24 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-blades-high-dynamic-range-redefined-in-four-kaps/"><u>[New] 2024 Approved Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reviewing-screenmasters-latest-tech-for-recording/"><u>[New] In 2024, Reviewing ScreenMaster's Latest Tech for Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[New] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-youtube-on-facebook-feeds-for-2024/"><u>[New] Unlocking YouTube on Facebook Feeds for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-step-by-step-process-of-crafting-perfect-tweet-ads/"><u>[Updated] In 2024, Step-by-Step Process of Crafting Perfect Tweet Ads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-windows-update-error-0x800f080a/"><u>6 Ways to Fix the Windows Update Error 0X800f080a</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-10-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 10 & 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-startup-manipulating-boot-timeout-on-windows-11/"><u>Accelerate Startup: Manipulating Boot Timeout on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-window-11-search-game-essential-tips-to-know/"><u>Ace Your Window 11 Search Game: Essential Tips to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-notepad-display-from-light-to-dark-in-win-11-version/"><u>Adapting Notepad Display: From Light to Dark in Win 11 Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapting-pre-ultimate-computers-to-seniors-needs/"><u>Adapting Pre-Ultimate Computers to Seniors' Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-llama-3-vs-gpt-4-the-ultimate-comparison-guide/"><u>AI Showdown: Llama 3 vs GPT-4 - The Ultimate Comparison Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/are-your-windows-apps-struggling-to-connect-to-the-internet-try-these-fixes/"><u>Are Your Windows Apps Struggling to Connect to the Internet? Try These Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-zoom-failures-immediate-resolution-for-error-1132/"><u>Avoiding Zoom Failures - Immediate Resolution for Error 1132</u></a></li>
-<li><a href="https://facebook.techidaily.com/interface-evolution-facebooks-pathway-to-metamorphosis/"><u>Interface Evolution: Facebook's Pathway to Metamorphosis</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-rated-cross-platform-file-synchronization-tools-how-to-effortlessly-transfer-data-between-iphone-and-pc/"><u>Top-Rated Cross-Platform File Synchronization Tools: How to Effortlessly Transfer Data Between iPhone & PC</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-vocaltune-hub-deciphering-the-technology-praise-from-users-and-what-else-you-should-explore/"><u>Updated 2024 Approved VocalTune Hub Deciphering the Technology, Praise From Users, and What Else You Should Explore</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-guide-to-selecting-top-displays-for-your-xbox-series-x-games/"><u>[New] 2024 Approved Essential Guide to Selecting Top Displays for Your Xbox Series X Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro/"><u>[New] In 2024, Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[New] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-simplify-passport-photography-with-these-top-10-low-cost-solutions/"><u>[Updated] 2024 Approved Simplify Passport Photography with These Top 10 Low-Cost Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-drones-for-kids-and-beginners/"><u>2024 Approved Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-and-mending-windows-audio-glitch-code-9999/"><u>Demystifying and Mending Windows Audio Glitch: Code 9999</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-quick-and-efficient-ways-to-access-windows-11-sounds/"><u>Discover Quick and Efficient Ways to Access Windows 11 Sounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-smooth-xbox-microphone-integration-in-windows-11-ecosystem/"><u>Ensuring Smooth Xbox Microphone Integration in Windows 11 Ecosystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-windows-flashing-screen-in-windows-11-pcs/"><u>Fix Window's Flashing Screen in Windows 11 PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-a-comprehensive-guide-to-making-video-slideshows-with-final-cut-pro/"><u>New Unleash Your Creativity A Comprehensive Guide to Making Video Slideshows with Final Cut Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-over-your-text-editor-fixing-windows-notepad-open-issues/"><u>Regain Control Over Your Text Editor: Fixing Windows Notepad Open Issues</u></a></li>
+<li><a href="https://win-online.techidaily.com/scopri-le-strategie-per-la-produzione-di-eccezionali-video-di-matrimonio-con-i-maestri-videomaker-specializzati-in-eventi-celebri/"><u>Scopri Le Strategie per La Produzione Di Eccezionali Video Di Matrimonio Con I Maestri Videomaker Specializzati in Eventi Celebri</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fixes-to-steam-logins-in-rust-on-your-windows-machine/"><u>Step-by-Step Fixes to Steam Logins in Rust on Your Windows Machine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-a-brighter-bolder-cursor-on-windows/"><u>The Ultimate Guide to a Brighter, Bolder Cursor on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016472415-troubleshoot-a-dead-logitech-g733-microphone-easily/"><u>Troubleshoot a Dead Logitech G733 Microphone Easily!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-o365-sync-issues-on-windows/"><u>Troubleshooting O365 Sync Issues on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-5-fixes-rectifying-secure-key-mismatch-errors/"><u>Win11's 5 Fixes: Rectifying Secure Key Mismatch Errors</u></a></li>
 </ul></div>
 

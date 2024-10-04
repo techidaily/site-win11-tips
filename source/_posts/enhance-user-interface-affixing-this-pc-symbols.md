@@ -1,7 +1,7 @@
 ---
 title: "Enhance User Interface: Affixing 'This PC' Symbols"
-date: 2024-09-20T04:12:36.606Z
-updated: 2024-09-21T20:08:43.102Z
+date: 2024-09-28T19:26:36.379Z
+updated: 2024-10-03T22:39:29.004Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easily Add the "This PC" Icon to Your Desktop
 
  Windows 11 doesn't display the "This PC" icon on the desktop by default, so we have to add it manually. Hopefully, the above steps will help you add this icon to your desktop and make accessing your drives much more straightforward. Taking this step will significantly enhance your productivity. If you decide to clean up your desktop in the future, follow the same steps and disable it again.
@@ -64,12 +71,20 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gigglesome-footage-downloader/"><u>[New] Gigglesome Footage Downloader</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amp-up-your-humor-arsenal-kapwings-meme-creator-for-2024/"><u>Amp Up Your Humor Arsenal – Kapwing's Meme Creator for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-windows-discords-inaccurate-search-results/"><u>Boosting Windows Discord's Inaccurate Search Results</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-cant-get-mail-easy-fixes-for-windows-11-users/"><u>Breaking Down 'Can't Get Mail': Easy Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-windows-chatbot-constraints-with-freedomgpt/"><u>Breaking Windows ChatBot Constraints with FreedomGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-hiccups-with-easy-fixes/"><u>Bypassing Windows 11 Hiccups with Easy Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-chromes-automatic-conversion-to-webp-format-pc-users/"><u>Cease Chrome’s Automatic Conversion to WebP Format PC Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/choosing-between-intel-unison-and-phone-link-best-wp-app/"><u>Choosing Between Intel Unison & Phone Link: Best WP App?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-applied-resolving-horizon-zero-dawns-pc-game-crash-issues/"><u>Fixes Applied: Resolving Horizon Zero Dawn's PC Game Crash Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Vivo Y78 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-v30-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo V30 Data? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor 80 Pro Straight Screen Edition Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme GT Neo 5 FRP Bypass</u></a></li>
+</ul></div>
 

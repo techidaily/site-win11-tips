@@ -1,7 +1,7 @@
 ---
 title: Innovative Note-Taking with Windows OS Integration
-date: 2024-09-26T19:18:06.845Z
-updated: 2024-09-28T18:10:24.514Z
+date: 2024-09-28T19:17:07.687Z
+updated: 2024-10-04T00:39:24.060Z
 tags:
   - windows10
   - windows11
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stick Sticky Notes to Software Windows With Notezilla
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
 2. Click**Finish** with the Launch Notezilla checkbox selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
 5. Type some content into the sticky note.
@@ -101,11 +94,32 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
 5. Click**OK** to stick the note to the selected window.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
 
@@ -116,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
@@ -127,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
@@ -154,22 +161,20 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/1715859815937-new-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[New] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevating-your-youtube-projects-with-enhancements/"><u>[Updated] Elevating Your YouTube Projects with Enhancements</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-creativity-with-youtubes-green-screens/"><u>[Updated] Unleash Your Creativity with YouTube's Green Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ace-your-smartphone-experience-mastering-androids-quick-access-features/"><u>Ace Your Smartphone Experience: Mastering Android's Quick Access Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/"><u>Breaking Barriers: Uniting PC & Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-non-operational-inbox-messages-on-windows/"><u>Breaking Down Non-Operational Inbox Messages on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-symbolic-x-in-windows-file-explorer/"><u>Decoding: The Symbolic X in Windows File Explorer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotation-tools-top-picks-for-windows-mac-android-and-iphone-for-2024/"><u>Free AVI Video Rotation Tools Top Picks for Windows, MAC, Android, and iPhone for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-open-and-use-the-windows-terminal-in-quake-mode/"><u>How to Open and Use the Windows Terminal in Quake Mode</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quickly-remove-bloatware-from-windows-11/"><u>How to Quickly Remove Bloatware From Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-vdr-screen-capture-compilation-extensive-guide/"><u>In 2024, VDR Screen Capture Compilation Extensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-efficiency-in-windows-photos-via-shortcuts/"><u>Maximize Efficiency in Windows Photos via Shortcuts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/t-strategies-in-youtube-marketing-for-2024/"><u>Profit Strategies in YouTube Marketing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/routine-steps-to-engage-windows-11s-calculator/"><u>Routine Steps to Engage Windows 11'S Calculator</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/slaying-windows-beast-error-code-0xc00ce556/"><u>Slaying Window's Beast Error: Code 0xC00CE556</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-back-from-realms-step-forward-with-archives/"><u>Step Back From Realms, Step Forward with Archives</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-cable-modem-models-your-ultimate-buying-guide/"><u>Top Rated Cable Modem Models : Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-the-world-of-lut-filters-for-obs-mastery-for-2024/"><u>[New] Navigating the World of LUT Filters for OBS Mastery for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-of-successful-video-endorsements/"><u>[Updated] The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-tips-for-kinemaster-proficiency-and-excellent-competitors/"><u>2024 Approved Essential Tips for KineMaster Proficiency and Excellent Competitors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a38-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A38 FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connectivity-through-time-leveraging-windows-7-for-windows-11-activation/"><u>Connectivity Through Time: Leveraging Windows 7 for Windows 11 Activation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-risks-of-keygen-virus-and-windows-security-measures/"><u>Decoding the Risks of Keygen Virus & Windows Security Measures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-the-heart-of-recent-windows-use/"><u>Direct to the Heart of Recent Windows Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>In 2024, Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977551187-latest-hp-laserjet-pro-m4amo-driver-software-get-it-here/"><u>Latest HP LaserJet Pro M4amo Driver Software - Get It Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-compression-techniques-for-disk-optimization/"><u>Mastering File Compression Techniques for Disk Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-edge-browser-setting-up-microsofts-defender-application-guard-in-win-11/"><u>Secure Edge Browser: Setting up Microsoft's Defender Application Guard in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-eradicate-tearing-issues-while-playing-valorant/"><u>Solution Steps: Eradicate Tearing Issues While Playing VALORANT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-auto-text-messages-on-imessage-signs-of-being-blocked/"><u>Understanding Auto-Text Messages on iMessage: Signs of Being Blocked?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-files-in-windows-no-more-read-only-limit/"><u>Unlocking Files in Windows: No More Read-Only Limit</u></a></li>
 </ul></div>
 

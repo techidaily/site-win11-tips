@@ -1,7 +1,7 @@
 ---
 title: Mastering Sticky Notes Opener on Windows 11
-date: 2024-09-26T16:27:34.493Z
-updated: 2024-09-28T17:31:06.509Z
+date: 2024-09-27T21:54:43.530Z
+updated: 2024-10-03T20:04:58.221Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  Now that you know what a sticky note is, let's see how to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Sticky Notes via Windows Search
 
  It's likely that you have used the search function on Windows to find a file or launch an application. But did you know that Sticky Notes can also be opened using Windows Search? Here's how to do this:
@@ -44,10 +51,16 @@ To open Sticky Notes using the Windows Search tool, do the following:
 2. Then type "Sticky Notes" into the search bar.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
@@ -55,13 +68,6 @@ To open Sticky Notes using the Windows Search tool, do the following:
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
 
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
 
@@ -72,6 +78,13 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on the**Start** button and then select**All apps** from the menu in the upper right corner.  
 ![Open Sticky Notes Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Run-Command.jpg)
 2. Scroll down until you see**Sticky Notes** , then click to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
@@ -94,20 +107,13 @@ To open Sticky Notes from the Start Menu, follow these steps:
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can access your sticky notes right from the taskbar.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Easy Access to Sticky Notes
 
@@ -128,21 +134,19 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-from-script-to-splendor-animating-effects-unbound/"><u>[New] 2024 Approved From Script to Splendor Animating Effects Unbound</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-orchestrate-a-photo-symphony-for-artistic-expression-for-2024/"><u>[New] Orchestrate a Photo Symphony for Artistic Expression for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[Updated] Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-nextlevelcameraseekingpost-mycam/"><u>[Updated] In 2024, NextLevelCameraSeekingPost-MyCam</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-potential-adding-text-to-windowsmac-images/"><u>2024 Approved Unlock Creative Potential Adding Text to Windows/Mac Images</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/amplify-productivity-integrating-flow-launcher-into-daily-routine/"><u>Amplify Productivity: Integrating Flow Launcher Into Daily Routine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-recording-basics-for-newcomers-on-win-11/"><u>Audio Recording Basics for Newcomers on Win 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-konverter-von-h265-zu-h264-unter-windows-10-and-macos-fuhren-sie-die-freiheit-der-videoformate-ein/"><u>Gratis Konverter Von H.265 Zu H.264 Unter Windows 10 & macOS - Führen Sie Die Freiheit Der Videoformate Ein!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-through-compatibility-challenges-with-intel-gpu/"><u>Guiding Users Through Compatibility Challenges with Intel GPU</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-note-12-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-teams-speed-and-efficiency-upgrade/"><u>Microsoft Teams' Speed & Efficiency Upgrade</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-to-windows-10-startup-settings-your-ultimate-how-to-guide/"><u>Navigating to Windows 10 Startup Settings - Your Ultimate How-To Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethinking-default-browsing-in-newest-windows-os/"><u>Rethinking Default Browsing in Newest Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-your-systems-graphics-with-windows-11-tips/"><u>Revive Your System's Graphics with Windows 11 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-do-numbers-on-windows-updates-stand-for/"><u>What Do Numbers on Windows Updates Stand For?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pushing-visual-limits-in-depth-analysis-of-video-enhancer-22/"><u>[Updated] Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-home-cinema-kits-starting-your-journey-to-a-cinematic-paradise/"><u>Budget-Friendly Home Cinema Kits: Starting Your Journey to a Cinematic Paradise</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-techniques-for-google-meet-aesthetic-enhancement/"><u>Cutting-Edge Techniques for Google Meet Aesthetic Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-words-in-a-flash-windows-11-definiton-hub/"><u>Explore Words in a Flash - Windows 11 Definiton Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-get-the-best-macos-features-with-windows-apps/"><u>How to Get the Best macOS Features With Windows Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-valorant-pace-on-windows-pc/"><u>Jumpstart Your Valorant Pace on Windows PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/must-watch-10-unique-igtv-content-formats-for-brands/"><u>Must-Watch 10 Unique IGTV Content Formats for Brands</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nubia-red-magic-9-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nubia Red Magic 9 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-ps4-controller-for-your-pcmac/"><u>The Ultimate PS4 Controller for Your PC/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ios-pro-and-plus-free-film-apps-unveiled/"><u>Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-how-to-prioritize-taskmanager/"><u>Unveiling How to Prioritize TaskManager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-hello-fingerprint-login-configuration-guide/"><u>Windows Hello Fingerprint Login Configuration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-strategies-unzipping-multiple-files-simultaneously/"><u>Windows Strategies: Unzipping Multiple Files Simultaneously</u></a></li>
 </ul></div>
 

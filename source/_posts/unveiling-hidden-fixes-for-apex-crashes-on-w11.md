@@ -1,7 +1,7 @@
 ---
 title: Unveiling Hidden Fixes for Apex Crashes on W11
-date: 2024-09-25T19:09:27.599Z
-updated: 2024-09-28T18:07:03.632Z
+date: 2024-09-28T21:09:44.401Z
+updated: 2024-10-03T17:54:22.931Z
 tags:
   - windows10
   - windows11
@@ -39,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
  If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
 
  To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Is Your CPU Overclocked?
 
@@ -78,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
  The solution, in this case, is to lower the priority of EasyAntiCheat while Apex Legends is running in the background. To do that, open the Task Manager and choose the**Details** option from the left sidebar. Then, locate and right-click on the EasyAntiCheat service. Click on**Set Priority** and then choose**Low** from the context menu.
 
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, switch to Apex Legends and check if you still experience the crash.
 
@@ -128,13 +121,6 @@ Here's how to do it in the EA app:
 
  If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Graphics Driver
 
  At times, the graphics driver you are using might not be compatible with Apex Legends and cause it to crash. You can always fix graphics driver issues by updating it to the latest version. Here's how:
@@ -150,6 +136,13 @@ Here's how to do it in the EA app:
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -160,15 +153,22 @@ Here's how to do it in the EA app:
 3. Click the**Change settings** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
@@ -191,24 +191,21 @@ Here's how to do it in the EA app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-newbies-ultimate-youtube-gear-handbook/"><u>[New] Newbies' Ultimate YouTube Gear Handbook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-video-production-record-edit-and-export-guide/"><u>[New] Webcam Video Production Record, Edit & Export Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-laptop-unlock-free-movie-magic-with-these-tools/"><u>[Updated] 2024 Approved Laptop Unlock Free Movie Magic with These Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>[Updated] The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-command-routes-for-fast-diagnostic-center-entry/"><u>10 Command Routes for Fast Diagnostic Center Entry</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-straightforward-steps-to-engage-repair-tool/"><u>10 Straightforward Steps to Engage Repair Tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/3-ways-to-create-a-windows-11-bootable-usb-drive/"><u>3 Ways to Create a Windows 11 Bootable USB Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pcs-boot-up-with-these-3-ways-in-windows-11/"><u>Accelerate Your PC's Boot-Up with These 3 Ways in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessibility-enhanced-with-shortcuts-for-microsoft-store-uwp/"><u>Accessibility Enhanced with Shortcuts for Microsoft Store UWP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjustments-for-a-seamless-integration-of-wsl-in-win-11/"><u>Adjustments for a Seamless Integration of WSL in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/artificinas-intelligence-microsofts-innovative-ai-addition-to-windows-11-taskbar/"><u>Artificinas Intelligence: Microsoft’s Innovative AI Addition to Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719225198037-epic-launcher-removal-woes-in-windows-11-fix-now/"><u>Epic Launcher Removal Woes in Windows 11: Fix Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/get-premium-banners-no-cost-just-click-for-2024/"><u>Get Premium Banners - No Cost, Just Click for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-most-out-of-your-laptop-fixing-issues-with-the-trackpad/"><u>Getting the Most Out of Your Laptop: Fixing Issues with the Trackpad</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-finding-the-right-mic-a-guide-for-multifaceted-yt-channels/"><u>In 2024, Finding the Right Mic A Guide for Multifaceted YT Channels</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-10-secure-business-data-sphere/"><u>In 2024, TOP 10 Secure Business Data Sphere</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-ultimate-guide-to-text-tracking-software-for-2024/"><u>The Ultimate Guide to Text Tracking Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-financial-framework-of-youtubes-burgeoning-shorts-fund/"><u>[New] In 2024, Exploring the Financial Framework of YouTube's Burgeoning Shorts Fund</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>[Updated] In 2024, Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>2024 Approved Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-combine-movie-tracks-in-youtube-repertoire/"><u>2024 Approved Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-capture-the-essence-of-rl-gaming-experience/"><u>2024 Approved How to Capture the Essence of RL Gaming Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/aviary-creator-searching-for-affordable-filters-for-2024/"><u>Aviary Creator Searching for Affordable Filters for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-7-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 7 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-windows-smartscreen-filters-and-alerts/"><u>Configuring Windows' SmartScreen Filters and Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-windows-tech-controlling-appbrowser/"><u>Decoding Windows Tech: Controlling App/Browser</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pc-awakening-guide-navigating-windows-8-revival-strategies/"><u>PC Awakening Guide: Navigating Windows' 8 Revival Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-vanished-windows-6-techniques-for-win11/"><u>Rediscovering Vanished Windows: 6 Techniques for Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-rearranged-keystrokes-in-operating-systems/"><u>Remedying Rearranged Keystrokes in Operating Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/stop-algorithmic-youtube-video-selections/"><u>Stop Algorithmic YouTube Video Selections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktoks-biggest-winners-on-the-twittersphere-for-2024/"><u>TikTok's Biggest Winners on the Twittersphere for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-additional-options-with-the-widget-bar-in-windows-11/"><u>Unlocking Additional Options with the Widget Bar in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-guide-differentiate-hdd-and-ssd/"><u>Windows Guide: Differentiate HDD and SSD</u></a></li>
 </ul></div>
 

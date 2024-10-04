@@ -1,7 +1,7 @@
 ---
 title: "Unleash Typing Potential: Hotkey Setup Guide to Text Snapping in Win11"
-date: 2024-09-27T19:07:58.194Z
-updated: 2024-09-28T18:15:24.216Z
+date: 2024-10-01T22:01:38.759Z
+updated: 2024-10-03T20:42:17.284Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
@@ -68,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
@@ -77,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
@@ -88,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -110,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -140,24 +146,20 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-must-have-windows-11-cam-recorders/"><u>[New] Top 10 Must-Have Windows 11 Cam Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[New] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-cream-of-the-crop-best-5-sharp-edged-displays-for-2024/"><u>[Updated] The Cream of the Crop Best 5 Sharp-Edged Displays for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-fanfare-gaming-patch/"><u>2024 Approved Fanfare Gaming Patch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-disabled-lock-screen-timeout-windows/"><u>Addressing Disabled Lock Screen Timeout Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-resources-to-get-free-audio-fx-downloads-for-your-video-projects/"><u>Best Resources to Get Free Audio FX Downloads for Your Video Projects</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-the-playstation-5-slim-and-original-model-which-ones-right-for-you/"><u>Comparing the PlayStation 5 Slim and Original Model: Which One's Right for You?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-complete-scrutiny-of-cutmatic-editor/"><u>In 2024, Complete Scrutiny of CutMatic Editor</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/in-pursuit-of-purposeful-downloads-from-windows-store/"><u>In Pursuit of Purposeful Downloads From Windows Store</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-no-cost-no-problem-the-5-best-free-online-video-mergers-for-2024/"><u>New No Cost, No Problem The 5 Best Free Online Video Mergers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11s-default-search-settings/"><u>Optimizing Windows 11'S Default Search Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-onedrive-login-failure-x8004dec5-windows-issue/"><u>Resolving ONEDRIVE Login Failure: X.8004DEC5 Windows Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-current-windows-pass-error-in-win11win11/"><u>Solving Current Windows Pass Error in Win11/Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-stopping-unwanted-disk-filling/"><u>The Ultimate Guide to Stopping Unwanted Disk Filling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-soundcard-irq-errors-on-pc/"><u>Troubleshooting Soundcard IRQ Errors on PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-1-free-top-10-best-android-video-editors-for-2024/"><u>Updated 1-FREE Top 10 Best Android Video Editors for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-rotate-videos-on-iphone-for-free-top-5-apps-for-2024/"><u>Updated Rotate Videos on iPhone for Free Top 5 Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/whats-the-difference-between-the-c-drive-and-the-d-drive/"><u>What's the Difference Between the C: Drive and the D: Drive?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-password-safety-tools-for-windows-11-users/"><u>Winning Password Safety Tools for Windows 11 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-macbook-air-and-pro-on-m1-which-scales-higher/"><u>[New] In 2024, MacBook Air & Pro on M1 Which Scales Higher?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-young-yachtsmens-playtime-pleasures/"><u>[New] In 2024, Young Yachtsmen's Playtime Pleasures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>[Updated] 2024 Approved Android Without A Wire? Here's Your Free Games List</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457201192-cant-use-ringsilent-feature-on-your-iphone-here-are-other-ways-to-manage-notifications/"><u>Can't Use Ring/Silent Feature on Your iPhone? Here Are Other Ways to Manage Notifications</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entender-todas-as-variedades-do-portuguese-em-gritos-de-ola/"><u>Entender Todas as Variedades Do Portuguese Em Gritos De Olá</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-through-fixes-for-win-11s-event-viewer/"><u>Guiding Through Fixes for Win 11'S Event Viewer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quickly-view-images-in-windows-11/"><u>How To Quickly View Images in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-solutions-for-euro-truck-simulator-2s-pc-crashes/"><u>Optimizing Gameplay: Effective Solutions for Euro Truck Simulator 2'S PC Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-performance-sluggishness-in-windows-with-dual-screen-views/"><u>Preventing Performance Sluggishness in Windows with Dual Screen Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rediscovering-lost-panes-a-sixfold-approach-for-windows-users/"><u>Rediscovering Lost Panes: A Sixfold Approach for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-fixed-power-settings-on-windows-11/"><u>Solutions for Fixed Power Settings on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-common-caption-issues-on-windows-10-systems/"><u>Tackling Common Caption Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-tracker-titans-wins-best-tools-for-peak-efficiency/"><u>Time Tracker Titans: Win's Best Tools for Peak Efficiency</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-ios-data-migration-apps-effortless-transfers-between-ios-devices-and-computers/"><u>Top-Rated iOs Data Migration Apps: Effortless Transfers Between iOS Devices & Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-11-hdmi-update-guide-upgrading-your-drivers/"><u>Win 11 HDMI Update Guide: Upgrading Your Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 0X8007045D Blue Screen Error in Windows 11
-date: 2024-09-25T17:01:07.487Z
-updated: 2024-09-28T17:43:32.103Z
+date: 2024-09-30T01:01:41.477Z
+updated: 2024-10-03T21:11:00.951Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -54,11 +47,31 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  When you're done, check and see if the 0x8007045d error persists.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your PC
 
  Using one of the many[ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) is often recommended for troubleshooting. It's one of the easiest ways to rid of strange Windows glitches, and for good reason. Put briefly, a simple restart flushes your RAM, clearing away all the programs that might be eating your memory. So make sure you restart your PC before moving to complex solutions.
 
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use an Alternate USB Slot
 
@@ -67,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Download the Affected Files Again
@@ -94,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
@@ -108,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
 
@@ -127,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the 0x8007045d Error on Your Windows PC
 
@@ -149,18 +155,18 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instantaneous-frame-construction-facebook-photo-groups/"><u>[New] Instantaneous Frame Construction Facebook Photo Groups</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-video-recorder-on-xiaomis-latest-megaphone/"><u>[Updated] In 2024, The Ultimate Video Recorder on Xiaomi's Latest MegaPhone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-dissecting-the-financial-strategy-of-t-series-in-video-platforms/"><u>2024 Approved Dissecting the Financial Strategy of T-Series in Video Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-prime-visual-screenshots-on-apple-systems-max-length-156/"><u>2024 Approved Prime Visual Screenshots on Apple Systems (Max Length 156)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-life-back-into-your-pcs-arrow-keys/"><u>Breathe Life Back Into Your PC's Arrow Keys</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-endless-login-prompts-on-windows-os/"><u>Bypassing Endless Login Prompts on Windows OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/journey-through-simulated-realities-vr-basics/"><u>Journey Through Simulated Realities VR Basics</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-the-winscomrsvc-failure-on-initial-launch/"><u>Resolving the WinscomrsVc Failure on Initial Launch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-eradicate-0x800713f-error-on-windows-11/"><u>Strategies to Eradicate 0X800713F Error on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-6s-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 6s Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-tips-for-playing-old-championship-manager-on-pc/"><u>Top Tips for Playing Old Championship Manager on PC</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-simplified-soundscape-a-modern-approach-to-adding-sound-effects-in-videos/"><u>Updated 2024 Approved Simplified Soundscape A Modern Approach to Adding Sound Effects in Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-selections-5-fast-screen-recorders-for-2024/"><u>[Updated] Elite Selections 5 Fast Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-5-best-4k-monitors-color-grading/"><u>[Updated] In 2024, 5 Best 4K Monitors Color Grading</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-strategies-for-the-battlefield-5-launch-issue-solution/"><u>Comprehensive Strategies for the 'Battlefield 5 Launch Issue' Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-7-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 7 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-download-how-to-get-your-amd-ryzen-5-2400g-drivers-instantly/"><u>Hassle-Free Download: How to Get Your AMD Ryzen 5 2400G Drivers Instantly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-performance-resolving-windows-11-stuttering/"><u>Jumpstart Performance: Resolving Windows 11 Stuttering</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-windows-11-challenge-instal-clipchamp-effortlessly/"><u>Overcome the Windows 11 Challenge: Instal ClipChamp Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precise-age-setting-made-simple-tiktoks-guide-for-2024/"><u>Precise Age Setting Made Simple TikTok's Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-screen-recording-tech-for-youtube-broadcasts-for-2024/"><u>Prime Screen Recording Tech for YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-zip-archives-in-image-files-win11/"><u>Sneaky Storage Solutions: ZIP Archives in Image Files (Win11)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/square-up-your-windows-interface/"><u>Square Up Your Windows Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-intel-unison-app-that-wont-work-in-win11/"><u>Troubleshooting the Intel Unison App that Won't Work in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-your-journey-fixing-failed-discord-installation-on-pc/"><u>Unblocking Your Journey: Fixing Failed Discord Installation on PC</u></a></li>
 </ul></div>
 

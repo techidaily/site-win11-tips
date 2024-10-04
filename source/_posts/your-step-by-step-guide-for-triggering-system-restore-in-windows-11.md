@@ -1,0 +1,230 @@
+---
+title: Your Step-by-Step Guide for Triggering System Restore in Windows 11
+date: 2024-10-02T17:20:59.909Z
+updated: 2024-10-03T22:29:42.760Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Your Step-by-Step Guide for Triggering System Restore in Windows 11
+excerpt: This Article Describes Your Step-by-Step Guide for Triggering System Restore in Windows 11
+keywords: W11 System Restore,Trigger System Recovery,Windows 11 Reset,System Protection Windows,Restore Point Creation,PC Windows Maintenance,Step-by-Step Restore Guide
+thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e811859d2e2792db0d3e9e3a.jpg
+---
+
+## Your Step-by-Step Guide for Triggering System Restore in Windows 11
+
+ System Restore comes in handy when you land in trouble after installing an app or an update that wrecks your PC. Windows creates restore points and automatically deletes them to make way for new ones. System Restore prevents you from straight away resorting to other recovery methods like reset or Windows reinstallation that can affect your data and apps. Here are eleven ways to launch this reliable tool on Windows 11\.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Using Start
+
+ The Start menu is the most frequent means to access apps and Windows tools. The improved search integration and app launch tracking displays the apps and settings that you access most of the time. Repeat the following steps:
+
+1. Press the **Win** key to open the Start menu.
+2. Type **System Restore** and press the **Enter** key. Then click on the **Open System Restore** button.  
+![Open System Restore Using Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-start.jpg)
+3. Click on the **Next** button to view and choose from the list of available options.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Using Control Panel
+
+ Control Panel contains all Windows tools and settings, which makes it easy to find them. Even the Windows search points to the Control Panel window of Recovery options. Here’s how to do it:
+
+1. Press the **Win** key, type **Control Panel**, and then press the **Enter** key.
+2. Click on the **View by:** drop-down list and select the **large icons** option.
+3. Now, click on the **Recovery** option.  
+![Open System Restore Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-control-panel.jpg)
+4. Lastly, click on the **Open System Restore** button.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3\. Using Advanced System Properties Window
+
+ You can quickly access System Restore using the Advanced System Properties window. Repeat the following steps:
+
+1. Press the **Win** key, type **sysdm.cpl**, and press the **Enter** key.
+2. Now, switch to the **System Protection** tab.
+3. Click on the **System Restore** button to launch the tool.  
+![Open System Restore Using Advanced System Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-advanced-system-properties-window.jpg)
+
+## 4\. Using Settings App
+
+ Microsoft is still trying to offload everything from the Control Panel to the Settings app. Even a search for System Restore in Control Panel points to the settings app, but you won’t find the tool there. Instead, you have to search for System Restore inside the Settings app. Here’s how to do it:
+
+1. Right-click on the **Start** button to open the **Power User** menu. Click on the **Settings** option.
+2. Go to the search bar on the top left side and click on it.
+3. Type **Restore** and click on the **Recovery** search result. It will take you to the Control Panel’s list of available recovery options.  
+![Open System Restore Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-settings-app-1.jpg)
+4. Now, click on the **Open System Restore** button.
+
+## 5\. Using the Run Dialog Box
+
+ The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
+
+1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **rstrui** in the text box.  
+![Open System Restore Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-run-dialog-box.jpg)
+2. Click on the **OK** button to open the System Properties tool.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Using a Pinned Taskbar Shortcut
+
+ If you search for system restore in the Start menu, you won’t find an option in the right pane to pin the app to the Start menu or Taskbar. But you can pin the application file of the tool to the Taskbar by visiting its folder location. Here’s how to do it:
+
+1. Press the **Win** key, type **rstrui**, and click on the **Open file location** option in the right pane.
+2. Find the **rstrui.exe** app in the folder and right-click on it. Select the **Show more options** from the context menu.
+3. Click on the **Pin to taskbar** option.  
+![Open System Restore Using Pinned Taskbar Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-pinned-taskbar-shortcut.jpg)
+4. A System Restore icon will appear on the Taskbar. You can alter its position on the Taskbar by clicking and dragging it in either direction.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7\. Using the Task Manager
+
+ If the [Control Panel app won't open on your Windows PC](https://www.makeuseof.com/fix-control-panel-wont-open/), you can use the Task Manager to launch the System Restore utility. Here’s how:
+
+1. Press the **Ctrl + Shift + Esc** keys at once to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
+2. Click on the **Run new task** button.
+3. Type **rstrui.exe** and click on the **OK** button to launch the System Restore tool.  
+![Open System Restore Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-task-manager.jpg)
+4. Close the Task Manager window.
+
+## 8\. Using the File Explorer
+
+ System Restore, like all other Windows tools and Control Panel applets, resides in the System32 folder. So, you can use the File Explorer to access the tool. Repeat the following steps:
+
+1. Press **Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
+2. Go to the top area and click on the address bar. Paste the following path and press the **Enter** key: **C:\\Windows\\System32**
+3. Click on the search bar and type **rstrui** and press the **Enter** key to search.  
+![Open System Restore Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-file-explorer.jpg)
+4. Double-click on the **rstrui.exe** file to open the tool.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 9\. Using CMD or PowerShell
+
+ Terminal lovers don’t like the idea of jumping through menus to open a program. If you are one of them, here’s how you can open the System Restore utility in Windows 11 using Command Prompt or PowerShell:
+
+1. Press **Win + R** to open the Run dialog box. Type **cmd** or **Powershell** in the text box and press the **Enter** key.
+2. Now type the following command in the terminal and press the Enter key: **rstrui.exe**  
+![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
+3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
+4. Close the Command Prompt or PowerShell window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 10\. Using a Desktop Shortcut
+
+ A desktop shortcut is among the easiest methods to open frequently used apps and programs. You can create a manual Windows shortcut of the System Restore utility and then launch it whenever you like. Repeat the following steps:
+
+1. Press **Win + D** to switch to the desktop.
+2. Right-click on the empty area on the desktop with no icons.
+3. Select the **New > Shortcut** option from the context menu.
+4. Windows will create a shortcut and open its customization window.
+5. Click on the text box and paste the following path: **"C:\\Windows\\System32\\rstrui.exe"**
+6. Click on the **Next** button.  
+![Open System Restore Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-desktop-shortcut.jpg)
+7. Now, save the shortcut with the name **System Restore** and click on the **Finish** button.
+8. Double-click on the newly created shortcut to launch System Restore.
+
+## 11\. Using a Keyboard Shortcut
+
+ The last method on our list is mapping a keyboard key combination to the newly created shortcut. So, you can press the mapped keys and launch the tool whenever you like. Repeat the following steps;
+
+1. Press **Win + D** to switch to the desktop.
+2. Find the newly created system restore shortcut and right-click on it. Select the **Properties** option from the context menu.
+3. Go to the Shortcut key field. You can map a combination beginning with **Ctrl + Alt +** keys. Others are reserved for system shortcuts and you cannot use them.
+4. Press the **Ctrl + Alt + S** keys at once to assign the combination. You can use any other key in place of the “**S**” key.
+5. Click on the **Apply** button and then click on the **OK** button.  
+![Open System Restore Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-keyboard-shortcut.jpg)
+6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
+
+## Access System Restore Quickly
+
+ System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics/"><u>[New] 2024 Approved Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-story-mastery-adjusting-focus-like-a-pro/"><u>[Updated] In 2024, Insta Story Mastery Adjusting Focus Like a Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-your-site-facebook-live-integration-guide/"><u>[Updated] Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/data-defense-on-windows-top-rated-encryption-applications-153-chars/"><u>Data Defense on Windows: Top-Rated Encryption Applications (153 Chars)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/directing-win-credits-to-microsoft-logins/"><u>Directing WIN Credits to MICROSOFT LOGINS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-blaze-2-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Blaze 2 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/legacy-tech-lifeline-atlasos-revival-plan/"><u>Legacy Tech Lifeline: AtlasOS Revival Plan</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50iplus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50i+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-verdict-on-googles-wireless-nest-doorbells-battery-edition-review/"><u>The Ultimate Verdict on Google's Wireless Nest Doorbells - Battery Edition Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-causes-behind-usb-attachment-failure-in-virtualbox/"><u>Unraveling the Causes Behind 'USB Attachment Failure' In VirtualBox</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing-for-2024/"><u>Updated The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

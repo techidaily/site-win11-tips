@@ -1,7 +1,7 @@
 ---
 title: How to Check Your Proxy Server Settings on Windows 11
-date: 2024-09-15T02:27:11.267Z
-updated: 2024-09-22T02:27:41.441Z
+date: 2024-09-30T20:13:27.607Z
+updated: 2024-10-04T00:01:14.392Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  You'll see the proxy server details in the **Edit proxy server** window that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How to Check Your Proxy Server Settings Using Internet Options
 
  The Internet Options menu on Windows allows you to configure internet-related settings on your computer. To view your proxy server settings, follow the below instructions:
@@ -71,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 ![Proxy server section in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-server-section.jpg)
 
  You'll get the details of your proxy server in the **Proxy Server** section.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
 
@@ -91,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 ![Connections server section in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connections-server.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A **Connection Settings** window will crop up where you can view and configure the proxy server settings.
 
 ### 4\. Check Your Proxy Server Settings Using Command-Line Tools
@@ -103,27 +96,20 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 ![Command Prompt with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To check your proxy server settings using PowerShell, launch Windows PowerShell as an administrator (see how to [run Windows PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/)), type the following command, and hit **Enter**.
 
 `Get-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' | findstr ProxyServer`
 
 ![PowerShell window with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  PowerShell will display the proxy server details in the result.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset the WinHTTP Proxy Settings
 
@@ -153,34 +139,56 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
  You've successfully reset the WinINET proxy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Manage Your Proxy Server Settings on Windows
 
  Using a proxy server has numerous benefits, including privacy protection, access to regionally blocked websites, and much more. However, there may be situations when you want to check your proxy server settings.
 
  Whether you want to troubleshoot an internet-related problem or simply want to confirm your connection to a proxy server, you can quickly check your proxy server settings using the above methods.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Have a Proxy Server?
 
  Windows 11 doesn't come with a proxy server built-in, but you can [add your own server](https://www.makeuseof.com/tag/create-online-proxy-server-minutes/) settings to route your internet traffic via your proxy. You can configure a proxy server on your PC using the Settings app.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Should I Set Proxy On or Off?
 
  Whether to enable or disable your proxy server depends on how you want to access the internet. If you want to route your internet data via a proxy server, you should keep the option enabled on your PC. If you don't want to route your internet traffic, you can [turn off your proxy server](https://www.makeuseof.com/windows-11-disable-proxy/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Are Proxy Servers Safe?
 
@@ -194,5 +202,19 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-win11s-leading-free-screen-capture-software-ranked-1-5/"><u>[New] Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-starting-a-sports-network-with-your-mac-for-2024/"><u>[Updated] Starting a Sports Network with Your Mac for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-starting-from-scratch-on-youtube-channel-creation-and-monetization-basics/"><u>2024 Approved Starting From Scratch on Youtube Channel Creation and Monetization Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-saving-strategies-for-gamers/"><u>Cost-Saving Strategies for Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-hacks-for-the-elusive-iphone-x-users-for-2024/"><u>Essential Hacks for the Elusive iPhone X Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-empty-folder-alerts-for-windows-users/"><u>Fixing Empty Folder Alerts for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-forbidden-you-dont-have-permission-to-access-on-this-server-error-on-windows/"><u>How to Fix the “Forbidden: You Don’t Have Permission to Access / On This Server” Error on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieve-peak-meeting-performance-a-detailed-zoom-guide/"><u>In 2024, Achieve Peak Meeting Performance A Detailed Zoom Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-system-security-turning-on-controlled-access-in-windows-11/"><u>Mastering System Security: Turning On Controlled Access in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-c67-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after C67 5G has been deleted.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-gaming-mastering-playstation-1-titles-on-win-with-duckstations-tips/"><u>Transform Your Gaming: Mastering PlayStation 1 Titles on WIN with Duckstation's Tips</u></a></li>
+</ul></div>
 

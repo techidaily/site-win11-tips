@@ -1,7 +1,7 @@
 ---
 title: Revamping the Default Menu with Advanced Move and Copy Options
-date: 2024-09-27T17:41:25.211Z
-updated: 2024-09-28T17:43:11.945Z
+date: 2024-09-27T18:51:08.598Z
+updated: 2024-10-03T19:20:25.760Z
 tags:
   - windows10
   - windows11
@@ -64,22 +64,15 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
@@ -87,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
@@ -110,10 +96,25 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
@@ -124,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Minimize or exit the WinBubble window.
@@ -155,20 +156,20 @@ thumbnail: https://thmb.techidaily.com/69f2f1d0be799b84094434c96c9ff028c4a80dbd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/deal-acquisitions-starting-off-with-profitable-youtube-channel-buys/"><u>[New] Ideal Acquisitions Starting Off with Profitable YouTube Channel Buys</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transform-ordinary-to-outstanding-creating-captivating-square-videos-on-fb/"><u>[Updated] 2024 Approved Transform Ordinary to Outstanding Creating Captivating Square Videos on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-teamsters-shutdown-on-windows-11-10-systems/"><u>Avoiding Teamsters Shutdown on Windows 11, 10 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/balancing-act-comparing-two-essential-windows-metrics/"><u>Balancing Act: Comparing Two Essential Windows Metrics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edge-2023-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge 2023.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965512425-get-the-newest-dell-audio-drivers-quick-and-easy-download-options/"><u>Get the Newest Dell Audio Drivers - Quick and Easy Download Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-successfully-unplug-epic-games-from-your-w11-system/"><u>How to Successfully Unplug Epic Games From Your W11 System</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-video-nine-essential-filters-for-live-streaming/"><u>In 2024, Perfect Your Video Nine Essential Filters for Live Streaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/inside-look-at-tackling-and-fixing-google-chromes-unwanted-black-screen-phenomenon/"><u>Inside Look at Tackling and Fixing Google Chrome's Unwanted Black Screen Phenomenon</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-steps-to-navigate-windows-system-restore-functions/"><u>Simplified Steps to Navigate Windows' System Restore Functions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k-for-2024/"><u>SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x9a-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X9a Location | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-with-windows-11-safe-boot-tips/"><u>Troubleshoot With Windows 11 Safe Boot Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-deactivated-rulesets-in-outlookwindows/"><u>Troubleshooting Deactivated Rulesets in Outlook/Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-bluescreen-mastery-through-11-fixes/"><u>Unraveling Windows 11 Bluescreen: Mastery Through 11 Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[Updated] In 2024, Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[Updated] Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lighting-setup-to-make-your-videos-stand-out/"><u>[Updated] Lighting Setup to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-look-at-huawei-p10-innovation-in-smartphone-technology-for-2024/"><u>A Look at Huawei P10 Innovation in Smartphone Technology for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-1011-ui-with-portable-apps-icons/"><u>Elevate Windows 10/11 UI with Portable Apps Icons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-building-shortcuts-to-uwp-apps-in-windows-11/"><u>Essential Tips: Building Shortcuts to UWP Apps in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-red-magic-9-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Red Magic 9 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-reversal-advanced-tiktok-video-editing-techniques/"><u>New Unleash the Power of Reversal Advanced TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-double-click-quickness-on-pc-three-key-settings/"><u>Optimize Double-Click Quickness on PC: Three Key Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-screen-and-sound-recordings-with-the-updated-windows-11-snipping-tool-max-156/"><u>Optimizing Your Screen & Sound Recordings with the Updated Windows 11 Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-nonexistent-gadget-reference-on-win-11/"><u>Overcoming Nonexistent Gadget Reference on Win 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/permanent-deletion-of-yahoo-mail-a-step-by-step-tutorial/"><u>Permanent Deletion of Yahoo Mail - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/soluciones-efectivas-para-optimizar-la-eficiencia-de-la-codificacion-h265-y-mejorar-el-rendimiento/"><u>Soluciones Efectivas Para Optimizar La Eficiencia De La Codificación H.265 Y Mejorar El Rendimiento</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-overcome-no-server-woes-in-windows-pc-apex-legends-(156-chars/"><u>Top Strategies to Overcome No-Server Woes in Windows PC Apex Legends (<156 Chars)</u></a></li>
 </ul></div>
 

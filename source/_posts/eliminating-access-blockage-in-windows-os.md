@@ -1,7 +1,7 @@
 ---
 title: Eliminating Access Blockage in Windows OS
-date: 2024-09-22T16:04:02.763Z
-updated: 2024-09-28T18:44:51.473Z
+date: 2024-09-27T22:47:34.789Z
+updated: 2024-10-04T00:45:17.702Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  To fix the "you don't have permission to access / on this server" issue on your browser, you need to clear the browser's cache and cookies, enable or disable a VPN, change the DNS, delete your browser history, or disable any proxy network you're using. There may also be a need to reset or reinstall the browser if the major fixes do not work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, Rule Out Server-Side Issues
 
  First, you should verify that the problem isn't coming from the server that hosts the website or webpage you're trying to access. To eliminate this possibility, use another browser on your device and try accessing the website again.
@@ -58,29 +65,22 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Faithie/Depositphotos
 
  Piled-up browsing history and cache overflow could be the primary causes of the error we're discussing. Thus, to fix the "you don't have permission to access / on this server" error, you should first clear your browser's browsing history, cache, and cookies.
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reset Your Browser
 
@@ -102,40 +102,40 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
 Proceed to the next step if either of these changes does not help.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Disable Any Proxy Servers You Are Using
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Ensure the Firewall Isn't Causing the Problem
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix Annoying Browser Errors on Windows
 
@@ -156,18 +156,21 @@ Proceed to the next step if either of these changes does not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>[Updated] Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-turn-filter-keys-on-or-off-on-windows/"><u>4 Ways to Turn Filter Keys On or Off on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-practical-guide-to-resolving-steam-setup-problems-win11-edition/"><u>A Practical Guide to Resolving Steam Setup Problems, Win11 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-functional-automation-rules-on-desktop/"><u>Addressing Non-Functional Automation Rules on Desktop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-window-frame-blackout-restore-taskbar/"><u>Addressing Window Frame Blackout: Restore Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ai-copilot-arrives-on-windows-11-transforming-user-interaction/"><u>AI Copilot Arrives on Windows 11, Transforming User Interaction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/buyer-criticizes-intel-for-misleading-rma-protocol-claims-i9-14900k-processors-from-amazon-and-micro-center-are-not-authentic/"><u>Buyer Criticizes Intel for Misleading RMA Protocol; Claims I9-14900K Processors From Amazon and Micro Center Are Not Authentic</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-typing-experience-with-the-steelseries-keyboard-engine-download/"><u>Enhance Your Typing Experience with the SteelSeries Keyboard Engine Download</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-8-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724765994911-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Pro:詳細な仕様と運用可能性 - 公式リリース</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-you-cant-speak-out-loud-during-a-match-in-destiny-2/"><u>What to Do When You Can’t Speak Out Loud During a Match in Destiny 2?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/zoom-webinar-basics-for-beginners-and-those-new-to-virtual-events-for-2024/"><u>Zoom Webinar Basics for Beginners & Those New to Virtual Events for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-best-lightroom-alternatives-free-and-paid/"><u>[New] 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reate-a-standout-presence-with-youtube-custom-imagery-for-2024/"><u>[New] Create a Standout Presence with YouTube Custom Imagery for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-block-facebook-video-ads/"><u>[New] In 2024, How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stop-video-preview-on-all-platforms-with-yt/"><u>[Updated] Stop Video Preview on All Platforms with YT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-audience-friendly-techniques-for-monitoring-facebook-live/"><u>2024 Approved Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-embark-into-the-best-youtube-vr-content-ever/"><u>2024 Approved Embark Into the Best YouTube VR Content Ever</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-a-streaming-powerhouse-obs-or-wirecast-in-2024/"><u>Choosing a Streaming Powerhouse OBS or Wirecast, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-linguistic-transitions-mastering-windows-hotkey-combinations/"><u>Effortless Linguistic Transitions: Mastering Windows Hotkey Combinations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-blue-screen-error-in-winos/"><u>Eradicating Blue Screen Error in WINOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-gmail-pseudonyms-a-detailed-tutorial/"><u>Mastering the Art of Gmail Pseudonyms: A Detailed Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-file-management-folder-facelift/"><u>Mastering Windows 11 File Management: Folder Facelift</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-aspect-ratio-on-windows-monitors/"><u>Modify Aspect Ratio on Windows Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revoking-read-only-restriction-on-windows-documents/"><u>Revoking Read-Only Restriction on Windows Documents</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-self-scrolling-in-windows-tips-included/"><u>Stop Self-Scrolling in Windows, Tips Included</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-11-update-error-0x800f0922-heres-how-to-fix-it/"><u>What Is the Windows 11 Update Error 0X800f0922? Here's How to Fix It</u></a></li>
 </ul></div>
 

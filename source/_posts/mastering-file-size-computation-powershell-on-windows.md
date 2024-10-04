@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Size Computation: PowerShell on Windows"
-date: 2024-09-21T18:11:48.093Z
-updated: 2024-09-28T17:12:56.003Z
+date: 2024-09-30T23:04:06.439Z
+updated: 2024-10-03T22:27:47.655Z
 tags:
   - windows10
   - windows11
@@ -72,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
@@ -87,22 +87,21 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the Subfolder Size in a Table Format Using PowerShell
 
 ![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.
 
@@ -113,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 2. Next, copy and paste the following command into the PowerShell ISE console. Make sure to change the directory from c:\\ to your preferred directory.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `$targetfolder = 'C:\'  
@@ -138,6 +137,13 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  In the above command, **"?"** is an alias for the **Where-Object** cmdlet, **\-gt, -AND, -It** are comparison operators, and **CreationTime** is a condition. The command checks if the CreationTime of files in the subdirectory falls within the specified date range and shows output only if the condition is satisfied. If you get an error, ensure your date and time format in the command matches the system's format and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get the Folder and Subfolder Size Using PowerShell
 
  File Explorer on Windows can help you calculate the size of any folder and file. However, if you work with multiple large folders or in an organization with hundreds of computers to manage, using PowerShell can help you get things done faster.
@@ -146,25 +152,6 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-8-sites-to-get-free-green-screen-backgrounds-and-footage/"><u>[New] Top 8 Sites to Get Free Green Screen Backgrounds and Footage</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[Updated] 2024 Approved Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-art-of-effective-online-engagement-on-fb/"><u>[Updated] 2024 Approved The Art of Effective Online Engagement on FB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-deleting-items-from-your-youtubeumbers-list-for-2024/"><u>[Updated] Guide Deleting Items From Your YouTube'umbers List for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-optimized-vimeo-video-exporting-apps-for-2024/"><u>[Updated] Optimized Vimeo Video Exporting Apps for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-finding-files-in-windows-11-with-the-search-bar/"><u>Accelerate Finding Files in Windows 11 with the Search Bar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lightened-screen-entry/"><u>In 2024, Lightened Screen Entry</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/low-cost-hardware-obs-optimization-tips-for-2024/"><u>Low-Cost Hardware OBS Optimization Tips for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-your-digital-experience-with-active-windows-11-notifications/"><u>Maximizing Your Digital Experience with Active Windows 11 Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-update-failures-strategies-for-error-0x30017/"><u>Overcoming Windows Update Failures: Strategies for Error 0X30017</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-frozen-wastebin-symbol-on-win11/"><u>Reactivating Frozen Wastebin Symbol on Win11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/silliest-stories-on-twitter-for-2024/"><u>Silliest Stories on Twitter for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strengthening-game-accessibility-winning-over-ea-errors/"><u>Strengthening Game Accessibility: Winning Over EA Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/verifying-microphone-function-on-windows/"><u>Verifying Microphone Function on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +159,23 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-blueprint-accessing-facebook-status-videos-for-2024/"><u>[Updated] Step-by-Step Blueprint Accessing Facebook Status Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-xr-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone XR Without iTunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-differences-unveiling-the-separate-paths-of-local-and-microsoft-windows-login/"><u>Dissecting Differences: Unveiling The Separate Paths of Local & Microsoft Windows Login</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-rainbow-six-extraction-from-freezing-on-your-desktop/"><u>Effective Solutions for Preventing Rainbow Six Extraction From Freezing on Your Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-the-best-replacement-apps-for-windows-11/"><u>Explore the Best Replacement Apps for Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Huawei Bootloader Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quick-guide-to-lol-gaming-broadcasts-3-methods/"><u>In 2024, Quick Guide to LOL Gaming Broadcasts (3 Methods)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/iosandroid6/"><u>IOS/Android向けにおすすめ!動画を元にした最高音質アプリベスト6選び</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-energy-saving-states-in-windows-os/"><u>Mastering Energy-Saving States in Windows OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/overcome-video-tiny-hiccups-not-visible-for-2024/"><u>Overcome Video Tiny Hiccups Not Visible for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/procedure-restore-windows-default-energy-profile/"><u>Procedure: Restore Windows’ Default Energy Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absent-pin-problems-post-windows-11-system-glitch/"><u>Resolving Absent PIN Problems Post-Windows 11 System Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-your-settings-fix-for-the-vanished-enhancement-tab-in-windows-11/"><u>Restore Your Settings: Fix for the Vanished Enhancement Tab in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-screen-capture-apps-a-guide-for-educators/"><u>The Best Screen Capture Apps A Guide for Educators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-windows-in-windows-11/"><u>Unveiling Hidden Windows in Windows 11</u></a></li>
+</ul></div>
+

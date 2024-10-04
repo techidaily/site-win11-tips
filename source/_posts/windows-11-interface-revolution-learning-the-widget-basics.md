@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Interface Revolution: Learning the Widget Basics"
-date: 2024-09-27T16:59:27.661Z
-updated: 2024-09-28T17:04:01.739Z
+date: 2024-10-01T23:42:55.522Z
+updated: 2024-10-03T18:49:41.420Z
 tags:
   - windows10
   - windows11
@@ -65,10 +65,10 @@ Follow the below steps to add widgets:
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To change the size of widgets, follow the below steps:
@@ -78,23 +78,9 @@ To change the size of widgets, follow the below steps:
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
@@ -112,18 +98,25 @@ To change the size of widgets, follow the below steps:
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -135,10 +128,10 @@ To expand the widgets panel, follow the below steps:
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
@@ -148,6 +141,13 @@ To expand the widgets panel, follow the below steps:
  If you stay signed in, Microsoft will collect data and learn your usage pattern to provide you with the best experience. Individual widgets can also collect data.
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
@@ -168,24 +168,24 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easily-transform-youtube-music-into-mp3-for-mac-os/"><u>[New] 2024 Approved Easily Transform YouTube Music Into MP3 for Mac OS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mac-users-adding-the-social-app-snapchat/"><u>[New] In 2024, Mac Users Adding the Social App Snapchat</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-democracy-dynamics-leading-electoral-simulators/"><u>[Updated] 2024 Approved Democracy Dynamics Leading Electoral Simulators</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-harmonizing-tracks-understanding-crossfades-for-2024/"><u>[Updated] Harmonizing Tracks Understanding Crossfades for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-ways-to-open-the-remote-desktop-connection-tool-in-windows-11/"><u>10 Ways to Open the Remote Desktop Connection Tool in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>2024 Approved Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-live-broadcasts-a-step-by-step-guide-for-fb-users/"><u>2024 Approved Mastering Live Broadcasts A Step-by-Step Guide for FB Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-a-missing-bluetooth-option-in-windows-11/"><u>9 Ways to Fix a Missing Bluetooth Option in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ace-your-way-through-windows-with-mouseclicklock-techniques/"><u>Ace Your Way Through Windows with MouseClickLock Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-balanced-screen-viewing-a-step-by-step-guide-to-90-degree-rotation/"><u>Achieving Balanced Screen Viewing: A Step-by-Step Guide to 90-Degree Rotation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-the-speaker-in-microsofts-new-era/"><u>Activating the Speaker in Microsoft's New Era</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-and-resolving-msvcr110dll-lack/"><u>Addressing and Resolving MSVCR110.dll Lack</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-discords-non-display-errors-on-pc/"><u>Addressing Discord's Non-Display Errors on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-update-problem-windows-11-error-code-0x800f0922/"><u>Addressing Update Problem: Windows 11 Error Code 0X800f0922</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blue-screen-errors-finding-their-windows-footprint/"><u>Blue Screen Errors: Finding Their Windows Footprint</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easing-excessive-load-on-chatgpt-windows/"><u>Easing Excessive Load on ChatGPT (Windows)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embrace-sound-narratives-on-ipadiphone-downloading-apple-podcasts/"><u>Embrace Sound Narratives on iPad/iPhone Downloading Apple Podcasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transcribe-speech-absolutely-gratis/"><u>In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-advantages-of-using-flash-carts-over-emulation-software-for-retro-gaming-enthusiasts/"><u>The Advantages of Using Flash Carts over Emulation Software for Retro Gaming Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-detailed-steps-for-creating-professional-hdr-images/"><u>[Updated] 2024 Approved Detailed Steps for Creating Professional HDR Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[Updated] 2024 Approved Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-captivating-audience-leading-5-tiktok-font-generators-of-2023-for-2024/"><u>[Updated] Captivating Audience Leading 5 TikTok Font Generators of 2023 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pixel-personality-through-tunes-and-sounds-for-2024/"><u>[Updated] Pixel Personality Through Tunes and Sounds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-amusement-master-memes-with-kapwing/"><u>2024 Approved The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assemble-media-pieces-in-youtube-sorted-views-for-2024/"><u>Assemble Media Pieces in YouTube Sorted Views for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-12r-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus 12R Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-bring-back-the-original-file-view/"><u>How To Bring Back the Original File View</u></a></li>
+<li><a href="https://article-tips.techidaily.com/picsart-tips-infusing-life-with-facial-motion-blur-for-2024/"><u>Picsart Tips Infusing Life with Facial Motion Blur for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-limits-top-4-software-for-exceeding-windows-maxed-volume/"><u>Pushing Limits: Top 4 Software for Exceeding Windows’ Maxed Volume</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-requirements-not-met-error-on-windows-oses-10and11/"><u>Resolving Requirements Not Met Error on Windows OSes 10&11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/samsungs-solution-for-device-synergy-flow-streamlined/"><u>Samsung's Solution for Device Synergy - Flow Streamlined</u></a></li>
+<li><a href="https://win-community.techidaily.com/speedy-techniques-to-bulk-transform-mp3-audio-to-wav-files/"><u>Speedy Techniques to Bulk Transform MP3 Audio to WAV Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-remedying-unsettable-windows-nvidia-configs/"><u>Strategies for Remedying Unsettable Windows Nvidia Configs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-defeat-windows-error-0xfffffff/"><u>Strategies to Defeat Windows' Error 0xFFFFFFF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-creating-windows-11-shortcuts-for-uwp/"><u>Streamlining Tasks: Creating Windows 11 Shortcuts for UWP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/syncing-ios-calendars-seamlessly-on-your-windoze-1011-pc/"><u>Syncing iOS Calendars Seamlessly on Your Windoze 10/11 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/your-first-steps-in-windows-accessibility-features/"><u>Your First Steps in Windows Accessibility Features</u></a></li>
 </ul></div>
 
